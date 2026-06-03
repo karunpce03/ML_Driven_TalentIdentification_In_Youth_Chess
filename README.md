@@ -44,6 +44,7 @@ scripts/              Reusable Python scripts, if applicable
 
 
 
+---
 ## Data Sources
 
 The project uses publicly available chess data from the following sources:
@@ -56,6 +57,7 @@ The project uses publicly available chess data from the following sources:
 
 Chess-Results and the All India Chess Federation website were retained only for context and verification, not as primary modelling inputs.
 
+---
 
 ## Final Reproducible Analysis
 
