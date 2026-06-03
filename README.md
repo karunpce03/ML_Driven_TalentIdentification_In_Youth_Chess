@@ -58,7 +58,6 @@ Chess-Results and the All India Chess Federation website were retained only for 
 
 ---
 
----
 
 ## Main Workflow
 
@@ -91,7 +90,9 @@ The project workflow follows these stages:
 
 #### Final Reproducible Analysis
 
-The final report results are reproduced from: notebooks/04_final_modelling/09_Modelling_and_Hypothesis_Testing_FROZEN_SAMPLE_1000.ipynb
+The final report results are reproduced from: 
+1. notebooks/04_final_modelling/09_Modelling_and_Hypothesis_Testing_FROZEN_SAMPLE_1000.ipynb
+
 ---
 
 
@@ -128,6 +129,7 @@ The project was developed using Python and Jupyter notebooks. Major libraries/pa
 ---
 
 ## Author
+
 
 **Arun Kumar**  
 QM640: Data Analytics Capstone  
