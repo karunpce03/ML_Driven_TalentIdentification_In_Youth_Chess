@@ -83,6 +83,8 @@ The project workflow follows these stages:
 12. Export report-ready tables and figures.
 
 
+## Key Notebooks
+
 | Notebook                                                                 | Purpose                                                                 |
 | ------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 | `01_build_fide_monthly_history_and_player_pool.ipynb`                    | Builds cleaned monthly FIDE Standard rating history and player pool     |
@@ -127,8 +129,7 @@ The project was developed using Python and Jupyter notebooks. Major libraries/pa
 **Arun Kumar**  
 QM640: Data Analytics Capstone  
 Walsh College  
-May 2026
-EOF
+June 2026
 
 
 
