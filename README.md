@@ -131,7 +131,7 @@ The project was developed using Python and Jupyter notebooks. Major libraries/pa
 
 ## Author
 
-**Arun Kumar**
+**Arun Kumar**  
 QM640: Data Analytics Capstone  
 Walsh College  
 June 2026
