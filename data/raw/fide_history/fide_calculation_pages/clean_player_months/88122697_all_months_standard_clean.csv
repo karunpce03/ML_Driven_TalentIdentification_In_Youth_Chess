@@ -1,0 +1,32 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88122697,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1606,1477,0.0,3,-0.99,40,-39.6,"Diproneel, Barman",,1636.0,False,IND,0.0,1,-0.29,40,-11.6
+88122697,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1606,1477,0.0,3,-0.99,40,-39.6,"Rudranil, Choudhury",,1678.0,False,IND,0.0,1,-0.24,40,-9.6
+88122697,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1606,1477,0.0,3,-0.99,40,-39.6,"Gurjas, Singh Bagga",,1503.0,False,IND,0.0,1,-0.46,40,-18.4
+88122697,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1654,1437,0.5,4,-0.49,40,-19.6,"Aharsi, Ghosh",,1651.0,False,IND,0.5,1,0.27,40,10.8
+88122697,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1654,1437,0.5,4,-0.49,40,-19.6,"Bivor, Adak",,1837.0,True,IND,0.0,1,-0.08,40,-3.2
+88122697,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1654,1437,0.5,4,-0.49,40,-19.6,"Sunetra, Dey",,1651.0,False,IND,0.0,1,-0.23,40,-9.2
+88122697,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1654,1437,0.5,4,-0.49,40,-19.6,"Moksith, Pradhan",,1475.0,False,IND,0.0,1,-0.45,40,-18.0
+88122697,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1650,1417,1.0,3,0.35,40,14.0,"Narendra, Agarwal",,1692.0,False,IND,0.5,1,0.33,40,13.2
+88122697,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1650,1417,1.0,3,0.35,40,14.0,"Neelabhro, Bandyopadhyay",,1725.0,False,IND,0.0,1,-0.14,40,-5.6
+88122697,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1650,1417,1.0,3,0.35,40,14.0,"Pathikrit, Baruah",,1532.0,False,IND,0.5,1,0.16,40,6.4
+88122697,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1532,1431,3.5,5,1.67,40,66.8,"Shivay, Singh",,1540.0,False,IND,0.5,1,0.15,40,6.0
+88122697,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1532,1431,3.5,5,1.67,40,66.8,"Tejas, Tiwari",,1462.0,False,IND,1.0,1,0.54,40,21.6
+88122697,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1532,1431,3.5,5,1.67,40,66.8,"Namit, Goel",,1474.0,False,IND,1.0,1,0.56,40,22.4
+88122697,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1532,1431,3.5,5,1.67,40,66.8,"Devanarayanan, Kalliyath",,1539.0,False,IND,0.0,1,-0.35,40,-14.0
+88122697,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1532,1431,3.5,5,1.67,40,66.8,"Ayansh, Singh",,1644.0,False,IND,1.0,1,0.77,40,30.8
+88122697,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1524,1498,0.0,1,-0.46,40,-18.4,"Aayan, Gupta",,1524.0,False,IND,0.0,1,-0.46,40,-18.4
+88122697,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1560,1480,4.5,7,1.77,40,70.8,"Arohan, Dey",,1524.0,False,IND,1.0,1,0.56,40,22.4
+88122697,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1560,1480,4.5,7,1.77,40,70.8,"Anvita, Sathi",,1556.0,False,IND,0.0,1,-0.4,40,-16.0
+88122697,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1560,1480,4.5,7,1.77,40,70.8,"Baghel, Sagar",,1582.0,False,IND,1.0,1,0.64,40,25.6
+88122697,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1560,1480,4.5,7,1.77,40,70.8,"Ansuman, Bhatta",,1543.0,False,IND,0.0,1,-0.41,40,-16.4
+88122697,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1560,1480,4.5,7,1.77,40,70.8,"Sreeram, Maheswar",,1575.0,False,IND,1.0,1,0.63,40,25.2
+88122697,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1560,1480,4.5,7,1.77,40,70.8,"Sulaxan, K",,1593.0,False,SRI,1.0,1,0.65,40,26.0
+88122697,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1560,1480,4.5,7,1.77,40,70.8,"Himanshu, Kumar Mallick",,1549.0,False,IND,0.5,1,0.1,40,4.0
+88122697,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1466,1551,5.5,8,0.58,40,23.2,"Gajjar, Dewarth",,1431.0,False,IND,0.5,1,-0.16,40,-6.4
+88122697,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1466,1551,5.5,8,0.58,40,23.2,"Lakshith, Gutti",,1439.0,False,IND,1.0,1,0.35,40,14.0
+88122697,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1466,1551,5.5,8,0.58,40,23.2,"Ahilaan, Baishya",,1460.0,False,IND,1.0,1,0.38,40,15.2
+88122697,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1466,1551,5.5,8,0.58,40,23.2,"Paarvan, S A",,1466.0,False,IND,0.5,1,-0.12,40,-4.8
+88122697,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1466,1551,5.5,8,0.58,40,23.2,"Nishanth, M S",,1446.0,False,IND,1.0,1,0.36,40,14.4
+88122697,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1466,1551,5.5,8,0.58,40,23.2,"Vedhik, Viswanath",,1478.0,False,IND,0.5,1,-0.1,40,-4.0
+88122697,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1466,1551,5.5,8,0.58,40,23.2,"Samriddh, Khare",,1549.0,False,IND,0.0,1,-0.5,40,-20.0
+88122697,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1466,1551,5.5,8,0.58,40,23.2,"Aadvik, Bhushan",,1457.0,False,IND,1.0,1,0.37,40,14.8

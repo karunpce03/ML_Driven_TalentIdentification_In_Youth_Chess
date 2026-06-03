@@ -1,0 +1,15 @@
+variable,category,count,percentage
+sex,M,822,82.2
+sex,F,178,17.8
+title,Missing,989,98.9
+title,FM,4,0.4
+title,CM,3,0.3
+title,WFM,3,0.3
+title,IM,1,0.1
+rating_band,1400-1599,862,86.2
+rating_band,1600-1799,107,10.7
+rating_band,1800-1999,20,2.0
+rating_band,2000+,10,1.0
+rating_band,1200-1399,1,0.1
+has_calculation_data,1,629,62.9
+has_calculation_data,0,371,37.1

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33477060,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1630,1458,0.5,4,-0.61,40,-24.4,"Revlin, Ram R H",,1647.0,False,IND,0.0,1,-0.25,40,-10.0
+33477060,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1630,1458,0.5,4,-0.61,40,-24.4,"Sudarsan, L P",,1670.0,False,IND,0.5,1,0.27,40,10.8
+33477060,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1630,1458,0.5,4,-0.61,40,-24.4,Raghunandan,,1655.0,False,IND,0.0,1,-0.25,40,-10.0
+33477060,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1630,1458,0.5,4,-0.61,40,-24.4,"Vishwajith, S",,1549.0,False,IND,0.0,1,-0.38,40,-15.2
+33477060,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1595,1458,0.5,1,0.18,40,7.2,"Samhith, M",,1595.0,False,IND,0.5,1,0.18,40,7.2

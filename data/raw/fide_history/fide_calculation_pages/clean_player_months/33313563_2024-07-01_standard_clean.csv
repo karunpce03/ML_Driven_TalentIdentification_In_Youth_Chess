@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33313563,2024-07-01,0,UP State U-13 Chess Championship-2024-25 (Open),Bijnor IND,2024-06-07,2024-06-09,1581,1682,2.5,4,-0.01,40,-0.4,"Jayesh, Kishor Arya",,1463.0,False,IND,0.5,1,-0.28,40,-11.2
+33313563,2024-07-01,0,UP State U-13 Chess Championship-2024-25 (Open),Bijnor IND,2024-06-07,2024-06-09,1581,1682,2.5,4,-0.01,40,-0.4,"Ayaan, Trikha",,1601.0,False,IND,0.0,1,-0.61,40,-24.4
+33313563,2024-07-01,0,UP State U-13 Chess Championship-2024-25 (Open),Bijnor IND,2024-06-07,2024-06-09,1581,1682,2.5,4,-0.01,40,-0.4,"Akshat, Kumar",,1468.0,False,IND,1.0,1,0.23,40,9.2
+33313563,2024-07-01,0,UP State U-13 Chess Championship-2024-25 (Open),Bijnor IND,2024-06-07,2024-06-09,1581,1682,2.5,4,-0.01,40,-0.4,"Vidit, Sethi",,1792.0,False,IND,1.0,1,0.65,40,26.0

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+537031988,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,,,0.0,2,0.0,827,,"Amrit, Raunak",,1757.0,False,IND,0.0,1,0.0,,0.0
+537031988,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,,,0.0,2,0.0,827,,"Ankita, Raj",,1496.0,False,IND,0.0,1,0.0,,0.0
+537031988,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,1.0,3,0.0,1436,,"Saurabh, Kumar",,1607.0,False,IND,0.0,1,0.0,,0.0
+537031988,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,1.0,3,0.0,1436,,"Fazal, Aziz Khan",,1639.0,False,IND,0.0,1,0.0,,0.0
+537031988,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,1.0,3,0.0,1436,,"Suvam, Ghosh",,1436.0,False,IND,1.0,1,0.0,,0.0
+537031988,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,,,0.5,3,0.0,1227,,"Raj, Aryan",,1630.0,False,IND,0.0,1,0.0,,0.0
+537031988,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,,,0.5,3,0.0,1227,,"Aditya, Roy",,1450.0,False,IND,0.0,1,0.0,,0.0
+537031988,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,,,0.5,3,0.0,1227,,"Shreya, Kumari Gupta",,1420.0,False,IND,0.5,1,0.0,,0.0
+537031988,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1607.0,1457.0,0.0,3,-0.91,40,-36.4,"Akash, Srivastav",,1689.0,False,IND,0.0,1,-0.21,40.0,-8.4
+537031988,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1607.0,1457.0,0.0,3,-0.91,40,-36.4,"Samneet, Munde",,1582.0,False,IND,0.0,1,-0.33,40.0,-13.2
+537031988,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1607.0,1457.0,0.0,3,-0.91,40,-36.4,"Siddharth, Shandilya",,1549.0,False,IND,0.0,1,-0.37,40.0,-14.8

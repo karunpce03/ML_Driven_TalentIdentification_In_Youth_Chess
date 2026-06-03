@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88128377,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1596,1460,0.0,3,-0.99,40,-39.6,"Eishaanav, Chakraborty",,1496.0,False,IND,0.0,1,-0.45,40,-18.0
+88128377,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1596,1460,0.0,3,-0.99,40,-39.6,"Jion, Ghosh",,1735.0,False,IND,0.0,1,-0.17,40,-6.8
+88128377,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1596,1460,0.0,3,-0.99,40,-39.6,"Shrihaan, Barman",,1556.0,False,IND,0.0,1,-0.37,40,-14.8
