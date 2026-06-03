@@ -78,7 +78,6 @@ The project workflow follows these stages:
 12. Export report-ready tables and figures.
 ---
 
----
 
 ## Key Notebooks
 
@@ -92,12 +91,9 @@ The project workflow follows these stages:
 
 #### Final Reproducible Analysis
 
-The final report results are reproduced from:
-
-notebooks/04_final_modelling/09_Modelling_and_Hypothesis_Testing_FROZEN_SAMPLE_1000.ipynb
+The final report results are reproduced from: notebooks/04_final_modelling/09_Modelling_and_Hypothesis_Testing_FROZEN_SAMPLE_1000.ipynb
 ---
 
----
 
 ## Current Status
 
@@ -117,7 +113,6 @@ Completed components include:
 - GitHub reproducibility documentation
 ---
 
----
 
 ## Technology Used
 
@@ -129,7 +124,6 @@ The project was developed using Python and Jupyter notebooks. Major libraries/pa
 - statsmodels for nested OLS regression and ANOVA hypothesis testing
 - matplotlib and seaborn for EDA visualisation
 
----
 
 ---
 
