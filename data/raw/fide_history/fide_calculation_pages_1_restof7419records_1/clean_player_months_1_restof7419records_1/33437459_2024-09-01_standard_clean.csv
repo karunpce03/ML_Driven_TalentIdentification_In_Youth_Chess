@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33437459,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1565,1444,1.0,4,-0.41,40,-16.4,"Yuvanesh, A",,1776.0,False,IND,0.0,1,-0.12,40,-4.8
+33437459,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1565,1444,1.0,4,-0.41,40,-16.4,"Vishwa, E",,1422.0,False,IND,1.0,1,0.47,40,18.8
+33437459,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1565,1444,1.0,4,-0.41,40,-16.4,"Dhananjay, Jagadeesan",,1543.0,False,IND,0.0,1,-0.36,40,-14.4
+33437459,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1565,1444,1.0,4,-0.41,40,-16.4,"Muthu, Vignesh G",,1517.0,False,IND,0.0,1,-0.4,40,-16.0

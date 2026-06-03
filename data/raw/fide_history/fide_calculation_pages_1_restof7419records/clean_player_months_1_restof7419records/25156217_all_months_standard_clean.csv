@@ -1,0 +1,24 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25156217,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1604.0,1425.0,0.0,2,-0.54,40,-21.6,"Nishanthini, U",,1578.0,False,IND,0.0,1,-0.3,40.0,-12.0
+25156217,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1604.0,1425.0,0.0,2,-0.54,40,-21.6,"Trisha, B",,1630.0,False,IND,0.0,1,-0.24,40.0,-9.6
+25156217,2024-06-01,0,Tamil Nadu State Under 17 Girls FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1568.0,1403.0,1.0,4,-0.21,40,-8.4,"Sahana, Shainsha",,1791.0,False,IND,0.0,1,-0.09,40.0,-3.6
+25156217,2024-06-01,0,Tamil Nadu State Under 17 Girls FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1568.0,1403.0,1.0,4,-0.21,40,-8.4,"Deepthaashri, Ravi Ganesh",,1496.0,False,IND,1.0,1,0.63,40.0,25.2
+25156217,2024-06-01,0,Tamil Nadu State Under 17 Girls FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1568.0,1403.0,1.0,4,-0.21,40,-8.4,"Madhavi, Sri V",,1480.0,False,IND,0.0,1,-0.39,40.0,-15.6
+25156217,2024-06-01,0,Tamil Nadu State Under 17 Girls FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1568.0,1403.0,1.0,4,-0.21,40,-8.4,"Priyavarsini, S",,1505.0,False,IND,0.0,1,-0.36,40.0,-14.4
+25156217,2024-06-01,0,Tamil Nadu State Under-25 Girls Chess Championships 2024,Panruti IND,2024-05-22,2024-05-26,1426.0,1403.0,1.5,3,0.09,40,3.6,"Aligi, Amrutha Hemal",,1405.0,False,IND,1.0,1,0.5,40.0,20.0
+25156217,2024-06-01,0,Tamil Nadu State Under-25 Girls Chess Championships 2024,Panruti IND,2024-05-22,2024-05-26,1426.0,1403.0,1.5,3,0.09,40,3.6,"Lohita, V",,1444.0,False,IND,0.0,1,-0.44,40.0,-17.6
+25156217,2024-06-01,0,Tamil Nadu State Under-25 Girls Chess Championships 2024,Panruti IND,2024-05-22,2024-05-26,1426.0,1403.0,1.5,3,0.09,40,3.6,"Pratibha, S",,1428.0,False,IND,0.5,1,0.03,40.0,1.2
+25156217,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,,,0.0,3,0.0,828,,"Sam, Yedidiah S",,1745.0,False,IND,0.0,1,0.0,,0.0
+25156217,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,,,0.0,3,0.0,828,,"Akshaya, Vignesh M",,1559.0,False,IND,0.0,1,0.0,,0.0
+25156217,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,,,0.0,3,0.0,828,,"Danish, S V",,1581.0,False,IND,0.0,1,0.0,,0.0
+25156217,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,,,1.0,4,0.0,1249,,"Hariharan, Ayyar R",,1465.0,False,IND,0.0,1,0.0,,0.0
+25156217,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,,,1.0,4,0.0,1249,,"Kola, Akshay",,1421.0,False,IND,1.0,1,0.0,,0.0
+25156217,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,,,1.0,4,0.0,1249,,"Anirudh, P B",,1461.0,False,IND,0.0,1,0.0,,0.0
+25156217,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,,,1.0,4,0.0,1249,,"Vijayakumar, Vidvath Bharadwaj",,1422.0,False,IND,0.0,1,0.0,,0.0
+25156217,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,,,3.0,7,0.0,1441,,"Annamalai, Yashvasin",,1483.0,False,IND,1.0,1,0.0,,0.0
+25156217,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,,,3.0,7,0.0,1441,,"Manish, M",,1563.0,False,IND,0.0,1,0.0,,0.0
+25156217,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,,,3.0,7,0.0,1441,,"Shritej, Sarabesh S",,1452.0,False,IND,0.5,1,0.0,,0.0
+25156217,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,,,3.0,7,0.0,1441,,"Shyam, A",,1486.0,False,IND,1.0,1,0.0,,0.0
+25156217,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,,,3.0,7,0.0,1441,,"Jhanvi, Venkatesh",,1490.0,False,IND,0.5,1,0.0,,0.0
+25156217,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,,,3.0,7,0.0,1441,,"Rithul, Sabarish K Ch",,1483.0,False,IND,0.0,1,0.0,,0.0
+25156217,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,,,3.0,7,0.0,1441,,"Murali, Krishna Reddy P",,1477.0,False,IND,0.0,1,0.0,,0.0

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33370109,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1814,2091,7.5,11,-1.5,40,-60.0,"Pazhany, Kaushal Kohli",,1691,True,IND,1.0,1,0.08,40,3.2
+33370109,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1814,2091,7.5,11,-1.5,40,-60.0,"Vaibhav, Nema",,1787,False,IND,0.0,1,-0.86,40,-34.4
+33370109,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1814,2091,7.5,11,-1.5,40,-60.0,"Aabhas, Kumar Srivastava",,1691,True,IND,1.0,1,0.08,40,3.2
+33370109,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1814,2091,7.5,11,-1.5,40,-60.0,"Adhithya, B",,1781,False,IND,1.0,1,0.14,40,5.6
+33370109,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1814,2091,7.5,11,-1.5,40,-60.0,"Ashwinth, Michael",,1819,False,IND,1.0,1,0.17,40,6.8
+33370109,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1814,2091,7.5,11,-1.5,40,-60.0,"Arnav, Mahesh Koli",,1897,False,IND,0.0,1,-0.75,40,-30.0
+33370109,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1814,2091,7.5,11,-1.5,40,-60.0,"Richard, Solomon M",,1793,False,IND,1.0,1,0.15,40,6.0
+33370109,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1814,2091,7.5,11,-1.5,40,-60.0,"Goutham, Ramesh",,1853,False,IND,1.0,1,0.2,40,8.0
+33370109,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1814,2091,7.5,11,-1.5,40,-60.0,"Jaidambareesh, N R",,2102,False,IND,0.5,1,0.02,40,0.8
+33370109,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1814,2091,7.5,11,-1.5,40,-60.0,"Puneet, Verma",,1691,True,IND,0.0,1,-0.92,40,-36.8
+33370109,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1814,2091,7.5,11,-1.5,40,-60.0,"Anirudh, R",,1845,False,IND,1.0,1,0.19,40,7.6

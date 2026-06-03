@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48778656,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1547,1428,2.0,4,0.59,40,23.6,"Darshan, Rajmohan",,1578.0,False,IND,1.0,1,0.7,40,28.0
+48778656,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1547,1428,2.0,4,0.59,40,23.6,"Al Darwashi, Usama",,1705.0,False,OMA,0.5,1,0.33,40,13.2
+48778656,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1547,1428,2.0,4,0.59,40,23.6,"Niyola, Pinto",,1408.0,False,IND,0.0,1,-0.53,40,-21.2
+48778656,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1547,1428,2.0,4,0.59,40,23.6,"Al Khadouri, Sultan",,1495.0,False,OMA,0.5,1,0.09,40,3.6

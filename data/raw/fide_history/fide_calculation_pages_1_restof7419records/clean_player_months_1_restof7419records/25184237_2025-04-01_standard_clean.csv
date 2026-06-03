@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25184237,2025-04-01,0,PILSEN OPEN 2025 A - GM round robin tournament,Plzen CZE,2025-03-15,2025-03-22,2395,2429,3.0,9,-1.93,10,-19.3,"Otsuka, Shou",c,2323.0,False,JPN,1.0,1,0.36,10,3.6
+25184237,2025-04-01,0,PILSEN OPEN 2025 A - GM round robin tournament,Plzen CZE,2025-03-15,2025-03-22,2395,2429,3.0,9,-1.93,10,-19.3,"Mattenberger, Matthias",f,2338.0,False,SUI,0.0,1,-0.62,10,-6.2
+25184237,2025-04-01,0,PILSEN OPEN 2025 A - GM round robin tournament,Plzen CZE,2025-03-15,2025-03-22,2395,2429,3.0,9,-1.93,10,-19.3,"Song, Yuxin",m wg,2367.0,False,CHN,0.0,1,-0.59,10,-5.9
+25184237,2025-04-01,0,PILSEN OPEN 2025 A - GM round robin tournament,Plzen CZE,2025-03-15,2025-03-22,2395,2429,3.0,9,-1.93,10,-19.3,"Pacher, Milan",g,2336.0,False,SVK,0.0,1,-0.63,10,-6.3
+25184237,2025-04-01,0,PILSEN OPEN 2025 A - GM round robin tournament,Plzen CZE,2025-03-15,2025-03-22,2395,2429,3.0,9,-1.93,10,-19.3,"Zhao, Yuanhe",m,2466.0,False,CHN,0.0,1,-0.45,10,-4.5
+25184237,2025-04-01,0,PILSEN OPEN 2025 A - GM round robin tournament,Plzen CZE,2025-03-15,2025-03-22,2395,2429,3.0,9,-1.93,10,-19.3,"Krishna, C R G",m,2418.0,False,IND,0.5,1,-0.02,10,-0.2
+25184237,2025-04-01,0,PILSEN OPEN 2025 A - GM round robin tournament,Plzen CZE,2025-03-15,2025-03-22,2395,2429,3.0,9,-1.93,10,-19.3,"Neuman, Petr",g,2421.0,False,CZE,0.5,1,-0.01,10,-0.1
+25184237,2025-04-01,0,PILSEN OPEN 2025 A - GM round robin tournament,Plzen CZE,2025-03-15,2025-03-22,2395,2429,3.0,9,-1.93,10,-19.3,"Petr, Martin",g,2474.0,False,CZE,0.5,1,0.06,10,0.6
+25184237,2025-04-01,0,PILSEN OPEN 2025 A - GM round robin tournament,Plzen CZE,2025-03-15,2025-03-22,2395,2429,3.0,9,-1.93,10,-19.3,"Kuegel, Tobias",m,2409.0,False,GER,0.5,1,-0.03,10,-0.3

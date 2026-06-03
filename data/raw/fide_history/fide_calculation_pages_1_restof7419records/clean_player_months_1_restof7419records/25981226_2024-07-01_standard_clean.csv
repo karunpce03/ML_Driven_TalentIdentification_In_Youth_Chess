@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25981226,2024-07-01,0,Mitcham International 3 Day Congress - Open,Mitcham ENG,2024-05-29,2024-05-31,1700,1709,2.0,3,0.38,40,15.2,"Saxena, Advik",,1518.0,False,ENG,1.0,1,0.25,40,10.0
+25981226,2024-07-01,0,Mitcham International 3 Day Congress - Open,Mitcham ENG,2024-05-29,2024-05-31,1700,1709,2.0,3,0.38,40,15.2,"Kapitanski, Furion",,1474.0,False,BUL,1.0,1,0.21,40,8.4
+25981226,2024-07-01,0,Mitcham International 3 Day Congress - Open,Mitcham ENG,2024-05-29,2024-05-31,1700,1709,2.0,3,0.38,40,15.2,"Christiansen, Johan-Sebastian",g,2109.0,True,NOR,0.0,1,-0.08,40,-3.2
+25981226,2024-07-01,0,London Chess League FIDE Weekender - May 2024,London ENG,2024-05-31,2024-06-02,1852,1709,2.0,5,0.44,40,17.6,"Gevorgyan, Albert R.",,1929.0,False,ARM,0.5,1,0.28,40,11.2
+25981226,2024-07-01,0,London Chess League FIDE Weekender - May 2024,London ENG,2024-05-31,2024-06-02,1852,1709,2.0,5,0.44,40,17.6,"Bryant, Harry",,1909.0,False,ENG,0.0,1,-0.24,40,-9.6
+25981226,2024-07-01,0,London Chess League FIDE Weekender - May 2024,London ENG,2024-05-31,2024-06-02,1852,1709,2.0,5,0.44,40,17.6,"Leung, Hao Ran",,1872.0,False,HKG,0.0,1,-0.28,40,-11.2
+25981226,2024-07-01,0,London Chess League FIDE Weekender - May 2024,London ENG,2024-05-31,2024-06-02,1852,1709,2.0,5,0.44,40,17.6,"Ding, Yiwen",,1806.0,False,ENG,0.5,1,0.13,40,5.2
+25981226,2024-07-01,0,London Chess League FIDE Weekender - May 2024,London ENG,2024-05-31,2024-06-02,1852,1709,2.0,5,0.44,40,17.6,"Munadi, Khairul",,1746.0,False,ENG,1.0,1,0.55,40,22.0
+25981226,2024-07-01,0,Southall FIDE Congress 22-23 June - U2300,London ENG,2024-06-22,2024-06-23,1818,1727,0.0,4,-1.56,40,-62.4,"Pereslavtsev, Alexandr",,1961.0,False,ENG,0.0,1,-0.21,40,-8.4
+25981226,2024-07-01,0,Southall FIDE Congress 22-23 June - U2300,London ENG,2024-06-22,2024-06-23,1818,1727,0.0,4,-1.56,40,-62.4,"Baer, Bruce L",,1930.0,False,ENG,0.0,1,-0.24,40,-9.6
+25981226,2024-07-01,0,Southall FIDE Congress 22-23 June - U2300,London ENG,2024-06-22,2024-06-23,1818,1727,0.0,4,-1.56,40,-62.4,"Jones, Gabriel",,1664.0,False,ENG,0.0,1,-0.59,40,-23.6
+25981226,2024-07-01,0,Southall FIDE Congress 22-23 June - U2300,London ENG,2024-06-22,2024-06-23,1818,1727,0.0,4,-1.56,40,-62.4,"Veeturi, Yashvardhan",,1716.0,False,ENG,0.0,1,-0.52,40,-20.8
+25981226,2024-07-01,0,Southall FIDE Congress 22-23 June - U1800,London ENG,2024-06-22,2024-06-23,1495,1727,1.0,1,0.21,40,8.4,"Horwood, Alexander",,1495.0,False,ENG,1.0,1,0.21,40,8.4

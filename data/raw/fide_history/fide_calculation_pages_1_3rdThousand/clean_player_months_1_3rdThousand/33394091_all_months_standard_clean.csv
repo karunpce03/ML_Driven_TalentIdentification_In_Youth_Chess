@@ -1,0 +1,69 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33394091,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1747,1675,4.5,8,1.16,40,46.4,"Himanshi, Ola",,1498.0,False,IND,1.0,1,0.27,40,10.8
+33394091,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1747,1675,4.5,8,1.16,40,46.4,"Majumder, Shrayan",,2075.0,True,IND,0.0,1,-0.08,40,-3.2
+33394091,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1747,1675,4.5,8,1.16,40,46.4,"Taksh, Jain",,1534.0,False,IND,1.0,1,0.31,40,12.4
+33394091,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1747,1675,4.5,8,1.16,40,46.4,"Ojas, Maheshwari",,1549.0,False,IND,1.0,1,0.33,40,13.2
+33394091,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1747,1675,4.5,8,1.16,40,46.4,"Rathore, S.k.",f,1832.0,False,IND,0.5,1,0.21,40,8.4
+33394091,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1747,1675,4.5,8,1.16,40,46.4,"Dave, Sneh",,1802.0,False,IND,1.0,1,0.67,40,26.8
+33394091,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1747,1675,4.5,8,1.16,40,46.4,"Archisman, Patra",,1797.0,False,IND,0.0,1,-0.33,40,-13.2
+33394091,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1747,1675,4.5,8,1.16,40,46.4,"Gopal, Rathod",,1892.0,False,IND,0.0,1,-0.22,40,-8.8
+33394091,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1683,1675,5.0,8,0.98,40,39.2,"Tejas, Tiwari",,1503.0,False,IND,1.0,1,0.27,40,10.8
+33394091,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1683,1675,5.0,8,0.98,40,39.2,"Samyak, Dharewa",,2022.0,False,IND,1.0,1,0.89,40,35.6
+33394091,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1683,1675,5.0,8,0.98,40,39.2,"Sudhanshu, Ranjan",,1915.0,False,IND,0.0,1,-0.2,40,-8.0
+33394091,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1683,1675,5.0,8,0.98,40,39.2,"Naitik, Jain",,1490.0,False,IND,0.0,1,-0.74,40,-29.6
+33394091,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1683,1675,5.0,8,0.98,40,39.2,"Shreya, Piplani",,1512.0,False,IND,1.0,1,0.28,40,11.2
+33394091,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1683,1675,5.0,8,0.98,40,39.2,"Bhavya, Arora",,1559.0,False,IND,1.0,1,0.34,40,13.6
+33394091,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1683,1675,5.0,8,0.98,40,39.2,"Ayaan, Trikha",,1601.0,False,IND,1.0,1,0.4,40,16.0
+33394091,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1683,1675,5.0,8,0.98,40,39.2,"Sahil, Bheron",,1858.0,False,IND,0.0,1,-0.26,40,-10.4
+33394091,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1632,1760,7.0,9,0.97,35,33.95,"Ravi, Kumar",,1488.0,False,IND,1.0,1,0.17,35,5.95
+33394091,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1632,1760,7.0,9,0.97,35,33.95,"Singh, Surypratap",,1580.0,False,IND,1.0,1,0.26,35,9.1
+33394091,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1632,1760,7.0,9,0.97,35,33.95,"Jaiswal, Ritvik",,1622.0,False,IND,0.5,1,-0.19,35,-6.65
+33394091,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1632,1760,7.0,9,0.97,35,33.95,"Rahul, Suri",,1656.0,False,IND,0.5,1,-0.14,35,-4.9
+33394091,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1632,1760,7.0,9,0.97,35,33.95,"Roy, Anand",,1608.0,False,IND,1.0,1,0.3,35,10.5
+33394091,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1632,1760,7.0,9,0.97,35,33.95,"Deep, Das",,1660.0,False,IND,1.0,1,0.36,35,12.6
+33394091,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1632,1760,7.0,9,0.97,35,33.95,"Ranjith, Pratap",,1682.0,False,IND,1.0,1,0.39,35,13.65
+33394091,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1632,1760,7.0,9,0.97,35,33.95,"Ravi, Shanker",,1710.0,False,IND,1.0,1,0.43,35,15.05
+33394091,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1632,1760,7.0,9,0.97,35,33.95,"Patil, Abhishek",,1679.0,False,IND,0.0,1,-0.61,35,-21.35
+33394091,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1885,1760,5.0,11,1.21,35,42.35,"Daksh, Goyal",,2096.0,False,IND,0.0,1,-0.12,35,-4.2
+33394091,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1885,1760,5.0,11,1.21,35,42.35,"Sayyam, Narang",,1559.0,False,IND,0.5,1,-0.26,35,-9.1
+33394091,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1885,1760,5.0,11,1.21,35,42.35,"Shreyansh, Sahu",,1545.0,False,IND,1.0,1,0.23,35,8.05
+33394091,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1885,1760,5.0,11,1.21,35,42.35,"Singh, Arvinder Preet",f,1992.0,False,IND,1.0,1,0.79,35,27.65
+33394091,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1885,1760,5.0,11,1.21,35,42.35,"Chukka, Vineel Radha Karthik",,1938.0,False,IND,0.0,1,-0.27,35,-9.45
+33394091,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1885,1760,5.0,11,1.21,35,42.35,"Prakash, Ram",f,1998.0,False,IND,1.0,1,0.8,35,28.0
+33394091,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1885,1760,5.0,11,1.21,35,42.35,"Arnav, Agrawal",,1935.0,False,IND,0.0,1,-0.27,35,-9.45
+33394091,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1885,1760,5.0,11,1.21,35,42.35,"Sidharth, Mohan",,1848.0,False,IND,1.0,1,0.62,35,21.7
+33394091,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1885,1760,5.0,11,1.21,35,42.35,"Saisarvesh, S",,1937.0,False,IND,0.0,1,-0.27,35,-9.45
+33394091,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1885,1760,5.0,11,1.21,35,42.35,"Tanna, Krish Alpeshbhai",,1846.0,False,IND,0.0,1,-0.38,35,-13.3
+33394091,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1885,1760,5.0,11,1.21,35,42.35,"Nirnay, Garg",,2045.0,False,IND,0.5,1,0.34,35,11.9
+33394091,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1598,1836,7.0,11,-1.67,40,-66.8,"Devansh, Nammi",,1462.0,False,IND,1.0,1,0.1,40,4.0
+33394091,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1598,1836,7.0,11,-1.67,40,-66.8,"Shreyan, Thipparthi",,1572.0,False,IND,1.0,1,0.18,40,7.2
+33394091,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1598,1836,7.0,11,-1.67,40,-66.8,"Pratyush, Kumar",,1627.0,False,IND,1.0,1,0.23,40,9.2
+33394091,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1598,1836,7.0,11,-1.67,40,-66.8,"Rishen, Jilowa",,1714.0,False,IND,0.0,1,-0.67,40,-26.8
+33394091,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1598,1836,7.0,11,-1.67,40,-66.8,"Vansh, Jajoo",,1609.0,False,IND,0.5,1,-0.29,40,-11.6
+33394091,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1598,1836,7.0,11,-1.67,40,-66.8,"Hem, Harsanth B S",,1625.0,False,IND,1.0,1,0.23,40,9.2
+33394091,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1598,1836,7.0,11,-1.67,40,-66.8,"Vairaj, Sogerwal",,1717.0,False,IND,0.0,1,-0.66,40,-26.4
+33394091,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1598,1836,7.0,11,-1.67,40,-66.8,"Heet, Baldawa",,1508.0,False,IND,0.0,1,-0.87,40,-34.8
+33394091,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1598,1836,7.0,11,-1.67,40,-66.8,"Vihaan, Datta Katakam",,1509.0,False,IND,1.0,1,0.13,40,5.2
+33394091,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1598,1836,7.0,11,-1.67,40,-66.8,"Rudransh, P S",,1582.0,False,IND,1.0,1,0.19,40,7.6
+33394091,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1598,1836,7.0,11,-1.67,40,-66.8,"Rishaan, Jain",,1649.0,False,IND,0.5,1,-0.24,40,-9.6
+33394091,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1470,1769,3.5,6,-1.6,40,-64.0,"Purushrut, Sharma",,1404.0,False,IND,0.5,1,-0.4,40,-16.0
+33394091,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1470,1769,3.5,6,-1.6,40,-64.0,"Suryansh, Kuksal",,1420.0,False,IND,0.5,1,-0.39,40,-15.6
+33394091,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1470,1769,3.5,6,-1.6,40,-64.0,"Saurav, Dutta",,1462.0,False,IND,1.0,1,0.14,40,5.6
+33394091,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1470,1769,3.5,6,-1.6,40,-64.0,"Ajay, Harshiv Kannan",,1524.0,False,IND,0.5,1,-0.3,40,-12.0
+33394091,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1470,1769,3.5,6,-1.6,40,-64.0,"Mohammad, Ismail Khadar",,1519.0,False,IND,0.5,1,-0.31,40,-12.4
+33394091,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1470,1769,3.5,6,-1.6,40,-64.0,"Piyush, Sharma",,1489.0,False,IND,0.5,1,-0.34,40,-13.6
+33394091,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1658,1705,5.0,8,0.58,40,23.2,"Nishtha, Gupta",,1462.0,False,IND,1.0,1,0.2,40,8.0
+33394091,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1658,1705,5.0,8,0.58,40,23.2,"Yuvan, Saini",,1429.0,False,IND,1.0,1,0.17,40,6.8
+33394091,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1658,1705,5.0,8,0.58,40,23.2,"Shaurya, Chaudhary",,1890.0,False,IND,0.5,1,0.24,40,9.6
+33394091,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1658,1705,5.0,8,0.58,40,23.2,"Vivaan, Sardana",,1877.0,False,IND,0.5,1,0.23,40,9.2
+33394091,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1658,1705,5.0,8,0.58,40,23.2,Shreyas,,1787.0,False,IND,0.5,1,0.11,40,4.4
+33394091,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1658,1705,5.0,8,0.58,40,23.2,"Shaashvat, Gupta",,1839.0,False,IND,0.0,1,-0.32,40,-12.8
+33394091,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1658,1705,5.0,8,0.58,40,23.2,"Adhiraaj, Sejwal",,1500.0,False,IND,1.0,1,0.24,40,9.6
+33394091,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1658,1705,5.0,8,0.58,40,23.2,"Balwant, Singh Rautela",,1477.0,False,IND,0.5,1,-0.29,40,-11.6
+33394091,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1865,1728,2.0,7,-0.24,40,-9.6,"Arhan, Jain",,1914.0,False,IND,0.0,1,-0.26,40,-10.4
+33394091,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1865,1728,2.0,7,-0.24,40,-9.6,"Gopal, Krishna Maheshwari",,1890.0,False,IND,1.0,1,0.71,40,28.4
+33394091,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1865,1728,2.0,7,-0.24,40,-9.6,"Shankhadeep, Maity",,1835.0,False,IND,1.0,1,0.65,40,26.0
+33394091,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1865,1728,2.0,7,-0.24,40,-9.6,"Mehul, Sondhi",,1954.0,False,IND,0.0,1,-0.21,40,-8.4
+33394091,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1865,1728,2.0,7,-0.24,40,-9.6,"Chehal, Nikhil",,1797.0,False,IND,0.0,1,-0.4,40,-16.0
+33394091,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1865,1728,2.0,7,-0.24,40,-9.6,"Sahil, Bheron",,1925.0,False,IND,0.0,1,-0.25,40,-10.0
+33394091,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1865,1728,2.0,7,-0.24,40,-9.6,"Pranav, Ganesh Prabhu",,1742.0,False,IND,0.0,1,-0.48,40,-19.2

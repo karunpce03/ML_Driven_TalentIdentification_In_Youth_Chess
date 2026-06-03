@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429013445,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1617,1446,0.0,4,-1.11,40,-44.4,"Saxena, Arpit",,1707.0,False,IND,0.0,1,-0.18,40,-7.2
+429013445,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1617,1446,0.0,4,-1.11,40,-44.4,"Prince, Chirag Gandhi",,1644.0,False,IND,0.0,1,-0.24,40,-9.6
+429013445,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1617,1446,0.0,4,-1.11,40,-44.4,"Vihaan, Anupam Agrawal",,1555.0,False,IND,0.0,1,-0.35,40,-14.0
+429013445,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1617,1446,0.0,4,-1.11,40,-44.4,"Lokhandkar, Rushikesh",,1563.0,False,IND,0.0,1,-0.34,40,-13.6
+429013445,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1562,1402,1.0,3,0.13,40,5.2,"Hridaan, A Shah",,1603.0,False,IND,0.0,1,-0.24,40,-9.6
+429013445,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1562,1402,1.0,3,0.13,40,5.2,"Randive, Prabhat",,1506.0,False,IND,1.0,1,0.64,40,25.6
+429013445,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1562,1402,1.0,3,0.13,40,5.2,"Sunil, Vaidya",,1578.0,False,IND,0.0,1,-0.27,40,-10.8

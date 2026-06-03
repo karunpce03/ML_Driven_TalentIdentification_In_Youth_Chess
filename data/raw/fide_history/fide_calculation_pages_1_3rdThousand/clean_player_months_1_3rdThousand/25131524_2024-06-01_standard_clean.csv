@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25131524,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1553,1597,4.0,7,0.02,40,0.8,"Samyak, Dharewa",,1957.0,False,IND,0.0,1,-0.1,40,-4.0
+25131524,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1553,1597,4.0,7,0.02,40,0.8,"Basundhara, Islam",,1420.0,False,IND,1.0,1,0.27,40,10.8
+25131524,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1553,1597,4.0,7,0.02,40,0.8,"Ishani, Mondal",,1403.0,False,IND,0.0,1,-0.75,40,-30.0
+25131524,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1553,1597,4.0,7,0.02,40,0.8,"Anurag, Bhadra",,1430.0,False,IND,1.0,1,0.28,40,11.2
+25131524,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1553,1597,4.0,7,0.02,40,0.8,"Abhiraj, Saha",,1432.0,False,IND,0.5,1,-0.22,40,-8.8
+25131524,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1553,1597,4.0,7,0.02,40,0.8,"Sanchayita, Das",,1458.0,False,IND,1.0,1,0.31,40,12.4
+25131524,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1553,1597,4.0,7,0.02,40,0.8,"Chanda, Ujan",,1774.0,False,IND,0.5,1,0.23,40,9.2

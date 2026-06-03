@@ -1,0 +1,37 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33397937,2024-05-01,0,His Excellency Filed Marshal Sheikh Khalifa Bin Ahmed Al Khalifa 1st Ramadan Chess Tournament,Riffa BRN,2024-03-18,2024-04-04,1856,1735,5.0,7,2.47,40,98.8,"Ayyad, Maher",f,2008.0,False,BRN,0.5,1,0.33,40,13.2
+33397937,2024-05-01,0,His Excellency Filed Marshal Sheikh Khalifa Bin Ahmed Al Khalifa 1st Ramadan Chess Tournament,Riffa BRN,2024-03-18,2024-04-04,1856,1735,5.0,7,2.47,40,98.8,"Darwish, Hashim",,1896.0,False,BRN,1.0,1,0.71,40,28.4
+33397937,2024-05-01,0,His Excellency Filed Marshal Sheikh Khalifa Bin Ahmed Al Khalifa 1st Ramadan Chess Tournament,Riffa BRN,2024-03-18,2024-04-04,1856,1735,5.0,7,2.47,40,98.8,"Tissir, Mohamed",m,2135.0,True,MAR,0.0,1,-0.08,40,-3.2
+33397937,2024-05-01,0,His Excellency Filed Marshal Sheikh Khalifa Bin Ahmed Al Khalifa 1st Ramadan Chess Tournament,Riffa BRN,2024-03-18,2024-04-04,1856,1735,5.0,7,2.47,40,98.8,"Hudson, Antony",,1618.0,False,IND,1.0,1,0.34,40,13.6
+33397937,2024-05-01,0,His Excellency Filed Marshal Sheikh Khalifa Bin Ahmed Al Khalifa 1st Ramadan Chess Tournament,Riffa BRN,2024-03-18,2024-04-04,1856,1735,5.0,7,2.47,40,98.8,"Rishi, N",,1670.0,False,IND,1.0,1,0.41,40,16.4
+33397937,2024-05-01,0,His Excellency Filed Marshal Sheikh Khalifa Bin Ahmed Al Khalifa 1st Ramadan Chess Tournament,Riffa BRN,2024-03-18,2024-04-04,1856,1735,5.0,7,2.47,40,98.8,"Al Dosari, Naif",,1871.0,False,KSA,1.0,1,0.68,40,27.2
+33397937,2024-05-01,0,His Excellency Filed Marshal Sheikh Khalifa Bin Ahmed Al Khalifa 1st Ramadan Chess Tournament,Riffa BRN,2024-03-18,2024-04-04,1856,1735,5.0,7,2.47,40,98.8,"Taher, Mohamed",,1791.0,False,BRN,0.5,1,0.08,40,3.2
+33397937,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1569,1834,4.5,7,-1.12,40,-44.8,"Nyrav, Gopalakrishnan",,1437.0,False,IND,1.0,1,0.08,40,3.2
+33397937,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1569,1834,4.5,7,-1.12,40,-44.8,"Kanushi, Kishore",,1502.0,False,IND,1.0,1,0.12,40,4.8
+33397937,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1569,1834,4.5,7,-1.12,40,-44.8,"Dhruvi, Shrikant Panigrahi",,1612.0,False,IND,1.0,1,0.22,40,8.8
+33397937,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1569,1834,4.5,7,-1.12,40,-44.8,"Navaneet, Sreekanth",,1732.0,False,IND,1.0,1,0.36,40,14.4
+33397937,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1569,1834,4.5,7,-1.12,40,-44.8,"Palaash, Suyog Mapara",,1501.0,False,IND,0.5,1,-0.38,40,-15.2
+33397937,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1569,1834,4.5,7,-1.12,40,-44.8,"Taher, Mohamed",,1762.0,False,BRN,0.0,1,-0.6,40,-24.0
+33397937,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1569,1834,4.5,7,-1.12,40,-44.8,"Mikael, Vivek Joseph",,1434.0,True,IND,0.0,1,-0.92,40,-36.8
+33397937,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1861,1789,3.5,8,0.09,40,3.6,"Talgatov, Nazar",,2171.0,False,KAZ,0.0,1,-0.09,40,-3.6
+33397937,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1861,1789,3.5,8,0.09,40,3.6,"Muhammad, Zaahir Naduvilaparambil",,1583.0,False,IND,1.0,1,0.24,40,9.6
+33397937,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1861,1789,3.5,8,0.09,40,3.6,"Dinesh, Rajan M",,2092.0,False,IND,0.0,1,-0.14,40,-5.6
+33397937,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1861,1789,3.5,8,0.09,40,3.6,"Kaushika, Sridharan",,1671.0,False,IND,1.0,1,0.34,40,13.6
+33397937,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1861,1789,3.5,8,0.09,40,3.6,"Shahinyan, Vladimir",,2094.0,False,ARM,0.0,1,-0.14,40,-5.6
+33397937,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1861,1789,3.5,8,0.09,40,3.6,"Srinjay, Shrinivas Shankar",,1604.0,False,IND,0.5,1,-0.24,40,-9.6
+33397937,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1861,1789,3.5,8,0.09,40,3.6,"Je, Jiwoo",,1714.0,False,KOR,1.0,1,0.4,40,16.0
+33397937,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1861,1789,3.5,8,0.09,40,3.6,"Khalilov, Ikromjon",,1959.0,False,UZB,0.0,1,-0.28,40,-11.2
+33397937,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1718,1789,4.5,8,-0.31,40,-12.4,"McKenzie, Chanel",,1496.0,False,KEN,1.0,1,0.15,40,6.0
+33397937,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1718,1789,4.5,8,-0.31,40,-12.4,"Mithran, Krishnakumar",,1589.0,False,IND,1.0,1,0.24,40,9.6
+33397937,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1718,1789,4.5,8,-0.31,40,-12.4,"Md, Imran",f,2189.0,True,IND,0.0,1,-0.08,40,-3.2
+33397937,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1718,1789,4.5,8,-0.31,40,-12.4,"Benedict, Tojan",,1585.0,False,IND,0.5,1,-0.26,40,-10.4
+33397937,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1718,1789,4.5,8,-0.31,40,-12.4,"Al-Kuwari, Hamad",,1594.0,False,QAT,1.0,1,0.25,40,10.0
+33397937,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1718,1789,4.5,8,-0.31,40,-12.4,"Almutairi, Musaad H",,1648.0,False,KSA,1.0,1,0.31,40,12.4
+33397937,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1718,1789,4.5,8,-0.31,40,-12.4,"Khalilov, Ikromjon",,1959.0,False,UZB,0.0,1,-0.28,40,-11.2
+33397937,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1718,1789,4.5,8,-0.31,40,-12.4,"Sai, Hridhay S",,1685.0,False,IND,0.0,1,-0.64,40,-25.6
+33397937,2025-04-01,0,JASSIM MOHAMMED FAKHROO   RAMADAN CHESS CHAMPIONSHIP (4th- 24th MARCH 2025),Manama BRN,2025-03-04,2025-03-18,1821,1780,3.0,6,0.25,40,10.0,"Rudra, Desai",,1504.0,False,IND,0.5,1,-0.33,40,-13.2
+33397937,2025-04-01,0,JASSIM MOHAMMED FAKHROO   RAMADAN CHESS CHAMPIONSHIP (4th- 24th MARCH 2025),Manama BRN,2025-03-04,2025-03-18,1821,1780,3.0,6,0.25,40,10.0,"Al-Ghasra, Ali",c,2004.0,False,BRN,0.0,1,-0.22,40,-8.8
+33397937,2025-04-01,0,JASSIM MOHAMMED FAKHROO   RAMADAN CHESS CHAMPIONSHIP (4th- 24th MARCH 2025),Manama BRN,2025-03-04,2025-03-18,1821,1780,3.0,6,0.25,40,10.0,"Faqihi, Abdulaziz",,1567.0,False,BRN,1.0,1,0.23,40,9.2
+33397937,2025-04-01,0,JASSIM MOHAMMED FAKHROO   RAMADAN CHESS CHAMPIONSHIP (4th- 24th MARCH 2025),Manama BRN,2025-03-04,2025-03-18,1821,1780,3.0,6,0.25,40,10.0,"Nasser, Poyil",,1717.0,False,IND,1.0,1,0.41,40,16.4
+33397937,2025-04-01,0,JASSIM MOHAMMED FAKHROO   RAMADAN CHESS CHAMPIONSHIP (4th- 24th MARCH 2025),Manama BRN,2025-03-04,2025-03-18,1821,1780,3.0,6,0.25,40,10.0,"Ayyad, Husain",f,2159.0,False,BRN,0.5,1,0.41,40,16.4
+33397937,2025-04-01,0,JASSIM MOHAMMED FAKHROO   RAMADAN CHESS CHAMPIONSHIP (4th- 24th MARCH 2025),Manama BRN,2025-03-04,2025-03-18,1821,1780,3.0,6,0.25,40,10.0,"Ayyad, Maher",f,1977.0,False,BRN,0.0,1,-0.25,40,-10.0

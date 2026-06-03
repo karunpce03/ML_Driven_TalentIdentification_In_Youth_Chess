@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25198874,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2060,1946,4.5,8,1.72,36,61.92,"Adamovics, Aleksejs",,2112.0,False,LAT,0.0,1,-0.28,36,-10.08
+25198874,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2060,1946,4.5,8,1.72,36,61.92,"Castaner Harster, Xavier",,2044.0,False,ESP,1.0,1,0.63,36,22.68
+25198874,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2060,1946,4.5,8,1.72,36,61.92,"Gutierrez Espinosa, Karen",wf,2084.0,False,CUB,0.0,1,-0.31,36,-11.16
+25198874,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2060,1946,4.5,8,1.72,36,61.92,"Valencia Jimenez, Jose",,1985.0,False,ESP,1.0,1,0.55,36,19.8
+25198874,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2060,1946,4.5,8,1.72,36,61.92,"Jain, Kushagra",,2064.0,False,IND,0.0,1,-0.34,36,-12.24
+25198874,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2060,1946,4.5,8,1.72,36,61.92,"Ocampo, Cristina",wf,2040.0,False,COL,0.5,1,0.13,36,4.68
+25198874,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2060,1946,4.5,8,1.72,36,61.92,"Barwinska, Ewa",wc,2035.0,False,POL,1.0,1,0.62,36,22.32
+25198874,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2060,1946,4.5,8,1.72,36,61.92,"Deodhar, Vrushali Umesh",wf,2115.0,False,IND,1.0,1,0.72,36,25.92
+25198874,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,2097,6.0,11,-2.93,36,-105.48,"Arhan, Jain",,1761.0,False,IND,0.5,1,-0.38,36,-13.68
+25198874,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,2097,6.0,11,-2.93,36,-105.48,"Nithik, Reddy Bhavanam",,1766.0,False,IND,0.0,1,-0.88,36,-31.68
+25198874,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,2097,6.0,11,-2.93,36,-105.48,"Varshita, Jain",,1697.0,True,IND,1.0,1,0.08,36,2.88
+25198874,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,2097,6.0,11,-2.93,36,-105.48,"Vyom, Malhotra",,1806.0,False,IND,1.0,1,0.15,36,5.4
+25198874,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,2097,6.0,11,-2.93,36,-105.48,"Vijay, Kumar",,1885.0,False,IND,1.0,1,0.23,36,8.28
+25198874,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,2097,6.0,11,-2.93,36,-105.48,"Arul, Anandh S P K",,1913.0,False,IND,0.5,1,-0.24,36,-8.64
+25198874,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,2097,6.0,11,-2.93,36,-105.48,"Soni, Atharv",,1932.0,False,IND,0.0,1,-0.72,36,-25.92
+25198874,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,2097,6.0,11,-2.93,36,-105.48,"Yashvi, Jain",,1891.0,False,IND,0.0,1,-0.76,36,-27.36
+25198874,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,2097,6.0,11,-2.93,36,-105.48,"Oishik, Mondal",,1799.0,False,IND,1.0,1,0.15,36,5.4
+25198874,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,2097,6.0,11,-2.93,36,-105.48,"Sundram, Kumar",,1888.0,False,IND,1.0,1,0.23,36,8.28
+25198874,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,2097,6.0,11,-2.93,36,-105.48,"Ram, Vishal Parab",,1871.0,False,IND,0.0,1,-0.79,36,-28.44

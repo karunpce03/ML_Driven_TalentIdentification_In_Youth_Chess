@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45061114,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1838,2131,7.0,10,-1.4,40,-56.0,"Vageesh, Swaminathan",,1731,True,IND,0.5,1,-0.42,40,-16.8
+45061114,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1838,2131,7.0,10,-1.4,40,-56.0,"Niranjan, J Warrier",,1848,False,IND,1.0,1,0.16,40,6.4
+45061114,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1838,2131,7.0,10,-1.4,40,-56.0,"Mahir, Taneja",,1895,False,IND,0.5,1,-0.3,40,-12.0
+45061114,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1838,2131,7.0,10,-1.4,40,-56.0,"Naga, Sai Sarthak Karanam",,1878,False,IND,0.0,1,-0.81,40,-32.4
+45061114,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1838,2131,7.0,10,-1.4,40,-56.0,"Aron, S P",,1731,True,IND,1.0,1,0.08,40,3.2
+45061114,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1838,2131,7.0,10,-1.4,40,-56.0,"Shashveen, A K",,1866,False,IND,0.0,1,-0.82,40,-32.8
+45061114,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1838,2131,7.0,10,-1.4,40,-56.0,"Abhinav, M B",,1774,False,IND,1.0,1,0.11,40,4.4
+45061114,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1838,2131,7.0,10,-1.4,40,-56.0,"Aadinath, Harilal",,1796,False,IND,1.0,1,0.12,40,4.8
+45061114,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1838,2131,7.0,10,-1.4,40,-56.0,"Ghadge, Harsh",,1919,False,IND,1.0,1,0.23,40,9.2
+45061114,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1838,2131,7.0,10,-1.4,40,-56.0,"Gowrishankar, Jayaraj",,1938,False,IND,1.0,1,0.25,40,10.0

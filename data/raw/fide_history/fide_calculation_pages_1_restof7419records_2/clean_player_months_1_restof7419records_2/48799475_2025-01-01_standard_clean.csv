@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48799475,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1667,1410,2.0,6,0.83,40,33.2,"Buirzayqah, Mohammed",,1810,True,LBA,0.0,1,-0.08,40,-3.2
+48799475,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1667,1410,2.0,6,0.83,40,33.2,"Abdulazizov, Asadbek",,1531,False,UZB,0.5,1,0.16,40,6.4
+48799475,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1667,1410,2.0,6,0.83,40,33.2,"Chogle, Sahil Prashant",,1699,False,IND,0.0,1,-0.16,40,-6.4
+48799475,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1667,1410,2.0,6,0.83,40,33.2,"Devansh, Rai",,1631,False,IND,0.0,1,-0.22,40,-8.8
+48799475,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1667,1410,2.0,6,0.83,40,33.2,"Govindaraju, Kandipalli",,1702,False,IND,1.0,1,0.85,40,34.0
+48799475,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1667,1410,2.0,6,0.83,40,33.2,"Mithran, Krishnakumar",,1629,False,IND,0.5,1,0.28,40,11.2

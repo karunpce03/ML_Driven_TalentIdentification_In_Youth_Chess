@@ -1,0 +1,22 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33419507,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,3.0,7,0.0,1434,,"Tanish, M",,1453.0,False,IND,0.5,1,0.0,,0.0
+33419507,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,3.0,7,0.0,1434,,"Kriday, Nagpal",,1486.0,False,IND,0.0,1,0.0,,0.0
+33419507,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,3.0,7,0.0,1434,,"Hariswar, C",,1450.0,False,IND,0.5,1,0.0,,0.0
+33419507,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,3.0,7,0.0,1434,,"Inba, Dhinesh Babu",,1425.0,False,IND,1.0,1,0.0,,0.0
+33419507,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,3.0,7,0.0,1434,,"Mathai, Bince",,1483.0,False,IND,0.0,1,0.0,,0.0
+33419507,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,3.0,7,0.0,1434,,"Sasikumar, P K",,1452.0,False,IND,1.0,1,0.0,,0.0
+33419507,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,3.0,7,0.0,1434,,"Mohammed Fasal, V U",,1638.0,False,IND,0.0,1,0.0,,0.0
+33419507,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,2.5,6,0.0,1385,,"Linith, Amar S",,1463.0,False,IND,0.0,1,0.0,,0.0
+33419507,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,2.5,6,0.0,1385,,"Kavin, Tanveer K H",,1447.0,False,IND,0.5,1,0.0,,0.0
+33419507,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,2.5,6,0.0,1385,,"Mac, Kafel M",,1453.0,False,IND,0.5,1,0.0,,0.0
+33419507,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,2.5,6,0.0,1385,,"Adithya, Sivesh B",,1432.0,False,IND,0.5,1,0.0,,0.0
+33419507,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,2.5,6,0.0,1385,,"Tamilselvan, V",,1426.0,False,IND,0.0,1,0.0,,0.0
+33419507,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,2.5,6,0.0,1385,,"Anbu, Selvan Petchimuthu",,1431.0,False,IND,1.0,1,0.0,,0.0
+33419507,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1540.0,1489.0,3.5,8,0.04,40,1.6,"Prabbanjan, M",,1492.0,False,IND,1.0,1,0.5,40.0,20.0
+33419507,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1540.0,1489.0,3.5,8,0.04,40,1.6,"Harun, B S",,1622.0,False,IND,0.0,1,-0.32,40.0,-12.8
+33419507,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1540.0,1489.0,3.5,8,0.04,40,1.6,"Marimuthu, K R",,1467.0,False,IND,0.5,1,-0.03,40.0,-1.2
+33419507,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1540.0,1489.0,3.5,8,0.04,40,1.6,"Sri, Sabari Karthick T M",,1455.0,False,IND,1.0,1,0.45,40.0,18.0
+33419507,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1540.0,1489.0,3.5,8,0.04,40,1.6,"John, Winnow L",,1523.0,False,IND,1.0,1,0.55,40.0,22.0
+33419507,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1540.0,1489.0,3.5,8,0.04,40,1.6,"Srinish, Udhayan M",,1664.0,False,IND,0.0,1,-0.27,40.0,-10.8
+33419507,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1540.0,1489.0,3.5,8,0.04,40,1.6,"Sri, Chandra Seelan S",,1646.0,False,IND,0.0,1,-0.29,40.0,-11.6
+33419507,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1540.0,1489.0,3.5,8,0.04,40,1.6,"Akil, Sethu G",,1454.0,False,IND,0.0,1,-0.55,40.0,-22.0

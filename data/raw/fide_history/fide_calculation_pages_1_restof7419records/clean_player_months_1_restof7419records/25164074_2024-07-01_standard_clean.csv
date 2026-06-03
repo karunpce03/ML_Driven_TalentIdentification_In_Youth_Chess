@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25164074,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1905,1700,4.5,11,1.69,40,67.6,"Kheerthi, Ganta",wf,1987,False,IND,1.0,1,0.84,40,33.6
+25164074,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1905,1700,4.5,11,1.69,40,67.6,"Shohradova, Lala",wf,2000,False,TKM,0.0,1,-0.15,40,-6.0
+25164074,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1905,1700,4.5,11,1.69,40,67.6,"Shubhi, Gupta",wf,1943,False,IND,0.0,1,-0.2,40,-8.0
+25164074,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1905,1700,4.5,11,1.69,40,67.6,"Barwinska, Ewa",wc,2100,True,POL,1.0,1,0.92,40,36.8
+25164074,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1905,1700,4.5,11,1.69,40,67.6,"Marium, Fatima",,1905,False,IND,0.5,1,0.26,40,10.4
+25164074,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1905,1700,4.5,11,1.69,40,67.6,"Padmini, S",,1872,False,IND,0.0,1,-0.27,40,-10.8
+25164074,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1905,1700,4.5,11,1.69,40,67.6,"Nagyova, Daniela",,1958,False,CZE,0.0,1,-0.18,40,-7.2
+25164074,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1905,1700,4.5,11,1.69,40,67.6,"Sherali, Pattnaik",,1955,False,IND,0.0,1,-0.19,40,-7.6
+25164074,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1905,1700,4.5,11,1.69,40,67.6,"Mishra, Riya",,1654,False,IND,1.0,1,0.44,40,17.6
+25164074,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1905,1700,4.5,11,1.69,40,67.6,"Radhika, Sharma",,1651,False,IND,1.0,1,0.43,40,17.2
+25164074,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1905,1700,4.5,11,1.69,40,67.6,"Khairmode, Dhanashree",,1929,False,IND,0.0,1,-0.21,40,-8.4

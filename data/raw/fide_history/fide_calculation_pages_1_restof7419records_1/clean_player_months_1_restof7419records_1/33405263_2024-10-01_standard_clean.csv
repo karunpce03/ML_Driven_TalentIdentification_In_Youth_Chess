@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33405263,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1636,1739,4.5,6,0.72,40,28.8,"Rajendra, Sawant",,1446.0,False,IND,1.0,1,0.15,40,6.0
+33405263,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1636,1739,4.5,6,0.72,40,28.8,"Hala, Gamal Amin",,1542.0,False,UAE,1.0,1,0.25,40,10.0
+33405263,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1636,1739,4.5,6,0.72,40,28.8,"Alali, Tammam.",,1687.0,False,SYR,1.0,1,0.43,40,17.2
+33405263,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1636,1739,4.5,6,0.72,40,28.8,"Akhil, Vijayakumar",,1697.0,False,IND,1.0,1,0.44,40,17.6
+33405263,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1636,1739,4.5,6,0.72,40,28.8,"Mokhtar, Omar.",,1724.0,False,SYR,0.5,1,-0.02,40,-0.8
+33405263,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1636,1739,4.5,6,0.72,40,28.8,"Kindipan, Zyralle",,1720.0,False,PHI,0.0,1,-0.53,40,-21.2

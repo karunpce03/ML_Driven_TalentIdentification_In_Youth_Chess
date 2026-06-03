@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33394040,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1695,1481,1.5,5,0.27,40,10.8,"Laxman, R.r.",g,1881,True,IND,0.0,1,-0.08,40,-3.2
+33394040,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1695,1481,1.5,5,0.27,40,10.8,"Sunil Dev, S",,1768,False,IND,0.0,1,-0.16,40,-6.4
+33394040,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1695,1481,1.5,5,0.27,40,10.8,"Takkshanth, Anand",,1591,False,IND,1.0,1,0.65,40,26.0
+33394040,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1695,1481,1.5,5,0.27,40,10.8,"Bhuvanesh, G",,1660,False,IND,0.0,1,-0.27,40,-10.8
+33394040,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1695,1481,1.5,5,0.27,40,10.8,"Santhanalashmi, M",,1573,False,IND,0.5,1,0.13,40,5.2

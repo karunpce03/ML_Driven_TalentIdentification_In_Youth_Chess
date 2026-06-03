@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45015724,2024-08-01,0,21st Tamil Nadu IM Norm Closed Circuit  Chess Tournament - Chennai,Chennai IND,2024-07-21,2024-07-27,2277,2324,5.0,9,-0.05,20,-1.0,"Uuriintuya, Uurtsaikh",wg,2214.0,False,MGL,0.5,1,-0.15,20,-3.0
+45015724,2024-08-01,0,21st Tamil Nadu IM Norm Closed Circuit  Chess Tournament - Chennai,Chennai IND,2024-07-21,2024-07-27,2277,2324,5.0,9,-0.05,20,-1.0,"Manik, Mikulas",g,2338.0,False,SVK,0.5,1,0.02,20,0.4
+45015724,2024-08-01,0,21st Tamil Nadu IM Norm Closed Circuit  Chess Tournament - Chennai,Chennai IND,2024-07-21,2024-07-27,2277,2324,5.0,9,-0.05,20,-1.0,"Annageldyev, Orazly",g,2316.0,False,TKM,0.5,1,-0.01,20,-0.2
+45015724,2024-08-01,0,21st Tamil Nadu IM Norm Closed Circuit  Chess Tournament - Chennai,Chennai IND,2024-07-21,2024-07-27,2277,2324,5.0,9,-0.05,20,-1.0,"Manigandan, S S",,2085.0,False,IND,1.0,1,0.2,20,4.0
+45015724,2024-08-01,0,21st Tamil Nadu IM Norm Closed Circuit  Chess Tournament - Chennai,Chennai IND,2024-07-21,2024-07-27,2277,2324,5.0,9,-0.05,20,-1.0,"Slizhevsky, Alexander",m,2384.0,False,RUS,0.5,1,0.08,20,1.6
+45015724,2024-08-01,0,21st Tamil Nadu IM Norm Closed Circuit  Chess Tournament - Chennai,Chennai IND,2024-07-21,2024-07-27,2277,2324,5.0,9,-0.05,20,-1.0,"Aakash, G",c,2265.0,False,IND,0.5,1,-0.08,20,-1.6
+45015724,2024-08-01,0,21st Tamil Nadu IM Norm Closed Circuit  Chess Tournament - Chennai,Chennai IND,2024-07-21,2024-07-27,2277,2324,5.0,9,-0.05,20,-1.0,"Lokesh, N.",,2214.0,False,IND,1.0,1,0.35,20,7.0
+45015724,2024-08-01,0,21st Tamil Nadu IM Norm Closed Circuit  Chess Tournament - Chennai,Chennai IND,2024-07-21,2024-07-27,2277,2324,5.0,9,-0.05,20,-1.0,"Adireddy, Arjun",f,2301.0,False,IND,0.5,1,-0.03,20,-0.6
+45015724,2024-08-01,0,21st Tamil Nadu IM Norm Closed Circuit  Chess Tournament - Chennai,Chennai IND,2024-07-21,2024-07-27,2277,2324,5.0,9,-0.05,20,-1.0,"Sathvik, Adiga",f,2377.0,False,IND,0.0,1,-0.43,20,-8.6

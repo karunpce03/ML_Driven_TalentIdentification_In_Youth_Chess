@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+146105007,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1589,1519,0.0,3,-1.23,40,-49.2,"Sarish, Rajesh Shetty",,1661.0,False,IND,0.0,1,-0.31,40,-12.4
+146105007,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1589,1519,0.0,3,-1.23,40,-49.2,"Reyes, Danilo G.",,1698.0,False,PHI,0.0,1,-0.27,40,-10.8
+146105007,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1589,1519,0.0,3,-1.23,40,-49.2,"Muna, Ali Alnuaimi",,1409.0,False,UAE,0.0,1,-0.65,40,-26.0

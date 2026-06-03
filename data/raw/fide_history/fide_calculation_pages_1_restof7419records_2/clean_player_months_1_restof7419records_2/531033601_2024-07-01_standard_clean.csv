@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531033601,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,0.0,4,0.0,758,,"Swapnabha, Neogi",,1632,False,IND,0.0,1,0.0,,0.0
+531033601,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,0.0,4,0.0,758,,"Adipto, Nath",,1609,False,IND,0.0,1,0.0,,0.0
+531033601,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,0.0,4,0.0,758,,"Abhiraj, Das",,1517,False,IND,0.0,1,0.0,,0.0
+531033601,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,0.0,4,0.0,758,,"Srijit, Saha",,1473,False,IND,0.0,1,0.0,,0.0

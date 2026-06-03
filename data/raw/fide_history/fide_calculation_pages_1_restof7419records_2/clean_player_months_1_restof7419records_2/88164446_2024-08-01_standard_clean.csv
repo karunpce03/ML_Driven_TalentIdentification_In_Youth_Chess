@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88164446,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1648,1488,2.0,6,0.25,40,10.0,"Mohit, Ambwani",,1672.0,False,IND,0.5,1,0.24,40,9.6
+88164446,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1648,1488,2.0,6,0.25,40,10.0,"Avinya, Mohan Singh",,1725.0,False,IND,0.0,1,-0.2,40,-8.0
+88164446,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1648,1488,2.0,6,0.25,40,10.0,"Iyer, Abhinav",,1578.0,False,FID,0.0,1,-0.38,40,-15.2
+88164446,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1648,1488,2.0,6,0.25,40,10.0,"Pratyush, Kumar",,1585.0,False,IND,0.5,1,0.13,40,5.2
+88164446,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1648,1488,2.0,6,0.25,40,10.0,"Arnav, Gupta",,1698.0,False,IND,0.5,1,0.27,40,10.8
+88164446,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1648,1488,2.0,6,0.25,40,10.0,"Kavyansh, Jain",,1627.0,False,IND,0.5,1,0.19,40,7.6

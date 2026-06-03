@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25145754,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1637,1454,2.5,4,1.43,40,57.2,"Suryaputhiran, P",,1544.0,False,IND,1.0,1,0.62,40,24.8
+25145754,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1637,1454,2.5,4,1.43,40,57.2,"Sachiel, Parthiban",,1663.0,False,IND,0.5,1,0.27,40,10.8
+25145754,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1637,1454,2.5,4,1.43,40,57.2,"Vinoth, M",,1622.0,False,IND,1.0,1,0.72,40,28.8
+25145754,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1637,1454,2.5,4,1.43,40,57.2,"Shree, Hari Palaniappa S",,1720.0,False,IND,0.0,1,-0.18,40,-7.2

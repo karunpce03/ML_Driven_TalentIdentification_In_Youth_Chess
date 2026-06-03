@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48798398,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1586,1543,0.0,3,-1.44,40,-57.6,"Madkar, Atharva",,1928.0,False,IND,0.0,1,-0.09,40,-3.6
+48798398,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1586,1543,0.0,3,-1.44,40,-57.6,"Ruhaan, Kumar",,1411.0,False,IND,0.0,1,-0.68,40,-27.2
+48798398,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1586,1543,0.0,3,-1.44,40,-57.6,"Vartika, R Verma",,1419.0,False,IND,0.0,1,-0.67,40,-26.8

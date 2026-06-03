@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25981226,2024-11-01,0,Southall FIDE Congress 28-29 September - U2300,London ENG,2024-09-28,2024-09-29,1848,1864,2.0,5,-0.6,40,-24.0,"Clarke, Connor",,2013.0,False,ENG,0.5,1,0.2,40,8.0
+25981226,2024-11-01,0,Southall FIDE Congress 28-29 September - U2300,London ENG,2024-09-28,2024-09-29,1848,1864,2.0,5,-0.6,40,-24.0,"Quillaud, Maxime",,1923.0,False,ENG,0.0,1,-0.42,40,-16.8
+25981226,2024-11-01,0,Southall FIDE Congress 28-29 September - U2300,London ENG,2024-09-28,2024-09-29,1848,1864,2.0,5,-0.6,40,-24.0,"Bates, Hubert",,1671.0,False,ENG,0.0,1,-0.75,40,-30.0
+25981226,2024-11-01,0,Southall FIDE Congress 28-29 September - U2300,London ENG,2024-09-28,2024-09-29,1848,1864,2.0,5,-0.6,40,-24.0,"Kaushik, Madhav",,1729.0,False,ENG,0.5,1,-0.18,40,-7.2
+25981226,2024-11-01,0,Southall FIDE Congress 28-29 September - U2300,London ENG,2024-09-28,2024-09-29,1848,1864,2.0,5,-0.6,40,-24.0,"White, Chris",,1903.0,False,ENG,1.0,1,0.55,40,22.0
+25981226,2024-11-01,0,Southall FIDE Congress 19-20 October - U2400,London ENG,2024-10-19,2024-10-20,1869,1920,3.5,5,0.67,40,26.8,"Walia, Michael Kanishk",,1701.0,False,ENG,1.0,1,0.22,40,8.8
+25981226,2024-11-01,0,Southall FIDE Congress 19-20 October - U2400,London ENG,2024-10-19,2024-10-20,1869,1920,3.5,5,0.67,40,26.8,"Hanache, Kai",,1987.0,False,ENG,0.0,1,-0.41,40,-16.4
+25981226,2024-11-01,0,Southall FIDE Congress 19-20 October - U2400,London ENG,2024-10-19,2024-10-20,1869,1920,3.5,5,0.67,40,26.8,"Gagan, B R",,1793.0,False,IND,1.0,1,0.33,40,13.2
+25981226,2024-11-01,0,Southall FIDE Congress 19-20 October - U2400,London ENG,2024-10-19,2024-10-20,1869,1920,3.5,5,0.67,40,26.8,"Zhang, Junyi",,1946.0,False,ENG,1.0,1,0.54,40,21.6
+25981226,2024-11-01,0,Southall FIDE Congress 19-20 October - U2400,London ENG,2024-10-19,2024-10-20,1869,1920,3.5,5,0.67,40,26.8,"Shidlagatta, Anirudh",,1916.0,False,ENG,0.5,1,-0.01,40,-0.4
+25981226,2024-11-01,0,Wimbledon FIDE Congress October 2024 - U2000,London ENG,2024-10-25,2024-10-26,1788,1920,3.0,4,0.31,40,12.4,"Li, Harvey",,1688.0,False,ENG,1.0,1,0.21,40,8.4
+25981226,2024-11-01,0,Wimbledon FIDE Congress October 2024 - U2000,London ENG,2024-10-25,2024-10-26,1788,1920,3.0,4,0.31,40,12.4,"Shankar, Yashwardhan",,1752.0,False,SCO,1.0,1,0.28,40,11.2
+25981226,2024-11-01,0,Wimbledon FIDE Congress October 2024 - U2000,London ENG,2024-10-25,2024-10-26,1788,1920,3.0,4,0.31,40,12.4,"Wang, Luoke",,1875.0,False,ENG,0.5,1,-0.06,40,-2.4
+25981226,2024-11-01,0,Wimbledon FIDE Congress October 2024 - U2000,London ENG,2024-10-25,2024-10-26,1788,1920,3.0,4,0.31,40,12.4,"Domarkas, Michael",,1835.0,False,ENG,0.5,1,-0.12,40,-4.8

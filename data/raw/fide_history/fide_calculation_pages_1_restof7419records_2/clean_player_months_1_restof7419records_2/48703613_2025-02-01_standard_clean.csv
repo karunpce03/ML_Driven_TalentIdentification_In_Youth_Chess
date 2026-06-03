@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48703613,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1527,1512,5.5,10,0.71,40,28.4,"Kavish, Saxena",,1444.0,False,IND,0.0,1,-0.59,40,-23.6
+48703613,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1527,1512,5.5,10,0.71,40,28.4,"Goranksh, Khandelwal",,1417.0,False,IND,1.0,1,0.37,40,14.8
+48703613,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1527,1512,5.5,10,0.71,40,28.4,"Nischith, Gurukar K",,1440.0,False,IND,1.0,1,0.4,40,16.0
+48703613,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1527,1512,5.5,10,0.71,40,28.4,"Ahilaan, Baishya",,1460.0,False,IND,0.5,1,-0.07,40,-2.8
+48703613,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1527,1512,5.5,10,0.71,40,28.4,"Arham, Suvidh Turakhia",,1445.0,False,IND,1.0,1,0.41,40,16.4
+48703613,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1527,1512,5.5,10,0.71,40,28.4,"Advik, Mundhada",,1620.0,False,IND,1.0,1,0.65,40,26.0
+48703613,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1527,1512,5.5,10,0.71,40,28.4,"Thavish, S",,1634.0,False,IND,0.5,1,0.17,40,6.8
+48703613,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1527,1512,5.5,10,0.71,40,28.4,"Garvit, Jain",,1686.0,False,IND,0.5,1,0.23,40,9.2
+48703613,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1527,1512,5.5,10,0.71,40,28.4,"Arjun, Singh",,1651.0,False,IND,0.0,1,-0.31,40,-12.4
+48703613,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1527,1512,5.5,10,0.71,40,28.4,"Hitansh, Kunal Gohil",,1476.0,False,IND,0.0,1,-0.55,40,-22.0

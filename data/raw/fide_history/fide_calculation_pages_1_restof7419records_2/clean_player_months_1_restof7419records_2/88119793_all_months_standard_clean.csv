@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88119793,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1730,1498,0.0,3,-0.65,40,-26.0,"Al-Qudaimi, Abdullah",,1814.0,False,YEM,0.0,1,-0.13,40,-5.2
+88119793,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1730,1498,0.0,3,-0.65,40,-26.0,"Sinan, Shafeek",,1758.0,False,IND,0.0,1,-0.18,40,-7.2
+88119793,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1730,1498,0.0,3,-0.65,40,-26.0,"Al Mamari, Salem Said",,1617.0,False,OMA,0.0,1,-0.34,40,-13.6
+88119793,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1496,1498,0.0,1,-0.5,40,-20.0,"Shruti, Sarkar",,1496.0,False,IND,0.0,1,-0.5,40,-20.0
+88119793,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1419,1472,0.0,1,-0.57,40,-22.8,"Niyola, Pinto",,1419.0,False,IND,0.0,1,-0.57,40,-22.8
+88119793,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1658,1429,2.0,5,0.81,40,32.4,"Al Qudaimi, Basheer",m,1829.0,True,YEM,0.0,1,-0.08,40,-3.2
+88119793,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1658,1429,2.0,5,0.81,40,32.4,"Al Abri, Almoatasim",,1572.0,False,OMA,0.0,1,-0.31,40,-12.4
+88119793,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1658,1429,2.0,5,0.81,40,32.4,"Avantika, Priyesh",,1499.0,False,IND,1.0,1,0.6,40,24.0
+88119793,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1658,1429,2.0,5,0.81,40,32.4,"Marwa, Jadalla",,1561.0,False,SUD,1.0,1,0.68,40,27.2
+88119793,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1658,1429,2.0,5,0.81,40,32.4,"Al Hinai, Qusay",,1829.0,True,OMA,0.0,1,-0.08,40,-3.2

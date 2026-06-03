@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25946455,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1853,1710,0.0,1,-0.31,40,-12.4,"Mitul, K H",,1853.0,False,IND,0.0,1,-0.31,40,-12.4
+25946455,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1724,1710,5.0,8,1.02,40,40.8,"Ananya, Ranjithkumar",,1491.0,False,IND,1.0,1,0.22,40,8.8
+25946455,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1724,1710,5.0,8,1.02,40,40.8,"Chinmay, Kowshik",,1979.0,False,IND,0.5,1,0.33,40,13.2
+25946455,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1724,1710,5.0,8,1.02,40,40.8,"Chakravarthi Reddy, M",m,2110.0,True,IND,0.0,1,-0.08,40,-3.2
+25946455,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1724,1710,5.0,8,1.02,40,40.8,"Anagha, Abhinav Krishna",,1672.0,False,IND,1.0,1,0.45,40,18.0
+25946455,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1724,1710,5.0,8,1.02,40,40.8,"Kovidh, Muraleedhara",,1541.0,False,IND,1.0,1,0.28,40,11.2
+25946455,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1724,1710,5.0,8,1.02,40,40.8,"Divi, Bijesh",,1905.0,False,IND,0.0,1,-0.25,40,-10.0
+25946455,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1724,1710,5.0,8,1.02,40,40.8,"Tanisha, Shital Gotadke",,1550.0,False,IND,0.5,1,-0.21,40,-8.4
+25946455,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1724,1710,5.0,8,1.02,40,40.8,"Sai, Srikar Dharmavarapu",,1545.0,False,IND,1.0,1,0.28,40,11.2

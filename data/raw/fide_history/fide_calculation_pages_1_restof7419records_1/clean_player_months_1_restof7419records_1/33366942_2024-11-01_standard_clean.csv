@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33366942,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1523,1725,4.0,7,-1.27,40,-50.8,"Safar, Hussain",,1414.0,False,KUW,1.0,1,0.14,40,5.6
+33366942,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1523,1725,4.0,7,-1.27,40,-50.8,"Jinay, Ankitbhai Shah",,1492.0,False,IND,1.0,1,0.21,40,8.4
+33366942,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1523,1725,4.0,7,-1.27,40,-50.8,"Nehan, Abdullah",,1560.0,False,BAN,1.0,1,0.28,40,11.2
+33366942,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1523,1725,4.0,7,-1.27,40,-50.8,"Abel, Joseph",,1463.0,False,IND,0.0,1,-0.82,40,-32.8
+33366942,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1523,1725,4.0,7,-1.27,40,-50.8,"Mohnish, Balamurugan",,1596.0,False,IND,1.0,1,0.33,40,13.2
+33366942,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1523,1725,4.0,7,-1.27,40,-50.8,"Bhavanya, Panchumarthi",,1543.0,False,IND,0.0,1,-0.74,40,-29.6
+33366942,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1523,1725,4.0,7,-1.27,40,-50.8,"Ceonal, Roy Xavier",,1596.0,False,IND,0.0,1,-0.67,40,-26.8

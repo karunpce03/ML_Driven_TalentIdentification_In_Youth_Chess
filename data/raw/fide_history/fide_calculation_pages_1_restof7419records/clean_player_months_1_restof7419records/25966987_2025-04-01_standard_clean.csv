@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25966987,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2056,2132,6.0,9,0.64,40,25.6,"Ashutosh, Kumar",,1924,False,IND,1.0,1,0.23,40,9.2
+25966987,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2056,2132,6.0,9,0.64,40,25.6,"Tiwari, Shivansh",,1970,False,IND,1.0,1,0.29,40,11.6
+25966987,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2056,2132,6.0,9,0.64,40,25.6,"Nitin, S.",m,2349,False,IND,0.0,1,-0.22,40,-8.8
+25966987,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2056,2132,6.0,9,0.64,40,25.6,"Mann, Akbari",,1880,False,IND,1.0,1,0.19,40,7.6
+25966987,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2056,2132,6.0,9,0.64,40,25.6,"Raj, D Vyas",,1900,False,IND,1.0,1,0.21,40,8.4
+25966987,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2056,2132,6.0,9,0.64,40,25.6,"Ajay, Santhosh Parvathareddy",f,2245,False,IND,0.0,1,-0.35,40,-14.0
+25966987,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2056,2132,6.0,9,0.64,40,25.6,"Sanjay, S Pillai",,1971,False,IND,1.0,1,0.29,40,11.6
+25966987,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2056,2132,6.0,9,0.64,40,25.6,"Darsh, Ilwadi",,1732,True,IND,1.0,1,0.08,40,3.2
+25966987,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2056,2132,6.0,9,0.64,40,25.6,"Sankalp, Gupta",g,2532,True,IND,0.0,1,-0.08,40,-3.2

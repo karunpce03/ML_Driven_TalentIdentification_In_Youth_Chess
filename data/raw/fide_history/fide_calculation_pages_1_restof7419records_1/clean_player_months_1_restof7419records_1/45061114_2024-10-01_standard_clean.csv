@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45061114,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2172,1922,5.0,9,3.0,35,105.0,"Iniyan, Pa",g,2322,True,IND,0.5,1,0.42,35,14.7
+45061114,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2172,1922,5.0,9,3.0,35,105.0,"Sivathanujan, S",,1968,False,SRI,1.0,1,0.56,35,19.6
+45061114,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2172,1922,5.0,9,3.0,35,105.0,"Laxman, R.r.",g,2322,True,IND,0.0,1,-0.08,35,-2.8
+45061114,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2172,1922,5.0,9,3.0,35,105.0,"Soumya, Swaminathan",m wg,2258,False,IND,1.0,1,0.88,35,30.8
+45061114,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2172,1922,5.0,9,3.0,35,105.0,"Nandhidhaa, P V",wg,2322,True,IND,0.5,1,0.42,35,14.7
+45061114,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2172,1922,5.0,9,3.0,35,105.0,"Adireddy, Arjun",f,2308,False,IND,0.5,1,0.41,35,14.35
+45061114,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2172,1922,5.0,9,3.0,35,105.0,"Jihan, Tejas Shah",,2031,False,IND,0.5,1,0.15,35,5.25
+45061114,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2172,1922,5.0,9,3.0,35,105.0,"Sharon, Rafael",,2008,False,ZAM,0.0,1,-0.38,35,-13.3
+45061114,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2172,1922,5.0,9,3.0,35,105.0,"Tejaswini, Sagar",wm,2010,False,IND,1.0,1,0.62,35,21.7
+45061114,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,2031,1922,7.0,11,2.97,35,103.95,"Medhansh, Goyal",,1613,False,IND,1.0,1,0.14,35,4.9
+45061114,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,2031,1922,7.0,11,2.97,35,103.95,Shreyas,,1745,False,IND,1.0,1,0.27,35,9.45
+45061114,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,2031,1922,7.0,11,2.97,35,103.95,"Jihan, Tejas Shah",,2089,False,IND,0.5,1,0.22,35,7.7
+45061114,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,2031,1922,7.0,11,2.97,35,103.95,"Nagarkatte, Vedant",f,2260,False,IND,1.0,1,0.88,35,30.8
+45061114,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,2031,1922,7.0,11,2.97,35,103.95,"Mukund, Hemant Agarwal",,2072,False,IND,1.0,1,0.7,35,24.5
+45061114,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,2031,1922,7.0,11,2.97,35,103.95,"Manish, Anto Cristiano F",m,2322,True,IND,0.0,1,-0.08,35,-2.8
+45061114,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,2031,1922,7.0,11,2.97,35,103.95,"Aniruddh, Chatterjee",,2171,False,IND,0.5,1,0.31,35,10.85
+45061114,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,2031,1922,7.0,11,2.97,35,103.95,"Samyak, Dharewa",,2074,False,IND,0.5,1,0.2,35,7.0
+45061114,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,2031,1922,7.0,11,2.97,35,103.95,"Prithvi, Sharma",,1977,False,IND,1.0,1,0.58,35,20.3
+45061114,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,2031,1922,7.0,11,2.97,35,103.95,"Hari, Ganesh T",,2029,False,IND,0.0,1,-0.35,35,-12.25
+45061114,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,2031,1922,7.0,11,2.97,35,103.95,"Vedant, Garg",,1992,False,IND,0.5,1,0.1,35,3.5

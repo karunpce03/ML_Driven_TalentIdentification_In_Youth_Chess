@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48761745,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1841,1610,5.0,10,2.87,40,114.8,"Mayukh, Majumder",,1904.0,False,IND,0.0,1,-0.15,40,-6.0
+48761745,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1841,1610,5.0,10,2.87,40,114.8,"Sudhakar, Prem Dutt",,1786.0,False,IND,1.0,1,0.73,40,29.2
+48761745,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1841,1610,5.0,10,2.87,40,114.8,"Mehul, Sondhi",,1839.0,False,IND,0.5,1,0.29,40,11.6
+48761745,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1841,1610,5.0,10,2.87,40,114.8,"Vijay, Kumar",,1885.0,False,IND,0.0,1,-0.17,40,-6.8
+48761745,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1841,1610,5.0,10,2.87,40,114.8,"Richard, Solomon M",,1800.0,False,IND,0.5,1,0.25,40,10.0
+48761745,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1841,1610,5.0,10,2.87,40,114.8,"Lavyaajyoti, Routray",,1770.0,False,IND,1.0,1,0.71,40,28.4
+48761745,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1841,1610,5.0,10,2.87,40,114.8,"Bhavya, Gupta",,1819.0,False,IND,1.0,1,0.77,40,30.8
+48761745,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1841,1610,5.0,10,2.87,40,114.8,"Rupam, Mukherjee",,1917.0,False,IND,0.5,1,0.36,40,14.4
+48761745,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1841,1610,5.0,10,2.87,40,114.8,"Shreyash, Singh",,1885.0,False,IND,0.0,1,-0.17,40,-6.8
+48761745,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1841,1610,5.0,10,2.87,40,114.8,"Divyanshu, Kumar Singh",,1807.0,False,IND,0.5,1,0.25,40,10.0

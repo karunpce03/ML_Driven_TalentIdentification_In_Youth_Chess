@@ -1,0 +1,34 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33365318,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,2.0,7,0.0,1344,,"Harith, R",,1610.0,False,IND,0.0,1,0.0,,0.0
+33365318,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,2.0,7,0.0,1344,,"Vijayamurugan, N G",,1438.0,False,IND,0.0,1,0.0,,0.0
+33365318,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,2.0,7,0.0,1344,,"Mogneeshwar, J K U",,1545.0,False,IND,0.0,1,0.0,,0.0
+33365318,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,2.0,7,0.0,1344,,"Kavin, Prabhakar",,1562.0,False,IND,1.0,1,0.0,,0.0
+33365318,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,2.0,7,0.0,1344,,"Kavibala, K",,1450.0,False,IND,0.0,1,0.0,,0.0
+33365318,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,2.0,7,0.0,1344,,"Jyothi, Krishnan P S",,1440.0,False,IND,0.5,1,0.0,,0.0
+33365318,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,2.0,7,0.0,1344,,"Rahavan, D",,1467.0,False,IND,0.5,1,0.0,,0.0
+33365318,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,1.0,4,0.0,1309,,"Raviwarman, K",,1586.0,False,IND,0.0,1,0.0,,0.0
+33365318,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,1.0,4,0.0,1309,,"Sharvesh, S",,1486.0,False,IND,0.5,1,0.0,,0.0
+33365318,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,1.0,4,0.0,1309,,"Veeraj, Kishore",,1475.0,False,IND,0.0,1,0.0,,0.0
+33365318,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,1.0,4,0.0,1309,,"Nithin, Raghav U T",,1461.0,False,IND,0.5,1,0.0,,0.0
+33365318,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1534.0,1407.0,0.5,4,-0.84,40,-33.6,"Revlin, Ram R H",,1647.0,False,IND,0.0,1,-0.2,40.0,-8.0
+33365318,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1534.0,1407.0,0.5,4,-0.84,40,-33.6,"Shanmugam, D",,1511.0,False,IND,0.0,1,-0.36,40.0,-14.4
+33365318,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1534.0,1407.0,0.5,4,-0.84,40,-33.6,"Rohit, Thangam T",,1482.0,False,IND,0.0,1,-0.4,40.0,-16.0
+33365318,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1534.0,1407.0,0.5,4,-0.84,40,-33.6,"Paarventhan, M D",,1496.0,False,IND,0.5,1,0.12,40.0,4.8
+33365318,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1581.0,1407.0,0.0,4,-1.1,40,-44.0,"Divin, S V",,1664.0,False,IND,0.0,1,-0.18,40.0,-7.2
+33365318,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1581.0,1407.0,0.0,4,-1.1,40,-44.0,"Anumitha, A B",,1603.0,False,IND,0.0,1,-0.25,40.0,-10.0
+33365318,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1581.0,1407.0,0.0,4,-1.1,40,-44.0,"Yadhav, Krishna S",,1545.0,False,IND,0.0,1,-0.31,40.0,-12.4
+33365318,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1581.0,1407.0,0.0,4,-1.1,40,-44.0,"Risaanth, Senthilkumar",,1511.0,False,IND,0.0,1,-0.36,40.0,-14.4
+33365318,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,,,0.5,4,0.0,1231,,"K., Dhinesh Babu",,1651.0,False,IND,0.0,1,0.0,,0.0
+33365318,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,,,0.5,4,0.0,1231,,"Nayanakheshan, Venukanan",,1518.0,False,SRI,0.5,1,0.0,,0.0
+33365318,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,,,0.5,4,0.0,1231,,"Kavin, Prabhakar M",,1534.0,False,IND,0.0,1,0.0,,0.0
+33365318,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,,,0.5,4,0.0,1231,,"Sana, G",,1507.0,False,IND,0.0,1,0.0,,0.0
+33365318,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,3.5,8,0.0,1457,,"Yajur, Shikaram",,1549.0,False,IND,0.0,1,0.0,,0.0
+33365318,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,3.5,8,0.0,1457,,"Agarwal, Hari Lal",,1483.0,False,IND,1.0,1,0.0,,0.0
+33365318,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,3.5,8,0.0,1457,,"Abhinav, Acharya",,1536.0,False,IND,0.0,1,0.0,,0.0
+33365318,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,3.5,8,0.0,1457,,"Sanshray, Sharma",,1460.0,False,IND,1.0,1,0.0,,0.0
+33365318,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,3.5,8,0.0,1457,,"Rajdeep, Manik",,1485.0,False,IND,0.5,1,0.0,,0.0
+33365318,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,3.5,8,0.0,1457,,"Yashavanth, N I",,1520.0,False,IND,0.0,1,0.0,,0.0
+33365318,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,3.5,8,0.0,1457,,"Madhusudhan, Vegi",,1501.0,False,IND,0.0,1,0.0,,0.0
+33365318,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,3.5,8,0.0,1457,,"Bhat, Parth",,1464.0,False,IND,1.0,1,0.0,,0.0
+33365318,2025-03-01,0,Star Chess Foundation 1st International Open FIDE Rating Chess Tournament Trichy - 2024,Trichy IND,2025-02-08,2025-02-11,1681.0,1456.0,0.0,2,-0.43,40,-17.2,"Manoj, Guru R",,1705.0,False,IND,0.0,1,-0.19,40.0,-7.6
+33365318,2025-03-01,0,Star Chess Foundation 1st International Open FIDE Rating Chess Tournament Trichy - 2024,Trichy IND,2025-02-08,2025-02-11,1681.0,1456.0,0.0,2,-0.43,40,-17.2,"Abishek, E",,1656.0,False,IND,0.0,1,-0.24,40.0,-9.6

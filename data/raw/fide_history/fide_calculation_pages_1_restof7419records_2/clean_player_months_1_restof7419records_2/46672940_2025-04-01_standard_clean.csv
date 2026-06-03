@@ -1,0 +1,16 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+46672940,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2241,2297,3.5,6,0.07,20,1.4,"Di Fonzo, Valerio",c,2110.0,False,ITA,0.5,1,-0.24,20,-4.8
+46672940,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2241,2297,3.5,6,0.07,20,1.4,"Kolodziejczyk, Boris",c,2135.0,False,FRA,1.0,1,0.29,20,5.8
+46672940,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2241,2297,3.5,6,0.07,20,1.4,"Materia, Marco",m,2486.0,False,FRA,0.5,1,0.25,20,5.0
+46672940,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2241,2297,3.5,6,0.07,20,1.4,"Mendoza, Mael",,2148.0,False,FRA,1.0,1,0.3,20,6.0
+46672940,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2241,2297,3.5,6,0.07,20,1.4,"Chen, Qi B",m,2478.0,False,CHN,0.0,1,-0.26,20,-5.2
+46672940,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2241,2297,3.5,6,0.07,20,1.4,"Negre, Emilie",wf,2090.0,False,FRA,0.5,1,-0.27,20,-5.4
+46672940,2025-04-01,0,Aeroflot Open 2025,Moscow RUS,2025-03-01,2025-03-06,2381,2300,3.5,9,0.0,20,0.0,"Stribuk, Artiom",m,2422.0,False,FID,0.0,1,-0.33,20,-6.6
+46672940,2025-04-01,0,Aeroflot Open 2025,Moscow RUS,2025-03-01,2025-03-06,2381,2300,3.5,9,0.0,20,0.0,"Sek, Konstantin",m,2373.0,False,RUS,0.5,1,0.1,20,2.0
+46672940,2025-04-01,0,Aeroflot Open 2025,Moscow RUS,2025-03-01,2025-03-06,2381,2300,3.5,9,0.0,20,0.0,"Galliamova, Alisa",m wg,2397.0,False,RUS,0.5,1,0.13,20,2.6
+46672940,2025-04-01,0,Aeroflot Open 2025,Moscow RUS,2025-03-01,2025-03-06,2381,2300,3.5,9,0.0,20,0.0,"Pogonina, Natalija",wg,2385.0,False,RUS,0.5,1,0.12,20,2.4
+46672940,2025-04-01,0,Aeroflot Open 2025,Moscow RUS,2025-03-01,2025-03-06,2381,2300,3.5,9,0.0,20,0.0,"Garv, Gaur",f,2374.0,False,IND,0.0,1,-0.4,20,-8.0
+46672940,2025-04-01,0,Aeroflot Open 2025,Moscow RUS,2025-03-01,2025-03-06,2381,2300,3.5,9,0.0,20,0.0,"Popov, Konstantin",f,2376.0,False,FID,1.0,1,0.6,20,12.0
+46672940,2025-04-01,0,Aeroflot Open 2025,Moscow RUS,2025-03-01,2025-03-06,2381,2300,3.5,9,0.0,20,0.0,"Nurgaliyev, Sauat",m,2374.0,False,KAZ,0.5,1,0.1,20,2.0
+46672940,2025-04-01,0,Aeroflot Open 2025,Moscow RUS,2025-03-01,2025-03-06,2381,2300,3.5,9,0.0,20,0.0,"Timoshin, Maxim",f,2381.0,False,FID,0.0,1,-0.39,20,-7.8
+46672940,2025-04-01,0,Aeroflot Open 2025,Moscow RUS,2025-03-01,2025-03-06,2381,2300,3.5,9,0.0,20,0.0,"Namitbir, Singh Walia",f,2347.0,False,IND,0.5,1,0.07,20,1.4

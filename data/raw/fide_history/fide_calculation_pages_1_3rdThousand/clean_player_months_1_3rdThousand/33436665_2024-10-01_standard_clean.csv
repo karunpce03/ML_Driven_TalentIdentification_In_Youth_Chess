@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33436665,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1747,1535,1.5,6,0.05,40,2.0,"Mahindrakar, Indrajeet",,1935,True,IND,0.0,1,-0.08,40,-3.2
+33436665,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1747,1535,1.5,6,0.05,40,2.0,"Om, Dayanand Ramgude",,1688,False,IND,0.5,1,0.2,40,8.0
+33436665,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1747,1535,1.5,6,0.05,40,2.0,"Kumaran, Charan",,1687,False,IND,1.0,1,0.7,40,28.0
+33436665,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1747,1535,1.5,6,0.05,40,2.0,"Ujjawal, Bansal",,1755,False,IND,0.0,1,-0.22,40,-8.8
+33436665,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1747,1535,1.5,6,0.05,40,2.0,"Ayaan, Chettiar",,1676,False,IND,0.0,1,-0.31,40,-12.4
+33436665,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1747,1535,1.5,6,0.05,40,2.0,"Naitik, Jain",,1739,False,IND,0.0,1,-0.24,40,-9.6

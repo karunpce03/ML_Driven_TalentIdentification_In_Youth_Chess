@@ -1,0 +1,23 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531073026,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,,,0.5,4,0.0,1118,,"Arnav, Goyal",,1403.0,False,IND,0.0,1,0.0,,0.0
+531073026,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,,,0.5,4,0.0,1118,,"Aujsya, Mohta",,1489.0,False,IND,0.5,1,0.0,,0.0
+531073026,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,,,0.5,4,0.0,1118,,"Lakshya, Gupta",,1444.0,False,IND,0.0,1,0.0,,0.0
+531073026,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,,,0.5,4,0.0,1118,,"Shilp, Kumar Ghodeshwar",,1424.0,False,IND,0.0,1,0.0,,0.0
+531073026,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,6.0,11,0.0,1510,,"Sanikommu, Harshith Reddy",,1444.0,False,IND,1.0,1,0.0,,0.0
+531073026,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,6.0,11,0.0,1510,,"Raghav, Biswal",,1499.0,False,IND,1.0,1,0.0,,0.0
+531073026,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,6.0,11,0.0,1510,,"Vihaan, Tari",,1554.0,False,IND,0.0,1,0.0,,0.0
+531073026,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,6.0,11,0.0,1510,,"Tejas, Wadhwani",,1405.0,False,IND,0.5,1,0.0,,0.0
+531073026,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,6.0,11,0.0,1510,,"Maneesh, Reddy Lingam",,1466.0,False,IND,0.5,1,0.0,,0.0
+531073026,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,6.0,11,0.0,1510,,"Neev, Nirav Bafna",,1504.0,False,IND,0.0,1,0.0,,0.0
+531073026,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,6.0,11,0.0,1510,,"Chinthapatla, Dhanvin Ram",,1442.0,False,IND,1.0,1,0.0,,0.0
+531073026,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,6.0,11,0.0,1510,,"Samadarshi, Das",,1483.0,False,IND,0.5,1,0.0,,0.0
+531073026,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,6.0,11,0.0,1510,,"Mansh, Krunal Ukani",,1443.0,False,IND,0.5,1,0.0,,0.0
+531073026,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,6.0,11,0.0,1510,,"Kaustubh, Thejkumar",,1629.0,False,IND,1.0,1,0.0,,0.0
+531073026,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,6.0,11,0.0,1510,,"Adit, Nammilikkara",,1516.0,False,IND,0.0,1,0.0,,0.0
+531073026,2025-04-01,0,1st DPSS Chess For Everyone International FIDE Rating Chess Tournament 2025,Sagar IND,2025-03-23,2025-03-27,1627.0,1471.0,3.5,7,1.37,40,54.8,"Ishan, Das",,1795.0,False,IND,1.0,1,0.87,40.0,34.8
+531073026,2025-04-01,0,1st DPSS Chess For Everyone International FIDE Rating Chess Tournament 2025,Sagar IND,2025-03-23,2025-03-27,1627.0,1471.0,3.5,7,1.37,40,54.8,"Anirban, Pahari",,1545.0,False,IND,1.0,1,0.6,40.0,24.0
+531073026,2025-04-01,0,1st DPSS Chess For Everyone International FIDE Rating Chess Tournament 2025,Sagar IND,2025-03-23,2025-03-27,1627.0,1471.0,3.5,7,1.37,40,54.8,"Kartik, Khetwal",,1582.0,False,IND,0.0,1,-0.35,40.0,-14.0
+531073026,2025-04-01,0,1st DPSS Chess For Everyone International FIDE Rating Chess Tournament 2025,Sagar IND,2025-03-23,2025-03-27,1627.0,1471.0,3.5,7,1.37,40,54.8,"Mishra, Ayush",,1600.0,False,IND,1.0,1,0.67,40.0,26.8
+531073026,2025-04-01,0,1st DPSS Chess For Everyone International FIDE Rating Chess Tournament 2025,Sagar IND,2025-03-23,2025-03-27,1627.0,1471.0,3.5,7,1.37,40,54.8,"Mahajan, Sagar",,1510.0,False,IND,0.0,1,-0.45,40.0,-18.0
+531073026,2025-04-01,0,1st DPSS Chess For Everyone International FIDE Rating Chess Tournament 2025,Sagar IND,2025-03-23,2025-03-27,1627.0,1471.0,3.5,7,1.37,40,54.8,"Arvind, Yadav",,1677.0,False,IND,0.0,1,-0.24,40.0,-9.6
+531073026,2025-04-01,0,1st DPSS Chess For Everyone International FIDE Rating Chess Tournament 2025,Sagar IND,2025-03-23,2025-03-27,1627.0,1471.0,3.5,7,1.37,40,54.8,"Ashish, Mishra",,1678.0,False,IND,0.5,1,0.27,40.0,10.8

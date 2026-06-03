@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33486883,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1512,1420,1.5,5,-0.38,40,-15.2,"Vedant, A Agarwal",,1549.0,False,IND,0.0,1,-0.33,40,-13.2
+33486883,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1512,1420,1.5,5,-0.38,40,-15.2,"Reddi, Satwik",,1467.0,False,IND,0.0,1,-0.43,40,-17.2
+33486883,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1512,1420,1.5,5,-0.38,40,-15.2,"Annepu, Sashank",,1557.0,False,IND,0.5,1,0.18,40,7.2
+33486883,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1512,1420,1.5,5,-0.38,40,-15.2,"Yadla, Premi Rakshitha",,1458.0,False,IND,1.0,1,0.55,40,22.0
+33486883,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1512,1420,1.5,5,-0.38,40,-15.2,"Mouli, Lovi",,1531.0,False,IND,0.0,1,-0.35,40,-14.0

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33379270,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1671,1478,0.5,4,-0.54,40,-21.6,"Jackson, V X",,1815.0,False,IND,0.0,1,-0.12,40,-4.8
+33379270,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1671,1478,0.5,4,-0.54,40,-21.6,"Mithilesh, P",,1638.0,False,IND,0.5,1,0.21,40,8.4
+33379270,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1671,1478,0.5,4,-0.54,40,-21.6,"Siva, Adithyan S",,1633.0,False,IND,0.0,1,-0.29,40,-11.6
+33379270,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1671,1478,0.5,4,-0.54,40,-21.6,"Shreyas, G Kaushik",,1599.0,False,IND,0.0,1,-0.34,40,-13.6
+33379270,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1629,1478,2.0,6,0.19,40,7.6,"Sugunesh, Babu",,1621.0,False,IND,1.0,1,0.69,40,27.6
+33379270,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1629,1478,2.0,6,0.19,40,7.6,"Bhuvan, Suhas Shitole",,1654.0,False,IND,0.5,1,0.23,40,9.2
+33379270,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1629,1478,2.0,6,0.19,40,7.6,"Jitendra, Kashyap L",,1657.0,False,IND,0.0,1,-0.27,40,-10.8
+33379270,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1629,1478,2.0,6,0.19,40,7.6,"Shrihari, T K",,1590.0,False,IND,0.5,1,0.15,40,6.0
+33379270,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1629,1478,2.0,6,0.19,40,7.6,"Muhammed, Reja C",,1605.0,False,IND,0.0,1,-0.33,40,-13.2
+33379270,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1629,1478,2.0,6,0.19,40,7.6,"Vinod, S",,1648.0,False,IND,0.0,1,-0.28,40,-11.2

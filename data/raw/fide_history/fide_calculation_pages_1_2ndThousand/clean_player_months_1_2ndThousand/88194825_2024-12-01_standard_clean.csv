@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88194825,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1518,1458,0.0,3,-1.26,40,-50.4,"Aarav, Das",,1647.0,False,IND,0.0,1,-0.25,40,-10.0
+88194825,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1518,1458,0.0,3,-1.26,40,-50.4,"Yatin, Srinivas Chintam",,1493.0,False,IND,0.0,1,-0.45,40,-18.0
+88194825,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1518,1458,0.0,3,-1.26,40,-50.4,"Nisarga, Girisha Priya",,1415.0,False,IND,0.0,1,-0.56,40,-22.4

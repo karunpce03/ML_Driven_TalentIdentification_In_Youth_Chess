@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88133141,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1700,1433,1.5,4,0.72,40,28.8,"Banik, Hrishikesh Kumar",,1833.0,True,IND,0.0,1,-0.08,40,-3.2
+88133141,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1700,1433,1.5,4,0.72,40,28.8,"Ahaan, Alsisaria",,1633.0,False,IND,0.0,1,-0.24,40,-9.6
+88133141,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1700,1433,1.5,4,0.72,40,28.8,"Chandra, Sekhar Ayinaparti",,1539.0,False,IND,0.5,1,0.14,40,5.6
+88133141,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1700,1433,1.5,4,0.72,40,28.8,"Shanmukha, Pulli",,1796.0,False,IND,1.0,1,0.9,40,36.0
+88133141,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1550,1433,3.0,7,0.61,40,24.4,"Stephen, Andrews",,1568.0,False,IND,1.0,1,0.68,40,27.2
+88133141,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1550,1433,3.0,7,0.61,40,24.4,"Advik, Reddy Moate",,1608.0,False,IND,0.0,1,-0.27,40,-10.8
+88133141,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1550,1433,3.0,7,0.61,40,24.4,"Pavan, Kumar Posa",,1531.0,False,IND,0.0,1,-0.37,40,-14.8
+88133141,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1550,1433,3.0,7,0.61,40,24.4,"Shantharam, K",,1534.0,False,IND,0.5,1,0.14,40,5.6
+88133141,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1550,1433,3.0,7,0.61,40,24.4,"Sai, Arun Challa",,1526.0,False,IND,1.0,1,0.63,40,25.2
+88133141,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1550,1433,3.0,7,0.61,40,24.4,"Irondla, Shiva Kumar",,1525.0,False,IND,0.5,1,0.13,40,5.2
+88133141,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1550,1433,3.0,7,0.61,40,24.4,"Vivaan, Bhattacharya",,1555.0,False,IND,0.0,1,-0.33,40,-13.2

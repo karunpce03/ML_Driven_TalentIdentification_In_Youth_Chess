@@ -1,0 +1,67 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25996037,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,1806,1567,3.0,8,1.3,40,52.0,"Buakird, Apichit",,1967.0,True,THA,0.0,1,-0.08,40,-3.2
+25996037,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,1806,1567,3.0,8,1.3,40,52.0,"Tanish, Ragavan S",,1798.0,False,IND,0.0,1,-0.21,40,-8.4
+25996037,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,1806,1567,3.0,8,1.3,40,52.0,"Buranasing, Wanawee",,1763.0,False,THA,0.5,1,0.25,40,10.0
+25996037,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,1806,1567,3.0,8,1.3,40,52.0,"Rolston, Daniel Haruma",,1795.0,False,JPN,1.0,1,0.79,40,31.6
+25996037,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,1806,1567,3.0,8,1.3,40,52.0,"Gutsulyak, Nikolay",,1863.0,False,FID,0.0,1,-0.15,40,-6.0
+25996037,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,1806,1567,3.0,8,1.3,40,52.0,"McCready, Mark",,1870.0,False,ENG,0.0,1,-0.14,40,-5.6
+25996037,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,1806,1567,3.0,8,1.3,40,52.0,"Frost, Peter",,1785.0,False,AUS,0.5,1,0.28,40,11.2
+25996037,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,1806,1567,3.0,8,1.3,40,52.0,"Rangkaew, Katunchalee",,1609.0,False,THA,1.0,1,0.56,40,22.4
+25996037,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1855,1567,3.0,9,1.55,40,62.0,"Nagataki, Kota",,1967.0,True,JPN,0.0,1,-0.08,40,-3.2
+25996037,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1855,1567,3.0,9,1.55,40,62.0,"Hong, Ian",,1862.0,False,KOR,0.0,1,-0.15,40,-6.0
+25996037,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1855,1567,3.0,9,1.55,40,62.0,"Bae, Sungwoo",,1810.0,False,KOR,0.0,1,-0.2,40,-8.0
+25996037,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1855,1567,3.0,9,1.55,40,62.0,"Feng, Angela",wc,1802.0,False,AUS,1.0,1,0.79,40,31.6
+25996037,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1855,1567,3.0,9,1.55,40,62.0,"Sajjapornthep, Jarunpol",,1863.0,False,THA,0.5,1,0.35,40,14.0
+25996037,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1855,1567,3.0,9,1.55,40,62.0,"Kim, Changhoon",c,1902.0,False,KOR,0.5,1,0.38,40,15.2
+25996037,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1855,1567,3.0,9,1.55,40,62.0,"Umer, S.m",,1840.0,False,IND,0.0,1,-0.17,40,-6.8
+25996037,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1855,1567,3.0,9,1.55,40,62.0,"Karasmaki, Seppo",,1774.0,False,FIN,1.0,1,0.77,40,30.8
+25996037,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1855,1567,3.0,9,1.55,40,62.0,"Siddharth, Sai",,1874.0,False,SGP,0.0,1,-0.14,40,-5.6
+25996037,2024-08-01,0,The Rooky Monthly FIDE Rated - July 2024,Bangkok THA,2024-07-06,2024-07-08,1715,1681,2.5,3,1.15,40,46.0,"Liukasemsarn, Pakornnarong",,1458.0,False,THA,1.0,1,0.22,40,8.8
+25996037,2024-08-01,0,The Rooky Monthly FIDE Rated - July 2024,Bangkok THA,2024-07-06,2024-07-08,1715,1681,2.5,3,1.15,40,46.0,"Brown, Geoffrey M",,1836.0,False,ENG,1.0,1,0.71,40,28.4
+25996037,2024-08-01,0,The Rooky Monthly FIDE Rated - July 2024,Bangkok THA,2024-07-06,2024-07-08,1715,1681,2.5,3,1.15,40,46.0,"Gutsulyak, Nikolay",,1850.0,False,FID,0.5,1,0.22,40,8.8
+25996037,2024-09-01,0,2nd Rooky Chessmate Int'l Championship Bangkok - Standard U1800,Bangkok THA,2024-08-10,2024-08-11,1599,1727,5.0,6,1.05,40,42.0,"Chiadthaisong, Kanuengnit",,1503.0,False,THA,1.0,1,0.22,40,8.8
+25996037,2024-09-01,0,2nd Rooky Chessmate Int'l Championship Bangkok - Standard U1800,Bangkok THA,2024-08-10,2024-08-11,1599,1727,5.0,6,1.05,40,42.0,"Saisud, Krit",,1542.0,False,THA,1.0,1,0.26,40,10.4
+25996037,2024-09-01,0,2nd Rooky Chessmate Int'l Championship Bangkok - Standard U1800,Bangkok THA,2024-08-10,2024-08-11,1599,1727,5.0,6,1.05,40,42.0,"Buranasing, Wanawee",,1778.0,False,THA,0.0,1,-0.43,40,-17.2
+25996037,2024-09-01,0,2nd Rooky Chessmate Int'l Championship Bangkok - Standard U1800,Bangkok THA,2024-08-10,2024-08-11,1599,1727,5.0,6,1.05,40,42.0,"Chen, Stephanie",,1421.0,False,USA,1.0,1,0.14,40,5.6
+25996037,2024-09-01,0,2nd Rooky Chessmate Int'l Championship Bangkok - Standard U1800,Bangkok THA,2024-08-10,2024-08-11,1599,1727,5.0,6,1.05,40,42.0,"Siridanupath, Gavin",,1587.0,False,THA,1.0,1,0.31,40,12.4
+25996037,2024-09-01,0,2nd Rooky Chessmate Int'l Championship Bangkok - Standard U1800,Bangkok THA,2024-08-10,2024-08-11,1599,1727,5.0,6,1.05,40,42.0,"Batchis, Paul",,1761.0,False,USA,1.0,1,0.55,40,22.0
+25996037,2024-10-01,0,Go Checkmate 5th FIDE Rated Standard Chess Tournament,Singapore SGP,2024-09-07,2024-09-08,1526,1769,5.0,6,0.29,40,11.6,"Abhyuday, Jha",,1407.0,False,IND,1.0,1,0.1,40,4.0
+25996037,2024-10-01,0,Go Checkmate 5th FIDE Rated Standard Chess Tournament,Singapore SGP,2024-09-07,2024-09-08,1526,1769,5.0,6,0.29,40,11.6,"Low, Hei Yuet Cheryl",,1503.0,False,SGP,1.0,1,0.18,40,7.2
+25996037,2024-10-01,0,Go Checkmate 5th FIDE Rated Standard Chess Tournament,Singapore SGP,2024-09-07,2024-09-08,1526,1769,5.0,6,0.29,40,11.6,"Chit, Ye Thu",,1660.0,False,MYA,1.0,1,0.35,40,14.0
+25996037,2024-10-01,0,Go Checkmate 5th FIDE Rated Standard Chess Tournament,Singapore SGP,2024-09-07,2024-09-08,1526,1769,5.0,6,0.29,40,11.6,"Law, Dominic",,1681.0,False,SGP,0.5,1,-0.12,40,-4.8
+25996037,2024-10-01,0,Go Checkmate 5th FIDE Rated Standard Chess Tournament,Singapore SGP,2024-09-07,2024-09-08,1526,1769,5.0,6,0.29,40,11.6,"Chen, Ziyi Claire",,1401.0,False,SGP,1.0,1,0.1,40,4.0
+25996037,2024-10-01,0,Go Checkmate 5th FIDE Rated Standard Chess Tournament,Singapore SGP,2024-09-07,2024-09-08,1526,1769,5.0,6,0.29,40,11.6,"Wang, Mi Ya Mia",,1502.0,False,SGP,0.5,1,-0.32,40,-12.8
+25996037,2024-11-01,0,Go Checkmate 7th FIDE rated Standard Chess Tournament,Singapore SGP,2024-10-05,2024-10-06,1507,1781,2.5,5,-1.61,40,-64.4,"Medhansh, Veer Potluri",,1496.0,False,IND,0.5,1,-0.34,40,-13.6
+25996037,2024-11-01,0,Go Checkmate 7th FIDE rated Standard Chess Tournament,Singapore SGP,2024-10-05,2024-10-06,1507,1781,2.5,5,-1.61,40,-64.4,"Law, Dominic",,1627.0,False,SGP,0.0,1,-0.71,40,-28.4
+25996037,2024-11-01,0,Go Checkmate 7th FIDE rated Standard Chess Tournament,Singapore SGP,2024-10-05,2024-10-06,1507,1781,2.5,5,-1.61,40,-64.4,"Vaishak, Pradeep",,1411.0,False,SGP,1.0,1,0.1,40,4.0
+25996037,2024-11-01,0,Go Checkmate 7th FIDE rated Standard Chess Tournament,Singapore SGP,2024-10-05,2024-10-06,1507,1781,2.5,5,-1.61,40,-64.4,"Wang, Mi Ya Mia",,1561.0,False,SGP,1.0,1,0.22,40,8.8
+25996037,2024-11-01,0,Go Checkmate 7th FIDE rated Standard Chess Tournament,Singapore SGP,2024-10-05,2024-10-06,1507,1781,2.5,5,-1.61,40,-64.4,"Tewari, Siddhant",,1442.0,False,IND,0.0,1,-0.88,40,-35.2
+25996037,2024-11-01,0,2nd The Rooky International Open 2024 - Open,Bangkok THA,2024-10-19,2024-10-23,1709,1781,2.5,8,-2.25,40,-90.0,"Wiwatanadate, Poompong",f,2059.0,False,THA,0.0,1,-0.17,40,-6.8
+25996037,2024-11-01,0,2nd The Rooky International Open 2024 - Open,Bangkok THA,2024-10-19,2024-10-23,1709,1781,2.5,8,-2.25,40,-90.0,"Pinphetsawan, Sirikwan",,1553.0,False,THA,0.5,1,-0.29,40,-11.6
+25996037,2024-11-01,0,2nd The Rooky International Open 2024 - Open,Bangkok THA,2024-10-19,2024-10-23,1709,1781,2.5,8,-2.25,40,-90.0,"Enkhriikhen, Nyamdorj",,1645.0,False,MGL,0.5,1,-0.18,40,-7.2
+25996037,2024-11-01,0,2nd The Rooky International Open 2024 - Open,Bangkok THA,2024-10-19,2024-10-23,1709,1781,2.5,8,-2.25,40,-90.0,"Dayal, Samar",,1824.0,False,ENG,0.0,1,-0.44,40,-17.6
+25996037,2024-11-01,0,2nd The Rooky International Open 2024 - Open,Bangkok THA,2024-10-19,2024-10-23,1709,1781,2.5,8,-2.25,40,-90.0,"Jin, Renyushu",,1801.0,False,CHN,0.0,1,-0.47,40,-18.8
+25996037,2024-11-01,0,2nd The Rooky International Open 2024 - Open,Bangkok THA,2024-10-19,2024-10-23,1709,1781,2.5,8,-2.25,40,-90.0,"Chiadthaisong, Kanuengnit",,1520.0,False,THA,1.0,1,0.18,40,7.2
+25996037,2024-11-01,0,2nd The Rooky International Open 2024 - Open,Bangkok THA,2024-10-19,2024-10-23,1709,1781,2.5,8,-2.25,40,-90.0,"Pian, Junyao",,1716.0,False,CHN,0.5,1,-0.09,40,-3.6
+25996037,2024-11-01,0,2nd The Rooky International Open 2024 - Open,Bangkok THA,2024-10-19,2024-10-23,1709,1781,2.5,8,-2.25,40,-90.0,"Akhmetov, Rail",,1554.0,False,FID,0.0,1,-0.79,40,-31.6
+25996037,2025-02-01,0,Go Checkmate 12th FIDE rated Standard Chess Tournament,Singapore SGP,2025-01-18,2025-01-19,1576,1627,3.5,5,0.65,40,26.0,"Wang, Mi Ya Mia",,1472.0,False,SGP,1.0,1,0.29,40,11.6
+25996037,2025-02-01,0,Go Checkmate 12th FIDE rated Standard Chess Tournament,Singapore SGP,2025-01-18,2025-01-19,1576,1627,3.5,5,0.65,40,26.0,"Yeo, Lucas Li Zhe",,1604.0,False,SGP,0.5,1,-0.03,40,-1.2
+25996037,2025-02-01,0,Go Checkmate 12th FIDE rated Standard Chess Tournament,Singapore SGP,2025-01-18,2025-01-19,1576,1627,3.5,5,0.65,40,26.0,"Agarwal, Madhav",,1640.0,False,SGP,0.5,1,0.02,40,0.8
+25996037,2025-02-01,0,Go Checkmate 12th FIDE rated Standard Chess Tournament,Singapore SGP,2025-01-18,2025-01-19,1576,1627,3.5,5,0.65,40,26.0,"Benedict, Silveries Mathias Samue",,1541.0,False,SGP,1.0,1,0.38,40,15.2
+25996037,2025-02-01,0,Go Checkmate 12th FIDE rated Standard Chess Tournament,Singapore SGP,2025-01-18,2025-01-19,1576,1627,3.5,5,0.65,40,26.0,"Law, Dominic",,1622.0,False,SGP,0.5,1,-0.01,40,-0.4
+25996037,2025-03-01,0,Go Checkmate 15th FIDE Rated Standard Chess Tournament 2025,Singapore SGP,2025-01-29,2025-01-30,1545,1627,1.5,5,-1.55,40,-62.0,"Shaurik, Paramanik",,1496.0,False,IND,1.0,1,0.32,40,12.8
+25996037,2025-03-01,0,Go Checkmate 15th FIDE Rated Standard Chess Tournament 2025,Singapore SGP,2025-01-29,2025-01-30,1545,1627,1.5,5,-1.55,40,-62.0,"Timothy, Gerard Lopez",,1655.0,False,SGP,0.5,1,0.04,40,1.6
+25996037,2025-03-01,0,Go Checkmate 15th FIDE Rated Standard Chess Tournament 2025,Singapore SGP,2025-01-29,2025-01-30,1545,1627,1.5,5,-1.55,40,-62.0,"Chit, Ye Thu",,1581.0,False,MYA,0.0,1,-0.56,40,-22.4
+25996037,2025-03-01,0,Go Checkmate 15th FIDE Rated Standard Chess Tournament 2025,Singapore SGP,2025-01-29,2025-01-30,1545,1627,1.5,5,-1.55,40,-62.0,"Low, Hei Yuet Cheryl",,1522.0,False,SGP,0.0,1,-0.64,40,-25.6
+25996037,2025-03-01,0,Go Checkmate 15th FIDE Rated Standard Chess Tournament 2025,Singapore SGP,2025-01-29,2025-01-30,1545,1627,1.5,5,-1.55,40,-62.0,"Wang, Mi Ya Mia",,1472.0,False,SGP,0.0,1,-0.71,40,-28.4
+25996037,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1618,1653,4.5,6,1.21,40,48.4,"Shaunak, Paramanik",,1499.0,False,IND,1.0,1,0.29,40,11.6
+25996037,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1618,1653,4.5,6,1.21,40,48.4,"Chan, Jing Fong Joash",,1732.0,False,SGP,0.0,1,-0.39,40,-15.6
+25996037,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1618,1653,4.5,6,1.21,40,48.4,"Law, Dominic",,1670.0,False,SGP,1.0,1,0.52,40,20.8
+25996037,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1618,1653,4.5,6,1.21,40,48.4,"Singh, Shivam",,1549.0,False,SGP,1.0,1,0.36,40,14.4
+25996037,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1618,1653,4.5,6,1.21,40,48.4,"Ong, Ee Ming Julian",,1657.0,False,SGP,1.0,1,0.51,40,20.4
+25996037,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1618,1653,4.5,6,1.21,40,48.4,"Velmurugan Priyasudharsana, Ishaa",,1599.0,False,IND,0.5,1,-0.08,40,-3.2
+25996037,2025-04-01,0,Go Checkmate 17th FIDE Rated Standard Chess Tournament - 22 &amp; 23 Mar 2025,Singapore SGP,2025-03-22,2025-03-23,1585,1639,3.5,5,0.63,40,25.2,"Himanish, S R",,1500.0,False,IND,1.0,1,0.31,40,12.4
+25996037,2025-04-01,0,Go Checkmate 17th FIDE Rated Standard Chess Tournament - 22 &amp; 23 Mar 2025,Singapore SGP,2025-03-22,2025-03-23,1585,1639,3.5,5,0.63,40,25.2,"Law, Dominic",,1620.0,False,SGP,1.0,1,0.47,40,18.8
+25996037,2025-04-01,0,Go Checkmate 17th FIDE Rated Standard Chess Tournament - 22 &amp; 23 Mar 2025,Singapore SGP,2025-03-22,2025-03-23,1585,1639,3.5,5,0.63,40,25.2,"Cheng, Chee Heng Jayden",,1744.0,False,SGP,0.5,1,0.14,40,5.6
+25996037,2025-04-01,0,Go Checkmate 17th FIDE Rated Standard Chess Tournament - 22 &amp; 23 Mar 2025,Singapore SGP,2025-03-22,2025-03-23,1585,1639,3.5,5,0.63,40,25.2,"Dai, Zhuoyang",,1591.0,False,SGP,0.0,1,-0.57,40,-22.8
+25996037,2025-04-01,0,Go Checkmate 17th FIDE Rated Standard Chess Tournament - 22 &amp; 23 Mar 2025,Singapore SGP,2025-03-22,2025-03-23,1585,1639,3.5,5,0.63,40,25.2,"Lim, Hong Yi",,1472.0,False,SGP,1.0,1,0.28,40,11.2

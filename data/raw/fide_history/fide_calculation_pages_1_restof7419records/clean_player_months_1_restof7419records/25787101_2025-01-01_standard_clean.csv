@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25787101,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2131,1899,4.5,9,2.51,36,90.36,"Tay, Shi Hao",,2038,False,SGP,1.0,1,0.69,36,24.84
+25787101,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2131,1899,4.5,9,2.51,36,90.36,"Hoang, Thi Bao Tram",wg,2193,False,VIE,1.0,1,0.85,36,30.6
+25787101,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2131,1899,4.5,9,2.51,36,90.36,"Poh, Yu Tian",m,2299,True,MAS,0.0,1,-0.08,36,-2.88
+25787101,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2131,1899,4.5,9,2.51,36,90.36,"Gluhovsky, Mark",,2223,False,FID,0.0,1,-0.13,36,-4.68
+25787101,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2131,1899,4.5,9,2.51,36,90.36,"Madhvendra, Pratap Sharma",c,2201,False,IND,0.0,1,-0.15,36,-5.4
+25787101,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2131,1899,4.5,9,2.51,36,90.36,"Malikova, Marjona",wm,2091,False,UZB,0.5,1,0.25,36,9.0
+25787101,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2131,1899,4.5,9,2.51,36,90.36,"Mendoza, Shania Mae",wf,2049,False,PHI,0.5,1,0.2,36,7.2
+25787101,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2131,1899,4.5,9,2.51,36,90.36,"Bivor, Adak",,2060,False,IND,0.5,1,0.21,36,7.56
+25787101,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2131,1899,4.5,9,2.51,36,90.36,"Galas, Bernadette",wm,2022,False,PHI,1.0,1,0.67,36,24.12
+25787101,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2200,1899,6.5,10,4.86,36,174.96,"Daksh, Goyal",,2116,False,IND,0.0,1,-0.22,36,-7.92
+25787101,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2200,1899,6.5,10,4.86,36,174.96,"Badamundi, Tapan",,1964,False,IND,0.5,1,0.09,36,3.24
+25787101,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2200,1899,6.5,10,4.86,36,174.96,"Manush, Shah",m,2299,True,IND,1.0,1,0.92,36,33.12
+25787101,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2200,1899,6.5,10,4.86,36,174.96,"Sivathanujan, S",,2040,False,SRI,1.0,1,0.69,36,24.84
+25787101,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2200,1899,6.5,10,4.86,36,174.96,"Vignesh, B",,2195,False,IND,1.0,1,0.85,36,30.6
+25787101,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2200,1899,6.5,10,4.86,36,174.96,"Setumadhav, Yellumahanthi",f,2299,True,IND,0.5,1,0.42,36,15.12
+25787101,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2200,1899,6.5,10,4.86,36,174.96,"Nguyen, Duc Hoa",g,2299,True,VIE,0.5,1,0.42,36,15.12
+25787101,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2200,1899,6.5,10,4.86,36,174.96,"Koustuv, Dash",,2190,False,IND,1.0,1,0.85,36,30.6
+25787101,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2200,1899,6.5,10,4.86,36,174.96,"Kaustuv, Kundu",m,2299,True,IND,1.0,1,0.92,36,33.12
+25787101,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2200,1899,6.5,10,4.86,36,174.96,"Iniyan, Pa",g,2299,True,IND,0.0,1,-0.08,36,-2.88

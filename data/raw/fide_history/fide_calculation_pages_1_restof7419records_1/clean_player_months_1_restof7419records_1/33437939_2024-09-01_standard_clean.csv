@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33437939,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1688,1499,3.0,6,1.39,40,55.6,"Bharanidharan, Nedunchezhian",,1668,False,IND,0.0,1,-0.28,40,-11.2
+33437939,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1688,1499,3.0,6,1.39,40,55.6,"Santhosh, V L",,1637,False,IND,1.0,1,0.69,40,27.6
+33437939,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1688,1499,3.0,6,1.39,40,55.6,"Keerthivasan, P K",,1647,False,IND,1.0,1,0.7,40,28.0
+33437939,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1688,1499,3.0,6,1.39,40,55.6,"Vijay, Shreeram P",,1899,True,IND,0.0,1,-0.08,40,-3.2
+33437939,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1688,1499,3.0,6,1.39,40,55.6,"Sahana, S",,1605,False,IND,1.0,1,0.64,40,25.6
+33437939,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1688,1499,3.0,6,1.39,40,55.6,"Brijesh, Poola",,1669,False,IND,0.0,1,-0.28,40,-11.2

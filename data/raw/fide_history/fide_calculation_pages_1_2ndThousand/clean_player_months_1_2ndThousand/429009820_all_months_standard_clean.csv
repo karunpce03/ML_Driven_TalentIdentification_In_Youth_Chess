@@ -1,0 +1,17 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429009820,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.0,2,0.0,801,,"Yuvan, Raj A",,1549.0,False,IND,0.0,1,0.0,,0.0
+429009820,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.0,2,0.0,801,,"Sabareeshwaran, S",,1653.0,False,IND,0.0,1,0.0,,0.0
+429009820,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.0,7,0.0,1441,,"Nikhil, T L",,1607.0,False,IND,0.0,1,0.0,,0.0
+429009820,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.0,7,0.0,1441,,"Shuruthi, Arulmani",,1503.0,False,IND,0.0,1,0.0,,0.0
+429009820,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.0,7,0.0,1441,,"Shashwat, T S",,1443.0,False,IND,0.0,1,0.0,,0.0
+429009820,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.0,7,0.0,1441,,"Rahul, Krishnamoorthy",,1411.0,False,IND,1.0,1,0.0,,0.0
+429009820,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.0,7,0.0,1441,,"Sankar, Covai",,1531.0,False,IND,0.5,1,0.0,,0.0
+429009820,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.0,7,0.0,1441,,Pandisurya,,1472.0,False,IND,0.5,1,0.0,,0.0
+429009820,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.0,7,0.0,1441,,Balasubramaniam.p.a,,1467.0,False,IND,1.0,1,0.0,,0.0
+429009820,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1655.0,1516.0,0.0,3,-0.98,40,-39.2,"Karthikeyan, Sakthivel",,1750.0,False,IND,0.0,1,-0.21,40.0,-8.4
+429009820,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1655.0,1516.0,0.0,3,-0.98,40,-39.2,"Adharva, P T",,1743.0,False,IND,0.0,1,-0.21,40.0,-8.4
+429009820,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1655.0,1516.0,0.0,3,-0.98,40,-39.2,"Dev, Dharshan S",,1473.0,False,IND,0.0,1,-0.56,40.0,-22.4
+429009820,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1561.0,1477.0,1.5,4,-0.05,40,-2.0,"Sharveshwaran, K",,1442.0,False,IND,1.0,1,0.45,40.0,18.0
+429009820,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1561.0,1477.0,1.5,4,-0.05,40,-2.0,"Vipin, K A",,1676.0,False,IND,0.0,1,-0.24,40.0,-9.6
+429009820,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1561.0,1477.0,1.5,4,-0.05,40,-2.0,"Madhav, S Nair",,1596.0,False,IND,0.0,1,-0.34,40.0,-13.6
+429009820,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1561.0,1477.0,1.5,4,-0.05,40,-2.0,"Keerthyvarman, S",,1531.0,False,IND,0.5,1,0.08,40.0,3.2

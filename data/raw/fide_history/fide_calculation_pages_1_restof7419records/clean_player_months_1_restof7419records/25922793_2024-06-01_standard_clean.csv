@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25922793,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1678,1864,7.0,10,-0.26,36,-9.36,"Dhiren, Makhija",,1464.0,True,IND,1.0,1,0.08,36,2.88
+25922793,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1678,1864,7.0,10,-0.26,36,-9.36,"Virat, Singh",,1529.0,False,IND,1.0,1,0.12,36,4.32
+25922793,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1678,1864,7.0,10,-0.26,36,-9.36,"Pranav, P G",,1611.0,False,IND,1.0,1,0.19,36,6.84
+25922793,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1678,1864,7.0,10,-0.26,36,-9.36,"Samaksh, Ashok",,1694.0,False,IND,0.5,1,-0.22,36,-7.92
+25922793,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1678,1864,7.0,10,-0.26,36,-9.36,"Adrij, Bhattacharyya",,1689.0,False,IND,1.0,1,0.27,36,9.72
+25922793,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1678,1864,7.0,10,-0.26,36,-9.36,"Navalgund, Niranjan",f,2168.0,False,IND,0.0,1,-0.14,36,-5.04
+25922793,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1678,1864,7.0,10,-0.26,36,-9.36,"Hrishikesh, Ganapathy Subramanian",,1658.0,False,IND,1.0,1,0.24,36,8.64
+25922793,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1678,1864,7.0,10,-0.26,36,-9.36,"Yeshas, H",,1713.0,False,IND,0.5,1,-0.2,36,-7.2
+25922793,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1678,1864,7.0,10,-0.26,36,-9.36,"Aarya, Satish Chikodi",,1648.0,False,IND,0.0,1,-0.78,36,-28.08
+25922793,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1678,1864,7.0,10,-0.26,36,-9.36,"Manish, Kumar (dhanbad)",,1604.0,False,IND,1.0,1,0.18,36,6.48
+25922793,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1726,1864,6.5,9,0.39,36,14.04,"Ramesh Nair, Advait",,1526.0,False,IND,1.0,1,0.12,36,4.32
+25922793,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1726,1864,6.5,9,0.39,36,14.04,"Anirban, Mondal",,1645.0,False,IND,1.0,1,0.22,36,7.92
+25922793,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1726,1864,6.5,9,0.39,36,14.04,"Shibin, K Benny",,1692.0,False,IND,0.5,1,-0.23,36,-8.28
+25922793,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1726,1864,6.5,9,0.39,36,14.04,"Somnath, Banerjee",,1683.0,False,IND,1.0,1,0.26,36,9.36
+25922793,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1726,1864,6.5,9,0.39,36,14.04,"Shejal, Sahil Sanjay",,1740.0,False,IND,0.5,1,-0.17,36,-6.12
+25922793,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1726,1864,6.5,9,0.39,36,14.04,"Vishruth, B",,1731.0,False,IND,1.0,1,0.32,36,11.52
+25922793,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1726,1864,6.5,9,0.39,36,14.04,"Nidhish, Shyamal",,1677.0,False,IND,1.0,1,0.26,36,9.36
+25922793,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1726,1864,6.5,9,0.39,36,14.04,"Md, Imran",f,2171.0,False,IND,0.0,1,-0.14,36,-5.04
+25922793,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1726,1864,6.5,9,0.39,36,14.04,"Kadam, Arnav",,1670.0,False,IND,0.5,1,-0.25,36,-9.0

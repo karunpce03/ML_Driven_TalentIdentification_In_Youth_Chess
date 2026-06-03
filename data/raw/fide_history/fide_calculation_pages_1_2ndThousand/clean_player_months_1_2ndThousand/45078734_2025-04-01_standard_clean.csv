@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45078734,2025-04-01,0,Stein am Rhein Open 2025,Stein am Rhein SUI,2025-03-14,2025-03-16,1993,2101,3.5,5,0.27,40,10.8,"Steiner, Mario",,1795,False,SUI,1.0,1,0.14,40,5.6
+45078734,2025-04-01,0,Stein am Rhein Open 2025,Stein am Rhein SUI,2025-03-14,2025-03-16,1993,2101,3.5,5,0.27,40,10.8,"Bernet, David",,1829,False,SUI,1.0,1,0.17,40,6.8
+45078734,2025-04-01,0,Stein am Rhein Open 2025,Stein am Rhein SUI,2025-03-14,2025-03-16,1993,2101,3.5,5,0.27,40,10.8,"Krivoborodov, Egor",g,2501,True,GER,0.0,1,-0.08,40,-3.2
+45078734,2025-04-01,0,Stein am Rhein Open 2025,Stein am Rhein SUI,2025-03-14,2025-03-16,1993,2101,3.5,5,0.27,40,10.8,"Guntaka, Aayansh",,1866,False,USA,1.0,1,0.21,40,8.4
+45078734,2025-04-01,0,Stein am Rhein Open 2025,Stein am Rhein SUI,2025-03-14,2025-03-16,1993,2101,3.5,5,0.27,40,10.8,"Bueble, Joschua",,1974,False,GER,0.5,1,-0.17,40,-6.8
+45078734,2025-04-01,0,FIDE World School Chess Championships 2025 - O17,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1978,2101,6.0,9,0.21,40,8.4,"Gigov, Mario",,1742,False,SRB,1.0,1,0.1,40,4.0
+45078734,2025-04-01,0,FIDE World School Chess Championships 2025 - O17,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1978,2101,6.0,9,0.21,40,8.4,"Kanacki, Vuk",,1956,False,SRB,1.0,1,0.31,40,12.4
+45078734,2025-04-01,0,FIDE World School Chess Championships 2025 - O17,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1978,2101,6.0,9,0.21,40,8.4,"Bogdanov, Artyom",f,2373,False,KAZ,0.0,1,-0.17,40,-6.8
+45078734,2025-04-01,0,FIDE World School Chess Championships 2025 - O17,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1978,2101,6.0,9,0.21,40,8.4,"Andjelkovic, Aleksandar M",,1930,False,SRB,0.0,1,-0.73,40,-29.2
+45078734,2025-04-01,0,FIDE World School Chess Championships 2025 - O17,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1978,2101,6.0,9,0.21,40,8.4,"Adilbekuly, Altair",,1701,True,KAZ,1.0,1,0.08,40,3.2
+45078734,2025-04-01,0,FIDE World School Chess Championships 2025 - O17,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1978,2101,6.0,9,0.21,40,8.4,"Milanovic, Marko",f,2271,False,SRB,0.5,1,0.22,40,8.8
+45078734,2025-04-01,0,FIDE World School Chess Championships 2025 - O17,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1978,2101,6.0,9,0.21,40,8.4,"Rustamov, Bekzod",,1829,False,UZB,1.0,1,0.17,40,6.8
+45078734,2025-04-01,0,FIDE World School Chess Championships 2025 - O17,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1978,2101,6.0,9,0.21,40,8.4,"Brankovic, Uros",,1966,False,SRB,1.0,1,0.32,40,12.8
+45078734,2025-04-01,0,FIDE World School Chess Championships 2025 - O17,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1978,2101,6.0,9,0.21,40,8.4,"Elmirzaev, Khondamir",,2036,False,UZB,0.5,1,-0.09,40,-3.6

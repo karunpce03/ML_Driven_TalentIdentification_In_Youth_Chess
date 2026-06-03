@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33347190,2024-05-01,0,UAE League Chess Championship - U14 Open,Emirates UAE,2024-02-10,2024-03-10,1333,1552,1.5,3,-0.8,40,-32.0,"Ammar, Abdalla",,1229.0,False,UAE,1.0,1,0.13,40,5.2
+33347190,2024-05-01,0,UAE League Chess Championship - U14 Open,Emirates UAE,2024-02-10,2024-03-10,1333,1552,1.5,3,-0.8,40,-32.0,"Rashid, Husain Alhammadi",,1330.0,False,UAE,0.0,1,-0.78,40,-31.2
+33347190,2024-05-01,0,UAE League Chess Championship - U14 Open,Emirates UAE,2024-02-10,2024-03-10,1333,1552,1.5,3,-0.8,40,-32.0,"Salim Jasim, Alblooshi",,1439.0,False,UAE,0.5,1,-0.15,40,-6.0
+33347190,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,1509,1731,4.5,6,-0.17,40,-6.8,"Jai, Anand",,1501.0,False,IND,1.0,1,0.21,40,8.4
+33347190,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,1509,1731,4.5,6,-0.17,40,-6.8,"Sai, Hridhay S",,1594.0,False,IND,0.0,1,-0.68,40,-27.2
+33347190,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,1509,1731,4.5,6,-0.17,40,-6.8,Danish,,1460.0,False,IND,1.0,1,0.17,40,6.8
+33347190,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,1509,1731,4.5,6,-0.17,40,-6.8,"Reeha, Marakkar",,1503.0,False,IND,1.0,1,0.21,40,8.4
+33347190,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,1509,1731,4.5,6,-0.17,40,-6.8,"Kaushika, Sridharan",,1558.0,False,IND,0.5,1,-0.23,40,-9.2
+33347190,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,1509,1731,4.5,6,-0.17,40,-6.8,"Mohamed Atif, Kareem",,1435.0,False,EGY,1.0,1,0.15,40,6.0

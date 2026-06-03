@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25182960,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1650,1474,0.0,3,-0.81,40,-32.4,"Saptarshi, Talukdar",,1702.0,False,IND,0.0,1,-0.21,40,-8.4
+25182960,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1650,1474,0.0,3,-0.81,40,-32.4,"Souhardya, Prosad Sinha",,1609.0,False,IND,0.0,1,-0.32,40,-12.8
+25182960,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1650,1474,0.0,3,-0.81,40,-32.4,"Samrat, Sutar",,1639.0,False,IND,0.0,1,-0.28,40,-11.2

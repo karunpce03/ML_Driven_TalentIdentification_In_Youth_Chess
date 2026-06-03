@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25106821,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2116,2047,3.5,9,-0.37,40,-14.8,"Yashpal, Arora",,1869,False,IND,0.5,1,-0.23,40,-9.2
+25106821,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2116,2047,3.5,9,-0.37,40,-14.8,"Aditya, P Melani",,1942,False,IND,1.0,1,0.36,40,14.4
+25106821,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2116,2047,3.5,9,-0.37,40,-14.8,"Harshavardhan, G B",m,2417,False,IND,0.0,1,-0.1,40,-4.0
+25106821,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2116,2047,3.5,9,-0.37,40,-14.8,"Dinesh, Rajan M",c,2157,False,IND,0.5,1,0.15,40,6.0
+25106821,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2116,2047,3.5,9,-0.37,40,-14.8,"Aronyak, Ghosh",c,2447,True,IND,0.0,1,-0.08,40,-3.2
+25106821,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2116,2047,3.5,9,-0.37,40,-14.8,"Siddhanth, Poonja",,2064,False,IND,0.5,1,0.02,40,0.8
+25106821,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2116,2047,3.5,9,-0.37,40,-14.8,"Peter Anand, A",,2018,False,IND,0.5,1,-0.04,40,-1.6
+25106821,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2116,2047,3.5,9,-0.37,40,-14.8,"Pattnayak, Nilsu",,2115,False,IND,0.0,1,-0.41,40,-16.4
+25106821,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2116,2047,3.5,9,-0.37,40,-14.8,"Karan, J P",,2018,False,IND,0.5,1,-0.04,40,-1.6

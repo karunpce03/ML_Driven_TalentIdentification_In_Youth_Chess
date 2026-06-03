@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25611330,2025-01-01,0,55th Annual National Chess Congress - Premier,"Philadelphia, PA USA",2024-11-29,2024-12-01,1928,1891,1.0,5,-1.25,40,-50.0,"Dubnoff, Micah Simon",,2046.0,False,USA,0.0,1,-0.29,40,-11.6
+25611330,2025-01-01,0,55th Annual National Chess Congress - Premier,"Philadelphia, PA USA",2024-11-29,2024-12-01,1928,1891,1.0,5,-1.25,40,-50.0,"Xie, Timothy",,1861.0,False,USA,0.0,1,-0.54,40,-21.6
+25611330,2025-01-01,0,55th Annual National Chess Congress - Premier,"Philadelphia, PA USA",2024-11-29,2024-12-01,1928,1891,1.0,5,-1.25,40,-50.0,"Tang, Vincent",,1905.0,False,USA,0.0,1,-0.48,40,-19.2
+25611330,2025-01-01,0,55th Annual National Chess Congress - Premier,"Philadelphia, PA USA",2024-11-29,2024-12-01,1928,1891,1.0,5,-1.25,40,-50.0,"Stern, Kevin Bradley",,1970.0,False,USA,0.5,1,0.11,40,4.4
+25611330,2025-01-01,0,55th Annual National Chess Congress - Premier,"Philadelphia, PA USA",2024-11-29,2024-12-01,1928,1891,1.0,5,-1.25,40,-50.0,"Zhang, Royce",,1856.0,False,USA,0.5,1,-0.05,40,-2.0
+25611330,2025-01-01,0,1st Annual Benjamin Franklin Open,"Langhorne, PA USA",2024-12-20,2024-12-22,1726,1891,2.5,5,-1.07,40,-42.8,"Prasanna, Pranav",,1723.0,False,USA,0.0,1,-0.72,40,-28.8
+25611330,2025-01-01,0,1st Annual Benjamin Franklin Open,"Langhorne, PA USA",2024-12-20,2024-12-22,1726,1891,2.5,5,-1.07,40,-42.8,"Vaneswaran, Anand",,1767.0,False,USA,0.5,1,-0.17,40,-6.8
+25611330,2025-01-01,0,1st Annual Benjamin Franklin Open,"Langhorne, PA USA",2024-12-20,2024-12-22,1726,1891,2.5,5,-1.07,40,-42.8,"Muthu, Kamatchi",,1610.0,False,USA,0.0,1,-0.84,40,-33.6
+25611330,2025-01-01,0,1st Annual Benjamin Franklin Open,"Langhorne, PA USA",2024-12-20,2024-12-22,1726,1891,2.5,5,-1.07,40,-42.8,"Zeigler, Nathan",,1803.0,False,USA,1.0,1,0.38,40,15.2
+25611330,2025-01-01,0,1st Annual Benjamin Franklin Open,"Langhorne, PA USA",2024-12-20,2024-12-22,1726,1891,2.5,5,-1.07,40,-42.8,"Parripati, Tanay",,1727.0,False,USA,1.0,1,0.28,40,11.2

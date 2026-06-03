@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48774316,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,,,1.5,4,0.0,1526,,"Muleta, Jordan",,1897,False,FID,0.0,1,0.0,,0.0
+48774316,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,,,1.5,4,0.0,1526,,"Tannish, Mahesh",,1576,False,IND,0.0,1,0.0,,0.0
+48774316,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,,,1.5,4,0.0,1526,,"Pranav, Ashwin",,1484,False,IND,0.5,1,0.0,,0.0
+48774316,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,,,1.5,4,0.0,1526,,"Goel, Vivan",,1493,False,IND,1.0,1,0.0,,0.0

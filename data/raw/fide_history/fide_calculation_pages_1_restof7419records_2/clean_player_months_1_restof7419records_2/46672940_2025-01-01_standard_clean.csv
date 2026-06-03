@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+46672940,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2352,2288,4.0,9,0.28,20,5.6,"Sahib, Singh",f,2438.0,False,IND,0.0,1,-0.3,20,-6.0
+46672940,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2352,2288,4.0,9,0.28,20,5.6,"Aitbayev, Aslan",m,2369.0,False,KAZ,0.5,1,0.11,20,2.2
+46672940,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2352,2288,4.0,9,0.28,20,5.6,"Dixit, Nikhil",f,2361.0,False,IND,0.0,1,-0.4,20,-8.0
+46672940,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2352,2288,4.0,9,0.28,20,5.6,"Sliwicka, Alicja",wg,2346.0,False,POL,0.0,1,-0.42,20,-8.4
+46672940,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2352,2288,4.0,9,0.28,20,5.6,"Wafa, Hamed",m,2359.0,False,EGY,0.0,1,-0.4,20,-8.0
+46672940,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2352,2288,4.0,9,0.28,20,5.6,"Yakubbaeva, Nilufar",wg,2241.0,False,UZB,1.0,1,0.43,20,8.6
+46672940,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2352,2288,4.0,9,0.28,20,5.6,"Navrotescu, Andreea",wg,2356.0,False,FRA,1.0,1,0.59,20,11.8
+46672940,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2352,2288,4.0,9,0.28,20,5.6,"Munguntuul, Batkhuyag",m wg,2342.0,False,MGL,1.0,1,0.58,20,11.6
+46672940,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2352,2288,4.0,9,0.28,20,5.6,"Khamdamova, Afruza",wm,2354.0,False,UZB,0.5,1,0.09,20,1.8

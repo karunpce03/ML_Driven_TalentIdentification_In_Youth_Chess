@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33469881,2024-12-01,0,Shantikumarji Firodia Classical Fide Rating Chess Tournament 2024,Ahmednagar IND,2024-11-06,2024-11-10,1599,1465,2.0,5,0.39,40,15.6,"Ayaan, Somani",,1681.0,False,IND,0.5,1,0.28,40,11.2
+33469881,2024-12-01,0,Shantikumarji Firodia Classical Fide Rating Chess Tournament 2024,Ahmednagar IND,2024-11-06,2024-11-10,1599,1465,2.0,5,0.39,40,15.6,"Dandekar, Umesh",,1625.0,False,IND,0.0,1,-0.29,40,-11.6
+33469881,2024-12-01,0,Shantikumarji Firodia Classical Fide Rating Chess Tournament 2024,Ahmednagar IND,2024-11-06,2024-11-10,1599,1465,2.0,5,0.39,40,15.6,"Raghav, Renuk Pawade",,1555.0,False,IND,0.0,1,-0.38,40,-15.2
+33469881,2024-12-01,0,Shantikumarji Firodia Classical Fide Rating Chess Tournament 2024,Ahmednagar IND,2024-11-06,2024-11-10,1599,1465,2.0,5,0.39,40,15.6,"Aryan, Kumar",,1522.0,False,IND,1.0,1,0.58,40,23.2
+33469881,2024-12-01,0,Shantikumarji Firodia Classical Fide Rating Chess Tournament 2024,Ahmednagar IND,2024-11-06,2024-11-10,1599,1465,2.0,5,0.39,40,15.6,"Ingale, Shreeraj",,1613.0,False,IND,0.5,1,0.2,40,8.0

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366193030,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1686,1767,5.5,9,0.1,40,4.0,"Vishesh, Dadhich",,1407.0,False,IND,1.0,1,0.1,40,4.0
+366193030,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1686,1767,5.5,9,0.1,40,4.0,"Hriday, Dhinwa",,1564.0,False,IND,1.0,1,0.24,40,9.6
+366193030,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1686,1767,5.5,9,0.1,40,4.0,"Chatterjee, K.k.",c,1982.0,False,IND,0.5,1,0.27,40,10.8
+366193030,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1686,1767,5.5,9,0.1,40,4.0,"Deboushnik, De",,1971.0,False,IND,0.0,1,-0.24,40,-9.6
+366193030,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1686,1767,5.5,9,0.1,40,4.0,"Neel, Prakash Nankani",,1626.0,False,IND,1.0,1,0.31,40,12.4
+366193030,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1686,1767,5.5,9,0.1,40,4.0,"Divam, Arya",,1628.0,False,IND,0.5,1,-0.19,40,-7.6
+366193030,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1686,1767,5.5,9,0.1,40,4.0,"Plavit, Chandalia",,1598.0,False,IND,0.5,1,-0.22,40,-8.8
+366193030,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1686,1767,5.5,9,0.1,40,4.0,"Kavyansh, Jain",,1568.0,False,IND,1.0,1,0.24,40,9.6
+366193030,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1686,1767,5.5,9,0.1,40,4.0,"Aamuktha, Guntaka",,1833.0,False,IND,0.0,1,-0.41,40,-16.4

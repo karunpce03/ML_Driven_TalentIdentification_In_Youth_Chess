@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25983989,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1708,1456,2.5,7,1.07,40,42.8,"Aditya, Savalkar",,1856,True,IND,0.0,1,-0.08,40,-3.2
+25983989,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1708,1456,2.5,7,1.07,40,42.8,"Aravindakshan, Su",,1656,False,IND,0.5,1,0.26,40,10.4
+25983989,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1708,1456,2.5,7,1.07,40,42.8,"M Tulasi Ram, Kumar",,1585,False,IND,1.0,1,0.67,40,26.8
+25983989,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1708,1456,2.5,7,1.07,40,42.8,"Kesavamoorthy, G",,1723,False,IND,1.0,1,0.82,40,32.8
+25983989,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1708,1456,2.5,7,1.07,40,42.8,"Mahindrakar, Indrajeet",,1856,True,IND,0.0,1,-0.08,40,-3.2
+25983989,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1708,1456,2.5,7,1.07,40,42.8,"Dahale, Rajas",,1648,False,IND,0.0,1,-0.25,40,-10.0
+25983989,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1708,1456,2.5,7,1.07,40,42.8,"Vivaan, Bhattacharya",,1631,False,IND,0.0,1,-0.27,40,-10.8

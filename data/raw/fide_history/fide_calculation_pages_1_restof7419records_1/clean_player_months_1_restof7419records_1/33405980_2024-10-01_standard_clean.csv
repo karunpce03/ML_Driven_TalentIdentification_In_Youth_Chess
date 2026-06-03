@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33405980,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1841,1896,6.5,11,0.14,40,5.6,"Akarsh, Achyut",,1568,False,IND,1.0,1,0.13,40,5.2
+33405980,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1841,1896,6.5,11,0.14,40,5.6,"Bhattacharyya, Soham",,2296,True,IND,1.0,1,0.92,40,36.8
+33405980,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1841,1896,6.5,11,0.14,40,5.6,"Daksh, Goyal",,2026,False,IND,0.0,1,-0.32,40,-12.8
+33405980,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1841,1896,6.5,11,0.14,40,5.6,"Gagan, Sahu",,1763,False,IND,1.0,1,0.32,40,12.8
+33405980,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1841,1896,6.5,11,0.14,40,5.6,"Samyak, Dharewa",,2074,False,IND,0.0,1,-0.27,40,-10.8
+33405980,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1841,1896,6.5,11,0.14,40,5.6,"Priyansh, Sahu",,1725,False,IND,0.0,1,-0.73,40,-29.2
+33405980,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1841,1896,6.5,11,0.14,40,5.6,"Shrivastava, Kushagra",,1757,False,IND,1.0,1,0.31,40,12.4
+33405980,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1841,1896,6.5,11,0.14,40,5.6,"Adhyayan, Banerjee",,1688,False,IND,0.5,1,-0.27,40,-10.8
+33405980,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1841,1896,6.5,11,0.14,40,5.6,"Kadam, Arnav",,1821,False,IND,0.0,1,-0.6,40,-24.0
+33405980,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1841,1896,6.5,11,0.14,40,5.6,"Sahoo, Stitaprangya",,1777,False,IND,1.0,1,0.34,40,13.6
+33405980,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1841,1896,6.5,11,0.14,40,5.6,"Sameer, Choudhary",,1752,False,IND,1.0,1,0.31,40,12.4

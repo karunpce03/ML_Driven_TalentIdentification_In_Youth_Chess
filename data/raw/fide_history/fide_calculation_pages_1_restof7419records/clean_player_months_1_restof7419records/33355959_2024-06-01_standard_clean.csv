@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33355959,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1566,1702,5.5,6,1.41,40,56.4,"Divya, Gowrisankar",,1489.0,False,IND,1.0,1,0.23,40,9.2
+33355959,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1566,1702,5.5,6,1.41,40,56.4,"Mhanna, Jean",,1604.0,False,LBN,1.0,1,0.37,40,14.8
+33355959,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1566,1702,5.5,6,1.41,40,56.4,"Obado, Sean Adrich",,1590.0,False,PHI,0.5,1,-0.15,40,-6.0
+33355959,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1566,1702,5.5,6,1.41,40,56.4,"Subin, Kurian Thomas",,1569.0,False,IND,1.0,1,0.32,40,12.8
+33355959,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1566,1702,5.5,6,1.41,40,56.4,Niranjan,,1595.0,False,IND,1.0,1,0.35,40,14.0
+33355959,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1566,1702,5.5,6,1.41,40,56.4,"Abdalla, Yahya Alhammadi",,1546.0,False,UAE,1.0,1,0.29,40,11.6

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45049742,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2197,2078,4.5,9,1.32,40,52.8,"Gelas, Christophe",f,2348.0,False,FRA,0.0,1,-0.17,40,-6.8
+45049742,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2197,2078,4.5,9,1.32,40,52.8,"Fanninger, Leon",,2246.0,False,AUT,0.5,1,0.22,40,8.8
+45049742,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2197,2078,4.5,9,1.32,40,52.8,"Houriez, Clement",f,2287.0,False,FRA,0.0,1,-0.23,40,-9.2
+45049742,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2197,2078,4.5,9,1.32,40,52.8,"Aeschbacher, Dimitri",,2017.0,False,SUI,0.0,1,-0.58,40,-23.2
+45049742,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2197,2078,4.5,9,1.32,40,52.8,"Grosse, Ludovic",,2029.0,False,FRA,1.0,1,0.43,40,17.2
+45049742,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2197,2078,4.5,9,1.32,40,52.8,"Vanduyfhuys, Igor",,2014.0,False,BEL,1.0,1,0.41,40,16.4
+45049742,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2197,2078,4.5,9,1.32,40,52.8,"Belkaid, Sohan",f,2395.0,False,FRA,0.5,1,0.37,40,14.8
+45049742,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2197,2078,4.5,9,1.32,40,52.8,"De Balmann, Marc",,2229.0,False,FRA,1.0,1,0.7,40,28.0
+45049742,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2197,2078,4.5,9,1.32,40,52.8,"Krishnan, Ritvik",f,2206.0,False,IND,0.5,1,0.17,40,6.8

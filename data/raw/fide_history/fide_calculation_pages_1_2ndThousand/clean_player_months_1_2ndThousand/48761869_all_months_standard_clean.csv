@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48761869,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1656,1444,1.0,4,0.08,40,3.2,"Pawan, Singh",,1680.0,False,IND,0.0,1,-0.2,40,-8.0
+48761869,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1656,1444,1.0,4,0.08,40,3.2,"Gaurav, Kumar",,1710.0,False,IND,0.0,1,-0.18,40,-7.2
+48761869,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1656,1444,1.0,4,0.08,40,3.2,"Anand, Shekhar",,1602.0,False,IND,1.0,1,0.71,40,28.4
+48761869,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1656,1444,1.0,4,0.08,40,3.2,"Priyadarshi, Alok",,1633.0,False,IND,0.0,1,-0.25,40,-10.0
+48761869,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1714,1447,0.5,4,-0.34,40,-13.6,"Singh, Neha",,1847.0,True,IND,0.0,1,-0.08,40,-3.2
+48761869,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1714,1447,0.5,4,-0.34,40,-13.6,"Piyush, Kumar",,1847.0,True,IND,0.0,1,-0.08,40,-3.2
+48761869,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1714,1447,0.5,4,-0.34,40,-13.6,"Shanvi, Prakash",,1449.0,False,IND,0.5,1,0.0,40,0.0
+48761869,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1714,1447,0.5,4,-0.34,40,-13.6,"Sayan, Barua",,1713.0,False,IND,0.0,1,-0.18,40,-7.2

@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429034744,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1717,1506,1.5,6,0.06,40,2.4,"Shivam, Chaudhary",,1712.0,False,IND,1.0,1,0.76,40,30.4
+429034744,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1717,1506,1.5,6,0.06,40,2.4,"Barisch, Florian",,1900.0,False,GER,0.5,1,0.42,40,16.8
+429034744,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1717,1506,1.5,6,0.06,40,2.4,"Avinya, Mohan Singh",,1725.0,False,IND,0.0,1,-0.22,40,-8.8
+429034744,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1717,1506,1.5,6,0.06,40,2.4,"Vivaan, Sardana",,1666.0,False,IND,0.0,1,-0.29,40,-11.6
+429034744,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1717,1506,1.5,6,0.06,40,2.4,"Yogesh, Solanki",,1672.0,False,IND,0.0,1,-0.28,40,-11.2
+429034744,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1717,1506,1.5,6,0.06,40,2.4,"Raj, Prakhar",,1629.0,False,IND,0.0,1,-0.33,40,-13.2

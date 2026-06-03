@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88195805,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1622,1404,2.0,5,0.76,40,30.4,"Advik, Singh Chauhan",,1769,False,IND,0.5,1,0.4,40,16.0
+88195805,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1622,1404,2.0,5,0.76,40,30.4,"Gagan, Sahu",,1804,True,IND,0.0,1,-0.08,40,-3.2
+88195805,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1622,1404,2.0,5,0.76,40,30.4,"Krishiv, Kapish Mittal",,1449,False,IND,1.0,1,0.56,40,22.4
+88195805,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1622,1404,2.0,5,0.76,40,30.4,"Abhilash, Jose",,1534,False,IND,0.5,1,0.18,40,7.2
+88195805,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1622,1404,2.0,5,0.76,40,30.4,"Sahil, Mahajan",,1556,False,IND,0.0,1,-0.3,40,-12.0

@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33488266,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,1.0,4,0.0,1267,,"Nagaraj, A V Srinivasan",,1531,False,IND,0.0,1,0.0,,0.0
+33488266,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,1.0,4,0.0,1267,,"Snow, Jonanth P",,1402,False,IND,0.5,1,0.0,,0.0
+33488266,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,1.0,4,0.0,1267,,"Shivani, Bai M H",,1450,False,IND,0.5,1,0.0,,0.0
+33488266,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,1.0,4,0.0,1267,,"Thennarasu, K",,1455,False,IND,0.0,1,0.0,,0.0

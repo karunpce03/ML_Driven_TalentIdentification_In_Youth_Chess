@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48735396,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1583,1526,3.5,5,1.26,40,50.4,"Ramnathan, Balasubramaniam",m,1926,True,IND,1.0,1,0.92,40,36.8
+48735396,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1583,1526,3.5,5,1.26,40,50.4,"Diya, Jain",,1680,False,IND,0.0,1,-0.29,40,-11.6
+48735396,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1583,1526,3.5,5,1.26,40,50.4,"Balasubramanian, K Iyer",,1426,False,IND,1.0,1,0.36,40,14.4
+48735396,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1583,1526,3.5,5,1.26,40,50.4,"Thanshika, G",,1433,False,IND,0.5,1,-0.13,40,-5.2
+48735396,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1583,1526,3.5,5,1.26,40,50.4,"Kola, Akshith",,1452,False,IND,1.0,1,0.4,40,16.0

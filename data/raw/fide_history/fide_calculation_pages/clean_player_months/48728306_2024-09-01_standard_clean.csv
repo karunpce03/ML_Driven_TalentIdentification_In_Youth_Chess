@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48728306,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1503,1564,0.0,3,-1.74,40,-69.6,"Aravind, Matthews A C T",,1682.0,False,IND,0.0,1,-0.34,40,-13.6
+48728306,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1503,1564,0.0,3,-1.74,40,-69.6,"Sasikumar, R",,1415.0,False,IND,0.0,1,-0.7,40,-28.0
+48728306,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1503,1564,0.0,3,-1.74,40,-69.6,"Tanush, V Shah",,1411.0,False,IND,0.0,1,-0.7,40,-28.0

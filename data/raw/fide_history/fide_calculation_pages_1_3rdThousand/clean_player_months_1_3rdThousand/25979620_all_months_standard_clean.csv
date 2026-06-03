@@ -1,0 +1,24 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25979620,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1588,1571,2.0,6,-0.89,40,-35.6,"Bhuvan, Krishna Prasanth",,1811.0,False,IND,0.0,1,-0.2,40,-8.0
+25979620,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1588,1571,2.0,6,-0.89,40,-35.6,"Goddeti, Hima Tejaswini",,1681.0,False,IND,0.0,1,-0.35,40,-14.0
+25979620,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1588,1571,2.0,6,-0.89,40,-35.6,"Rohith, S Navneet",,1456.0,False,IND,1.0,1,0.34,40,13.6
+25979620,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1588,1571,2.0,6,-0.89,40,-35.6,"Kavin, E",,1672.0,False,IND,0.0,1,-0.36,40,-14.4
+25979620,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1588,1571,2.0,6,-0.89,40,-35.6,"Natarajan, Shravan",,1469.0,False,IND,0.0,1,-0.64,40,-25.6
+25979620,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1588,1571,2.0,6,-0.89,40,-35.6,"Rihan, S",,1438.0,False,IND,1.0,1,0.32,40,12.8
+25979620,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1592,1571,4.0,7,0.69,40,27.6,"Yeshas, H",,1680.0,False,IND,0.5,1,0.15,40,6.0
+25979620,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1592,1571,4.0,7,0.69,40,27.6,"Sidharth, Mohan",,1764.0,False,IND,0.0,1,-0.25,40,-10.0
+25979620,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1592,1571,4.0,7,0.69,40,27.6,"Sudhiksha, Karthick",,1431.0,False,IND,1.0,1,0.31,40,12.4
+25979620,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1592,1571,4.0,7,0.69,40,27.6,"Alfred, Joe Johns",,1712.0,False,IND,0.5,1,0.19,40,7.6
+25979620,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1592,1571,4.0,7,0.69,40,27.6,"Tharshaan, B K",,1432.0,False,IND,1.0,1,0.31,40,12.4
+25979620,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1592,1571,4.0,7,0.69,40,27.6,"Shreyas, Arun",,1673.0,False,IND,0.0,1,-0.36,40,-14.4
+25979620,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1592,1571,4.0,7,0.69,40,27.6,"Karthick, Raja P",,1455.0,False,IND,1.0,1,0.34,40,13.6
+25979620,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1629,1563,1.5,4,-0.15,40,-6.0,"Vishnu, Ram M",,1708.0,False,IND,0.5,1,0.19,40,7.6
+25979620,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1629,1563,1.5,4,-0.15,40,-6.0,"Rajeev, V M",,1697.0,False,IND,0.0,1,-0.32,40,-12.8
+25979620,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1629,1563,1.5,4,-0.15,40,-6.0,"Navyasree, Rajeev",,1427.0,False,IND,1.0,1,0.32,40,12.8
+25979620,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1629,1563,1.5,4,-0.15,40,-6.0,"Christy, George",,1682.0,False,IND,0.0,1,-0.34,40,-13.6
+25979620,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1659,1557,2.0,6,-0.31,40,-12.4,"Sreekumar, P.",,1953.0,False,IND,0.0,1,-0.08,40,-3.2
+25979620,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1659,1557,2.0,6,-0.31,40,-12.4,"Goutham, Rajmohan",,1404.0,False,IND,1.0,1,0.3,40,12.0
+25979620,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1659,1557,2.0,6,-0.31,40,-12.4,"Arunodhay, K",,1417.0,False,IND,0.5,1,-0.19,40,-7.6
+25979620,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1659,1557,2.0,6,-0.31,40,-12.4,"Jowett, Jibin",,1715.0,False,IND,0.5,1,0.21,40,8.4
+25979620,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1659,1557,2.0,6,-0.31,40,-12.4,"Sandeep, Santhosh",,1781.0,False,IND,0.0,1,-0.22,40,-8.8
+25979620,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1659,1557,2.0,6,-0.31,40,-12.4,"Gurubaran, Raghuraman",,1681.0,False,IND,0.0,1,-0.33,40,-13.2

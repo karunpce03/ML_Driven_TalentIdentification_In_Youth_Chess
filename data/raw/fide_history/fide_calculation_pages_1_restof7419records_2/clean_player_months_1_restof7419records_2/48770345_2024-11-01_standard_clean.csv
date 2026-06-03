@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48770345,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1689,1544,1.0,4,-0.24,40,-9.6,"Tarun, N",,1731.0,False,IND,0.0,1,-0.26,40,-10.4
+48770345,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1689,1544,1.0,4,-0.24,40,-9.6,"Dandekar, Amey",,1686.0,False,IND,1.0,1,0.69,40,27.6
+48770345,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1689,1544,1.0,4,-0.24,40,-9.6,"Kumbhar, Kartik",,1680.0,False,IND,0.0,1,-0.32,40,-12.8
+48770345,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1689,1544,1.0,4,-0.24,40,-9.6,"Laddad, Aadhavan Atish",,1657.0,False,IND,0.0,1,-0.35,40,-14.0

@@ -1,0 +1,116 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+46672940,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2287,2188,5.0,9,1.61,20,32.2,"Haubro, Martin",m,2400.0,False,DEN,0.0,1,-0.23,20,-4.6
+46672940,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2287,2188,5.0,9,1.61,20,32.2,"Loftgaard, Mikkel Vinh",c,2246.0,False,DEN,1.0,1,0.58,20,11.6
+46672940,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2287,2188,5.0,9,1.61,20,32.2,"Aczel, Gergely",g,2498.0,False,HUN,0.0,1,-0.14,20,-2.8
+46672940,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2287,2188,5.0,9,1.61,20,32.2,"Brorsen, Jacob Abildlund",,2133.0,False,DEN,1.0,1,0.42,20,8.4
+46672940,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2287,2188,5.0,9,1.61,20,32.2,"Jacobsen, Mikkel Manosri",f,2242.0,False,DEN,0.0,1,-0.42,20,-8.4
+46672940,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2287,2188,5.0,9,1.61,20,32.2,"Gregor, Bjarke",,2082.0,False,DEN,1.0,1,0.36,20,7.2
+46672940,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2287,2188,5.0,9,1.61,20,32.2,"Simonsen, Carsten",,2212.0,False,DEN,1.0,1,0.53,20,10.6
+46672940,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2287,2188,5.0,9,1.61,20,32.2,"Egresi, Mate",f,2377.0,False,HUN,1.0,1,0.75,20,15.0
+46672940,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2287,2188,5.0,9,1.61,20,32.2,"Heimisson, Hilmir Freyr",m,2392.0,False,ISL,0.0,1,-0.24,20,-4.8
+46672940,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2253,2188,5.5,9,1.76,20,35.2,"Odabasi, Ruzgar",,2008.0,False,TUR,0.5,1,-0.24,20,-4.8
+46672940,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2253,2188,5.5,9,1.76,20,35.2,"Oner, Cinar",,2003.0,False,TUR,1.0,1,0.26,20,5.2
+46672940,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2253,2188,5.5,9,1.76,20,35.2,"Koutlas, Nikolaos",f,2332.0,False,GRE,0.0,1,-0.31,20,-6.2
+46672940,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2253,2188,5.5,9,1.76,20,35.2,"Zisiadis, Dimitrios",,2019.0,False,GRE,1.0,1,0.28,20,5.6
+46672940,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2253,2188,5.5,9,1.76,20,35.2,"Giannoulakis, Lampros",f,2334.0,False,GRE,1.0,1,0.7,20,14.0
+46672940,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2253,2188,5.5,9,1.76,20,35.2,"Woelk, Tom-Frederic",f,2352.0,False,GER,1.0,1,0.72,20,14.4
+46672940,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2253,2188,5.5,9,1.76,20,35.2,"Kilic, Eray",f,2434.0,False,TUR,0.5,1,0.31,20,6.2
+46672940,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2253,2188,5.5,9,1.76,20,35.2,"Tsolakidou, Stavroula",m wg,2428.0,False,GRE,0.0,1,-0.2,20,-4.0
+46672940,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2253,2188,5.5,9,1.76,20,35.2,"Moksh, Amit Doshi",m,2368.0,False,IND,0.5,1,0.24,20,4.8
+46672940,2024-09-01,0,Adolf Anderssen Chess Festival 2024 - Wroclaw Open A,Wroclaw POL,2024-08-08,2024-08-14,2136,2220,5.0,9,-0.5,20,-10.0,"Rzewucki, Jan",,2045.0,False,POL,1.0,1,0.27,20,5.4
+46672940,2024-09-01,0,Adolf Anderssen Chess Festival 2024 - Wroclaw Open A,Wroclaw POL,2024-08-08,2024-08-14,2136,2220,5.0,9,-0.5,20,-10.0,"Czarniecka, Aleksandra",,1978.0,False,POL,0.5,1,-0.3,20,-6.0
+46672940,2024-09-01,0,Adolf Anderssen Chess Festival 2024 - Wroclaw Open A,Wroclaw POL,2024-08-08,2024-08-14,2136,2220,5.0,9,-0.5,20,-10.0,"Sieciechowicz, Marcin",m,2424.0,False,POL,0.0,1,-0.24,20,-4.8
+46672940,2024-09-01,0,Adolf Anderssen Chess Festival 2024 - Wroclaw Open A,Wroclaw POL,2024-08-08,2024-08-14,2136,2220,5.0,9,-0.5,20,-10.0,"Zieba, Hubert",,2078.0,False,POL,0.5,1,-0.19,20,-3.8
+46672940,2024-09-01,0,Adolf Anderssen Chess Festival 2024 - Wroclaw Open A,Wroclaw POL,2024-08-08,2024-08-14,2136,2220,5.0,9,-0.5,20,-10.0,"Grochol, Kamil",,2123.0,False,POL,1.0,1,0.37,20,7.4
+46672940,2024-09-01,0,Adolf Anderssen Chess Festival 2024 - Wroclaw Open A,Wroclaw POL,2024-08-08,2024-08-14,2136,2220,5.0,9,-0.5,20,-10.0,"Nagly, Wojciech",,2133.0,False,POL,1.0,1,0.38,20,7.6
+46672940,2024-09-01,0,Adolf Anderssen Chess Festival 2024 - Wroclaw Open A,Wroclaw POL,2024-08-08,2024-08-14,2136,2220,5.0,9,-0.5,20,-10.0,"Hourigan, Gerrit",f,2269.0,False,GER,0.0,1,-0.43,20,-8.6
+46672940,2024-09-01,0,Adolf Anderssen Chess Festival 2024 - Wroclaw Open A,Wroclaw POL,2024-08-08,2024-08-14,2136,2220,5.0,9,-0.5,20,-10.0,"Adamczewski, Maciej",,2069.0,False,POL,0.0,1,-0.7,20,-14.0
+46672940,2024-09-01,0,Adolf Anderssen Chess Festival 2024 - Wroclaw Open A,Wroclaw POL,2024-08-08,2024-08-14,2136,2220,5.0,9,-0.5,20,-10.0,"Dalkowski, Rafal",,2102.0,False,POL,1.0,1,0.34,20,6.8
+46672940,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2231,2245,4.5,9,-0.09,20,-1.8,"Kao, Jamison Edrich",c,2125.0,False,HKG,0.0,1,-0.66,20,-13.2
+46672940,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2231,2245,4.5,9,-0.09,20,-1.8,"Md, Imran",f,2337.0,False,IND,1.0,1,0.63,20,12.6
+46672940,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2231,2245,4.5,9,-0.09,20,-1.8,"Fodor, Balazs",,2240.0,False,HUN,0.5,1,-0.01,20,-0.2
+46672940,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2231,2245,4.5,9,-0.09,20,-1.8,"Nemeth, Zalan",f,2211.0,False,IRL,0.0,1,-0.55,20,-11.0
+46672940,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2231,2245,4.5,9,-0.09,20,-1.8,"To, Nhat Minh",m,2300.0,False,HUN,1.0,1,0.58,20,11.6
+46672940,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2231,2245,4.5,9,-0.09,20,-1.8,"Gatineau, Yovann",m,2400.0,False,FRA,0.5,1,0.21,20,4.2
+46672940,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2231,2245,4.5,9,-0.09,20,-1.8,"Nanditha, V",wc,1903.0,False,IND,1.0,1,0.12,20,2.4
+46672940,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2231,2245,4.5,9,-0.09,20,-1.8,"Kalosha, Zhiulien Oleksii",f,2232.0,False,UKR,0.0,1,-0.52,20,-10.4
+46672940,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2231,2245,4.5,9,-0.09,20,-1.8,"Horvath, David",m,2327.0,False,HUN,0.5,1,0.11,20,2.2
+46672940,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2319,2245,5.0,9,1.36,20,27.2,"Lien, Sebastian",,1911.0,False,NOR,1.0,1,0.12,20,2.4
+46672940,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2319,2245,5.0,9,1.36,20,27.2,"Wallace, John Paul",m,2373.0,False,NOR,0.0,1,-0.33,20,-6.6
+46672940,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2319,2245,5.0,9,1.36,20,27.2,"Vijayakumar, Rishi",,2172.0,False,SCO,0.5,1,-0.1,20,-2.0
+46672940,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2319,2245,5.0,9,1.36,20,27.2,"Sherman, Raem",f,2390.0,False,ISR,1.0,1,0.69,20,13.8
+46672940,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2319,2245,5.0,9,1.36,20,27.2,"Sasikiran, Krishnan",g,2571.0,False,IND,0.5,1,0.37,20,7.4
+46672940,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2319,2245,5.0,9,1.36,20,27.2,"Aizenberg, Benny",f,2423.0,False,ISR,0.0,1,-0.27,20,-5.4
+46672940,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2319,2245,5.0,9,1.36,20,27.2,"Sian, Shadi",,2182.0,False,NOR,1.0,1,0.41,20,8.2
+46672940,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2319,2245,5.0,9,1.36,20,27.2,"Blomqvist, Erik",g,2483.0,False,SWE,0.5,1,0.3,20,6.0
+46672940,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2319,2245,5.0,9,1.36,20,27.2,"Sidhant, Mohapatra",m,2369.0,False,IND,0.5,1,0.17,20,3.4
+46672940,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2374,2270,4.5,10,0.9,20,18.0,"Sathvik, Adiga",f,2408.0,False,IND,0.0,1,-0.31,20,-6.2
+46672940,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2374,2270,4.5,10,0.9,20,18.0,"Nguyen, Quoc Hy",f,2367.0,False,VIE,1.0,1,0.63,20,12.6
+46672940,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2374,2270,4.5,10,0.9,20,18.0,"Pap, Misa",g,2401.0,False,SRB,0.5,1,0.18,20,3.6
+46672940,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2374,2270,4.5,10,0.9,20,18.0,"Berczes, David",g,2413.0,False,HUN,0.5,1,0.19,20,3.8
+46672940,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2374,2270,4.5,10,0.9,20,18.0,"Moksh, Amit Doshi",m,2391.0,False,IND,0.5,1,0.16,20,3.2
+46672940,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2374,2270,4.5,10,0.9,20,18.0,"Sklokin, Sergey",c,2257.0,False,FID,0.0,1,-0.52,20,-10.4
+46672940,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2374,2270,4.5,10,0.9,20,18.0,"Aarav, Sarbalia",f,2300.0,False,IND,1.0,1,0.54,20,10.8
+46672940,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2374,2270,4.5,10,0.9,20,18.0,"Peng, Hongchi",,2387.0,False,CHN,0.0,1,-0.34,20,-6.8
+46672940,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2374,2270,4.5,10,0.9,20,18.0,"Song, Edward",m,2362.0,False,USA,0.5,1,0.13,20,2.6
+46672940,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2374,2270,4.5,10,0.9,20,18.0,"Nagy, Gabor",g,2458.0,False,HUN,0.5,1,0.24,20,4.8
+46672940,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2352,2288,4.0,9,0.28,20,5.6,"Sahib, Singh",f,2438.0,False,IND,0.0,1,-0.3,20,-6.0
+46672940,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2352,2288,4.0,9,0.28,20,5.6,"Aitbayev, Aslan",m,2369.0,False,KAZ,0.5,1,0.11,20,2.2
+46672940,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2352,2288,4.0,9,0.28,20,5.6,"Dixit, Nikhil",f,2361.0,False,IND,0.0,1,-0.4,20,-8.0
+46672940,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2352,2288,4.0,9,0.28,20,5.6,"Sliwicka, Alicja",wg,2346.0,False,POL,0.0,1,-0.42,20,-8.4
+46672940,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2352,2288,4.0,9,0.28,20,5.6,"Wafa, Hamed",m,2359.0,False,EGY,0.0,1,-0.4,20,-8.0
+46672940,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2352,2288,4.0,9,0.28,20,5.6,"Yakubbaeva, Nilufar",wg,2241.0,False,UZB,1.0,1,0.43,20,8.6
+46672940,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2352,2288,4.0,9,0.28,20,5.6,"Navrotescu, Andreea",wg,2356.0,False,FRA,1.0,1,0.59,20,11.8
+46672940,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2352,2288,4.0,9,0.28,20,5.6,"Munguntuul, Batkhuyag",m wg,2342.0,False,MGL,1.0,1,0.58,20,11.6
+46672940,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2352,2288,4.0,9,0.28,20,5.6,"Khamdamova, Afruza",wm,2354.0,False,UZB,0.5,1,0.09,20,1.8
+46672940,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2386,2288,5.0,9,1.66,20,33.2,"Kulaots, Kaido",g,2521.0,False,EST,0.5,1,0.29,20,5.8
+46672940,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2386,2288,5.0,9,1.66,20,33.2,"Costa, Leonardo",m,2498.0,False,GER,0.0,1,-0.23,20,-4.6
+46672940,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2386,2288,5.0,9,1.66,20,33.2,"Matsumura, Cocoro",c,2036.0,False,JPN,1.0,1,0.19,20,3.8
+46672940,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2386,2288,5.0,9,1.66,20,33.2,"Baenziger, Fabian",m,2430.0,False,SUI,0.5,1,0.19,20,3.8
+46672940,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2386,2288,5.0,9,1.66,20,33.2,"Petursson, Margeir",g,2409.0,False,ISL,0.5,1,0.16,20,3.2
+46672940,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2386,2288,5.0,9,1.66,20,33.2,"Durak, Can",f,2446.0,False,TUR,0.5,1,0.21,20,4.2
+46672940,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2386,2288,5.0,9,1.66,20,33.2,"Tarhan, Adar",m,2483.0,False,TUR,0.5,1,0.25,20,5.0
+46672940,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2386,2288,5.0,9,1.66,20,33.2,"Luukkonen, Tommi",f,2311.0,False,FIN,1.0,1,0.53,20,10.6
+46672940,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2386,2288,5.0,9,1.66,20,33.2,"Wartiovaara, Oliver",f,2340.0,False,FIN,0.5,1,0.07,20,1.4
+46672940,2025-02-01,0,MARIENBAD OPEN 2025 - B2,Marianske Lazne CZE,2025-01-18,2025-01-25,2249,2294,3.5,9,-1.52,20,-30.4,"Van Der Hagen, Loek",f,2299.0,False,NED,0.0,1,-0.49,20,-9.8
+46672940,2025-02-01,0,MARIENBAD OPEN 2025 - B2,Marianske Lazne CZE,2025-01-18,2025-01-25,2249,2294,3.5,9,-1.52,20,-30.4,"Ochedzan, Filip",c,2138.0,False,POL,0.0,1,-0.71,20,-14.2
+46672940,2025-02-01,0,MARIENBAD OPEN 2025 - B2,Marianske Lazne CZE,2025-01-18,2025-01-25,2249,2294,3.5,9,-1.52,20,-30.4,"Tichy, Stepan",,2184.0,False,CZE,0.5,1,-0.15,20,-3.0
+46672940,2025-02-01,0,MARIENBAD OPEN 2025 - B2,Marianske Lazne CZE,2025-01-18,2025-01-25,2249,2294,3.5,9,-1.52,20,-30.4,"Pisk, Petr",m,2302.0,False,CZE,0.5,1,0.01,20,0.2
+46672940,2025-02-01,0,MARIENBAD OPEN 2025 - B2,Marianske Lazne CZE,2025-01-18,2025-01-25,2249,2294,3.5,9,-1.52,20,-30.4,"Vaculik, Jakub",,2281.0,False,CZE,0.5,1,-0.02,20,-0.4
+46672940,2025-02-01,0,MARIENBAD OPEN 2025 - B2,Marianske Lazne CZE,2025-01-18,2025-01-25,2249,2294,3.5,9,-1.52,20,-30.4,"Sliwerski, Radoslaw",,2040.0,False,POL,1.0,1,0.19,20,3.8
+46672940,2025-02-01,0,MARIENBAD OPEN 2025 - B2,Marianske Lazne CZE,2025-01-18,2025-01-25,2249,2294,3.5,9,-1.52,20,-30.4,"Roesemann, Rainer",f,2276.0,False,GER,0.0,1,-0.53,20,-10.6
+46672940,2025-02-01,0,MARIENBAD OPEN 2025 - B2,Marianske Lazne CZE,2025-01-18,2025-01-25,2249,2294,3.5,9,-1.52,20,-30.4,"Konopka, Michal",m,2321.0,False,CZE,0.5,1,0.04,20,0.8
+46672940,2025-02-01,0,MARIENBAD OPEN 2025 - B2,Marianske Lazne CZE,2025-01-18,2025-01-25,2249,2294,3.5,9,-1.52,20,-30.4,"Senthil, Maran K",f,2398.0,False,IND,0.5,1,0.14,20,2.8
+46672940,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2411,2294,2.0,9,-1.1,20,-22.0,"Szpar, Milosz",m,2457.0,False,POL,0.5,1,0.22,20,4.4
+46672940,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2411,2294,2.0,9,-1.1,20,-22.0,"Pap, Misa",g,2436.0,False,SRB,0.0,1,-0.31,20,-6.2
+46672940,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2411,2294,2.0,9,-1.1,20,-22.0,"Berczes, David",g,2406.0,False,HUN,0.0,1,-0.35,20,-7.0
+46672940,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2411,2294,2.0,9,-1.1,20,-22.0,"Gedajlovic, Max",m,2391.0,False,CAN,0.5,1,0.13,20,2.6
+46672940,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2411,2294,2.0,9,-1.1,20,-22.0,"Rathanvel, V S",m,2484.0,False,IND,0.0,1,-0.25,20,-5.0
+46672940,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2411,2294,2.0,9,-1.1,20,-22.0,"Aczel, Gergely",g,2482.0,False,HUN,0.0,1,-0.26,20,-5.2
+46672940,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2411,2294,2.0,9,-1.1,20,-22.0,"Zverev, Lev",m,2421.0,False,FID,0.0,1,-0.33,20,-6.6
+46672940,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2411,2294,2.0,9,-1.1,20,-22.0,"Gombocz, Ferenc Jr.",f,2316.0,False,HUN,0.5,1,0.03,20,0.6
+46672940,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2411,2294,2.0,9,-1.1,20,-22.0,"Jake, Shanty",f,2307.0,False,IND,0.5,1,0.02,20,0.4
+46672940,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2305,2297,5.5,9,1.23,20,24.6,"Silva, Mariana",wf,2030.0,False,POR,1.0,1,0.18,20,3.6
+46672940,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2305,2297,5.5,9,1.23,20,24.6,"Ilamparthi, A R",m,2505.0,False,IND,1.0,1,0.77,20,15.4
+46672940,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2305,2297,5.5,9,1.23,20,24.6,"Dhulipalla, Bala Chandra Prasad",m,2432.0,False,IND,0.0,1,-0.32,20,-6.4
+46672940,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2305,2297,5.5,9,1.23,20,24.6,"Yeghiazaryan, Mikayel",,1903.0,False,ARM,0.5,1,-0.42,20,-8.4
+46672940,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2305,2297,5.5,9,1.23,20,24.6,"Rebers, Eugene",f,2190.0,False,NED,1.0,1,0.35,20,7.0
+46672940,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2305,2297,5.5,9,1.23,20,24.6,"Lohia, Sohum",f,2368.0,False,ENG,0.5,1,0.1,20,2.0
+46672940,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2305,2297,5.5,9,1.23,20,24.6,"Cieslak, Patryk",f,2408.0,False,POL,0.5,1,0.15,20,3.0
+46672940,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2305,2297,5.5,9,1.23,20,24.6,"Peyrer, Konstantin",m,2447.0,False,AUT,1.0,1,0.7,20,14.0
+46672940,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2305,2297,5.5,9,1.23,20,24.6,"Blomqvist, Erik",g,2460.0,False,SWE,0.0,1,-0.28,20,-5.6
+46672940,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2241,2297,3.5,6,0.07,20,1.4,"Di Fonzo, Valerio",c,2110.0,False,ITA,0.5,1,-0.24,20,-4.8
+46672940,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2241,2297,3.5,6,0.07,20,1.4,"Kolodziejczyk, Boris",c,2135.0,False,FRA,1.0,1,0.29,20,5.8
+46672940,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2241,2297,3.5,6,0.07,20,1.4,"Materia, Marco",m,2486.0,False,FRA,0.5,1,0.25,20,5.0
+46672940,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2241,2297,3.5,6,0.07,20,1.4,"Mendoza, Mael",,2148.0,False,FRA,1.0,1,0.3,20,6.0
+46672940,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2241,2297,3.5,6,0.07,20,1.4,"Chen, Qi B",m,2478.0,False,CHN,0.0,1,-0.26,20,-5.2
+46672940,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2241,2297,3.5,6,0.07,20,1.4,"Negre, Emilie",wf,2090.0,False,FRA,0.5,1,-0.27,20,-5.4
+46672940,2025-04-01,0,Aeroflot Open 2025,Moscow RUS,2025-03-01,2025-03-06,2381,2300,3.5,9,0.0,20,0.0,"Stribuk, Artiom",m,2422.0,False,FID,0.0,1,-0.33,20,-6.6
+46672940,2025-04-01,0,Aeroflot Open 2025,Moscow RUS,2025-03-01,2025-03-06,2381,2300,3.5,9,0.0,20,0.0,"Sek, Konstantin",m,2373.0,False,RUS,0.5,1,0.1,20,2.0
+46672940,2025-04-01,0,Aeroflot Open 2025,Moscow RUS,2025-03-01,2025-03-06,2381,2300,3.5,9,0.0,20,0.0,"Galliamova, Alisa",m wg,2397.0,False,RUS,0.5,1,0.13,20,2.6
+46672940,2025-04-01,0,Aeroflot Open 2025,Moscow RUS,2025-03-01,2025-03-06,2381,2300,3.5,9,0.0,20,0.0,"Pogonina, Natalija",wg,2385.0,False,RUS,0.5,1,0.12,20,2.4
+46672940,2025-04-01,0,Aeroflot Open 2025,Moscow RUS,2025-03-01,2025-03-06,2381,2300,3.5,9,0.0,20,0.0,"Garv, Gaur",f,2374.0,False,IND,0.0,1,-0.4,20,-8.0
+46672940,2025-04-01,0,Aeroflot Open 2025,Moscow RUS,2025-03-01,2025-03-06,2381,2300,3.5,9,0.0,20,0.0,"Popov, Konstantin",f,2376.0,False,FID,1.0,1,0.6,20,12.0
+46672940,2025-04-01,0,Aeroflot Open 2025,Moscow RUS,2025-03-01,2025-03-06,2381,2300,3.5,9,0.0,20,0.0,"Nurgaliyev, Sauat",m,2374.0,False,KAZ,0.5,1,0.1,20,2.0
+46672940,2025-04-01,0,Aeroflot Open 2025,Moscow RUS,2025-03-01,2025-03-06,2381,2300,3.5,9,0.0,20,0.0,"Timoshin, Maxim",f,2381.0,False,FID,0.0,1,-0.39,20,-7.8
+46672940,2025-04-01,0,Aeroflot Open 2025,Moscow RUS,2025-03-01,2025-03-06,2381,2300,3.5,9,0.0,20,0.0,"Namitbir, Singh Walia",f,2347.0,False,IND,0.5,1,0.07,20,1.4

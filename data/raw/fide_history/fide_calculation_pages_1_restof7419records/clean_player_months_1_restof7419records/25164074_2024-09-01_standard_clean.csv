@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25164074,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1809,1730,4.0,10,-0.03,40,-1.2,"Vedant, Garg",,2026.0,False,IND,0.0,1,-0.15,40,-6.0
+25164074,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1809,1730,4.0,10,-0.03,40,-1.2,"Kanishka, Choudhary",,1465.0,False,IND,1.0,1,0.18,40,7.2
+25164074,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1809,1730,4.0,10,-0.03,40,-1.2,"Arul, Anandh S P K",,1913.0,False,IND,0.0,1,-0.26,40,-10.4
+25164074,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1809,1730,4.0,10,-0.03,40,-1.2,"Khalid, Amin",,1860.0,False,IND,0.0,1,-0.32,40,-12.8
+25164074,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1809,1730,4.0,10,-0.03,40,-1.2,"Richard, Solomon M",,1800.0,False,IND,0.0,1,-0.4,40,-16.0
+25164074,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1809,1730,4.0,10,-0.03,40,-1.2,"Sayyam, Narang",,1559.0,False,IND,1.0,1,0.27,40,10.8
+25164074,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1809,1730,4.0,10,-0.03,40,-1.2,"Parth, Belwal",,1840.0,False,IND,0.0,1,-0.35,40,-14.0
+25164074,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1809,1730,4.0,10,-0.03,40,-1.2,Rohit,,1628.0,False,IND,1.0,1,0.36,40,14.4
+25164074,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1809,1730,4.0,10,-0.03,40,-1.2,"Naveen, Kumar P",,2065.0,False,IND,0.5,1,0.38,40,15.2
+25164074,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1809,1730,4.0,10,-0.03,40,-1.2,"Sheikh, Idu",,1933.0,False,IND,0.5,1,0.26,40,10.4

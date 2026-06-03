@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33413118,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1719,1567,4.0,7,1.91,40,76.4,"Madsen, Egon Rysgaard",,1749.0,False,DEN,0.5,1,0.24,40,9.6
+33413118,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1719,1567,4.0,7,1.91,40,76.4,"Dyremose, Flemming",,1744.0,False,DEN,1.0,1,0.73,40,29.2
+33413118,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1719,1567,4.0,7,1.91,40,76.4,"Bollestad, Leiv Ove",,1644.0,False,NOR,0.0,1,-0.39,40,-15.6
+33413118,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1719,1567,4.0,7,1.91,40,76.4,"Sandbech, Ted Henrik",,1754.0,False,DEN,0.5,1,0.24,40,9.6
+33413118,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1719,1567,4.0,7,1.91,40,76.4,"Larsen, Hans Haagen",,1678.0,False,DEN,1.0,1,0.65,40,26.0
+33413118,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1719,1567,4.0,7,1.91,40,76.4,"Rishit, Goyal",,1717.0,False,IND,0.0,1,-0.3,40,-12.0
+33413118,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1719,1567,4.0,7,1.91,40,76.4,"Kristensen, Lars Ostergaard",,1750.0,False,DEN,1.0,1,0.74,40,29.6
+33413118,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1829,1567,4.0,7,2.71,40,108.4,"Jovanovic, Goran",,1750.0,False,ITA,0.5,1,0.24,40,9.6
+33413118,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1829,1567,4.0,7,2.71,40,108.4,"Levrero, Marco",,1780.0,False,ITA,1.0,1,0.77,40,30.8
+33413118,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1829,1567,4.0,7,2.71,40,108.4,"Rossi, Francesco",,1794.0,False,ITA,0.0,1,-0.21,40,-8.4
+33413118,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1829,1567,4.0,7,2.71,40,108.4,"Cusato, Davide",,1804.0,False,ITA,1.0,1,0.8,40,32.0
+33413118,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1829,1567,4.0,7,2.71,40,108.4,"Dormio, Luca",,1885.0,False,ITA,1.0,1,0.87,40,34.8
+33413118,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1829,1567,4.0,7,2.71,40,108.4,"Altieri, Danilo Mario",,1908.0,False,ITA,0.5,1,0.38,40,15.2
+33413118,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1829,1567,4.0,7,2.71,40,108.4,"Barbero, Filippo",,1880.0,False,ITA,0.0,1,-0.14,40,-5.6

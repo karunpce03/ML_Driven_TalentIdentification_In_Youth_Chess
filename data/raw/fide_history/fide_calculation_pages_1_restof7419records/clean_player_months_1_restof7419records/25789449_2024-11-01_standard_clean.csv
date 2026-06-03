@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25789449,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1869,1892,4.5,9,-0.35,40,-14.0,"Anusri, S",,1492,True,IND,1.0,1,0.08,40,3.2
+25789449,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1869,1892,4.5,9,-0.35,40,-14.0,"Velpula, Sarayu",,2292,True,IND,0.0,1,-0.08,40,-3.2
+25789449,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1869,1892,4.5,9,-0.35,40,-14.0,"Pournami, S D",,1717,False,IND,0.0,1,-0.73,40,-29.2
+25789449,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1869,1892,4.5,9,-0.35,40,-14.0,"Sagar, Siya",,1729,False,IND,0.0,1,-0.72,40,-28.8
+25789449,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1869,1892,4.5,9,-0.35,40,-14.0,"Varshita, Jain",,1700,False,IND,1.0,1,0.25,40,10.0
+25789449,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1869,1892,4.5,9,-0.35,40,-14.0,"Bharathakoti, Sneha",,1780,False,IND,1.0,1,0.35,40,14.0
+25789449,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1869,1892,4.5,9,-0.35,40,-14.0,"Rout, Yashita",,1791,False,IND,1.0,1,0.36,40,14.4
+25789449,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1869,1892,4.5,9,-0.35,40,-14.0,"Sunyuktha, C M N",,2096,False,IND,0.5,1,0.26,40,10.4
+25789449,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1869,1892,4.5,9,-0.35,40,-14.0,"Sharma, Isha",wm,2228,False,IND,0.0,1,-0.12,40,-4.8

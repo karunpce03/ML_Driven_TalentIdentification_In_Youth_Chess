@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429097231,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1631,1485,0.0,4,-1.24,40,-49.6,"Azal, Nasir",,1728.0,False,IND,0.0,1,-0.2,40,-8.0
+429097231,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1631,1485,0.0,4,-1.24,40,-49.6,"Spandan, Roy",,1613.0,False,IND,0.0,1,-0.33,40,-13.2
+429097231,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1631,1485,0.0,4,-1.24,40,-49.6,Prayan,,1601.0,False,IND,0.0,1,-0.34,40,-13.6
+429097231,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1631,1485,0.0,4,-1.24,40,-49.6,"Aayush, Garg",,1581.0,False,IND,0.0,1,-0.37,40,-14.8

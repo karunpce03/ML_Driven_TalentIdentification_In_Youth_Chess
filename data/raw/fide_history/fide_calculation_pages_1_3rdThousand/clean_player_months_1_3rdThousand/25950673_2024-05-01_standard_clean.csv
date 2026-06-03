@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25950673,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1955,1839,4.5,9,1.23,40,49.2,"Drummond, Matthew",,2194,False,AUS,0.0,1,-0.11,40,-4.4
+25950673,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1955,1839,4.5,9,1.23,40,49.2,"Kondrak, Christoph",,2011,False,AUT,0.0,1,-0.27,40,-10.8
+25950673,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1955,1839,4.5,9,1.23,40,49.2,"Wettasinha, Vasanta",,1644,False,SRI,1.0,1,0.25,40,10.0
+25950673,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1955,1839,4.5,9,1.23,40,49.2,"Khazhatuly, Alikhan",c,1989,False,KAZ,0.0,1,-0.3,40,-12.0
+25950673,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1955,1839,4.5,9,1.23,40,49.2,"West, Guy",m,2239,True,AUS,0.5,1,0.42,40,16.8
+25950673,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1955,1839,4.5,9,1.23,40,49.2,"Aura, Kristian",,1934,False,FIN,0.5,1,0.13,40,5.2
+25950673,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1955,1839,4.5,9,1.23,40,49.2,"Lee, Donghyun C",,1583,False,KOR,1.0,1,0.19,40,7.6
+25950673,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1955,1839,4.5,9,1.23,40,49.2,"Tobor, Mick",,1952,False,GER,1.0,1,0.65,40,26.0
+25950673,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1955,1839,4.5,9,1.23,40,49.2,"Skiotis, Pano",,2053,False,AUS,0.5,1,0.27,40,10.8

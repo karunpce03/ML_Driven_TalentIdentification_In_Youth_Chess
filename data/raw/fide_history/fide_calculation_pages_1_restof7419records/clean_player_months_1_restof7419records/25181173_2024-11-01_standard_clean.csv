@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25181173,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1844,1980,7.0,11,-0.29,40,-11.6,"Ananya, Manisundaram",,1580,True,IND,1.0,1,0.08,40,3.2
+25181173,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1844,1980,7.0,11,-0.29,40,-11.6,"Sani, Deshpande",,1739,False,IND,1.0,1,0.2,40,8.0
+25181173,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1844,1980,7.0,11,-0.29,40,-11.6,"Kalyani, Sirin",wf,2132,False,IND,0.0,1,-0.3,40,-12.0
+25181173,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1844,1980,7.0,11,-0.29,40,-11.6,"Sevitha, Viju M",,1740,False,IND,1.0,1,0.2,40,8.0
+25181173,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1844,1980,7.0,11,-0.29,40,-11.6,"Deodhar, Vrushali Umesh",wf,2182,False,IND,1.0,1,0.76,40,30.4
+25181173,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1844,1980,7.0,11,-0.29,40,-11.6,"Saranya, J",wf,2048,False,IND,0.0,1,-0.41,40,-16.4
+25181173,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1844,1980,7.0,11,-0.29,40,-11.6,"Sagar, Siya",,1729,False,IND,0.0,1,-0.81,40,-32.4
+25181173,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1844,1980,7.0,11,-0.29,40,-11.6,"Sahana, Shainsha",,1785,False,IND,1.0,1,0.25,40,10.0
+25181173,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1844,1980,7.0,11,-0.29,40,-11.6,"Narahari, Geethika Hasini",,1833,False,IND,0.0,1,-0.7,40,-28.0
+25181173,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1844,1980,7.0,11,-0.29,40,-11.6,"Amulya, Guruprasad",wc,1785,False,IND,1.0,1,0.25,40,10.0
+25181173,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1844,1980,7.0,11,-0.29,40,-11.6,"Tripurambika, V",,1731,False,IND,1.0,1,0.19,40,7.6

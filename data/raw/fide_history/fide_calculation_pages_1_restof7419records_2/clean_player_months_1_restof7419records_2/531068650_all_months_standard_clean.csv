@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531068650,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,,,3.5,7,0.0,1507,,"Jain, Bharggav",,1547.0,False,IND,1.0,1,0.0,,0.0
+531068650,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,,,3.5,7,0.0,1507,,"Aarush, Budjade",,1559.0,False,IND,0.0,1,0.0,,0.0
+531068650,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,,,3.5,7,0.0,1507,,"Devesh, Madnani",,1501.0,False,IND,0.0,1,0.0,,0.0
+531068650,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,,,3.5,7,0.0,1507,,"Rish, Mehta",,1490.0,False,IND,1.0,1,0.0,,0.0
+531068650,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,,,3.5,7,0.0,1507,,"Rishi, Desai",,1496.0,False,IND,0.0,1,0.0,,0.0
+531068650,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,,,3.5,7,0.0,1507,,"Shivaansh, Rajesh Patel",,1449.0,False,IND,1.0,1,0.0,,0.0
+531068650,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,,,3.5,7,0.0,1507,,"Yadav, Rishabh",,1510.0,False,IND,0.5,1,0.0,,0.0
+531068650,2025-01-01,0,1st Aquinas International School Below 1800 All India FIDE Rating Chess Tournament 2024,Mumbai IND,2024-12-26,2024-12-28,1438.0,1572.0,0.5,4,-2.23,40,-89.2,"Durva, Sachin Bomble",,1421.0,False,IND,0.0,1,-0.7,40.0,-28.0
+531068650,2025-01-01,0,1st Aquinas International School Below 1800 All India FIDE Rating Chess Tournament 2024,Mumbai IND,2024-12-26,2024-12-28,1438.0,1572.0,0.5,4,-2.23,40,-89.2,"Anshuman, Samal",,1457.0,False,IND,0.0,1,-0.66,40.0,-26.4
+531068650,2025-01-01,0,1st Aquinas International School Below 1800 All India FIDE Rating Chess Tournament 2024,Mumbai IND,2024-12-26,2024-12-28,1438.0,1572.0,0.5,4,-2.23,40,-89.2,"Naval, Mit Vora",,1439.0,False,IND,0.5,1,-0.18,40.0,-7.2
+531068650,2025-01-01,0,1st Aquinas International School Below 1800 All India FIDE Rating Chess Tournament 2024,Mumbai IND,2024-12-26,2024-12-28,1438.0,1572.0,0.5,4,-2.23,40,-89.2,"Vedant, Bhargava",,1434.0,False,IND,0.0,1,-0.69,40.0,-27.6

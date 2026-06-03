@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48738263,2025-04-01,0,Chess Lab Classic Tournament-March,Dubai UAE,2025-03-08,2025-03-09,1642,1794,4.0,5,0.56,40,22.4,"Deshmukh, Omm",,1515.0,False,IND,1.0,1,0.16,40,6.4
+48738263,2025-04-01,0,Chess Lab Classic Tournament-March,Dubai UAE,2025-03-08,2025-03-09,1642,1794,4.0,5,0.56,40,22.4,"Nabatlao, Jason",,1810.0,False,PHI,0.0,1,-0.48,40,-19.2
+48738263,2025-04-01,0,Chess Lab Classic Tournament-March,Dubai UAE,2025-03-08,2025-03-09,1642,1794,4.0,5,0.56,40,22.4,"Vikrant, Suganthan",,1516.0,False,IND,1.0,1,0.17,40,6.8
+48738263,2025-04-01,0,Chess Lab Classic Tournament-March,Dubai UAE,2025-03-08,2025-03-09,1642,1794,4.0,5,0.56,40,22.4,"Matinyan, Polina",,1601.0,False,RUS,1.0,1,0.25,40,10.0
+48738263,2025-04-01,0,Chess Lab Classic Tournament-March,Dubai UAE,2025-03-08,2025-03-09,1642,1794,4.0,5,0.56,40,22.4,"Vaibhav, Krishnan K P",,1768.0,False,IND,1.0,1,0.46,40,18.4

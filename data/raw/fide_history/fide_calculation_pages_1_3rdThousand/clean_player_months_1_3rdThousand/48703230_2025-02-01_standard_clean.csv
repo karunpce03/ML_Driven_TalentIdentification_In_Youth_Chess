@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48703230,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,,,0.0,3,0.0,1102,,"Shirliyev, Allayar",,2196,False,TKM,0.0,1,0.0,,0.0
+48703230,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,,,0.0,3,0.0,1102,,"Abhrojyoty, Nath",,1951,False,IND,0.0,1,0.0,,0.0
+48703230,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,,,0.0,3,0.0,1102,,"Jahid, Ahmed Choudhury",,1558,False,IND,0.0,1,0.0,,0.0

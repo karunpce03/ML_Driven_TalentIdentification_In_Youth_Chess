@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88122832,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1712,1428,0.0,3,-0.5,40,-20.0,"Anish, Ramkumar",,1758.0,False,IND,0.0,1,-0.12,40,-4.8
+88122832,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1712,1428,0.0,3,-0.5,40,-20.0,"Danish, S V",,1756.0,False,IND,0.0,1,-0.13,40,-5.2
+88122832,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1712,1428,0.0,3,-0.5,40,-20.0,Satyasavit,,1622.0,False,IND,0.0,1,-0.25,40,-10.0

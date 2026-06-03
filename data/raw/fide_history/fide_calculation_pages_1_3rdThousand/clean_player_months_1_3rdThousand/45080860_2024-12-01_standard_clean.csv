@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Naman, Newar",,1539.0,False,IND,1.0,1,0.14,35,4.9
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Abhay, Chetty",,1710.0,False,IND,1.0,1,0.31,35,10.85
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Mrinmoy, Rajkhowa",,1996.0,False,IND,0.0,1,-0.31,35,-10.85
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Ishan, S",,1700.0,False,IND,0.5,1,-0.2,35,-7.0
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Aron, S P",,1692.0,False,IND,0.0,1,-0.71,35,-24.85
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Vageesh, Swaminathan",,1681.0,False,IND,1.0,1,0.27,35,9.45
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Kanoje, Alok",,1747.0,False,IND,1.0,1,0.36,35,12.6
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Lakshyesh, Mohan Gupta",,1691.0,False,IND,1.0,1,0.29,35,10.15
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Mohit, S",,2041.0,False,IND,0.5,1,0.24,35,8.4
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Sharnarthi, Shlok",,2024.0,False,IND,0.5,1,0.23,35,8.05
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Madhesh, Kumar S",,1925.0,False,IND,0.0,1,-0.4,35,-14.0
+45080860,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1599,1853,6.5,9,-0.76,35,-26.6,"Chinmay, Reddy B P",,1453.0,True,IND,1.0,1,0.08,35,2.8
+45080860,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1599,1853,6.5,9,-0.76,35,-26.6,"Abhineeth, Bhat",,1530.0,False,IND,1.0,1,0.13,35,4.55
+45080860,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1599,1853,6.5,9,-0.76,35,-26.6,"Raposo, Maxwell",,1653.0,False,IND,1.0,1,0.24,35,8.4
+45080860,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1599,1853,6.5,9,-0.76,35,-26.6,"Darsha, Bhat",,1623.0,False,IND,0.5,1,-0.29,35,-10.15
+45080860,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1599,1853,6.5,9,-0.76,35,-26.6,"Sinthia, Sarkar",,1708.0,False,IND,0.0,1,-0.69,35,-24.15
+45080860,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1599,1853,6.5,9,-0.76,35,-26.6,Jeevanandham,,1623.0,False,IND,0.5,1,-0.29,35,-10.15
+45080860,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1599,1853,6.5,9,-0.76,35,-26.6,"Nitin, Ganesh T",,1570.0,False,IND,1.0,1,0.16,35,5.6
+45080860,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1599,1853,6.5,9,-0.76,35,-26.6,"Aravinda, B R",,1655.0,False,IND,0.5,1,-0.26,35,-9.1
+45080860,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1599,1853,6.5,9,-0.76,35,-26.6,"Samarth, Arun Upadhyaya",,1573.0,False,IND,1.0,1,0.16,35,5.6

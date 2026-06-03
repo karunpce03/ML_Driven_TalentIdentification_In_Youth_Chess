@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25980025,2024-10-01,0,23rd Jharkhand State Junior FIDE Rating Chess Championship - 2024,Ranchi IND,2024-08-30,2024-09-01,1617,1466,0.5,3,-0.41,40,-16.4,"Aditya, Kumar Jha",,1594.0,False,IND,0.5,1,0.17,40,6.8
+25980025,2024-10-01,0,23rd Jharkhand State Junior FIDE Rating Chess Championship - 2024,Ranchi IND,2024-08-30,2024-09-01,1617,1466,0.5,3,-0.41,40,-16.4,"Abhiraj, De",,1681.0,False,IND,0.0,1,-0.23,40,-9.2
+25980025,2024-10-01,0,23rd Jharkhand State Junior FIDE Rating Chess Championship - 2024,Ranchi IND,2024-08-30,2024-09-01,1617,1466,0.5,3,-0.41,40,-16.4,"Adarsh, Parashar",,1575.0,False,IND,0.0,1,-0.35,40,-14.0

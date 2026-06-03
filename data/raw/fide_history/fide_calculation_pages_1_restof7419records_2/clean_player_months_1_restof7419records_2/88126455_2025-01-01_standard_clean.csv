@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88126455,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1745,1498,2.0,4,1.11,40,44.4,"Magdi, Abueisa",,1753.0,False,SUD,0.5,1,0.31,40,12.4
+88126455,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1745,1498,2.0,4,1.11,40,44.4,"Fathi Tavani, Farhoud",,1880.0,False,IRI,0.0,1,-0.09,40,-3.6
+88126455,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1745,1498,2.0,4,1.11,40,44.4,"Al Shukaili, Reem",,1490.0,False,OMA,1.0,1,0.49,40,19.6
+88126455,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1745,1498,2.0,4,1.11,40,44.4,"De Figueiredo Coutinho, Milton",,1857.0,False,ESP,0.5,1,0.4,40,16.0

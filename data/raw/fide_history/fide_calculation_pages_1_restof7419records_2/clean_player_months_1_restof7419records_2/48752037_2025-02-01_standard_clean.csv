@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48752037,2025-02-01,0,Punjab State Amateur Below-2000 Chess Championship 2024,Hoshiarpur IND,2024-12-27,2024-12-29,1664,1444,2.0,5,0.79,40,31.6,"Shubham, Shukla",,1821.0,False,IND,0.0,1,-0.09,40,-3.6
+48752037,2025-02-01,0,Punjab State Amateur Below-2000 Chess Championship 2024,Hoshiarpur IND,2024-12-27,2024-12-29,1664,1444,2.0,5,0.79,40,31.6,"Raghav, Juneja",,1702.0,False,IND,0.5,1,0.32,40,12.8
+48752037,2025-02-01,0,Punjab State Amateur Below-2000 Chess Championship 2024,Hoshiarpur IND,2024-12-27,2024-12-29,1664,1444,2.0,5,0.79,40,31.6,"Mahajan, Samin",,1557.0,False,IND,1.0,1,0.65,40,26.0
+48752037,2025-02-01,0,Punjab State Amateur Below-2000 Chess Championship 2024,Hoshiarpur IND,2024-12-27,2024-12-29,1664,1444,2.0,5,0.79,40,31.6,"Uday, Pratap Bawa",,1765.0,False,IND,0.0,1,-0.13,40,-5.2
+48752037,2025-02-01,0,Punjab State Amateur Below-2000 Chess Championship 2024,Hoshiarpur IND,2024-12-27,2024-12-29,1664,1444,2.0,5,0.79,40,31.6,"Tegfateh, Singh",,1476.0,False,IND,0.5,1,0.04,40,1.6
+48752037,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1544,1444,1.5,5,-0.31,40,-12.4,"Yuvir, Raj Aggarwal",,1566.0,False,IND,0.0,1,-0.33,40,-13.2
+48752037,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1544,1444,1.5,5,-0.31,40,-12.4,"Aditya, Saxena",,1539.0,False,IND,0.0,1,-0.37,40,-14.8
+48752037,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1544,1444,1.5,5,-0.31,40,-12.4,"Vinayak, Jain",,1544.0,False,IND,0.5,1,0.14,40,5.6
+48752037,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1544,1444,1.5,5,-0.31,40,-12.4,"Avneesh, Kumar Vatsa",,1536.0,False,IND,0.0,1,-0.37,40,-14.8
+48752037,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1544,1444,1.5,5,-0.31,40,-12.4,"Arnav, Arya",,1534.0,False,IND,1.0,1,0.62,40,24.8

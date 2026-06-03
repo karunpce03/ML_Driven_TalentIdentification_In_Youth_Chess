@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48763233,2024-05-01,0,April Classic Chess Tournament 2024,Kuwait KUW,2024-04-18,2024-04-25,,,0.0,1,0.0,838,,"Advik, Srinivasan",,1638.0,False,IND,0.0,1,0.0,,0.0
+48763233,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,,,3.0,6,0.0,1570,,"Ezhil, Aadhav Kaladharan",,1783.0,False,IND,0.0,1,0.0,,0.0
+48763233,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,,,3.0,6,0.0,1570,,"Ibrahim, Tayseer.",,1568.0,False,SYR,1.0,1,0.0,,0.0
+48763233,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,,,3.0,6,0.0,1570,,"Nehan, Abdullah",,1577.0,False,BAN,1.0,1,0.0,,0.0
+48763233,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,,,3.0,6,0.0,1570,,"Taksh, Agrawal",,1599.0,False,IND,0.0,1,0.0,,0.0
+48763233,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,,,3.0,6,0.0,1570,,"Sulaiman, Hussain",,1460.0,False,KUW,0.0,1,0.0,,0.0
+48763233,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,,,3.0,6,0.0,1570,,"Lakshan, Ramesh",,1431.0,False,IND,1.0,1,0.0,,0.0
+48763233,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1431.0,1627.0,0.0,1,-0.75,40,-30.0,"Mohammed, Junaid Khan",,1431.0,False,IND,0.0,1,-0.75,40.0,-30.0
+48763233,2025-02-01,0,1st Kuwait International Chess Festival - Ladies Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1608.0,1597.0,1.0,4,-0.95,40,-38.0,"Nema, Rabab",wc,1598.0,False,KUW,0.0,1,-0.5,40.0,-20.0
+48763233,2025-02-01,0,1st Kuwait International Chess Festival - Ladies Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1608.0,1597.0,1.0,4,-0.95,40,-38.0,"Sathvika, Umashankar",,1536.0,False,IND,1.0,1,0.42,40.0,16.8
+48763233,2025-02-01,0,1st Kuwait International Chess Festival - Ladies Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1608.0,1597.0,1.0,4,-0.95,40,-38.0,"Alsemairi, Dalia",wc,1782.0,False,KSA,0.0,1,-0.26,40.0,-10.4
+48763233,2025-02-01,0,1st Kuwait International Chess Festival - Ladies Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1608.0,1597.0,1.0,4,-0.95,40,-38.0,"Kamalini, Ramesh",,1515.0,False,IND,0.0,1,-0.61,40.0,-24.4

@@ -1,0 +1,44 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25748580,2024-09-01,0,RUDAR XXVI - IM ROUND ROBIN,Pozarevac SRB,2024-07-22,2024-07-29,2254,2170,4.5,9,1.0,16,16.0,"Ilincic, Zlatko",g,2274.0,False,SRB,0.5,1,0.14,16,2.24
+25748580,2024-09-01,0,RUDAR XXVI - IM ROUND ROBIN,Pozarevac SRB,2024-07-22,2024-07-29,2254,2170,4.5,9,1.0,16,16.0,"Milanovic, Slavisa",m,2312.0,False,MNE,0.0,1,-0.31,16,-4.96
+25748580,2024-09-01,0,RUDAR XXVI - IM ROUND ROBIN,Pozarevac SRB,2024-07-22,2024-07-29,2254,2170,4.5,9,1.0,16,16.0,"Aditya, Varun Gampa",f,2277.0,False,IND,0.5,1,0.15,16,2.4
+25748580,2024-09-01,0,RUDAR XXVI - IM ROUND ROBIN,Pozarevac SRB,2024-07-22,2024-07-29,2254,2170,4.5,9,1.0,16,16.0,"Sukovic, Andrej",f,2350.0,False,MNE,1.0,1,0.74,16,11.84
+25748580,2024-09-01,0,RUDAR XXVI - IM ROUND ROBIN,Pozarevac SRB,2024-07-22,2024-07-29,2254,2170,4.5,9,1.0,16,16.0,"Sabuk, Piotr",m,2412.0,False,POL,0.5,1,0.3,16,4.8
+25748580,2024-09-01,0,RUDAR XXVI - IM ROUND ROBIN,Pozarevac SRB,2024-07-22,2024-07-29,2254,2170,4.5,9,1.0,16,16.0,"Ashvath, Mittal",,2075.0,False,IND,1.0,1,0.37,16,5.92
+25748580,2024-09-01,0,RUDAR XXVI - IM ROUND ROBIN,Pozarevac SRB,2024-07-22,2024-07-29,2254,2170,4.5,9,1.0,16,16.0,"Phatak, Aanjaneya",,2189.0,False,IND,0.0,1,-0.47,16,-7.52
+25748580,2024-09-01,0,RUDAR XXVI - IM ROUND ROBIN,Pozarevac SRB,2024-07-22,2024-07-29,2254,2170,4.5,9,1.0,16,16.0,"Xi, Qi",,2209.0,False,CHN,0.5,1,0.05,16,0.8
+25748580,2024-09-01,0,RUDAR XXVI - IM ROUND ROBIN,Pozarevac SRB,2024-07-22,2024-07-29,2254,2170,4.5,9,1.0,16,16.0,"Cao, Qingfeng",,2189.0,False,CHN,0.5,1,0.03,16,0.48
+25748580,2024-09-01,0,RUDAR XXVII - IM ROUND ROBIN,Pozarevac SRB,2024-07-30,2024-08-06,2259,2170,6.0,9,2.55,16,40.8,"Aditya, Varun Gampa",f,2277.0,False,IND,1.0,1,0.65,16,10.4
+25748580,2024-09-01,0,RUDAR XXVII - IM ROUND ROBIN,Pozarevac SRB,2024-07-30,2024-08-06,2259,2170,6.0,9,2.55,16,40.8,"Gusev, Mikhail",,2132.0,False,SRB,1.0,1,0.45,16,7.2
+25748580,2024-09-01,0,RUDAR XXVII - IM ROUND ROBIN,Pozarevac SRB,2024-07-30,2024-08-06,2259,2170,6.0,9,2.55,16,40.8,"Xi, Qi",,2209.0,False,CHN,1.0,1,0.55,16,8.8
+25748580,2024-09-01,0,RUDAR XXVII - IM ROUND ROBIN,Pozarevac SRB,2024-07-30,2024-08-06,2259,2170,6.0,9,2.55,16,40.8,"Petrovic, Aleksa",f,2303.0,False,SRB,0.5,1,0.18,16,2.88
+25748580,2024-09-01,0,RUDAR XXVII - IM ROUND ROBIN,Pozarevac SRB,2024-07-30,2024-08-06,2259,2170,6.0,9,2.55,16,40.8,"Ostojic, Nikola",m,2248.0,False,SRB,0.5,1,0.11,16,1.76
+25748580,2024-09-01,0,RUDAR XXVII - IM ROUND ROBIN,Pozarevac SRB,2024-07-30,2024-08-06,2259,2170,6.0,9,2.55,16,40.8,"Phatak, Aanjaneya",,2189.0,False,IND,1.0,1,0.53,16,8.48
+25748580,2024-09-01,0,RUDAR XXVII - IM ROUND ROBIN,Pozarevac SRB,2024-07-30,2024-08-06,2259,2170,6.0,9,2.55,16,40.8,"Mahitosh, Dey",f,2232.0,False,IND,0.5,1,0.09,16,1.44
+25748580,2024-09-01,0,RUDAR XXVII - IM ROUND ROBIN,Pozarevac SRB,2024-07-30,2024-08-06,2259,2170,6.0,9,2.55,16,40.8,"Ilincic, Zlatko",g,2274.0,False,SRB,0.0,1,-0.36,16,-5.76
+25748580,2024-09-01,0,RUDAR XXVII - IM ROUND ROBIN,Pozarevac SRB,2024-07-30,2024-08-06,2259,2170,6.0,9,2.55,16,40.8,"Bryakin, Mikhail",g,2470.0,False,SRB,0.5,1,0.35,16,5.6
+25748580,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2289,2225,6.0,9,2.34,16,37.44,"Steiners, Emils",,1859.0,False,LAT,1.0,1,0.1,16,1.6
+25748580,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2289,2225,6.0,9,2.34,16,37.44,"Miezis, Normunds",g,2417.0,False,LAT,1.0,1,0.75,16,12.0
+25748580,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2289,2225,6.0,9,2.34,16,37.44,"Baum, Jonasz",m,2435.0,False,POL,0.0,1,-0.23,16,-3.68
+25748580,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2289,2225,6.0,9,2.34,16,37.44,"Dobrosmyslov, Artem",f,2333.0,False,FRA,0.5,1,0.15,16,2.4
+25748580,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2289,2225,6.0,9,2.34,16,37.44,"Juhasz, Agoston",f,2439.0,False,HUN,0.5,1,0.27,16,4.32
+25748580,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2289,2225,6.0,9,2.34,16,37.44,"Seeman, Tarvo",m,2395.0,False,EST,0.5,1,0.22,16,3.52
+25748580,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2289,2225,6.0,9,2.34,16,37.44,"Sailesh, R",,1988.0,False,IND,1.0,1,0.2,16,3.2
+25748580,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2289,2225,6.0,9,2.34,16,37.44,"Chyzy, Jakub",f,2368.0,False,POL,0.5,1,0.19,16,3.04
+25748580,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2289,2225,6.0,9,2.34,16,37.44,"Ondersteijn, Niels",m,2367.0,False,NED,1.0,1,0.69,16,11.04
+25748580,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,2061,2225,6.5,9,0.28,16,4.48,"Erfan, Mohamad Firdaus",,1825.0,True,QAT,1.0,1,0.08,16,1.28
+25748580,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,2061,2225,6.5,9,0.28,16,4.48,"Kakavand, Ramtin",f,2017.0,False,IRI,1.0,1,0.23,16,3.68
+25748580,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,2061,2225,6.5,9,0.28,16,4.48,"Kazhmuratov, Altair",,1994.0,False,KAZ,1.0,1,0.21,16,3.36
+25748580,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,2061,2225,6.5,9,0.28,16,4.48,"Khachatryan, Gagik B.",,1852.0,False,ARM,1.0,1,0.1,16,1.6
+25748580,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,2061,2225,6.5,9,0.28,16,4.48,"Yeremyan, Alen",f,2279.0,False,ARM,1.0,1,0.58,16,9.28
+25748580,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,2061,2225,6.5,9,0.28,16,4.48,"Lad, Mandar Pradip",,2254.0,False,IND,0.5,1,0.04,16,0.64
+25748580,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,2061,2225,6.5,9,0.28,16,4.48,"Manukyan, Sargis A.",f,2211.0,False,ARM,0.0,1,-0.52,16,-8.32
+25748580,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,2061,2225,6.5,9,0.28,16,4.48,"Darini, Iliya",,2083.0,False,IRI,0.0,1,-0.69,16,-11.04
+25748580,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,2061,2225,6.5,9,0.28,16,4.48,"Poormosavi, Seyed Kanan",,2034.0,False,IRI,1.0,1,0.25,16,4.0
+25748580,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1996,2225,6.0,7,0.83,16,13.28,"Aerfa, Abulikemu",,1825.0,True,CHN,1.0,1,0.08,16,1.28
+25748580,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1996,2225,6.0,7,0.83,16,13.28,"Pranav, Ganesh Prabhu",,1825.0,True,IND,1.0,1,0.08,16,1.28
+25748580,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1996,2225,6.0,7,0.83,16,13.28,"Pranav, Bobby Sekhar",,1825.0,True,IND,1.0,1,0.08,16,1.28
+25748580,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1996,2225,6.0,7,0.83,16,13.28,"Sahakyan, Hamlet",,1825.0,True,ARM,1.0,1,0.08,16,1.28
+25748580,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1996,2225,6.0,7,0.83,16,13.28,"Kakavand, Ramtin",f,2017.0,False,IRI,0.5,1,-0.27,16,-4.32
+25748580,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1996,2225,6.0,7,0.83,16,13.28,"Saydaliev, Akobirkhon",f,2266.0,False,UZB,1.0,1,0.56,16,8.96
+25748580,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1996,2225,6.0,7,0.83,16,13.28,"Mahdavi, Reza",f,2389.0,False,IRI,0.5,1,0.22,16,3.52

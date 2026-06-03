@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25981226,2024-10-01,0,Wimbledon FIDE Congress August 2024 - U2000,London ENG,2024-08-30,2024-08-31,1803,1815,3.5,5,0.93,40,37.2,"Bevis, Noah",,1626.0,False,ENG,1.0,1,0.25,40,10.0
+25981226,2024-10-01,0,Wimbledon FIDE Congress August 2024 - U2000,London ENG,2024-08-30,2024-08-31,1803,1815,3.5,5,0.93,40,37.2,"Lam, Joshua",,1935.0,False,ENG,1.0,1,0.66,40,26.4
+25981226,2024-10-01,0,Wimbledon FIDE Congress August 2024 - U2000,London ENG,2024-08-30,2024-08-31,1803,1815,3.5,5,0.93,40,37.2,"Shard, Henry",,1749.0,False,ENG,1.0,1,0.41,40,16.4
+25981226,2024-10-01,0,Wimbledon FIDE Congress August 2024 - U2000,London ENG,2024-08-30,2024-08-31,1803,1815,3.5,5,0.93,40,37.2,"Rogers, Tim L",,1930.0,False,ENG,0.5,1,0.16,40,6.4
+25981226,2024-10-01,0,Wimbledon FIDE Congress August 2024 - U2000,London ENG,2024-08-30,2024-08-31,1803,1815,3.5,5,0.93,40,37.2,"Grose, Kameron",,1776.0,False,ENG,0.0,1,-0.55,40,-22.0
+25981226,2024-10-01,0,Wimbledon FIDE Congress September 2024 - U2000,London ENG,2024-09-20,2024-09-21,1785,1864,3.5,5,0.46,40,18.4,"Shard, Henry",,1749.0,False,ENG,0.0,1,-0.66,40,-26.4
+25981226,2024-10-01,0,Wimbledon FIDE Congress September 2024 - U2000,London ENG,2024-09-20,2024-09-21,1785,1864,3.5,5,0.46,40,18.4,"Venkatesh, Anuj V",,1819.0,False,ENG,1.0,1,0.44,40,17.6
+25981226,2024-10-01,0,Wimbledon FIDE Congress September 2024 - U2000,London ENG,2024-09-20,2024-09-21,1785,1864,3.5,5,0.46,40,18.4,"Croasdale, Mark",,1731.0,False,ENG,1.0,1,0.32,40,12.8
+25981226,2024-10-01,0,Wimbledon FIDE Congress September 2024 - U2000,London ENG,2024-09-20,2024-09-21,1785,1864,3.5,5,0.46,40,18.4,"Domarkas, Michael",,1841.0,False,ENG,1.0,1,0.47,40,18.8
+25981226,2024-10-01,0,Wimbledon FIDE Congress September 2024 - U2000,London ENG,2024-09-20,2024-09-21,1785,1864,3.5,5,0.46,40,18.4,"Llewellyn, Julian D",,1787.0,False,ENG,0.5,1,-0.11,40,-4.4

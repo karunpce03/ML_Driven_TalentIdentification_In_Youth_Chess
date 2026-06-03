@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25101536,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1667,1515,0.0,3,-0.89,40,-35.6,"Satyanarayana, P.",,1724.0,False,IND,0.0,1,-0.23,40,-9.2
+25101536,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1667,1515,0.0,3,-0.89,40,-35.6,"Mohapatra, Ayush Aryan",,1639.0,False,IND,0.0,1,-0.33,40,-13.2
+25101536,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1667,1515,0.0,3,-0.89,40,-35.6,"Vangala, Prashanth",,1638.0,False,IND,0.0,1,-0.33,40,-13.2

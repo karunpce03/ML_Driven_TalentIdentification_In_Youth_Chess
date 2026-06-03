@@ -1,0 +1,31 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48703567,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,,,0.5,5,0.0,1195,,"Rounaq, Biswas",,1707.0,False,IND,0.0,1,0.0,,0.0
+48703567,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,,,0.5,5,0.0,1195,,"Spandan, Debnath",,1543.0,False,IND,0.0,1,0.0,,0.0
+48703567,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,,,0.5,5,0.0,1195,,"Aayusree, Sarkar",,1515.0,False,IND,0.5,1,0.0,,0.0
+48703567,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,,,0.5,5,0.0,1195,,"Raju, Karmakar",,1527.0,False,IND,0.0,1,0.0,,0.0
+48703567,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,,,0.5,5,0.0,1195,,"Bhadra, Anibrata",,1515.0,False,IND,0.0,1,0.0,,0.0
+48703567,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,2.0,7,0.0,1436,,"Dhruv, Phukan",,1745.0,False,IND,0.0,1,0.0,,0.0
+48703567,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,2.0,7,0.0,1436,,"Dipnalisha, Borah",,1530.0,False,IND,1.0,1,0.0,,0.0
+48703567,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,2.0,7,0.0,1436,,"Prandeep, Bhattacharjya",,1553.0,False,IND,1.0,1,0.0,,0.0
+48703567,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,2.0,7,0.0,1436,,"Rajith, V.",,1678.0,False,IND,0.0,1,0.0,,0.0
+48703567,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,2.0,7,0.0,1436,,"Amiyanshu, Bhowal",,1563.0,False,IND,0.0,1,0.0,,0.0
+48703567,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,2.0,7,0.0,1436,,"Uddhav, Phukan",,1535.0,False,IND,0.0,1,0.0,,0.0
+48703567,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,2.0,7,0.0,1436,,"Rudradeep, Ghosh",,1552.0,False,IND,0.0,1,0.0,,0.0
+48703567,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1478.0,1515.0,3.0,6,-0.33,40,-13.2,"Reyansh, Rawani",,1404.0,False,IND,1.0,1,0.35,40.0,14.0
+48703567,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1478.0,1515.0,3.0,6,-0.33,40,-13.2,"Riaan, Sen Gupta",,1428.0,False,IND,0.5,1,-0.12,40.0,-4.8
+48703567,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1478.0,1515.0,3.0,6,-0.33,40,-13.2,"Suvranil, Chowdhury",,1403.0,False,IND,1.0,1,0.35,40.0,14.0
+48703567,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1478.0,1515.0,3.0,6,-0.33,40,-13.2,"Oishik, Mondal",,1762.0,False,IND,0.0,1,-0.19,40.0,-7.6
+48703567,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1478.0,1515.0,3.0,6,-0.33,40,-13.2,"Riddhiman, Datta",,1435.0,False,IND,0.5,1,-0.11,40.0,-4.4
+48703567,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1478.0,1515.0,3.0,6,-0.33,40,-13.2,"Abhiraj, Saha",,1437.0,False,IND,0.0,1,-0.61,40.0,-24.4
+48703567,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1552.0,1502.0,2.5,4,0.74,40,29.6,"Oishik, Mondal",,1751.0,False,IND,0.0,1,-0.19,40.0,-7.6
+48703567,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1552.0,1502.0,2.5,4,0.74,40,29.6,"Vaaswar, Basak",,1408.0,False,IND,1.0,1,0.37,40.0,14.8
+48703567,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1552.0,1502.0,2.5,4,0.74,40,29.6,"Reyansh, Rawani",,1416.0,False,IND,0.5,1,-0.12,40.0,-4.8
+48703567,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1552.0,1502.0,2.5,4,0.74,40,29.6,"Aniket, Das",,1633.0,False,IND,1.0,1,0.68,40.0,27.2
+48703567,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1542.0,1502.0,0.0,4,-1.91,40,-76.4,"Niladri, Banerjee",,1902.0,True,IND,0.0,1,-0.08,40.0,-3.2
+48703567,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1542.0,1502.0,0.0,4,-1.91,40,-76.4,"Dipro, Mandal",,1432.0,False,IND,0.0,1,-0.6,40.0,-24.0
+48703567,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1542.0,1502.0,0.0,4,-1.91,40,-76.4,"Aishik, Satya Chatterjee",,1419.0,False,IND,0.0,1,-0.61,40.0,-24.4
+48703567,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1542.0,1502.0,0.0,4,-1.91,40,-76.4,"Sahnan, Alam",,1414.0,False,IND,0.0,1,-0.62,40.0,-24.8
+48703567,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1573.0,1455.0,1.0,4,-0.38,40,-15.2,"Shreyansh, Das",,1621.0,False,IND,0.5,1,0.22,40.0,8.8
+48703567,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1573.0,1455.0,1.0,4,-0.38,40,-15.2,"Saicharan, Srinivasan",,1616.0,False,IND,0.0,1,-0.29,40.0,-11.6
+48703567,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1573.0,1455.0,1.0,4,-0.38,40,-15.2,"Anish, Abhijeet Jawalkar",,1494.0,False,IND,0.5,1,0.05,40.0,2.0
+48703567,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1573.0,1455.0,1.0,4,-0.38,40,-15.2,"Ayaanraj, Kottapally",,1561.0,False,IND,0.0,1,-0.36,40.0,-14.4

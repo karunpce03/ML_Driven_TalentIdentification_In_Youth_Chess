@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25120972,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1551,1772,5.0,9,-1.94,40,-77.6,"Nathan, Rodrigues",,1405.0,False,IND,1.0,1,0.1,40,4.0
+25120972,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1551,1772,5.0,9,-1.94,40,-77.6,"Gupta, Niti",,1500.0,False,IND,1.0,1,0.17,40,6.8
+25120972,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1551,1772,5.0,9,-1.94,40,-77.6,"Guruprasad, Patil",,1561.0,False,IND,1.0,1,0.23,40,9.2
+25120972,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1551,1772,5.0,9,-1.94,40,-77.6,"Bhogal, Rupesh",,1717.0,False,IND,0.0,1,-0.58,40,-23.2
+25120972,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1551,1772,5.0,9,-1.94,40,-77.6,"Dhule, Amey",,1538.0,False,IND,0.5,1,-0.29,40,-11.6
+25120972,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1551,1772,5.0,9,-1.94,40,-77.6,"Jani, Harsh",,1564.0,False,IND,1.0,1,0.23,40,9.2
+25120972,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1551,1772,5.0,9,-1.94,40,-77.6,"Ishan, Roy",,1639.0,False,IND,0.0,1,-0.68,40,-27.2
+25120972,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1551,1772,5.0,9,-1.94,40,-77.6,"Prabhu, Arjun",,1537.0,False,IND,0.5,1,-0.29,40,-11.6
+25120972,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1551,1772,5.0,9,-1.94,40,-77.6,"Aabha, Milind Gavkar",,1497.0,False,IND,0.0,1,-0.83,40,-33.2

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+146105016,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1550,1700,4.0,6,-0.17,40,-6.8,"Yrishin, Kuckian",,1448.0,False,IND,1.0,1,0.19,40,7.6
+146105016,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1550,1700,4.0,6,-0.17,40,-6.8,"Anushri, Nair",,1589.0,False,IND,1.0,1,0.35,40,14.0
+146105016,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1550,1700,4.0,6,-0.17,40,-6.8,"Tannish, Mahesh",,1576.0,False,IND,0.5,1,-0.17,40,-6.8
+146105016,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1550,1700,4.0,6,-0.17,40,-6.8,"Resto, Francisco",,1649.0,False,USA,0.0,1,-0.57,40,-22.8
+146105016,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1550,1700,4.0,6,-0.17,40,-6.8,"Shaurya, Gupta (19-07-2012)",,1462.0,False,IND,1.0,1,0.2,40,8.0
+146105016,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1550,1700,4.0,6,-0.17,40,-6.8,"Sari, Shekfeh",,1578.0,False,SYR,0.5,1,-0.17,40,-6.8
+146105016,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1725,1700,1.0,4,-0.9,40,-36.0,"Marcos, Marvin",,1965.0,False,PHI,0.0,1,-0.18,40,-7.2
+146105016,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1725,1700,1.0,4,-0.9,40,-36.0,"Golizadeh, Asena",,1570.0,False,IRI,0.0,1,-0.68,40,-27.2
+146105016,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1725,1700,1.0,4,-0.9,40,-36.0,"Reyansh, Amit Bodkhe",,1468.0,False,IND,1.0,1,0.21,40,8.4
+146105016,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1725,1700,1.0,4,-0.9,40,-36.0,"Muleta, Jordan",,1897.0,False,FID,0.0,1,-0.25,40,-10.0

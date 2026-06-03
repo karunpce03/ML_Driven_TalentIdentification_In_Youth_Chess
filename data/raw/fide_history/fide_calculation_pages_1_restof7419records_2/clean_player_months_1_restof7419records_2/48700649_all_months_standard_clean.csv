@@ -1,0 +1,49 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48700649,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1709,1721,5.5,8,1.33,40,53.2,"Abhirup, Majumder",,1511.0,False,IND,1.0,1,0.23,40,9.2
+48700649,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1709,1721,5.5,8,1.33,40,53.2,"Arindam, Mukherjee",,1990.0,False,IND,0.5,1,0.33,40,13.2
+48700649,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1709,1721,5.5,8,1.33,40,53.2,"Santu, Mondal",,1983.0,False,IND,0.0,1,-0.18,40,-7.2
+48700649,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1709,1721,5.5,8,1.33,40,53.2,"Arkojyoti, Banerjee",,1545.0,False,IND,1.0,1,0.27,40,10.8
+48700649,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1709,1721,5.5,8,1.33,40,53.2,"Suravi, Bhattacharya",,1638.0,False,IND,1.0,1,0.39,40,15.6
+48700649,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1709,1721,5.5,8,1.33,40,53.2,"Srijon, Saha",,1887.0,False,IND,0.0,1,-0.28,40,-11.2
+48700649,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1709,1721,5.5,8,1.33,40,53.2,"Shiyam, Satyansh",,1530.0,False,IND,1.0,1,0.25,40,10.0
+48700649,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1709,1721,5.5,8,1.33,40,53.2,"Ishir, Narayan",,1585.0,False,IND,1.0,1,0.32,40,12.8
+48700649,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1617,1774,5.0,8,-0.55,40,-22.0,"Ashish, Seal",,1410.0,False,IND,1.0,1,0.1,40,4.0
+48700649,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1617,1774,5.0,8,-0.55,40,-22.0,"Samim, S K",,1526.0,False,IND,1.0,1,0.19,40,7.6
+48700649,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1617,1774,5.0,8,-0.55,40,-22.0,"Adipto, Nath",,1612.0,False,IND,1.0,1,0.29,40,11.6
+48700649,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1617,1774,5.0,8,-0.55,40,-22.0,"Rupam, Mukherjee",,1922.0,False,IND,0.0,1,-0.3,40,-12.0
+48700649,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1617,1774,5.0,8,-0.55,40,-22.0,"Swapnabha, Neogi",,1587.0,False,IND,1.0,1,0.26,40,10.4
+48700649,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1617,1774,5.0,8,-0.55,40,-22.0,"Sourasis, Saha",,1629.0,False,IND,0.5,1,-0.19,40,-7.6
+48700649,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1617,1774,5.0,8,-0.55,40,-22.0,"Chakrabarti, Tamal",,1652.0,False,IND,0.0,1,-0.67,40,-26.8
+48700649,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1617,1774,5.0,8,-0.55,40,-22.0,"Kinjal, Sardar",,1597.0,False,IND,0.5,1,-0.23,40,-9.2
+48700649,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1835,1752,4.5,6,2.11,40,84.4,"Jayraj, Barman",,1514.0,False,IND,1.0,1,0.2,40,8.0
+48700649,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1835,1752,4.5,6,2.11,40,84.4,"Subhradeep, Roy",,1584.0,False,IND,1.0,1,0.28,40,11.2
+48700649,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1835,1752,4.5,6,2.11,40,84.4,"Pradeep, Tiwari",,1908.0,False,IND,1.0,1,0.71,40,28.4
+48700649,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1835,1752,4.5,6,2.11,40,84.4,"Tanmay, Rajbongshi",,1960.0,False,IND,1.0,1,0.77,40,30.8
+48700649,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1835,1752,4.5,6,2.11,40,84.4,"Umashankar, A",,1984.0,False,IND,0.5,1,0.29,40,11.6
+48700649,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1835,1752,4.5,6,2.11,40,84.4,"Kumar, Gaurav",f,2058.0,False,IND,0.0,1,-0.14,40,-5.6
+48700649,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1725,1836,7.0,9,1.21,40,48.4,"Sonu, Bist",,1546.0,False,IND,1.0,1,0.16,40,6.4
+48700649,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1725,1836,7.0,9,1.21,40,48.4,"Ramesh, Parmar",,1665.0,False,IND,0.5,1,-0.23,40,-9.2
+48700649,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1725,1836,7.0,9,1.21,40,48.4,Kuldeep,,1669.0,False,IND,1.0,1,0.28,40,11.2
+48700649,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1725,1836,7.0,9,1.21,40,48.4,"Vairaj, Sogerwal",,1741.0,False,IND,1.0,1,0.37,40,14.8
+48700649,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1725,1836,7.0,9,1.21,40,48.4,"Sanyam, Srivastava",,1786.0,False,IND,0.0,1,-0.57,40,-22.8
+48700649,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1725,1836,7.0,9,1.21,40,48.4,"Ankit, Das",,1740.0,False,IND,1.0,1,0.37,40,14.8
+48700649,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1725,1836,7.0,9,1.21,40,48.4,"Shanmukha, Pulli",,1677.0,False,IND,0.5,1,-0.21,40,-8.4
+48700649,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1725,1836,7.0,9,1.21,40,48.4,"Nishant, T.r.",,1763.0,False,IND,1.0,1,0.4,40,16.0
+48700649,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1725,1836,7.0,9,1.21,40,48.4,"Adhiraj, Mitra",,1942.0,False,IND,1.0,1,0.64,40,25.6
+48700649,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1656,1884,6.0,8,-0.2,40,-8.0,"Dhirendra, Kumar Das",,1499.0,False,IND,1.0,1,0.09,40,3.6
+48700649,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1656,1884,6.0,8,-0.2,40,-8.0,"Adya, Advit Das",,1573.0,False,IND,1.0,1,0.14,40,5.6
+48700649,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1656,1884,6.0,8,-0.2,40,-8.0,"Biswa, Preet Ray",,1656.0,False,IND,1.0,1,0.21,40,8.4
+48700649,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1656,1884,6.0,8,-0.2,40,-8.0,"Rangeet, Majumdar",,1686.0,False,IND,1.0,1,0.24,40,9.6
+48700649,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1656,1884,6.0,8,-0.2,40,-8.0,"Shrihan, Sabat",,1850.0,False,IND,0.0,1,-0.55,40,-22.0
+48700649,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1656,1884,6.0,8,-0.2,40,-8.0,"Sai, Shakti Panda",,1649.0,False,IND,0.5,1,-0.29,40,-11.6
+48700649,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1656,1884,6.0,8,-0.2,40,-8.0,"Behera, Snehayukta",,1620.0,False,IND,1.0,1,0.18,40,7.2
+48700649,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1656,1884,6.0,8,-0.2,40,-8.0,"Sattwik, Swain",,1718.0,False,IND,0.5,1,-0.22,40,-8.8
+48700649,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1825,1876,6.0,9,0.88,40,35.2,"Daksh, Goyal",,2116.0,False,IND,0.0,1,-0.2,40,-8.0
+48700649,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1825,1876,6.0,9,0.88,40,35.2,"Aryan, Behera",,1733.0,False,IND,0.5,1,-0.19,40,-7.6
+48700649,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1825,1876,6.0,9,0.88,40,35.2,"Aditya, Kayet",,1749.0,False,IND,1.0,1,0.33,40,13.2
+48700649,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1825,1876,6.0,9,0.88,40,35.2,"Chitrak, Naha",,1720.0,False,IND,1.0,1,0.29,40,11.6
+48700649,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1825,1876,6.0,9,0.88,40,35.2,"Shravan, Sriram",,1687.0,False,IND,0.0,1,-0.75,40,-30.0
+48700649,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1825,1876,6.0,9,0.88,40,35.2,"Vakada, Sriram Jayin",,1734.0,False,IND,1.0,1,0.31,40,12.4
+48700649,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1825,1876,6.0,9,0.88,40,35.2,"Aarav, Das",,1695.0,False,IND,1.0,1,0.26,40,10.4
+48700649,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1825,1876,6.0,9,0.88,40,35.2,"Gopal, Krishna Maheshwari",,1980.0,False,IND,1.0,1,0.64,40,25.6
+48700649,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1825,1876,6.0,9,0.88,40,35.2,"Soham, Roy",,2015.0,False,IND,0.5,1,0.19,40,7.6

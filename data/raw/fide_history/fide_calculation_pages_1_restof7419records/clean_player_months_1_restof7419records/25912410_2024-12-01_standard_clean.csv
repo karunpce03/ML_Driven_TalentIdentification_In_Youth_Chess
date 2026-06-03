@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25912410,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1948,2005,7.5,11,1.05,40,42.0,"Abhinav, C G",,1649,False,IND,1.0,1,0.11,40,4.4
+25912410,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1948,2005,7.5,11,1.05,40,42.0,"Rejath, Renjith",,1782,False,IND,1.0,1,0.22,40,8.8
+25912410,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1948,2005,7.5,11,1.05,40,42.0,"Shashveen, A K",,1866,False,IND,0.5,1,-0.19,40,-7.6
+25912410,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1948,2005,7.5,11,1.05,40,42.0,"Goutham, Ramesh",,1849,False,IND,1.0,1,0.29,40,11.6
+25912410,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1948,2005,7.5,11,1.05,40,42.0,"Vivaan, Rana",,1873,False,IND,1.0,1,0.32,40,12.8
+25912410,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1948,2005,7.5,11,1.05,40,42.0,"Arnav, Agrawal",,1940,False,IND,0.5,1,-0.09,40,-3.6
+25912410,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1948,2005,7.5,11,1.05,40,42.0,"Sriram, Adarsh Uppala",,2368,False,IND,1.0,1,0.9,40,36.0
+25912410,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1948,2005,7.5,11,1.05,40,42.0,"Ilamparthi, A R",m,2405,True,IND,0.0,1,-0.08,40,-3.2
+25912410,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1948,2005,7.5,11,1.05,40,42.0,"Shashish, Subbiah",,1900,False,IND,0.0,1,-0.64,40,-25.6
+25912410,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1948,2005,7.5,11,1.05,40,42.0,"Lakshmi, Charan Naidu G",,1908,False,IND,1.0,1,0.37,40,14.8
+25912410,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1948,2005,7.5,11,1.05,40,42.0,"Vignesh, Kannan P",,1886,False,IND,0.5,1,-0.16,40,-6.4

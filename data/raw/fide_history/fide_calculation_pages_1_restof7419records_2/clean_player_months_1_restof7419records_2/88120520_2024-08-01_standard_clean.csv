@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88120520,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1631,1468,1.5,5,0.08,40,3.2,"Vibhor, Ranjan",,1635.0,False,IND,0.5,1,0.22,40,8.8
+88120520,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1631,1468,1.5,5,0.08,40,3.2,"Pawar, Sohum",,1649.0,False,IND,0.0,1,-0.26,40,-10.4
+88120520,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1631,1468,1.5,5,0.08,40,3.2,Manav,,1601.0,False,IND,1.0,1,0.68,40,27.2
+88120520,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1631,1468,1.5,5,0.08,40,3.2,"Sanchita, Yadav",,1633.0,False,IND,0.0,1,-0.28,40,-11.2
+88120520,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1631,1468,1.5,5,0.08,40,3.2,"Devarsh, Kinra",,1635.0,False,IND,0.0,1,-0.28,40,-11.2

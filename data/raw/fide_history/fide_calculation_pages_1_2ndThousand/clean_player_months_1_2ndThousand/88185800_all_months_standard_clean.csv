@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88185800,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,,,0.0,2,0.0,776,,"Surya, Narayanan Karthikeyan",,1625,False,IND,0.0,1,0.0,,0.0
+88185800,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,,,0.0,2,0.0,776,,"M Tulasi Ram, Kumar",,1527,False,IND,0.0,1,0.0,,0.0
+88185800,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,,,1.0,3,0.0,1451,,"Thurka, Raju",,1636,False,IND,1.0,1,0.0,,0.0
+88185800,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,,,1.0,3,0.0,1451,,"Allampati, Kovidh Kushal Reddy",,1576,False,IND,0.0,1,0.0,,0.0
+88185800,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,,,1.0,3,0.0,1451,,"Arav, Majumdar",,1516,False,IND,0.0,1,0.0,,0.0
+88185800,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,1.0,4,0.0,1366,,"Aarav, Manche",,1675,False,IND,0.0,1,0.0,,0.0
+88185800,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,1.0,4,0.0,1366,,"Syam, Sudhakar Rao R",,1577,False,IND,0.0,1,0.0,,0.0
+88185800,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,1.0,4,0.0,1366,,"Yashavanth, N I",,1520,False,IND,0.0,1,0.0,,0.0
+88185800,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,1.0,4,0.0,1366,,"Bhat, Parth",,1464,False,IND,1.0,1,0.0,,0.0

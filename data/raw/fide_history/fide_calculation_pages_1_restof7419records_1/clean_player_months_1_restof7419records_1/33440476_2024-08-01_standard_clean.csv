@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33440476,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1751,1609,0.0,3,-0.98,40,-39.2,"Kumar, S.",,1929.0,False,IND,0.0,1,-0.13,40,-5.2
+33440476,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1751,1609,0.0,3,-0.98,40,-39.2,"Nitin, Kumar P",,1693.0,False,IND,0.0,1,-0.38,40,-15.2
+33440476,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1751,1609,0.0,3,-0.98,40,-39.2,"Sharath, T S",,1632.0,False,IND,0.0,1,-0.47,40,-18.8

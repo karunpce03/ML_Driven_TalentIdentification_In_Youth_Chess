@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88117740,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,3.0,8,0.0,1538,,"Aryan, Goyal",,1737.0,False,IND,0.0,1,0.0,,0.0
+88117740,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,3.0,8,0.0,1538,,"Shoentan, Anaspure",,1525.0,False,IND,0.5,1,0.0,,0.0
+88117740,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,3.0,8,0.0,1538,,"Al-Qassabi, Rawda",,1468.0,False,QAT,1.0,1,0.0,,0.0
+88117740,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,3.0,8,0.0,1538,,"Al Mamari, Ali Abdullah",,1789.0,False,OMA,0.0,1,0.0,,0.0
+88117740,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,3.0,8,0.0,1538,,"Nuh, Nizar Hilmi",,1562.0,False,IND,1.0,1,0.0,,0.0
+88117740,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,3.0,8,0.0,1538,,"Govindaraju, Kandipalli",,1702.0,False,IND,0.5,1,0.0,,0.0
+88117740,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,3.0,8,0.0,1538,,"Patricio, Rolly",,1631.0,False,PHI,0.0,1,0.0,,0.0
+88117740,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,3.0,8,0.0,1538,,"Nabiyev, Iman",,1587.0,False,KAZ,0.0,1,0.0,,0.0
+88117740,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1620.0,1565.0,2.0,6,-0.61,40,-24.4,"Aljamaat, Khaled",,1781.0,False,QAT,0.0,1,-0.22,40.0,-8.8
+88117740,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1620.0,1565.0,2.0,6,-0.61,40,-24.4,"Mithran, Krishnakumar",,1707.0,False,IND,0.0,1,-0.31,40.0,-12.4
+88117740,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1620.0,1565.0,2.0,6,-0.61,40,-24.4,"Shresht, Nair",,1443.0,False,IND,1.0,1,0.33,40.0,13.2
+88117740,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1620.0,1565.0,2.0,6,-0.61,40,-24.4,"Mua, Nasrudin",,1805.0,False,PHI,0.0,1,-0.2,40.0,-8.0
+88117740,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1620.0,1565.0,2.0,6,-0.61,40,-24.4,"Wang, Yiduo",,1427.0,False,CHN,0.0,1,-0.69,40.0,-27.6
+88117740,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1620.0,1565.0,2.0,6,-0.61,40,-24.4,"Dutta, Mahee",,1554.0,False,IND,1.0,1,0.48,40.0,19.2

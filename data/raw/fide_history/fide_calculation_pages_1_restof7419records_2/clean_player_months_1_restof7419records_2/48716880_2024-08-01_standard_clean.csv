@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48716880,2024-08-01,0,FIDE WORLD CUP U08 Girls (Group-B),Batumi GEO,2024-06-23,2024-06-29,1513,1420,2.0,4,0.47,40,18.8,"Classen, Meara",,1645.0,False,GER,1.0,1,0.78,40,31.2
+48716880,2024-08-01,0,FIDE WORLD CUP U08 Girls (Group-B),Batumi GEO,2024-06-23,2024-06-29,1513,1420,2.0,4,0.47,40,18.8,"Nakshatra, Gumudavelly",,1546.0,False,IND,0.0,1,-0.33,40,-13.2
+48716880,2024-08-01,0,FIDE WORLD CUP U08 Girls (Group-B),Batumi GEO,2024-06-23,2024-06-29,1513,1420,2.0,4,0.47,40,18.8,"Bissaliyeva, Alisha",,1451.0,False,KAZ,0.0,1,-0.46,40,-18.4
+48716880,2024-08-01,0,FIDE WORLD CUP U08 Girls (Group-B),Batumi GEO,2024-06-23,2024-06-29,1513,1420,2.0,4,0.47,40,18.8,"Bozorova, Farzonabonu",,1408.0,False,UZB,1.0,1,0.48,40,19.2
+48716880,2024-08-01,0,FIDE WORLD CUP U08 Girls (Stage-II),Batumi GEO,2024-06-23,2024-06-29,1552,1420,1.0,2,0.36,40,14.4,"Bos, Nina",,1552.0,False,POL,0.0,1,-0.32,40,-12.8
+48716880,2024-08-01,0,FIDE WORLD CUP U08 Girls (Stage-II),Batumi GEO,2024-06-23,2024-06-29,1552,1420,1.0,2,0.36,40,14.4,"Bos, Nina",,1552.0,False,POL,1.0,1,0.68,40,27.2
+48716880,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1658,1431,0.0,3,-0.65,40,-26.0,"Jaiakash, M M",,1718.0,False,IND,0.0,1,-0.16,40,-6.4
+48716880,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1658,1431,0.0,3,-0.65,40,-26.0,"Balaram, U",,1618.0,False,IND,0.0,1,-0.26,40,-10.4
+48716880,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1658,1431,0.0,3,-0.65,40,-26.0,"Dipesh, Seeraj K S",,1639.0,False,IND,0.0,1,-0.23,40,-9.2

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33479160,2025-02-01,0,2025 January Marshall Premier FIDE - U2000,"New York, NY USA",2025-01-03,2025-01-05,1734,1762,4.0,5,1.31,40,52.4,"Weldon, Christopher",,1756.0,False,USA,1.0,1,0.49,40,19.6
+33479160,2025-02-01,0,2025 January Marshall Premier FIDE - U2000,"New York, NY USA",2025-01-03,2025-01-05,1734,1762,4.0,5,1.31,40,52.4,"Kariuki, Paul",,1675.0,False,USA,0.5,1,-0.12,40,-4.8
+33479160,2025-02-01,0,2025 January Marshall Premier FIDE - U2000,"New York, NY USA",2025-01-03,2025-01-05,1734,1762,4.0,5,1.31,40,52.4,"Yang, Leah",,1651.0,False,USA,1.0,1,0.35,40,14.0
+33479160,2025-02-01,0,2025 January Marshall Premier FIDE - U2000,"New York, NY USA",2025-01-03,2025-01-05,1734,1762,4.0,5,1.31,40,52.4,"De Villa, Jose",,1739.0,False,USA,1.0,1,0.47,40,18.8
+33479160,2025-02-01,0,2025 January Marshall Premier FIDE - U2000,"New York, NY USA",2025-01-03,2025-01-05,1734,1762,4.0,5,1.31,40,52.4,"Solomon, Ciprian",,1849.0,False,USA,0.5,1,0.12,40,4.8

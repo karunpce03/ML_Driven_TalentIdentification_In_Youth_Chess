@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25124374,2025-01-01,0,2024 Washington Class Championships - Class B,"Redmond, WA USA",2024-11-29,2024-12-01,1632,1628,2.0,3,0.52,40,20.8,"Xu, Zoe",,1489.0,False,USA,1.0,1,0.31,40,12.4
+25124374,2025-01-01,0,2024 Washington Class Championships - Class B,"Redmond, WA USA",2024-11-29,2024-12-01,1632,1628,2.0,3,0.52,40,20.8,"Kuhner, Mary",wc,1774.0,False,USA,0.0,1,-0.3,40,-12.0
+25124374,2025-01-01,0,2024 Washington Class Championships - Class B,"Redmond, WA USA",2024-11-29,2024-12-01,1632,1628,2.0,3,0.52,40,20.8,"Sharma, Devansh",,1632.0,False,USA,1.0,1,0.51,40,20.4
+25124374,2025-01-01,0,2024 Washington Winter Classic - Erigaisi Open,"Bellevue, WA USA",2024-12-21,2024-12-22,1694,1633,1.0,3,-0.26,40,-10.4,"Ramkumar, Nikhil",,1750.0,False,USA,0.0,1,-0.34,40,-13.6
+25124374,2025-01-01,0,2024 Washington Winter Classic - Erigaisi Open,"Bellevue, WA USA",2024-12-21,2024-12-22,1694,1633,1.0,3,-0.26,40,-10.4,"Nedumpurakkal Thahir, Ihsan Moha",,1525.0,False,IND,1.0,1,0.35,40,14.0
+25124374,2025-01-01,0,2024 Washington Winter Classic - Erigaisi Open,"Bellevue, WA USA",2024-12-21,2024-12-22,1694,1633,1.0,3,-0.26,40,-10.4,"Razmov, Valentin",,1807.0,False,USA,0.0,1,-0.27,40,-10.8

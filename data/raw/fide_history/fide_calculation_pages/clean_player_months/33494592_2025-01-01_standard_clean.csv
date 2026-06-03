@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33494592,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1661,1454,0.0,1,-0.23,40,-9.2,"Behera, Biswaranjan",,1661.0,False,IND,0.0,1,-0.23,40,-9.2
+33494592,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1576,1454,3.5,9,0.37,40,14.8,"Krupha, S Ukkali",,1701.0,False,IND,0.0,1,-0.19,40,-7.6
+33494592,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1576,1454,3.5,9,0.37,40,14.8,"Anjana, A",,1581.0,False,IND,0.0,1,-0.33,40,-13.2
+33494592,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1576,1454,3.5,9,0.37,40,14.8,"Balani, Manya",,1644.0,False,IND,1.0,1,0.75,40,30.0
+33494592,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1576,1454,3.5,9,0.37,40,14.8,"Gadde, Kaarthika",,1556.0,False,IND,0.0,1,-0.36,40,-14.4
+33494592,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1576,1454,3.5,9,0.37,40,14.8,"Tripurambika, V",,1796.0,False,IND,0.5,1,0.38,40,15.2
+33494592,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1576,1454,3.5,9,0.37,40,14.8,"Adrija, Das",,1520.0,False,IND,0.5,1,0.09,40,3.6
+33494592,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1576,1454,3.5,9,0.37,40,14.8,"Anaya, Agarwal",,1509.0,False,IND,0.0,1,-0.42,40,-16.8
+33494592,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1576,1454,3.5,9,0.37,40,14.8,"Rahini, Das",,1428.0,False,IND,1.0,1,0.46,40,18.4
+33494592,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1576,1454,3.5,9,0.37,40,14.8,"Puviya, Sureshkumar",,1450.0,False,IND,0.5,1,-0.01,40,-0.4

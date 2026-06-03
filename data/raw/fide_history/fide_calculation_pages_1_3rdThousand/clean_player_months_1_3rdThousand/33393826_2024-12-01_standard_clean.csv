@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33393826,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1694,1511,1.5,5,0.19,40,7.6,"Sumeetkumar, M S",,1770.0,False,IND,0.0,1,-0.18,40,-7.2
+33393826,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1694,1511,1.5,5,0.19,40,7.6,"Avyan, Shah",,1700.0,False,IND,0.5,1,0.25,40,10.0
+33393826,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1694,1511,1.5,5,0.19,40,7.6,"Guhan, Nelamangala Harsha",,1653.0,False,IND,0.0,1,-0.31,40,-12.4
+33393826,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1694,1511,1.5,5,0.19,40,7.6,"Raposo, Maxwell",,1653.0,False,IND,1.0,1,0.69,40,27.6
+33393826,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1694,1511,1.5,5,0.19,40,7.6,"Stuti, Pradeep",,1693.0,False,IND,0.0,1,-0.26,40,-10.4

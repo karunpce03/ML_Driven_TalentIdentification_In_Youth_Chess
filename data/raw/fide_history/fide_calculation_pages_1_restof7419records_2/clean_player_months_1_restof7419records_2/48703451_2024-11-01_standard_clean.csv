@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48703451,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1596,1438,1.0,4,-0.19,40,-7.6,"Ryan, Gelek",,1653.0,False,IND,0.0,1,-0.23,40,-9.2
+48703451,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1596,1438,1.0,4,-0.19,40,-7.6,"Abhirup, Mukherjee",,1533.0,False,IND,0.5,1,0.13,40,5.2
+48703451,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1596,1438,1.0,4,-0.19,40,-7.6,"Debopriyo, Dutta",,1673.0,False,IND,0.5,1,0.29,40,11.6
+48703451,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1596,1438,1.0,4,-0.19,40,-7.6,"Aayan, Gupta",,1524.0,False,IND,0.0,1,-0.38,40,-15.2
+48703451,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1680,1438,1.0,4,0.14,40,5.6,"Ratul, Majumder",,1716.0,False,IND,0.0,1,-0.17,40,-6.8
+48703451,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1680,1438,1.0,4,0.14,40,5.6,"Rishan, Debnath",,1838.0,True,IND,0.0,1,-0.08,40,-3.2
+48703451,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1680,1438,1.0,4,0.14,40,5.6,"Somraj, Dey",,1582.0,False,IND,1.0,1,0.69,40,27.6
+48703451,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1680,1438,1.0,4,0.14,40,5.6,"Sharanyak, Das",,1584.0,False,IND,0.0,1,-0.3,40,-12.0

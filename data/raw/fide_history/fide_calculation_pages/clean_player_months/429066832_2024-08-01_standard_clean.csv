@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429066832,2024-08-01,0,3rd H.P. Senior State FIDE Rated Chess Championship - 2024,Bilaspur IND,2024-07-26,2024-07-28,,,0.0,2,0.0,812,,"Ahmed, Aftab",,1574,False,IND,0.0,1,0.0,,0.0
+429066832,2024-08-01,0,3rd H.P. Senior State FIDE Rated Chess Championship - 2024,Bilaspur IND,2024-07-26,2024-07-28,,,0.0,2,0.0,812,,"Girish, Kumar",,1650,False,IND,0.0,1,0.0,,0.0

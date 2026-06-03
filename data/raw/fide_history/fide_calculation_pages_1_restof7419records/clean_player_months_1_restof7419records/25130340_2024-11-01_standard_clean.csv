@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25130340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1829,5.0,11,-0.13,40,-5.2,"Natesan, Prashaanthi",,1472,False,IND,1.0,1,0.11,40,4.4
+25130340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1829,5.0,11,-0.13,40,-5.2,"Kalyani, Sirin",wf,2132,False,IND,0.0,1,-0.14,40,-5.6
+25130340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1829,5.0,11,-0.13,40,-5.2,"Dakhsha, Rudra",,1665,False,IND,1.0,1,0.28,40,11.2
+25130340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1829,5.0,11,-0.13,40,-5.2,"Kulkarni, Bhakti",m wg,2229,True,IND,0.5,1,0.42,40,16.8
+25130340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1829,5.0,11,-0.13,40,-5.2,"Prishita, Gupta",wc,1974,False,IND,0.5,1,0.19,40,7.6
+25130340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1829,5.0,11,-0.13,40,-5.2,"Aditri, Shome",,1684,False,IND,1.0,1,0.31,40,12.4
+25130340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1829,5.0,11,-0.13,40,-5.2,"Sunyuktha, C M N",,2096,False,IND,0.0,1,-0.18,40,-7.2
+25130340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1829,5.0,11,-0.13,40,-5.2,"Ameya, A R",,1724,False,IND,1.0,1,0.36,40,14.4
+25130340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1829,5.0,11,-0.13,40,-5.2,"Keerti, Shree Reddy",wf,2033,False,IND,0.0,1,-0.24,40,-9.6
+25130340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1829,5.0,11,-0.13,40,-5.2,"Jayashree, P.k.",,1758,False,IND,0.0,1,-0.6,40,-24.0
+25130340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1829,5.0,11,-0.13,40,-5.2,"Modipalli, Deekshitha",,1729,False,IND,0.0,1,-0.64,40,-25.6

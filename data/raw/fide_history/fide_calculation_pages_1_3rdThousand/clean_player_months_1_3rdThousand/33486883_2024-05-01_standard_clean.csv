@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33486883,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1536,1407,0.0,3,-0.98,40,-39.2,"Prasada, Rao G",,1516.0,False,IND,0.0,1,-0.35,40,-14.0
+33486883,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1536,1407,0.0,3,-0.98,40,-39.2,"Sri, Shiva Tejo Karthikeya K",,1579.0,False,IND,0.0,1,-0.27,40,-10.8
+33486883,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1536,1407,0.0,3,-0.98,40,-39.2,"Jathiswaran, Shrihari",,1513.0,False,IND,0.0,1,-0.36,40,-14.4

@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88111091,2024-05-01,0,"GOOD FRIDAY - 29, 30, 31 MARCH 2024, STANDARD TOURNAMENT by SINGAPORE CHESS INFINITY - (FIDE- RATED)",Singapore SGP,2024-03-29,2024-03-31,1557,1528,0.0,3,-1.38,40,-55.2,"Poon, Zhi Xin",,1434.0,False,SGP,0.0,1,-0.63,40,-25.2
+88111091,2024-05-01,0,"GOOD FRIDAY - 29, 30, 31 MARCH 2024, STANDARD TOURNAMENT by SINGAPORE CHESS INFINITY - (FIDE- RATED)",Singapore SGP,2024-03-29,2024-03-31,1557,1528,0.0,3,-1.38,40,-55.2,"Lee, Tsuen Jin Aiesec",,1608.0,False,SGP,0.0,1,-0.39,40,-15.6
+88111091,2024-05-01,0,"GOOD FRIDAY - 29, 30, 31 MARCH 2024, STANDARD TOURNAMENT by SINGAPORE CHESS INFINITY - (FIDE- RATED)",Singapore SGP,2024-03-29,2024-03-31,1557,1528,0.0,3,-1.38,40,-55.2,"Kuo, Huazhen Nicholas",,1630.0,False,SGP,0.0,1,-0.36,40,-14.4
+88111091,2024-12-01,0,Singapore National Age Group Chess Championships U10,Singapore SGP,2024-11-24,2024-11-28,1531,1473,1.5,3,0.24,40,9.6,"Tan, Li Ya Leah",,1421.0,False,SGP,1.0,1,0.43,40,17.2
+88111091,2024-12-01,0,Singapore National Age Group Chess Championships U10,Singapore SGP,2024-11-24,2024-11-28,1531,1473,1.5,3,0.24,40,9.6,"Sim, En Rui Audelle",,1581.0,False,SGP,0.5,1,0.15,40,6.0
+88111091,2024-12-01,0,Singapore National Age Group Chess Championships U10,Singapore SGP,2024-11-24,2024-11-28,1531,1473,1.5,3,0.24,40,9.6,"Tan, Xuan Ying Calyn",,1591.0,False,SGP,0.0,1,-0.34,40,-13.6
+88111091,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1612,1473,3.0,8,0.45,40,18.0,Surya,,1733.0,False,IND,0.0,1,-0.18,40,-7.2
+88111091,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1612,1473,3.0,8,0.45,40,18.0,"Karl, Sutanto",,1593.0,False,SGP,1.0,1,0.66,40,26.4
+88111091,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1612,1473,3.0,8,0.45,40,18.0,"Gozali, Isaac",,1621.0,False,SGP,0.0,1,-0.3,40,-12.0
+88111091,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1612,1473,3.0,8,0.45,40,18.0,"Lim, Hsien Jin",,1573.0,False,SGP,0.0,1,-0.36,40,-14.4
+88111091,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1612,1473,3.0,8,0.45,40,18.0,"Akhila, Anand",,1547.0,False,FID,1.0,1,0.6,40,24.0
+88111091,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1612,1473,3.0,8,0.45,40,18.0,"Angot, Cheryl A.",,1594.0,False,PHI,1.0,1,0.66,40,26.4
+88111091,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1612,1473,3.0,8,0.45,40,18.0,"Chia, Zhi Kai Aaron",,1652.0,False,SGP,0.0,1,-0.27,40,-10.8
+88111091,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1612,1473,3.0,8,0.45,40,18.0,"Lin, Yi Christopher",,1579.0,False,SGP,0.0,1,-0.36,40,-14.4
+88111091,2025-03-01,0,2025 KCFAP Standard Tournaments Week 5,Singapore SGP,2025-02-01,2025-02-02,1672,1501,0.5,5,-0.94,40,-37.6,"Lean, Boon Cheng Richard",,1662.0,False,SGP,0.0,1,-0.29,40,-11.6
+88111091,2025-03-01,0,2025 KCFAP Standard Tournaments Week 5,Singapore SGP,2025-02-01,2025-02-02,1672,1501,0.5,5,-0.94,40,-37.6,"Conan, Wong",,1771.0,False,SGP,0.0,1,-0.17,40,-6.8
+88111091,2025-03-01,0,2025 KCFAP Standard Tournaments Week 5,Singapore SGP,2025-02-01,2025-02-02,1672,1501,0.5,5,-0.94,40,-37.6,"Teoh, Yi Hearn Lawrence",,1803.0,False,MAS,0.0,1,-0.15,40,-6.0
+88111091,2025-03-01,0,2025 KCFAP Standard Tournaments Week 5,Singapore SGP,2025-02-01,2025-02-02,1672,1501,0.5,5,-0.94,40,-37.6,"Lim, Huay Leon Warren",,1624.0,False,SGP,0.0,1,-0.33,40,-13.2
+88111091,2025-03-01,0,2025 KCFAP Standard Tournaments Week 5,Singapore SGP,2025-02-01,2025-02-02,1672,1501,0.5,5,-0.94,40,-37.6,"Chew, Cedric",,1501.0,False,SGP,0.5,1,0.0,40,0.0

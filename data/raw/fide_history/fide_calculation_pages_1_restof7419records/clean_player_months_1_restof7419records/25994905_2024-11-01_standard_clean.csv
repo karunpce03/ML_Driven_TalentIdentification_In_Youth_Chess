@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25994905,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1515,1547,2.5,3,0.87,40,34.8,"Viraj, Sarawgi",,1436.0,False,IND,0.5,1,-0.15,40,-6.0
+25994905,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1515,1547,2.5,3,0.87,40,34.8,"Sarvesh, Mahesh Sawant",,1443.0,False,IND,1.0,1,0.36,40,14.4
+25994905,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1515,1547,2.5,3,0.87,40,34.8,"Margaj, Prisha",,1666.0,False,IND,1.0,1,0.66,40,26.4

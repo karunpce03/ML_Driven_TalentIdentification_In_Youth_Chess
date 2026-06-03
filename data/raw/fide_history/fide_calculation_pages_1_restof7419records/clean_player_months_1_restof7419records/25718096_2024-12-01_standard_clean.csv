@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25718096,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1598,1508,1.0,5,-0.94,40,-37.6,"Sethu, Madhav Upadhyayula",,1731.0,False,IND,0.0,1,-0.22,40,-8.8
+25718096,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1598,1508,1.0,5,-0.94,40,-37.6,"Aravinda, B R",,1655.0,False,IND,0.0,1,-0.3,40,-12.0
+25718096,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1598,1508,1.0,5,-0.94,40,-37.6,"Aaditya, Ranjan Sahu",,1750.0,False,IND,0.0,1,-0.2,40,-8.0
+25718096,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1598,1508,1.0,5,-0.94,40,-37.6,"Heethesh, Kumar Botla",,1425.0,False,IND,0.5,1,-0.11,40,-4.4
+25718096,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1598,1508,1.0,5,-0.94,40,-37.6,"Kinshuk, Vetcha",,1429.0,False,IND,0.5,1,-0.11,40,-4.4

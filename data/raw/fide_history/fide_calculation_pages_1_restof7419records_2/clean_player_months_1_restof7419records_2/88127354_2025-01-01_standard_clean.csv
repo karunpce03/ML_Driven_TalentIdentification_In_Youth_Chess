@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88127354,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1751,1477,4.0,6,2.95,40,118.0,"Elwali, Gismalla",,1766,False,SUD,1.0,1,0.84,40,33.6
+88127354,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1751,1477,4.0,6,2.95,40,118.0,"Sinan, Shafeek",,1758,False,IND,0.0,1,-0.16,40,-6.4
+88127354,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1751,1477,4.0,6,2.95,40,118.0,"Ahmed, Ali",,1877,True,SUD,1.0,1,0.92,40,36.8
+88127354,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1751,1477,4.0,6,2.95,40,118.0,"Al Mamari, Said Ahmed",,1707,False,OMA,0.0,1,-0.21,40,-8.4
+88127354,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1751,1477,4.0,6,2.95,40,118.0,"Mohamed, Taha Elsayed",,1758,False,EGY,1.0,1,0.84,40,33.6
+88127354,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1751,1477,4.0,6,2.95,40,118.0,"Adhvik, Vigneshwaran",,1642,False,IND,1.0,1,0.72,40,28.8

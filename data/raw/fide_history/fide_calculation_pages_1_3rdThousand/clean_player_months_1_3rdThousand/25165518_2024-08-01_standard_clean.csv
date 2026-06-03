@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25165518,2024-08-01,0,7. Open Bohumin 2024 A,Bohumin CZE,2024-06-29,2024-07-06,2039,1960,4.0,9,0.42,38,15.96,"Lojek, Marek",,2140.0,False,CZE,0.5,1,0.24,38,9.12
+25165518,2024-08-01,0,7. Open Bohumin 2024 A,Bohumin CZE,2024-06-29,2024-07-06,2039,1960,4.0,9,0.42,38,15.96,"Djuric, Stefan",g,2224.0,False,SRB,0.0,1,-0.18,38,-6.84
+25165518,2024-08-01,0,7. Open Bohumin 2024 A,Bohumin CZE,2024-06-29,2024-07-06,2039,1960,4.0,9,0.42,38,15.96,"Pelc, Adam",,2055.0,False,CZE,0.5,1,0.13,38,4.94
+25165518,2024-08-01,0,7. Open Bohumin 2024 A,Bohumin CZE,2024-06-29,2024-07-06,2039,1960,4.0,9,0.42,38,15.96,"Kulich, Filip",,2043.0,False,SVK,0.5,1,0.11,38,4.18
+25165518,2024-08-01,0,7. Open Bohumin 2024 A,Bohumin CZE,2024-06-29,2024-07-06,2039,1960,4.0,9,0.42,38,15.96,"Sochorova, Petra",wm,2040.0,False,CZE,0.0,1,-0.39,38,-14.82
+25165518,2024-08-01,0,7. Open Bohumin 2024 A,Bohumin CZE,2024-06-29,2024-07-06,2039,1960,4.0,9,0.42,38,15.96,"Yagiz, Bora",,1922.0,False,TUR,1.0,1,0.45,38,17.1
+25165518,2024-08-01,0,7. Open Bohumin 2024 A,Bohumin CZE,2024-06-29,2024-07-06,2039,1960,4.0,9,0.42,38,15.96,"Hanak, Tomas",,1981.0,False,CZE,0.0,1,-0.47,38,-17.86
+25165518,2024-08-01,0,7. Open Bohumin 2024 A,Bohumin CZE,2024-06-29,2024-07-06,2039,1960,4.0,9,0.42,38,15.96,"Kulich, Daniel",,1904.0,False,SVK,0.5,1,-0.08,38,-3.04
+25165518,2024-08-01,0,7. Open Bohumin 2024 A,Bohumin CZE,2024-06-29,2024-07-06,2039,1960,4.0,9,0.42,38,15.96,"Olsar, Jaroslav",f,2042.0,False,CZE,1.0,1,0.61,38,23.18
+25165518,2024-08-01,0,Warsaw Chess Festival - group A,Warszawa POL,2024-07-09,2024-07-17,2055,1960,2.5,9,-0.83,38,-31.54,"Rozycki, Bartlomiej",,2099.0,False,POL,0.0,1,-0.31,38,-11.78
+25165518,2024-08-01,0,Warsaw Chess Festival - group A,Warszawa POL,2024-07-09,2024-07-17,2055,1960,2.5,9,-0.83,38,-31.54,"Ashwath, Kaushik",c,2029.0,False,SGP,0.5,1,0.1,38,3.8
+25165518,2024-08-01,0,Warsaw Chess Festival - group A,Warszawa POL,2024-07-09,2024-07-17,2055,1960,2.5,9,-0.83,38,-31.54,"Pancewicz, Szymon",,2041.0,False,POL,0.5,1,0.11,38,4.18
+25165518,2024-08-01,0,Warsaw Chess Festival - group A,Warszawa POL,2024-07-09,2024-07-17,2055,1960,2.5,9,-0.83,38,-31.54,"Dobosiewicz, Dawid",,2028.0,False,POL,0.5,1,0.09,38,3.42
+25165518,2024-08-01,0,Warsaw Chess Festival - group A,Warszawa POL,2024-07-09,2024-07-17,2055,1960,2.5,9,-0.83,38,-31.54,"Przybylski, Bartosz",,2060.0,False,POL,0.0,1,-0.36,38,-13.68
+25165518,2024-08-01,0,Warsaw Chess Festival - group A,Warszawa POL,2024-07-09,2024-07-17,2055,1960,2.5,9,-0.83,38,-31.54,"Celinski, Kamil",,2022.0,False,POL,0.0,1,-0.41,38,-15.58
+25165518,2024-08-01,0,Warsaw Chess Festival - group A,Warszawa POL,2024-07-09,2024-07-17,2055,1960,2.5,9,-0.83,38,-31.54,"Slomczewski, Michal",,2081.0,False,NED,1.0,1,0.66,38,25.08
+25165518,2024-08-01,0,Warsaw Chess Festival - group A,Warszawa POL,2024-07-09,2024-07-17,2055,1960,2.5,9,-0.83,38,-31.54,"Alvarado, Carlos",c,2108.0,False,PER,0.0,1,-0.3,38,-11.4
+25165518,2024-08-01,0,Warsaw Chess Festival - group A,Warszawa POL,2024-07-09,2024-07-17,2055,1960,2.5,9,-0.83,38,-31.54,"Bergan, Gaute",c,2027.0,False,NOR,0.0,1,-0.41,38,-15.58

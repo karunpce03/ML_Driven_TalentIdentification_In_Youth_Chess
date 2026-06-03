@@ -1,0 +1,30 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25683160,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,2091,1763,4.5,8,3.45,40,138.0,"Levacic, Damir",m,2103,False,MNC,0.0,1,-0.12,40,-4.8
+25683160,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,2091,1763,4.5,8,3.45,40,138.0,"Bellon Solsona, Nicolas",,1958,False,ESP,1.0,1,0.75,40,30.0
+25683160,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,2091,1763,4.5,8,3.45,40,138.0,"Rosol, Philip",,2098,False,POL,0.5,1,0.38,40,15.2
+25683160,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,2091,1763,4.5,8,3.45,40,138.0,"Vardakas, Grigorios",,2043,False,GRE,0.5,1,0.34,40,13.6
+25683160,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,2091,1763,4.5,8,3.45,40,138.0,"Arce Gonzalez, Dario",,2054,False,ESP,0.5,1,0.35,40,14.0
+25683160,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,2091,1763,4.5,8,3.45,40,138.0,"Rodriguez Pereira, Enrique",,2145,False,ESP,1.0,1,0.91,40,36.4
+25683160,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,2091,1763,4.5,8,3.45,40,138.0,"Perea Fruet, Lorenzo",f,2163,True,ESP,0.5,1,0.42,40,16.8
+25683160,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,2091,1763,4.5,8,3.45,40,138.0,"Villuendas Valero, Adrian",f,2163,True,ESP,0.5,1,0.42,40,16.8
+25683160,2024-05-01,0,Open Menorca 2024,Menorca ESP,2024-04-02,2024-04-07,1968,1763,2.0,8,-0.06,40,-2.4,"Sgircea, Silvia-Raluca",wm,2163,True,ROU,0.5,1,0.42,40,16.8
+25683160,2024-05-01,0,Open Menorca 2024,Menorca ESP,2024-04-02,2024-04-07,1968,1763,2.0,8,-0.06,40,-2.4,"Klekowski, Maciej",g,2163,True,POL,0.0,1,-0.08,40,-3.2
+25683160,2024-05-01,0,Open Menorca 2024,Menorca ESP,2024-04-02,2024-04-07,1968,1763,2.0,8,-0.06,40,-2.4,"Meghna, C H",wf,1995,False,IND,0.0,1,-0.21,40,-8.4
+25683160,2024-05-01,0,Open Menorca 2024,Menorca ESP,2024-04-02,2024-04-07,1968,1763,2.0,8,-0.06,40,-2.4,"Garmendia Vega, Gabriel",c,1961,False,CHI,0.0,1,-0.24,40,-9.6
+25683160,2024-05-01,0,Open Menorca 2024,Menorca ESP,2024-04-02,2024-04-07,1968,1763,2.0,8,-0.06,40,-2.4,"Suez-Panama, Gilles",,1921,False,FRA,0.0,1,-0.29,40,-11.6
+25683160,2024-05-01,0,Open Menorca 2024,Menorca ESP,2024-04-02,2024-04-07,1968,1763,2.0,8,-0.06,40,-2.4,"Ahn, Anastasia",,1787,False,BEL,0.5,1,0.03,40,1.2
+25683160,2024-05-01,0,Open Menorca 2024,Menorca ESP,2024-04-02,2024-04-07,1968,1763,2.0,8,-0.06,40,-2.4,"Patel, Keatan",,1882,False,ENG,0.5,1,0.16,40,6.4
+25683160,2024-05-01,0,Open Menorca 2024,Menorca ESP,2024-04-02,2024-04-07,1968,1763,2.0,8,-0.06,40,-2.4,"Ahn, Maximilian",,1872,False,BEL,0.5,1,0.15,40,6.0
+25683160,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1632,1899,7.5,10,-0.67,40,-26.8,"Likhit, R C",,1499,True,IND,1.0,1,0.08,40,3.2
+25683160,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1632,1899,7.5,10,-0.67,40,-26.8,"Kilari, Jyothir Adithya",,1543,False,IND,1.0,1,0.11,40,4.4
+25683160,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1632,1899,7.5,10,-0.67,40,-26.8,"Krupha, S Ukkali",,1625,False,IND,0.5,1,-0.33,40,-13.2
+25683160,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1632,1899,7.5,10,-0.67,40,-26.8,"Tanmay, Srinath",,1645,False,IND,0.5,1,-0.31,40,-12.4
+25683160,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1632,1899,7.5,10,-0.67,40,-26.8,"Aradyo, Bhattacharyya",,1579,False,IND,1.0,1,0.13,40,5.2
+25683160,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1632,1899,7.5,10,-0.67,40,-26.8,"Guhan, Nelamangala Harsha",,1633,False,IND,1.0,1,0.18,40,7.2
+25683160,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1632,1899,7.5,10,-0.67,40,-26.8,"Sethu, Madhav Upadhyayula",,1683,False,IND,1.0,1,0.22,40,8.8
+25683160,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1632,1899,7.5,10,-0.67,40,-26.8,"Samaksh, Ashok",,1694,False,IND,0.5,1,-0.26,40,-10.4
+25683160,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1632,1899,7.5,10,-0.67,40,-26.8,"Sumeetkumar, M S",,1696,False,IND,0.5,1,-0.26,40,-10.4
+25683160,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1632,1899,7.5,10,-0.67,40,-26.8,"Shreyas, K Patil",,1725,False,IND,0.5,1,-0.23,40,-9.2
+25683160,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1515,1899,1.5,3,-1.23,40,-49.2,"Vihaan, Aadarsh Lobo",,1499,True,IND,0.0,1,-0.92,40,-36.8
+25683160,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1515,1899,1.5,3,-1.23,40,-49.2,"Gagan, Deep N Shetty",,1499,True,IND,1.0,1,0.08,40,3.2
+25683160,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1515,1899,1.5,3,-1.23,40,-49.2,"Abhineeth, Bhat",,1546,False,IND,0.5,1,-0.39,40,-15.6

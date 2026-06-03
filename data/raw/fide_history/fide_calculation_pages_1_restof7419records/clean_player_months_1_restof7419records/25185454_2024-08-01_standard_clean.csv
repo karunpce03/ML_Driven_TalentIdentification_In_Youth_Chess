@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25185454,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2254,2114,4.0,8,1.46,40,58.4,"Thogersen, Rasmus",f,2309.0,False,DEN,0.0,1,-0.25,40,-10.0
+25185454,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2254,2114,4.0,8,1.46,40,58.4,"Sriram, Jha",g,2304.0,False,IND,0.0,1,-0.25,40,-10.0
+25185454,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2254,2114,4.0,8,1.46,40,58.4,"Wahlgreen, Noah Krug",,2169.0,False,DEN,0.5,1,0.08,40,3.2
+25185454,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2254,2114,4.0,8,1.46,40,58.4,"Eklund, Joel",,2240.0,False,SWE,0.5,1,0.17,40,6.8
+25185454,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2254,2114,4.0,8,1.46,40,58.4,"Hammari, Vinjar",,2203.0,False,NOR,1.0,1,0.62,40,24.8
+25185454,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2254,2114,4.0,8,1.46,40,58.4,"Schmidt, Kristen",,2216.0,False,DEN,1.0,1,0.64,40,25.6
+25185454,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2254,2114,4.0,8,1.46,40,58.4,"Egresi, Mate",f,2377.0,False,HUN,0.0,1,-0.18,40,-7.2
+25185454,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2254,2114,4.0,8,1.46,40,58.4,"Simonsen, Carsten",,2212.0,False,DEN,1.0,1,0.63,40,25.2

@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429002460,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1659,1444,1.0,3,0.33,40,13.2,"Sultan Jabir, Alzarooni",,1644.0,False,UAE,1.0,1,0.76,40,30.4
+429002460,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1659,1444,1.0,3,0.33,40,13.2,"Saud, Bader Huwair Alzarooni",,1642.0,False,UAE,0.0,1,-0.24,40,-9.6
+429002460,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1659,1444,1.0,3,0.33,40,13.2,"Adhvaidh, Naveen",,1692.0,False,IND,0.0,1,-0.19,40,-7.6

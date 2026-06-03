@@ -1,0 +1,25 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88162460,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,,,1.0,5,0.0,1248,,"Akhil, Vijayakumar",,1629.0,False,IND,0.0,1,0.0,,0.0
+88162460,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,,,1.0,5,0.0,1248,,"McDonald, Margaret",,1460.0,False,FRA,0.0,1,0.0,,0.0
+88162460,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,,,1.0,5,0.0,1248,,Danish,,1460.0,False,IND,0.0,1,0.0,,0.0
+88162460,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,,,1.0,5,0.0,1248,,"Sarvesh, Raveender",,1442.0,False,IND,1.0,1,0.0,,0.0
+88162460,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,,,1.0,5,0.0,1248,,"Munishwar, Shaunak",,1449.0,False,IND,0.0,1,0.0,,0.0
+88162460,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1506.0,1429.0,0.0,4,-1.59,40,-63.6,"Andria, Bhattacharya",,1607.0,False,IND,0.0,1,-0.27,40.0,-10.8
+88162460,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1506.0,1429.0,0.0,4,-1.59,40,-63.6,"Vivaan, Sandip Tank",,1518.0,False,IND,0.0,1,-0.38,40.0,-15.2
+88162460,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1506.0,1429.0,0.0,4,-1.59,40,-63.6,"Mohamed, Hasan Alfardan",,1412.0,False,UAE,0.0,1,-0.52,40.0,-20.8
+88162460,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1506.0,1429.0,0.0,4,-1.59,40,-63.6,"Sarfudeen, Parapurayil",,1488.0,False,IND,0.0,1,-0.42,40.0,-16.8
+88162460,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1654.0,1419.0,1.0,6,-0.3,40,-12.0,"Salimli, Rufat",,1572.0,False,AZE,0.0,1,-0.3,40.0,-12.0
+88162460,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1654.0,1419.0,1.0,6,-0.3,40,-12.0,"Marillonnet, Paul",,1636.0,False,FRA,1.0,1,0.78,40.0,31.2
+88162460,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1654.0,1419.0,1.0,6,-0.3,40,-12.0,"Alali, Tammam.",,1692.0,False,SYR,0.0,1,-0.17,40.0,-6.8
+88162460,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1654.0,1419.0,1.0,6,-0.3,40,-12.0,"Kaloh, Edvard",,1550.0,False,SLO,0.0,1,-0.32,40.0,-12.8
+88162460,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1654.0,1419.0,1.0,6,-0.3,40,-12.0,"Awad, Ahmed",,1819.0,True,EGY,0.0,1,-0.08,40.0,-3.2
+88162460,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1654.0,1419.0,1.0,6,-0.3,40,-12.0,"Neel, Prakash Nankani",,1652.0,False,IND,0.0,1,-0.21,40.0,-8.4
+88162460,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1601.0,1419.0,4.5,9,2.1,40,84.0,"Nikhilesh, Karthick",,1585.0,False,IND,1.0,1,0.72,40.0,28.8
+88162460,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1601.0,1419.0,4.5,9,2.1,40,84.0,"Muhammad Saleem, Hamad",,1607.0,False,PAK,1.0,1,0.74,40.0,29.6
+88162460,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1601.0,1419.0,4.5,9,2.1,40,84.0,"Alviz, Joshua Ezekiel",,1739.0,False,PHI,0.0,1,-0.13,40.0,-5.2
+88162460,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1601.0,1419.0,4.5,9,2.1,40,84.0,"Khush, Dholaria",,1580.0,False,IND,0.5,1,0.21,40.0,8.4
+88162460,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1601.0,1419.0,4.5,9,2.1,40,84.0,"Gabriel, Vivek Joseph",,1546.0,False,IND,0.5,1,0.17,40.0,6.8
+88162460,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1601.0,1419.0,4.5,9,2.1,40,84.0,"Aarav, Somani",,1565.0,False,IND,1.0,1,0.7,40.0,28.0
+88162460,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1601.0,1419.0,4.5,9,2.1,40,84.0,"Srinjay, Shrinivas Shankar",,1604.0,False,IND,0.5,1,0.24,40.0,9.6
+88162460,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1601.0,1419.0,4.5,9,2.1,40,84.0,Ananthnarayan,,1647.0,False,IND,0.0,1,-0.21,40.0,-8.4
+88162460,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1601.0,1419.0,4.5,9,2.1,40,84.0,"Lobo, Dhruv",,1536.0,False,NED,0.0,1,-0.34,40.0,-13.6

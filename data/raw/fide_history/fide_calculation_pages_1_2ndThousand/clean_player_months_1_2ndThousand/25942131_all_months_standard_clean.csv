@@ -1,0 +1,51 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25942131,2024-05-01,0,His Excellency Filed Marshal Sheikh Khalifa Bin Ahmed Al Khalifa 1st Ramadan Chess Tournament,Riffa BRN,2024-03-18,2024-04-04,1826,1443,0.5,3,0.23,40,9.2,"Taher, Mohamed",,1791.0,False,BRN,0.0,1,-0.11,40,-4.4
+25942131,2024-05-01,0,His Excellency Filed Marshal Sheikh Khalifa Bin Ahmed Al Khalifa 1st Ramadan Chess Tournament,Riffa BRN,2024-03-18,2024-04-04,1826,1443,0.5,3,0.23,40,9.2,"Al Harthy, Faisel",,1843.0,True,KSA,0.5,1,0.42,40,16.8
+25942131,2024-05-01,0,His Excellency Filed Marshal Sheikh Khalifa Bin Ahmed Al Khalifa 1st Ramadan Chess Tournament,Riffa BRN,2024-03-18,2024-04-04,1826,1443,0.5,3,0.23,40,9.2,"Al Dosari, Naif",,1843.0,True,KSA,0.0,1,-0.08,40,-3.2
+25942131,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1549,1452,4.0,6,1.75,26,45.5,"Gabriel, Vivek Joseph",,1552.0,False,IND,0.5,1,0.14,26,3.64
+25942131,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1549,1452,4.0,6,1.75,26,45.5,"Yaqoob, Wafa",,1460.0,False,BRN,0.5,1,0.01,26,0.26
+25942131,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1549,1452,4.0,6,1.75,26,45.5,"Aaryan, Anil Jai Prabhakaran",,1492.0,False,IND,0.0,1,-0.44,26,-11.44
+25942131,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1549,1452,4.0,6,1.75,26,45.5,"Arnav, Singh Dewan",,1483.0,False,IND,1.0,1,0.54,26,14.04
+25942131,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1549,1452,4.0,6,1.75,26,45.5,"Ahmed, Najla",,1564.0,False,BRN,1.0,1,0.65,26,16.9
+25942131,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1549,1452,4.0,6,1.75,26,45.5,"Taher, Mohamed",,1743.0,False,BRN,1.0,1,0.85,26,22.1
+25942131,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN B",Paracin SRB,2024-07-03,2024-07-11,1713,1452,2.5,8,0.98,26,25.48,"Markovic, Stefan R",,1781.0,False,SRB,0.0,1,-0.12,26,-3.12
+25942131,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN B",Paracin SRB,2024-07-03,2024-07-11,1713,1452,2.5,8,0.98,26,25.48,"Soyer, Melin",,1676.0,False,TUR,1.0,1,0.78,26,20.28
+25942131,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN B",Paracin SRB,2024-07-03,2024-07-11,1713,1452,2.5,8,0.98,26,25.48,"Goetten Wagner, Julia",,1777.0,False,BRA,1.0,1,0.87,26,22.62
+25942131,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN B",Paracin SRB,2024-07-03,2024-07-11,1713,1452,2.5,8,0.98,26,25.48,"Pavlovic, Slobodan Z",,1753.0,False,SRB,0.0,1,-0.15,26,-3.9
+25942131,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN B",Paracin SRB,2024-07-03,2024-07-11,1713,1452,2.5,8,0.98,26,25.48,"Navaneet, Sreekanth",,1696.0,False,IND,0.0,1,-0.2,26,-5.2
+25942131,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN B",Paracin SRB,2024-07-03,2024-07-11,1713,1452,2.5,8,0.98,26,25.48,"Petrovic, Branko",,1665.0,False,SRB,0.5,1,0.27,26,7.02
+25942131,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN B",Paracin SRB,2024-07-03,2024-07-11,1713,1452,2.5,8,0.98,26,25.48,"Mosurovic, Milena",,1791.0,False,MNE,0.0,1,-0.12,26,-3.12
+25942131,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN B",Paracin SRB,2024-07-03,2024-07-11,1713,1452,2.5,8,0.98,26,25.48,"Batbileg, Boldbaatar",,1564.0,False,MGL,0.0,1,-0.35,26,-9.1
+25942131,2024-08-01,0,SERBIA OPEN 2024 - Amateurs,Beograd SRB,2024-07-12,2024-07-17,1735,1452,4.0,7,2.85,26,74.1,"Krstic, Stefan",,1723.0,False,SRB,0.5,1,0.33,26,8.58
+25942131,2024-08-01,0,SERBIA OPEN 2024 - Amateurs,Beograd SRB,2024-07-12,2024-07-17,1735,1452,4.0,7,2.85,26,74.1,"Jocic, Nina",,1686.0,False,SRB,0.0,1,-0.21,26,-5.46
+25942131,2024-08-01,0,SERBIA OPEN 2024 - Amateurs,Beograd SRB,2024-07-12,2024-07-17,1735,1452,4.0,7,2.85,26,74.1,"Crnkovic, Predrag",,1780.0,False,SRB,1.0,1,0.87,26,22.62
+25942131,2024-08-01,0,SERBIA OPEN 2024 - Amateurs,Beograd SRB,2024-07-12,2024-07-17,1735,1452,4.0,7,2.85,26,74.1,"Stanisavljevic, Nebojsa",,1770.0,False,SRB,0.5,1,0.37,26,9.62
+25942131,2024-08-01,0,SERBIA OPEN 2024 - Amateurs,Beograd SRB,2024-07-12,2024-07-17,1735,1452,4.0,7,2.85,26,74.1,"Yavic, Adnan",,1739.0,False,TUR,0.0,1,-0.16,26,-4.16
+25942131,2024-08-01,0,SERBIA OPEN 2024 - Amateurs,Beograd SRB,2024-07-12,2024-07-17,1735,1452,4.0,7,2.85,26,74.1,"Trisic, Petar",,1777.0,False,SRB,1.0,1,0.87,26,22.62
+25942131,2024-08-01,0,SERBIA OPEN 2024 - Amateurs,Beograd SRB,2024-07-12,2024-07-17,1735,1452,4.0,7,2.85,26,74.1,"Dokic, Mladen",,1669.0,False,SRB,1.0,1,0.78,26,20.28
+25942131,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1676,1452,0.5,5,-0.66,26,-17.16,"Bjelanovic, Nemanja",,1852.0,True,SRB,0.0,1,-0.08,26,-2.08
+25942131,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1676,1452,0.5,5,-0.66,26,-17.16,"Mandzhieva, Altana",,1712.0,False,AUT,0.0,1,-0.18,26,-4.68
+25942131,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1676,1452,0.5,5,-0.66,26,-17.16,"Tenuun, Tseesuren",,1588.0,False,MGL,0.5,1,0.18,26,4.68
+25942131,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1676,1452,0.5,5,-0.66,26,-17.16,"Hasanzada, Sahib",,1666.0,False,AZE,0.0,1,-0.23,26,-5.98
+25942131,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1676,1452,0.5,5,-0.66,26,-17.16,"Batbileg, Boldbaatar",,1564.0,False,MGL,0.0,1,-0.35,26,-9.1
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1729,1580,2.0,4,0.67,40,26.8,"Sailesh, R",,1980.0,True,IND,0.0,1,-0.08,40,-3.2
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1729,1580,2.0,4,0.67,40,26.8,"Al Qassabi, Layan",,1445.0,False,QAT,1.0,1,0.32,40,12.8
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1729,1580,2.0,4,0.67,40,26.8,"Pitts, Daniel",,1700.0,False,ENG,1.0,1,0.66,40,26.4
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1729,1580,2.0,4,0.67,40,26.8,"Avhad, Prajwal",,1792.0,False,IND,0.0,1,-0.23,40,-9.2
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1583,1580,3.0,6,-0.09,40,-3.6,"Ajay, Santhosh Parvathareddy",,1980.0,True,IND,0.0,1,-0.08,40,-3.2
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1583,1580,3.0,6,-0.09,40,-3.6,"Kavya, Vijay Khachane",,1419.0,False,IND,0.5,1,-0.21,40,-8.4
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1583,1580,3.0,6,-0.09,40,-3.6,"Nilesh, Karthick",,1463.0,False,IND,1.0,1,0.34,40,13.6
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1583,1580,3.0,6,-0.09,40,-3.6,"Aljamaat, Khaled",,1731.0,False,QAT,0.0,1,-0.3,40,-12.0
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1583,1580,3.0,6,-0.09,40,-3.6,"Skurygina, Sofiya",,1453.0,False,KAZ,0.5,1,-0.17,40,-6.8
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1583,1580,3.0,6,-0.09,40,-3.6,"Amna, Saqer Almarri",,1452.0,False,UAE,1.0,1,0.33,40,13.2
+25942131,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1445,1603,2.5,6,-1.76,40,-70.4,"Purahan, Pachauri",,1452.0,False,IND,0.0,1,-0.7,40,-28.0
+25942131,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1445,1603,2.5,6,-1.76,40,-70.4,"Gitanshu, Jaiswal",,1456.0,False,IND,0.0,1,-0.7,40,-28.0
+25942131,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1445,1603,2.5,6,-1.76,40,-70.4,"Prakhar, Saxena",,1418.0,False,IND,0.0,1,-0.74,40,-29.6
+25942131,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1445,1603,2.5,6,-1.76,40,-70.4,"Suryansh, Kuksal",,1420.0,False,IND,0.5,1,-0.24,40,-9.6
+25942131,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1445,1603,2.5,6,-1.76,40,-70.4,"Tanish, Bhutani",,1439.0,False,IND,1.0,1,0.28,40,11.2
+25942131,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1445,1603,2.5,6,-1.76,40,-70.4,"Divyansh, Mn Jain",,1482.0,False,IND,1.0,1,0.34,40,13.6
+25942131,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1770,1533,0.0,5,-1.06,40,-42.4,"Velavaa, Ragavesh",c,1933.0,True,IND,0.0,1,-0.08,40,-3.2
+25942131,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1770,1533,0.0,5,-1.06,40,-42.4,"Al Jabri, Rashid",,1771.0,False,OMA,0.0,1,-0.2,40,-8.0
+25942131,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1770,1533,0.0,5,-1.06,40,-42.4,"Al-Kuwari, Hamad",c,1736.0,False,QAT,0.0,1,-0.24,40,-9.6
+25942131,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1770,1533,0.0,5,-1.06,40,-42.4,"Aditi, Arun",,1705.0,False,IND,0.0,1,-0.27,40,-10.8
+25942131,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1770,1533,0.0,5,-1.06,40,-42.4,"Al Mamari, Said Ahmed",,1707.0,False,OMA,0.0,1,-0.27,40,-10.8

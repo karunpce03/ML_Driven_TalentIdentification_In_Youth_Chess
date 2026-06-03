@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48797146,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,,,0.0,2,0.0,949,,"Ramakrishna, J.",f,1992.0,False,IND,0.0,1,0.0,,0.0
+48797146,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,,,0.0,2,0.0,949,,"Sri, Lasya Tummapudi",,1506.0,False,IND,0.0,1,0.0,,0.0
+48797146,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,,,1.0,3,0.0,1497,,"Vigneshwaran, S",,1822.0,False,IND,0.0,1,0.0,,0.0
+48797146,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,,,1.0,3,0.0,1497,,"Sujay, Yelamarthi",,1522.0,False,IND,1.0,1,0.0,,0.0
+48797146,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,,,1.0,3,0.0,1497,,"Nani, Babu Bandaru",,1521.0,False,IND,0.0,1,0.0,,0.0
+48797146,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1682.0,1510.0,0.0,1,-0.27,40,-10.8,"Paresh, S",,1682.0,False,IND,0.0,1,-0.27,40.0,-10.8

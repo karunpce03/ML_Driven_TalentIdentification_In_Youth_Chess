@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25789651,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1635,1515,2.0,6,-0.08,40,-3.2,"Mani, Bharathy",,1789.0,False,IND,0.0,1,-0.17,40,-6.8
+25789651,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1635,1515,2.0,6,-0.08,40,-3.2,"Kurella, Dinesh Sai",,1687.0,False,IND,1.0,1,0.73,40,29.2
+25789651,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1635,1515,2.0,6,-0.08,40,-3.2,"Sangamesh, V Sugandhi",,1628.0,False,IND,1.0,1,0.65,40,26.0
+25789651,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1635,1515,2.0,6,-0.08,40,-3.2,"Aravinda, B R",,1655.0,False,IND,0.0,1,-0.31,40,-12.4
+25789651,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1635,1515,2.0,6,-0.08,40,-3.2,"Vivaan, Bhattacharya",,1620.0,False,IND,0.0,1,-0.36,40,-14.4
+25789651,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1635,1515,2.0,6,-0.08,40,-3.2,"Sai, Susheela Reddycherla",,1430.0,False,IND,0.0,1,-0.62,40,-24.8

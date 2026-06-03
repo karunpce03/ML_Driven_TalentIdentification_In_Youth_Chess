@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33481440,2025-03-01,0,Go Checkmate 15th FIDE Rated Standard Chess Tournament 2025,Singapore SGP,2025-01-29,2025-01-30,1600,1507,1.0,3,-0.12,40,-4.8,"Naresh, Kumar",,1625.0,False,IND,0.0,1,-0.34,40,-13.6
+33481440,2025-03-01,0,Go Checkmate 15th FIDE Rated Standard Chess Tournament 2025,Singapore SGP,2025-01-29,2025-01-30,1600,1507,1.0,3,-0.12,40,-4.8,"Akhila, Anand",,1519.0,False,FID,1.0,1,0.52,40,20.8
+33481440,2025-03-01,0,Go Checkmate 15th FIDE Rated Standard Chess Tournament 2025,Singapore SGP,2025-01-29,2025-01-30,1600,1507,1.0,3,-0.12,40,-4.8,"Timothy, Gerard Lopez",,1655.0,False,SGP,0.0,1,-0.3,40,-12.0
+33481440,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1641,1499,3.0,6,1.14,40,45.6,"Agung, Rinaldi Santoso",,1645.0,False,INA,1.0,1,0.7,40,28.0
+33481440,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1641,1499,3.0,6,1.14,40,45.6,"Mithun, Pranav",,1653.0,False,IND,0.0,1,-0.29,40,-11.6
+33481440,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1641,1499,3.0,6,1.14,40,45.6,"Velmurugan Priyasudharsana, Ishaa",,1599.0,False,IND,0.0,1,-0.36,40,-14.4
+33481440,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1641,1499,3.0,6,1.14,40,45.6,"Law, Dominic",,1670.0,False,SGP,1.0,1,0.73,40,29.2
+33481440,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1641,1499,3.0,6,1.14,40,45.6,"Chan, Jing Fong Joash",,1732.0,False,SGP,0.0,1,-0.21,40,-8.4
+33481440,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1641,1499,3.0,6,1.14,40,45.6,"Singh, Shivam",,1549.0,False,SGP,1.0,1,0.57,40,22.8

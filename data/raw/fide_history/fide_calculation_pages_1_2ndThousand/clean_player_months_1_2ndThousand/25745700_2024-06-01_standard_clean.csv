@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25745700,2024-06-01,0,Dubai Police Global Challenge for Chess - Masters,Dubai UAE,2024-05-03,2024-05-13,2351,2413,3.0,9,-2.27,10,-22.7,"Sargsyan, Shant",g,2637.0,False,ARM,0.0,1,-0.22,10,-2.2
+25745700,2024-06-01,0,Dubai Police Global Challenge for Chess - Masters,Dubai UAE,2024-05-03,2024-05-13,2351,2413,3.0,9,-2.27,10,-22.7,"Khayrullin, Denis",f,2341.0,False,FID,0.0,1,-0.6,10,-6.0
+25745700,2024-06-01,0,Dubai Police Global Challenge for Chess - Masters,Dubai UAE,2024-05-03,2024-05-13,2351,2413,3.0,9,-2.27,10,-22.7,"Baranciuc, Alexandr",f,2332.0,False,MDA,0.0,1,-0.61,10,-6.1
+25745700,2024-06-01,0,Dubai Police Global Challenge for Chess - Masters,Dubai UAE,2024-05-03,2024-05-13,2351,2413,3.0,9,-2.27,10,-22.7,"Chinguun, Sumiya",f,2348.0,False,MGL,0.0,1,-0.59,10,-5.9
+25745700,2024-06-01,0,Dubai Police Global Challenge for Chess - Masters,Dubai UAE,2024-05-03,2024-05-13,2351,2413,3.0,9,-2.27,10,-22.7,"Devnani, Kush",,2249.0,False,IND,1.0,1,0.28,10,2.8
+25745700,2024-06-01,0,Dubai Police Global Challenge for Chess - Masters,Dubai UAE,2024-05-03,2024-05-13,2351,2413,3.0,9,-2.27,10,-22.7,"Al-Blooshi, Hamad Essa",c,2209.0,False,UAE,1.0,1,0.24,10,2.4
+25745700,2024-06-01,0,Dubai Police Global Challenge for Chess - Masters,Dubai UAE,2024-05-03,2024-05-13,2351,2413,3.0,9,-2.27,10,-22.7,"Agasarov, Benik",f,2356.0,False,ARM,0.0,1,-0.58,10,-5.8
+25745700,2024-06-01,0,Dubai Police Global Challenge for Chess - Masters,Dubai UAE,2024-05-03,2024-05-13,2351,2413,3.0,9,-2.27,10,-22.7,"Aditya, Varun Gampa",f,2325.0,False,IND,0.5,1,-0.12,10,-1.2
+25745700,2024-06-01,0,Dubai Police Global Challenge for Chess - Masters,Dubai UAE,2024-05-03,2024-05-13,2351,2413,3.0,9,-2.27,10,-22.7,"Senthil, Maran K",f,2363.0,False,IND,0.5,1,-0.07,10,-0.7
+25745700,2024-06-01,0,SixDays Budapest May  2024 GM A,Budapest HUN,2024-05-16,2024-05-21,2400,2413,4.5,9,-0.15,10,-1.5,"Tan, Jun Ying",c,2303.0,False,MAS,0.0,1,-0.65,10,-6.5
+25745700,2024-06-01,0,SixDays Budapest May  2024 GM A,Budapest HUN,2024-05-16,2024-05-21,2400,2413,4.5,9,-0.15,10,-1.5,"Berczes, David",g,2424.0,False,HUN,0.5,1,0.02,10,0.2
+25745700,2024-06-01,0,SixDays Budapest May  2024 GM A,Budapest HUN,2024-05-16,2024-05-21,2400,2413,4.5,9,-0.15,10,-1.5,"Nagy, Gabor",g,2433.0,False,HUN,0.0,1,-0.47,10,-4.7
+25745700,2024-06-01,0,SixDays Budapest May  2024 GM A,Budapest HUN,2024-05-16,2024-05-21,2400,2413,4.5,9,-0.15,10,-1.5,"Sahib, Singh",f,2290.0,False,IND,0.5,1,-0.17,10,-1.7
+25745700,2024-06-01,0,SixDays Budapest May  2024 GM A,Budapest HUN,2024-05-16,2024-05-21,2400,2413,4.5,9,-0.15,10,-1.5,"Ramoutar, Alan-Safar",m,2358.0,False,TTO,0.5,1,-0.08,10,-0.8
+25745700,2024-06-01,0,SixDays Budapest May  2024 GM A,Budapest HUN,2024-05-16,2024-05-21,2400,2413,4.5,9,-0.15,10,-1.5,"Wadsworth, Matthew J",m,2469.0,False,ENG,0.0,1,-0.42,10,-4.2
+25745700,2024-06-01,0,SixDays Budapest May  2024 GM A,Budapest HUN,2024-05-16,2024-05-21,2400,2413,4.5,9,-0.15,10,-1.5,"Aczel, Gergely",g,2491.0,False,HUN,1.0,1,0.61,10,6.1
+25745700,2024-06-01,0,SixDays Budapest May  2024 GM A,Budapest HUN,2024-05-16,2024-05-21,2400,2413,4.5,9,-0.15,10,-1.5,"Bai, Adelard",m,2375.0,False,TPE,1.0,1,0.45,10,4.5
+25745700,2024-06-01,0,SixDays Budapest May  2024 GM A,Budapest HUN,2024-05-16,2024-05-21,2400,2413,4.5,9,-0.15,10,-1.5,"Krastev, Alexander",m,2457.0,False,GER,1.0,1,0.56,10,5.6

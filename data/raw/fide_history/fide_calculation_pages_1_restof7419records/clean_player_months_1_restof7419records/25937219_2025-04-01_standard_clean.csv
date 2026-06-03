@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25937219,2025-04-01,0,I Arche Chess Open A,Lublin POL,2025-02-23,2025-03-01,2190,2183,4.0,9,-0.43,20,-8.6,"Adarsh, Tripathi",f,2369.0,False,IND,0.0,1,-0.26,20,-5.2
+25937219,2025-04-01,0,I Arche Chess Open A,Lublin POL,2025-02-23,2025-03-01,2190,2183,4.0,9,-0.43,20,-8.6,"Prudhvi, Kumar V",,2259.0,False,IND,1.0,1,0.6,20,12.0
+25937219,2025-04-01,0,I Arche Chess Open A,Lublin POL,2025-02-23,2025-03-01,2190,2183,4.0,9,-0.43,20,-8.6,"Dorokhina, Elizaveta",wc,2133.0,False,FID,0.5,1,-0.07,20,-1.4
+25937219,2025-04-01,0,I Arche Chess Open A,Lublin POL,2025-02-23,2025-03-01,2190,2183,4.0,9,-0.43,20,-8.6,"Mika, Tomasz",c,2194.0,False,POL,0.0,1,-0.48,20,-9.6
+25937219,2025-04-01,0,I Arche Chess Open A,Lublin POL,2025-02-23,2025-03-01,2190,2183,4.0,9,-0.43,20,-8.6,"Iwanczuk, Krzysztof",,2143.0,False,POL,0.5,1,-0.06,20,-1.2
+25937219,2025-04-01,0,I Arche Chess Open A,Lublin POL,2025-02-23,2025-03-01,2190,2183,4.0,9,-0.43,20,-8.6,"Gibala, Adam",c,2215.0,False,POL,0.5,1,0.04,20,0.8
+25937219,2025-04-01,0,I Arche Chess Open A,Lublin POL,2025-02-23,2025-03-01,2190,2183,4.0,9,-0.43,20,-8.6,"Paprocki, Jaroslaw",,2109.0,False,POL,0.5,1,-0.1,20,-2.0
+25937219,2025-04-01,0,I Arche Chess Open A,Lublin POL,2025-02-23,2025-03-01,2190,2183,4.0,9,-0.43,20,-8.6,"Rozycki, Bartlomiej",,2138.0,False,POL,0.5,1,-0.06,20,-1.2
+25937219,2025-04-01,0,I Arche Chess Open A,Lublin POL,2025-02-23,2025-03-01,2190,2183,4.0,9,-0.43,20,-8.6,"Piddubna, Bozhena",wf,2153.0,False,UKR,0.5,1,-0.04,20,-0.8

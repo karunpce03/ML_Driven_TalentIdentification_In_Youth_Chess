@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48732184,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1905,1505,0.0,1,-0.08,40,-3.2,"Hari, Ganesh T",,1905.0,True,IND,0.0,1,-0.08,40,-3.2
+48732184,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1582,1505,4.5,9,0.89,40,35.6,"Margaj, Prisha",,1682.0,False,IND,0.5,1,0.23,40,9.2
+48732184,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1582,1505,4.5,9,0.89,40,35.6,"Saranya, Devi Narahari",,1742.0,False,IND,0.0,1,-0.2,40,-8.0
+48732184,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1582,1505,4.5,9,0.89,40,35.6,"Pragya, Bhardwaj",,1415.0,False,IND,0.5,1,-0.12,40,-4.8
+48732184,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1582,1505,4.5,9,0.89,40,35.6,"Hunsika, M",,1443.0,False,IND,1.0,1,0.41,40,16.4
+48732184,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1582,1505,4.5,9,0.89,40,35.6,"Advika, Sarupria",,1628.0,False,IND,0.5,1,0.17,40,6.8
+48732184,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1582,1505,4.5,9,0.89,40,35.6,Somya,,1585.0,False,IND,0.5,1,0.11,40,4.4
+48732184,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1582,1505,4.5,9,0.89,40,35.6,"Anandhi, P",,1717.0,False,IND,0.0,1,-0.23,40,-9.2
+48732184,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1582,1505,4.5,9,0.89,40,35.6,"Sreesha, Kandi",,1466.0,False,IND,1.0,1,0.45,40,18.0
+48732184,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1582,1505,4.5,9,0.89,40,35.6,"Srinika, Ghosh",,1558.0,False,IND,0.5,1,0.07,40,2.8

@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33405352,2025-01-01,0,2024 Washington Class Championships - Class B,"Redmond, WA USA",2024-11-29,2024-12-01,1663,1525,3.0,3,2.04,40,81.6,"Raja, Rian",,1604.0,False,USA,1.0,1,0.61,40,24.4
+33405352,2025-01-01,0,2024 Washington Class Championships - Class B,"Redmond, WA USA",2024-11-29,2024-12-01,1663,1525,3.0,3,2.04,40,81.6,"Kuhner, Mary",wc,1774.0,False,USA,1.0,1,0.81,40,32.4
+33405352,2025-01-01,0,2024 Washington Class Championships - Class B,"Redmond, WA USA",2024-11-29,2024-12-01,1663,1525,3.0,3,2.04,40,81.6,"Dann, William",,1611.0,False,USA,1.0,1,0.62,40,24.8
+33405352,2025-01-01,0,2024 Washington Winter Classic - Erigaisi Open,"Bellevue, WA USA",2024-12-21,2024-12-22,1715,1525,1.0,3,0.19,40,7.6,"Kuipers, Miles",,1880.0,False,USA,0.0,1,-0.11,40,-4.4
+33405352,2025-01-01,0,2024 Washington Winter Classic - Erigaisi Open,"Bellevue, WA USA",2024-12-21,2024-12-22,1715,1525,1.0,3,0.19,40,7.6,"Anandkumar, Haituka",,1633.0,False,IND,0.0,1,-0.35,40,-14.0
+33405352,2025-01-01,0,2024 Washington Winter Classic - Erigaisi Open,"Bellevue, WA USA",2024-12-21,2024-12-22,1715,1525,1.0,3,0.19,40,7.6,"Sharma, Devansh",,1632.0,False,USA,1.0,1,0.65,40,26.0

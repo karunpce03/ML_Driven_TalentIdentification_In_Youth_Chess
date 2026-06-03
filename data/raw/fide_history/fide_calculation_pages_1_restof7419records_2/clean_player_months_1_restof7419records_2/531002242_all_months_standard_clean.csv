@@ -1,0 +1,16 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531002242,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,2.0,7,0.0,1293,,"Navaneel, Chhatui",,1551.0,False,IND,0.0,1,0.0,,0.0
+531002242,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,2.0,7,0.0,1293,,"Sailaj, Mukherjee",,1428.0,False,IND,0.0,1,0.0,,0.0
+531002242,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,2.0,7,0.0,1293,,"Sourabh, Suman",,1435.0,False,IND,1.0,1,0.0,,0.0
+531002242,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,2.0,7,0.0,1293,,"Sumoy, Chattopadhyay",,1449.0,False,IND,0.0,1,0.0,,0.0
+531002242,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,2.0,7,0.0,1293,,"Debottam, Ghosh",,1437.0,False,IND,0.0,1,0.0,,0.0
+531002242,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,2.0,7,0.0,1293,,"Panda, Samyabrata",,1432.0,False,IND,0.5,1,0.0,,0.0
+531002242,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,2.0,7,0.0,1293,,"Arghyadeep, Adhikary",,1423.0,False,IND,0.5,1,0.0,,0.0
+531002242,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1640.0,1403.0,1.0,3,0.37,40,14.8,"Debashis, Majumder(irs)",,1734.0,False,IND,1.0,1,0.88,40.0,35.2
+531002242,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1640.0,1403.0,1.0,3,0.37,40,14.8,"Samrat, Sutar",,1627.0,False,IND,0.0,1,-0.22,40.0,-8.8
+531002242,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1640.0,1403.0,1.0,3,0.37,40,14.8,"Shubhomit, Banerjee",,1558.0,False,IND,0.0,1,-0.29,40.0,-11.6
+531002242,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1642.0,1418.0,1.0,5,-0.16,40,-6.4,"Debayan, Ray",,1818.0,True,IND,0.0,1,-0.08,40.0,-3.2
+531002242,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1642.0,1418.0,1.0,5,-0.16,40,-6.4,"Paramarth, Mitra",,1669.0,False,IND,0.0,1,-0.19,40.0,-7.6
+531002242,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1642.0,1418.0,1.0,5,-0.16,40,-6.4,"Arghyadeep, Adhikary",,1624.0,False,IND,0.0,1,-0.24,40.0,-9.6
+531002242,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1642.0,1418.0,1.0,5,-0.16,40,-6.4,"Adreesh, Dey",,1588.0,False,IND,1.0,1,0.72,40.0,28.8
+531002242,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1642.0,1418.0,1.0,5,-0.16,40,-6.4,"Aryarav, Das",,1510.0,False,IND,0.0,1,-0.37,40.0,-14.8

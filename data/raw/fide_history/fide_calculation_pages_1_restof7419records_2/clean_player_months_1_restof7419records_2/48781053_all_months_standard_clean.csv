@@ -1,0 +1,23 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48781053,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,2.0,6,0.0,1483,,"Khalaf, Ali",,1682.0,False,KUW,0.0,1,0.0,,0.0
+48781053,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,2.0,6,0.0,1483,,"Alonaizi, Abdullah",,1581.0,False,KUW,1.0,1,0.0,,0.0
+48781053,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,2.0,6,0.0,1483,,"Vishwesh, Sivanantham",,1642.0,False,IND,0.0,1,0.0,,0.0
+48781053,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,2.0,6,0.0,1483,,"Ceonal, Roy Xavier",,1596.0,False,IND,0.0,1,0.0,,0.0
+48781053,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,2.0,6,0.0,1483,,"Aarohi, Ketan Patel",,1627.0,False,IND,1.0,1,0.0,,0.0
+48781053,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,2.0,6,0.0,1483,,"Alhasan, Zainah",,1522.0,False,KUW,0.0,1,0.0,,0.0
+48781053,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1650.0,1569.0,0.5,3,-0.68,40,-27.2,"Ezhil, Aadhav Kaladharan",,1711.0,False,IND,0.0,1,-0.31,40.0,-12.4
+48781053,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1650.0,1569.0,0.5,3,-0.68,40,-27.2,"Nishaanth, Vidyasagar",,1674.0,False,IND,0.0,1,-0.36,40.0,-14.4
+48781053,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1650.0,1569.0,0.5,3,-0.68,40,-27.2,"Santhosh, Kumar S",,1564.0,False,IND,0.5,1,-0.01,40.0,-0.4
+48781053,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1744.0,1542.0,1.0,3,0.21,40,8.4,"Saksham, Upadhyay",,1891.0,False,IND,0.0,1,-0.11,40.0,-4.4
+48781053,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1744.0,1542.0,1.0,3,0.21,40,8.4,"Rosebert, Abera",,1799.0,False,PHI,0.0,1,-0.18,40.0,-7.2
+48781053,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1744.0,1542.0,1.0,3,0.21,40,8.4,"Adon, Mulackal Joseph",,1543.0,False,IND,1.0,1,0.5,40.0,20.0
+48781053,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1504.0,1550.0,3.5,8,-1.0,40,-40.0,"Meera, Saqr Almarri",,1514.0,False,UAE,0.0,1,-0.55,40.0,-22.0
+48781053,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1504.0,1550.0,3.5,8,-1.0,40,-40.0,"Amna, Saqer Almarri",,1400.0,False,UAE,0.0,1,-0.7,40.0,-28.0
+48781053,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1504.0,1550.0,3.5,8,-1.0,40,-40.0,"Lakshan, Ramesh",,1414.0,False,IND,1.0,1,0.32,40.0,12.8
+48781053,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1504.0,1550.0,3.5,8,-1.0,40,-40.0,"Safar, Hussain",,1413.0,False,KUW,1.0,1,0.32,40.0,12.8
+48781053,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1504.0,1550.0,3.5,8,-1.0,40,-40.0,"Nihal, Saheer",,1490.0,False,IND,0.0,1,-0.58,40.0,-23.2
+48781053,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1504.0,1550.0,3.5,8,-1.0,40,-40.0,"Alhassan, Ahmad",,1465.0,False,KUW,1.0,1,0.38,40.0,15.2
+48781053,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1504.0,1550.0,3.5,8,-1.0,40,-40.0,"Qutaiba, Sadeq Yair Almajbool",,1703.0,False,IRQ,0.5,1,0.2,40.0,8.0
+48781053,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1504.0,1550.0,3.5,8,-1.0,40,-40.0,"Sudhanshu, Muluka",,1633.0,False,IND,0.0,1,-0.39,40.0,-15.6
+48781053,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1547.0,1510.0,0.0,2,-0.91,40,-36.4,"Nema, Rabab",wc,1645.0,False,KUW,0.0,1,-0.32,40.0,-12.8
+48781053,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1547.0,1510.0,0.0,2,-0.91,40,-36.4,"Bou Hamdan, Hani.",,1448.0,False,SYR,0.0,1,-0.59,40.0,-23.6

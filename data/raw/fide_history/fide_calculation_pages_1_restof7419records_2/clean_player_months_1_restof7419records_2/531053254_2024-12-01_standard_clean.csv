@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531053254,2024-12-01,0,Shantikumarji Firodia Classical Fide Rating Chess Tournament 2024,Ahmednagar IND,2024-11-06,2024-11-10,1516,1435,2.0,5,0.06,40,2.4,"Amarjeet, Singh Bagga",,1545.0,False,IND,0.0,1,-0.35,40,-14.0
+531053254,2024-12-01,0,Shantikumarji Firodia Classical Fide Rating Chess Tournament 2024,Ahmednagar IND,2024-11-06,2024-11-10,1516,1435,2.0,5,0.06,40,2.4,"Kulaye, Rajendra",,1501.0,False,IND,1.0,1,0.59,40,23.6
+531053254,2024-12-01,0,Shantikumarji Firodia Classical Fide Rating Chess Tournament 2024,Ahmednagar IND,2024-11-06,2024-11-10,1516,1435,2.0,5,0.06,40,2.4,"Shankar, Swaraj",,1521.0,False,IND,0.0,1,-0.38,40,-15.2
+531053254,2024-12-01,0,Shantikumarji Firodia Classical Fide Rating Chess Tournament 2024,Ahmednagar IND,2024-11-06,2024-11-10,1516,1435,2.0,5,0.06,40,2.4,"Sharvari, Shivaji Deshmukh",,1499.0,False,IND,0.5,1,0.09,40,3.6
+531053254,2024-12-01,0,Shantikumarji Firodia Classical Fide Rating Chess Tournament 2024,Ahmednagar IND,2024-11-06,2024-11-10,1516,1435,2.0,5,0.06,40,2.4,"Kamble, Balbhim",,1516.0,False,IND,0.5,1,0.11,40,4.4

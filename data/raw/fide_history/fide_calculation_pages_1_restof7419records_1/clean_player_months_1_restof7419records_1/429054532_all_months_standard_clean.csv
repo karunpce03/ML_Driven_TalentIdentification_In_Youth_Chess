@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429054532,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1605.0,1407.0,0.0,2,-0.5,40,-20.0,"Meetansh, Dixit",,1675.0,False,IND,0.0,1,-0.17,40.0,-6.8
+429054532,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1605.0,1407.0,0.0,2,-0.5,40,-20.0,"Ansh, Setia",,1535.0,False,IND,0.0,1,-0.33,40.0,-13.2
+429054532,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,,,1.5,5,0.0,1369,,"Vignesh, S",,1566.0,False,IND,0.0,1,0.0,,0.0
+429054532,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,,,1.5,5,0.0,1369,,"Viraj, Suneja",,1450.0,False,IND,0.0,1,0.0,,0.0
+429054532,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,,,1.5,5,0.0,1369,,"Adira, Mukerji",,1493.0,False,IND,1.0,1,0.0,,0.0
+429054532,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,,,1.5,5,0.0,1369,,"Mohd, Ismail Siddiqui",,1577.0,False,IND,0.0,1,0.0,,0.0
+429054532,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,,,1.5,5,0.0,1369,,"Uday, Raj Aggarwal",,1506.0,False,IND,0.5,1,0.0,,0.0

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Sundar, Guhan",,1873,True,IND,1.0,1,0.08,20,1.6
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Yuvanesh, A",,1873,True,IND,1.0,1,0.08,20,1.6
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Gadhavi, Veerbhadrasinh",,1900,False,IND,0.5,1,-0.4,20,-8.0
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Jack, Samuel",,1873,True,IND,1.0,1,0.08,20,1.6
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Aarav, Saish Amonkar",,1910,False,IND,1.0,1,0.1,20,2.0
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Siddhanth, Poonja",,2006,False,IND,0.5,1,-0.32,20,-6.4
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Arnav, Agrawal",,1940,False,IND,1.0,1,0.12,20,2.4
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Vaz, Ethan",m,2370,False,IND,0.5,1,0.13,20,2.6
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Abhinav, Raj",,1915,False,IND,1.0,1,0.1,20,2.0
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Sherla, Prathamesh",,2041,False,IND,1.0,1,0.21,20,4.2
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Ilamparthi, A R",m,2457,False,IND,0.0,1,-0.26,20,-5.2

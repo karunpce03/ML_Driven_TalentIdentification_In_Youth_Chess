@@ -1,0 +1,28 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429000297,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,,,2.0,7,0.0,1330,,"Bharath, Raj K",,1591.0,False,IND,0.0,1,0.0,,0.0
+429000297,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,,,2.0,7,0.0,1330,,"Rohith, S Navneet",,1456.0,False,IND,1.0,1,0.0,,0.0
+429000297,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,,,2.0,7,0.0,1330,,"Sudarshan, Balaji",,1522.0,False,IND,0.0,1,0.0,,0.0
+429000297,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,,,2.0,7,0.0,1330,,"Manav, Kirsi Binoy",,1439.0,False,IND,1.0,1,0.0,,0.0
+429000297,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,,,2.0,7,0.0,1330,,"Leah, R Joseph",,1501.0,False,IND,0.0,1,0.0,,0.0
+429000297,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,,,2.0,7,0.0,1330,,"Karthik, Linoy",,1450.0,False,IND,0.0,1,0.0,,0.0
+429000297,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,,,2.0,7,0.0,1330,,"Shivapradhan, M",,1456.0,False,IND,0.0,1,0.0,,0.0
+429000297,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,0.0,3,0.0,708,,"Mohamed, Ihshan I",,1576.0,False,IND,0.0,1,0.0,,0.0
+429000297,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,0.0,3,0.0,708,,"Krupakar, Boppuri E M",,1472.0,False,IND,0.0,1,0.0,,0.0
+429000297,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,0.0,3,0.0,708,,"Prabhakaran, K",,1476.0,False,IND,0.0,1,0.0,,0.0
+429000297,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,3.5,7,0.0,1560,,"Allen, B Judwin",,1619.0,False,IND,0.0,1,0.0,,0.0
+429000297,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,3.5,7,0.0,1560,,"Subramanian, P V",,1493.0,False,IND,1.0,1,0.0,,0.0
+429000297,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,3.5,7,0.0,1560,,"Arav, Vinod",,1517.0,False,IND,0.5,1,0.0,,0.0
+429000297,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,3.5,7,0.0,1560,,"Jawahar, K S",,1512.0,False,IND,1.0,1,0.0,,0.0
+429000297,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,3.5,7,0.0,1560,,"Harun, B S",,1670.0,False,IND,0.0,1,0.0,,0.0
+429000297,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,3.5,7,0.0,1560,,"Navaneeth, P",,1517.0,False,IND,1.0,1,0.0,,0.0
+429000297,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,3.5,7,0.0,1560,,"Janaki, S D",,1594.0,False,IND,0.0,1,0.0,,0.0
+429000297,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1446.0,1614.0,3.5,10,-3.73,40,-149.2,"Mantik, Iyer",,1415.0,False,IND,0.0,1,-0.76,40.0,-30.4
+429000297,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1446.0,1614.0,3.5,10,-3.73,40,-149.2,"Avasarala, Saurjyesh",,1433.0,False,IND,1.0,1,0.26,40.0,10.4
+429000297,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1446.0,1614.0,3.5,10,-3.73,40,-149.2,"Sarthak, G Naik",,1448.0,False,IND,0.5,1,-0.22,40.0,-8.8
+429000297,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1446.0,1614.0,3.5,10,-3.73,40,-149.2,"Advik, Kumar",,1446.0,False,IND,1.0,1,0.28,40.0,11.2
+429000297,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1446.0,1614.0,3.5,10,-3.73,40,-149.2,"Avneesh, Devadiga",,1500.0,False,IND,0.0,1,-0.66,40.0,-26.4
+429000297,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1446.0,1614.0,3.5,10,-3.73,40,-149.2,"Vittal, Narayanan",,1456.0,False,IND,1.0,1,0.29,40.0,11.6
+429000297,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1446.0,1614.0,3.5,10,-3.73,40,-149.2,"Chayank, Ramesh",,1440.0,False,IND,0.0,1,-0.73,40.0,-29.2
+429000297,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1446.0,1614.0,3.5,10,-3.73,40,-149.2,"Prayank, Gaonkar",,1475.0,False,IND,0.0,1,-0.69,40.0,-27.6
+429000297,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1446.0,1614.0,3.5,10,-3.73,40,-149.2,"Kulkarni, Vedant Kushal",,1422.0,False,IND,0.0,1,-0.75,40.0,-30.0
+429000297,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1446.0,1614.0,3.5,10,-3.73,40,-149.2,"Sai, Hari Dhaswan",,1424.0,False,IND,0.0,1,-0.75,40.0,-30.0

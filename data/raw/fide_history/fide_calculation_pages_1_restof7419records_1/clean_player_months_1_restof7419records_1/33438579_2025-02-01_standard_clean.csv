@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33438579,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,,,0.0,1,0.0,827,,"Anaya, Sharma",,1627,False,IND,0.0,1,0.0,,0.0
+33438579,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,,,2.0,6,0.0,1389,,"Akshobhya, Damodar Katti",,1602,False,IND,0.0,1,0.0,,0.0
+33438579,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,,,2.0,6,0.0,1389,,"Tiana, Zandrea Tino",,1472,False,IND,1.0,1,0.0,,0.0
+33438579,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,,,2.0,6,0.0,1389,,"Aswanthram, Sankar Ganesh Kannan",,1541,False,IND,0.0,1,0.0,,0.0
+33438579,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,,,2.0,6,0.0,1389,,"Stuthi, Nayak",,1441,False,IND,0.5,1,0.0,,0.0
+33438579,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,,,2.0,6,0.0,1389,,"Marwa, Fakkih",,1488,False,IND,0.5,1,0.0,,0.0
+33438579,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,,,2.0,6,0.0,1389,,"Ilaan, Shafeek",,1542,False,IND,0.0,1,0.0,,0.0

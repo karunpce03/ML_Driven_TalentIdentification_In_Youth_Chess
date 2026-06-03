@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45015775,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2368,2457,6.0,10,-0.02,10,-0.2,"Zhakan, Erasyl",,2179.0,False,KAZ,0.5,1,-0.33,10,-3.3
+45015775,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2368,2457,6.0,10,-0.02,10,-0.2,"Umarov, Bekhruz",,2197.0,False,UZB,1.0,1,0.18,10,1.8
+45015775,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2368,2457,6.0,10,-0.02,10,-0.2,"Beristenov, Kair",,2081.0,False,KAZ,1.0,1,0.09,10,0.9
+45015775,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2368,2457,6.0,10,-0.02,10,-0.2,"Makhnev, Denis",g,2537.0,False,KAZ,0.5,1,0.11,10,1.1
+45015775,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2368,2457,6.0,10,-0.02,10,-0.2,"Vakhidov, Jakhongir",g,2572.0,False,UZB,0.5,1,0.16,10,1.6
+45015775,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2368,2457,6.0,10,-0.02,10,-0.2,"Askarov, Bakhtiyar",m,2282.0,False,KAZ,0.5,1,-0.23,10,-2.3
+45015775,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2368,2457,6.0,10,-0.02,10,-0.2,"Xu, Xiangyu",g,2621.0,False,CHN,0.5,1,0.22,10,2.2
+45015775,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2368,2457,6.0,10,-0.02,10,-0.2,"Ritviz, Parab",f,2393.0,False,IND,0.5,1,-0.09,10,-0.9
+45015775,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2368,2457,6.0,10,-0.02,10,-0.2,"Agibileg, Uurtsaikh",m,2407.0,False,MGL,0.5,1,-0.07,10,-0.7
+45015775,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2368,2457,6.0,10,-0.02,10,-0.2,"Obgolts, Erik",f,2411.0,False,RUS,0.5,1,-0.06,10,-0.6

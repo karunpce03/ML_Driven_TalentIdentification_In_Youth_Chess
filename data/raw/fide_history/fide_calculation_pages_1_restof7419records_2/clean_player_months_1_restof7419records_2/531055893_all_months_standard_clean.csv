@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531055893,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,1.5,5,0.0,1396,,"Biswajit, Changmai",,1609.0,False,IND,0.0,1,0.0,,0.0
+531055893,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,1.5,5,0.0,1396,,"Indra, Kamal Baruah",,1449.0,False,IND,0.5,1,0.0,,0.0
+531055893,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,1.5,5,0.0,1396,,"Dhruba, Jyoti Bharali",,1472.0,False,IND,0.0,1,0.0,,0.0
+531055893,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,1.5,5,0.0,1396,,"Ashutosh, Buragohain",,1569.0,False,IND,1.0,1,0.0,,0.0
+531055893,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,1.5,5,0.0,1396,,"Hiranya, Das",,1627.0,False,IND,0.0,1,0.0,,0.0
+531055893,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1625.0,1516.0,0.0,2,-0.71,40,-28.4,"Hitarth, Pratim Buragohain",,1629.0,False,IND,0.0,1,-0.35,40.0,-14.0
+531055893,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1625.0,1516.0,0.0,2,-0.71,40,-28.4,"Nabam, Nikum",,1621.0,False,IND,0.0,1,-0.36,40.0,-14.4

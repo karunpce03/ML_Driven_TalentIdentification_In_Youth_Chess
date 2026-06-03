@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25907824,2024-07-01,0,UP State U-13 Chess Championship-2024-25 (Open),Bijnor IND,2024-06-07,2024-06-09,1523,1450,0.0,1,-0.4,40,-16.0,"Soumik, Chattopadhyaya",,1523.0,False,IND,0.0,1,-0.4,40,-16.0
+25907824,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1590,1450,2.0,6,0.08,40,3.2,"Harshit, Singh",,1776.0,False,IND,0.0,1,-0.13,40,-5.2
+25907824,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1590,1450,2.0,6,0.08,40,3.2,"Dinesh, Sinha",,1581.0,False,IND,0.0,1,-0.32,40,-12.8
+25907824,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1590,1450,2.0,6,0.08,40,3.2,"Yasar, Abdullah",,1560.0,False,IND,0.0,1,-0.35,40,-14.0
+25907824,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1590,1450,2.0,6,0.08,40,3.2,"Abhinav, K Sharma",,1550.0,False,IND,0.5,1,0.14,40,5.6
+25907824,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1590,1450,2.0,6,0.08,40,3.2,"Viyom, Bansal",,1522.0,False,IND,0.5,1,0.1,40,4.0
+25907824,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1590,1450,2.0,6,0.08,40,3.2,"Jitendra, Sharma",,1549.0,False,IND,1.0,1,0.64,40,25.6

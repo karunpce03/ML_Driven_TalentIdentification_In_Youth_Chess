@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33394490,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1756,3.0,9,-0.47,40,-18.8,"Hiya, Garg",,1573.0,False,IND,1.0,1,0.26,40,10.4
+33394490,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1756,3.0,9,-0.47,40,-18.8,"Ayaan, Garg",,1922.0,False,IND,0.0,1,-0.28,40,-11.2
+33394490,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1756,3.0,9,-0.47,40,-18.8,"Hamid, Rani",wm,1956.0,False,BAN,0.0,1,-0.24,40,-9.6
+33394490,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1756,3.0,9,-0.47,40,-18.8,"Chatterjee, K.k.",c,1960.0,False,IND,0.0,1,-0.24,40,-9.6
+33394490,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1756,3.0,9,-0.47,40,-18.8,"Sundar, Divij P",,1864.0,False,IND,1.0,1,0.65,40,26.0
+33394490,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1756,3.0,9,-0.47,40,-18.8,"Aamuktha, Guntaka",,1874.0,False,IND,0.0,1,-0.34,40,-13.6
+33394490,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1756,3.0,9,-0.47,40,-18.8,"Nidhish, Shyamal",,1848.0,False,IND,0.5,1,0.13,40,5.2
+33394490,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1756,3.0,9,-0.47,40,-18.8,"Yagneswar, Reddy M V S",,1648.0,False,IND,0.5,1,-0.15,40,-6.0
+33394490,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1756,3.0,9,-0.47,40,-18.8,"Iniyan, R S",,1943.0,False,IND,0.0,1,-0.26,40,-10.4

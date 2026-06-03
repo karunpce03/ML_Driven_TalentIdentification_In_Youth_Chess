@@ -1,0 +1,25 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33426058,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1855,1807,4.5,9,0.5,29,14.5,"Nadeem, Hussain Mir",,1513,False,IND,1.0,1,0.15,29,4.35
+33426058,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1855,1807,4.5,9,0.5,29,14.5,"Pranay, Chordia",,1796,False,IND,1.0,1,0.48,29,13.92
+33426058,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1855,1807,4.5,9,0.5,29,14.5,"Yashpal, Arora",,1839,False,IND,0.0,1,-0.46,29,-13.34
+33426058,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1855,1807,4.5,9,0.5,29,14.5,"Ashutosh, Mohapatra",,1924,False,IND,1.0,1,0.66,29,19.14
+33426058,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1855,1807,4.5,9,0.5,29,14.5,"Shyaamnikhil, P",m,2207,True,IND,0.0,1,-0.08,29,-2.32
+33426058,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1855,1807,4.5,9,0.5,29,14.5,"Mummana, Venkata Ruthvik",,1868,False,IND,0.0,1,-0.42,29,-12.18
+33426058,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1855,1807,4.5,9,0.5,29,14.5,"Sharnarthi, Shlok",,1936,False,IND,0.0,1,-0.33,29,-9.57
+33426058,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1855,1807,4.5,9,0.5,29,14.5,"Sherali, Pattnaik",,1777,False,IND,1.0,1,0.46,29,13.34
+33426058,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1855,1807,4.5,9,0.5,29,14.5,"Nimay, Agrawal",c,1835,False,IND,0.5,1,0.04,29,1.16
+33426058,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1764,1853,8.0,9,2.45,29,71.05,"Tanush, Johari",,1470,False,IND,1.0,1,0.09,29,2.61
+33426058,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1764,1853,8.0,9,2.45,29,71.05,"Aarush, Uday Khanna",,1574,False,IND,1.0,1,0.16,29,4.64
+33426058,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1764,1853,8.0,9,2.45,29,71.05,"Meetansh, Dixit",,1675,False,IND,1.0,1,0.27,29,7.83
+33426058,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1764,1853,8.0,9,2.45,29,71.05,"Aarit, Kapil",,1742,False,IND,1.0,1,0.35,29,10.15
+33426058,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1764,1853,8.0,9,2.45,29,71.05,"Aronyak, Ghosh",c,2253,True,IND,0.0,1,-0.08,29,-2.32
+33426058,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1764,1853,8.0,9,2.45,29,71.05,"Wazeer Ahmad, Khan",m,1720,False,IND,1.0,1,0.32,29,9.28
+33426058,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1764,1853,8.0,9,2.45,29,71.05,"Vandan, Alankar Sawai",,1812,False,IND,1.0,1,0.44,29,12.76
+33426058,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1764,1853,8.0,9,2.45,29,71.05,Pushpendra,,1771,False,IND,1.0,1,0.39,29,11.31
+33426058,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1764,1853,8.0,9,2.45,29,71.05,"Prithvi, Sharma",,1858,False,IND,1.0,1,0.51,29,14.79
+33426058,2024-05-01,0,UP State U-17 International Rating Chess Championship-2024-25 (Open),Kaushambi IND,2024-04-22,2024-04-24,1583,1853,4.5,6,-0.33,29,-9.57,"Vansh, Pandey",,1453,True,IND,1.0,1,0.08,29,2.32
+33426058,2024-05-01,0,UP State U-17 International Rating Chess Championship-2024-25 (Open),Kaushambi IND,2024-04-22,2024-04-24,1583,1853,4.5,6,-0.33,29,-9.57,"Md, Hasnain Siddiqui",,1618,False,IND,0.0,1,-0.79,29,-22.91
+33426058,2024-05-01,0,UP State U-17 International Rating Chess Championship-2024-25 (Open),Kaushambi IND,2024-04-22,2024-04-24,1583,1853,4.5,6,-0.33,29,-9.57,"Chaudhary, Parv",,1506,False,IND,1.0,1,0.11,29,3.19
+33426058,2024-05-01,0,UP State U-17 International Rating Chess Championship-2024-25 (Open),Kaushambi IND,2024-04-22,2024-04-24,1583,1853,4.5,6,-0.33,29,-9.57,"Pranav, Shukla",,1476,False,IND,1.0,1,0.09,29,2.61
+33426058,2024-05-01,0,UP State U-17 International Rating Chess Championship-2024-25 (Open),Kaushambi IND,2024-04-22,2024-04-24,1583,1853,4.5,6,-0.33,29,-9.57,"Prakhar, Tripathi",,1599,False,IND,1.0,1,0.19,29,5.51
+33426058,2024-05-01,0,UP State U-17 International Rating Chess Championship-2024-25 (Open),Kaushambi IND,2024-04-22,2024-04-24,1583,1853,4.5,6,-0.33,29,-9.57,"Arnav, Agrawal",,1848,False,IND,0.5,1,-0.01,29,-0.29

@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33312028,2024-06-01,0,36th Tamil Nadu State Under-13 Girls Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1575.0,1441.0,1.0,4,-0.31,40,-12.4,"Tharunika, G",,1613.0,False,IND,1.0,1,0.73,40.0,29.2
+33312028,2024-06-01,0,36th Tamil Nadu State Under-13 Girls Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1575.0,1441.0,1.0,4,-0.31,40,-12.4,"Sahana, S",,1537.0,False,IND,0.0,1,-0.37,40.0,-14.8
+33312028,2024-06-01,0,36th Tamil Nadu State Under-13 Girls Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1575.0,1441.0,1.0,4,-0.31,40,-12.4,"Pooja, Shree R",,1705.0,False,IND,0.0,1,-0.18,40.0,-7.2
+33312028,2024-06-01,0,36th Tamil Nadu State Under-13 Girls Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1575.0,1441.0,1.0,4,-0.31,40,-12.4,"Sana, G",,1446.0,False,IND,0.0,1,-0.49,40.0,-19.6
+33312028,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1543.0,1441.0,0.0,4,-1.44,40,-57.6,"Uthara, S",,1575.0,False,IND,0.0,1,-0.32,40.0,-12.8
+33312028,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1543.0,1441.0,0.0,4,-1.44,40,-57.6,"Rai, Shashidhar B",,1557.0,False,IND,0.0,1,-0.34,40.0,-13.6
+33312028,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1543.0,1441.0,0.0,4,-1.44,40,-57.6,"Siddhanth, Prabhu M",,1527.0,False,IND,0.0,1,-0.38,40.0,-15.2
+33312028,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1543.0,1441.0,0.0,4,-1.44,40,-57.6,"Angelo, Lijo",,1514.0,False,IND,0.0,1,-0.4,40.0,-16.0
+33312028,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1663.0,1429.0,0.0,2,-0.43,40,-17.2,"Aditya, Dileepraj",,1748.0,False,IND,0.0,1,-0.13,40.0,-5.2
+33312028,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1663.0,1429.0,0.0,2,-0.43,40,-17.2,"Ravisankar, H",,1577.0,False,IND,0.0,1,-0.3,40.0,-12.0
+33312028,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,,,1.0,4,0.0,1292,,"Sanoosh, B Shibu",,1536.0,False,IND,0.0,1,0.0,,0.0
+33312028,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,,,1.0,4,0.0,1292,,"Sanjay, I",,1433.0,False,IND,1.0,1,0.0,,0.0
+33312028,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,,,1.0,4,0.0,1292,,"Rajna, S R",,1448.0,False,IND,0.0,1,0.0,,0.0
+33312028,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,,,1.0,4,0.0,1292,,"Kishore, Kumar Karthi Keyan",,1521.0,False,IND,0.0,1,0.0,,0.0
+33312028,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,,,1.0,5,0.0,1234,,"Pondhiya, S",,1537.0,False,IND,0.0,1,0.0,,0.0
+33312028,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,,,1.0,5,0.0,1234,,"Mayeesha, Zabin S",,1438.0,False,IND,1.0,1,0.0,,0.0
+33312028,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,,,1.0,5,0.0,1234,,"Kavyashri, K",,1469.0,False,IND,0.0,1,0.0,,0.0
+33312028,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,,,1.0,5,0.0,1234,,"Mahathi, M",,1513.0,False,IND,0.0,1,0.0,,0.0
+33312028,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,,,1.0,5,0.0,1234,,"Sadhana, S N",,1414.0,False,IND,0.0,1,0.0,,0.0

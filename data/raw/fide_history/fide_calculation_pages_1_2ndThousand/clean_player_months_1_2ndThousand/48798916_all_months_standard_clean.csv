@@ -1,0 +1,23 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48798916,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,,,0.0,2,0.0,791,,"Muhammed, Reja C",,1605.0,False,IND,0.0,1,0.0,,0.0
+48798916,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,,,0.0,2,0.0,791,,"Vivaan, Balani",,1576.0,False,IND,0.0,1,0.0,,0.0
+48798916,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,4.0,8,0.0,1522,,"Talwalkar, Pushkar",,1603.0,False,IND,0.0,1,0.0,,0.0
+48798916,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,4.0,8,0.0,1522,,"Sudhanva, Srirangam",,1487.0,False,IND,1.0,1,0.0,,0.0
+48798916,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,4.0,8,0.0,1522,,"Akash, Sahukar",,1511.0,False,IND,0.0,1,0.0,,0.0
+48798916,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,4.0,8,0.0,1522,,"Suhas, Mrinal",,1533.0,False,IND,1.0,1,0.0,,0.0
+48798916,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,4.0,8,0.0,1522,,"Arun, Lobo",,1532.0,False,IND,0.0,1,0.0,,0.0
+48798916,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,4.0,8,0.0,1522,,"Adhrit, A Sogal",,1521.0,False,IND,1.0,1,0.0,,0.0
+48798916,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,4.0,8,0.0,1522,,"Sahit, Vankayala",,1513.0,False,IND,0.0,1,0.0,,0.0
+48798916,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,4.0,8,0.0,1522,,"Harshith, Ram B",,1474.0,False,IND,1.0,1,0.0,,0.0
+48798916,2024-06-01,0,Karnataka State Under 17 Girls Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,,,0.0,2,0.0,698,,"Yashika, R Joshi",,1489.0,False,IND,0.0,1,0.0,,0.0
+48798916,2024-06-01,0,Karnataka State Under 17 Girls Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,,,0.0,2,0.0,698,,"Maya, Ameen",,1506.0,False,IND,0.0,1,0.0,,0.0
+48798916,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1551.0,1507.0,0.0,2,-0.89,40,-35.6,"Shreyansh, Das",,1683.0,False,IND,0.0,1,-0.27,40.0,-10.8
+48798916,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1551.0,1507.0,0.0,2,-0.89,40,-35.6,"Tejas, Wadhwani",,1418.0,False,IND,0.0,1,-0.62,40.0,-24.8
+48798916,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard G7,Bangkok THA,2024-12-03,2024-12-08,1591.0,1471.0,1.5,4,0.11,40,4.4,"Aaranya, R",,1764.0,False,IND,0.0,1,-0.15,40.0,-6.0
+48798916,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard G7,Bangkok THA,2024-12-03,2024-12-08,1591.0,1471.0,1.5,4,0.11,40,4.4,"Shreyanshi, Jain",,1474.0,False,IND,0.5,1,0.0,40.0,0.0
+48798916,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard G7,Bangkok THA,2024-12-03,2024-12-08,1591.0,1471.0,1.5,4,0.11,40,4.4,"Yedresheva, Amaliya",,1570.0,False,KAZ,1.0,1,0.64,40.0,25.6
+48798916,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard G7,Bangkok THA,2024-12-03,2024-12-08,1591.0,1471.0,1.5,4,0.11,40,4.4,"Bissaliyeva, Alisha",,1557.0,False,KAZ,0.0,1,-0.38,40.0,-15.2
+48798916,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1517.0,1471.0,1.0,4,-0.75,40,-30.0,"Hariprana, B",,1436.0,False,IND,1.0,1,0.45,40.0,18.0
+48798916,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1517.0,1471.0,1.0,4,-0.75,40,-30.0,"Anointah, A",,1542.0,False,IND,0.0,1,-0.4,40.0,-16.0
+48798916,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1517.0,1471.0,1.0,4,-0.75,40,-30.0,"Yadav, Sanskriti",,1507.0,False,IND,0.0,1,-0.45,40.0,-18.0
+48798916,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1517.0,1471.0,1.0,4,-0.75,40,-30.0,"Harshika, M",,1583.0,False,IND,0.0,1,-0.35,40.0,-14.0

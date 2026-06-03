@@ -1,0 +1,16 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48753866,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,,,3.5,8,0.0,1434,,"Kandula, Jayalaxmi",,1499.0,False,IND,0.0,1,0.0,,0.0
+48753866,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,,,3.5,8,0.0,1434,,"Rama Mohan Rao, N",,1509.0,False,IND,0.0,1,0.0,,0.0
+48753866,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,,,3.5,8,0.0,1434,,"Ram, Prasad S",,1498.0,False,IND,1.0,1,0.0,,0.0
+48753866,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,,,3.5,8,0.0,1434,,"Survesh, Ram A",,1421.0,False,IND,1.0,1,0.0,,0.0
+48753866,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,,,3.5,8,0.0,1434,,"Naik, Sharad J",,1485.0,False,IND,0.0,1,0.0,,0.0
+48753866,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,,,3.5,8,0.0,1434,,"Musakalemullah, Mohammed",,1461.0,False,IND,0.0,1,0.0,,0.0
+48753866,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,,,3.5,8,0.0,1434,,"Goriparthi, Mohan Gangadhara Rao",,1471.0,False,IND,1.0,1,0.0,,0.0
+48753866,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,,,3.5,8,0.0,1434,,"Sharvesh, S",,1468.0,False,IND,0.5,1,0.0,,0.0
+48753866,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1446.0,1505.0,1.5,3,-0.25,40,-10.0,"Kriday, Narayan Roy",,1420.0,False,IND,1.0,1,0.38,40.0,15.2
+48753866,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1446.0,1505.0,1.5,3,-0.25,40,-10.0,"Prajjwal, Sarkar",,1513.0,False,IND,0.5,1,0.01,40.0,0.4
+48753866,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1446.0,1505.0,1.5,3,-0.25,40,-10.0,"Swayam, Prakash Sahoo",,1405.0,False,IND,0.0,1,-0.64,40.0,-25.6
+48753866,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1595.0,1495.0,1.0,4,-0.46,40,-18.4,"Shreyan, Thipparthi",,1624.0,False,IND,0.0,1,-0.33,40.0,-13.2
+48753866,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1595.0,1495.0,1.0,4,-0.46,40,-18.4,"Saathvik, Chakravarthy Ramayanam",,1592.0,False,IND,0.0,1,-0.37,40.0,-14.8
+48753866,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1595.0,1495.0,1.0,4,-0.46,40,-18.4,"Agrawal, Anay",,1595.0,False,IND,1.0,1,0.64,40.0,25.6
+48753866,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1595.0,1495.0,1.0,4,-0.46,40,-18.4,"Tamizh, Amudhan S",,1569.0,False,IND,0.0,1,-0.4,40.0,-16.0

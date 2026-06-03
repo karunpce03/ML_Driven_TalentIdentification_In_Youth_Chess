@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45015775,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2377,2461,6.5,9,0.99,10,9.9,"Kenneskog, Theodor",f,2266.0,False,SWE,1.0,1,0.25,10,2.5
+45015775,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2377,2461,6.5,9,0.99,10,9.9,"Ostlund, Joar",c,2339.0,False,SWE,1.0,1,0.33,10,3.3
+45015775,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2377,2461,6.5,9,0.99,10,9.9,"Cieslak, Patryk",f,2391.0,False,POL,0.0,1,-0.6,10,-6.0
+45015775,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2377,2461,6.5,9,0.99,10,9.9,"Akesson, Ralf",g,2336.0,False,SWE,0.5,1,-0.17,10,-1.7
+45015775,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2377,2461,6.5,9,0.99,10,9.9,"Anand, Batsukh",f,2290.0,False,MGL,1.0,1,0.27,10,2.7
+45015775,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2377,2461,6.5,9,0.99,10,9.9,"Falkevall, Axel",f,2383.0,False,SWE,1.0,1,0.39,10,3.9
+45015775,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2377,2461,6.5,9,0.99,10,9.9,"Celik, Hasan Huseyin",m,2432.0,False,TUR,0.5,1,-0.04,10,-0.4
+45015775,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2377,2461,6.5,9,0.99,10,9.9,"Khripachenko, Alexander",f,2400.0,False,FID,1.0,1,0.42,10,4.2
+45015775,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2377,2461,6.5,9,0.99,10,9.9,"Livaic, Leon",g,2560.0,False,CRO,0.5,1,0.14,10,1.4

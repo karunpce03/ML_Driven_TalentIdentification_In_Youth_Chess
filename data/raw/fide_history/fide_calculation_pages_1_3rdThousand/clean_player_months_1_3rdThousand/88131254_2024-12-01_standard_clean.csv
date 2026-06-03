@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88131254,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1587,1561,1.5,5,-0.82,40,-32.8,"Sudeep, S",,1612.0,False,IND,0.0,1,-0.43,40,-17.2
+88131254,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1587,1561,1.5,5,-0.82,40,-32.8,"Thurka, Raju",,1636.0,False,IND,1.0,1,0.6,40,24.0
+88131254,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1587,1561,1.5,5,-0.82,40,-32.8,"Rajkumar, D",,1570.0,False,IND,0.0,1,-0.49,40,-19.6
+88131254,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1587,1561,1.5,5,-0.82,40,-32.8,"Sayyadh, Raudah",,1537.0,False,IND,0.5,1,-0.03,40,-1.2
+88131254,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1587,1561,1.5,5,-0.82,40,-32.8,"Rao, C S",,1582.0,False,IND,0.0,1,-0.47,40,-18.8

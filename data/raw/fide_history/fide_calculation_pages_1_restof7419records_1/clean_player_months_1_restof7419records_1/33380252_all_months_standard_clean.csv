@@ -1,0 +1,62 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33380252,2024-05-01,0,Basel Easter Experts Open 2024,Basel SUI,2024-03-28,2024-04-01,1973,1797,2.0,5,0.64,40,25.6,"Malli, Shiivesh Sunil",,1964.0,False,SUI,1.0,1,0.72,40,28.8
+33380252,2024-05-01,0,Basel Easter Experts Open 2024,Basel SUI,2024-03-28,2024-04-01,1973,1797,2.0,5,0.64,40,25.6,"Varini, Massimo",,2006.0,False,ITA,1.0,1,0.77,40,30.8
+33380252,2024-05-01,0,Basel Easter Experts Open 2024,Basel SUI,2024-03-28,2024-04-01,1973,1797,2.0,5,0.64,40,25.6,"Fiedler, Joerg",,2012.0,False,GER,0.0,1,-0.23,40,-9.2
+33380252,2024-05-01,0,Basel Easter Experts Open 2024,Basel SUI,2024-03-28,2024-04-01,1973,1797,2.0,5,0.64,40,25.6,"Udipi, Kala Kishan",,1957.0,False,SUI,0.0,1,-0.29,40,-11.6
+33380252,2024-05-01,0,Basel Easter Experts Open 2024,Basel SUI,2024-03-28,2024-04-01,1973,1797,2.0,5,0.64,40,25.6,"Gevorgyan, Grigor",,1926.0,False,SUI,0.0,1,-0.33,40,-13.2
+33380252,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open B (- 2000 Elo),NOISIEL FRA,2024-04-06,2024-04-11,1724,1797,5.0,8,0.3,40,12.0,"Boursier, Enzo",,1468.0,False,FRA,1.0,1,0.12,40,4.8
+33380252,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open B (- 2000 Elo),NOISIEL FRA,2024-04-06,2024-04-11,1724,1797,5.0,8,0.3,40,12.0,"Oupindrin, Timothy",,1853.0,False,FRA,0.0,1,-0.42,40,-16.8
+33380252,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open B (- 2000 Elo),NOISIEL FRA,2024-04-06,2024-04-11,1724,1797,5.0,8,0.3,40,12.0,"Robin, Lionel",,1670.0,False,FRA,0.0,1,-0.67,40,-26.8
+33380252,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open B (- 2000 Elo),NOISIEL FRA,2024-04-06,2024-04-11,1724,1797,5.0,8,0.3,40,12.0,"Perruquon, Laetitia",,1647.0,False,FRA,1.0,1,0.3,40,12.0
+33380252,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open B (- 2000 Elo),NOISIEL FRA,2024-04-06,2024-04-11,1724,1797,5.0,8,0.3,40,12.0,"Malgin, Eraste",,1586.0,False,FRA,1.0,1,0.23,40,9.2
+33380252,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open B (- 2000 Elo),NOISIEL FRA,2024-04-06,2024-04-11,1724,1797,5.0,8,0.3,40,12.0,"Chalampuente, Victor",,1721.0,False,FRA,1.0,1,0.4,40,16.0
+33380252,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open B (- 2000 Elo),NOISIEL FRA,2024-04-06,2024-04-11,1724,1797,5.0,8,0.3,40,12.0,"Chennoufi, Amine",,1854.0,False,FRA,1.0,1,0.58,40,23.2
+33380252,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open B (- 2000 Elo),NOISIEL FRA,2024-04-06,2024-04-11,1724,1797,5.0,8,0.3,40,12.0,"Boulahfa, Hicham",,1996.0,False,NED,0.0,1,-0.24,40,-9.6
+33380252,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1596,1835,3.0,7,-2.51,40,-100.4,"Ahmadli, Mehriban",,1605.0,False,AZE,0.0,1,-0.79,40,-31.6
+33380252,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1596,1835,3.0,7,-2.51,40,-100.4,"Advik, Mundhada",,1475.0,False,IND,0.0,1,-0.9,40,-36.0
+33380252,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1596,1835,3.0,7,-2.51,40,-100.4,"Zain, Ali Shaheen",,1475.0,False,IND,1.0,1,0.1,40,4.0
+33380252,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1596,1835,3.0,7,-2.51,40,-100.4,"Hamad, M A M Al Ali",,1543.0,False,UAE,1.0,1,0.15,40,6.0
+33380252,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1596,1835,3.0,7,-2.51,40,-100.4,"Al Balushi, Rashid Ali",,1666.0,False,OMA,1.0,1,0.28,40,11.2
+33380252,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1596,1835,3.0,7,-2.51,40,-100.4,"Daiwik, Jain",,1702.0,False,IND,0.0,1,-0.68,40,-27.2
+33380252,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1596,1835,3.0,7,-2.51,40,-100.4,"Mariam, Essa",,1708.0,False,UAE,0.0,1,-0.67,40,-26.8
+33380252,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1659,1835,2.0,7,-3.11,40,-124.4,"Abhinav, Benny",,1615.0,False,IND,0.5,1,-0.28,40,-11.2
+33380252,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1659,1835,2.0,7,-3.11,40,-124.4,"Vidur, Rajagopal",,1633.0,False,IND,0.0,1,-0.76,40,-30.4
+33380252,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1659,1835,2.0,7,-3.11,40,-124.4,"Arixander, Johny",,1668.0,False,IND,1.0,1,0.28,40,11.2
+33380252,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1659,1835,2.0,7,-3.11,40,-124.4,"Daiwik, Jain",,1702.0,False,IND,0.0,1,-0.68,40,-27.2
+33380252,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1659,1835,2.0,7,-3.11,40,-124.4,"Yeshwant, Saravanan",,1684.0,False,IND,0.0,1,-0.7,40,-28.0
+33380252,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1659,1835,2.0,7,-3.11,40,-124.4,"Bilog, Cecilio",,1634.0,False,PHI,0.5,1,-0.26,40,-10.4
+33380252,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1659,1835,2.0,7,-3.11,40,-124.4,"Al Subaie, Nasser",,1675.0,False,KUW,0.0,1,-0.71,40,-28.4
+33380252,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup B,Barcelona ESP,2024-08-23,2024-09-01,1820,1611,5.5,10,3.17,40,126.8,"Valarezzo Ricard, Pedro",,1779.0,False,ESP,1.0,1,0.72,40,28.8
+33380252,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup B,Barcelona ESP,2024-08-23,2024-09-01,1820,1611,5.5,10,3.17,40,126.8,"Elhayek, Yazid Saqallah",,1823.0,False,PLE,0.5,1,0.27,40,10.8
+33380252,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup B,Barcelona ESP,2024-08-23,2024-09-01,1820,1611,5.5,10,3.17,40,126.8,"Georgescu, Bogdan",,1834.0,False,ROU,1.0,1,0.78,40,31.2
+33380252,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup B,Barcelona ESP,2024-08-23,2024-09-01,1820,1611,5.5,10,3.17,40,126.8,"Longueira Lateana, Mariano",,1857.0,False,ESP,0.0,1,-0.19,40,-7.6
+33380252,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup B,Barcelona ESP,2024-08-23,2024-09-01,1820,1611,5.5,10,3.17,40,126.8,"Barbany Vellve, Ricard",,1902.0,False,ESP,0.5,1,0.35,40,14.0
+33380252,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup B,Barcelona ESP,2024-08-23,2024-09-01,1820,1611,5.5,10,3.17,40,126.8,"Bouzas Arcos, Juan Manuel",,1804.0,False,ESP,0.5,1,0.25,40,10.0
+33380252,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup B,Barcelona ESP,2024-08-23,2024-09-01,1820,1611,5.5,10,3.17,40,126.8,"Walter Travella, German",,1829.0,False,ESP,0.0,1,-0.22,40,-8.8
+33380252,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup B,Barcelona ESP,2024-08-23,2024-09-01,1820,1611,5.5,10,3.17,40,126.8,"Arranz Penalba, Sergio",,1775.0,False,ESP,1.0,1,0.72,40,28.8
+33380252,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup B,Barcelona ESP,2024-08-23,2024-09-01,1820,1611,5.5,10,3.17,40,126.8,"Serrano Prio, Roc",,1794.0,False,ESP,0.5,1,0.24,40,9.6
+33380252,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup B,Barcelona ESP,2024-08-23,2024-09-01,1820,1611,5.5,10,3.17,40,126.8,"Jayawarna, Thisumi",,1800.0,False,ENG,0.5,1,0.25,40,10.0
+33380252,2024-10-01,0,6. Bamberg-Open B-Turnier,Bamberg GER,2024-09-04,2024-09-08,1797,1611,5.0,6,3.44,40,137.6,"Wachter, Michael",,1820.0,False,GER,1.0,1,0.77,40,30.8
+33380252,2024-10-01,0,6. Bamberg-Open B-Turnier,Bamberg GER,2024-09-04,2024-09-08,1797,1611,5.0,6,3.44,40,137.6,"Heil, Marina",,1808.0,False,GER,0.5,1,0.25,40,10.0
+33380252,2024-10-01,0,6. Bamberg-Open B-Turnier,Bamberg GER,2024-09-04,2024-09-08,1797,1611,5.0,6,3.44,40,137.6,"Holoubek, Jonas",,1741.0,False,GER,1.0,1,0.68,40,27.2
+33380252,2024-10-01,0,6. Bamberg-Open B-Turnier,Bamberg GER,2024-09-04,2024-09-08,1797,1611,5.0,6,3.44,40,137.6,"Simon, Manuel",,1771.0,False,GER,1.0,1,0.71,40,28.4
+33380252,2024-10-01,0,6. Bamberg-Open B-Turnier,Bamberg GER,2024-09-04,2024-09-08,1797,1611,5.0,6,3.44,40,137.6,"Sensoy, Emir",,1790.0,False,GER,0.5,1,0.23,40,9.2
+33380252,2024-10-01,0,6. Bamberg-Open B-Turnier,Bamberg GER,2024-09-04,2024-09-08,1797,1611,5.0,6,3.44,40,137.6,"Averkova, Olena",,1851.0,False,GER,1.0,1,0.8,40,32.0
+33380252,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Cavalier,AGDE FRA,2024-10-26,2024-11-02,1795,1875,4.5,9,-0.97,40,-38.8,"Morata, Jules",,1707.0,False,FRA,0.0,1,-0.72,40,-28.8
+33380252,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Cavalier,AGDE FRA,2024-10-26,2024-11-02,1795,1875,4.5,9,-0.97,40,-38.8,"Coll, Jean-Michel",,1720.0,False,FRA,1.0,1,0.29,40,11.6
+33380252,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Cavalier,AGDE FRA,2024-10-26,2024-11-02,1795,1875,4.5,9,-0.97,40,-38.8,"Flouret, Jean-Frederie",,1752.0,False,FRA,0.5,1,-0.17,40,-6.8
+33380252,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Cavalier,AGDE FRA,2024-10-26,2024-11-02,1795,1875,4.5,9,-0.97,40,-38.8,"Martinez, Julien",,1744.0,False,FRA,1.0,1,0.32,40,12.8
+33380252,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Cavalier,AGDE FRA,2024-10-26,2024-11-02,1795,1875,4.5,9,-0.97,40,-38.8,"Akyuz, Enes",,1759.0,False,FRA,1.0,1,0.34,40,13.6
+33380252,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Cavalier,AGDE FRA,2024-10-26,2024-11-02,1795,1875,4.5,9,-0.97,40,-38.8,"Peric, Slavisa",m,1972.0,False,SRB,0.0,1,-0.37,40,-14.8
+33380252,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Cavalier,AGDE FRA,2024-10-26,2024-11-02,1795,1875,4.5,9,-0.97,40,-38.8,"Hauseux, Philippe",,1756.0,False,FRA,1.0,1,0.34,40,13.6
+33380252,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Cavalier,AGDE FRA,2024-10-26,2024-11-02,1795,1875,4.5,9,-0.97,40,-38.8,"Seiler-Sar, Solal",,1975.0,False,FRA,0.0,1,-0.36,40,-14.4
+33380252,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Cavalier,AGDE FRA,2024-10-26,2024-11-02,1795,1875,4.5,9,-0.97,40,-38.8,"Baumier, Abel",,1770.0,False,FRA,0.0,1,-0.64,40,-25.6
+33380252,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open B (1600-2200),CANNES FRA,2025-02-24,2025-03-02,1787,1836,5.0,9,-0.07,40,-2.8,"Rossini, Marco",,1608.0,False,FRA,1.0,1,0.21,40,8.4
+33380252,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open B (1600-2200),CANNES FRA,2025-02-24,2025-03-02,1787,1836,5.0,9,-0.07,40,-2.8,"Kandic, Milan",f,1976.0,False,SRB,0.0,1,-0.31,40,-12.4
+33380252,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open B (1600-2200),CANNES FRA,2025-02-24,2025-03-02,1787,1836,5.0,9,-0.07,40,-2.8,"Casimir, Sarah",,1677.0,False,FRA,0.0,1,-0.71,40,-28.4
+33380252,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open B (1600-2200),CANNES FRA,2025-02-24,2025-03-02,1787,1836,5.0,9,-0.07,40,-2.8,"Haerdi, Heinz",,1740.0,False,SUI,0.0,1,-0.63,40,-25.2
+33380252,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open B (1600-2200),CANNES FRA,2025-02-24,2025-03-02,1787,1836,5.0,9,-0.07,40,-2.8,"Rosenfeld, Imre",,1727.0,False,FRA,1.0,1,0.35,40,14.0
+33380252,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open B (1600-2200),CANNES FRA,2025-02-24,2025-03-02,1787,1836,5.0,9,-0.07,40,-2.8,"De Lagontrie, Jean",,1764.0,False,FRA,1.0,1,0.4,40,16.0
+33380252,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open B (1600-2200),CANNES FRA,2025-02-24,2025-03-02,1787,1836,5.0,9,-0.07,40,-2.8,"Carrolaggi, Xavier",,1700.0,False,FRA,1.0,1,0.32,40,12.8
+33380252,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open B (1600-2200),CANNES FRA,2025-02-24,2025-03-02,1787,1836,5.0,9,-0.07,40,-2.8,"Souquet, Amedee",,1938.0,False,FRA,1.0,1,0.64,40,25.6
+33380252,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open B (1600-2200),CANNES FRA,2025-02-24,2025-03-02,1787,1836,5.0,9,-0.07,40,-2.8,"Middelkoop, Erik",,1952.0,False,NED,0.0,1,-0.34,40,-13.6

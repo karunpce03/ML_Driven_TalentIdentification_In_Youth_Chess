@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25974840,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1645,1567,3.5,7,0.59,40,23.6,"Aadish, Shah",,1764,False,IND,0.0,1,-0.25,40,-10.0
+25974840,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1645,1567,3.5,7,0.59,40,23.6,"Kushagra, Gupta",,1437,False,IND,1.0,1,0.32,40,12.8
+25974840,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1645,1567,3.5,7,0.59,40,23.6,"Abhay, Chetty",,1715,False,IND,0.5,1,0.2,40,8.0
+25974840,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1645,1567,3.5,7,0.59,40,23.6,"Ashutosh, Jamwal",,1719,False,IND,0.0,1,-0.3,40,-12.0
+25974840,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1645,1567,3.5,7,0.59,40,23.6,"Zayd, Saeed",,1438,False,IND,1.0,1,0.33,40,13.2
+25974840,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1645,1567,3.5,7,0.59,40,23.6,"Banerjee, Sushant",,1967,True,IND,0.0,1,-0.08,40,-3.2
+25974840,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1645,1567,3.5,7,0.59,40,23.6,"Hardik, Garg",,1475,False,IND,1.0,1,0.37,40,14.8

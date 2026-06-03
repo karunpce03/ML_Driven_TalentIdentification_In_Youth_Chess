@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48739731,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1588,1586,3.5,6,0.42,40,16.8,"Vigneswar, S",,1427.0,False,IND,1.0,1,0.29,40,11.6
+48739731,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1588,1586,3.5,6,0.42,40,16.8,"Pranav, Chandra Mohan",,1790.0,False,IND,0.0,1,-0.24,40,-9.6
+48739731,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1588,1586,3.5,6,0.42,40,16.8,"Arjun, K A",,1446.0,False,IND,0.0,1,-0.69,40,-27.6
+48739731,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1588,1586,3.5,6,0.42,40,16.8,"Thulaseedharan, K",,1468.0,False,IND,1.0,1,0.34,40,13.6
+48739731,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1588,1586,3.5,6,0.42,40,16.8,"Krupakar, Boppuri E M",,1472.0,False,IND,1.0,1,0.34,40,13.6
+48739731,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1588,1586,3.5,6,0.42,40,16.8,"Anilkumar, O.t.",,1927.0,False,IND,0.5,1,0.38,40,15.2
+48739731,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1666,1509,1.0,4,-0.23,40,-9.2,"Sai, Ritheesh S",,1454.0,False,IND,1.0,1,0.42,40,16.8
+48739731,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1666,1509,1.0,4,-0.23,40,-9.2,"Rohith, P",,1741.0,False,IND,0.0,1,-0.21,40,-8.4
+48739731,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1666,1509,1.0,4,-0.23,40,-9.2,"Arjun, Adithiya K",,1704.0,False,IND,0.0,1,-0.25,40,-10.0
+48739731,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1666,1509,1.0,4,-0.23,40,-9.2,"Kirpesh, I",,1764.0,False,IND,0.0,1,-0.19,40,-7.6

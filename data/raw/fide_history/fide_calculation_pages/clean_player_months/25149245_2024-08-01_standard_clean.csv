@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25149245,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1624,1534,0.0,3,-1.16,40,-46.4,"Shashish, Subbiah",,1767.0,False,IND,0.0,1,-0.21,40,-8.4
+25149245,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1624,1534,0.0,3,-1.16,40,-46.4,"Akhil, Vijayakumar",,1683.0,False,IND,0.0,1,-0.3,40,-12.0
+25149245,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1624,1534,0.0,3,-1.16,40,-46.4,"Gandasarakula, Nibhish",,1421.0,False,RSA,0.0,1,-0.65,40,-26.0
+25149245,2024-08-01,0,10th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-07-20,2024-07-21,1568,1534,1.5,3,0.1,40,4.0,"Minesh, Patil",,1432.0,False,IND,0.0,1,-0.64,40,-25.6
+25149245,2024-08-01,0,10th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-07-20,2024-07-21,1568,1534,1.5,3,0.1,40,4.0,"Rajendra, Sawant",,1458.0,False,IND,1.0,1,0.4,40,16.0
+25149245,2024-08-01,0,10th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-07-20,2024-07-21,1568,1534,1.5,3,0.1,40,4.0,"Tecirli, Musa",,1814.0,False,TUR,0.5,1,0.34,40,13.6
+25149245,2024-08-01,0,Grand Prix Chess Lab Classic U2200,Dubai UAE,2024-07-27,2024-07-28,1818,1534,0.0,3,-0.51,40,-20.4,"Shashish, Subbiah",,1767.0,False,IND,0.0,1,-0.21,40,-8.4
+25149245,2024-08-01,0,Grand Prix Chess Lab Classic U2200,Dubai UAE,2024-07-27,2024-07-28,1818,1534,0.0,3,-0.51,40,-20.4,"Arnab, Jena",,1921.0,False,IND,0.0,1,-0.09,40,-3.6
+25149245,2024-08-01,0,Grand Prix Chess Lab Classic U2200,Dubai UAE,2024-07-27,2024-07-28,1818,1534,0.0,3,-0.51,40,-20.4,"Alviz, Joshua Ezekiel",,1765.0,False,PHI,0.0,1,-0.21,40,-8.4

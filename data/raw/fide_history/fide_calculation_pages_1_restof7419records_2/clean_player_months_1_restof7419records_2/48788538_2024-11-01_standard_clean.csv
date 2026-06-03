@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48788538,2024-11-01,0,Charlotte CC Tuesday Night Action 112,"Charlotte, NC USA",2024-10-01,2024-10-29,1723,1578,0.0,1,-0.31,40,-12.4,"Vinodh Kumar, Trishona",,1723.0,False,USA,0.0,1,-0.31,40,-12.4
+48788538,2024-11-01,0,Charlotte CC Tuesday Night Action 112 - U1600,"Charlotte, NC USA",2024-10-01,2024-10-29,1547,1578,2.0,3,0.37,40,14.8,"Gundumalla, Srivatsa Ram",,1663.0,False,USA,0.0,1,-0.38,40,-15.2
+48788538,2024-11-01,0,Charlotte CC Tuesday Night Action 112 - U1600,"Charlotte, NC USA",2024-10-01,2024-10-29,1547,1578,2.0,3,0.37,40,14.8,"Kumar, Sampath",,1537.0,False,USA,1.0,1,0.44,40,17.6
+48788538,2024-11-01,0,Charlotte CC Tuesday Night Action 112 - U1600,"Charlotte, NC USA",2024-10-01,2024-10-29,1547,1578,2.0,3,0.37,40,14.8,"Balamurugan, Diya",,1440.0,False,USA,1.0,1,0.31,40,12.4

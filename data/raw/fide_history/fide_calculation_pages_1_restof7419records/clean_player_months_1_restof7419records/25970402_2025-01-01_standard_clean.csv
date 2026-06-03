@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25970402,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1853,1663,2.5,7,0.7,40,28.0,"Vakcheri, Mohitha",,1797.0,False,IND,0.0,1,-0.32,40,-12.8
+25970402,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1853,1663,2.5,7,0.7,40,28.0,"Rithwik, Reddy Upparigudam",,1808.0,False,IND,1.0,1,0.69,40,27.6
+25970402,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1853,1663,2.5,7,0.7,40,28.0,"Pranav, Ganesh Prabhu",,1820.0,False,IND,1.0,1,0.71,40,28.4
+25970402,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1853,1663,2.5,7,0.7,40,28.0,"Bhuvan, Krishna Prasanth",,1874.0,False,IND,0.5,1,0.27,40,10.8
+25970402,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1853,1663,2.5,7,0.7,40,28.0,"Rohith, Yadav B R",,1956.0,False,IND,0.0,1,-0.15,40,-6.0
+25970402,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1853,1663,2.5,7,0.7,40,28.0,"Andalamala, Hemal Varshan",,1882.0,False,IND,0.0,1,-0.22,40,-8.8
+25970402,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1853,1663,2.5,7,0.7,40,28.0,"Unnikrishnan, M A",,1833.0,False,IND,0.0,1,-0.28,40,-11.2

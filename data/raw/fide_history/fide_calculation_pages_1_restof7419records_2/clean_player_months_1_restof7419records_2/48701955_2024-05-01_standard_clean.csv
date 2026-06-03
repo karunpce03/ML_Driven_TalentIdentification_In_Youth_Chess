@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48701955,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1592,1605,3.0,7,-0.75,40,-30.0,"Agnivo, Chakraborty",,1852,False,IND,0.0,1,-0.19,40,-7.6
+48701955,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1592,1605,3.0,7,-0.75,40,-30.0,"Ashith, Kiran Reddy",,1453,False,IND,0.0,1,-0.7,40,-28.0
+48701955,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1592,1605,3.0,7,-0.75,40,-30.0,"Niharika, K",,1407,False,IND,1.0,1,0.24,40,9.6
+48701955,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1592,1605,3.0,7,-0.75,40,-30.0,"Moditha, Reddy Velugoti",,1480,False,IND,1.0,1,0.33,40,13.2
+48701955,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1592,1605,3.0,7,-0.75,40,-30.0,"Balkishan, A.",,2005,True,IND,0.0,1,-0.08,40,-3.2
+48701955,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1592,1605,3.0,7,-0.75,40,-30.0,"Hevak, V",,1492,False,IND,0.0,1,-0.65,40,-26.0
+48701955,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1592,1605,3.0,7,-0.75,40,-30.0,"Navya, P L",,1457,False,IND,1.0,1,0.3,40,12.0

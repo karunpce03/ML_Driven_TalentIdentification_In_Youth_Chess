@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25974840,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1787,1624,3.5,10,0.62,36,22.32,"Shreyaskar, Tanti",,1776.0,False,IND,0.5,1,0.2,36,7.2
+25974840,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1787,1624,3.5,10,0.62,36,22.32,"Rishit, Sharma",,1764.0,False,IND,0.0,1,-0.31,36,-11.16
+25974840,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1787,1624,3.5,10,0.62,36,22.32,"Arijit, Ghosh",,1700.0,False,IND,1.0,1,0.6,36,21.6
+25974840,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1787,1624,3.5,10,0.62,36,22.32,"Lavyaajyoti, Routray",,1833.0,False,IND,0.0,1,-0.23,36,-8.28
+25974840,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1787,1624,3.5,10,0.62,36,22.32,"Shivamshika, G",,1788.0,False,IND,1.0,1,0.72,36,25.92
+25974840,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1787,1624,3.5,10,0.62,36,22.32,"Badole, Shaunak",,1846.0,False,IND,0.5,1,0.28,36,10.08
+25974840,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1787,1624,3.5,10,0.62,36,22.32,"Sherali, Pattnaik",wc,1839.0,False,IND,0.0,1,-0.23,36,-8.28
+25974840,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1787,1624,3.5,10,0.62,36,22.32,"Mani, Sarbartho",,1792.0,False,IND,0.0,1,-0.28,36,-10.08
+25974840,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1787,1624,3.5,10,0.62,36,22.32,"Sasvatha, A",wc,1800.0,False,IND,0.0,1,-0.27,36,-9.72
+25974840,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1787,1624,3.5,10,0.62,36,22.32,"Diproneel, Barman",,1729.0,False,IND,0.5,1,0.14,36,5.04
+25974840,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1532,1624,3.5,9,-2.2,36,-79.2,"Sherla, Prathamesh",c,2024.0,True,IND,0.0,1,-0.08,36,-2.88
+25974840,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1532,1624,3.5,9,-2.2,36,-79.2,"Vivaan, Roy",,1508.0,False,IND,0.0,1,-0.66,36,-23.76
+25974840,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1532,1624,3.5,9,-2.2,36,-79.2,"Harshith, Surianarayanan",,1405.0,False,IND,1.0,1,0.22,36,7.92
+25974840,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1532,1624,3.5,9,-2.2,36,-79.2,"Pranav, Thiruppathi",,1500.0,False,IND,0.5,1,-0.17,36,-6.12
+25974840,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1532,1624,3.5,9,-2.2,36,-79.2,"Anish, Goswami",,1503.0,False,IND,0.5,1,-0.16,36,-5.76
+25974840,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1532,1624,3.5,9,-2.2,36,-79.2,"Aravind, S",,1466.0,False,IND,0.0,1,-0.71,36,-25.56
+25974840,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1532,1624,3.5,9,-2.2,36,-79.2,"Abhigyan, Singh",,1448.0,False,IND,0.5,1,-0.23,36,-8.28
+25974840,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1532,1624,3.5,9,-2.2,36,-79.2,"Jamal, Mohamed Mohaideen J S",,1407.0,False,IND,0.5,1,-0.28,36,-10.08
+25974840,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1532,1624,3.5,9,-2.2,36,-79.2,"Adinath, Amit Shastri",,1531.0,False,IND,0.5,1,-0.13,36,-4.68

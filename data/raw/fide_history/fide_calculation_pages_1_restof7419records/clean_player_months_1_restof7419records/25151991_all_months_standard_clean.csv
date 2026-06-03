@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25151991,2024-05-01,0,Chhattisgarh State U-17 FIDE Rated Chess Championship 2024,Durg IND,2024-04-12,2024-04-14,1597,1475,2.0,3,0.97,40,38.8,"Gagan, Sahu",,1719.0,False,IND,0.0,1,-0.2,40,-8.0
+25151991,2024-05-01,0,Chhattisgarh State U-17 FIDE Rated Chess Championship 2024,Durg IND,2024-04-12,2024-04-14,1597,1475,2.0,3,0.97,40,38.8,"Madke, Ishika",,1512.0,False,IND,1.0,1,0.55,40,22.0
+25151991,2024-05-01,0,Chhattisgarh State U-17 FIDE Rated Chess Championship 2024,Durg IND,2024-04-12,2024-04-14,1597,1475,2.0,3,0.97,40,38.8,"Abhay, Yadav",,1560.0,False,IND,1.0,1,0.62,40,24.8
+25151991,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,1463,1514,1.5,4,-0.79,40,-31.6,"Vivan, Gupta",,1444.0,False,IND,0.0,1,-0.6,40,-24.0
+25151991,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,1463,1514,1.5,4,-0.79,40,-31.6,"Salik, Nawaz Manihaar",,1442.0,False,IND,1.0,1,0.4,40,16.0
+25151991,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,1463,1514,1.5,4,-0.79,40,-31.6,"Vanedh, Khatwa",,1522.0,False,IND,0.0,1,-0.49,40,-19.6
+25151991,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,1463,1514,1.5,4,-0.79,40,-31.6,"Lakshya, Gupta",,1444.0,False,IND,0.5,1,-0.1,40,-4.0
+25151991,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1581,1482,2.0,6,-0.33,40,-13.2,"Pavithra, R V",,1882.0,True,IND,0.0,1,-0.08,40,-3.2
+25151991,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1581,1482,2.0,6,-0.33,40,-13.2,"Pooja, Shree R",,1619.0,False,IND,0.0,1,-0.32,40,-12.8
+25151991,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1581,1482,2.0,6,-0.33,40,-13.2,"Waghle, Bhumika",,1618.0,False,IND,0.0,1,-0.32,40,-12.8
+25151991,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1581,1482,2.0,6,-0.33,40,-13.2,"Divya, Darshini Moida",,1407.0,False,IND,1.0,1,0.4,40,16.0
+25151991,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1581,1482,2.0,6,-0.33,40,-13.2,"Yaazhini, J",,1441.0,False,IND,0.5,1,-0.06,40,-2.4
+25151991,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1581,1482,2.0,6,-0.33,40,-13.2,"Sayee, Atreyi Mohapatra",,1519.0,False,IND,0.5,1,0.05,40,2.0
+25151991,2025-01-01,0,AICF's Smart Girls Project All India Open Fide Rated Chess Tournament- 2024 - Rajnandgaon,Rajnandgaon IND,2024-12-18,2024-12-22,1597,1469,1.0,1,0.67,40,26.8,"Pari, Tiwari",,1597.0,False,IND,1.0,1,0.67,40,26.8

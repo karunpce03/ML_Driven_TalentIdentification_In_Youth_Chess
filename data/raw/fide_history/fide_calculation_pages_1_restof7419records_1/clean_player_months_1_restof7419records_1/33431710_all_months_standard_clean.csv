@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33431710,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1766,1591,3.5,10,0.63,40,25.2,"Atharva, Kale",,1908.0,False,IND,0.5,1,0.37,40,14.8
+33431710,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1766,1591,3.5,10,0.63,40,25.2,"Aniruddh, Chatterjee",,1991.0,True,IND,0.0,1,-0.08,40,-3.2
+33431710,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1766,1591,3.5,10,0.63,40,25.2,Vibhaan,,1753.0,False,IND,1.0,1,0.71,40,28.4
+33431710,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1766,1591,3.5,10,0.63,40,25.2,"Andabatla, Satvik",,1840.0,False,IND,0.0,1,-0.19,40,-7.6
+33431710,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1766,1591,3.5,10,0.63,40,25.2,Shreyas,,1745.0,False,IND,0.0,1,-0.29,40,-11.6
+33431710,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1766,1591,3.5,10,0.63,40,25.2,"Yagya, Gupta",,1744.0,False,IND,1.0,1,0.7,40,28.0
+33431710,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1766,1591,3.5,10,0.63,40,25.2,"Godhani, Maharth",,1792.0,False,IND,0.0,1,-0.24,40,-9.6
+33431710,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1766,1591,3.5,10,0.63,40,25.2,"Chaitanya, V Gaonkar",,1713.0,False,IND,0.0,1,-0.33,40,-13.2
+33431710,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1766,1591,3.5,10,0.63,40,25.2,"Harshvardhnachari, Uttaradi",,1686.0,False,IND,0.0,1,-0.37,40,-14.8
+33431710,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1766,1591,3.5,10,0.63,40,25.2,"Rithvik, Gandotra",,1484.0,False,IND,1.0,1,0.35,40,14.0
+33431710,2025-02-01,0,Punjab State Amateur Below-2000 Chess Championship 2024,Hoshiarpur IND,2024-12-27,2024-12-29,1709,1616,2.0,3,0.84,40,33.6,Naksh,,1440.0,False,IND,1.0,1,0.27,40,10.8
+33431710,2025-02-01,0,Punjab State Amateur Below-2000 Chess Championship 2024,Hoshiarpur IND,2024-12-27,2024-12-29,1709,1616,2.0,3,0.84,40,33.6,"Shubham, Shukla",,1821.0,False,IND,0.0,1,-0.24,40,-9.6
+33431710,2025-02-01,0,Punjab State Amateur Below-2000 Chess Championship 2024,Hoshiarpur IND,2024-12-27,2024-12-29,1709,1616,2.0,3,0.84,40,33.6,"Sethi, Gyana Ranjan",,1867.0,False,IND,1.0,1,0.81,40,32.4

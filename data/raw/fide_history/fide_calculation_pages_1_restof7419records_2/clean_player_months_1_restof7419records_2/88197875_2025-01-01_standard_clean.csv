@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88197875,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1616,1465,0.0,3,-0.92,40,-36.8,"Aahna, Gulati",,1746.0,False,IND,0.0,1,-0.16,40,-6.4
+88197875,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1616,1465,0.0,3,-0.92,40,-36.8,"Anjana, A",,1581.0,False,IND,0.0,1,-0.34,40,-13.6
+88197875,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1616,1465,0.0,3,-0.92,40,-36.8,"Adrija, Das",,1520.0,False,IND,0.0,1,-0.42,40,-16.8

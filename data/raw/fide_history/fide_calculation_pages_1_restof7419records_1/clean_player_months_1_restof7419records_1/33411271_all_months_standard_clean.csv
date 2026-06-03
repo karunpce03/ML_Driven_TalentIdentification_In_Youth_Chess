@@ -1,0 +1,23 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33411271,2024-05-01,0,2nd Lt Diloo Dhar Memorial FIDE Rating Chess Tournament-2024,Silchar IND,2024-04-01,2024-04-06,1578.0,1449.0,0.5,5,-1.16,40,-46.4,"Konsam, Jiban Singh",,1662.0,False,IND,0.0,1,-0.23,40.0,-9.2
+33411271,2024-05-01,0,2nd Lt Diloo Dhar Memorial FIDE Rating Chess Tournament-2024,Silchar IND,2024-04-01,2024-04-06,1578.0,1449.0,0.5,5,-1.16,40,-46.4,"Anirban, Das",,1561.0,False,IND,0.0,1,-0.35,40.0,-14.0
+33411271,2024-05-01,0,2nd Lt Diloo Dhar Memorial FIDE Rating Chess Tournament-2024,Silchar IND,2024-04-01,2024-04-06,1578.0,1449.0,0.5,5,-1.16,40,-46.4,"Ayush, Das (maligaon)",,1449.0,False,IND,0.5,1,0.0,40.0,0.0
+33411271,2024-05-01,0,2nd Lt Diloo Dhar Memorial FIDE Rating Chess Tournament-2024,Silchar IND,2024-04-01,2024-04-06,1578.0,1449.0,0.5,5,-1.16,40,-46.4,"Moirangthem, Modhusudon",,1675.0,False,IND,0.0,1,-0.21,40.0,-8.4
+33411271,2024-05-01,0,2nd Lt Diloo Dhar Memorial FIDE Rating Chess Tournament-2024,Silchar IND,2024-04-01,2024-04-06,1578.0,1449.0,0.5,5,-1.16,40,-46.4,"Santanu, Borah",,1544.0,False,IND,0.0,1,-0.37,40.0,-14.8
+33411271,2025-02-01,0,SHEPHALI MEMORIAL INTERNATIONAL FIDE RATING CHESS TOURNAMENT 2025,SILCHAR IND,2025-01-10,2025-01-15,1648.0,1403.0,1.0,5,-0.08,40,-3.2,"Apollosana Mangang, Rajkumar",,1803.0,True,IND,0.0,1,-0.08,40.0,-3.2
+33411271,2025-02-01,0,SHEPHALI MEMORIAL INTERNATIONAL FIDE RATING CHESS TOURNAMENT 2025,SILCHAR IND,2025-01-10,2025-01-15,1648.0,1403.0,1.0,5,-0.08,40,-3.2,"Bibendu, Das",,1759.0,False,IND,0.0,1,-0.11,40.0,-4.4
+33411271,2025-02-01,0,SHEPHALI MEMORIAL INTERNATIONAL FIDE RATING CHESS TOURNAMENT 2025,SILCHAR IND,2025-01-10,2025-01-15,1648.0,1403.0,1.0,5,-0.08,40,-3.2,"Arpit, Sharma",,1506.0,False,IND,0.5,1,0.14,40.0,5.6
+33411271,2025-02-01,0,SHEPHALI MEMORIAL INTERNATIONAL FIDE RATING CHESS TOURNAMENT 2025,SILCHAR IND,2025-01-10,2025-01-15,1648.0,1403.0,1.0,5,-0.08,40,-3.2,"Swapnaneel, Bhattacharjee",,1519.0,False,IND,0.0,1,-0.34,40.0,-13.6
+33411271,2025-02-01,0,SHEPHALI MEMORIAL INTERNATIONAL FIDE RATING CHESS TOURNAMENT 2025,SILCHAR IND,2025-01-10,2025-01-15,1648.0,1403.0,1.0,5,-0.08,40,-3.2,"Kh, Subir Singha",,1652.0,False,IND,0.5,1,0.31,40.0,12.4
+33411271,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1680.0,1403.0,0.0,4,-0.7,40,-28.0,"Ramnathan, Balasubramaniam",m,1803.0,True,IND,0.0,1,-0.08,40.0,-3.2
+33411271,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1680.0,1403.0,0.0,4,-0.7,40,-28.0,"Sujay Kumar, Dam",,1671.0,False,IND,0.0,1,-0.17,40.0,-6.8
+33411271,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1680.0,1403.0,0.0,4,-0.7,40,-28.0,"Bora, Mahendra",,1581.0,False,IND,0.0,1,-0.27,40.0,-10.8
+33411271,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1680.0,1403.0,0.0,4,-0.7,40,-28.0,"Prasenjit, Namasudra",,1663.0,False,IND,0.0,1,-0.18,40.0,-7.2
+33411271,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,,,3.0,8,0.0,1401,,"Dhrishi, Hazarika",,1515.0,False,IND,0.0,1,0.0,,0.0
+33411271,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,,,3.0,8,0.0,1401,,"Monuj, Rajkonwar",,1463.0,False,IND,1.0,1,0.0,,0.0
+33411271,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,,,3.0,8,0.0,1401,,"Souranil, Gogoi",,1541.0,False,IND,0.5,1,0.0,,0.0
+33411271,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,,,3.0,8,0.0,1401,,"Prabal, Phukon",,1528.0,False,IND,0.5,1,0.0,,0.0
+33411271,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,,,3.0,8,0.0,1401,,"Mayukh, Martin Konwar",,1501.0,False,IND,0.5,1,0.0,,0.0
+33411271,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,,,3.0,8,0.0,1401,,"Parashar, Kashyap",,1471.0,False,IND,0.0,1,0.0,,0.0
+33411271,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,,,3.0,8,0.0,1401,,"Pulak, Gogoi",,1438.0,False,IND,0.5,1,0.0,,0.0
+33411271,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,,,3.0,8,0.0,1401,,"Mailin, Baruah",,1449.0,False,IND,0.0,1,0.0,,0.0

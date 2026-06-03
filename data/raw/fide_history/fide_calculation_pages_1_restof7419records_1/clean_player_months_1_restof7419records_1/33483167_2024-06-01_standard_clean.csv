@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33483167,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1613,1420,1.0,4,-0.08,40,-3.2,"Ashva, Shanmugam",,1575,False,IND,0.0,1,-0.29,40,-11.6
+33483167,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1613,1420,1.0,4,-0.08,40,-3.2,"George, Daniel",,1524,False,IND,1.0,1,0.64,40,25.6
+33483167,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1613,1420,1.0,4,-0.08,40,-3.2,"Ram, S. Krishnan",,1820,True,IND,0.0,1,-0.08,40,-3.2
+33483167,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1613,1420,1.0,4,-0.08,40,-3.2,"Kishowre, U",,1532,False,IND,0.0,1,-0.35,40,-14.0
+33483167,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1628,1420,1.0,4,-0.03,40,-1.2,"Jai, Sankar Subramanian",,1820,True,IND,0.0,1,-0.08,40,-3.2
+33483167,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1628,1420,1.0,4,-0.03,40,-1.2,"Srinivasan, Subramaniam",,1688,False,IND,0.0,1,-0.17,40,-6.8
+33483167,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1628,1420,1.0,4,-0.03,40,-1.2,"Maria, Micheal Carey",,1479,False,IND,1.0,1,0.58,40,23.2
+33483167,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1628,1420,1.0,4,-0.03,40,-1.2,"George, Daniel",,1524,False,IND,0.0,1,-0.36,40,-14.4

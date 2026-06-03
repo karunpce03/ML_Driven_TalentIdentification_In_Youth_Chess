@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33399620,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1707,1509,1.0,5,-0.24,40,-9.6,"Vikramaditya, Mukhija",,1708.0,False,IND,0.0,1,-0.24,40,-9.6
+33399620,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1707,1509,1.0,5,-0.24,40,-9.6,"Bhavya, Gupta",,1653.0,False,IND,0.0,1,-0.31,40,-12.4
+33399620,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1707,1509,1.0,5,-0.24,40,-9.6,"Arpan, Gupta",,1773.0,False,IND,1.0,1,0.82,40,32.8
+33399620,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1707,1509,1.0,5,-0.24,40,-9.6,"Sundar, Divij P",,1653.0,False,IND,0.0,1,-0.31,40,-12.4
+33399620,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1707,1509,1.0,5,-0.24,40,-9.6,"Eishan, Rijhwani",,1746.0,False,IND,0.0,1,-0.2,40,-8.0
+33399620,2024-07-01,0,1st Khelo Chess India Classical International FIDE Rating Tournament,Bhopal IND,2024-06-04,2024-06-09,1669,1497,0.0,2,-0.54,40,-21.6,"Harshit, Dawar",,1668.0,False,IND,0.0,1,-0.27,40,-10.8
+33399620,2024-07-01,0,1st Khelo Chess India Classical International FIDE Rating Tournament,Bhopal IND,2024-06-04,2024-06-09,1669,1497,0.0,2,-0.54,40,-21.6,"Meetansh, Dixit",,1669.0,False,IND,0.0,1,-0.27,40,-10.8

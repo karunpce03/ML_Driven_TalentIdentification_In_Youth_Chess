@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48740390,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1430,1516,1.0,3,-0.86,40,-34.4,"Hiyan, Chopra",,1423.0,False,IND,1.0,1,0.37,40,14.8
+48740390,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1430,1516,1.0,3,-0.86,40,-34.4,"Evann, Raphael Aranha",,1437.0,False,IND,0.0,1,-0.61,40,-24.4
+48740390,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1430,1516,1.0,3,-0.86,40,-34.4,"Darsh, Chandra",,1429.0,False,IND,0.0,1,-0.62,40,-24.8

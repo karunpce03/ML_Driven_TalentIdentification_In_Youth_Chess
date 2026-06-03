@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33466505,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1642,1506,0.0,3,-1.02,40,-40.8,"Parambrata, Sarkar",,1815.0,False,IND,0.0,1,-0.14,40,-5.6
+33466505,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1642,1506,0.0,3,-1.02,40,-40.8,"Narendra, Agarwal",,1699.0,False,IND,0.0,1,-0.25,40,-10.0
+33466505,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1642,1506,0.0,3,-1.02,40,-40.8,"Abhirup, Mukherjee",,1412.0,False,IND,0.0,1,-0.63,40,-25.2

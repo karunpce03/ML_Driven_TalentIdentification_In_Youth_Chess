@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+146105007,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1632,1405,3.5,6,2.09,40,83.6,"Mokhtar, Omar.",,1724.0,False,SYR,1.0,1,0.87,40,34.8
+146105007,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1632,1405,3.5,6,2.09,40,83.6,"Kuzma, Ostap",,1717.0,False,UKR,1.0,1,0.86,40,34.4
+146105007,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1632,1405,3.5,6,2.09,40,83.6,"Rachel, Pereira",,1549.0,False,IND,0.0,1,-0.31,40,-12.4
+146105007,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1632,1405,3.5,6,2.09,40,83.6,"Jain, Arnav Shirish",,1550.0,False,IND,0.5,1,0.19,40,7.6
+146105007,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1632,1405,3.5,6,2.09,40,83.6,"Rochel, Pereira",,1447.0,False,IND,1.0,1,0.56,40,22.4
+146105007,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1632,1405,3.5,6,2.09,40,83.6,"De Silva, Rasheen",,1805.0,True,SRI,0.0,1,-0.08,40,-3.2
+146105007,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1497,1405,3.0,6,0.75,40,30.0,"Manlla Hasan, Ahmad",,1517.0,False,FID,1.0,1,0.65,40,26.0
+146105007,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1497,1405,3.0,6,0.75,40,30.0,"Nambiar, Niranjan Sujith",,1559.0,False,IND,0.0,1,-0.29,40,-11.6
+146105007,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1497,1405,3.0,6,0.75,40,30.0,"Sajin, Dwijendralal",,1473.0,False,IND,0.0,1,-0.41,40,-16.4
+146105007,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1497,1405,3.0,6,0.75,40,30.0,"Keertiganesh, S R",,1521.0,False,IND,1.0,1,0.66,40,26.4
+146105007,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1497,1405,3.0,6,0.75,40,30.0,"Amal, Abishan",,1450.0,False,IND,1.0,1,0.56,40,22.4
+146105007,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1497,1405,3.0,6,0.75,40,30.0,"Rajendra, Sawant",,1464.0,False,IND,0.0,1,-0.42,40,-16.8

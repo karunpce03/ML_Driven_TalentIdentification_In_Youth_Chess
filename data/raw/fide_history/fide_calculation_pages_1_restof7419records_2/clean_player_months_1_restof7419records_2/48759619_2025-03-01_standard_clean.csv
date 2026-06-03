@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48759619,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1704,1755,5.5,8,1.01,40,40.4,"Tapadiya, Earth",,1504.0,False,IND,1.0,1,0.19,40,7.6
+48759619,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1704,1755,5.5,8,1.01,40,40.4,Manav,,1576.0,False,IND,1.0,1,0.27,40,10.8
+48759619,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1704,1755,5.5,8,1.01,40,40.4,"Kunsh, Malhotra",,1452.0,False,IND,1.0,1,0.14,40,5.6
+48759619,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1704,1755,5.5,8,1.01,40,40.4,"Amartya, Saumitra Gupta",,1923.0,False,IND,0.0,1,-0.28,40,-11.2
+48759619,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1704,1755,5.5,8,1.01,40,40.4,"Aarav, Gupta",,1637.0,False,IND,1.0,1,0.34,40,13.6
+48759619,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1704,1755,5.5,8,1.01,40,40.4,"Watarkar, Yash",,1996.0,False,IND,0.5,1,0.3,40,12.0
+48759619,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1704,1755,5.5,8,1.01,40,40.4,"Prashanth, J Naik",,1944.0,False,IND,0.0,1,-0.25,40,-10.0
+48759619,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1704,1755,5.5,8,1.01,40,40.4,"Vishesh, Srikant",,1602.0,False,IND,1.0,1,0.3,40,12.0

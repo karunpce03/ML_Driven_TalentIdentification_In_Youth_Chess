@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33493391,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1756,1477,1.0,4,0.32,40,12.8,"Vishal, Sharma",,1770.0,False,IND,0.0,1,-0.15,40,-6.0
+33493391,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1756,1477,1.0,4,0.32,40,12.8,"Shiv, Priya Bhardwaj",,1731.0,False,IND,0.5,1,0.31,40,12.4
+33493391,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1756,1477,1.0,4,0.32,40,12.8,"Menhajul, Hoda",,1677.0,False,IND,0.5,1,0.26,40,10.4
+33493391,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1756,1477,1.0,4,0.32,40,12.8,"Shubham, Kumar",,1847.0,False,IND,0.0,1,-0.1,40,-4.0

@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429000629,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1643,1492,1.0,4,-0.2,40,-8.0,Surya,,1654.0,False,IND,1.0,1,0.71,40,28.4
+429000629,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1643,1492,1.0,4,-0.2,40,-8.0,"Arush, A",,1691.0,False,IND,0.0,1,-0.24,40,-9.6
+429000629,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1643,1492,1.0,4,-0.2,40,-8.0,"Sayooj, S",,1619.0,False,IND,0.0,1,-0.33,40,-13.2
+429000629,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1643,1492,1.0,4,-0.2,40,-8.0,"Abhay, Chetty",,1607.0,False,IND,0.0,1,-0.34,40,-13.6
+429000629,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1588,1492,1.0,4,-0.5,40,-20.0,"Sourav, Suresh",,1696.0,False,IND,1.0,1,0.76,40,30.4
+429000629,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1588,1492,1.0,4,-0.5,40,-20.0,"Anecx, Kanjiravila B C",,1626.0,False,IND,0.0,1,-0.32,40,-12.8
+429000629,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1588,1492,1.0,4,-0.5,40,-20.0,"Aron, S P",,1620.0,False,IND,0.0,1,-0.33,40,-13.2
+429000629,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1588,1492,1.0,4,-0.5,40,-20.0,"Hridya, Rakesh",,1410.0,False,IND,0.0,1,-0.61,40,-24.4

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25745700,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2337,2408,6.0,9,0.81,10,8.1,"Nissinen, Niilo Man",c,2150.0,False,HKG,1.0,1,0.18,10,1.8
+25745700,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2337,2408,6.0,9,0.81,10,8.1,"Sethuraman, S.p.",g,2586.0,False,IND,0.0,1,-0.27,10,-2.7
+25745700,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2337,2408,6.0,9,0.81,10,8.1,"Fronda, Jan Jodilyn",wm,2148.0,False,PHI,1.0,1,0.18,10,1.8
+25745700,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2337,2408,6.0,9,0.81,10,8.1,"Dragicevic, Domagoj",f,2038.0,False,AUS,1.0,1,0.1,10,1.0
+25745700,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2337,2408,6.0,9,0.81,10,8.1,"Gong, Daniel Hanwen",f,2220.0,False,NZL,1.0,1,0.26,10,2.6
+25745700,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2337,2408,6.0,9,0.81,10,8.1,"Yeoh, Li Tian",m,2492.0,False,MAS,0.0,1,-0.38,10,-3.8
+25745700,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2337,2408,6.0,9,0.81,10,8.1,"Paciencia, Enrique",m,2263.0,False,SGP,1.0,1,0.31,10,3.1
+25745700,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2337,2408,6.0,9,0.81,10,8.1,"Can, Emre",g,2559.0,False,TUR,1.0,1,0.7,10,7.0
+25745700,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2337,2408,6.0,9,0.81,10,8.1,"Gumularz, Szymon",g,2579.0,False,POL,0.0,1,-0.27,10,-2.7

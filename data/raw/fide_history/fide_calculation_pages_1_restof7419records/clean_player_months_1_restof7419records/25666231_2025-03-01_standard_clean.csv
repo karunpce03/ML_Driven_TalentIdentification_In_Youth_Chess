@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25666231,2025-03-01,0,3rd Annual Metropolitan Open,"Dulles, VA USA",2025-02-07,2025-02-09,2036,2161,4.0,5,0.76,40,30.4,"Reardon, Joshua Guo-Xu",,1813.0,False,USA,1.0,1,0.11,40,4.4
+25666231,2025-03-01,0,3rd Annual Metropolitan Open,"Dulles, VA USA",2025-02-07,2025-02-09,2036,2161,4.0,5,0.76,40,30.4,"Samanta, Aayansh",,1775.0,False,USA,1.0,1,0.09,40,3.6
+25666231,2025-03-01,0,3rd Annual Metropolitan Open,"Dulles, VA USA",2025-02-07,2025-02-09,2036,2161,4.0,5,0.76,40,30.4,"Kannan, Atul S.",,1894.0,False,USA,1.0,1,0.18,40,7.2
+25666231,2025-03-01,0,3rd Annual Metropolitan Open,"Dulles, VA USA",2025-02-07,2025-02-09,2036,2161,4.0,5,0.76,40,30.4,"Wang, Kevin",,2135.0,False,USA,1.0,1,0.46,40,18.4
+25666231,2025-03-01,0,3rd Annual Metropolitan Open,"Dulles, VA USA",2025-02-07,2025-02-09,2036,2161,4.0,5,0.76,40,30.4,"Zhou, Jianchao",g,2561.0,True,USA,0.0,1,-0.08,40,-3.2
+25666231,2025-03-01,0,2nd Annual Presidents' Day Open - Premier,"Dulles, VA USA",2025-02-13,2025-02-17,2193,2161,5.5,9,1.19,40,47.6,"Srinivasan, Arjun",,1983.0,False,USA,1.0,1,0.27,40,10.8
+25666231,2025-03-01,0,2nd Annual Presidents' Day Open - Premier,"Dulles, VA USA",2025-02-13,2025-02-17,2193,2161,5.5,9,1.19,40,47.6,"Grigoryan, Karen",g,2554.0,False,ARM,0.0,1,-0.08,40,-3.2
+25666231,2025-03-01,0,2nd Annual Presidents' Day Open - Premier,"Dulles, VA USA",2025-02-13,2025-02-17,2193,2161,5.5,9,1.19,40,47.6,"Liu, Steven",c,1970.0,False,USA,1.0,1,0.25,40,10.0
+25666231,2025-03-01,0,2nd Annual Presidents' Day Open - Premier,"Dulles, VA USA",2025-02-13,2025-02-17,2193,2161,5.5,9,1.19,40,47.6,"Abraham, John",,2167.0,False,USA,1.0,1,0.51,40,20.4
+25666231,2025-03-01,0,2nd Annual Presidents' Day Open - Premier,"Dulles, VA USA",2025-02-13,2025-02-17,2193,2161,5.5,9,1.19,40,47.6,"Senft, Sean",,2054.0,False,USA,0.5,1,-0.15,40,-6.0
+25666231,2025-03-01,0,2nd Annual Presidents' Day Open - Premier,"Dulles, VA USA",2025-02-13,2025-02-17,2193,2161,5.5,9,1.19,40,47.6,"Stremavicius, Titas",g,2554.0,False,LTU,0.5,1,0.42,40,16.8
+25666231,2025-03-01,0,2nd Annual Presidents' Day Open - Premier,"Dulles, VA USA",2025-02-13,2025-02-17,2193,2161,5.5,9,1.19,40,47.6,"Samuelson, Andrew",f,2032.0,False,USA,0.5,1,-0.17,40,-6.8
+25666231,2025-03-01,0,2nd Annual Presidents' Day Open - Premier,"Dulles, VA USA",2025-02-13,2025-02-17,2193,2161,5.5,9,1.19,40,47.6,"Vinod, Aarush",,2248.0,False,USA,0.5,1,0.12,40,4.8
+25666231,2025-03-01,0,2nd Annual Presidents' Day Open - Premier,"Dulles, VA USA",2025-02-13,2025-02-17,2193,2161,5.5,9,1.19,40,47.6,"Diao, Matthew Guo",,2176.0,False,USA,0.5,1,0.02,40,0.8
+25666231,2025-03-01,0,9th Annual George Washington Open - Major,"Dulles, VA USA",2025-02-21,2025-02-23,1910,2161,1.5,3,-0.88,40,-35.2,"Yang, Aimee",wc,2016.0,False,USA,0.5,1,-0.19,40,-7.6
+25666231,2025-03-01,0,9th Annual George Washington Open - Major,"Dulles, VA USA",2025-02-21,2025-02-23,1910,2161,1.5,3,-0.88,40,-35.2,"Katta, Sriansh",,1765.0,False,USA,1.0,1,0.08,40,3.2
+25666231,2025-03-01,0,9th Annual George Washington Open - Major,"Dulles, VA USA",2025-02-21,2025-02-23,1910,2161,1.5,3,-0.88,40,-35.2,"Taylor, Stewart Bradley",,1950.0,False,USA,0.0,1,-0.77,40,-30.8

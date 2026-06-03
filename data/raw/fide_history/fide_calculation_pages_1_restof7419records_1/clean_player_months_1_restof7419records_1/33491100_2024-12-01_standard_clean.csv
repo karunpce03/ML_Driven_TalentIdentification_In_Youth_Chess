@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33491100,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1653,1480,2.5,6,0.85,40,34.0,"Dhruv, Gupta",,1694.0,False,IND,0.5,1,0.27,40,10.8
+33491100,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1653,1480,2.5,6,0.85,40,34.0,"Routray, B C",,1668.0,False,IND,1.0,1,0.74,40,29.6
+33491100,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1653,1480,2.5,6,0.85,40,34.0,"Aadhya, Jain",,1696.0,False,IND,0.5,1,0.28,40,11.2
+33491100,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1653,1480,2.5,6,0.85,40,34.0,Flansh,,1654.0,False,IND,0.0,1,-0.27,40,-10.8
+33491100,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1653,1480,2.5,6,0.85,40,34.0,"Bora, Mahendra",,1603.0,False,IND,0.5,1,0.17,40,6.8
+33491100,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1653,1480,2.5,6,0.85,40,34.0,"Zeeshan, Ali",,1600.0,False,IND,0.0,1,-0.34,40,-13.6

@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25666231,2025-01-01,0,2024 US Masters,"Charlotte, NC USA",2024-11-27,2024-12-01,2168,2165,3.5,9,-1.02,40,-40.8,"Mitrabha, Guha",g,2511.0,False,IND,0.0,1,-0.11,40,-4.4
+25666231,2025-01-01,0,2024 US Masters,"Charlotte, NC USA",2024-11-27,2024-12-01,2168,2165,3.5,9,-1.02,40,-40.8,"Zhao, Kevin",,1982.0,False,USA,1.0,1,0.26,40,10.4
+25666231,2025-01-01,0,2024 US Masters,"Charlotte, NC USA",2024-11-27,2024-12-01,2168,2165,3.5,9,-1.02,40,-40.8,"Katz, Alexander",m,2426.0,False,USA,0.5,1,0.32,40,12.8
+25666231,2025-01-01,0,2024 US Masters,"Charlotte, NC USA",2024-11-27,2024-12-01,2168,2165,3.5,9,-1.02,40,-40.8,"Valdes Romero, Leonardo",m,2337.0,False,CRC,0.0,1,-0.27,40,-10.8
+25666231,2025-01-01,0,2024 US Masters,"Charlotte, NC USA",2024-11-27,2024-12-01,2168,2165,3.5,9,-1.02,40,-40.8,"Das, Rohan",,1964.0,False,USA,1.0,1,0.24,40,9.6
+25666231,2025-01-01,0,2024 US Masters,"Charlotte, NC USA",2024-11-27,2024-12-01,2168,2165,3.5,9,-1.02,40,-40.8,"Plotkin, Mark",m,2331.0,False,CAN,0.0,1,-0.28,40,-11.2
+25666231,2025-01-01,0,2024 US Masters,"Charlotte, NC USA",2024-11-27,2024-12-01,2168,2165,3.5,9,-1.02,40,-40.8,"Santosh, Saharsh",,1909.0,False,USA,0.5,1,-0.31,40,-12.4
+25666231,2025-01-01,0,2024 US Masters,"Charlotte, NC USA",2024-11-27,2024-12-01,2168,2165,3.5,9,-1.02,40,-40.8,"Hiwale, Ronak",,2061.0,False,USA,0.0,1,-0.64,40,-25.6
+25666231,2025-01-01,0,2024 US Masters,"Charlotte, NC USA",2024-11-27,2024-12-01,2168,2165,3.5,9,-1.02,40,-40.8,"Anatol, Luke Leon Robin",,1992.0,False,USA,0.5,1,-0.23,40,-9.2
+25666231,2025-01-01,0,1st Annual Federal Open,"Sterling, VA USA",2024-12-13,2024-12-15,2006,2159,4.5,5,1.07,40,42.8,"Ananiadis, Constantine",,1878.0,False,USA,1.0,1,0.16,40,6.4
+25666231,2025-01-01,0,1st Annual Federal Open,"Sterling, VA USA",2024-12-13,2024-12-15,2006,2159,4.5,5,1.07,40,42.8,"Bhoopathi, Rishith",,1893.0,False,USA,1.0,1,0.18,40,7.2
+25666231,2025-01-01,0,1st Annual Federal Open,"Sterling, VA USA",2024-12-13,2024-12-15,2006,2159,4.5,5,1.07,40,42.8,"Parpiev, Isaak",c,2305.0,False,FID,1.0,1,0.7,40,28.0
+25666231,2025-01-01,0,1st Annual Federal Open,"Sterling, VA USA",2024-12-13,2024-12-15,2006,2159,4.5,5,1.07,40,42.8,"Desmarais, Nicholas",,2026.0,False,USA,0.5,1,-0.18,40,-7.2
+25666231,2025-01-01,0,1st Annual Federal Open,"Sterling, VA USA",2024-12-13,2024-12-15,2006,2159,4.5,5,1.07,40,42.8,"Ilnytsky, Alexander",,1927.0,False,USA,1.0,1,0.21,40,8.4

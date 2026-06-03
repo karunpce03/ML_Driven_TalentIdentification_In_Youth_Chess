@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366109377,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1660,1475,0.0,3,-0.79,40,-31.6,"Gaigore, Sanskar",,1700.0,False,IND,0.0,1,-0.22,40,-8.8
+366109377,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1660,1475,0.0,3,-0.79,40,-31.6,"Pratish, Raj",,1628.0,False,IND,0.0,1,-0.3,40,-12.0
+366109377,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1660,1475,0.0,3,-0.79,40,-31.6,"Bhutia, W. T.",,1651.0,False,IND,0.0,1,-0.27,40,-10.8

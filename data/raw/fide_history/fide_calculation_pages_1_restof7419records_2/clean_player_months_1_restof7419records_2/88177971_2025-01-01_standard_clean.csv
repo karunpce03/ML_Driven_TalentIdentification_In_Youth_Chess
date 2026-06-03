@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88177971,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1791,1509,0.0,2,-0.33,40,-13.2,"Shrivastava, Kushagra",,1810.0,False,IND,0.0,1,-0.15,40,-6.0
+88177971,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1791,1509,0.0,2,-0.33,40,-13.2,"Chaturvedi, Dewansh",,1772.0,False,IND,0.0,1,-0.18,40,-7.2

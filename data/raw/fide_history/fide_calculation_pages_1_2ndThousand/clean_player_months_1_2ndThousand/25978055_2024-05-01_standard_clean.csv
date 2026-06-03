@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25978055,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,2004,2036,6.0,9,1.04,40,41.6,"Mangal, Prasad",,1750.0,False,IND,1.0,1,0.16,40,6.4
+25978055,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,2004,2036,6.0,9,1.04,40,41.6,"Ebenezer, Joseph",c,1889.0,False,IND,1.0,1,0.3,40,12.0
+25978055,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,2004,2036,6.0,9,1.04,40,41.6,"Prithvi, Sharma",,1858.0,False,IND,1.0,1,0.27,40,10.8
+25978055,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,2004,2036,6.0,9,1.04,40,41.6,"Dev, Raj",,1744.0,False,IND,1.0,1,0.15,40,6.0
+25978055,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,2004,2036,6.0,9,1.04,40,41.6,"Vrashank, Chouhan",f,2330.0,False,IND,0.0,1,-0.15,40,-6.0
+25978055,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,2004,2036,6.0,9,1.04,40,41.6,"Adireddy, Arjun",f,2299.0,False,IND,0.0,1,-0.18,40,-7.2
+25978055,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,2004,2036,6.0,9,1.04,40,41.6,"Dinesh, Kumar Pandey",,1919.0,False,IND,1.0,1,0.34,40,13.6
+25978055,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,2004,2036,6.0,9,1.04,40,41.6,"Shyaamnikhil, P",m,2405.0,False,IND,0.0,1,-0.1,40,-4.0
+25978055,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,2004,2036,6.0,9,1.04,40,41.6,"Borkhetariya, Devarsh M",,1840.0,False,IND,1.0,1,0.25,40,10.0

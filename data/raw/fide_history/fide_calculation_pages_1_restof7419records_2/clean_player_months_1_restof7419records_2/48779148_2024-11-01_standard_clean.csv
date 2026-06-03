@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48779148,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1737,1463,5.0,7,3.75,40,150.0,"Alhasan, Hasan",,1815,False,KUW,1.0,1,0.89,40,35.6
+48779148,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1737,1463,5.0,7,3.75,40,150.0,"Vishwesh, Sivanantham",,1642,False,IND,1.0,1,0.73,40,29.2
+48779148,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1737,1463,5.0,7,3.75,40,150.0,"Alazmi, Amani",wc,1648,False,KUW,1.0,1,0.74,40,29.6
+48779148,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1737,1463,5.0,7,3.75,40,150.0,"Nishaanth, Vidyasagar",,1725,False,IND,1.0,1,0.82,40,32.8
+48779148,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1737,1463,5.0,7,3.75,40,150.0,"Rosebert, Abera",,1780,False,PHI,0.0,1,-0.13,40,-5.2
+48779148,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1737,1463,5.0,7,3.75,40,150.0,"Qabazard, Mohamed",,1684,False,KUW,1.0,1,0.78,40,31.2
+48779148,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1737,1463,5.0,7,3.75,40,150.0,"Youssef Ahmed, Youssef",,1863,True,EGY,0.0,1,-0.08,40,-3.2

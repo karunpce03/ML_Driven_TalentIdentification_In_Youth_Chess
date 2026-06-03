@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33400830,2024-09-01,0,2024 Austin Chess Club Summer Open - Championship,"Austin, TX USA",2024-08-16,2024-08-18,1849,1887,1.5,5,-1.25,40,-50.0,"Anandh, Vijay Srinivas",,1949.0,False,USA,0.5,1,0.09,40,3.6
+33400830,2024-09-01,0,2024 Austin Chess Club Summer Open - Championship,"Austin, TX USA",2024-08-16,2024-08-18,1849,1887,1.5,5,-1.25,40,-50.0,"Qin, Kevin",,1967.0,False,CAN,0.0,1,-0.39,40,-15.6
+33400830,2024-09-01,0,2024 Austin Chess Club Summer Open - Championship,"Austin, TX USA",2024-08-16,2024-08-18,1849,1887,1.5,5,-1.25,40,-50.0,"Zhang, Oscar Yihang",,1759.0,False,USA,0.0,1,-0.67,40,-26.8
+33400830,2024-09-01,0,2024 Austin Chess Club Summer Open - Championship,"Austin, TX USA",2024-08-16,2024-08-18,1849,1887,1.5,5,-1.25,40,-50.0,"Manchanda, Advik",,1767.0,False,USA,0.0,1,-0.66,40,-26.4
+33400830,2024-09-01,0,2024 Austin Chess Club Summer Open - Championship,"Austin, TX USA",2024-08-16,2024-08-18,1849,1887,1.5,5,-1.25,40,-50.0,"Binder, Joseph",,1802.0,False,USA,1.0,1,0.38,40,15.2

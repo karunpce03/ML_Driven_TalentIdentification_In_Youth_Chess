@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33493103,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1657,1556,2.0,5,0.2,40,8.0,"Advik, Reddy Moate",,1697.0,False,IND,0.5,1,0.19,40,7.6
+33493103,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1657,1556,2.0,5,0.2,40,8.0,"Mathiyazhagan, M",,1655.0,False,IND,0.5,1,0.14,40,5.6
+33493103,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1657,1556,2.0,5,0.2,40,8.0,"Aole, Sangharsh",,1658.0,False,IND,0.0,1,-0.36,40,-14.4
+33493103,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1657,1556,2.0,5,0.2,40,8.0,"Jayini, Aditya Ram",,1663.0,False,IND,0.5,1,0.15,40,6.0
+33493103,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1657,1556,2.0,5,0.2,40,8.0,"Subba, Raju S.",,1614.0,False,IND,0.5,1,0.08,40,3.2

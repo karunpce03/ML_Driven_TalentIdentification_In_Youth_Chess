@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Royal, Shreyas",g,2488.0,False,ENG,0.5,1,0.3,20,6.0
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Amar, Elham",g,2537.0,False,NOR,0.0,1,-0.16,20,-3.2
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Rohith, Krishna S",m,2481.0,False,IND,0.0,1,-0.21,20,-4.2
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Kaloki, Hawi",,1990.0,False,KEN,1.0,1,0.18,20,3.6
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Lamaze, Simon",m,2447.0,False,FRA,0.5,1,0.25,20,5.0
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Shtavica, Alaudin",,1983.0,False,KOS,1.0,1,0.17,20,3.4
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Omonov, Asrorjon",f,2399.0,False,UZB,1.0,1,0.7,20,14.0
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Ilinca, Felix-Antonio",m,2412.0,False,ROU,1.0,1,0.71,20,14.2
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Begmuratov, Khumoyun",m,2409.0,False,UZB,0.0,1,-0.29,20,-5.8
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Yaniv, Yuval",f,2415.0,False,ISR,0.0,1,-0.28,20,-5.6
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Cordoba Roa, Angel Gabriel",f,2358.0,False,COL,0.5,1,0.15,20,3.0

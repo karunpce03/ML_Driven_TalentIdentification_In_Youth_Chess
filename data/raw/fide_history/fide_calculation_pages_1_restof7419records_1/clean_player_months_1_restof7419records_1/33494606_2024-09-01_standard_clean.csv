@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33494606,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1597,1534,0.0,1,-0.41,40,-16.4,"Aayusree, Sarkar",,1597.0,False,IND,0.0,1,-0.41,40,-16.4
+33494606,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1620,1534,1.5,5,-0.43,40,-17.2,"Olivia, Biswas",,1680.0,False,IND,0.0,1,-0.3,40,-12.0
+33494606,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1620,1534,1.5,5,-0.43,40,-17.2,"Suravi, Bhattacharya",,1658.0,False,IND,0.5,1,0.17,40,6.8
+33494606,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1620,1534,1.5,5,-0.43,40,-17.2,"Ananya, Samanta",,1479.0,False,IND,1.0,1,0.42,40,16.8
+33494606,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1620,1534,1.5,5,-0.43,40,-17.2,"Megha, Patra",,1558.0,False,IND,0.0,1,-0.47,40,-18.8
+33494606,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1620,1534,1.5,5,-0.43,40,-17.2,"Kathakali, Dey",,1727.0,False,IND,0.0,1,-0.25,40,-10.0

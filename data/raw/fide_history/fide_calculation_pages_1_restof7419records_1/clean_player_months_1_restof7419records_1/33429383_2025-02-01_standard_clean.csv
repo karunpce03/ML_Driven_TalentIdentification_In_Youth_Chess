@@ -1,0 +1,17 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33429383,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1743,1651,4.0,8,0.95,40,38.0,"Al Mashikhi, Mohammed Alyan",c,1916.0,False,OMA,0.5,1,0.32,40,12.8
+33429383,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1743,1651,4.0,8,0.95,40,38.0,"Al-Kuwari, Hamad",c,1736.0,False,QAT,0.5,1,0.12,40,4.8
+33429383,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1743,1651,4.0,8,0.95,40,38.0,"Mohammed, Jasim Dhadan",,1869.0,False,IRQ,1.0,1,0.78,40,31.2
+33429383,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1743,1651,4.0,8,0.95,40,38.0,"Al Kathiri, Mana",c,1853.0,False,OMA,0.0,1,-0.24,40,-9.6
+33429383,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1743,1651,4.0,8,0.95,40,38.0,"Al-Qudaimi, Abdullah",,1814.0,False,YEM,0.0,1,-0.28,40,-11.2
+33429383,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1743,1651,4.0,8,0.95,40,38.0,"Al Kindi, Said",,1436.0,False,OMA,1.0,1,0.23,40,9.2
+33429383,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1743,1651,4.0,8,0.95,40,38.0,"Kiani, Rahil",,1815.0,False,IRI,0.0,1,-0.28,40,-11.2
+33429383,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1743,1651,4.0,8,0.95,40,38.0,"Mustafa, Hassan Hamed",,1502.0,False,IRQ,1.0,1,0.3,40,12.0
+33429383,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1828,1688,3.0,5,1.3,40,52.0,"Ahmad, Al Romaithi",,1971.0,False,UAE,0.5,1,0.34,40,13.6
+33429383,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1828,1688,3.0,5,1.3,40,52.0,"Siddharth, Sanjoy",,1783.0,False,IND,1.0,1,0.63,40,25.2
+33429383,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1828,1688,3.0,5,1.3,40,52.0,"Storey, Charles H",f,2088.0,True,ENG,0.0,1,-0.08,40,-3.2
+33429383,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1828,1688,3.0,5,1.3,40,52.0,"Goel, Vivan",,1493.0,False,IND,1.0,1,0.25,40,10.0
+33429383,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1828,1688,3.0,5,1.3,40,52.0,"Vidur, Rajagopal",,1806.0,False,IND,0.5,1,0.16,40,6.4
+33429383,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1650,1688,2.5,3,0.84,40,33.6,"Al Sawafi, Abdulrhman",,1534.0,False,OMA,1.0,1,0.29,40,11.6
+33429383,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1650,1688,2.5,3,0.84,40,33.6,"Shybi, Binoj",,1782.0,False,IND,0.5,1,0.13,40,5.2
+33429383,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1650,1688,2.5,3,0.84,40,33.6,"Dahveed, Sibi Kurisinkal",,1633.0,False,IND,1.0,1,0.42,40,16.8

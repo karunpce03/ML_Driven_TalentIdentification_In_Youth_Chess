@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25147986,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1545,1768,5.0,8,-1.22,38,-46.36,"Soham, Mittal",,1418.0,False,IND,1.0,1,0.11,38,4.18
+25147986,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1545,1768,5.0,8,-1.22,38,-46.36,"Nemank, Yadav",,1550.0,False,IND,0.5,1,-0.28,38,-10.64
+25147986,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1545,1768,5.0,8,-1.22,38,-46.36,"Vishesh, Srikant",,1541.0,False,IND,1.0,1,0.21,38,7.98
+25147986,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1545,1768,5.0,8,-1.22,38,-46.36,"Vishwam, Anand",,1655.0,False,IND,0.0,1,-0.65,38,-24.7
+25147986,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1545,1768,5.0,8,-1.22,38,-46.36,Sudhakar,,1555.0,False,IND,0.0,1,-0.77,38,-29.26
+25147986,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1545,1768,5.0,8,-1.22,38,-46.36,"Arnav, Goyal",,1541.0,False,IND,0.5,1,-0.29,38,-11.02
+25147986,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1545,1768,5.0,8,-1.22,38,-46.36,"Prabindra, Mani Verma",,1516.0,False,IND,1.0,1,0.19,38,7.22
+25147986,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1545,1768,5.0,8,-1.22,38,-46.36,"Deep, Karmakar",,1587.0,False,IND,1.0,1,0.26,38,9.88
+25147986,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1640,1668,6.0,10,0.58,38,22.04,"Ved, Neeraj Phaur",,1485.0,False,IND,1.0,1,0.26,38,9.88
+25147986,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1640,1668,6.0,10,0.58,38,22.04,"Arnav, Prashant Kunchalwar",,1551.0,False,IND,1.0,1,0.34,38,12.92
+25147986,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1640,1668,6.0,10,0.58,38,22.04,"Sole, Swanandi Anil",,1537.0,False,IND,0.0,1,-0.68,38,-25.84
+25147986,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1640,1668,6.0,10,0.58,38,22.04,"Vishwaditya, Awasthi",,1528.0,False,IND,1.0,1,0.31,38,11.78
+25147986,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1640,1668,6.0,10,0.58,38,22.04,"Nigudkar, Ameya",,1576.0,False,IND,1.0,1,0.37,38,14.06
+25147986,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1640,1668,6.0,10,0.58,38,22.04,"Gaigore, Sanskar",,1638.0,False,IND,1.0,1,0.46,38,17.48
+25147986,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1640,1668,6.0,10,0.58,38,22.04,"Badole, Shaunak",,1716.0,False,IND,0.0,1,-0.43,38,-16.34
+25147986,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1640,1668,6.0,10,0.58,38,22.04,"Vandan, Alankar Sawai",,1899.0,False,IND,1.0,1,0.79,38,30.02
+25147986,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1640,1668,6.0,10,0.58,38,22.04,"Mishra, Sanjeev",,1875.0,False,IND,0.0,1,-0.23,38,-8.74
+25147986,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1640,1668,6.0,10,0.58,38,22.04,"Walde, Harshal",,1590.0,False,IND,0.0,1,-0.61,38,-23.18

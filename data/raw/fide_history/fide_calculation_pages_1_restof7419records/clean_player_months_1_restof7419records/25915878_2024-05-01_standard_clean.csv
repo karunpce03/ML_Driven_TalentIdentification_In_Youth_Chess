@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25915878,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1735,1740,6.5,10,1.37,40,54.8,"Iniyan, Gopinathen",,1451,False,IND,1.0,1,0.16,40,6.4
+25915878,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1735,1740,6.5,10,1.37,40,54.8,"Vishrutha, T M",,1551,False,IND,1.0,1,0.25,40,10.0
+25915878,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1735,1740,6.5,10,1.37,40,54.8,"Vignesh, B",,2140,True,IND,0.0,1,-0.08,40,-3.2
+25915878,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1735,1740,6.5,10,1.37,40,54.8,"Shreya, Rajesh",,1576,False,IND,0.5,1,-0.22,40,-8.8
+25915878,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1735,1740,6.5,10,1.37,40,54.8,"Ashok, Jasma Vollepore",,1594,False,IND,1.0,1,0.3,40,12.0
+25915878,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1735,1740,6.5,10,1.37,40,54.8,"Anandhi, P",,1608,False,IND,1.0,1,0.32,40,12.8
+25915878,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1735,1740,6.5,10,1.37,40,54.8,"Ramana, Babu B.",,1859,False,IND,0.5,1,0.16,40,6.4
+25915878,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1735,1740,6.5,10,1.37,40,54.8,"Aditya, Savalkar",,1848,False,IND,1.0,1,0.65,40,26.0
+25915878,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1735,1740,6.5,10,1.37,40,54.8,"Subramanian, R M",,1878,False,IND,0.5,1,0.19,40,7.6
+25915878,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1735,1740,6.5,10,1.37,40,54.8,"Vignesh, Kannan P",,1844,False,IND,0.0,1,-0.36,40,-14.4

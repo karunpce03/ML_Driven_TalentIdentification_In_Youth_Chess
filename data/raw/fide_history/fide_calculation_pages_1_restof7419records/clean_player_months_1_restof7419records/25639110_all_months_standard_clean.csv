@@ -1,0 +1,55 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25639110,2024-06-01,0,SixDays Budapest May 2024 GM B,Budapest HUN,2024-05-16,2024-05-21,2399,2372,4.5,9,0.32,20,6.4,"Krishnan, Ritvik",f,2296.0,False,IND,0.5,1,-0.1,20,-2.0
+25639110,2024-06-01,0,SixDays Budapest May 2024 GM B,Budapest HUN,2024-05-16,2024-05-21,2399,2372,4.5,9,0.32,20,6.4,"Lamard, Guillaume",m,2500.0,False,FRA,0.5,1,0.17,20,3.4
+25639110,2024-06-01,0,SixDays Budapest May 2024 GM B,Budapest HUN,2024-05-16,2024-05-21,2399,2372,4.5,9,0.32,20,6.4,"Jinan, Jomon",,2380.0,False,IND,0.0,1,-0.49,20,-9.8
+25639110,2024-06-01,0,SixDays Budapest May 2024 GM B,Budapest HUN,2024-05-16,2024-05-21,2399,2372,4.5,9,0.32,20,6.4,"Horvath, Adam",g,2447.0,False,HUN,1.0,1,0.6,20,12.0
+25639110,2024-06-01,0,SixDays Budapest May 2024 GM B,Budapest HUN,2024-05-16,2024-05-21,2399,2372,4.5,9,0.32,20,6.4,"Lu, Maximillian",m,2372.0,False,USA,0.5,1,0.0,20,0.0
+25639110,2024-06-01,0,SixDays Budapest May 2024 GM B,Budapest HUN,2024-05-16,2024-05-21,2399,2372,4.5,9,0.32,20,6.4,"Fodor, Tamas Jr.",g,2486.0,False,HUN,1.0,1,0.66,20,13.2
+25639110,2024-06-01,0,SixDays Budapest May 2024 GM B,Budapest HUN,2024-05-16,2024-05-21,2399,2372,4.5,9,0.32,20,6.4,"Kuru, Atilla",f,2312.0,False,TUR,0.5,1,-0.08,20,-1.6
+25639110,2024-06-01,0,SixDays Budapest May 2024 GM B,Budapest HUN,2024-05-16,2024-05-21,2399,2372,4.5,9,0.32,20,6.4,"Stefansson, Vignir Vatnar",g,2462.0,False,ISL,0.0,1,-0.38,20,-7.6
+25639110,2024-06-01,0,SixDays Budapest May 2024 GM B,Budapest HUN,2024-05-16,2024-05-21,2399,2372,4.5,9,0.32,20,6.4,"Palczert, Matyas",f,2332.0,False,HUN,0.5,1,-0.06,20,-1.2
+25639110,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2421,2372,5.5,9,1.7,20,34.0,"Ivan-Gal, Hanna Krisztina",wf,2161.0,False,HUN,1.0,1,0.23,20,4.6
+25639110,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2421,2372,5.5,9,1.7,20,34.0,"Prohaszka, Peter",g,2581.0,False,HUN,0.5,1,0.27,20,5.4
+25639110,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2421,2372,5.5,9,1.7,20,34.0,"Piddubna, Bozhena",wc,2005.0,False,UKR,1.0,1,0.1,20,2.0
+25639110,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2421,2372,5.5,9,1.7,20,34.0,"Visakh, N R",g,2506.0,False,IND,1.0,1,0.68,20,13.6
+25639110,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2421,2372,5.5,9,1.7,20,34.0,"Ivanisevic, Ivan",g,2536.0,False,SRB,0.0,1,-0.28,20,-5.6
+25639110,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2421,2372,5.5,9,1.7,20,34.0,"Csonka, Balazs",m,2479.0,False,HUN,0.5,1,0.15,20,3.0
+25639110,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2421,2372,5.5,9,1.7,20,34.0,"Dragnev, Valentin",g,2566.0,False,AUT,0.5,1,0.25,20,5.0
+25639110,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2421,2372,5.5,9,1.7,20,34.0,"Levin, Guy",m,2472.0,False,ISR,0.5,1,0.14,20,2.8
+25639110,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2421,2372,5.5,9,1.7,20,34.0,"Popovic, Dusan",g,2486.0,False,SRB,0.5,1,0.16,20,3.2
+25639110,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2397,2412,5.0,9,0.32,10,3.2,"Sharma, Isha",wm,2237.0,False,IND,0.5,1,-0.23,10,-2.3
+25639110,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2397,2412,5.0,9,0.32,10,3.2,"Mahalakshmi, M",wm,2205.0,False,IND,0.0,1,-0.77,10,-7.7
+25639110,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2397,2412,5.0,9,0.32,10,3.2,"Kanyamarala, Tarun",m,2337.0,False,IRL,1.0,1,0.4,10,4.0
+25639110,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2397,2412,5.0,9,0.32,10,3.2,"Baradaran Tamadon, Arian",f,2304.0,False,IRI,0.5,1,-0.15,10,-1.5
+25639110,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2397,2412,5.0,9,0.32,10,3.2,"Patil, Priyanshu",,2307.0,False,IND,1.0,1,0.36,10,3.6
+25639110,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2397,2412,5.0,9,0.32,10,3.2,"Pranav, Anand",g,2552.0,False,IND,0.5,1,0.19,10,1.9
+25639110,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2397,2412,5.0,9,0.32,10,3.2,"Srihari, L R",m,2500.0,False,IND,0.5,1,0.12,10,1.2
+25639110,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2397,2412,5.0,9,0.32,10,3.2,"Sychev, Klementy",g,2531.0,False,FID,0.5,1,0.16,10,1.6
+25639110,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2397,2412,5.0,9,0.32,10,3.2,"Albornoz Cabrera, Carlos Daniel",g,2599.0,False,CUB,0.5,1,0.24,10,2.4
+25639110,2024-10-01,0,26th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-08-30,2024-09-05,2283,2412,7.0,9,0.94,10,9.4,"Manik, Mikulas",g,2320.0,False,SVK,1.0,1,0.37,10,3.7
+25639110,2024-10-01,0,26th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-08-30,2024-09-05,2283,2412,7.0,9,0.94,10,9.4,"Daakshin, Arun",f,2290.0,False,IND,1.0,1,0.33,10,3.3
+25639110,2024-10-01,0,26th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-08-30,2024-09-05,2283,2412,7.0,9,0.94,10,9.4,"Harshad, S",f,2275.0,False,IND,0.5,1,-0.18,10,-1.8
+25639110,2024-10-01,0,26th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-08-30,2024-09-05,2283,2412,7.0,9,0.94,10,9.4,"Pawar, Harshit",f,2284.0,False,IND,1.0,1,0.33,10,3.3
+25639110,2024-10-01,0,26th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-08-30,2024-09-05,2283,2412,7.0,9,0.94,10,9.4,"Rohit, S",f,2311.0,False,IND,1.0,1,0.36,10,3.6
+25639110,2024-10-01,0,26th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-08-30,2024-09-05,2283,2412,7.0,9,0.94,10,9.4,"Gochelashvili, David",m,2230.0,False,RUS,0.5,1,-0.24,10,-2.4
+25639110,2024-10-01,0,26th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-08-30,2024-09-05,2283,2412,7.0,9,0.94,10,9.4,"Annageldyev, Orazly",g,2271.0,False,TKM,1.0,1,0.31,10,3.1
+25639110,2024-10-01,0,26th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-08-30,2024-09-05,2283,2412,7.0,9,0.94,10,9.4,"Vahidov, Tair",g,2345.0,False,UZB,0.5,1,-0.09,10,-0.9
+25639110,2024-10-01,0,26th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-08-30,2024-09-05,2283,2412,7.0,9,0.94,10,9.4,"Lokesh, N.",,2222.0,False,IND,0.5,1,-0.25,10,-2.5
+25639110,2024-11-01,0,SixDays Budapest September 2024 GM B,Budapest HUN,2024-09-24,2024-09-29,2390,2415,5.0,9,0.22,10,2.2,"Kotronias, Vasilios",g,2458.0,False,GRE,0.0,1,-0.44,10,-4.4
+25639110,2024-11-01,0,SixDays Budapest September 2024 GM B,Budapest HUN,2024-09-24,2024-09-29,2390,2415,5.0,9,0.22,10,2.2,"Yaniv, Yuval",f,2365.0,False,ISR,1.0,1,0.43,10,4.3
+25639110,2024-11-01,0,SixDays Budapest September 2024 GM B,Budapest HUN,2024-09-24,2024-09-29,2390,2415,5.0,9,0.22,10,2.2,"Nemeth, Zalan",f,2211.0,False,IRL,0.5,1,-0.26,10,-2.6
+25639110,2024-11-01,0,SixDays Budapest September 2024 GM B,Budapest HUN,2024-09-24,2024-09-29,2390,2415,5.0,9,0.22,10,2.2,"Wu, Yixing",,2324.0,False,CHN,1.0,1,0.38,10,3.8
+25639110,2024-11-01,0,SixDays Budapest September 2024 GM B,Budapest HUN,2024-09-24,2024-09-29,2390,2415,5.0,9,0.22,10,2.2,"Kovalev, Andrei",g,2412.0,False,BLR,0.0,1,-0.5,10,-5.0
+25639110,2024-11-01,0,SixDays Budapest September 2024 GM B,Budapest HUN,2024-09-24,2024-09-29,2390,2415,5.0,9,0.22,10,2.2,"Srihari, L R",m,2503.0,False,IND,0.5,1,0.12,10,1.2
+25639110,2024-11-01,0,SixDays Budapest September 2024 GM B,Budapest HUN,2024-09-24,2024-09-29,2390,2415,5.0,9,0.22,10,2.2,"Manon, Reja Neer",f,2417.0,False,BAN,1.0,1,0.5,10,5.0
+25639110,2024-11-01,0,SixDays Budapest September 2024 GM B,Budapest HUN,2024-09-24,2024-09-29,2390,2415,5.0,9,0.22,10,2.2,"Colbow, Collin",f,2441.0,False,GER,0.5,1,0.04,10,0.4
+25639110,2024-11-01,0,SixDays Budapest September 2024 GM B,Budapest HUN,2024-09-24,2024-09-29,2390,2415,5.0,9,0.22,10,2.2,"Horvath, Adam",g,2382.0,False,HUN,0.5,1,-0.05,10,-0.5
+25639110,2024-11-01,0,SixDays Budapest Two Years 2024 GM C,Budapest HUN,2024-09-30,2024-10-05,2390,2415,4.0,9,-0.8,10,-8.0,"Susilodinata, Andrean",f,2393.0,False,INA,0.0,1,-0.53,10,-5.3
+25639110,2024-11-01,0,SixDays Budapest Two Years 2024 GM C,Budapest HUN,2024-09-30,2024-10-05,2390,2415,4.0,9,-0.8,10,-8.0,"Laddha, Shubh Jayesh",f,2308.0,False,USA,0.5,1,-0.15,10,-1.5
+25639110,2024-11-01,0,SixDays Budapest Two Years 2024 GM C,Budapest HUN,2024-09-30,2024-10-05,2390,2415,4.0,9,-0.8,10,-8.0,"Srihari, L R",m,2503.0,False,IND,0.5,1,0.12,10,1.2
+25639110,2024-11-01,0,SixDays Budapest Two Years 2024 GM C,Budapest HUN,2024-09-30,2024-10-05,2390,2415,4.0,9,-0.8,10,-8.0,"Pap, Gyula",g,2476.0,False,HUN,0.5,1,0.08,10,0.8
+25639110,2024-11-01,0,SixDays Budapest Two Years 2024 GM C,Budapest HUN,2024-09-30,2024-10-05,2390,2415,4.0,9,-0.8,10,-8.0,"Mohammad Fahad, Rahman",m,2419.0,False,BAN,0.5,1,0.01,10,0.1
+25639110,2024-11-01,0,SixDays Budapest Two Years 2024 GM C,Budapest HUN,2024-09-30,2024-10-05,2390,2415,4.0,9,-0.8,10,-8.0,"Pacher, Milan",g,2343.0,False,SVK,0.5,1,-0.1,10,-1.0
+25639110,2024-11-01,0,SixDays Budapest Two Years 2024 GM C,Budapest HUN,2024-09-30,2024-10-05,2390,2415,4.0,9,-0.8,10,-8.0,"Kotronias, Vasilios",g,2458.0,False,GRE,0.5,1,0.06,10,0.6
+25639110,2024-11-01,0,SixDays Budapest Two Years 2024 GM C,Budapest HUN,2024-09-30,2024-10-05,2390,2415,4.0,9,-0.8,10,-8.0,"Chen, Yining",f wc,2252.0,False,CHN,0.5,1,-0.22,10,-2.2
+25639110,2024-11-01,0,SixDays Budapest Two Years 2024 GM C,Budapest HUN,2024-09-30,2024-10-05,2390,2415,4.0,9,-0.8,10,-8.0,"Mamatov, Melis",f,2362.0,False,KGZ,0.5,1,-0.07,10,-0.7

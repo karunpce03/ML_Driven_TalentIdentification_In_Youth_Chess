@@ -1,0 +1,45 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531059740,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,,,1.0,5,0.0,1290,,"Apurv, Shekhar Desmukh",,1643.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,,,1.0,5,0.0,1290,,"Raghav, Renuk Pawade",,1522.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,,,1.0,5,0.0,1290,,"Goranksh, Khandelwal",,1525.0,False,IND,1.0,1,0.0,,0.0
+531059740,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,,,1.0,5,0.0,1290,,"Yadnya, Bharambe",,1485.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,,,1.0,5,0.0,1290,,"Dev, Dharshan S",,1473.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1514.0,1449.0,0.0,5,-2.06,40,-82.4,"Rashmika, Maringanti",,1632.0,False,IND,0.0,1,-0.26,40.0,-10.4
+531059740,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1514.0,1449.0,0.0,5,-2.06,40,-82.4,"Divya, Bengani",,1486.0,False,IND,0.0,1,-0.45,40.0,-18.0
+531059740,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1514.0,1449.0,0.0,5,-2.06,40,-82.4,"Uppala, Prashanth",,1468.0,False,IND,0.0,1,-0.47,40.0,-18.8
+531059740,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1514.0,1449.0,0.0,5,-2.06,40,-82.4,"Sridar, D V",,1464.0,False,IND,0.0,1,-0.48,40.0,-19.2
+531059740,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1514.0,1449.0,0.0,5,-2.06,40,-82.4,"Vihaan, Datta Katakam",,1520.0,False,IND,0.0,1,-0.4,40.0,-16.0
+531059740,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,0.5,6,0.0,1093,,"Deepanjali, Srivastava",,1527.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,0.5,6,0.0,1093,,"Akshaya, Narahari",,1470.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,0.5,6,0.0,1093,,"Aarshiya, Sahu",,1456.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,0.5,6,0.0,1093,,"Divakaran, Sinddhizhai",,1505.0,False,IND,0.5,1,0.0,,0.0
+531059740,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,0.5,6,0.0,1093,,"Khushika, Mittal",,1473.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,0.5,6,0.0,1093,,"Sayyadh, Raudah",,1535.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,,,1.0,7,0.0,1255,,"Venkata, Naga Karthik Malladi",,1662.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,,,1.0,7,0.0,1255,,"Shourya, Gupta",,1531.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,,,1.0,7,0.0,1255,,"Uday, Akula",,1571.0,False,IND,1.0,1,0.0,,0.0
+531059740,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,,,1.0,7,0.0,1255,,"Ushnish, Pan",,1534.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,,,1.0,7,0.0,1255,,"Murali, Mohan Y",,1501.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,,,1.0,7,0.0,1255,,"Aligi, Amrutha Hemal",,1504.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,,,1.0,7,0.0,1255,,"Anish, P More",,1646.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,,,2.0,8,0.0,1277,,"Vidhu, Thota",,1531.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,,,2.0,8,0.0,1277,,"Upendra, Manjeswara",,1497.0,False,IND,0.5,1,0.0,,0.0
+531059740,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,,,2.0,8,0.0,1277,,"Prajwal, Gattupalli",,1464.0,False,IND,0.5,1,0.0,,0.0
+531059740,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,,,2.0,8,0.0,1277,,"Dia, Parthasarathy",,1478.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,,,2.0,8,0.0,1277,,"Tarun, Sai Thota",,1407.0,False,IND,1.0,1,0.0,,0.0
+531059740,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,,,2.0,8,0.0,1277,,"Prerak, Potnuru",,1470.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,,,2.0,8,0.0,1277,,"P, S V Yashwanth Raj Kumar",,1461.0,False,IND,0.0,1,0.0,,0.0
+531059740,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,,,2.0,8,0.0,1277,,"Badavath, Thrilochan",,1453.0,False,IND,0.0,1,0.0,,0.0
+531059740,2025-02-01,0,Bharatiya Naveena Kreeda Utsav 2nd International Below 1800 FIDE Rating Chess Festival-2024,Andhra Pradesh IND,2025-01-10,2025-01-12,,,1.0,6,0.0,1219,,"Saichetan, A L V",,1554.0,False,IND,0.0,1,0.0,,0.0
+531059740,2025-02-01,0,Bharatiya Naveena Kreeda Utsav 2nd International Below 1800 FIDE Rating Chess Festival-2024,Andhra Pradesh IND,2025-01-10,2025-01-12,,,1.0,6,0.0,1219,,"Jwalamukhi, K.v.",,1470.0,False,IND,0.0,1,0.0,,0.0
+531059740,2025-02-01,0,Bharatiya Naveena Kreeda Utsav 2nd International Below 1800 FIDE Rating Chess Festival-2024,Andhra Pradesh IND,2025-01-10,2025-01-12,,,1.0,6,0.0,1219,,"Pandiri, Ramu Reddy",,1468.0,False,IND,1.0,1,0.0,,0.0
+531059740,2025-02-01,0,Bharatiya Naveena Kreeda Utsav 2nd International Below 1800 FIDE Rating Chess Festival-2024,Andhra Pradesh IND,2025-01-10,2025-01-12,,,1.0,6,0.0,1219,,"Sujith, Varma B",,1508.0,False,IND,0.0,1,0.0,,0.0
+531059740,2025-02-01,0,Bharatiya Naveena Kreeda Utsav 2nd International Below 1800 FIDE Rating Chess Festival-2024,Andhra Pradesh IND,2025-01-10,2025-01-12,,,1.0,6,0.0,1219,,"Kesava, Bhuvanagiri",,1489.0,False,IND,0.0,1,0.0,,0.0
+531059740,2025-02-01,0,Bharatiya Naveena Kreeda Utsav 2nd International Below 1800 FIDE Rating Chess Festival-2024,Andhra Pradesh IND,2025-01-10,2025-01-12,,,1.0,6,0.0,1219,,"Ankit, Kumar",,1461.0,False,IND,0.0,1,0.0,,0.0
+531059740,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,3.0,7,0.0,1494,,"Anvita, Sathi",,1603.0,False,IND,0.0,1,0.0,,0.0
+531059740,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,3.0,7,0.0,1494,,"Sai, Susheela Reddycherla",,1516.0,False,IND,0.5,1,0.0,,0.0
+531059740,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,3.0,7,0.0,1494,,"Samriddhi, Bishnoi",,1469.0,False,IND,1.0,1,0.0,,0.0
+531059740,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,3.0,7,0.0,1494,,"Rituparna, V",,1513.0,False,IND,1.0,1,0.0,,0.0
+531059740,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,3.0,7,0.0,1494,,"Siddhi, Rao",,1765.0,False,IND,0.0,1,0.0,,0.0
+531059740,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,3.0,7,0.0,1494,,"Sai, Saranya Kolluri",,1460.0,False,IND,0.0,1,0.0,,0.0
+531059740,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,3.0,7,0.0,1494,,"Subhasmita, Priyadarshini",,1479.0,False,IND,0.5,1,0.0,,0.0

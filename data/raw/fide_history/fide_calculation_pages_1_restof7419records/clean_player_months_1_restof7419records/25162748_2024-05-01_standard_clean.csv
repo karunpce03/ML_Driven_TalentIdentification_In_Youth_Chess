@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25162748,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,2044,1886,5.5,9,2.65,38,100.7,"Badmatsyrenov, Oleg",m,2286,True,FID,0.5,1,0.42,38,15.96
+25162748,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,2044,1886,5.5,9,2.65,38,100.7,"Rahman, Md. Taibur",f,2166,False,BAN,0.5,1,0.34,38,12.92
+25162748,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,2044,1886,5.5,9,2.65,38,100.7,"Pinphetsawan, Sirikwan",,1650,False,THA,1.0,1,0.2,38,7.6
+25162748,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,2044,1886,5.5,9,2.65,38,100.7,"Majumder, Shrayan",,2072,False,IND,1.0,1,0.74,38,28.12
+25162748,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,2044,1886,5.5,9,2.65,38,100.7,"Apaar, Saxena",c,2169,False,IND,0.0,1,-0.16,38,-6.08
+25162748,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,2044,1886,5.5,9,2.65,38,100.7,"Nayem, Haque",f,2114,False,BAN,0.0,1,-0.21,38,-7.98
+25162748,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,2044,1886,5.5,9,2.65,38,100.7,"Hong, Ian",,1862,False,KOR,1.0,1,0.47,38,17.86
+25162748,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,2044,1886,5.5,9,2.65,38,100.7,"McCready, Mark",,1870,False,ENG,1.0,1,0.48,38,18.24
+25162748,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,2044,1886,5.5,9,2.65,38,100.7,"Abu Sufian, Shakil",m,2206,False,BAN,0.5,1,0.37,38,14.06
+25162748,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1949,1886,3.5,9,-0.41,38,-15.58,"Ayush, Sharma",f,2286,True,IND,0.0,1,-0.08,38,-3.04
+25162748,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1949,1886,3.5,9,-0.41,38,-15.58,"Vedant, Yogesh Kale",,1635,False,IND,1.0,1,0.19,38,7.22
+25162748,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1949,1886,3.5,9,-0.41,38,-15.58,"Teo, Hong Ming",,2128,False,SGP,0.0,1,-0.2,38,-7.6
+25162748,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1949,1886,3.5,9,-0.41,38,-15.58,"Yohan, Yadav Tarala",,1746,False,IND,1.0,1,0.31,38,11.78
+25162748,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1949,1886,3.5,9,-0.41,38,-15.58,"Sidabutar, Uriel Noah Oloan",,2090,False,INA,0.5,1,0.26,38,9.88
+25162748,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1949,1886,3.5,9,-0.41,38,-15.58,"Kumar, Gaurav",f,2082,False,IND,0.0,1,-0.25,38,-9.5
+25162748,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1949,1886,3.5,9,-0.41,38,-15.58,"Than, Min Hlaing",,2168,False,MYA,0.0,1,-0.16,38,-6.08
+25162748,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1949,1886,3.5,9,-0.41,38,-15.58,"Dhanesh, Venkata Narayanaswamy",,1698,False,SGP,1.0,1,0.26,38,9.88
+25162748,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1949,1886,3.5,9,-0.41,38,-15.58,"Mathan, Priyaen",,1706,False,MAS,0.0,1,-0.74,38,-28.12

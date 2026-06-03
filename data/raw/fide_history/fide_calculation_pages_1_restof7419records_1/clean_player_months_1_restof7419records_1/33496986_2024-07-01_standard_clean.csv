@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33496986,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1623,1487,2.5,5,0.88,40,35.2,"Abhilash, M",,1726.0,False,IND,0.0,1,-0.2,40,-8.0
+33496986,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1623,1487,2.5,5,0.88,40,35.2,"Senthil, Kumaran T.h.",,1666.0,False,IND,0.0,1,-0.27,40,-10.8
+33496986,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1623,1487,2.5,5,0.88,40,35.2,"Devjith, R",,1490.0,False,IND,1.0,1,0.5,40,20.0
+33496986,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1623,1487,2.5,5,0.88,40,35.2,"Udupi, Avani Acharya",,1612.0,False,IND,0.5,1,0.17,40,6.8
+33496986,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1623,1487,2.5,5,0.88,40,35.2,"Sachiel, Parthiban",,1622.0,False,IND,1.0,1,0.68,40,27.2

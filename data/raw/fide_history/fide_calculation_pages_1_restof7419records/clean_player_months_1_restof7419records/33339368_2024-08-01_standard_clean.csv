@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33339368,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1707,1597,3.0,7,0.39,40,15.6,"Arnav, Agrawal",,1933.0,False,IND,0.0,1,-0.12,40,-4.8
+33339368,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1707,1597,3.0,7,0.39,40,15.6,"Shresth, Srivastava",,1453.0,False,IND,1.0,1,0.31,40,12.4
+33339368,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1707,1597,3.0,7,0.39,40,15.6,"Aarav, Gupta",,1515.0,False,IND,1.0,1,0.39,40,15.6
+33339368,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1707,1597,3.0,7,0.39,40,15.6,"Md, Hasnain Siddiqui",,1720.0,False,IND,0.0,1,-0.33,40,-13.2
+33339368,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1707,1597,3.0,7,0.39,40,15.6,"Singhal, Keshav",,1651.0,False,IND,1.0,1,0.58,40,23.2
+33339368,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1707,1597,3.0,7,0.39,40,15.6,"Shreyash, Singh",,1941.0,False,IND,0.0,1,-0.12,40,-4.8
+33339368,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1707,1597,3.0,7,0.39,40,15.6,"Maaz, Iqubal",,1734.0,False,IND,0.0,1,-0.32,40,-12.8
+33339368,2024-08-01,0,UP State U-15 Chess Championship-2024-25 (Open),Ballia IND,2024-07-10,2024-07-12,1690,1597,2.0,3,0.8,40,32.0,"Arnav, Agrawal",,1933.0,False,IND,0.0,1,-0.12,40,-4.8
+33339368,2024-08-01,0,UP State U-15 Chess Championship-2024-25 (Open),Ballia IND,2024-07-10,2024-07-12,1690,1597,2.0,3,0.8,40,32.0,"Aarav, Gupta",,1515.0,False,IND,1.0,1,0.39,40,15.6
+33339368,2024-08-01,0,UP State U-15 Chess Championship-2024-25 (Open),Ballia IND,2024-07-10,2024-07-12,1690,1597,2.0,3,0.8,40,32.0,"Shreyas, Mishra",,1621.0,False,IND,1.0,1,0.53,40,21.2

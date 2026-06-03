@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88142655,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1560,1405,0.0,4,-1.19,40,-47.6,"Medhvansh, Madeti",,1684.0,False,IND,0.0,1,-0.16,40,-6.4
+88142655,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1560,1405,0.0,4,-1.19,40,-47.6,"Shreya, Rajesh",,1576.0,False,IND,0.0,1,-0.27,40,-10.8
+88142655,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1560,1405,0.0,4,-1.19,40,-47.6,"Pavan, Sangathala",,1506.0,False,IND,0.0,1,-0.36,40,-14.4
+88142655,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1560,1405,0.0,4,-1.19,40,-47.6,"Gadde, Kaarthika",,1475.0,False,IND,0.0,1,-0.4,40,-16.0

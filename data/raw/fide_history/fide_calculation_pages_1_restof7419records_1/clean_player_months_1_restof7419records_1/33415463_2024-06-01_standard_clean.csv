@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33415463,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1663,1471,0.0,3,-0.76,40,-30.4,"Soni, Deepak R",,1675.0,False,IND,0.0,1,-0.24,40,-9.6
+33415463,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1663,1471,0.0,3,-0.76,40,-30.4,"Chavan, Aditya",,1717.0,False,IND,0.0,1,-0.19,40,-7.6
+33415463,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1663,1471,0.0,3,-0.76,40,-30.4,"Vivek, Ashok Jadhav",,1598.0,False,IND,0.0,1,-0.33,40,-13.2

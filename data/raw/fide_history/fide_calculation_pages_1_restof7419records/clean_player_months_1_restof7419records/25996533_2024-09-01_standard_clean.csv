@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25996533,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2356,2350,4.0,9,-0.42,20,-8.4,"Siddharth, Jagadeesh",g,2516.0,False,SGP,0.0,1,-0.28,20,-5.6
+25996533,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2356,2350,4.0,9,-0.42,20,-8.4,"Kanyamarala, Trisha",wm,2165.0,False,IRL,1.0,1,0.26,20,5.2
+25996533,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2356,2350,4.0,9,-0.42,20,-8.4,"Xiao, Tong(qd)",g,2506.0,False,CHN,0.0,1,-0.29,20,-5.8
+25996533,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2356,2350,4.0,9,-0.42,20,-8.4,"Salinas Herrera, Pablo",g,2487.0,False,CHI,0.5,1,0.18,20,3.6
+25996533,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2356,2350,4.0,9,-0.42,20,-8.4,"Al Hosani, Omran",m,2216.0,False,UAE,1.0,1,0.32,20,6.4
+25996533,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2356,2350,4.0,9,-0.42,20,-8.4,"Nitish, Belurkar",m,2432.0,False,IND,0.0,1,-0.39,20,-7.8
+25996533,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2356,2350,4.0,9,-0.42,20,-8.4,"Mahalakshmi, M",wm,2205.0,False,IND,1.0,1,0.31,20,6.2
+25996533,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2356,2350,4.0,9,-0.42,20,-8.4,"Mammadov, Zaur",g,2424.0,False,AZE,0.0,1,-0.4,20,-8.0
+25996533,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2356,2350,4.0,9,-0.42,20,-8.4,"Karavade, Eesha",m wg,2256.0,False,IND,0.5,1,-0.13,20,-2.6

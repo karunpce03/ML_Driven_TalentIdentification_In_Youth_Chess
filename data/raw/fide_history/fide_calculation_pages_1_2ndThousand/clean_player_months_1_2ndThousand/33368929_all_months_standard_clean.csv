@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33368929,2024-05-01,0,His Excellency Filed Marshal Sheikh Khalifa Bin Ahmed Al Khalifa 1st Ramadan Chess Tournament,Riffa BRN,2024-03-18,2024-04-04,1811,1509,1.0,4,0.36,40,14.4,"Bukhalaf, Khalaf",,1819.0,False,BRN,0.0,1,-0.14,40,-5.6
+33368929,2024-05-01,0,His Excellency Filed Marshal Sheikh Khalifa Bin Ahmed Al Khalifa 1st Ramadan Chess Tournament,Riffa BRN,2024-03-18,2024-04-04,1811,1509,1.0,4,0.36,40,14.4,"Al-Ghasra, Ali",c,1909.0,True,BRN,0.0,1,-0.08,40,-3.2
+33368929,2024-05-01,0,His Excellency Filed Marshal Sheikh Khalifa Bin Ahmed Al Khalifa 1st Ramadan Chess Tournament,Riffa BRN,2024-03-18,2024-04-04,1811,1509,1.0,4,0.36,40,14.4,"Ayoob, Asad",,1644.0,False,BRN,1.0,1,0.68,40,27.2
+33368929,2024-05-01,0,His Excellency Filed Marshal Sheikh Khalifa Bin Ahmed Al Khalifa 1st Ramadan Chess Tournament,Riffa BRN,2024-03-18,2024-04-04,1811,1509,1.0,4,0.36,40,14.4,"Al Dosari, Naif",,1871.0,False,KSA,0.0,1,-0.1,40,-4.0
+33368929,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1550,1523,2.0,5,-0.33,40,-13.2,"Nyrav, Gopalakrishnan",,1513.0,False,IND,1.0,1,0.49,40,19.6
+33368929,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1550,1523,2.0,5,-0.33,40,-13.2,"Mikael, Vivek Joseph",,1450.0,False,IND,1.0,1,0.4,40,16.0
+33368929,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1550,1523,2.0,5,-0.33,40,-13.2,"Taher, Mohamed",,1743.0,False,BRN,0.0,1,-0.22,40,-8.8
+33368929,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1550,1523,2.0,5,-0.33,40,-13.2,"Gabriel, Vivek Joseph",,1552.0,False,IND,0.0,1,-0.46,40,-18.4
+33368929,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1550,1523,2.0,5,-0.33,40,-13.2,"Aaryan, Anil Jai Prabhakaran",,1492.0,False,IND,0.0,1,-0.54,40,-21.6
+33368929,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1722,1510,1.0,4,0.08,40,3.2,"Avhad, Prajwal",,1792.0,False,IND,0.0,1,-0.16,40,-6.4
+33368929,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1722,1510,1.0,4,0.08,40,3.2,"Al Balushi, Said",,1709.0,False,OMA,0.0,1,-0.24,40,-9.6
+33368929,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1722,1510,1.0,4,0.08,40,3.2,"Bayat, Amir",,1670.0,False,IRI,1.0,1,0.71,40,28.4
+33368929,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1722,1510,1.0,4,0.08,40,3.2,"Felix, Winnie",,1717.0,False,PHI,0.0,1,-0.23,40,-9.2
+33368929,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1763,1510,1.0,3,0.4,40,16.0,"Abhinav, Benny",,1805.0,False,IND,0.0,1,-0.15,40,-6.0
+33368929,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1763,1510,1.0,3,0.4,40,16.0,"Chekanov, Timur",,1859.0,False,FID,0.0,1,-0.11,40,-4.4
+33368929,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1763,1510,1.0,3,0.4,40,16.0,"Mhanna, Jean",,1626.0,False,LBN,1.0,1,0.66,40,26.4
+33368929,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1636,1529,0.0,2,-0.76,40,-30.4,"Dave, Kantilal",,1833.0,False,IND,0.0,1,-0.14,40,-5.6
+33368929,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1636,1529,0.0,2,-0.76,40,-30.4,"Vaibhav, Kumar Jha",,1439.0,False,IND,0.0,1,-0.62,40,-24.8

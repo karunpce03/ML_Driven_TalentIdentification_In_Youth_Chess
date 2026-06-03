@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48747343,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1695,1484,1.0,4,0.03,40,1.2,"Sree, Rama Anjani Kumar K",,1693.0,False,IND,0.0,1,-0.23,40,-9.2
+48747343,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1695,1484,1.0,4,0.03,40,1.2,"Rashmika, Maringanti",,1632.0,False,IND,0.0,1,-0.3,40,-12.0
+48747343,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1695,1484,1.0,4,0.03,40,1.2,"Baba, S.d.",,1853.0,False,IND,1.0,1,0.9,40,36.0
+48747343,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1695,1484,1.0,4,0.03,40,1.2,"Vittanala, Shanmuk Saish",,1602.0,False,IND,0.0,1,-0.34,40,-13.6

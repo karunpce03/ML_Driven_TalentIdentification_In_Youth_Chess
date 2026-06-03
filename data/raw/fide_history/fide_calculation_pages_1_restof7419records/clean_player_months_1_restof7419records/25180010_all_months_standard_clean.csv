@@ -1,0 +1,24 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25180010,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1566,1450,0.5,4,-0.88,40,-35.2,"Aravinda, B R",,1615.0,False,IND,0.0,1,-0.28,40,-11.2
+25180010,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1566,1450,0.5,4,-0.88,40,-35.2,"Athulkrishna, P",,1526.0,False,IND,0.0,1,-0.4,40,-16.0
+25180010,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1566,1450,0.5,4,-0.88,40,-35.2,"Ameya, A R",,1594.0,False,IND,0.0,1,-0.31,40,-12.4
+25180010,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1566,1450,0.5,4,-0.88,40,-35.2,"Sharath, T S",,1527.0,False,IND,0.5,1,0.11,40,4.4
+25180010,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1628,1450,2.0,6,0.28,40,11.2,"Nafila, A",,1639.0,False,IND,0.0,1,-0.25,40,-10.0
+25180010,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1628,1450,2.0,6,0.28,40,11.2,"Sai, Tanishka T",,1583.0,False,IND,0.5,1,0.18,40,7.2
+25180010,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1628,1450,2.0,6,0.28,40,11.2,"Rajasurya, J.",wf,1706.0,False,IND,0.0,1,-0.19,40,-7.6
+25180010,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1628,1450,2.0,6,0.28,40,11.2,"Haritha, R",,1473.0,False,IND,0.5,1,0.03,40,1.2
+25180010,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1628,1450,2.0,6,0.28,40,11.2,"Jayashree, P.k.",,1846.0,False,IND,0.5,1,0.42,40,16.8
+25180010,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1628,1450,2.0,6,0.28,40,11.2,"Sasmitha, Sree B S",,1518.0,False,IND,0.5,1,0.09,40,3.6
+25180010,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1626,1426,1.0,3,0.24,40,9.6,"Aswinika, Mani R",,1758.0,False,IND,0.0,1,-0.12,40,-4.8
+25180010,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1626,1426,1.0,3,0.24,40,9.6,"Pavithra, N",,1570.0,False,IND,0.5,1,0.19,40,7.6
+25180010,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1626,1426,1.0,3,0.24,40,9.6,"Yagave, Y V",,1550.0,False,IND,0.5,1,0.17,40,6.8
+25180010,2024-06-01,0,Tamil Nadu State Under-25 Girls Chess Championships 2024,Panruti IND,2024-05-22,2024-05-26,1638,1426,1.0,4,-0.01,40,-0.4,"Rosewe, M",,1506.0,False,IND,0.0,1,-0.39,40,-15.6
+25180010,2024-06-01,0,Tamil Nadu State Under-25 Girls Chess Championships 2024,Panruti IND,2024-05-22,2024-05-26,1638,1426,1.0,4,-0.01,40,-0.4,"Sahana, Shainsha",,1791.0,False,IND,0.0,1,-0.1,40,-4.0
+25180010,2024-06-01,0,Tamil Nadu State Under-25 Girls Chess Championships 2024,Panruti IND,2024-05-22,2024-05-26,1638,1426,1.0,4,-0.01,40,-0.4,"Theephigaa, K P",,1748.0,False,IND,0.5,1,0.37,40,14.8
+25180010,2024-06-01,0,Tamil Nadu State Under-25 Girls Chess Championships 2024,Panruti IND,2024-05-22,2024-05-26,1638,1426,1.0,4,-0.01,40,-0.4,"Sarumathi, S",,1505.0,False,IND,0.5,1,0.11,40,4.4
+25180010,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1564,1435,1.5,6,-0.49,40,-19.6,"Shreya, Rajesh",,1742.0,False,IND,0.0,1,-0.14,40,-5.6
+25180010,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1564,1435,1.5,6,-0.49,40,-19.6,"Hiya, Garg",,1505.0,False,IND,0.0,1,-0.4,40,-16.0
+25180010,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1564,1435,1.5,6,-0.49,40,-19.6,"Waghle, Bhumika",,1550.0,False,IND,0.0,1,-0.34,40,-13.6
+25180010,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1564,1435,1.5,6,-0.49,40,-19.6,"Deepanjali, Srivastava",,1519.0,False,IND,0.5,1,0.12,40,4.8
+25180010,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1564,1435,1.5,6,-0.49,40,-19.6,"Thanshika, G",,1543.0,False,IND,0.5,1,0.15,40,6.0
+25180010,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1564,1435,1.5,6,-0.49,40,-19.6,"Dheeptha, B",,1522.0,False,IND,0.5,1,0.12,40,4.8

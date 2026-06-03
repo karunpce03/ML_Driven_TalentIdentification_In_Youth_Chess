@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429070562,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,,,0.0,3,0.0,645,,"Dhairya, Sharma",,1521,False,IND,0.0,1,0.0,,0.0
+429070562,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,,,0.0,3,0.0,645,,"Navya, Sinha",,1409,False,IND,0.0,1,0.0,,0.0
+429070562,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,,,0.0,3,0.0,645,,"Sunkari, Rammurthy",,1405,False,IND,0.0,1,0.0,,0.0

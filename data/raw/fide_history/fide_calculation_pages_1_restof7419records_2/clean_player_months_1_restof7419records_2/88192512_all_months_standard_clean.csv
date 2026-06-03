@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88192512,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,2.5,6,0.0,1425,,"Annepu, Sashank",,1513.0,False,IND,1.0,1,0.0,,0.0
+88192512,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,2.5,6,0.0,1425,,"Evan, Antonio Telles",,1431.0,False,IND,0.0,1,0.0,,0.0
+88192512,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,2.5,6,0.0,1425,,"Neithal, D Ansera",,1475.0,False,IND,0.0,1,0.0,,0.0
+88192512,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,2.5,6,0.0,1425,,"Aarav, Ravi Jhavar",,1489.0,False,IND,0.5,1,0.0,,0.0
+88192512,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,2.5,6,0.0,1425,,"Arjun, Sharma",,1439.0,False,IND,1.0,1,0.0,,0.0
+88192512,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,2.5,6,0.0,1425,,"Devansh, Darpan Patel",,1543.0,False,IND,0.0,1,0.0,,0.0
+88192512,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1533.0,1518.0,0.0,2,-0.96,40,-38.4,"Yajat, Vyas",,1625.0,False,IND,0.0,1,-0.35,40.0,-14.0
+88192512,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1533.0,1518.0,0.0,2,-0.96,40,-38.4,"Ishaan, Satvat",,1440.0,False,IND,0.0,1,-0.61,40.0,-24.4

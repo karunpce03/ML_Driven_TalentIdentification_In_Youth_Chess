@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25114514,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1623,1472,2.0,4,0.79,40,31.6,"Pal, Vedika",,1689.0,False,IND,0.0,1,-0.22,40,-8.8
+25114514,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1623,1472,2.0,4,0.79,40,31.6,"Vibhor, Chopra",,1605.0,False,IND,0.0,1,-0.32,40,-12.8
+25114514,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1623,1472,2.0,4,0.79,40,31.6,"Rahul, Vaghela",,1642.0,False,IND,1.0,1,0.72,40,28.8
+25114514,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1623,1472,2.0,4,0.79,40,31.6,"Aditya, Vaswani",,1555.0,False,IND,1.0,1,0.61,40,24.4

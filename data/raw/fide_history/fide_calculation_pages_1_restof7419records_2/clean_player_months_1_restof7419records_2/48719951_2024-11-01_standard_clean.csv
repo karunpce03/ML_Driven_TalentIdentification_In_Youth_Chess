@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48719951,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1661,1419,3.5,8,1.82,40,72.8,"Niranjan, Mocharla",,1778,False,IND,1.0,1,0.9,40,36.0
+48719951,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1661,1419,3.5,8,1.82,40,72.8,"Sreetej, B",,1725,False,IND,1.0,1,0.86,40,34.4
+48719951,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1661,1419,3.5,8,1.82,40,72.8,"Sri, Charan Sandipagu",,1819,True,IND,0.0,1,-0.08,40,-3.2
+48719951,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1661,1419,3.5,8,1.82,40,72.8,"Venkata, Naga Karthik Malladi",,1662,False,IND,0.0,1,-0.2,40,-8.0
+48719951,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1661,1419,3.5,8,1.82,40,72.8,"Anvit, Srivastava",,1541,False,IND,0.0,1,-0.33,40,-13.2
+48719951,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1661,1419,3.5,8,1.82,40,72.8,"Vedant, A Agarwal",,1608,False,IND,0.0,1,-0.25,40,-10.0
+48719951,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1661,1419,3.5,8,1.82,40,72.8,"Kumar, A.",,1619,False,IND,1.0,1,0.76,40,30.4
+48719951,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1661,1419,3.5,8,1.82,40,72.8,"Abhinav, Ram Bommakanti",,1533,False,IND,0.5,1,0.16,40,6.4

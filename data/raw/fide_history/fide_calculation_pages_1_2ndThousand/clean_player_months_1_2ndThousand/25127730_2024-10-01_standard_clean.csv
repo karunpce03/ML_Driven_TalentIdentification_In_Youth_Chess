@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25127730,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1709,1954,6.0,6,1.34,40,53.6,"Alghanim, Faisal",,1637,False,KUW,1.0,1,0.13,40,5.2
+25127730,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1709,1954,6.0,6,1.34,40,53.6,"Bhavanya, Panchumarthi",,1554,True,IND,1.0,1,0.08,40,3.2
+25127730,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1709,1954,6.0,6,1.34,40,53.6,"Saksham, Upadhyay",,1885,False,IND,1.0,1,0.4,40,16.0
+25127730,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1709,1954,6.0,6,1.34,40,53.6,"Nishaanth, Vidyasagar",,1631,False,IND,1.0,1,0.13,40,5.2
+25127730,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1709,1954,6.0,6,1.34,40,53.6,"Youssef Ahmed, Youssef",,1946,False,EGY,1.0,1,0.49,40,19.6
+25127730,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1709,1954,6.0,6,1.34,40,53.6,"Taksh, Agrawal",,1599,False,IND,1.0,1,0.11,40,4.4

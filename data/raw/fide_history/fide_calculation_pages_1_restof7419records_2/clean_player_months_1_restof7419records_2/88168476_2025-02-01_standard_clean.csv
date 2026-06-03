@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88168476,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1689,1470,2.0,7,0.29,40,11.6,"Medhat, Magdy",,1870,True,EGY,0.0,1,-0.08,40,-3.2
+88168476,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1689,1470,2.0,7,0.29,40,11.6,"Al Mamari, Imran",,1676,False,OMA,0.0,1,-0.24,40,-9.6
+88168476,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1689,1470,2.0,7,0.29,40,11.6,"Ahmed, Ali",,1870,True,SUD,0.0,1,-0.08,40,-3.2
+88168476,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1689,1470,2.0,7,0.29,40,11.6,"Anush, Bansal",,1557,False,IND,1.0,1,0.62,40,24.8
+88168476,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1689,1470,2.0,7,0.29,40,11.6,"Baharlouei, Rasta",,1639,False,IRI,0.0,1,-0.28,40,-11.2
+88168476,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1689,1470,2.0,7,0.29,40,11.6,"Aditya, Shrivallabha Redij",,1666,False,IND,1.0,1,0.75,40,30.0
+88168476,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1689,1470,2.0,7,0.29,40,11.6,"Al Yousufi, Dawood",,1544,False,OMA,0.0,1,-0.4,40,-16.0
+88168476,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1656,1468,0.0,4,-1.13,40,-45.2,"Muleta, Jordan",,1868,True,FID,0.0,1,-0.08,40,-3.2
+88168476,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1656,1468,0.0,4,-1.13,40,-45.2,"Golizadeh, Asena",,1570,False,IRI,0.0,1,-0.36,40,-14.4
+88168476,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1656,1468,0.0,4,-1.13,40,-45.2,"Ramesh Nair, Advait",,1700,False,IND,0.0,1,-0.21,40,-8.4
+88168476,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1656,1468,0.0,4,-1.13,40,-45.2,"Pranav, Ashwin",,1484,False,IND,0.0,1,-0.48,40,-19.2

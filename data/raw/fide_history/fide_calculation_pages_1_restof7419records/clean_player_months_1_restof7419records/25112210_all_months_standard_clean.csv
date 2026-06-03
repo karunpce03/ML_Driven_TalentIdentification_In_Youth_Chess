@@ -1,0 +1,40 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25112210,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1741,1470,0.0,3,-0.56,40,-22.4,"Shreyash, Singh",,1853.0,False,IND,0.0,1,-0.09,40,-3.6
+25112210,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1741,1470,0.0,3,-0.56,40,-22.4,"Krithik, Muthukumar",,1737.0,False,IND,0.0,1,-0.18,40,-7.2
+25112210,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1741,1470,0.0,3,-0.56,40,-22.4,"Lakshya, Nigam",,1632.0,False,IND,0.0,1,-0.29,40,-11.6
+25112210,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1650,1448,4.5,8,2.49,40,99.6,"Sahil, Bheron",,1848.0,True,IND,0.5,1,0.42,40,16.8
+25112210,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1650,1448,4.5,8,2.49,40,99.6,"Sajid, Khan",,1741.0,False,IND,0.5,1,0.35,40,14.0
+25112210,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1650,1448,4.5,8,2.49,40,99.6,"Pranav, Rastogi",,1682.0,False,IND,1.0,1,0.79,40,31.6
+25112210,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1650,1448,4.5,8,2.49,40,99.6,"Harsh, Aggarwal",,1647.0,False,IND,1.0,1,0.76,40,30.4
+25112210,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1650,1448,4.5,8,2.49,40,99.6,"Chirag, Arora",,1580.0,False,IND,0.0,1,-0.32,40,-12.8
+25112210,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1650,1448,4.5,8,2.49,40,99.6,"Kartik, Khetwal",,1587.0,False,IND,1.0,1,0.69,40,27.6
+25112210,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1650,1448,4.5,8,2.49,40,99.6,"Abhishek, Kumar Mishra",,1580.0,False,IND,0.0,1,-0.32,40,-12.8
+25112210,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1650,1448,4.5,8,2.49,40,99.6,"Jayant, Srivastava",,1532.0,False,IND,0.5,1,0.12,40,4.8
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Khalid, Amin",,1860.0,False,IND,0.0,1,-0.14,40,-5.6
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Mokshith, Pasupulety",,1758.0,False,IND,0.5,1,0.27,40,10.8
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Rama, Anjaneyulu R V S S",,1751.0,False,IND,0.5,1,0.26,40,10.4
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Bhanushali, Neemay",,1736.0,False,IND,0.5,1,0.24,40,9.6
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Lalbiak, Mawia",,1781.0,False,IND,0.0,1,-0.21,40,-8.4
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Ashutosh, Jamwal",,1685.0,False,IND,0.0,1,-0.32,40,-12.8
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Shravan, Sriram",,1747.0,False,IND,1.0,1,0.76,40,30.4
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Darsh, Ilwadi",,1661.0,False,IND,1.0,1,0.65,40,26.0
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Ebenezer, Joseph",c,1884.0,False,IND,0.0,1,-0.12,40,-4.8
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Ansh, Kumar",,1689.0,False,IND,0.5,1,0.19,40,7.6
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Talin, Nimpu",,1710.0,False,IND,1.0,1,0.71,40,28.4
+25112210,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1493,1640,4.5,9,-1.78,40,-71.2,"Vineet, Nayak",,1492.0,False,IND,0.0,1,-0.7,40,-28.0
+25112210,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1493,1640,4.5,9,-1.78,40,-71.2,"Tanav, Sahani",,1450.0,False,IND,0.0,1,-0.75,40,-30.0
+25112210,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1493,1640,4.5,9,-1.78,40,-71.2,"Teja, Vajraksh Revu",,1458.0,False,IND,0.5,1,-0.24,40,-9.6
+25112210,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1493,1640,4.5,9,-1.78,40,-71.2,"Lalith, Srihaas Mendi",,1525.0,False,IND,1.0,1,0.34,40,13.6
+25112210,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1493,1640,4.5,9,-1.78,40,-71.2,"Bhuvan, Krishna Pujari",,1496.0,False,IND,1.0,1,0.31,40,12.4
+25112210,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1493,1640,4.5,9,-1.78,40,-71.2,"Advit, Pandey",,1485.0,False,IND,0.5,1,-0.21,40,-8.4
+25112210,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1493,1640,4.5,9,-1.78,40,-71.2,"Anvit, Srivastava",,1541.0,False,IND,0.0,1,-0.64,40,-25.6
+25112210,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1493,1640,4.5,9,-1.78,40,-71.2,"Shivam, Thakur",,1499.0,False,IND,1.0,1,0.31,40,12.4
+25112210,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1493,1640,4.5,9,-1.78,40,-71.2,"Ayaanraj, Kottapally",,1488.0,False,IND,0.5,1,-0.2,40,-8.0
+25112210,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1566,1569,2.5,6,-0.58,40,-23.2,"Shubh, Singh Saini",,1729.0,False,IND,0.0,1,-0.29,40,-11.6
+25112210,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1566,1569,2.5,6,-0.58,40,-23.2,Saksham,,1405.0,False,IND,0.5,1,-0.22,40,-8.8
+25112210,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1566,1569,2.5,6,-0.58,40,-23.2,"Anushree, Venkatraman",,1496.0,False,IND,1.0,1,0.4,40,16.0
+25112210,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1566,1569,2.5,6,-0.58,40,-23.2,"Viraj, Suneja",,1450.0,False,IND,1.0,1,0.34,40,13.6
+25112210,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1566,1569,2.5,6,-0.58,40,-23.2,"Vidit, Sethi",,1869.0,False,IND,0.0,1,-0.15,40,-6.0
+25112210,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1566,1569,2.5,6,-0.58,40,-23.2,"Aanya, Gupta",,1449.0,False,IND,0.0,1,-0.66,40,-26.4
+25112210,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1425,1546,0.5,2,-0.83,40,-33.2,"Nikhil, Kumar Darhel",,1407.0,False,IND,0.5,1,-0.19,40,-7.6
+25112210,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1425,1546,0.5,2,-0.83,40,-33.2,"Anirudh, Nautiyal",,1442.0,False,IND,0.0,1,-0.64,40,-25.6

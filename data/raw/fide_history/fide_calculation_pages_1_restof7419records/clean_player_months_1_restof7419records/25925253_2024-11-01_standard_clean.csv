@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25925253,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1791,1802,5.5,9,0.79,40,31.6,"Shivanagaraj, Nagaraj Aiholli",,1479,False,IND,1.0,1,0.13,40,5.2
+25925253,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1791,1802,5.5,9,0.79,40,31.6,"Moorthattil, Harikumar",,1560,False,IND,1.0,1,0.2,40,8.0
+25925253,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1791,1802,5.5,9,0.79,40,31.6,"Bharat, Kumar Reddy Poluri",,2163,False,IND,0.0,1,-0.1,40,-4.0
+25925253,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1791,1802,5.5,9,0.79,40,31.6,"Vidur, Murali",,1554,False,IND,1.0,1,0.19,40,7.6
+25925253,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1791,1802,5.5,9,0.79,40,31.6,"Allampati, Kovidh Kushal Reddy",,1558,False,IND,1.0,1,0.2,40,8.0
+25925253,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1791,1802,5.5,9,0.79,40,31.6,"Sree, Shaunak Chanda",,1964,False,IND,0.0,1,-0.29,40,-11.6
+25925253,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1791,1802,5.5,9,0.79,40,31.6,"Sreesha, Kandi",,1649,False,IND,1.0,1,0.3,40,12.0
+25925253,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1791,1802,5.5,9,0.79,40,31.6,"Dinesh, Kumar Jaganathan",,1989,False,IND,0.5,1,0.24,40,9.6
+25925253,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1791,1802,5.5,9,0.79,40,31.6,"Neelash, Saha",m,2202,True,IND,0.0,1,-0.08,40,-3.2

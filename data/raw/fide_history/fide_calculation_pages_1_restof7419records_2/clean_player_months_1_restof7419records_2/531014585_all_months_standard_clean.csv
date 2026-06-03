@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531014585,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,0.0,3,0.0,663,,"Darsha, Bhat",,1551.0,False,IND,0.0,1,0.0,,0.0
+531014585,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,0.0,3,0.0,663,,"Malhar, Thakur",,1429.0,False,IND,0.0,1,0.0,,0.0
+531014585,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,0.0,3,0.0,663,,"Bharani, G N",,1410.0,False,IND,0.0,1,0.0,,0.0
+531014585,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,2.5,7,0.0,1364,,"Avin, R Rao",,1502.0,False,IND,0.0,1,0.0,,0.0
+531014585,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,2.5,7,0.0,1364,,"Vivaan, Parangodath",,1488.0,False,IND,0.0,1,0.0,,0.0
+531014585,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,2.5,7,0.0,1364,,"Harshith, Surianarayanan",,1427.0,False,IND,1.0,1,0.0,,0.0
+531014585,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,2.5,7,0.0,1364,,"Nila, K K",,1450.0,False,IND,0.0,1,0.0,,0.0
+531014585,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,2.5,7,0.0,1364,,"Tasmai, P Jain",,1443.0,False,IND,1.0,1,0.0,,0.0
+531014585,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,2.5,7,0.0,1364,,"Saurabh, Somvanshi",,1508.0,False,IND,0.0,1,0.0,,0.0
+531014585,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,2.5,7,0.0,1364,,"Soukhya, K R",,1442.0,False,IND,0.5,1,0.0,,0.0
+531014585,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1629.0,1460.0,0.0,1,-0.28,40,-11.2,"Viraj, Prabhakar Shetti",,1629.0,False,IND,0.0,1,-0.28,40.0,-11.2

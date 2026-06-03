@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25750240,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1949,1793,5.0,10,1.87,40,74.8,"Labunahewage, Dulein Bimsath",,1701,False,SRI,1.0,1,0.37,40,14.8
+25750240,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1949,1793,5.0,10,1.87,40,74.8,"Majumder, Shrayan",,2059,False,IND,0.0,1,-0.18,40,-7.2
+25750240,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1949,1793,5.0,10,1.87,40,74.8,"Kishore, Prajith",,1698,False,IND,1.0,1,0.37,40,14.8
+25750240,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1949,1793,5.0,10,1.87,40,74.8,"Teo, Hong Ming",,2078,False,SGP,1.0,1,0.84,40,33.6
+25750240,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1949,1793,5.0,10,1.87,40,74.8,"Galappaththi, Chinthaka Anuruddh",f,1924,False,SRI,1.0,1,0.68,40,27.2
+25750240,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1949,1793,5.0,10,1.87,40,74.8,"Das, Sayantan",g,2193,True,IND,0.0,1,-0.08,40,-3.2
+25750240,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1949,1793,5.0,10,1.87,40,74.8,"Liyanage, Pesandu Rashmitha",,2012,False,SRI,0.0,1,-0.22,40,-8.8
+25750240,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1949,1793,5.0,10,1.87,40,74.8,"Dandeniya, D D L N",,1939,False,SRI,0.5,1,0.2,40,8.0
+25750240,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1949,1793,5.0,10,1.87,40,74.8,"Umashankar, A",,1984,False,IND,0.0,1,-0.25,40,-10.0
+25750240,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1949,1793,5.0,10,1.87,40,74.8,"Rebecca, Jesumarian",,1898,False,IND,0.5,1,0.14,40,5.6

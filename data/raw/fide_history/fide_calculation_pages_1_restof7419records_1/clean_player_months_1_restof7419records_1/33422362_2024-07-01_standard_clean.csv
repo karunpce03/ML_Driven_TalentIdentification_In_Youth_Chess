@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33422362,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2064,1811,3.0,10,0.98,40,39.2,"Keleberda, Tymur",f,2211,True,CAN,0.5,1,0.42,40,16.8
+33422362,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2064,1811,3.0,10,0.98,40,39.2,"Smirnov, Mark",c,2203,False,KAZ,0.5,1,0.42,40,16.8
+33422362,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2064,1811,3.0,10,0.98,40,39.2,"Kalyani, Sirin",wf,2163,False,IND,0.0,1,-0.11,40,-4.4
+33422362,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2064,1811,3.0,10,0.98,40,39.2,"Saryyev, Azym",,1999,False,TKM,0.0,1,-0.26,40,-10.4
+33422362,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2064,1811,3.0,10,0.98,40,39.2,"Oluka, Robert Mcligeyo",,2050,False,KEN,0.0,1,-0.2,40,-8.0
+33422362,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2064,1811,3.0,10,0.98,40,39.2,"Safarov, Deniel",,2059,False,GEO,0.0,1,-0.19,40,-7.6
+33422362,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2064,1811,3.0,10,0.98,40,39.2,"Insara, S D Nadev",,1874,False,SRI,1.0,1,0.59,40,23.6
+33422362,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2064,1811,3.0,10,0.98,40,39.2,"Radojicic, Aleksandar M",,2088,False,SRB,0.5,1,0.33,40,13.2
+33422362,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2064,1811,3.0,10,0.98,40,39.2,"Tleukhanov, Yerlan",,2025,False,KAZ,0.0,1,-0.23,40,-9.2
+33422362,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2064,1811,3.0,10,0.98,40,39.2,"Sureka, Akshat",,1972,False,IND,0.5,1,0.21,40,8.4

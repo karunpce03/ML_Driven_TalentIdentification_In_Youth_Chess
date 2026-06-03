@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25159410,2025-02-01,0,QTCA All India Open FIDE Rating Chess Tournament 2024,Quepem IND,2024-12-26,2024-12-30,1608,1487,0.0,2,-0.67,40,-26.8,"Phal, Satyam",,1626.0,False,IND,0.0,1,-0.31,40,-12.4
+25159410,2025-02-01,0,QTCA All India Open FIDE Rating Chess Tournament 2024,Quepem IND,2024-12-26,2024-12-30,1608,1487,0.0,2,-0.67,40,-26.8,"Chaitanya, Sushant Patil",,1590.0,False,IND,0.0,1,-0.36,40,-14.4

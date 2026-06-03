@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33432325,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1650,1495,0.5,2,-0.09,40,-3.6,"Mahendran, T.",,1651.0,False,IND,0.5,1,0.21,40,8.4
+33432325,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1650,1495,0.5,2,-0.09,40,-3.6,"Arun, R",,1648.0,False,IND,0.0,1,-0.3,40,-12.0
+33432325,2024-10-01,0,2nd Late Shri Vasudeva V Dempo Fide Rating Chess Tournament 2024,Panaji IND,2024-09-17,2024-09-22,1703,1491,0.0,2,-0.47,40,-18.8,"Himanshu, Moudgil",,1747.0,False,IND,0.0,1,-0.19,40,-7.6
+33432325,2024-10-01,0,2nd Late Shri Vasudeva V Dempo Fide Rating Chess Tournament 2024,Panaji IND,2024-09-17,2024-09-22,1703,1491,0.0,2,-0.47,40,-18.8,"Kumbhar, Kartik",,1658.0,False,IND,0.0,1,-0.28,40,-11.2
+33432325,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1409,1472,0.5,1,-0.09,40,-3.6,"Diptanshu, Saha",,1409.0,False,IND,0.5,1,-0.09,40,-3.6
+33432325,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1575,1468,2.5,9,-0.77,40,-30.8,"Vishwajit, S",,1781.0,False,IND,0.0,1,-0.14,40,-5.6
+33432325,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1575,1468,2.5,9,-0.77,40,-30.8,"Amiyanshu, Bhowal",,1640.0,False,IND,0.0,1,-0.27,40,-10.8
+33432325,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1575,1468,2.5,9,-0.77,40,-30.8,"Siddharth, Samaddar",,1601.0,False,IND,0.0,1,-0.32,40,-12.8
+33432325,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1575,1468,2.5,9,-0.77,40,-30.8,"Sharath, T S",,1578.0,False,IND,0.5,1,0.15,40,6.0
+33432325,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1575,1468,2.5,9,-0.77,40,-30.8,"Aadwik, Abhinav Krishna",,1573.0,False,IND,0.0,1,-0.36,40,-14.4
+33432325,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1575,1468,2.5,9,-0.77,40,-30.8,"Siddharth, T",,1470.0,False,IND,0.5,1,0.0,40,0.0
+33432325,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1575,1468,2.5,9,-0.77,40,-30.8,"Rayaan, Patil",,1408.0,False,IND,1.0,1,0.42,40,16.8
+33432325,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1575,1468,2.5,9,-0.77,40,-30.8,"Aarav, Manish Jain",,1565.0,False,IND,0.5,1,0.13,40,5.2
+33432325,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1575,1468,2.5,9,-0.77,40,-30.8,"Pranav, V B",,1559.0,False,IND,0.0,1,-0.38,40,-15.2

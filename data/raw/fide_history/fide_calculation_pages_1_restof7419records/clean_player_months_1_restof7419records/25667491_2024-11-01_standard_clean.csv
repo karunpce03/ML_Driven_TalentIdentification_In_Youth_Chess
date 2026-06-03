@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25667491,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,2046,1881,7.5,11,4.15,40,166.0,"Pavithra, K",,1488,False,IND,1.0,1,0.08,40,3.2
+25667491,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,2046,1881,7.5,11,4.15,40,166.0,"Kulkarni, Bhakti",m wg,2281,True,IND,1.0,1,0.92,40,36.8
+25667491,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,2046,1881,7.5,11,4.15,40,166.0,"Saranya, J",wf,2048,False,IND,0.5,1,0.22,40,8.8
+25667491,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,2046,1881,7.5,11,4.15,40,166.0,"Deodhar, Vrushali Umesh",wf,2182,False,IND,0.5,1,0.35,40,14.0
+25667491,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,2046,1881,7.5,11,4.15,40,166.0,"Keerti, Shree Reddy",wf,2033,False,IND,1.0,1,0.7,40,28.0
+25667491,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,2046,1881,7.5,11,4.15,40,166.0,"Kalyani, Sirin",wf,2132,False,IND,0.5,1,0.31,40,12.4
+25667491,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,2046,1881,7.5,11,4.15,40,166.0,"Sharma, Isha",wm,2228,False,IND,0.0,1,-0.11,40,-4.4
+25667491,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,2046,1881,7.5,11,4.15,40,166.0,"Sananda, R",,1658,False,IND,1.0,1,0.22,40,8.8
+25667491,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,2046,1881,7.5,11,4.15,40,166.0,"Nimmy, A.g.",wf,2101,False,IND,1.0,1,0.78,40,31.2
+25667491,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,2046,1881,7.5,11,4.15,40,166.0,"Srija, Seshadri",wg,2258,False,IND,0.0,1,-0.09,40,-3.6
+25667491,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,2046,1881,7.5,11,4.15,40,166.0,"Sunyuktha, C M N",,2096,False,IND,1.0,1,0.77,40,30.8

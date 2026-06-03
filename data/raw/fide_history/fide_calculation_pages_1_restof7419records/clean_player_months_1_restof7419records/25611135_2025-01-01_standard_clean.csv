@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25611135,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1778,2089,6.0,9,-1.63,40,-65.2,"Nabiyev, Iman",,1689,True,KAZ,1.0,1,0.08,40,3.2
+25611135,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1778,2089,6.0,9,-1.63,40,-65.2,"Aryan, Mehta",,1762,False,IND,1.0,1,0.13,40,5.2
+25611135,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1778,2089,6.0,9,-1.63,40,-65.2,"Maraimov, Khudoyor",,1833,False,UZB,0.0,1,-0.81,40,-32.4
+25611135,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1778,2089,6.0,9,-1.63,40,-65.2,"Mendoza, Ryan",,1941,False,PHI,0.0,1,-0.7,40,-28.0
+25611135,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1778,2089,6.0,9,-1.63,40,-65.2,"Devansh, Rai",,1689,True,IND,1.0,1,0.08,40,3.2
+25611135,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1778,2089,6.0,9,-1.63,40,-65.2,"Al-Kuwari, Hamad",c,1736,False,QAT,1.0,1,0.11,40,4.4
+25611135,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1778,2089,6.0,9,-1.63,40,-65.2,"Amulya, Guruprasad",wc,1718,False,IND,1.0,1,0.1,40,4.0
+25611135,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1778,2089,6.0,9,-1.63,40,-65.2,"Elarcosa, Rommel T.",,1689,True,PHI,1.0,1,0.08,40,3.2
+25611135,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1778,2089,6.0,9,-1.63,40,-65.2,"Syed, Abdul Khader",,1943,False,IND,0.0,1,-0.7,40,-28.0

@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33395535,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1699,1455,3.0,7,1.56,40,62.4,"Bhuvan, Krishna Prasanth",,1855,True,IND,0.0,1,-0.08,40,-3.2
+33395535,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1699,1455,3.0,7,1.56,40,62.4,"Sajid, Khan",,1741,False,IND,0.0,1,-0.16,40,-6.4
+33395535,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1699,1455,3.0,7,1.56,40,62.4,"Amartya, Kumar",,1724,False,IND,1.0,1,0.83,40,33.2
+33395535,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1699,1455,3.0,7,1.56,40,62.4,"Kartik, Khetwal",,1587,False,IND,1.0,1,0.68,40,27.2
+33395535,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1699,1455,3.0,7,1.56,40,62.4,"Dhruv, Gupta",,1622,False,IND,1.0,1,0.72,40,28.8
+33395535,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1699,1455,3.0,7,1.56,40,62.4,"Vivaan, Sardana",,1666,False,IND,0.0,1,-0.23,40,-9.2
+33395535,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1699,1455,3.0,7,1.56,40,62.4,"Arnav, Gupta",,1698,False,IND,0.0,1,-0.2,40,-8.0

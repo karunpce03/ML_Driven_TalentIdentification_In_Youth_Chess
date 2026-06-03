@@ -1,0 +1,78 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+46656391,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1655,1854,7.0,9,0.24,40,9.6,"Parmar, Bharat",,1546.0,False,IND,1.0,1,0.14,40,5.6
+46656391,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1655,1854,7.0,9,0.24,40,9.6,"Prakul, A",,1660.0,False,IND,0.0,1,-0.75,40,-30.0
+46656391,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1655,1854,7.0,9,0.24,40,9.6,"Pradyumna, Deshmane",,1557.0,False,IND,1.0,1,0.15,40,6.0
+46656391,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1655,1854,7.0,9,0.24,40,9.6,"Geet, Jain",,1635.0,False,IND,1.0,1,0.22,40,8.8
+46656391,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1655,1854,7.0,9,0.24,40,9.6,"Mandloi, Mukesh",,1669.0,False,IND,1.0,1,0.26,40,10.4
+46656391,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1655,1854,7.0,9,0.24,40,9.6,"Saparya, Ghosh",,1749.0,False,IND,1.0,1,0.36,40,14.4
+46656391,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1655,1854,7.0,9,0.24,40,9.6,"Aarav, Saish Amonkar",,1723.0,False,IND,0.0,1,-0.68,40,-27.2
+46656391,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1655,1854,7.0,9,0.24,40,9.6,"Avirat, Chauhan",,1715.0,False,IND,1.0,1,0.31,40,12.4
+46656391,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1655,1854,7.0,9,0.24,40,9.6,"Dolas, Aarush",,1640.0,False,IND,1.0,1,0.23,40,9.2
+46656391,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1711,1864,7.5,9,1.34,40,53.6,"Mukil, Suresh",,1464.0,True,IND,1.0,1,0.08,40,3.2
+46656391,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1711,1864,7.5,9,1.34,40,53.6,"Vignesh, E",,1565.0,False,IND,1.0,1,0.15,40,6.0
+46656391,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1711,1864,7.5,9,1.34,40,53.6,"Sarvesh, Hinduja S A",,1665.0,False,IND,1.0,1,0.24,40,9.6
+46656391,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1711,1864,7.5,9,1.34,40,53.6,"Logesh, Kumar R",,1740.0,False,IND,1.0,1,0.33,40,13.2
+46656391,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1711,1864,7.5,9,1.34,40,53.6,"Jai, Sankar Subramanian",,1982.0,False,IND,0.0,1,-0.34,40,-13.6
+46656391,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1711,1864,7.5,9,1.34,40,53.6,"Shawn, Pravin",,1704.0,False,IND,1.0,1,0.29,40,11.6
+46656391,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1711,1864,7.5,9,1.34,40,53.6,"Adhithya, B",,1680.0,False,IND,1.0,1,0.26,40,10.4
+46656391,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1711,1864,7.5,9,1.34,40,53.6,"Darshan, Sasthaa M",,1738.0,False,IND,0.5,1,-0.17,40,-6.8
+46656391,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1711,1864,7.5,9,1.34,40,53.6,"Rohith, S",,1861.0,False,IND,1.0,1,0.5,40,20.0
+46656391,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2184,1864,5.5,9,4.2,25,105.0,"Sipos, Janos",f,2193.0,False,HUN,1.0,1,0.88,25,22.0
+46656391,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2184,1864,5.5,9,4.2,25,105.0,"Meszaros, Andras",m,2132.0,False,HUN,1.0,1,0.83,25,20.75
+46656391,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2184,1864,5.5,9,4.2,25,105.0,"Videki, Sandor",m,2264.0,True,HUN,0.5,1,0.42,25,10.5
+46656391,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2184,1864,5.5,9,4.2,25,105.0,"Okhotnik, Vladimir",g,2264.0,True,FRA,0.5,1,0.42,25,10.5
+46656391,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2184,1864,5.5,9,4.2,25,105.0,"Lauda, Alexandr",c,2198.0,False,MDA,1.0,1,0.88,25,22.0
+46656391,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2184,1864,5.5,9,4.2,25,105.0,"Medancic, Rikard",m,2157.0,False,CRO,1.0,1,0.85,25,21.25
+46656391,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2184,1864,5.5,9,4.2,25,105.0,"Aczel, Gergely",g,2264.0,True,HUN,0.0,1,-0.08,25,-2.0
+46656391,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2184,1864,5.5,9,4.2,25,105.0,"Kumaresh, A",,1924.0,False,IND,0.5,1,0.08,25,2.0
+46656391,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2184,1864,5.5,9,4.2,25,105.0,"Meszaros, Tamas",m,2264.0,True,HUN,0.0,1,-0.08,25,-2.0
+46656391,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,1965,1918,4.0,9,0.03,25,0.75,"Sgircea, Silvia-Raluca",wm,2181.0,False,ROU,0.0,1,-0.18,25,-4.5
+46656391,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,1965,1918,4.0,9,0.03,25,0.75,"Cheah, Kah Hoe",,1991.0,False,MAS,1.0,1,0.6,25,15.0
+46656391,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,1965,1918,4.0,9,0.03,25,0.75,"Fiorido, Giuseppe",,2035.0,False,ITA,0.0,1,-0.34,25,-8.5
+46656391,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,1965,1918,4.0,9,0.03,25,0.75,"Petrosino, Germano",,1854.0,False,ITA,1.0,1,0.41,25,10.25
+46656391,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,1965,1918,4.0,9,0.03,25,0.75,"Oktem, Ege Tuna",,2055.0,False,TUR,0.0,1,-0.32,25,-8.0
+46656391,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,1965,1918,4.0,9,0.03,25,0.75,"Vezzosi, Paolo",m,2086.0,False,ITA,0.0,1,-0.28,25,-7.0
+46656391,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,1965,1918,4.0,9,0.03,25,0.75,"Foo, Jiu Weir Brien",,1798.0,False,MAS,0.0,1,-0.66,25,-16.5
+46656391,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,1965,1918,4.0,9,0.03,25,0.75,"El Bzizi, Anas",,1816.0,False,ITA,1.0,1,0.36,25,9.0
+46656391,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,1965,1918,4.0,9,0.03,25,0.75,"Trevisan, Stefano",,1872.0,False,ITA,1.0,1,0.44,25,11.0
+46656391,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,2029,1918,6.5,9,3.13,25,78.25,"Canoro, Lorenzo",,1518.0,True,ITA,1.0,1,0.08,25,2.0
+46656391,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,2029,1918,6.5,9,3.13,25,78.25,"Manella, Riccardo",,1695.0,False,ITA,1.0,1,0.22,25,5.5
+46656391,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,2029,1918,6.5,9,3.13,25,78.25,"Lanzani, Mario Lorenzo",m,2254.0,False,ITA,1.0,1,0.88,25,22.0
+46656391,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,2029,1918,6.5,9,3.13,25,78.25,"Gilevych, Artem",m,2318.0,True,ITA,0.0,1,-0.08,25,-2.0
+46656391,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,2029,1918,6.5,9,3.13,25,78.25,"Di Trapani, Luca",,1954.0,False,ITA,1.0,1,0.55,25,13.75
+46656391,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,2029,1918,6.5,9,3.13,25,78.25,"Bettazzi, Daniele",,2018.0,False,ITA,1.0,1,0.64,25,16.0
+46656391,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,2029,1918,6.5,9,3.13,25,78.25,"Fasiello, Andrea Jonathan",,1964.0,False,ITA,0.5,1,0.06,25,1.5
+46656391,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,2029,1918,6.5,9,3.13,25,78.25,"Djuric, Stefan",g,2224.0,False,SRB,0.5,1,0.36,25,9.0
+46656391,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,2029,1918,6.5,9,3.13,25,78.25,"Lazic, Miroljub",g,2318.0,True,SRB,0.5,1,0.42,25,10.5
+46656391,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1833,2102,7.0,11,-1.92,40,-76.8,"Prabal, Pandey",,1702.0,True,IND,1.0,1,0.08,40,3.2
+46656391,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1833,2102,7.0,11,-1.92,40,-76.8,"Utkrisht, Tuli",,1789.0,False,IND,0.5,1,-0.36,40,-14.4
+46656391,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1833,2102,7.0,11,-1.92,40,-76.8,"Nirvan, Bhamidi",,1823.0,False,IND,0.0,1,-0.84,40,-33.6
+46656391,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1833,2102,7.0,11,-1.92,40,-76.8,"Ritesh, Bhardwaj",,1702.0,True,IND,1.0,1,0.08,40,3.2
+46656391,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1833,2102,7.0,11,-1.92,40,-76.8,"Ekaaksha, Partap Singh Negi",,1720.0,False,IND,1.0,1,0.09,40,3.6
+46656391,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1833,2102,7.0,11,-1.92,40,-76.8,"Aarit, Kapil",,1823.0,False,IND,1.0,1,0.16,40,6.4
+46656391,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1833,2102,7.0,11,-1.92,40,-76.8,"Alluri, Bhaskara Ratna Shanmukha",,1890.0,False,IND,0.0,1,-0.77,40,-30.8
+46656391,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1833,2102,7.0,11,-1.92,40,-76.8,"Rohan, Kumar Gourabathuni",,1792.0,False,IND,1.0,1,0.14,40,5.6
+46656391,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1833,2102,7.0,11,-1.92,40,-76.8,"Jihan, Tejas Shah",,2091.0,False,IND,0.5,1,-0.02,40,-0.8
+46656391,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1833,2102,7.0,11,-1.92,40,-76.8,"Vatsal, Singla",,1905.0,False,IND,1.0,1,0.25,40,10.0
+46656391,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1833,2102,7.0,11,-1.92,40,-76.8,"Yohan, Yadav Tarala",,1928.0,False,IND,0.0,1,-0.73,40,-29.2
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Johan, Jobsy",,1730.0,False,IND,1.0,1,0.15,40,6.0
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Tanna, Krish Alpeshbhai",,1846.0,False,IND,0.5,1,-0.23,40,-9.2
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Shourya, Paul",,1848.0,False,IND,1.0,1,0.27,40,10.8
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Ravi, Teja S.",m,2416.0,False,IND,0.5,1,0.41,40,16.4
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Sheikh, Idu",,1933.0,False,IND,1.0,1,0.37,40,14.8
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Lalit, Babu M R",g,2425.0,True,IND,0.0,1,-0.08,40,-3.2
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Arul, Anandh S P K",,1913.0,False,IND,0.0,1,-0.65,40,-26.0
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Sree, Shaunak Chanda",,1874.0,False,IND,1.0,1,0.3,40,12.0
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Yashvi, Jain",,1891.0,False,IND,1.0,1,0.32,40,12.8
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Sengupta, Deep",g,2425.0,True,IND,0.0,1,-0.08,40,-3.2
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Dubey, Sanchay",,1917.0,False,IND,1.0,1,0.35,40,14.0
+46656391,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2092,2070,4.0,10,-0.83,40,-33.2,"Rios Gomez, Cristhian Camilo",g,2448.0,False,COL,1.0,1,0.91,40,36.4
+46656391,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2092,2070,4.0,10,-0.83,40,-33.2,"Ajay, Santhosh Parvathareddy",f,2299.0,False,IND,1.0,1,0.79,40,31.6
+46656391,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2092,2070,4.0,10,-0.83,40,-33.2,"Nitin, S.",m,2341.0,False,IND,0.0,1,-0.17,40,-6.8
+46656391,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2092,2070,4.0,10,-0.83,40,-33.2,"Vignesh, Advaith Vemula",,2276.0,False,IND,0.0,1,-0.24,40,-9.6
+46656391,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2092,2070,4.0,10,-0.83,40,-33.2,"Paarshva, Parmar",,1805.0,False,IND,0.0,1,-0.82,40,-32.8
+46656391,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2092,2070,4.0,10,-0.83,40,-33.2,"Kapoor, Satvik",,1972.0,False,SGP,0.5,1,-0.13,40,-5.2
+46656391,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2092,2070,4.0,10,-0.83,40,-33.2,"Pranav, Sai Ram R S",,1858.0,False,IND,0.0,1,-0.77,40,-30.8
+46656391,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2092,2070,4.0,10,-0.83,40,-33.2,"Soumick, Bandopadhyay",,2003.0,False,IND,0.5,1,-0.09,40,-3.6
+46656391,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2092,2070,4.0,10,-0.83,40,-33.2,"Yohan, Yadav Tarala",,2001.0,False,IND,0.0,1,-0.6,40,-24.0
+46656391,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2092,2070,4.0,10,-0.83,40,-33.2,"Dhanesh, Venkata Narayanaswamy",,1914.0,False,SGP,1.0,1,0.29,40,11.6

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88167470,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1730,1551,3.0,5,1.68,40,67.2,"Prem, Muthu Avaneesh",,1738.0,False,USA,0.5,1,0.24,40,9.6
+88167470,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1730,1551,3.0,5,1.68,40,67.2,"Sundar, Guhan",,1722.0,False,IND,1.0,1,0.73,40,29.2
+88167470,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1730,1551,3.0,5,1.68,40,67.2,"Anish, Ramkumar",,1758.0,False,IND,0.5,1,0.27,40,10.8
+88167470,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1730,1551,3.0,5,1.68,40,67.2,"Siddharthan, Anandan",,1725.0,False,IND,0.0,1,-0.27,40,-10.8
+88167470,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1730,1551,3.0,5,1.68,40,67.2,"Tarun, N",,1706.0,False,IND,1.0,1,0.71,40,28.4

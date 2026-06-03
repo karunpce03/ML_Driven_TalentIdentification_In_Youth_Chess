@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33397457,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1643,1450,1.0,5,-0.33,40,-13.2,"Roy Chowdhury, Saptarshi",g,1850,True,IND,0.0,1,-0.08,40,-3.2
+33397457,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1643,1450,1.0,5,-0.33,40,-13.2,"Yogesh, Solanki",,1593,False,IND,0.0,1,-0.31,40,-12.4
+33397457,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1643,1450,1.0,5,-0.33,40,-13.2,"Anika, Tyagi",,1553,False,IND,1.0,1,0.64,40,25.6
+33397457,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1643,1450,1.0,5,-0.33,40,-13.2,"Jena, Suhana",,1656,False,IND,0.0,1,-0.24,40,-9.6
+33397457,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1643,1450,1.0,5,-0.33,40,-13.2,"Soumik, Chattopadhyaya",,1565,False,IND,0.0,1,-0.34,40,-13.6

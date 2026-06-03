@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33401829,2024-06-01,0,33rd Annual Chicago Open - U2100,"Wheeling, IL USA",2024-05-24,2024-05-27,1754,1417,0.0,5,-0.6,40,-24.0,"Anandheri Kandadai, Srihari",,1711,False,USA,0.0,1,-0.15,40,-6.0
+33401829,2024-06-01,0,33rd Annual Chicago Open - U2100,"Wheeling, IL USA",2024-05-24,2024-05-27,1754,1417,0.0,5,-0.6,40,-24.0,"Yu, Tianxiang Carlos",,1734,False,USA,0.0,1,-0.13,40,-5.2
+33401829,2024-06-01,0,33rd Annual Chicago Open - U2100,"Wheeling, IL USA",2024-05-24,2024-05-27,1754,1417,0.0,5,-0.6,40,-24.0,"Turner, Bill",,1817,True,USA,0.0,1,-0.08,40,-3.2
+33401829,2024-06-01,0,33rd Annual Chicago Open - U2100,"Wheeling, IL USA",2024-05-24,2024-05-27,1754,1417,0.0,5,-0.6,40,-24.0,"Das, Manmohan",,1812,False,USA,0.0,1,-0.08,40,-3.2
+33401829,2024-06-01,0,33rd Annual Chicago Open - U2100,"Wheeling, IL USA",2024-05-24,2024-05-27,1754,1417,0.0,5,-0.6,40,-24.0,"Xu, Zhihan Samuel",,1698,False,CAN,0.0,1,-0.16,40,-6.4

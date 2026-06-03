@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25106821,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1691,1946,5.5,7,-0.09,40,-3.6,"Lavya, Gupta",,1546,True,IND,1.0,1,0.08,40,3.2
+25106821,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1691,1946,5.5,7,-0.09,40,-3.6,"Gautam, Rana",,1546,True,IND,1.0,1,0.08,40,3.2
+25106821,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1691,1946,5.5,7,-0.09,40,-3.6,"Kavyasree, T V S",,1653,False,IND,1.0,1,0.15,40,6.0
+25106821,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1691,1946,5.5,7,-0.09,40,-3.6,"Vaibhav, Gautam",,1714,False,IND,1.0,1,0.21,40,8.4
+25106821,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1691,1946,5.5,7,-0.09,40,-3.6,"Aman, Kumar",,1771,False,IND,1.0,1,0.27,40,10.8
+25106821,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1691,1946,5.5,7,-0.09,40,-3.6,"Sanyam, Srivastava",,1840,False,IND,0.0,1,-0.64,40,-25.6
+25106821,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1691,1946,5.5,7,-0.09,40,-3.6,"Gorli, Nyna",,1766,False,IND,0.5,1,-0.24,40,-9.6

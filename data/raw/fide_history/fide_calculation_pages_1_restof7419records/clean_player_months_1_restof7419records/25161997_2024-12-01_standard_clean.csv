@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25161997,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1564,1846,5.5,8,-1.12,40,-44.8,"Riyansh, Sandeep Borate",,1446,True,IND,1.0,1,0.08,40,3.2
+25161997,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1564,1846,5.5,8,-1.12,40,-44.8,"Rayan, Merchant",,1508,False,IND,0.0,1,-0.88,40,-35.2
+25161997,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1564,1846,5.5,8,-1.12,40,-44.8,"Vardaan, Agrawal",,1500,False,IND,0.5,1,-0.39,40,-15.6
+25161997,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1564,1846,5.5,8,-1.12,40,-44.8,"Shryansh, Pandey",,1477,False,IND,1.0,1,0.1,40,4.0
+25161997,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1564,1846,5.5,8,-1.12,40,-44.8,"Arnav, Ashish Thatte",,1587,False,IND,1.0,1,0.18,40,7.2
+25161997,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1564,1846,5.5,8,-1.12,40,-44.8,"Vaarin, Gada",,1647,False,IND,1.0,1,0.24,40,9.6
+25161997,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1564,1846,5.5,8,-1.12,40,-44.8,"Bhogal, Rupesh",,1717,False,IND,0.0,1,-0.67,40,-26.8
+25161997,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1564,1846,5.5,8,-1.12,40,-44.8,"Yuti, Mayur Patel",,1627,False,IND,1.0,1,0.22,40,8.8
+25161997,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1641,1846,7.0,9,0.3,40,12.0,"Abhyuday, Bhaduka",,1446,True,IND,1.0,1,0.08,40,3.2
+25161997,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1641,1846,7.0,9,0.3,40,12.0,"Shahzeb, Rizvi",,1530,False,IND,1.0,1,0.13,40,5.2
+25161997,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1641,1846,7.0,9,0.3,40,12.0,"Tarun, Gautam",,1602,False,IND,1.0,1,0.2,40,8.0
+25161997,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1641,1846,7.0,9,0.3,40,12.0,"Ravi, Kumar",,1653,False,IND,0.5,1,-0.25,40,-10.0
+25161997,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1641,1846,7.0,9,0.3,40,12.0,"Vir, Kapur",,1594,False,IND,1.0,1,0.19,40,7.6
+25161997,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1641,1846,7.0,9,0.3,40,12.0,"Rohith, Yadav B R",,1945,False,IND,0.5,1,0.14,40,5.6
+25161997,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1641,1846,7.0,9,0.3,40,12.0,"Ranvir, Kanwar",,1592,False,IND,0.5,1,-0.31,40,-12.4
+25161997,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1641,1846,7.0,9,0.3,40,12.0,"Buxy, Rajanikant",,1693,False,IND,0.5,1,-0.2,40,-8.0
+25161997,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1641,1846,7.0,9,0.3,40,12.0,"Rohit, Roy Chaudhary",,1711,False,IND,1.0,1,0.32,40,12.8

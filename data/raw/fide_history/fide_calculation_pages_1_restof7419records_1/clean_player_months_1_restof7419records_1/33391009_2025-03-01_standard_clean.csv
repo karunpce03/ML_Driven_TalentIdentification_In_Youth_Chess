@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33391009,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1709,1734,5.5,7,1.76,40,70.4,"Sai, Prasath Karthikeyan",,1611.0,False,IND,1.0,1,0.33,40,13.2
+33391009,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1709,1734,5.5,7,1.76,40,70.4,"Hamid, Gulzar",,1606.0,False,PAK,1.0,1,0.33,40,13.2
+33391009,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1709,1734,5.5,7,1.76,40,70.4,"Izaan, Shafeek",,1688.0,False,IND,0.5,1,-0.06,40,-2.4
+33391009,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1709,1734,5.5,7,1.76,40,70.4,"Al Mamari, Said Ahmed",,1742.0,False,OMA,0.5,1,0.01,40,0.4
+33391009,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1709,1734,5.5,7,1.76,40,70.4,"Dahveed, Sibi Kurisinkal",,1633.0,False,IND,1.0,1,0.36,40,14.4
+33391009,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1709,1734,5.5,7,1.76,40,70.4,"Hari, Vardan Satheeskumar",,1824.0,False,IND,0.5,1,0.12,40,4.8
+33391009,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1709,1734,5.5,7,1.76,40,70.4,"Medhat, Magdy",,1858.0,False,EGY,1.0,1,0.67,40,26.8
+33391009,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1665,1860,3.0,5,-0.61,40,-24.4,"Avantika, Priyesh",,1499.0,False,IND,1.0,1,0.1,40,4.0
+33391009,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1665,1860,3.0,5,-0.61,40,-24.4,"Djelmami , Said",,1610.0,False,ALG,1.0,1,0.19,40,7.6
+33391009,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1665,1860,3.0,5,-0.61,40,-24.4,"Allam, Emad Hamdy",,2044.0,False,EGY,0.0,1,-0.26,40,-10.4
+33391009,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1665,1860,3.0,5,-0.61,40,-24.4,"Al Balushi, Said",,1667.0,False,OMA,0.0,1,-0.75,40,-30.0
+33391009,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1665,1860,3.0,5,-0.61,40,-24.4,"Aswanthram, Sankar Ganesh Kannan",,1503.0,False,IND,1.0,1,0.11,40,4.4

@@ -1,0 +1,16 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33321892,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1632.0,1473.0,0.0,3,-0.95,40,-38.0,"Sudarsan, L P",,1670.0,False,IND,0.0,1,-0.25,40.0,-10.0
+33321892,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1632.0,1473.0,0.0,3,-0.95,40,-38.0,"Venkatakrishnan, R.v.",,1821.0,False,IND,0.0,1,-0.11,40.0,-4.4
+33321892,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1632.0,1473.0,0.0,3,-0.95,40,-38.0,"Lalithish, D S",,1405.0,False,IND,0.0,1,-0.59,40.0,-23.6
+33321892,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1695.0,1435.0,0.5,3,-0.12,40,-4.8,"Ramnathan, Balasubramaniam",m,1835.0,True,IND,0.0,1,-0.08,40.0,-3.2
+33321892,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1695.0,1435.0,0.5,3,-0.12,40,-4.8,"Abirama Srinithi, G",,1734.0,False,IND,0.0,1,-0.15,40.0,-6.0
+33321892,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1695.0,1435.0,0.5,3,-0.12,40,-4.8,"Anirudh, Guru",,1516.0,False,IND,0.5,1,0.11,40.0,4.4
+33321892,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1587.0,1430.0,0.0,4,-1.2,40,-48.0,"Iniyan, K",,1737.0,False,IND,0.0,1,-0.14,40.0,-5.6
+33321892,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1587.0,1430.0,0.0,4,-1.2,40,-48.0,"Samhith, M",,1539.0,False,IND,0.0,1,-0.35,40.0,-14.0
+33321892,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1587.0,1430.0,0.0,4,-1.2,40,-48.0,"Sanjiv, S C",,1561.0,False,IND,0.0,1,-0.32,40.0,-12.8
+33321892,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1587.0,1430.0,0.0,4,-1.2,40,-48.0,"Srinand, Venkatachalam",,1509.0,False,IND,0.0,1,-0.39,40.0,-15.6
+33321892,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,,,1.5,5,0.0,1438,,"Keerthivasan, P K",,1600.0,False,IND,0.0,1,0.0,,0.0
+33321892,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,,,1.5,5,0.0,1438,,"Shreyas, Mani",,1575.0,False,IND,1.0,1,0.0,,0.0
+33321892,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,,,1.5,5,0.0,1438,,"Muthuraman, Kesavamoorthy",,1695.0,False,IND,0.0,1,0.0,,0.0
+33321892,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,,,1.5,5,0.0,1438,,"Kavish, Ram S",,1519.0,False,IND,0.5,1,0.0,,0.0
+33321892,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,,,1.5,5,0.0,1438,,"Dave, Eric Allen P",,1547.0,False,IND,0.0,1,0.0,,0.0

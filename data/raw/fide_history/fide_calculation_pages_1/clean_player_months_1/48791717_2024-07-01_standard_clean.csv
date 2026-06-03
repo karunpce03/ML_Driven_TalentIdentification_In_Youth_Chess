@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48791717,2024-07-01,0,Maharashtra State Women FIDE Rated Chess Championship-2024,Pune IND,2024-05-29,2024-05-31,1825,1429,0.0,2,-0.16,40,-6.4,"Bhagyashree, Patil",wf,1829,True,IND,0.0,1,-0.08,40,-3.2
+48791717,2024-07-01,0,Maharashtra State Women FIDE Rated Chess Championship-2024,Pune IND,2024-05-29,2024-05-31,1825,1429,0.0,2,-0.16,40,-6.4,"Anushka, Bapu Kutwal",,1821,False,IND,0.0,1,-0.08,40,-3.2
+48791717,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1583,1429,0.5,4,-0.78,40,-31.2,"Gawai, Siddhant",,1829,True,IND,0.0,1,-0.08,40,-3.2
+48791717,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1583,1429,0.5,4,-0.78,40,-31.2,"Yuval, Sunil Mohurle",,1494,False,IND,0.0,1,-0.41,40,-16.4
+48791717,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1583,1429,0.5,4,-0.78,40,-31.2,"Ishwar, Ramteke",,1508,False,IND,0.5,1,0.11,40,4.4
+48791717,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1583,1429,0.5,4,-0.78,40,-31.2,"Bahadure, Shreyas",,1500,False,IND,0.0,1,-0.4,40,-16.0

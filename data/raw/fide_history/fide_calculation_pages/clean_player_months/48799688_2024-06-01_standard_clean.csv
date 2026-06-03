@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48799688,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1610,1468,0.0,3,-0.93,40,-37.2,"Gautham, A",,1635.0,False,IND,0.0,1,-0.28,40,-11.2
+48799688,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1610,1468,0.0,3,-0.93,40,-37.2,"Kuhan, B K",,1601.0,False,IND,0.0,1,-0.32,40,-12.8
+48799688,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1610,1468,0.0,3,-0.93,40,-37.2,"Hariharan, J",,1595.0,False,IND,0.0,1,-0.33,40,-13.2

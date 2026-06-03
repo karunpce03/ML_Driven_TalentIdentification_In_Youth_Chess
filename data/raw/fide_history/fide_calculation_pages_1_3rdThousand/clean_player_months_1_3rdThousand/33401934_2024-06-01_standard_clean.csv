@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33401934,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1572,1427,2.5,6,0.64,40,25.6,"Aadhya, Jain",,1612.0,False,IND,0.0,1,-0.26,40,-10.4
+33401934,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1572,1427,2.5,6,0.64,40,25.6,"Hardik, Sharma",,1581.0,False,IND,1.0,1,0.71,40,28.4
+33401934,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1572,1427,2.5,6,0.64,40,25.6,"Mishka, Mathur",,1667.0,False,IND,0.0,1,-0.2,40,-8.0
+33401934,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1572,1427,2.5,6,0.64,40,25.6,"Indrajeet, Kumar",,1530.0,False,IND,1.0,1,0.64,40,25.6
+33401934,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1572,1427,2.5,6,0.64,40,25.6,"Ansh, Patel",,1518.0,False,IND,0.0,1,-0.38,40,-15.2
+33401934,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1572,1427,2.5,6,0.64,40,25.6,"Saksham, Goel",,1522.0,False,IND,0.5,1,0.13,40,5.2

@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33466971,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard U9,Bangkok THA,2024-12-03,2024-12-08,1498,1620,2.0,6,-1.98,40,-79.2,"Erkhes, Tugsbayar",,1483.0,False,MGL,0.0,1,-0.68,40,-27.2
+33466971,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard U9,Bangkok THA,2024-12-03,2024-12-08,1498,1620,2.0,6,-1.98,40,-79.2,"Khayankhyrwaa, Erdenebulgan",,1428.0,False,MGL,0.0,1,-0.75,40,-30.0
+33466971,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard U9,Bangkok THA,2024-12-03,2024-12-08,1498,1620,2.0,6,-1.98,40,-79.2,"Ansh, Kabra",,1515.0,False,IND,0.5,1,-0.14,40,-5.6
+33466971,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard U9,Bangkok THA,2024-12-03,2024-12-08,1498,1620,2.0,6,-1.98,40,-79.2,"Egodawatta, Vinuja",,1526.0,False,SRI,0.5,1,-0.13,40,-5.2
+33466971,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard U9,Bangkok THA,2024-12-03,2024-12-08,1498,1620,2.0,6,-1.98,40,-79.2,"Bae, Jaemin",,1498.0,False,KOR,1.0,1,0.33,40,13.2
+33466971,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard U9,Bangkok THA,2024-12-03,2024-12-08,1498,1620,2.0,6,-1.98,40,-79.2,"Sultankhan, Nurislam",,1537.0,False,KAZ,0.0,1,-0.61,40,-24.4

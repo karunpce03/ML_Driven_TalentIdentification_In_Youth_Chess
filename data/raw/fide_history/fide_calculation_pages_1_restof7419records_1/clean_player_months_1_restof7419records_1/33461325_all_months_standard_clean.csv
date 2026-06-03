@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33461325,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,3,0.0,672,,"Sanjay, Raj S",,1482.0,False,IND,0.0,1,0.0,,0.0
+33461325,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,3,0.0,672,,"Tanish, M",,1453.0,False,IND,0.0,1,0.0,,0.0
+33461325,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,3,0.0,672,,"Avinash, Kumar G",,1480.0,False,IND,0.0,1,0.0,,0.0
+33461325,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,3.0,7,0.0,1413,,"Abilash, G V",,1470.0,False,IND,0.5,1,0.0,,0.0
+33461325,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,3.0,7,0.0,1413,,"Nandana, Mooketh",,1469.0,False,IND,0.0,1,0.0,,0.0
+33461325,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,3.0,7,0.0,1413,,"Shanjiv, Bala T",,1464.0,False,IND,1.0,1,0.0,,0.0
+33461325,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,3.0,7,0.0,1413,,"Ajin, P R",,1492.0,False,IND,0.0,1,0.0,,0.0
+33461325,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,3.0,7,0.0,1413,,"Pranav, Unnikrishnan",,1439.0,False,IND,0.5,1,0.0,,0.0
+33461325,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,3.0,7,0.0,1413,,"Juan, Dominic",,1440.0,False,IND,1.0,1,0.0,,0.0
+33461325,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,3.0,7,0.0,1413,,"Lalith, Koushik Eligatla",,1467.0,False,IND,0.0,1,0.0,,0.0
+33461325,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1718.0,1495.0,0.0,2,-0.43,40,-17.2,"Divi, Bijesh",,1733.0,False,IND,0.0,1,-0.2,40.0,-8.0
+33461325,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1718.0,1495.0,0.0,2,-0.43,40,-17.2,"Rajith, V.",,1703.0,False,IND,0.0,1,-0.23,40.0,-9.2
+33461325,2024-12-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY BELOW 1700 FIDE RATING TOURNAMENT,Kollam IND,2024-11-08,2024-11-10,1406.0,1478.0,0.0,1,-0.6,40,-24.0,"Bhavesh, Roshan V",,1406.0,False,IND,0.0,1,-0.6,40.0,-24.0

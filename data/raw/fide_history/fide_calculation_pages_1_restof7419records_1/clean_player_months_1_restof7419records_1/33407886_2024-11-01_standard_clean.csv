@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33407886,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1754,1827,6.5,9,1.04,40,41.6,"Satyanarayana, D V V",,1427,True,IND,1.0,1,0.08,40,3.2
+33407886,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1754,1827,6.5,9,1.04,40,41.6,"Varun, Balupar",,1593,False,IND,1.0,1,0.21,40,8.4
+33407886,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1754,1827,6.5,9,1.04,40,41.6,"Kumar, A.",,1619,False,IND,1.0,1,0.23,40,9.2
+33407886,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1754,1827,6.5,9,1.04,40,41.6,"Audi, Ameya",m,2227,True,IND,0.0,1,-0.08,40,-3.2
+33407886,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1754,1827,6.5,9,1.04,40,41.6,"Rane, Viraj",,1676,False,IND,0.5,1,-0.2,40,-8.0
+33407886,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1754,1827,6.5,9,1.04,40,41.6,"Aabhas, Kumar Srivastava",,1659,False,IND,1.0,1,0.28,40,11.2
+33407886,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1754,1827,6.5,9,1.04,40,41.6,"Rajith, V.",,1675,False,IND,1.0,1,0.3,40,12.0
+33407886,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1754,1827,6.5,9,1.04,40,41.6,"Arun, Kataria",f,2227,True,IND,0.0,1,-0.08,40,-3.2
+33407886,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1754,1827,6.5,9,1.04,40,41.6,"Kumbhar, Kartik",,1680,False,IND,1.0,1,0.3,40,12.0

@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25187171,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1860,1655,4.0,8,1.9,40,76.0,"Jani, Kushal R",f,2055,True,IND,0.0,1,-0.08,40,-3.2
+25187171,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1860,1655,4.0,8,1.9,40,76.0,"Saumil, Nair",,1871,False,IND,1.0,1,0.78,40,31.2
+25187171,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1860,1655,4.0,8,1.9,40,76.0,"Kritin, Sharma",,1516,False,IND,1.0,1,0.31,40,12.4
+25187171,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1860,1655,4.0,8,1.9,40,76.0,"Akshat, Negi",,1816,False,IND,1.0,1,0.71,40,28.4
+25187171,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1860,1655,4.0,8,1.9,40,76.0,"Agarwal, Brajesh",,1852,False,IND,0.5,1,0.25,40,10.0
+25187171,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1860,1655,4.0,8,1.9,40,76.0,"Aarit, Kapil",c,2055,True,IND,0.0,1,-0.08,40,-3.2
+25187171,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1860,1655,4.0,8,1.9,40,76.0,"Vrandesh, Parekh",,1920,False,IND,0.0,1,-0.18,40,-7.2
+25187171,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1860,1655,4.0,8,1.9,40,76.0,"Ajay, Kumar Rai",,1796,False,IND,0.5,1,0.19,40,7.6

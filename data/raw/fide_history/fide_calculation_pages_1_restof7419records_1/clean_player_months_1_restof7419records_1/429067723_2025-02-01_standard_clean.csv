@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429067723,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1593,1564,3.0,5,0.69,40,27.6,"Vivaan, Agarwal",,1416.0,False,IND,1.0,1,0.3,40,12.0
+429067723,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1593,1564,3.0,5,0.69,40,27.6,"Hiridik, Rajendran",,1773.0,False,IND,1.0,1,0.77,40,30.8
+429067723,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1593,1564,3.0,5,0.69,40,27.6,"Naren, Gupta",,1690.0,False,IND,0.0,1,-0.33,40,-13.2
+429067723,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1593,1564,3.0,5,0.69,40,27.6,"Devarsh, Kinra",,1674.0,False,IND,0.0,1,-0.35,40,-14.0
+429067723,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1593,1564,3.0,5,0.69,40,27.6,"Atharv, Singh",,1414.0,False,IND,1.0,1,0.3,40,12.0

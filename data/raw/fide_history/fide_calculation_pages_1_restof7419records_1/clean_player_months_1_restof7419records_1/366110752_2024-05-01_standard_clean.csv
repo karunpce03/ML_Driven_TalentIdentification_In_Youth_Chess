@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366110752,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1669,1569,4.0,9,0.7,40,28.0,"Debayan, Ray",,1740.0,False,IND,0.5,1,0.23,40,9.2
+366110752,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1669,1569,4.0,9,0.7,40,28.0,"Rahul, Kumar Raj",,1722.0,False,IND,1.0,1,0.7,40,28.0
+366110752,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1669,1569,4.0,9,0.7,40,28.0,"Naga, Sai Sarthak Karanam",,1778.0,False,IND,0.0,1,-0.23,40,-9.2
+366110752,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1669,1569,4.0,9,0.7,40,28.0,"Pratitee, Bordoloi",,1723.0,False,IND,0.5,1,0.21,40,8.4
+366110752,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1669,1569,4.0,9,0.7,40,28.0,"Srinivasa, Rao G.v.",,1702.0,False,IND,0.0,1,-0.32,40,-12.8
+366110752,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1669,1569,4.0,9,0.7,40,28.0,"Chayank, Ramesh",,1458.0,False,IND,1.0,1,0.35,40,14.0
+366110752,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1669,1569,4.0,9,0.7,40,28.0,"Pranav, Ganesh Prabhu",,1692.0,False,IND,0.0,1,-0.33,40,-13.2
+366110752,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1669,1569,4.0,9,0.7,40,28.0,"Aashrita, Balaji Guttula",,1465.0,False,IND,1.0,1,0.36,40,14.4
+366110752,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1669,1569,4.0,9,0.7,40,28.0,"Shivamshika, G",,1741.0,False,IND,0.0,1,-0.27,40,-10.8

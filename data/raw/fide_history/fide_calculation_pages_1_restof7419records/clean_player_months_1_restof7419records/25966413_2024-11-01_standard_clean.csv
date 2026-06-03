@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25966413,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1965,1766,5.5,10,2.85,40,114.0,"Tejaswini, Sagar",wm,1991,False,IND,0.5,1,0.28,40,11.2
+25966413,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1965,1766,5.5,10,2.85,40,114.0,"Shah, Vishwa",wf,2166,True,IND,0.5,1,0.42,40,16.8
+25966413,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1965,1766,5.5,10,2.85,40,114.0,Lasya.g,wf,2010,False,IND,0.0,1,-0.2,40,-8.0
+25966413,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1965,1766,5.5,10,2.85,40,114.0,"Mudaliar, Nandini",,1584,False,IND,1.0,1,0.26,40,10.4
+25966413,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1965,1766,5.5,10,2.85,40,114.0,"Kirthika, B",,1909,False,IND,1.0,1,0.69,40,27.6
+25966413,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1965,1766,5.5,10,2.85,40,114.0,"Kheerthi, Ganta",wf,1985,False,IND,1.0,1,0.78,40,31.2
+25966413,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1965,1766,5.5,10,2.85,40,114.0,"Mohota, Nisha",m wg,2140,False,IND,0.0,1,-0.1,40,-4.0
+25966413,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1965,1766,5.5,10,2.85,40,114.0,"Harini, S.",,1903,False,IND,1.0,1,0.68,40,27.2
+25966413,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1965,1766,5.5,10,2.85,40,114.0,"Keerti, Shree Reddy",wf,2033,False,IND,0.0,1,-0.18,40,-7.2
+25966413,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1965,1766,5.5,10,2.85,40,114.0,"Yashvi, Jain",,1933,False,IND,0.5,1,0.22,40,8.8

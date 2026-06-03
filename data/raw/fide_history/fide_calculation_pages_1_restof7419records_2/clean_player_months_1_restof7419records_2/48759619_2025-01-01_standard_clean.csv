@@ -1,0 +1,22 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48759619,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1880,1700,5.5,10,2.82,33,93.06,"Sasvatha, A",wc,1800.0,False,IND,1.0,1,0.64,33,21.12
+48759619,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1880,1700,5.5,10,2.82,33,93.06,"Unnikrishnan, M A",,1833.0,False,IND,0.5,1,0.18,33,5.94
+48759619,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1880,1700,5.5,10,2.82,33,93.06,"Akshay, A R",,1822.0,False,IND,0.5,1,0.17,33,5.61
+48759619,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1880,1700,5.5,10,2.82,33,93.06,"Mahish, S A",,1826.0,False,IND,0.0,1,-0.33,33,-10.89
+48759619,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1880,1700,5.5,10,2.82,33,93.06,"Tijil, Singh",,1812.0,False,IND,1.0,1,0.65,33,21.45
+48759619,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1880,1700,5.5,10,2.82,33,93.06,"Shourya, Paul",,1940.0,False,IND,1.0,1,0.8,33,26.4
+48759619,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1880,1700,5.5,10,2.82,33,93.06,"Niladri, Banerjee",,1962.0,False,IND,0.0,1,-0.18,33,-5.94
+48759619,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1880,1700,5.5,10,2.82,33,93.06,"Nithik, Reddy Bhavanam",,1902.0,False,IND,1.0,1,0.76,33,25.08
+48759619,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1880,1700,5.5,10,2.82,33,93.06,"Bristy, Mukherjee",wf,1947.0,False,IND,0.5,1,0.31,33,10.23
+48759619,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1880,1700,5.5,10,2.82,33,93.06,"Chatterjee, K.k.",c,1960.0,False,IND,0.0,1,-0.18,33,-5.94
+48759619,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1617,1700,5.5,11,-1.14,33,-37.62,"Anurag, Bhadra",,1411.0,False,IND,1.0,1,0.16,33,5.28
+48759619,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1617,1700,5.5,11,-1.14,33,-37.62,"Atiksh, Thakur",,1878.0,False,IND,0.0,1,-0.27,33,-8.91
+48759619,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1617,1700,5.5,11,-1.14,33,-37.62,"Siddharth, Samaddar",,1522.0,False,IND,0.5,1,-0.23,33,-7.59
+48759619,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1617,1700,5.5,11,-1.14,33,-37.62,"Devansh, Gupta",,1519.0,False,IND,1.0,1,0.26,33,8.58
+48759619,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1617,1700,5.5,11,-1.14,33,-37.62,"Ayushman, Mohanty",,1823.0,False,IND,0.5,1,0.17,33,5.61
+48759619,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1617,1700,5.5,11,-1.14,33,-37.62,"Nihaan, Pohane",,1847.0,False,IND,0.0,1,-0.3,33,-9.9
+48759619,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1617,1700,5.5,11,-1.14,33,-37.62,"Debarpit, Mishra",,1598.0,False,IND,0.5,1,-0.14,33,-4.62
+48759619,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1617,1700,5.5,11,-1.14,33,-37.62,"Madhav, Jaydeepbhai Vora",,1625.0,False,IND,0.0,1,-0.6,33,-19.8
+48759619,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1617,1700,5.5,11,-1.14,33,-37.62,"Anish, Goswami",,1503.0,False,IND,0.0,1,-0.75,33,-24.75
+48759619,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1617,1700,5.5,11,-1.14,33,-37.62,"Rehant, Dhiraj Koche",,1487.0,False,IND,1.0,1,0.23,33,7.59
+48759619,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1617,1700,5.5,11,-1.14,33,-37.62,"Amiyanshu, Bhowal",,1576.0,False,IND,1.0,1,0.33,33,10.89

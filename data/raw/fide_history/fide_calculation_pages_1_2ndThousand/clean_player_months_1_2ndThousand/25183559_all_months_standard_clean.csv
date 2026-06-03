@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25183559,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1562,1567,2.5,7,-1.11,40,-44.4,"Bharati, Shlok",,1445.0,False,IND,1.0,1,0.33,40,13.2
+25183559,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1562,1567,2.5,7,-1.11,40,-44.4,"Prathamesh, Santosh Gawade",,1782.0,False,IND,0.5,1,0.27,40,10.8
+25183559,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1562,1567,2.5,7,-1.11,40,-44.4,"Gogte, Soumil",,1846.0,False,IND,0.0,1,-0.16,40,-6.4
+25183559,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1562,1567,2.5,7,-1.11,40,-44.4,"Vishal, Govind Kale",,1479.0,False,IND,0.5,1,-0.12,40,-4.8
+25183559,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1562,1567,2.5,7,-1.11,40,-44.4,"Aaradhay, Yogesh Parte",,1481.0,False,IND,0.5,1,-0.12,40,-4.8
+25183559,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1562,1567,2.5,7,-1.11,40,-44.4,"Khanak, Paharia",,1473.0,False,IND,0.0,1,-0.63,40,-25.2
+25183559,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1562,1567,2.5,7,-1.11,40,-44.4,"Kaveer, Deobhankar",,1430.0,False,IND,0.0,1,-0.68,40,-27.2
+25183559,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,1443,1523,1.0,4,-1.44,40,-57.6,"Chheda, Rivan",,1407.0,False,IND,0.0,1,-0.66,40,-26.4
+25183559,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,1443,1523,1.0,4,-1.44,40,-57.6,"Samrat, Jindal",,1440.0,False,IND,0.5,1,-0.11,40,-4.4
+25183559,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,1443,1523,1.0,4,-1.44,40,-57.6,"Atulya, Gupta",,1461.0,False,IND,0.5,1,-0.09,40,-3.6
+25183559,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,1443,1523,1.0,4,-1.44,40,-57.6,"Tanisshi, Agarwaal",,1465.0,False,IND,0.0,1,-0.58,40,-23.2

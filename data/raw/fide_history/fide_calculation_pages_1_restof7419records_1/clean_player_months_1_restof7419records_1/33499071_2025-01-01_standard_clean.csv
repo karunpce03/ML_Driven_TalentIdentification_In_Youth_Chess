@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33499071,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1587,1710,5.5,8,0.21,40,8.4,"Lim, Shi Han Magnus",,1450.0,False,SGP,1.0,1,0.18,40,7.2
+33499071,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1587,1710,5.5,8,0.21,40,8.4,"Manjunathan Janani, Yokgan",,1579.0,False,SGP,1.0,1,0.32,40,12.8
+33499071,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1587,1710,5.5,8,0.21,40,8.4,"Soumyajit, Das",,1865.0,False,IND,0.5,1,0.21,40,8.4
+33499071,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1587,1710,5.5,8,0.21,40,8.4,"Ohng, Kok Yeong Kevin",,1586.0,False,SGP,0.0,1,-0.67,40,-26.8
+33499071,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1587,1710,5.5,8,0.21,40,8.4,"Sophie, Judith Supatra",,1503.0,False,SGP,1.0,1,0.23,40,9.2
+33499071,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1587,1710,5.5,8,0.21,40,8.4,"Cheng, Aiden",,1565.0,False,USA,0.5,1,-0.19,40,-7.6
+33499071,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1587,1710,5.5,8,0.21,40,8.4,"Du, Jingtian Daris",,1567.0,False,SGP,1.0,1,0.31,40,12.4
+33499071,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1587,1710,5.5,8,0.21,40,8.4,"Naresh, Kumar",,1577.0,False,IND,0.5,1,-0.18,40,-7.2

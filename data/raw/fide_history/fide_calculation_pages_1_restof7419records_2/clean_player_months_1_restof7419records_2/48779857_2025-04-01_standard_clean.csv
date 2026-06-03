@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48779857,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2175,2143,5.5,9,1.27,40,50.8,"Srikanth, K.",,1831.0,False,IND,1.0,1,0.14,40,5.6
+48779857,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2175,2143,5.5,9,1.27,40,50.8,"Om, Batra",,1934.0,False,IND,1.0,1,0.23,40,9.2
+48779857,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2175,2143,5.5,9,1.27,40,50.8,"Visakh, N R",g,2514.0,False,IND,0.5,1,0.4,40,16.0
+48779857,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2175,2143,5.5,9,1.27,40,50.8,"Mrityunjay, Kumar",,1976.0,False,IND,1.0,1,0.28,40,11.2
+48779857,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2175,2143,5.5,9,1.27,40,50.8,"Majumder, Shrayan",,2138.0,False,IND,0.5,1,-0.01,40,-0.4
+48779857,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2175,2143,5.5,9,1.27,40,50.8,"Sharnarthi, Viresh",,2198.0,False,IND,0.5,1,0.08,40,3.2
+48779857,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2175,2143,5.5,9,1.27,40,50.8,"Panda, Sambit",m,2383.0,False,IND,0.0,1,-0.2,40,-8.0
+48779857,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2175,2143,5.5,9,1.27,40,50.8,Harikrishnan.a.ra,m,2468.0,False,IND,0.0,1,-0.13,40,-5.2
+48779857,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2175,2143,5.5,9,1.27,40,50.8,"Mukund, Hemant Agarwal",,2130.0,False,IND,1.0,1,0.48,40,19.2

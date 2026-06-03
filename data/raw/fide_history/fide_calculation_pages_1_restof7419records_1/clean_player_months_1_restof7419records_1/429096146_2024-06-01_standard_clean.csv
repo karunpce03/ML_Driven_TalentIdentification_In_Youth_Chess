@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429096146,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,,,1.0,4,0.0,1275,,"Srianshu, Das",,1491,False,IND,0.5,1,0.0,,0.0
+429096146,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,,,1.0,4,0.0,1275,,"Tushar, Das",,1476,False,IND,0.5,1,0.0,,0.0
+429096146,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,,,1.0,4,0.0,1275,,"Pyansu, Nath",,1481,False,IND,0.0,1,0.0,,0.0
+429096146,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,,,1.0,4,0.0,1275,,"Dipro, Mandal",,1422,False,IND,0.0,1,0.0,,0.0

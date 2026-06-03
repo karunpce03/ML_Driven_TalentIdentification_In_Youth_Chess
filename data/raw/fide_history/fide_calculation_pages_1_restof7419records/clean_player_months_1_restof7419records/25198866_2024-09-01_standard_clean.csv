@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25198866,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1815,1805,5.5,11,-0.03,40,-1.2,"Sankalp, Gupta",g,2205,True,IND,0.0,1,-0.08,40,-3.2
+25198866,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1815,1805,5.5,11,-0.03,40,-1.2,"Binod, Kanhar",,1649,False,IND,1.0,1,0.29,40,11.6
+25198866,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1815,1805,5.5,11,-0.03,40,-1.2,"Koustuv, Dash",,2124,False,IND,1.0,1,0.87,40,34.8
+25198866,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1815,1805,5.5,11,-0.03,40,-1.2,"Kishan, Kumar",,1954,False,IND,0.0,1,-0.3,40,-12.0
+25198866,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1815,1805,5.5,11,-0.03,40,-1.2,"Adithya, Vishveshwaran M",,1598,False,IND,0.5,1,-0.27,40,-10.8
+25198866,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1815,1805,5.5,11,-0.03,40,-1.2,"Kolla, Bhaavan",,2050,False,IND,0.0,1,-0.2,40,-8.0
+25198866,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1815,1805,5.5,11,-0.03,40,-1.2,"Dutta, Umashankar",,1714,False,IND,0.5,1,-0.12,40,-4.8
+25198866,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1815,1805,5.5,11,-0.03,40,-1.2,Shreyas,,1714,False,IND,0.5,1,-0.12,40,-4.8
+25198866,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1815,1805,5.5,11,-0.03,40,-1.2,"Shahan, Vohra",,1686,False,IND,1.0,1,0.34,40,13.6
+25198866,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1815,1805,5.5,11,-0.03,40,-1.2,"Saksham, Arora",,1573,False,IND,0.0,1,-0.79,40,-31.6
+25198866,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1815,1805,5.5,11,-0.03,40,-1.2,"Aahna, Gulati",,1694,False,IND,1.0,1,0.35,40,14.0

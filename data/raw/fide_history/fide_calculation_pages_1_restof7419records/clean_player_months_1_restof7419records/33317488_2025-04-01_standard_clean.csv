@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33317488,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1709,1701,4.0,7,0.6,40,24.0,"Victor Siddharthan, J",,1460.0,False,IND,1.0,1,0.2,40,8.0
+33317488,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1709,1701,4.0,7,0.6,40,24.0,"Sreekumar, P.",,1944.0,False,IND,0.0,1,-0.2,40,-8.0
+33317488,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1709,1701,4.0,7,0.6,40,24.0,"Hari, R",,1483.0,False,IND,1.0,1,0.22,40,8.8
+33317488,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1709,1701,4.0,7,0.6,40,24.0,"Deepesh, U",,1497.0,False,IND,1.0,1,0.24,40,9.6
+33317488,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1709,1701,4.0,7,0.6,40,24.0,"Mithiran, A",,1839.0,False,IND,0.5,1,0.19,40,7.6
+33317488,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1709,1701,4.0,7,0.6,40,24.0,"Haaziq, S",,1864.0,False,IND,0.5,1,0.22,40,8.8
+33317488,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1709,1701,4.0,7,0.6,40,24.0,"Kavin, E",,1878.0,False,IND,0.0,1,-0.27,40,-10.8

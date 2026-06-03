@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48786365,2025-01-01,0,Dr. Rangala Babu Rao FIDE OPEN RATING CHESS TOURNAMENT-2024,Visakhapatnam IND,2024-11-27,2024-12-01,1600,1434,0.0,4,-1.13,40,-45.2,"Anirban, Basu",,1647.0,False,IND,0.0,1,-0.23,40,-9.2
+48786365,2025-01-01,0,Dr. Rangala Babu Rao FIDE OPEN RATING CHESS TOURNAMENT-2024,Visakhapatnam IND,2024-11-27,2024-12-01,1600,1434,0.0,4,-1.13,40,-45.2,"Kandalam, Teja",,1622.0,False,IND,0.0,1,-0.26,40,-10.4
+48786365,2025-01-01,0,Dr. Rangala Babu Rao FIDE OPEN RATING CHESS TOURNAMENT-2024,Visakhapatnam IND,2024-11-27,2024-12-01,1600,1434,0.0,4,-1.13,40,-45.2,"Veerraju, Sanchana",,1564.0,False,IND,0.0,1,-0.32,40,-12.8
+48786365,2025-01-01,0,Dr. Rangala Babu Rao FIDE OPEN RATING CHESS TOURNAMENT-2024,Visakhapatnam IND,2024-11-27,2024-12-01,1600,1434,0.0,4,-1.13,40,-45.2,"Anagani, Sasank",,1567.0,False,IND,0.0,1,-0.32,40,-12.8

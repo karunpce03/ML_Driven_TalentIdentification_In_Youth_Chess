@@ -1,0 +1,17 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48769800,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1532,1438,3.0,7,0.37,40,14.8,"Muthe, Dhruv",,1640.0,False,IND,0.5,1,0.26,40,10.4
+48769800,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1532,1438,3.0,7,0.37,40,14.8,"Devesh, Anil Ambre",,1648.0,False,IND,0.5,1,0.27,40,10.8
+48769800,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1532,1438,3.0,7,0.37,40,14.8,"Medhansh, Dinesh Poojary",,1511.0,False,IND,0.5,1,0.1,40,4.0
+48769800,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1532,1438,3.0,7,0.37,40,14.8,"Sarvesh, Mahesh Sawant",,1490.0,False,IND,0.0,1,-0.43,40,-17.2
+48769800,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1532,1438,3.0,7,0.37,40,14.8,"Naval, Mit Vora",,1471.0,False,IND,1.0,1,0.55,40,22.0
+48769800,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1532,1438,3.0,7,0.37,40,14.8,"Vihaan, Ravi Rao",,1490.0,False,IND,0.0,1,-0.43,40,-17.2
+48769800,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1532,1438,3.0,7,0.37,40,14.8,"Samrat, Jindal",,1471.0,False,IND,0.5,1,0.05,40,2.0
+48769800,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1548,1453,3.5,9,0.17,40,6.8,"Sharangsh, Ghosh",,1421.0,False,IND,1.0,1,0.46,40,18.4
+48769800,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1548,1453,3.5,9,0.17,40,6.8,"Dhyaan, Patel",,1567.0,False,IND,0.5,1,0.16,40,6.4
+48769800,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1548,1453,3.5,9,0.17,40,6.8,"Vivaan, Chawla",,1577.0,False,IND,0.0,1,-0.33,40,-13.2
+48769800,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1548,1453,3.5,9,0.17,40,6.8,"Anvit, Srivastava",,1619.0,False,IND,1.0,1,0.72,40,28.8
+48769800,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1548,1453,3.5,9,0.17,40,6.8,"Ayaanraj, Kottapally",,1561.0,False,IND,0.0,1,-0.35,40,-14.0
+48769800,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1548,1453,3.5,9,0.17,40,6.8,"Svar, Srivastava",,1597.0,False,IND,0.5,1,0.19,40,7.6
+48769800,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1548,1453,3.5,9,0.17,40,6.8,"Kothari, Siddhant",,1538.0,False,IND,0.0,1,-0.38,40,-15.2
+48769800,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1548,1453,3.5,9,0.17,40,6.8,"Pradhyot, Mishra",,1535.0,False,IND,0.5,1,0.11,40,4.4
+48769800,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1548,1453,3.5,9,0.17,40,6.8,"Ansh, Kabra",,1515.0,False,IND,0.0,1,-0.41,40,-16.4

@@ -1,0 +1,27 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48701491,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,,,3.0,8,0.0,1387,,"Ishaan, Bhatnagar",,1571.0,False,IND,0.0,1,0.0,,0.0
+48701491,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,,,3.0,8,0.0,1387,,"Advait, Jarial",,1466.0,False,IND,0.5,1,0.0,,0.0
+48701491,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,,,3.0,8,0.0,1387,,"Sarthak, Maji",,1468.0,False,IND,0.5,1,0.0,,0.0
+48701491,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,,,3.0,8,0.0,1387,,"Vedant, Aggarwal",,1453.0,False,IND,0.0,1,0.0,,0.0
+48701491,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,,,3.0,8,0.0,1387,,"Divena, Pawar",,1480.0,False,IND,1.0,1,0.0,,0.0
+48701491,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,,,3.0,8,0.0,1387,,"Nisha, Bhushan",,1462.0,False,IND,0.0,1,0.0,,0.0
+48701491,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,,,3.0,8,0.0,1387,,"Tanmay, Sachdeva",,1440.0,False,IND,0.5,1,0.0,,0.0
+48701491,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,,,3.0,8,0.0,1387,,"Thulasidhass, P",,1453.0,False,IND,0.5,1,0.0,,0.0
+48701491,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,,,2.0,8,0.0,1337,,"Chandwani, Prateek",,1605.0,False,IND,0.0,1,0.0,,0.0
+48701491,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,,,2.0,8,0.0,1337,,"Ankush, Raj",,1472.0,False,IND,1.0,1,0.0,,0.0
+48701491,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,,,2.0,8,0.0,1337,,"Sushane, Bahri",,1498.0,False,IND,0.0,1,0.0,,0.0
+48701491,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,,,2.0,8,0.0,1337,,"Arv, Jain",,1454.0,False,IND,1.0,1,0.0,,0.0
+48701491,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,,,2.0,8,0.0,1337,,"Tushar, Damor",,1525.0,False,IND,0.0,1,0.0,,0.0
+48701491,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,,,2.0,8,0.0,1337,,"Amogh, Agrawal",,1560.0,False,IND,0.0,1,0.0,,0.0
+48701491,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,,,2.0,8,0.0,1337,,"Manvender, Singh",,1503.0,False,IND,0.0,1,0.0,,0.0
+48701491,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,,,2.0,8,0.0,1337,,"Jakar, Akhilesh",,1623.0,False,IND,0.0,1,0.0,,0.0
+48701491,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1656.0,1435.0,1.0,6,-0.38,40,-15.2,"Vedant, Bhardwaj",,1758.0,False,IND,0.0,1,-0.13,40.0,-5.2
+48701491,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1656.0,1435.0,1.0,6,-0.38,40,-15.2,"Hari, K Annamalai",,1623.0,False,IND,0.0,1,-0.26,40.0,-10.4
+48701491,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1656.0,1435.0,1.0,6,-0.38,40,-15.2,"Gopala, Krishna Sharma Kolluru",,1575.0,False,IND,0.5,1,0.19,40.0,7.6
+48701491,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1656.0,1435.0,1.0,6,-0.38,40,-15.2,"Vignesh, S",,1555.0,False,IND,0.0,1,-0.34,40.0,-13.6
+48701491,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1656.0,1435.0,1.0,6,-0.38,40,-15.2,"Arnav, B Kumar",,1762.0,False,IND,0.0,1,-0.13,40.0,-5.2
+48701491,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1656.0,1435.0,1.0,6,-0.38,40,-15.2,"Samradhh, Singh Tomar",,1665.0,False,IND,0.5,1,0.29,40.0,11.6
+48701491,2024-08-01,0,M.P. STATE SENIOR (OPEN) RATING CHESS CHAMPIONSHIP - 2024,Dewas IND,2024-07-26,2024-07-28,1574.0,1435.0,1.5,3,0.51,40,20.4,"Rajendra, Sharma",,1429.0,False,IND,0.5,1,-0.01,40.0,-0.4
+48701491,2024-08-01,0,M.P. STATE SENIOR (OPEN) RATING CHESS CHAMPIONSHIP - 2024,Dewas IND,2024-07-26,2024-07-28,1574.0,1435.0,1.5,3,0.51,40,20.4,"Jain, Divyanshu",,1579.0,False,IND,1.0,1,0.69,40.0,27.6
+48701491,2024-08-01,0,M.P. STATE SENIOR (OPEN) RATING CHESS CHAMPIONSHIP - 2024,Dewas IND,2024-07-26,2024-07-28,1574.0,1435.0,1.5,3,0.51,40,20.4,"Shrivastava, Kushagra",,1713.0,False,IND,0.0,1,-0.17,40.0,-6.8
+48701491,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1831.0,1440.0,0.0,1,-0.09,40,-3.6,"Aarit, Kapil",,1831.0,False,IND,0.0,1,-0.09,40.0,-3.6

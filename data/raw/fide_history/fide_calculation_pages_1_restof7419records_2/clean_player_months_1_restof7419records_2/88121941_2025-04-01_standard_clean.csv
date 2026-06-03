@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88121941,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1625,1443,2.0,4,0.87,40,34.8,"Vidit, Sethi",,1831.0,False,IND,0.5,1,0.41,40,16.4
+88121941,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1625,1443,2.0,4,0.87,40,34.8,"Abhinav, Kirti Varman",,1592.0,False,IND,0.5,1,0.2,40,8.0
+88121941,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1625,1443,2.0,4,0.87,40,34.8,"Apratim, Shukla",,1571.0,False,IND,0.5,1,0.17,40,6.8
+88121941,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1625,1443,2.0,4,0.87,40,34.8,"Atiksh, Sagar",,1507.0,False,IND,0.5,1,0.09,40,3.6
+88121941,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1595,1443,4.0,6,2.18,40,87.2,"Pranav, Rastogi",,1681.0,False,IND,0.5,1,0.3,40,12.0
+88121941,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1595,1443,4.0,6,2.18,40,87.2,"Reyansh, Kashyap",,1511.0,False,IND,0.5,1,0.09,40,3.6
+88121941,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1595,1443,4.0,6,2.18,40,87.2,"Abhinav, Kirti Varman",,1592.0,False,IND,1.0,1,0.7,40,28.0
+88121941,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1595,1443,4.0,6,2.18,40,87.2,"Aarav, Gupta",,1648.0,False,IND,1.0,1,0.76,40,30.4
+88121941,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1595,1443,4.0,6,2.18,40,87.2,"Lakshya, Nigam",,1652.0,False,IND,0.0,1,-0.23,40,-9.2
+88121941,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1595,1443,4.0,6,2.18,40,87.2,"Chaudhary, Parv",,1484.0,False,IND,1.0,1,0.56,40,22.4

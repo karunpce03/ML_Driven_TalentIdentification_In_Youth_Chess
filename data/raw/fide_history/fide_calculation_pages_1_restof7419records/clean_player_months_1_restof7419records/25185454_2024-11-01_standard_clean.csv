@@ -1,0 +1,28 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25185454,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2150,2162,4.5,9,-0.12,25,-3.0,"Aizenberg, Benny",f,2423.0,False,ISR,0.0,1,-0.18,25,-4.5
+25185454,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2150,2162,4.5,9,-0.12,25,-3.0,"Gasland, Lukas Dominik",,1905.0,False,NOR,0.5,1,-0.32,25,-8.0
+25185454,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2150,2162,4.5,9,-0.12,25,-3.0,"Sorgjerd, Jan",,1966.0,False,NOR,0.5,1,-0.25,25,-6.25
+25185454,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2150,2162,4.5,9,-0.12,25,-3.0,"Laddha, Shubh Jayesh",f,2308.0,False,USA,0.0,1,-0.3,25,-7.5
+25185454,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2150,2162,4.5,9,-0.12,25,-3.0,"Juodziukynas, Aidas",,1917.0,False,NOR,1.0,1,0.2,25,5.0
+25185454,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2150,2162,4.5,9,-0.12,25,-3.0,"Sorensen, Hampus",m,2423.0,False,SWE,0.0,1,-0.18,25,-4.5
+25185454,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2150,2162,4.5,9,-0.12,25,-3.0,"Stromhaug, Kristoffer Wang",,1960.0,False,NOR,1.0,1,0.24,25,6.0
+25185454,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2150,2162,4.5,9,-0.12,25,-3.0,"Nagare, Akhilesh",c,2245.0,False,IND,0.5,1,0.11,25,2.75
+25185454,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2150,2162,4.5,9,-0.12,25,-3.0,"Westrum, Kim Roger Hansen",c,2205.0,False,NOR,1.0,1,0.56,25,14.0
+25185454,2024-11-01,0,Vezerkepzo Harvest 2024 IM,Budapest HUN,2024-10-14,2024-10-19,2238,2162,2.0,9,-1.59,25,-39.75,"To, Nhat Minh",m,2318.0,False,HUN,0.0,1,-0.29,25,-7.25
+25185454,2024-11-01,0,Vezerkepzo Harvest 2024 IM,Budapest HUN,2024-10-14,2024-10-19,2238,2162,2.0,9,-1.59,25,-39.75,"Nemeth, Zalan",f,2225.0,False,IRL,0.0,1,-0.41,25,-10.25
+25185454,2024-11-01,0,Vezerkepzo Harvest 2024 IM,Budapest HUN,2024-10-14,2024-10-19,2238,2162,2.0,9,-1.59,25,-39.75,"Sagi, Bence",,2205.0,False,HUN,0.5,1,0.06,25,1.5
+25185454,2024-11-01,0,Vezerkepzo Harvest 2024 IM,Budapest HUN,2024-10-14,2024-10-19,2238,2162,2.0,9,-1.59,25,-39.75,"Munkhgal, Gombosuren",g,2410.0,False,MGL,0.0,1,-0.19,25,-4.75
+25185454,2024-11-01,0,Vezerkepzo Harvest 2024 IM,Budapest HUN,2024-10-14,2024-10-19,2238,2162,2.0,9,-1.59,25,-39.75,"Otsuka, Shou",c,2271.0,False,JPN,1.0,1,0.65,25,16.25
+25185454,2024-11-01,0,Vezerkepzo Harvest 2024 IM,Budapest HUN,2024-10-14,2024-10-19,2238,2162,2.0,9,-1.59,25,-39.75,"Fodor, Balazs",,2240.0,False,HUN,0.5,1,0.11,25,2.75
+25185454,2024-11-01,0,Vezerkepzo Harvest 2024 IM,Budapest HUN,2024-10-14,2024-10-19,2238,2162,2.0,9,-1.59,25,-39.75,"Amin-Erdene, Bayanmunkh",wf,2014.0,False,MGL,0.0,1,-0.7,25,-17.5
+25185454,2024-11-01,0,Vezerkepzo Harvest 2024 IM,Budapest HUN,2024-10-14,2024-10-19,2238,2162,2.0,9,-1.59,25,-39.75,"Varga, Csaba Zoltan",f,2189.0,False,HUN,0.0,1,-0.46,25,-11.5
+25185454,2024-11-01,0,Vezerkepzo Harvest 2024 IM,Budapest HUN,2024-10-14,2024-10-19,2238,2162,2.0,9,-1.59,25,-39.75,"Turzo, Attila",m,2267.0,False,HUN,0.0,1,-0.36,25,-9.0
+25185454,2024-11-01,0,2. Berlin U25 Open A,Berlin GER,2024-10-21,2024-10-27,2144,2162,3.5,9,-1.21,25,-30.25,"Nemec, Jachym",f,2398.0,False,CZE,0.0,1,-0.2,25,-5.0
+25185454,2024-11-01,0,2. Berlin U25 Open A,Berlin GER,2024-10-21,2024-10-27,2144,2162,3.5,9,-1.21,25,-30.25,"Stremavicius, Pijus",f,2346.0,False,LTU,0.0,1,-0.26,25,-6.5
+25185454,2024-11-01,0,2. Berlin U25 Open A,Berlin GER,2024-10-21,2024-10-27,2144,2162,3.5,9,-1.21,25,-30.25,"Held, Momme Fredrik",,2041.0,False,GER,1.0,1,0.34,25,8.5
+25185454,2024-11-01,0,2. Berlin U25 Open A,Berlin GER,2024-10-21,2024-10-27,2144,2162,3.5,9,-1.21,25,-30.25,"Hesse, Henrik",f,2281.0,False,GER,0.0,1,-0.34,25,-8.5
+25185454,2024-11-01,0,2. Berlin U25 Open A,Berlin GER,2024-10-21,2024-10-27,2144,2162,3.5,9,-1.21,25,-30.25,"Bargsten, Justus",c,2211.0,False,GER,0.0,1,-0.43,25,-10.75
+25185454,2024-11-01,0,2. Berlin U25 Open A,Berlin GER,2024-10-21,2024-10-27,2144,2162,3.5,9,-1.21,25,-30.25,"Gabadadze, Gabriel",,2043.0,False,GEO,0.5,1,-0.16,25,-4.0
+25185454,2024-11-01,0,2. Berlin U25 Open A,Berlin GER,2024-10-21,2024-10-27,2144,2162,3.5,9,-1.21,25,-30.25,"Liu, Jonas",,1911.0,False,GER,1.0,1,0.19,25,4.75
+25185454,2024-11-01,0,2. Berlin U25 Open A,Berlin GER,2024-10-21,2024-10-27,2144,2162,3.5,9,-1.21,25,-30.25,"Verbitsky, Jaroslaw",,2063.0,False,GER,0.5,1,-0.14,25,-3.5
+25185454,2024-11-01,0,2. Berlin U25 Open A,Berlin GER,2024-10-21,2024-10-27,2144,2162,3.5,9,-1.21,25,-30.25,"Nguyen, Phuc Nhat",,2000.0,False,GER,0.5,1,-0.21,25,-5.25

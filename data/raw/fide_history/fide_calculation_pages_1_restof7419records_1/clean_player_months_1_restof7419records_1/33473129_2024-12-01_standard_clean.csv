@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33473129,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1737,1533,3.0,6,1.55,40,62.0,Krishna,,1857.0,False,IND,0.0,1,-0.13,40,-5.2
+33473129,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1737,1533,3.0,6,1.55,40,62.0,"Aadya, Gowda",,1700.0,False,IND,1.0,1,0.72,40,28.8
+33473129,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1737,1533,3.0,6,1.55,40,62.0,"Abhinav, V",,1732.0,False,IND,0.0,1,-0.24,40,-9.6
+33473129,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1737,1533,3.0,6,1.55,40,62.0,"Krupha, S Ukkali",,1741.0,False,IND,1.0,1,0.77,40,30.8
+33473129,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1737,1533,3.0,6,1.55,40,62.0,"Sinthia, Sarkar",,1708.0,False,IND,0.0,1,-0.27,40,-10.8
+33473129,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1737,1533,3.0,6,1.55,40,62.0,"Aryan, Anand",,1683.0,False,IND,1.0,1,0.7,40,28.0

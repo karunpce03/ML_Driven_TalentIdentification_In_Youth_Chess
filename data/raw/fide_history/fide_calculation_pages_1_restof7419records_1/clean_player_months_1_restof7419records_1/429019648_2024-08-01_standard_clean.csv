@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429019648,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1571,1518,2.5,5,0.3,40,12.0,"Shubh, Atha",,1777.0,False,IND,0.0,1,-0.18,40,-7.2
+429019648,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1571,1518,2.5,5,0.3,40,12.0,"Arhan, Jain",,1740.0,False,IND,0.0,1,-0.22,40,-8.8
+429019648,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1571,1518,2.5,5,0.3,40,12.0,"Kushagra, Punyani",,1429.0,False,IND,0.5,1,-0.12,40,-4.8
+429019648,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1571,1518,2.5,5,0.3,40,12.0,"Kunsh, Malhotra",,1439.0,False,IND,1.0,1,0.39,40,15.6
+429019648,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1571,1518,2.5,5,0.3,40,12.0,"Vanshika, Rawat",,1471.0,False,IND,1.0,1,0.43,40,17.2

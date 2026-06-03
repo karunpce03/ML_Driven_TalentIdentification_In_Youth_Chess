@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33495173,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1559,1419,1.5,6,-0.43,40,-17.2,"Safal, Fazil",,1758.0,False,IND,0.0,1,-0.12,40,-4.8
+33495173,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1559,1419,1.5,6,-0.43,40,-17.2,"Achinthya, Bhat",,1584.0,False,IND,0.0,1,-0.28,40,-11.2
+33495173,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1559,1419,1.5,6,-0.43,40,-17.2,"Nakshatra, V K",,1468.0,False,IND,1.0,1,0.57,40,22.8
+33495173,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1559,1419,1.5,6,-0.43,40,-17.2,"Janaki, S D",,1528.0,False,IND,0.0,1,-0.35,40,-14.0
+33495173,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1559,1419,1.5,6,-0.43,40,-17.2,"Saketh, Kunnummalkattil",,1518.0,False,IND,0.5,1,0.14,40,5.6
+33495173,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1559,1419,1.5,6,-0.43,40,-17.2,"Pavan, Kalyan",,1498.0,False,IND,0.0,1,-0.39,40,-15.6
+33495173,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1566,1419,1.0,5,-0.62,40,-24.8,"Sham, R",,1819.0,True,IND,0.0,1,-0.08,40,-3.2
+33495173,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1566,1419,1.0,5,-0.62,40,-24.8,"Nikiilesh, A U",,1525.0,False,IND,0.0,1,-0.36,40,-14.4
+33495173,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1566,1419,1.0,5,-0.62,40,-24.8,"Nalan, Arumugam S",,1485.0,False,IND,1.0,1,0.59,40,23.6
+33495173,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1566,1419,1.0,5,-0.62,40,-24.8,"Ayyappan, S",,1520.0,False,IND,0.0,1,-0.36,40,-14.4
+33495173,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1566,1419,1.0,5,-0.62,40,-24.8,"Alden, John Biju",,1481.0,False,IND,0.0,1,-0.41,40,-16.4

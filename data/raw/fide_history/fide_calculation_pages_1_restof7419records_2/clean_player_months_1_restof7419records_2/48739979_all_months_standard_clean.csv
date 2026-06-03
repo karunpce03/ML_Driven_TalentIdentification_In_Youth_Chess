@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48739979,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,1515,1457,2.0,4,0.32,40,12.8,"Aylore, Hari Suryanarayana",,1565.0,False,IND,0.0,1,-0.35,40,-14.0
+48739979,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,1515,1457,2.0,4,0.32,40,12.8,"Veeragani, Monish",,1404.0,False,IND,1.0,1,0.43,40,17.2
+48739979,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,1515,1457,2.0,4,0.32,40,12.8,"Deepak, Kuttiyappan",,1547.0,False,IND,0.5,1,0.12,40,4.8
+48739979,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,1515,1457,2.0,4,0.32,40,12.8,"Bhaskara, Rao Balaga",,1542.0,False,IND,0.5,1,0.12,40,4.8
+48739979,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1411,1470,0.5,1,-0.08,40,-3.2,"Reyansh, Mallick",,1411.0,False,IND,0.5,1,-0.08,40,-3.2
+48739979,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1589,1467,0.0,5,-1.68,40,-67.2,"Supathrajith, M",,1452.0,False,IND,0.0,1,-0.52,40,-20.8
+48739979,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1589,1467,0.0,5,-1.68,40,-67.2,"Vakada, Sriram Jayin",,1656.0,False,IND,0.0,1,-0.25,40,-10.0
+48739979,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1589,1467,0.0,5,-1.68,40,-67.2,"Shourya, Gupta",,1617.0,False,IND,0.0,1,-0.3,40,-12.0
+48739979,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1589,1467,0.0,5,-1.68,40,-67.2,"Advit, Pandey",,1590.0,False,IND,0.0,1,-0.33,40,-13.2
+48739979,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1589,1467,0.0,5,-1.68,40,-67.2,"Dev, Dharshan S",,1632.0,False,IND,0.0,1,-0.28,40,-11.2

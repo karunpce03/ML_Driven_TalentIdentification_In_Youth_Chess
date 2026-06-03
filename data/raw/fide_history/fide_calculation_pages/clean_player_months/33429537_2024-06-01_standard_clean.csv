@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33429537,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.0,1,0.0,812,,"Kaushika, Sridharan",,1612,False,IND,0.0,1,0.0,,0.0
+33429537,2024-06-01,0,Tamil Nadu State Under-25 Girls Chess Championships 2024,Panruti IND,2024-05-22,2024-05-26,,,1.0,2,0.0,1409,,"Priyanka, M",,1403,False,IND,0.0,1,0.0,,0.0
+33429537,2024-06-01,0,Tamil Nadu State Under-25 Girls Chess Championships 2024,Panruti IND,2024-05-22,2024-05-26,,,1.0,2,0.0,1409,,"Sumithra, S",,1415,False,IND,1.0,1,0.0,,0.0

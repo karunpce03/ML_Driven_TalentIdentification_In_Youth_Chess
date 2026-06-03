@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+146105007,2025-01-01,0,Chess Lab U1800 Classic Tournament-November,Dubai UAE,2024-11-29,2024-11-30,1579,1519,1.0,3,-0.27,40,-10.8,"Reyes, Danilo G.",,1698.0,False,PHI,0.0,1,-0.27,40,-10.8
+146105007,2025-01-01,0,Chess Lab U1800 Classic Tournament-November,Dubai UAE,2024-11-29,2024-11-30,1579,1519,1.0,3,-0.27,40,-10.8,"Reyansh, Amit Bodkhe",,1493.0,False,IND,1.0,1,0.46,40,18.4
+146105007,2025-01-01,0,Chess Lab U1800 Classic Tournament-November,Dubai UAE,2024-11-29,2024-11-30,1579,1519,1.0,3,-0.27,40,-10.8,"Nikil, Reddy Thalamarla",,1547.0,False,IND,0.0,1,-0.46,40,-18.4
+146105007,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,1648,1470,2.5,4,1.39,40,55.6,"Cresencia, Clarence Miguel",,1567.0,False,PHI,0.0,1,-0.37,40,-14.8
+146105007,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,1648,1470,2.5,4,1.39,40,55.6,"Gavrylchenko, Illia",,1543.0,False,GER,1.0,1,0.6,40,24.0
+146105007,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,1648,1470,2.5,4,1.39,40,55.6,"Nowroozian, Nader",,1750.0,False,IRI,0.5,1,0.34,40,13.6
+146105007,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,1648,1470,2.5,4,1.39,40,55.6,"Kaushika, Sridharan",,1733.0,False,IND,1.0,1,0.82,40,32.8

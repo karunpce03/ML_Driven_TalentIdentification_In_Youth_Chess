@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33427810,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1649,1426,1.0,4,0.06,40,2.4,"Debashish, Das",,1498.0,False,IND,1.0,1,0.6,40,24.0
+33427810,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1649,1426,1.0,4,0.06,40,2.4,"Ranit, Maity",,1791.0,False,IND,0.0,1,-0.1,40,-4.0
+33427810,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1649,1426,1.0,4,0.06,40,2.4,"Das, Monaj",,1693.0,False,IND,0.0,1,-0.18,40,-7.2
+33427810,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1649,1426,1.0,4,0.06,40,2.4,"Abhinava, Nath",,1613.0,False,IND,0.0,1,-0.26,40,-10.4

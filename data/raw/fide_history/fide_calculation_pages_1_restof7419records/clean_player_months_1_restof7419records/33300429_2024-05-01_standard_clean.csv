@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33300429,2024-05-01,0,16th Annual Open at Foxwoods - Major,"Mashantucket, CT USA",2024-03-27,2024-03-31,2087,1814,1.5,7,0.25,40,10.0,"Deviprasath, Sharvesh R",f,2214,True,USA,0.0,1,-0.08,40,-3.2
+33300429,2024-05-01,0,16th Annual Open at Foxwoods - Major,"Mashantucket, CT USA",2024-03-27,2024-03-31,2087,1814,1.5,7,0.25,40,10.0,"Mkrtchyan, Mikayel",,2071,False,ARM,0.0,1,-0.18,40,-7.2
+33300429,2024-05-01,0,16th Annual Open at Foxwoods - Major,"Mashantucket, CT USA",2024-03-27,2024-03-31,2087,1814,1.5,7,0.25,40,10.0,"Rogers, Norman",f,2013,False,USA,1.0,1,0.76,40,30.4
+33300429,2024-05-01,0,16th Annual Open at Foxwoods - Major,"Mashantucket, CT USA",2024-03-27,2024-03-31,2087,1814,1.5,7,0.25,40,10.0,"Graif, William",f,2214,True,CAN,0.0,1,-0.08,40,-3.2
+33300429,2024-05-01,0,16th Annual Open at Foxwoods - Major,"Mashantucket, CT USA",2024-03-27,2024-03-31,2087,1814,1.5,7,0.25,40,10.0,"Li, Michael",,2035,False,USA,0.0,1,-0.22,40,-8.8
+33300429,2024-05-01,0,16th Annual Open at Foxwoods - Major,"Mashantucket, CT USA",2024-03-27,2024-03-31,2087,1814,1.5,7,0.25,40,10.0,"Markzon, Gregory",f,2008,False,USA,0.5,1,0.25,40,10.0
+33300429,2024-05-01,0,16th Annual Open at Foxwoods - Major,"Mashantucket, CT USA",2024-03-27,2024-03-31,2087,1814,1.5,7,0.25,40,10.0,"Ansari Now, Keivan",,2056,False,IRI,0.0,1,-0.2,40,-8.0

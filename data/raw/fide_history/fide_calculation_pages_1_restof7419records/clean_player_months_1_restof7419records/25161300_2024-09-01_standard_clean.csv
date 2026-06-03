@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25161300,2024-09-01,0,"UIn Sports : 2nd International Below 1800 FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-08-16,2024-08-18,1632,1493,1.5,4,0.2,40,8.0,"Kasar, Gunvant",,1690.0,False,IND,0.0,1,-0.25,40,-10.0
+25161300,2024-09-01,0,"UIn Sports : 2nd International Below 1800 FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-08-16,2024-08-18,1632,1493,1.5,4,0.2,40,8.0,"Vaidya, Mihir",,1679.0,False,IND,0.0,1,-0.26,40,-10.4
+25161300,2024-09-01,0,"UIn Sports : 2nd International Below 1800 FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-08-16,2024-08-18,1632,1493,1.5,4,0.2,40,8.0,"Soham, Deshmukh",,1426.0,False,IND,1.0,1,0.41,40,16.4
+25161300,2024-09-01,0,"UIn Sports : 2nd International Below 1800 FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-08-16,2024-08-18,1632,1493,1.5,4,0.2,40,8.0,"Tharayil, Sudhir",,1734.0,False,IND,0.5,1,0.3,40,12.0

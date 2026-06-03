@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45029946,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2197,2261,5.0,9,-0.01,20,-0.2,"Mahir, Taneja",,1910,False,IND,1.0,1,0.11,20,2.2
+45029946,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2197,2261,5.0,9,-0.01,20,-0.2,"Akshat, Negi",,1861,True,IND,1.0,1,0.08,20,1.6
+45029946,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2197,2261,5.0,9,-0.01,20,-0.2,"Varun, V",,2237,False,IND,0.5,1,-0.03,20,-0.6
+45029946,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2197,2261,5.0,9,-0.01,20,-0.2,"Sankalp, Gupta",g,2545,False,IND,0.0,1,-0.16,20,-3.2
+45029946,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2197,2261,5.0,9,-0.01,20,-0.2,"Gaurav, Danu",,1861,True,IND,1.0,1,0.08,20,1.6
+45029946,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2197,2261,5.0,9,-0.01,20,-0.2,"Jani, Kushal R",f,2270,False,IND,0.5,1,0.01,20,0.2
+45029946,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2197,2261,5.0,9,-0.01,20,-0.2,"Das, Sayantan",g,2428,False,IND,0.5,1,0.22,20,4.4
+45029946,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2197,2261,5.0,9,-0.01,20,-0.2,"Mummana, Venkata Ruthvik",,2201,False,IND,0.5,1,-0.08,20,-1.6
+45029946,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2197,2261,5.0,9,-0.01,20,-0.2,"Neelash, Saha",m,2460,False,IND,0.0,1,-0.24,20,-4.8

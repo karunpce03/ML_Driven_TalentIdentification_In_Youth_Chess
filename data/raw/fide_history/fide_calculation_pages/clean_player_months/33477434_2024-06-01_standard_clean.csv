@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33477434,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1627,1521,2.5,6,0.22,40,8.8,"Sharsha, Backer",,1921.0,True,IND,0.0,1,-0.08,40,-3.2
+33477434,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1627,1521,2.5,6,0.22,40,8.8,"Soumiya, Murugan",,1668.0,False,IND,0.0,1,-0.3,40,-12.0
+33477434,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1627,1521,2.5,6,0.22,40,8.8,"Ayushi, Dinesh",,1406.0,False,IND,1.0,1,0.34,40,13.6
+33477434,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1627,1521,2.5,6,0.22,40,8.8,"Mithun, K",,1683.0,False,IND,1.0,1,0.71,40,28.4
+33477434,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1627,1521,2.5,6,0.22,40,8.8,Raghunandan,,1655.0,False,IND,0.0,1,-0.32,40,-12.8
+33477434,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1627,1521,2.5,6,0.22,40,8.8,"Munakala, Sri Saketh",,1428.0,False,IND,0.5,1,-0.13,40,-5.2
+33477434,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1649,1521,1.0,4,-0.34,40,-13.6,"Sunil Dev, S",,1741.0,False,IND,0.5,1,0.28,40,11.2
+33477434,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1649,1521,1.0,4,-0.34,40,-13.6,"Kishore, V",,1750.0,False,IND,0.0,1,-0.21,40,-8.4
+33477434,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1649,1521,1.0,4,-0.34,40,-13.6,"Bhava, Kishan",,1439.0,False,IND,0.5,1,-0.11,40,-4.4
+33477434,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1649,1521,1.0,4,-0.34,40,-13.6,"Gokul, G",,1667.0,False,IND,0.0,1,-0.3,40,-12.0

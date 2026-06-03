@@ -1,0 +1,31 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48768456,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1677,1717,4.5,7,0.63,40,25.2,"Larsen, Hans Haagen",,1678.0,False,DEN,0.0,1,-0.55,40,-22.0
+48768456,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1677,1717,4.5,7,0.63,40,25.2,"Sandbech, Ted Henrik",,1754.0,False,DEN,0.5,1,0.05,40,2.0
+48768456,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1677,1717,4.5,7,0.63,40,25.2,"Kristensen, Lars Ostergaard",,1750.0,False,DEN,0.0,1,-0.45,40,-18.0
+48768456,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1677,1717,4.5,7,0.63,40,25.2,"Jensen, Jonbert M. S.",,1601.0,False,DEN,1.0,1,0.34,40,13.6
+48768456,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1677,1717,4.5,7,0.63,40,25.2,"Bollestad, Leiv Ove",,1644.0,False,NOR,1.0,1,0.4,40,16.0
+48768456,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1677,1717,4.5,7,0.63,40,25.2,"Avyaay, Garg",,1567.0,False,IND,1.0,1,0.3,40,12.0
+48768456,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1677,1717,4.5,7,0.63,40,25.2,"Rasmussen, Matthias",,1745.0,False,DEN,1.0,1,0.54,40,21.6
+48768456,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1738,1717,4.0,7,0.65,40,26.0,"Altieri, Danilo Mario",,1908.0,False,ITA,0.0,1,-0.25,40,-10.0
+48768456,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1738,1717,4.0,7,0.65,40,26.0,"Orsini, Riccardo",,1669.0,False,ITA,1.0,1,0.43,40,17.2
+48768456,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1738,1717,4.0,7,0.65,40,26.0,"Molinari, Mario",,1931.0,False,ITA,0.0,1,-0.23,40,-9.2
+48768456,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1738,1717,4.0,7,0.65,40,26.0,"La Licata, Matteo",,1645.0,False,ITA,0.5,1,-0.1,40,-4.0
+48768456,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1738,1717,4.0,7,0.65,40,26.0,"Paolinelli, Leonardo",,1659.0,False,ITA,0.5,1,-0.08,40,-3.2
+48768456,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1738,1717,4.0,7,0.65,40,26.0,"Matrahazi, Roland",,1675.0,False,HUN,1.0,1,0.44,40,17.6
+48768456,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1738,1717,4.0,7,0.65,40,26.0,"Nanni, Sergio",,1676.0,False,ITA,1.0,1,0.44,40,17.6
+48768456,2025-02-01,0,21e Bois-Colombes Chess Master - Open B,BOIS COLOMBES FRA,2024-12-26,2024-12-30,1746,1768,4.0,9,-0.77,40,-30.8,"Chartier, Romain",,1606.0,False,FRA,1.0,1,0.29,40,11.6
+48768456,2025-02-01,0,21e Bois-Colombes Chess Master - Open B,BOIS COLOMBES FRA,2024-12-26,2024-12-30,1746,1768,4.0,9,-0.77,40,-30.8,"Vijay, Soukreev",,1888.0,False,FRA,0.0,1,-0.34,40,-13.6
+48768456,2025-02-01,0,21e Bois-Colombes Chess Master - Open B,BOIS COLOMBES FRA,2024-12-26,2024-12-30,1746,1768,4.0,9,-0.77,40,-30.8,"Delerive, Christian",,1622.0,False,FRA,1.0,1,0.3,40,12.0
+48768456,2025-02-01,0,21e Bois-Colombes Chess Master - Open B,BOIS COLOMBES FRA,2024-12-26,2024-12-30,1746,1768,4.0,9,-0.77,40,-30.8,"Balasoupramaniane, Dinesh",,1856.0,False,FRA,0.0,1,-0.38,40,-15.2
+48768456,2025-02-01,0,21e Bois-Colombes Chess Master - Open B,BOIS COLOMBES FRA,2024-12-26,2024-12-30,1746,1768,4.0,9,-0.77,40,-30.8,"Chendighilean, Anna",,1912.0,False,MDA,0.0,1,-0.31,40,-12.4
+48768456,2025-02-01,0,21e Bois-Colombes Chess Master - Open B,BOIS COLOMBES FRA,2024-12-26,2024-12-30,1746,1768,4.0,9,-0.77,40,-30.8,"Duong, Lucas",,1671.0,False,FRA,0.0,1,-0.63,40,-25.2
+48768456,2025-02-01,0,21e Bois-Colombes Chess Master - Open B,BOIS COLOMBES FRA,2024-12-26,2024-12-30,1746,1768,4.0,9,-0.77,40,-30.8,"Tree, Djuna",,1645.0,False,ENG,1.0,1,0.33,40,13.2
+48768456,2025-02-01,0,21e Bois-Colombes Chess Master - Open B,BOIS COLOMBES FRA,2024-12-26,2024-12-30,1746,1768,4.0,9,-0.77,40,-30.8,"Jouandet-Dahlen, Loup",,1668.0,False,FRA,1.0,1,0.36,40,14.4
+48768456,2025-02-01,0,21e Bois-Colombes Chess Master - Open B,BOIS COLOMBES FRA,2024-12-26,2024-12-30,1746,1768,4.0,9,-0.77,40,-30.8,"De Martini, Frank-Alexander",,1850.0,False,FRA,0.0,1,-0.39,40,-15.6
+48768456,2025-02-01,0,15e Open International de Corbas tournoi A,CORBAS FRA,2025-01-02,2025-01-05,1685,1768,3.0,7,-1.17,40,-46.8,"Larue, Gilles",,1436.0,False,FRA,1.0,1,0.12,40,4.8
+48768456,2025-02-01,0,15e Open International de Corbas tournoi A,CORBAS FRA,2025-01-02,2025-01-05,1685,1768,3.0,7,-1.17,40,-46.8,"Caer, Remy",,1870.0,False,FRA,1.0,1,0.64,40,25.6
+48768456,2025-02-01,0,15e Open International de Corbas tournoi A,CORBAS FRA,2025-01-02,2025-01-05,1685,1768,3.0,7,-1.17,40,-46.8,"Lara-Golliot, Celian",,1926.0,False,FRA,0.0,1,-0.29,40,-11.6
+48768456,2025-02-01,0,15e Open International de Corbas tournoi A,CORBAS FRA,2025-01-02,2025-01-05,1685,1768,3.0,7,-1.17,40,-46.8,"Laruaz, Maxime",,1831.0,False,FRA,0.0,1,-0.41,40,-16.4
+48768456,2025-02-01,0,15e Open International de Corbas tournoi A,CORBAS FRA,2025-01-02,2025-01-05,1685,1768,3.0,7,-1.17,40,-46.8,"Sagnard, Florent",,1624.0,False,FRA,0.0,1,-0.69,40,-27.6
+48768456,2025-02-01,0,15e Open International de Corbas tournoi A,CORBAS FRA,2025-01-02,2025-01-05,1685,1768,3.0,7,-1.17,40,-46.8,"Sekhsoukh, Jad",,1516.0,False,FRA,1.0,1,0.19,40,7.6
+48768456,2025-02-01,0,15e Open International de Corbas tournoi A,CORBAS FRA,2025-01-02,2025-01-05,1685,1768,3.0,7,-1.17,40,-46.8,"Martinent, Jules",,1589.0,False,FRA,0.0,1,-0.73,40,-29.2

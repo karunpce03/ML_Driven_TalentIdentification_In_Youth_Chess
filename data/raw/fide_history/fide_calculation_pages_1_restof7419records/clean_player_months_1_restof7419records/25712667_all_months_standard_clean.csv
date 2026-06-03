@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25712667,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2239,2131,5.5,11,1.43,40,57.2,"Grebnev, Aleksey",g,2531,True,FID,0.0,1,-0.08,40,-3.2
+25712667,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2239,2131,5.5,11,1.43,40,57.2,"Dishank, Sachin Bajaj",,1893,False,IND,1.0,1,0.2,40,8.0
+25712667,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2239,2131,5.5,11,1.43,40,57.2,"Yohan, Yadav Tarala",,1810,False,IND,1.0,1,0.13,40,5.2
+25712667,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2239,2131,5.5,11,1.43,40,57.2,"Ozenir, Ekin Baris",m,2390,False,TUR,0.5,1,0.32,40,12.8
+25712667,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2239,2131,5.5,11,1.43,40,57.2,"Stribuk, Artiom",m,2422,False,FID,0.0,1,-0.15,40,-6.0
+25712667,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2239,2131,5.5,11,1.43,40,57.2,"Vrashank, Chouhan",f,2209,False,IND,1.0,1,0.61,40,24.4
+25712667,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2239,2131,5.5,11,1.43,40,57.2,"Wafa, Hamed",m,2396,False,EGY,0.5,1,0.32,40,12.8
+25712667,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2239,2131,5.5,11,1.43,40,57.2,"Bodrogi, Bendeguz",f,2353,False,HUN,0.0,1,-0.22,40,-8.8
+25712667,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2239,2131,5.5,11,1.43,40,57.2,"Arul, Prakash N",,1907,False,IND,1.0,1,0.22,40,8.8
+25712667,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2239,2131,5.5,11,1.43,40,57.2,"Rybka, Simon",f,2367,False,SVK,0.5,1,0.3,40,12.0
+25712667,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2239,2131,5.5,11,1.43,40,57.2,"Aswath, S",f,2352,False,IND,0.0,1,-0.22,40,-8.8

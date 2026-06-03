@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531025390,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,,,1.0,3,0.0,1355,,Manav,,1502,False,IND,0.0,1,0.0,,0.0
+531025390,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,,,1.0,3,0.0,1355,,"Dhruv, Kumar",,1404,False,IND,0.0,1,0.0,,0.0
+531025390,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,,,1.0,3,0.0,1355,,"Ridhima, Khanna",,1533,False,IND,1.0,1,0.0,,0.0
+531025390,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,,,2.0,4,0.0,1611,,"Yashas, Khurana",,1423,False,IND,1.0,1,0.0,,0.0
+531025390,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,,,2.0,4,0.0,1611,,"Vinayak, Tripathy",,1541,False,IND,1.0,1,0.0,,0.0
+531025390,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,,,2.0,4,0.0,1611,,"Mrityunjay, Kumar",,1957,False,IND,0.0,1,0.0,,0.0
+531025390,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,,,2.0,4,0.0,1611,,"Naman, Sati",,1521,False,IND,0.0,1,0.0,,0.0

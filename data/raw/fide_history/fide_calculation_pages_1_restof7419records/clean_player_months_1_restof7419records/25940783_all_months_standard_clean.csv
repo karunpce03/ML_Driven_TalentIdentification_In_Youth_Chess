@@ -1,0 +1,114 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25940783,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2386,2410,6.0,9,1.23,10,12.3,"Plat, Vojtech",g,2528.0,False,CZE,1.0,1,0.66,10,6.6
+25940783,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2386,2410,6.0,9,1.23,10,12.3,"Bui, Vinh",g,2371.0,False,VIE,1.0,1,0.45,10,4.5
+25940783,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2386,2410,6.0,9,1.23,10,12.3,"Mohammad Fahad, Rahman",m,2426.0,False,BAN,0.5,1,0.02,10,0.2
+25940783,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2386,2410,6.0,9,1.23,10,12.3,"Banh, Gia Huy",f,2390.0,False,VIE,0.5,1,-0.03,10,-0.3
+25940783,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2386,2410,6.0,9,1.23,10,12.3,"Quizon, Daniel",m,2432.0,False,PHI,0.0,1,-0.47,10,-4.7
+25940783,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2386,2410,6.0,9,1.23,10,12.3,"Dao, Minh Nhat",m,2268.0,False,VIE,1.0,1,0.31,10,3.1
+25940783,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2386,2410,6.0,9,1.23,10,12.3,"Apaar, Saxena",c,2227.0,False,IND,0.5,1,-0.24,10,-2.4
+25940783,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2386,2410,6.0,9,1.23,10,12.3,"Namitbir, Singh Walia",f,2385.0,False,IND,1.0,1,0.47,10,4.7
+25940783,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2386,2410,6.0,9,1.23,10,12.3,"Nguyen, Anh Dung",g,2450.0,False,VIE,0.5,1,0.06,10,0.6
+25940783,2024-06-01,0,Dubai Police Global Challenge for Chess - Masters,Dubai UAE,2024-05-03,2024-05-13,2530,2424,2.5,8,-0.44,10,-4.4,"Narayanan, S L",g,2695.0,False,IND,0.5,1,0.33,10,3.3
+25940783,2024-06-01,0,Dubai Police Global Challenge for Chess - Masters,Dubai UAE,2024-05-03,2024-05-13,2530,2424,2.5,8,-0.44,10,-4.4,"Sethuraman, S.p.",g,2588.0,False,IND,0.0,1,-0.28,10,-2.8
+25940783,2024-06-01,0,Dubai Police Global Challenge for Chess - Masters,Dubai UAE,2024-05-03,2024-05-13,2530,2424,2.5,8,-0.44,10,-4.4,"Murzin, Volodar",g,2631.0,False,FID,0.0,1,-0.23,10,-2.3
+25940783,2024-06-01,0,Dubai Police Global Challenge for Chess - Masters,Dubai UAE,2024-05-03,2024-05-13,2530,2424,2.5,8,-0.44,10,-4.4,"Baranciuc, Alexandr",f,2332.0,False,MDA,1.0,1,0.37,10,3.7
+25940783,2024-06-01,0,Dubai Police Global Challenge for Chess - Masters,Dubai UAE,2024-05-03,2024-05-13,2530,2424,2.5,8,-0.44,10,-4.4,"Mishra, Abhimanyu",g,2634.0,False,USA,0.0,1,-0.23,10,-2.3
+25940783,2024-06-01,0,Dubai Police Global Challenge for Chess - Masters,Dubai UAE,2024-05-03,2024-05-13,2530,2424,2.5,8,-0.44,10,-4.4,"Jeet, Jain",f,2332.0,False,IND,1.0,1,0.37,10,3.7
+25940783,2024-06-01,0,Dubai Police Global Challenge for Chess - Masters,Dubai UAE,2024-05-03,2024-05-13,2530,2424,2.5,8,-0.44,10,-4.4,"Yilmaz, Mustafa",g,2641.0,False,TUR,0.0,1,-0.22,10,-2.2
+25940783,2024-06-01,0,Dubai Police Global Challenge for Chess - Masters,Dubai UAE,2024-05-03,2024-05-13,2530,2424,2.5,8,-0.44,10,-4.4,"Aradhya, Garg",f,2385.0,False,IND,0.0,1,-0.55,10,-5.5
+25940783,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2189,2420,6.0,11,-2.25,10,-22.5,"Sureka, Akshat",,2020.0,True,IND,0.5,1,-0.42,10,-4.2
+25940783,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2189,2420,6.0,11,-2.25,10,-22.5,"Shah, Jeet",,2020.0,True,IND,0.0,1,-0.92,10,-9.2
+25940783,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2189,2420,6.0,11,-2.25,10,-22.5,"Kartik, Kumar Singh",,2042.0,False,IND,1.0,1,0.09,10,0.9
+25940783,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2189,2420,6.0,11,-2.25,10,-22.5,"Jain, Kushagra",,2020.0,True,IND,0.5,1,-0.42,10,-4.2
+25940783,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2189,2420,6.0,11,-2.25,10,-22.5,"Jai, Sankar Subramanian",,2020.0,True,IND,1.0,1,0.08,10,0.8
+25940783,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2189,2420,6.0,11,-2.25,10,-22.5,"Alekhya, Mukhopadhyay",,2130.0,False,IND,1.0,1,0.16,10,1.6
+25940783,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2189,2420,6.0,11,-2.25,10,-22.5,"Pawar, Harshit",,2132.0,False,IND,1.0,1,0.16,10,1.6
+25940783,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2189,2420,6.0,11,-2.25,10,-22.5,"Mayank, Chakraborty",m,2425.0,False,IND,0.5,1,0.01,10,0.1
+25940783,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2189,2420,6.0,11,-2.25,10,-22.5,"Srihari, L R",m,2495.0,False,IND,0.5,1,0.1,10,1.0
+25940783,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2189,2420,6.0,11,-2.25,10,-22.5,"Samant, Aditya S",g,2469.0,False,IND,0.0,1,-0.43,10,-4.3
+25940783,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2189,2420,6.0,11,-2.25,10,-22.5,"Koziorowicz, Michal",f,2304.0,False,POL,0.0,1,-0.66,10,-6.6
+25940783,2024-07-01,0,GMHikaru Invitational,Marrakech MAR,2024-06-19,2024-06-26,2458,2420,3.5,9,-0.53,10,-5.3,"Hamdouchi, Hicham",g,2527.0,False,MAR,0.5,1,0.15,10,1.5
+25940783,2024-07-01,0,GMHikaru Invitational,Marrakech MAR,2024-06-19,2024-06-26,2458,2420,3.5,9,-0.53,10,-5.3,"Can, Isik",m,2509.0,False,TUR,0.0,1,-0.38,10,-3.8
+25940783,2024-07-01,0,GMHikaru Invitational,Marrakech MAR,2024-06-19,2024-06-26,2458,2420,3.5,9,-0.53,10,-5.3,"Chasin, Nico",m,2433.0,False,USA,0.0,1,-0.48,10,-4.8
+25940783,2024-07-01,0,GMHikaru Invitational,Marrakech MAR,2024-06-19,2024-06-26,2458,2420,3.5,9,-0.53,10,-5.3,"Le Roux, Jean-Pierre",g,2473.0,False,FRA,0.0,1,-0.43,10,-4.3
+25940783,2024-07-01,0,GMHikaru Invitational,Marrakech MAR,2024-06-19,2024-06-26,2458,2420,3.5,9,-0.53,10,-5.3,"Cuenca Jimenez, Jose Fernando",g,2493.0,False,ESP,0.5,1,0.1,10,1.0
+25940783,2024-07-01,0,GMHikaru Invitational,Marrakech MAR,2024-06-19,2024-06-26,2458,2420,3.5,9,-0.53,10,-5.3,"Korley, Kassa",m,2428.0,False,DEN,1.0,1,0.51,10,5.1
+25940783,2024-07-01,0,GMHikaru Invitational,Marrakech MAR,2024-06-19,2024-06-26,2458,2420,3.5,9,-0.53,10,-5.3,"Wallace, John Paul",m,2369.0,False,NOR,1.0,1,0.43,10,4.3
+25940783,2024-07-01,0,GMHikaru Invitational,Marrakech MAR,2024-06-19,2024-06-26,2458,2420,3.5,9,-0.53,10,-5.3,"Salimova, Nurgyul",m wg,2436.0,False,BUL,0.0,1,-0.48,10,-4.8
+25940783,2024-07-01,0,GMHikaru Invitational,Marrakech MAR,2024-06-19,2024-06-26,2458,2420,3.5,9,-0.53,10,-5.3,"Wagner, Dinara",m wg,2454.0,False,GER,0.5,1,0.05,10,0.5
+25940783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2322,2392,6.0,9,0.68,10,6.8,"Pattnayak, Nilsu",,2154.0,False,IND,0.5,1,-0.3,10,-3.0
+25940783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2322,2392,6.0,9,0.68,10,6.8,"Abdulrahman Mohammad, Al Taher",f,2175.0,False,UAE,0.0,1,-0.78,10,-7.8
+25940783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2322,2392,6.0,9,0.68,10,6.8,"Stevanic, David",f,2312.0,False,SLO,0.5,1,-0.11,10,-1.1
+25940783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2322,2392,6.0,9,0.68,10,6.8,"Suleimen, Ergali",f,2334.0,False,KAZ,1.0,1,0.42,10,4.2
+25940783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2322,2392,6.0,9,0.68,10,6.8,"Chen, Yining",f wc,2266.0,False,CHN,0.5,1,-0.17,10,-1.7
+25940783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2322,2392,6.0,9,0.68,10,6.8,"Aquino, Jethro Dino",f,2316.0,False,PHI,0.5,1,-0.1,10,-1.0
+25940783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2322,2392,6.0,9,0.68,10,6.8,"Aziz, Husain",m,2326.0,False,QAT,1.0,1,0.41,10,4.1
+25940783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2322,2392,6.0,9,0.68,10,6.8,"Szpar, Milosz",m,2483.0,False,POL,1.0,1,0.62,10,6.2
+25940783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2322,2392,6.0,9,0.68,10,6.8,"Dai, Changren",g,2532.0,False,CHN,1.0,1,0.69,10,6.9
+25940783,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2091,2392,5.5,9,-1.84,10,-18.4,"Insara, S D Nadev",,1992.0,True,SRI,0.5,1,-0.42,10,-4.2
+25940783,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2091,2392,5.5,9,-1.84,10,-18.4,"De Silva, Elath Mathanga",,1992.0,True,SRI,1.0,1,0.08,10,0.8
+25940783,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2091,2392,5.5,9,-1.84,10,-18.4,"Mitrabha, Guha",g,2537.0,False,IND,0.0,1,-0.31,10,-3.1
+25940783,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2091,2392,5.5,9,-1.84,10,-18.4,"Dandeniya, D D L N",,1992.0,True,SRI,0.5,1,-0.42,10,-4.2
+25940783,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2091,2392,5.5,9,-1.84,10,-18.4,"Sharon, Rafael",,2008.0,False,ZAM,0.0,1,-0.91,10,-9.1
+25940783,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2091,2392,5.5,9,-1.84,10,-18.4,"Weerathungalage, W D Malisha Sasv",,1992.0,True,SRI,1.0,1,0.08,10,0.8
+25940783,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2091,2392,5.5,9,-1.84,10,-18.4,"Hettiarachchi, Jeewantha Aloka",,1992.0,True,SRI,1.0,1,0.08,10,0.8
+25940783,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2091,2392,5.5,9,-1.84,10,-18.4,"Nandhidhaa, P V",wg,2323.0,False,IND,0.5,1,-0.1,10,-1.0
+25940783,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2091,2392,5.5,9,-1.84,10,-18.4,"Arshiya, Das",wc,1992.0,True,IND,1.0,1,0.08,10,0.8
+25940783,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 16,Kaluthara SRI,2024-08-28,2024-09-05,2030,2392,7.0,9,-1.05,10,-10.5,"Sathsindu, W M Minura",,1992.0,True,SRI,1.0,1,0.08,10,0.8
+25940783,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 16,Kaluthara SRI,2024-08-28,2024-09-05,2030,2392,7.0,9,-1.05,10,-10.5,"Jihan, Tejas Shah",,2031.0,False,IND,0.5,1,-0.4,10,-4.0
+25940783,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 16,Kaluthara SRI,2024-08-28,2024-09-05,2030,2392,7.0,9,-1.05,10,-10.5,"Vedant, Rupeshbhai Varasada",,2152.0,False,IND,1.0,1,0.2,10,2.0
+25940783,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 16,Kaluthara SRI,2024-08-28,2024-09-05,2030,2392,7.0,9,-1.05,10,-10.5,"Daksh, Goyal",,2096.0,False,IND,0.5,1,-0.35,10,-3.5
+25940783,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 16,Kaluthara SRI,2024-08-28,2024-09-05,2030,2392,7.0,9,-1.05,10,-10.5,"Rohith, S",,2031.0,False,IND,1.0,1,0.1,10,1.0
+25940783,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 16,Kaluthara SRI,2024-08-28,2024-09-05,2030,2392,7.0,9,-1.05,10,-10.5,"Pranay, Akula",,1992.0,True,IND,0.5,1,-0.42,10,-4.2
+25940783,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 16,Kaluthara SRI,2024-08-28,2024-09-05,2030,2392,7.0,9,-1.05,10,-10.5,"Perera, B Jayod Yasindu Rashmika",,1992.0,True,SRI,1.0,1,0.08,10,0.8
+25940783,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 16,Kaluthara SRI,2024-08-28,2024-09-05,2030,2392,7.0,9,-1.05,10,-10.5,"Atulugamage, Saniru Lohan",,1992.0,True,SRI,1.0,1,0.08,10,0.8
+25940783,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 16,Kaluthara SRI,2024-08-28,2024-09-05,2030,2392,7.0,9,-1.05,10,-10.5,"Sumanathilake, Yonal",,1992.0,True,SRI,0.5,1,-0.42,10,-4.2
+25940783,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2101,2370,9.5,11,0.79,10,7.9,"Aarav, Ajith",,1970.0,True,IND,1.0,1,0.08,10,0.8
+25940783,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2101,2370,9.5,11,0.79,10,7.9,"Aneesh, Adiga",,1970.0,True,IND,1.0,1,0.08,10,0.8
+25940783,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2101,2370,9.5,11,0.79,10,7.9,"Lakshmi, Charan Naidu G",,1970.0,True,IND,1.0,1,0.08,10,0.8
+25940783,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2101,2370,9.5,11,0.79,10,7.9,"Shreyash, Singh",,1970.0,True,IND,1.0,1,0.08,10,0.8
+25940783,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2101,2370,9.5,11,0.79,10,7.9,"Arshpreet, Singh",,2039.0,False,IND,1.0,1,0.12,10,1.2
+25940783,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2101,2370,9.5,11,0.79,10,7.9,"Sriram, Adarsh Uppala",,2368.0,False,IND,1.0,1,0.5,10,5.0
+25940783,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2101,2370,9.5,11,0.79,10,7.9,"Sherla, Prathamesh",,2041.0,False,IND,0.5,1,-0.38,10,-3.8
+25940783,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2101,2370,9.5,11,0.79,10,7.9,"Jaiveer, Mahendru",f,2273.0,False,IND,0.5,1,-0.13,10,-1.3
+25940783,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2101,2370,9.5,11,0.79,10,7.9,"Ilamparthi, A R",m,2457.0,False,IND,0.5,1,0.12,10,1.2
+25940783,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2101,2370,9.5,11,0.79,10,7.9,"Bhoir, Paras Dilip",,2081.0,False,IND,1.0,1,0.16,10,1.6
+25940783,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2101,2370,9.5,11,0.79,10,7.9,"Lalitaditaayyanar, Boominathan",,1970.0,True,IND,1.0,1,0.08,10,0.8
+25940783,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2506,2370,5.0,9,2.09,10,20.9,"Vokhidov, Shamsiddin",g,2681.0,False,UZB,0.5,1,0.36,10,3.6
+25940783,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2506,2370,5.0,9,2.09,10,20.9,"Gareyev, Timur",g,2552.0,False,USA,0.5,1,0.24,10,2.4
+25940783,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2506,2370,5.0,9,2.09,10,20.9,"Abdisalimov, Abdimalik",g,2536.0,False,UZB,1.0,1,0.72,10,7.2
+25940783,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2506,2370,5.0,9,2.09,10,20.9,"Nikitenko, Mihail",g,2490.0,False,FID,0.0,1,-0.34,10,-3.4
+25940783,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2506,2370,5.0,9,2.09,10,20.9,"Daghli, Arash",m,2435.0,False,IRI,0.5,1,0.09,10,0.9
+25940783,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2506,2370,5.0,9,2.09,10,20.9,"Goganov, Aleksey",g,2465.0,False,FID,0.5,1,0.13,10,1.3
+25940783,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2506,2370,5.0,9,2.09,10,20.9,"Aaditya, Dhingra",m,2448.0,False,IND,1.0,1,0.61,10,6.1
+25940783,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2506,2370,5.0,9,2.09,10,20.9,"Urazayev, Arystanbek",m,2480.0,False,KAZ,1.0,1,0.65,10,6.5
+25940783,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2506,2370,5.0,9,2.09,10,20.9,"Suyarov, Mukhammadzokhid",f,2464.0,False,UZB,0.0,1,-0.37,10,-3.7
+25940783,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2489,2378,4.5,9,1.26,10,12.6,"Nguyen, Ngoc Truong Son",g,2646.0,False,VIE,0.5,1,0.33,10,3.3
+25940783,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2489,2378,4.5,9,1.26,10,12.6,"Mendonca, Leon Luke",g,2642.0,False,IND,0.5,1,0.32,10,3.2
+25940783,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2489,2378,4.5,9,1.26,10,12.6,"Bharath, Subramaniyam H",g,2561.0,False,IND,0.0,1,-0.26,10,-2.6
+25940783,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2489,2378,4.5,9,1.26,10,12.6,"Fandi, Mazen.",,2278.0,False,SYR,1.0,1,0.36,10,3.6
+25940783,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2489,2378,4.5,9,1.26,10,12.6,"Saydaliev, Saidakbar",m,2473.0,False,UZB,0.0,1,-0.37,10,-3.7
+25940783,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2489,2378,4.5,9,1.26,10,12.6,"Ezat, Mohamed",m,2312.0,False,EGY,1.0,1,0.41,10,4.1
+25940783,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2489,2378,4.5,9,1.26,10,12.6,"Quesada Perez, Luis Ernesto",g,2564.0,False,CUB,1.0,1,0.74,10,7.4
+25940783,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2489,2378,4.5,9,1.26,10,12.6,"Ayush, Sharma",f,2466.0,False,IND,0.0,1,-0.38,10,-3.8
+25940783,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2489,2378,4.5,9,1.26,10,12.6,"Swayams, Mishra",g,2456.0,False,IND,0.5,1,0.11,10,1.1
+25940783,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,2330,2412,7.0,10,1.02,10,10.2,"Abhay, Bandewar",,2071.0,False,IND,1.0,1,0.12,10,1.2
+25940783,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,2330,2412,7.0,10,1.02,10,10.2,"Vignesh, B",,2135.0,False,IND,1.0,1,0.17,10,1.7
+25940783,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,2330,2412,7.0,10,1.02,10,10.2,"Ratnakaran, K.",m,2225.0,False,IND,1.0,1,0.26,10,2.6
+25940783,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,2330,2412,7.0,10,1.02,10,10.2,"Shahil, Dey",m,2374.0,False,IND,1.0,1,0.45,10,4.5
+25940783,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,2330,2412,7.0,10,1.02,10,10.2,"Aronyak, Ghosh",c,2544.0,False,IND,0.5,1,0.18,10,1.8
+25940783,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,2330,2412,7.0,10,1.02,10,10.2,"Iniyan, Pa",g,2508.0,False,IND,0.5,1,0.13,10,1.3
+25940783,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,2330,2412,7.0,10,1.02,10,10.2,"Deepan, Chakkravarthy J.",g,2413.0,False,IND,0.5,1,0.0,10,0.0
+25940783,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,2330,2412,7.0,10,1.02,10,10.2,"Manish, Anto Cristiano F",m,2329.0,False,IND,0.5,1,-0.11,10,-1.1
+25940783,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,2330,2412,7.0,10,1.02,10,10.2,"Mohamed, Anees M",f,2334.0,False,IND,1.0,1,0.39,10,3.9
+25940783,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,2330,2412,7.0,10,1.02,10,10.2,"Venkatesh, M.r.",g,2363.0,False,IND,0.0,1,-0.57,10,-5.7
+25940783,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2264,2412,7.5,10,0.77,10,7.7,"Esshan, Wadhawan",,2019.0,False,IND,1.0,1,0.08,10,0.8
+25940783,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2264,2412,7.5,10,0.77,10,7.7,"Charvi, A",wc,2088.0,False,IND,0.5,1,-0.37,10,-3.7
+25940783,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2264,2412,7.5,10,0.77,10,7.7,"Sarwat, Walaa",m,2088.0,False,EGY,1.0,1,0.13,10,1.3
+25940783,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2264,2412,7.5,10,0.77,10,7.7,"Laxman, R.r.",g,2303.0,False,IND,1.0,1,0.35,10,3.5
+25940783,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2264,2412,7.5,10,0.77,10,7.7,"Aronyak, Ghosh",c,2544.0,False,IND,0.5,1,0.18,10,1.8
+25940783,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2264,2412,7.5,10,0.77,10,7.7,"Nithin, Babu",,2168.0,False,IND,0.5,1,-0.3,10,-3.0
+25940783,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2264,2412,7.5,10,0.77,10,7.7,"Aakash Sharadchandra, Dalvi",f,2278.0,False,IND,0.5,1,-0.18,10,-1.8
+25940783,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2264,2412,7.5,10,0.77,10,7.7,"Nitin, S.",m,2338.0,False,IND,1.0,1,0.4,10,4.0
+25940783,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2264,2412,7.5,10,0.77,10,7.7,"Rohith, Krishna S",m,2473.0,False,IND,1.0,1,0.58,10,5.8
+25940783,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2264,2412,7.5,10,0.77,10,7.7,"Slizhevsky, Alexander",m,2340.0,False,RUS,0.5,1,-0.1,10,-1.0

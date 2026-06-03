@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25119281,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1700,1539,1.5,3,0.62,40,24.8,"Anish, Ramkumar",,1710.0,False,IND,0.5,1,0.23,40,9.2
+25119281,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1700,1539,1.5,3,0.62,40,24.8,"Lukesh, A",,1799.0,False,IND,0.0,1,-0.18,40,-7.2
+25119281,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1700,1539,1.5,3,0.62,40,24.8,"Shivaghuru, P",,1591.0,False,IND,1.0,1,0.57,40,22.8
+25119281,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1746,1539,0.5,4,-0.51,40,-20.4,"Selvamurugan, B",,1939.0,True,IND,0.0,1,-0.08,40,-3.2
+25119281,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1746,1539,0.5,4,-0.51,40,-20.4,"Siddharthan, Anandan",,1717.0,False,IND,0.0,1,-0.27,40,-10.8
+25119281,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1746,1539,0.5,4,-0.51,40,-20.4,"Nishesh, S B",,1677.0,False,IND,0.5,1,0.19,40,7.6
+25119281,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1746,1539,0.5,4,-0.51,40,-20.4,"Sriram, Poola",,1649.0,False,IND,0.0,1,-0.35,40,-14.0

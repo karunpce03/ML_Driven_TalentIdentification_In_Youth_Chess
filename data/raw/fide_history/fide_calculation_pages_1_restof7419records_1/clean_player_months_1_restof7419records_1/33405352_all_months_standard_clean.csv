@@ -1,0 +1,23 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33405352,2025-01-01,0,2024 Washington Class Championships - Class B,"Redmond, WA USA",2024-11-29,2024-12-01,1663,1525,3.0,3,2.04,40,81.6,"Raja, Rian",,1604.0,False,USA,1.0,1,0.61,40,24.4
+33405352,2025-01-01,0,2024 Washington Class Championships - Class B,"Redmond, WA USA",2024-11-29,2024-12-01,1663,1525,3.0,3,2.04,40,81.6,"Kuhner, Mary",wc,1774.0,False,USA,1.0,1,0.81,40,32.4
+33405352,2025-01-01,0,2024 Washington Class Championships - Class B,"Redmond, WA USA",2024-11-29,2024-12-01,1663,1525,3.0,3,2.04,40,81.6,"Dann, William",,1611.0,False,USA,1.0,1,0.62,40,24.8
+33405352,2025-01-01,0,2024 Washington Winter Classic - Erigaisi Open,"Bellevue, WA USA",2024-12-21,2024-12-22,1715,1525,1.0,3,0.19,40,7.6,"Kuipers, Miles",,1880.0,False,USA,0.0,1,-0.11,40,-4.4
+33405352,2025-01-01,0,2024 Washington Winter Classic - Erigaisi Open,"Bellevue, WA USA",2024-12-21,2024-12-22,1715,1525,1.0,3,0.19,40,7.6,"Anandkumar, Haituka",,1633.0,False,IND,0.0,1,-0.35,40,-14.0
+33405352,2025-01-01,0,2024 Washington Winter Classic - Erigaisi Open,"Bellevue, WA USA",2024-12-21,2024-12-22,1715,1525,1.0,3,0.19,40,7.6,"Sharma, Devansh",,1632.0,False,USA,1.0,1,0.65,40,26.0
+33405352,2025-02-01,0,2025 Washington President's Cup,"Issaquah, WA USA",2025-01-25,2025-01-26,1693,1614,2.5,4,0.91,40,36.4,"Arivoli, Muthukurisil",,1634.0,False,USA,1.0,1,0.53,40,21.2
+33405352,2025-02-01,0,2025 Washington President's Cup,"Issaquah, WA USA",2025-01-25,2025-01-26,1693,1614,2.5,4,0.91,40,36.4,"Chang, Allen",,1524.0,False,USA,1.0,1,0.38,40,15.2
+33405352,2025-02-01,0,2025 Washington President's Cup,"Issaquah, WA USA",2025-01-25,2025-01-26,1693,1614,2.5,4,0.91,40,36.4,"Wei, Jeffrey",,1788.0,False,USA,0.5,1,0.23,40,9.2
+33405352,2025-02-01,0,2025 Washington President's Cup,"Issaquah, WA USA",2025-01-25,2025-01-26,1693,1614,2.5,4,0.91,40,36.4,"Pupols, Viktors",,1826.0,False,USA,0.0,1,-0.23,40,-9.2
+33405352,2025-03-01,0,2025 Washington State Championship - Challengers,"Seattle, WA USA",2025-02-08,2025-02-17,1739,1650,4.0,8,0.96,40,38.4,"Nallappa, Vijay",,1748.0,False,USA,0.0,1,-0.37,40,-14.8
+33405352,2025-03-01,0,2025 Washington State Championship - Challengers,"Seattle, WA USA",2025-02-08,2025-02-17,1739,1650,4.0,8,0.96,40,38.4,"Ramkumar, Nikhil",,1676.0,False,USA,0.0,1,-0.46,40,-18.4
+33405352,2025-03-01,0,2025 Washington State Championship - Challengers,"Seattle, WA USA",2025-02-08,2025-02-17,1739,1650,4.0,8,0.96,40,38.4,"Bharathy Mohan, Aarav Sai",,1606.0,False,USA,0.5,1,-0.06,40,-2.4
+33405352,2025-03-01,0,2025 Washington State Championship - Challengers,"Seattle, WA USA",2025-02-08,2025-02-17,1739,1650,4.0,8,0.96,40,38.4,"Hosford, Michael J",,1816.0,False,USA,0.0,1,-0.28,40,-11.2
+33405352,2025-03-01,0,2025 Washington State Championship - Challengers,"Seattle, WA USA",2025-02-08,2025-02-17,1739,1650,4.0,8,0.96,40,38.4,"Pikh, Akim",,1799.0,False,UKR,1.0,1,0.7,40,28.0
+33405352,2025-03-01,0,2025 Washington State Championship - Challengers,"Seattle, WA USA",2025-02-08,2025-02-17,1739,1650,4.0,8,0.96,40,38.4,"Yondon, Odbayar",,1806.0,False,USA,1.0,1,0.71,40,28.4
+33405352,2025-03-01,0,2025 Washington State Championship - Challengers,"Seattle, WA USA",2025-02-08,2025-02-17,1739,1650,4.0,8,0.96,40,38.4,"Razmov, Gabriel",,1801.0,False,USA,0.5,1,0.2,40,8.0
+33405352,2025-03-01,0,2025 Washington State Championship - Challengers,"Seattle, WA USA",2025-02-08,2025-02-17,1739,1650,4.0,8,0.96,40,38.4,"Cheng, Selina",,1661.0,False,USA,1.0,1,0.52,40,20.8
+33405352,2025-04-01,0,2025 Eastside Open,"Bellevue, WA USA",2025-03-01,2025-03-02,1967,1688,2.0,4,1.29,40,51.6,"Kona, Vidip Kumar",,2088.0,True,USA,0.5,1,0.42,40,16.8
+33405352,2025-04-01,0,2025 Eastside Open,"Bellevue, WA USA",2025-03-01,2025-03-02,1967,1688,2.0,4,1.29,40,51.6,"Zhu, Jamie Zhongyun",,1924.0,False,USA,0.5,1,0.3,40,12.0
+33405352,2025-04-01,0,2025 Eastside Open,"Bellevue, WA USA",2025-03-01,2025-03-02,1967,1688,2.0,4,1.29,40,51.6,"Patankar, Vijay",,1831.0,False,USA,1.0,1,0.69,40,27.6
+33405352,2025-04-01,0,2025 Eastside Open,"Bellevue, WA USA",2025-03-01,2025-03-02,1967,1688,2.0,4,1.29,40,51.6,"Wan, Bertrand",,2024.0,False,USA,0.0,1,-0.12,40,-4.8

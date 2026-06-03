@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25786911,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1879,1692,3.5,10,0.89,40,35.6,"Rindhiya, V",wf,1965.0,False,IND,0.0,1,-0.17,40,-6.8
+25786911,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1879,1692,3.5,10,0.89,40,35.6,"Ishvi, Aggarwal",wc,1928.0,False,IND,0.0,1,-0.2,40,-8.0
+25786911,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1879,1692,3.5,10,0.89,40,35.6,"Kheerthi, Ganta",wf,1987.0,False,IND,0.5,1,0.35,40,14.0
+25786911,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1879,1692,3.5,10,0.89,40,35.6,"Padmini, S",,1872.0,False,IND,0.0,1,-0.26,40,-10.4
+25786911,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1879,1692,3.5,10,0.89,40,35.6,"Benito De Leo, Estefania",,1900.0,False,MEX,1.0,1,0.77,40,30.8
+25786911,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1879,1692,3.5,10,0.89,40,35.6,"Marium, Fatima",,1905.0,False,IND,0.0,1,-0.23,40,-9.2
+25786911,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1879,1692,3.5,10,0.89,40,35.6,"Sindhusree, K",,1846.0,False,IND,0.5,1,0.21,40,8.4
+25786911,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1879,1692,3.5,10,0.89,40,35.6,"Sagar, Siya",,1732.0,False,IND,1.0,1,0.56,40,22.4
+25786911,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1879,1692,3.5,10,0.89,40,35.6,"Akshaya, Sathi",,1832.0,False,IND,0.0,1,-0.31,40,-12.4
+25786911,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1879,1692,3.5,10,0.89,40,35.6,"Divyabharathi, Masanam",,1821.0,False,IND,0.5,1,0.17,40,6.8

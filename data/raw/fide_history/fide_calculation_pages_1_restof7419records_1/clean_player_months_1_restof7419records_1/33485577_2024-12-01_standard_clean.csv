@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33485577,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1685,1486,0.5,3,-0.24,40,-9.6,"Aditya, Shardul Kadam",,1756.0,False,IND,0.0,1,-0.17,40,-6.8
+33485577,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1685,1486,0.5,3,-0.24,40,-9.6,"Akshay, Kumar",,1596.0,False,IND,0.0,1,-0.35,40,-14.0
+33485577,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1685,1486,0.5,3,-0.24,40,-9.6,"Isaiah, Chris Nazareth",,1703.0,False,IND,0.5,1,0.28,40,11.2

@@ -1,0 +1,66 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25922491,2024-09-01,0,IM SWISS MIX Grocka 1,Beograd SRB,2024-08-02,2024-08-07,2205,2236,5.0,9,0.28,40,11.2,"Mandic, Milenko",,1836.0,True,SRB,1.0,1,0.08,40,3.2
+25922491,2024-09-01,0,IM SWISS MIX Grocka 1,Beograd SRB,2024-08-02,2024-08-07,2205,2236,5.0,9,0.28,40,11.2,"Milosevic, Milos",m,2315.0,False,SRB,0.5,1,0.11,40,4.4
+25922491,2024-09-01,0,IM SWISS MIX Grocka 1,Beograd SRB,2024-08-02,2024-08-07,2205,2236,5.0,9,0.28,40,11.2,"Mezentsev, Ivan",f,2321.0,False,KAZ,0.0,1,-0.38,40,-15.2
+25922491,2024-09-01,0,IM SWISS MIX Grocka 1,Beograd SRB,2024-08-02,2024-08-07,2205,2236,5.0,9,0.28,40,11.2,"Marjanovic, Rastko",,2201.0,False,SRB,0.5,1,-0.05,40,-2.0
+25922491,2024-09-01,0,IM SWISS MIX Grocka 1,Beograd SRB,2024-08-02,2024-08-07,2205,2236,5.0,9,0.28,40,11.2,"Zivkovic, Vladislav",f,2022.0,False,SRB,1.0,1,0.23,40,9.2
+25922491,2024-09-01,0,IM SWISS MIX Grocka 1,Beograd SRB,2024-08-02,2024-08-07,2205,2236,5.0,9,0.28,40,11.2,"Suleymanli, Suleyman",f,2290.0,False,AZE,1.0,1,0.58,40,23.2
+25922491,2024-09-01,0,IM SWISS MIX Grocka 1,Beograd SRB,2024-08-02,2024-08-07,2205,2236,5.0,9,0.28,40,11.2,"Adarsh, Tripathi",f,2368.0,False,IND,0.0,1,-0.32,40,-12.8
+25922491,2024-09-01,0,IM SWISS MIX Grocka 1,Beograd SRB,2024-08-02,2024-08-07,2205,2236,5.0,9,0.28,40,11.2,"Aslanov, Umid",c,2148.0,False,AZE,1.0,1,0.38,40,15.2
+25922491,2024-09-01,0,IM SWISS MIX Grocka 1,Beograd SRB,2024-08-02,2024-08-07,2205,2236,5.0,9,0.28,40,11.2,"Aayush, Bhattacherjee",c,2345.0,False,IND,0.0,1,-0.35,40,-14.0
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Kozhedub, Ivan",,1847.0,True,FID,1.0,1,0.08,40,3.2
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Antipov, Fedor",,1991.0,False,FID,0.0,1,-0.81,40,-32.4
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Petrovski, Nikola",,1847.0,True,MKD,1.0,1,0.08,40,3.2
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Dauren, Darmen",,1847.0,True,KAZ,1.0,1,0.08,40,3.2
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Bocquenet-Drouode, Hugo",c,2002.0,False,FRA,0.5,1,-0.3,40,-12.0
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Qu, Haoming",,1969.0,False,CHN,0.5,1,-0.33,40,-13.2
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Elhusseiny, Eyad",,2016.0,False,EGY,1.0,1,0.21,40,8.4
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Karthi, Jashith",,2073.0,False,USA,1.0,1,0.27,40,10.8
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Wijerathna, Vinuka Dihain",,2005.0,False,SRI,1.0,1,0.2,40,8.0
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Platonovs, Nikolajs",,1969.0,False,LAT,1.0,1,0.17,40,6.8
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Smirnov, Mark",f,2300.0,False,KAZ,0.0,1,-0.43,40,-17.2
+25922491,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2343,2216,3.5,9,0.51,40,20.4,"Sorensen, Hampus",m,2415.0,False,SWE,0.0,1,-0.24,40,-9.6
+25922491,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2343,2216,3.5,9,0.51,40,20.4,"Dingertz, Erik",,2095.0,False,SWE,1.0,1,0.34,40,13.6
+25922491,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2343,2216,3.5,9,0.51,40,20.4,"Wartiovaara, Oliver",f,2340.0,False,FIN,1.0,1,0.67,40,26.8
+25922491,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2343,2216,3.5,9,0.51,40,20.4,"Sari, Yasin",f,2343.0,False,TUR,0.0,1,-0.33,40,-13.2
+25922491,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2343,2216,3.5,9,0.51,40,20.4,"Ostlund, Joar",c,2339.0,False,SWE,1.0,1,0.67,40,26.8
+25922491,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2343,2216,3.5,9,0.51,40,20.4,"Ippolito, Dean",m,2343.0,False,USA,0.0,1,-0.33,40,-13.2
+25922491,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2343,2216,3.5,9,0.51,40,20.4,"Dotzer, Lukas",f,2425.0,False,AUT,0.0,1,-0.23,40,-9.2
+25922491,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2343,2216,3.5,9,0.51,40,20.4,"Durak, Can",f,2446.0,False,TUR,0.5,1,0.29,40,11.6
+25922491,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2343,2216,3.5,9,0.51,40,20.4,"Bottazzi, Ulysse",f,2339.0,False,FRA,0.0,1,-0.33,40,-13.2
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2262,2236,5.0,9,0.81,25,20.25,"Akbas, Umut Ata",m,2433.0,False,TUR,0.5,1,0.25,25,6.25
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2262,2236,5.0,9,0.81,25,20.25,"Dvalishvili, Pavel S.",m,2344.0,False,RUS,0.5,1,0.15,25,3.75
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2262,2236,5.0,9,0.81,25,20.25,"Stojanovic, Dalibor",g,2449.0,False,BIH,0.0,1,-0.23,25,-5.75
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2262,2236,5.0,9,0.81,25,20.25,"Apaar, Saxena",c,2183.0,False,IND,1.0,1,0.43,25,10.75
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2262,2236,5.0,9,0.81,25,20.25,"Pikula, Dejan",g,2305.0,False,SRB,0.0,1,-0.4,25,-10.0
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2262,2236,5.0,9,0.81,25,20.25,"Levitan, Judah Nathan",c,2010.0,False,RSA,1.0,1,0.21,25,5.25
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2262,2236,5.0,9,0.81,25,20.25,"Farkas, Tibor",m,2208.0,False,SRB,0.5,1,-0.04,25,-1.0
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2262,2236,5.0,9,0.81,25,20.25,"Pajcin, Lav",f,2238.0,False,SRB,0.5,1,0.0,25,0.0
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2262,2236,5.0,9,0.81,25,20.25,"Kecskemeti, Arpad",f,2192.0,False,SRB,1.0,1,0.44,25,11.0
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2358,2236,5.0,9,1.95,25,48.75,"Glek, Igor",g,2423.0,False,BEL,0.0,1,-0.26,25,-6.5
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2358,2236,5.0,9,1.95,25,48.75,"Gaivoronskii, Andrei",,2148.0,False,SRB,1.0,1,0.38,25,9.5
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2358,2236,5.0,9,1.95,25,48.75,"Senthil, Maran K",f,2380.0,False,IND,1.0,1,0.69,25,17.25
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2358,2236,5.0,9,1.95,25,48.75,"Bryakin, Mikhail",g,2427.0,False,SRB,0.5,1,0.25,25,6.25
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2358,2236,5.0,9,1.95,25,48.75,"Akhmedov, David",f,2368.0,False,FID,0.0,1,-0.32,25,-8.0
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2358,2236,5.0,9,1.95,25,48.75,"Dvalishvili, Pavel S.",m,2344.0,False,RUS,0.5,1,0.15,25,3.75
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2358,2236,5.0,9,1.95,25,48.75,"Ratkovic, Milovan",m,2439.0,False,SRB,0.5,1,0.26,25,6.5
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2358,2236,5.0,9,1.95,25,48.75,"Nigametzianov, Mikhail",f,2399.0,False,RUS,0.5,1,0.22,25,5.5
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2358,2236,5.0,9,1.95,25,48.75,"Levitan, Caleb Levi",f,2293.0,False,RSA,1.0,1,0.58,25,14.5
+25922491,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2249,2236,5.0,9,0.66,25,16.5,"Hakemi, Arman",m,2444.0,False,IRI,0.0,1,-0.23,25,-5.75
+25922491,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2249,2236,5.0,9,0.66,25,16.5,"Golubovskis, Maksims",f,2237.0,False,LAT,0.0,1,-0.5,25,-12.5
+25922491,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2249,2236,5.0,9,0.66,25,16.5,"Zabotin, Alexander",m,2423.0,False,RUS,1.0,1,0.74,25,18.5
+25922491,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2249,2236,5.0,9,0.66,25,16.5,"Joel, Paul Ganta",c,2065.0,False,IND,1.0,1,0.27,25,6.75
+25922491,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2249,2236,5.0,9,0.66,25,16.5,"Pereverzev, Timofei",,2030.0,False,RUS,0.5,1,-0.26,25,-6.5
+25922491,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2249,2236,5.0,9,0.66,25,16.5,"Apaar, Saxena",c,2183.0,False,IND,1.0,1,0.43,25,10.75
+25922491,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2249,2236,5.0,9,0.66,25,16.5,"Nigametzianov, Mikhail",f,2399.0,False,RUS,0.0,1,-0.28,25,-7.0
+25922491,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2249,2236,5.0,9,0.66,25,16.5,"Runic, Zoran",m,2262.0,False,BIH,1.0,1,0.54,25,13.5
+25922491,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2249,2236,5.0,9,0.66,25,16.5,"Hou, Yifan B",,2199.0,False,CHN,0.5,1,-0.05,25,-1.25
+25922491,2025-04-01,0,RADNICKICHESS IM Round Robin February 2025,Beograd SRB,2025-02-22,2025-03-02,2249,2236,6.0,9,1.7,20,34.0,"Zmijanac, Dusko",f,1984.0,False,SRB,1.0,1,0.19,20,3.8
+25922491,2025-04-01,0,RADNICKICHESS IM Round Robin February 2025,Beograd SRB,2025-02-22,2025-03-02,2249,2236,6.0,9,1.7,20,34.0,"Ghazaryan, Narek E.",,2149.0,False,ARM,0.0,1,-0.62,20,-12.4
+25922491,2025-04-01,0,RADNICKICHESS IM Round Robin February 2025,Beograd SRB,2025-02-22,2025-03-02,2249,2236,6.0,9,1.7,20,34.0,"Khodko, Yurii N.",f,2354.0,False,RUS,1.0,1,0.66,20,13.2
+25922491,2025-04-01,0,RADNICKICHESS IM Round Robin February 2025,Beograd SRB,2025-02-22,2025-03-02,2249,2236,6.0,9,1.7,20,34.0,"Todorovic, Goran M",g,2280.0,False,SRB,1.0,1,0.56,20,11.2
+25922491,2025-04-01,0,RADNICKICHESS IM Round Robin February 2025,Beograd SRB,2025-02-22,2025-03-02,2249,2236,6.0,9,1.7,20,34.0,"Milosevic, Milos",m,2336.0,False,SRB,0.5,1,0.14,20,2.8
+25922491,2025-04-01,0,RADNICKICHESS IM Round Robin February 2025,Beograd SRB,2025-02-22,2025-03-02,2249,2236,6.0,9,1.7,20,34.0,"Damljanovic, Branko",g,2374.0,False,SRB,0.5,1,0.19,20,3.8
+25922491,2025-04-01,0,RADNICKICHESS IM Round Robin February 2025,Beograd SRB,2025-02-22,2025-03-02,2249,2236,6.0,9,1.7,20,34.0,"Petrovic, Aleksa",f,2288.0,False,SRB,0.5,1,0.07,20,1.4
+25922491,2025-04-01,0,RADNICKICHESS IM Round Robin February 2025,Beograd SRB,2025-02-22,2025-03-02,2249,2236,6.0,9,1.7,20,34.0,"Arakelyan, Manvel",c,2282.0,False,ARM,0.5,1,0.06,20,1.2
+25922491,2025-04-01,0,RADNICKICHESS IM Round Robin February 2025,Beograd SRB,2025-02-22,2025-03-02,2249,2236,6.0,9,1.7,20,34.0,"Phatak, Aanjaneya",,2197.0,False,IND,1.0,1,0.45,20,9.0

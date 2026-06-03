@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25130340,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1627,1809,7.5,10,0.25,38,9.5,"Abishek, A",,1421.0,False,IND,1.0,1,0.09,38,3.42
+25130340,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1627,1809,7.5,10,0.25,38,9.5,"Samyam, Girish",,1487.0,False,IND,1.0,1,0.13,38,4.94
+25130340,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1627,1809,7.5,10,0.25,38,9.5,"Chetan, H",,1577.0,False,IND,1.0,1,0.21,38,7.98
+25130340,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1627,1809,7.5,10,0.25,38,9.5,"Sharan, Rao",f,2209.0,True,IND,0.0,1,-0.08,38,-3.04
+25130340,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1627,1809,7.5,10,0.25,38,9.5,"Aman, Sai",,1545.0,False,IND,0.5,1,-0.32,38,-12.16
+25130340,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1627,1809,7.5,10,0.25,38,9.5,"Manish, Kumar (dhanbad)",,1604.0,False,IND,0.0,1,-0.76,38,-28.88
+25130340,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1627,1809,7.5,10,0.25,38,9.5,Indusheetala,,1508.0,False,IND,1.0,1,0.15,38,5.7
+25130340,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1627,1809,7.5,10,0.25,38,9.5,"Pavan, C Rao",,1581.0,False,IND,1.0,1,0.21,38,7.98
+25130340,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1627,1809,7.5,10,0.25,38,9.5,"Abhinav, V",,1650.0,False,IND,1.0,1,0.29,38,11.02
+25130340,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1627,1809,7.5,10,0.25,38,9.5,"Sethu, Madhav Upadhyayula",,1683.0,False,IND,1.0,1,0.33,38,12.54
+25130340,2024-06-01,0,Karnataka State Under 17 Girls Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1586,1809,6.5,8,0.36,38,13.68,"Pavani, R",,1421.0,False,IND,1.0,1,0.09,38,3.42
+25130340,2024-06-01,0,Karnataka State Under 17 Girls Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1586,1809,6.5,8,0.36,38,13.68,"Maya, Ameen",,1506.0,False,IND,1.0,1,0.14,38,5.32
+25130340,2024-06-01,0,Karnataka State Under 17 Girls Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1586,1809,6.5,8,0.36,38,13.68,"Shriyana, S Mallya",wc,1665.0,False,IND,1.0,1,0.31,38,11.78
+25130340,2024-06-01,0,Karnataka State Under 17 Girls Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1586,1809,6.5,8,0.36,38,13.68,"Drishtee, Ghosh",,1703.0,False,IND,1.0,1,0.36,38,13.68
+25130340,2024-06-01,0,Karnataka State Under 17 Girls Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1586,1809,6.5,8,0.36,38,13.68,"Arushi, Severin Helen D Silva",,1703.0,False,IND,0.0,1,-0.64,38,-24.32
+25130340,2024-06-01,0,Karnataka State Under 17 Girls Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1586,1809,6.5,8,0.36,38,13.68,"Aradhya, S Shetty",,1499.0,False,IND,0.5,1,-0.36,38,-13.68
+25130340,2024-06-01,0,Karnataka State Under 17 Girls Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1586,1809,6.5,8,0.36,38,13.68,"Shreya, Rajesh",,1568.0,False,IND,1.0,1,0.2,38,7.6
+25130340,2024-06-01,0,Karnataka State Under 17 Girls Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1586,1809,6.5,8,0.36,38,13.68,"Krupha, S Ukkali",,1625.0,False,IND,1.0,1,0.26,38,9.88

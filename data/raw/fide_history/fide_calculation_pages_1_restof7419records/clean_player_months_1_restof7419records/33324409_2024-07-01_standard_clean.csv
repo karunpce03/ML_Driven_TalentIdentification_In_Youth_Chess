@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33324409,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1518,1412,0.5,4,-0.93,40,-37.2,"Srikanth, T J V K",,1589.0,False,IND,0.0,1,-0.27,40,-10.8
+33324409,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1518,1412,0.5,4,-0.93,40,-37.2,"Mokshith, Gannamani",,1489.0,False,IND,0.0,1,-0.39,40,-15.6
+33324409,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1518,1412,0.5,4,-0.93,40,-37.2,"Shiyam, Satyansh",,1506.0,False,IND,0.0,1,-0.37,40,-14.8
+33324409,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1518,1412,0.5,4,-0.93,40,-37.2,"Chandra, Sekhar Ayinaparti",,1488.0,False,IND,0.5,1,0.1,40,4.0

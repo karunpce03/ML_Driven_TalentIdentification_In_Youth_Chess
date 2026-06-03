@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33390088,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2050,1833,4.0,9,1.88,40,75.2,"Nishant, Abhijeet Jawalkar",,1961,False,IND,0.5,1,0.17,40,6.8
+33390088,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2050,1833,4.0,9,1.88,40,75.2,"Dahal, Sushrut",c,2007,False,NEP,0.5,1,0.23,40,9.2
+33390088,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2050,1833,4.0,9,1.88,40,75.2,"Galas, Bernadette",wm,2022,False,PHI,1.0,1,0.75,40,30.0
+33390088,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2050,1833,4.0,9,1.88,40,75.2,"Indjic, Aleksandar",g,2233,True,SRB,0.0,1,-0.08,40,-3.2
+33390088,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2050,1833,4.0,9,1.88,40,75.2,"Villanueva, Nelson",f,2052,False,PHI,0.5,1,0.28,40,11.2
+33390088,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2050,1833,4.0,9,1.88,40,75.2,"Sanudula, K M Dahamdi",wc,2093,False,SRI,0.5,1,0.32,40,12.8
+33390088,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2050,1833,4.0,9,1.88,40,75.2,"Rom, Jasper",,2169,False,PHI,0.0,1,-0.12,40,-4.8
+33390088,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2050,1833,4.0,9,1.88,40,75.2,"Premshankar, B U",,1931,False,IND,0.0,1,-0.37,40,-14.8
+33390088,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2050,1833,4.0,9,1.88,40,75.2,"Reinecke, Katharina",wc,1983,False,GER,1.0,1,0.7,40,28.0

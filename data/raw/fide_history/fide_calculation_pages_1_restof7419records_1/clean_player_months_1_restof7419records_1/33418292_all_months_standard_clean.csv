@@ -1,0 +1,17 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33418292,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1691,1431,2.0,4,1.25,40,50.0,"Ezhil, Aadhav Kaladharan",,1778.0,False,IND,1.0,1,0.89,40,35.6
+33418292,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1691,1431,2.0,4,1.25,40,50.0,Nithinkrish,,1630.0,False,IND,0.0,1,-0.24,40,-9.6
+33418292,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1691,1431,2.0,4,1.25,40,50.0,"Aarohi, Ketan Patel",,1627.0,False,IND,1.0,1,0.75,40,30.0
+33418292,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1691,1431,2.0,4,1.25,40,50.0,"Alrefae, Ahmad",,1730.0,False,KUW,0.0,1,-0.15,40,-6.0
+33418292,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1591,1481,2.0,6,-0.12,40,-4.8,"Vishwesh, Sivanantham",,1676.0,False,IND,0.5,1,0.25,40,10.0
+33418292,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1591,1481,2.0,6,-0.12,40,-4.8,"Mohsen, Hussain",,1459.0,False,EGY,1.0,1,0.47,40,18.8
+33418292,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1591,1481,2.0,6,-0.12,40,-4.8,"Nehan, Abdullah",,1585.0,False,BAN,0.0,1,-0.36,40,-14.4
+33418292,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1591,1481,2.0,6,-0.12,40,-4.8,"Alduwaisan, Hamad",,1551.0,False,KUW,0.0,1,-0.4,40,-16.0
+33418292,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1591,1481,2.0,6,-0.12,40,-4.8,"Alsayer, Bader",,1661.0,False,KUW,0.5,1,0.24,40,9.6
+33418292,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1591,1481,2.0,6,-0.12,40,-4.8,"Abel, Joseph",,1613.0,False,IND,0.0,1,-0.32,40,-12.8
+33418292,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1672,1476,2.5,6,0.99,40,39.6,"Eisa Mohmood, Alkhoori",c,1760.0,False,UAE,0.0,1,-0.16,40,-6.4
+33418292,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1672,1476,2.5,6,0.99,40,39.6,"Mohnish, Balamurugan",,1640.0,False,IND,0.0,1,-0.28,40,-11.2
+33418292,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1672,1476,2.5,6,0.99,40,39.6,"Vaibhav, Vishaan Nandakumar",,1578.0,False,IND,1.0,1,0.64,40,25.6
+33418292,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1672,1476,2.5,6,0.99,40,39.6,"Khalid, Lodhi",,1679.0,False,PAK,0.5,1,0.26,40,10.4
+33418292,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1672,1476,2.5,6,0.99,40,39.6,"Sudhanshu, Muluka",,1633.0,False,IND,1.0,1,0.71,40,28.4
+33418292,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1672,1476,2.5,6,0.99,40,39.6,"Vedant, Yogesh Kale",,1740.0,False,IND,0.0,1,-0.18,40,-7.2

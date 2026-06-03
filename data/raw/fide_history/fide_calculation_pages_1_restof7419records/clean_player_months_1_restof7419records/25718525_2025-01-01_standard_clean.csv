@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25718525,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1631,1553,1.0,4,-0.67,40,-26.8,"Sharma, Harish",,1889.0,False,IND,0.0,1,-0.12,40,-4.8
+25718525,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1631,1553,1.0,4,-0.67,40,-26.8,"Abhay, Chetty",,1738.0,False,IND,0.0,1,-0.26,40,-10.4
+25718525,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1631,1553,1.0,4,-0.67,40,-26.8,"Abhiram, Dixit",,1460.0,False,IND,0.5,1,-0.13,40,-5.2
+25718525,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1631,1553,1.0,4,-0.67,40,-26.8,"Aayushmaan, Pratap Singh",,1438.0,False,IND,0.5,1,-0.16,40,-6.4

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33478066,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2367,2217,2.5,5,0.99,40,39.6,"Lewicki, Miroslaw",m,2338.0,False,POL,1.0,1,0.66,40,26.4
+33478066,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2367,2217,2.5,5,0.99,40,39.6,"Apoorv, Kamble",f,2369.0,False,IND,0.5,1,0.2,40,8.0
+33478066,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2367,2217,2.5,5,0.99,40,39.6,"Hollan, Martin",f,2373.0,False,CZE,0.5,1,0.21,40,8.4
+33478066,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2367,2217,2.5,5,0.99,40,39.6,"Nguyen, Piotr",m,2426.0,False,POL,0.0,1,-0.23,40,-9.2
+33478066,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2367,2217,2.5,5,0.99,40,39.6,"Suder, Jakub",f,2328.0,False,POL,0.5,1,0.15,40,6.0

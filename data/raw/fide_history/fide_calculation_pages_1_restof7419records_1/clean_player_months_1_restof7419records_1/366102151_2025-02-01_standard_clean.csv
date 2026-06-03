@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366102151,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1571,1520,1.0,3,-0.31,40,-12.4,"Nirmal, L",,1714.0,False,IND,0.0,1,-0.25,40,-10.0
+366102151,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1571,1520,1.0,3,-0.31,40,-12.4,"Sri, Hari Gowtham V",,1461.0,False,IND,0.0,1,-0.58,40,-23.2
+366102151,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1571,1520,1.0,3,-0.31,40,-12.4,"Fecilika, Fiance S",,1537.0,False,IND,1.0,1,0.52,40,20.8

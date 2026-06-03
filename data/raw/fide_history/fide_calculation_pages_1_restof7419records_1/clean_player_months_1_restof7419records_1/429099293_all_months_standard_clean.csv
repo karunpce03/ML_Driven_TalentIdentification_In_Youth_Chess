@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429099293,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,3,0.0,691,,Indusheetala,,1527.0,False,IND,0.0,1,0.0,,0.0
+429099293,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,3,0.0,691,,"Inbhan, B",,1460.0,False,IND,0.0,1,0.0,,0.0
+429099293,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,3,0.0,691,,"Sadhana, S N",,1485.0,False,IND,0.0,1,0.0,,0.0
+429099293,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,0.0,3,0.0,660,,"Shivnarayanan, S",,1549.0,False,IND,0.0,1,0.0,,0.0
+429099293,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,0.0,3,0.0,660,,"Adit, Nammilikkara",,1421.0,False,IND,0.0,1,0.0,,0.0
+429099293,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,0.0,3,0.0,660,,"Hari, R",,1410.0,False,IND,0.0,1,0.0,,0.0
+429099293,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,2.0,6,0.0,1383,,"Satheesh, A S",,1582.0,False,IND,0.0,1,0.0,,0.0
+429099293,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,2.0,6,0.0,1383,,"Sasidhara, Kurup C",,1472.0,False,IND,0.0,1,0.0,,0.0
+429099293,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,2.0,6,0.0,1383,,"Philip, Sanjoy",,1498.0,False,IND,1.0,1,0.0,,0.0
+429099293,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,2.0,6,0.0,1383,,"Sreejan, N G",,1476.0,False,IND,0.0,1,0.0,,0.0
+429099293,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,2.0,6,0.0,1383,,"Aadi, Pradeep",,1526.0,False,IND,0.0,1,0.0,,0.0
+429099293,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,2.0,6,0.0,1383,,"Karthik, S",,1491.0,False,IND,1.0,1,0.0,,0.0
+429099293,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1756.0,1494.0,0.0,1,-0.18,40,-7.2,"Madhusoodanan, K.r.",,1756.0,False,IND,0.0,1,-0.18,40.0,-7.2
+429099293,2025-03-01,0,Star Chess Foundation 1st International Open FIDE Rating Chess Tournament Trichy - 2024,Trichy IND,2025-02-08,2025-02-11,1411.0,1487.0,1.0,1,0.4,40,16.0,"Prathya, K",,1411.0,False,IND,1.0,1,0.4,40.0,16.0

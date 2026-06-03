@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25961225,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1644,1676,5.0,7,1.21,40,48.4,"Vishal, S",,1456.0,False,IND,1.0,1,0.22,40,8.8
+25961225,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1644,1676,5.0,7,1.21,40,48.4,"Sugirtha, S",,1543.0,False,IND,1.0,1,0.32,40,12.8
+25961225,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1644,1676,5.0,7,1.21,40,48.4,"Anilkumar, O.t.",,1837.0,False,IND,0.0,1,-0.29,40,-11.6
+25961225,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1644,1676,5.0,7,1.21,40,48.4,"Thayaanidhi, U K",,1515.0,False,IND,1.0,1,0.29,40,11.6
+25961225,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1644,1676,5.0,7,1.21,40,48.4,"Rahul, Ravikumar",,1489.0,False,IND,1.0,1,0.26,40,10.4
+25961225,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1644,1676,5.0,7,1.21,40,48.4,"Sunil Dev, S",,1771.0,False,IND,1.0,1,0.63,40,25.2
+25961225,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1644,1676,5.0,7,1.21,40,48.4,"Tarun, V",,1899.0,False,IND,0.0,1,-0.22,40,-8.8

@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33300429,2025-02-01,0,13th annual Boston Chess Congress - Premier,"Boston, MA USA",2025-01-03,2025-01-05,1870,1901,1.0,3,-0.63,40,-25.2,"Wang, Aaron Yitian",,1875.0,False,USA,0.0,1,-0.54,40,-21.6
+33300429,2025-02-01,0,13th annual Boston Chess Congress - Premier,"Boston, MA USA",2025-01-03,2025-01-05,1870,1901,1.0,3,-0.63,40,-25.2,"Katsman, David",,1899.0,False,USA,0.0,1,-0.5,40,-20.0
+33300429,2025-02-01,0,13th annual Boston Chess Congress - Premier,"Boston, MA USA",2025-01-03,2025-01-05,1870,1901,1.0,3,-0.63,40,-25.2,"Zhang, Royce",,1835.0,False,USA,1.0,1,0.41,40,16.4

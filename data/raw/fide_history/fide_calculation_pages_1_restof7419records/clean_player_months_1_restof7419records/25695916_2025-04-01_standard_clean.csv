@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25695916,2025-04-01,0,Budapest One Week U2250 - March,Budapest HUN,2025-03-17,2025-03-22,1955,1961,5.0,9,0.5,40,20.0,"Feher, Laszlo",,1661.0,False,HUN,1.0,1,0.15,40,6.0
+25695916,2025-04-01,0,Budapest One Week U2250 - March,Budapest HUN,2025-03-17,2025-03-22,1955,1961,5.0,9,0.5,40,20.0,"Horvath, Andras",,2091.0,False,HUN,0.5,1,0.18,40,7.2
+25695916,2025-04-01,0,Budapest One Week U2250 - March,Budapest HUN,2025-03-17,2025-03-22,1955,1961,5.0,9,0.5,40,20.0,"Orso, Miklos",m,2132.0,False,HUN,0.5,1,0.23,40,9.2
+25695916,2025-04-01,0,Budapest One Week U2250 - March,Budapest HUN,2025-03-17,2025-03-22,1955,1961,5.0,9,0.5,40,20.0,"Praveen, K B",,2022.0,False,IND,0.0,1,-0.42,40,-16.8
+25695916,2025-04-01,0,Budapest One Week U2250 - March,Budapest HUN,2025-03-17,2025-03-22,1955,1961,5.0,9,0.5,40,20.0,"Agarwal, Amaya",,1780.0,False,ENG,1.0,1,0.26,40,10.4
+25695916,2025-04-01,0,Budapest One Week U2250 - March,Budapest HUN,2025-03-17,2025-03-22,1955,1961,5.0,9,0.5,40,20.0,"Yonemitsu, Kohei",,2045.0,False,JPN,1.0,1,0.62,40,24.8
+25695916,2025-04-01,0,Budapest One Week U2250 - March,Budapest HUN,2025-03-17,2025-03-22,1955,1961,5.0,9,0.5,40,20.0,"Kormos, Adam",,2128.0,False,HUN,0.0,1,-0.28,40,-11.2
+25695916,2025-04-01,0,Budapest One Week U2250 - March,Budapest HUN,2025-03-17,2025-03-22,1955,1961,5.0,9,0.5,40,20.0,"Szarvas, Nora",,1969.0,False,HUN,0.0,1,-0.49,40,-19.6
+25695916,2025-04-01,0,Budapest One Week U2250 - March,Budapest HUN,2025-03-17,2025-03-22,1955,1961,5.0,9,0.5,40,20.0,"Bacsi, Andras",,1768.0,False,HUN,1.0,1,0.25,40,10.0

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33439230,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1733,1604,4.5,9,1.43,40,57.2,"Al Saidi, Abdullah Harib",,1625,False,OMA,1.0,1,0.53,40,21.2
+33439230,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1733,1604,4.5,9,1.43,40,57.2,"Kiani, Rahil",,1815,False,IRI,1.0,1,0.77,40,30.8
+33439230,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1733,1604,4.5,9,1.43,40,57.2,"Barsov, Alexei",g,2004,True,UZB,0.0,1,-0.08,40,-3.2
+33439230,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1733,1604,4.5,9,1.43,40,57.2,"Bait Said, Manaf Salim",,1750,False,OMA,0.5,1,0.2,40,8.0
+33439230,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1733,1604,4.5,9,1.43,40,57.2,"Ali, Farhad Ali",,1814,False,IRQ,0.0,1,-0.23,40,-9.2
+33439230,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1733,1604,4.5,9,1.43,40,57.2,"Al Balushi, Said",,1697,False,OMA,1.0,1,0.63,40,25.2
+33439230,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1733,1604,4.5,9,1.43,40,57.2,"Al Jabri, Rashid",,1771,False,OMA,0.0,1,-0.28,40,-11.2
+33439230,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1733,1604,4.5,9,1.43,40,57.2,"Adhvik, Vigneshwaran",,1642,False,IND,0.0,1,-0.45,40,-18.0
+33439230,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1733,1604,4.5,9,1.43,40,57.2,"Harshavardhan, V",,1483,False,IND,1.0,1,0.34,40,13.6

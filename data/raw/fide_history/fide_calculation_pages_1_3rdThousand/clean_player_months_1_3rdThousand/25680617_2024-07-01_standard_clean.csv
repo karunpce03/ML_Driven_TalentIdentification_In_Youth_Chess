@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25680617,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1701,1850,6.5,8,1.05,40,42.0,"Kale, Shriram",,1450,True,IND,1.0,1,0.08,40,3.2
+25680617,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1701,1850,6.5,8,1.05,40,42.0,"Chirag, Arora",,1580,False,IND,1.0,1,0.17,40,6.8
+25680617,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1701,1850,6.5,8,1.05,40,42.0,"Mandloi, Mukesh",,1660,False,IND,1.0,1,0.25,40,10.0
+25680617,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1701,1850,6.5,8,1.05,40,42.0,"Gagan, Sahu",,1723,False,IND,1.0,1,0.33,40,13.2
+25680617,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1701,1850,6.5,8,1.05,40,42.0,"Arpan, Das",,2038,False,IND,0.0,1,-0.26,40,-10.4
+25680617,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1701,1850,6.5,8,1.05,40,42.0,"Homil, Madaan",,1688,False,IND,1.0,1,0.29,40,11.6
+25680617,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1701,1850,6.5,8,1.05,40,42.0,"Pranay, Chordia",,1753,False,IND,0.5,1,-0.13,40,-5.2
+25680617,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1701,1850,6.5,8,1.05,40,42.0,"Shubh, Atha",,1715,False,IND,1.0,1,0.32,40,12.8

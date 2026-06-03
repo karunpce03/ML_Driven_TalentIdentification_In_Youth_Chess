@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+46660445,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1579,1769,5.5,9,-1.2,40,-48.0,"Wong, En Ting Alesa",,1493.0,False,SGP,1.0,1,0.17,40,6.8
+46660445,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1579,1769,5.5,9,-1.2,40,-48.0,"Lim, Hsien Jin",,1573.0,False,SGP,1.0,1,0.25,40,10.0
+46660445,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1579,1769,5.5,9,-1.2,40,-48.0,"Wong, Shyun Fwu Aldrin",,1660.0,False,SGP,0.0,1,-0.65,40,-26.0
+46660445,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1579,1769,5.5,9,-1.2,40,-48.0,"Yeo, Lucas Li Zhe",,1562.0,False,SGP,0.0,1,-0.77,40,-30.8
+46660445,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1579,1769,5.5,9,-1.2,40,-48.0,"Li, Jiazuo",,1501.0,False,SGP,1.0,1,0.17,40,6.8
+46660445,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1579,1769,5.5,9,-1.2,40,-48.0,"Lin, Yi Christopher",,1579.0,False,SGP,1.0,1,0.25,40,10.0
+46660445,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1579,1769,5.5,9,-1.2,40,-48.0,"Ong, Allie Jean",,1629.0,False,PHI,0.5,1,-0.19,40,-7.6
+46660445,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1579,1769,5.5,9,-1.2,40,-48.0,"Soo, Cheng Hao",,1624.0,False,SGP,0.0,1,-0.69,40,-27.6
+46660445,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1579,1769,5.5,9,-1.2,40,-48.0,"Vivaan, Amarnani",,1587.0,False,IND,1.0,1,0.26,40,10.4

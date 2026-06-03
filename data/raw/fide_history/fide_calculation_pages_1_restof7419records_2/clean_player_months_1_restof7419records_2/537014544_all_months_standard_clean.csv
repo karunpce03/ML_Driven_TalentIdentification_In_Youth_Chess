@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+537014544,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,,,1.0,3,0.0,1343,,"Kush, Mundhra",,1423.0,False,IND,1.0,1,0.0,,0.0
+537014544,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,,,1.0,3,0.0,1343,,"Arkoprobha, Banik",,1525.0,False,IND,0.0,1,0.0,,0.0
+537014544,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,,,1.0,3,0.0,1343,,"Divyansh, Barik",,1457.0,False,IND,0.0,1,0.0,,0.0
+537014544,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,1.0,3,0.0,1377,,"Mahesh, Prasad Das",,1551.0,False,IND,0.5,1,0.0,,0.0
+537014544,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,1.0,3,0.0,1377,,"Achintya, Kashyap",,1502.0,False,IND,0.5,1,0.0,,0.0
+537014544,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,1.0,3,0.0,1377,,"Bhardwaj, Anurag",,1452.0,False,IND,0.0,1,0.0,,0.0
+537014544,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1588.0,1477.0,0.5,4,-0.91,40,-36.4,"Sheikh, Jahan",,1639.0,False,IND,0.5,1,0.21,40.0,8.4
+537014544,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1588.0,1477.0,0.5,4,-0.91,40,-36.4,"Ishaan, Mahesh Kadam",,1639.0,False,IND,0.0,1,-0.29,40.0,-11.6
+537014544,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1588.0,1477.0,0.5,4,-0.91,40,-36.4,"Vihaan, Sinha",,1539.0,False,IND,0.0,1,-0.41,40.0,-16.4
+537014544,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1588.0,1477.0,0.5,4,-0.91,40,-36.4,"Gunaselvaram, T",,1536.0,False,IND,0.0,1,-0.42,40.0,-16.8

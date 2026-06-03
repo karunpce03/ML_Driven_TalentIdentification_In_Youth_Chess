@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33445923,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1633,1421,1.5,5,0.29,40,11.6,"Sharma, Harish",,1821,True,IND,0.0,1,-0.08,40,-3.2
+33445923,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1633,1421,1.5,5,0.29,40,11.6,"Nitin, Rathore",,1658,False,IND,1.0,1,0.8,40,32.0
+33445923,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1633,1421,1.5,5,0.29,40,11.6,"Ananth, Srinivas",,1537,False,IND,0.5,1,0.16,40,6.4
+33445923,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1633,1421,1.5,5,0.29,40,11.6,"Vibhor, Chopra",,1576,False,IND,0.0,1,-0.29,40,-11.6
+33445923,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1633,1421,1.5,5,0.29,40,11.6,"Chirag, Arora",,1573,False,IND,0.0,1,-0.3,40,-12.0

@@ -1,0 +1,27 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33397481,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1655,1719,6.0,9,0.74,26,19.24,"Vishrutha, T M",,1497.0,False,IND,1.0,1,0.22,26,5.72
+33397481,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1655,1719,6.0,9,0.74,26,19.24,"Bhuvan, Sujan Reddy Chadive",,1659.0,False,IND,1.0,1,0.42,26,10.92
+33397481,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1655,1719,6.0,9,0.74,26,19.24,"Naveen, S Hegde",,1863.0,False,IND,1.0,1,0.69,26,17.94
+33397481,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1655,1719,6.0,9,0.74,26,19.24,"Bhuvan, Krishna Prasanth",,1930.0,False,IND,0.0,1,-0.23,26,-5.98
+33397481,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1655,1719,6.0,9,0.74,26,19.24,Nithinpal,,1591.0,False,IND,0.0,1,-0.67,26,-17.42
+33397481,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1655,1719,6.0,9,0.74,26,19.24,"Karthik, G Iyer",,1550.0,False,IND,1.0,1,0.28,26,7.28
+33397481,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1655,1719,6.0,9,0.74,26,19.24,"Sarthak Sharma,",,1630.0,False,IND,0.5,1,-0.12,26,-3.12
+33397481,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1655,1719,6.0,9,0.74,26,19.24,"Punith, Neeli",,1600.0,False,IND,0.5,1,-0.16,26,-4.16
+33397481,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1655,1719,6.0,9,0.74,26,19.24,"Nivaan, Raghavendra",,1575.0,False,IND,1.0,1,0.31,26,8.06
+33397481,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1601,1719,5.0,8,-0.25,26,-6.5,"Leah, R Joseph",,1489.0,False,IND,1.0,1,0.21,26,5.46
+33397481,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1601,1719,5.0,8,-0.25,26,-6.5,"Darsha, Bhat",,1551.0,False,IND,0.5,1,-0.22,26,-5.72
+33397481,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1601,1719,5.0,8,-0.25,26,-6.5,"Venkata, Naga Karthik Malladi",,1543.0,False,IND,0.5,1,-0.23,26,-5.98
+33397481,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1601,1719,5.0,8,-0.25,26,-6.5,"Rakesh, Gowda G C",,1531.0,False,IND,1.0,1,0.26,26,6.76
+33397481,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1601,1719,5.0,8,-0.25,26,-6.5,"Yatharth, Jain",,1578.0,False,IND,1.0,1,0.31,26,8.06
+33397481,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1601,1719,5.0,8,-0.25,26,-6.5,"Augustin, A",,1969.0,False,IND,0.0,1,-0.19,26,-4.94
+33397481,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1601,1719,5.0,8,-0.25,26,-6.5,"Dhanushkka, S",,1573.0,False,IND,0.5,1,-0.2,26,-5.2
+33397481,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1601,1719,5.0,8,-0.25,26,-6.5,"Aarush, Bhat",,1576.0,False,IND,0.5,1,-0.19,26,-4.94
+33397481,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1741,1719,6.5,9,2.33,26,60.58,"Bhava, Kishan",,1439.0,False,IND,1.0,1,0.16,26,4.16
+33397481,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1741,1719,6.5,9,2.33,26,60.58,"Aadithya, R",,1495.0,False,IND,1.0,1,0.22,26,5.72
+33397481,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1741,1719,6.5,9,2.33,26,60.58,"Samrudh, M",,1474.0,False,IND,1.0,1,0.2,26,5.2
+33397481,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1741,1719,6.5,9,2.33,26,60.58,"Pradeep, Tiwari",,1869.0,False,IND,0.5,1,0.2,26,5.2
+33397481,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1741,1719,6.5,9,2.33,26,60.58,"Shashveen, A K",,1854.0,False,IND,1.0,1,0.68,26,17.68
+33397481,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1741,1719,6.5,9,2.33,26,60.58,"Ajjesh, J R",,1887.0,False,IND,0.0,1,-0.28,26,-7.28
+33397481,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1741,1719,6.5,9,2.33,26,60.58,"Abinandhan, R",,1915.0,False,IND,1.0,1,0.75,26,19.5
+33397481,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1741,1719,6.5,9,2.33,26,60.58,"Ayyappan, P Santhana Prabu",,1851.0,False,IND,1.0,1,0.68,26,17.68
+33397481,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1741,1719,6.5,9,2.33,26,60.58,"Srujan, Keerthan Solletti",,1882.0,False,IND,0.0,1,-0.28,26,-7.28

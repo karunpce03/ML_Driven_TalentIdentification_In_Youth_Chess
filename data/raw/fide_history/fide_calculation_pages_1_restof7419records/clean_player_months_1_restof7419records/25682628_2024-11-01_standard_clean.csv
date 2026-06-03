@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25682628,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1658,1470,1.5,4,0.48,40,19.2,"Parithi, Narayan S I",,1670.0,False,IND,0.5,1,0.26,40,10.4
+25682628,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1658,1470,1.5,4,0.48,40,19.2,"Ivan, George E",,1665.0,False,IND,0.5,1,0.25,40,10.0
+25682628,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1658,1470,1.5,4,0.48,40,19.2,"Azeezuddin, H.",,1618.0,False,IND,0.5,1,0.2,40,8.0
+25682628,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1658,1470,1.5,4,0.48,40,19.2,"Karthick, Babu",,1677.0,False,IND,0.0,1,-0.23,40,-9.2

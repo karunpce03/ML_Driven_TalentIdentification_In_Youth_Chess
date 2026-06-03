@@ -1,0 +1,126 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25937219,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2407,2227,1.5,9,-0.93,38,-35.34,"Banh, Gia Huy",f,2390.0,False,VIE,0.0,1,-0.28,38,-10.64
+25937219,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2407,2227,1.5,9,-0.93,38,-35.34,"Nguyen, Anh Dung",g,2450.0,False,VIE,0.5,1,0.28,38,10.64
+25937219,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2407,2227,1.5,9,-0.93,38,-35.34,"Quizon, Daniel",m,2432.0,False,PHI,0.0,1,-0.24,38,-9.12
+25937219,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2407,2227,1.5,9,-0.93,38,-35.34,"Plat, Vojtech",g,2528.0,False,CZE,0.5,1,0.35,38,13.3
+25937219,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2407,2227,1.5,9,-0.93,38,-35.34,"Dao, Minh Nhat",m,2268.0,False,VIE,0.0,1,-0.44,38,-16.72
+25937219,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2407,2227,1.5,9,-0.93,38,-35.34,"Bui, Vinh",g,2371.0,False,VIE,0.0,1,-0.31,38,-11.78
+25937219,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2407,2227,1.5,9,-0.93,38,-35.34,"Vaz, Ethan",f,2410.0,False,IND,0.5,1,0.24,38,9.12
+25937219,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2407,2227,1.5,9,-0.93,38,-35.34,"Mohammad Fahad, Rahman",m,2426.0,False,BAN,0.0,1,-0.24,38,-9.12
+25937219,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2407,2227,1.5,9,-0.93,38,-35.34,"Namitbir, Singh Walia",f,2385.0,False,IND,0.0,1,-0.29,38,-11.02
+25937219,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,2085,2169,6.0,9,0.62,38,23.56,"Frost, Peter",,1785.0,False,AUS,0.5,1,-0.41,38,-15.58
+25937219,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,2085,2169,6.0,9,0.62,38,23.56,"Rolston, Daniel Haruma",,1795.0,False,JPN,1.0,1,0.1,38,3.8
+25937219,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,2085,2169,6.0,9,0.62,38,23.56,"Badmatsyrenov, Oleg",m,2407.0,False,FID,0.5,1,0.3,38,11.4
+25937219,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,2085,2169,6.0,9,0.62,38,23.56,"Wongsawan, Thoetsak",,1898.0,False,THA,1.0,1,0.17,38,6.46
+25937219,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,2085,2169,6.0,9,0.62,38,23.56,"Aarav, A",,1886.0,False,IND,1.0,1,0.16,38,6.08
+25937219,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,2085,2169,6.0,9,0.62,38,23.56,"Saragih, Arif Rahman",f,2245.0,False,INA,1.0,1,0.6,38,22.8
+25937219,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,2085,2169,6.0,9,0.62,38,23.56,"Bernadskiy, Vitaliy",g,2560.0,False,UKR,0.0,1,-0.09,38,-3.42
+25937219,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,2085,2169,6.0,9,0.62,38,23.56,"Majumder, Shrayan",,2072.0,False,IND,0.5,1,-0.13,38,-4.94
+25937219,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,2085,2169,6.0,9,0.62,38,23.56,"Nayem, Haque",f,2114.0,False,BAN,0.5,1,-0.08,38,-3.04
+25937219,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN A,Piestany SVK,2024-07-09,2024-07-17,2351,2157,5.0,9,2.73,38,103.74,"Savitha, Shri B",wg,2361.0,False,IND,0.5,1,0.26,38,9.88
+25937219,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN A,Piestany SVK,2024-07-09,2024-07-17,2351,2157,5.0,9,2.73,38,103.74,"Turcan, Richard",f,2374.0,False,SVK,0.5,1,0.28,38,10.64
+25937219,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN A,Piestany SVK,2024-07-09,2024-07-17,2351,2157,5.0,9,2.73,38,103.74,"Hros, Roman",f,2312.0,False,SVK,1.0,1,0.71,38,26.98
+25937219,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN A,Piestany SVK,2024-07-09,2024-07-17,2351,2157,5.0,9,2.73,38,103.74,"Sahidi, Samir",m,2477.0,False,SVK,0.0,1,-0.13,38,-4.94
+25937219,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN A,Piestany SVK,2024-07-09,2024-07-17,2351,2157,5.0,9,2.73,38,103.74,"Khalafova, Narmin",wg,2284.0,False,AZE,0.5,1,0.17,38,6.46
+25937219,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN A,Piestany SVK,2024-07-09,2024-07-17,2351,2157,5.0,9,2.73,38,103.74,"Assylov, Miras",f,2326.0,False,KAZ,1.0,1,0.72,38,27.36
+25937219,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN A,Piestany SVK,2024-07-09,2024-07-17,2351,2157,5.0,9,2.73,38,103.74,"Moksh, Amit Doshi",m,2368.0,False,IND,0.0,1,-0.23,38,-8.74
+25937219,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN A,Piestany SVK,2024-07-09,2024-07-17,2351,2157,5.0,9,2.73,38,103.74,"Aarav, Sinha",f,2300.0,False,IND,1.0,1,0.69,38,26.22
+25937219,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN A,Piestany SVK,2024-07-09,2024-07-17,2351,2157,5.0,9,2.73,38,103.74,"Havelka, Josef",f,2361.0,False,CZE,0.5,1,0.26,38,9.88
+25937219,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2369,2157,5.0,9,2.9,38,110.2,"Aarav, Dengla",m,2381.0,False,IND,0.0,1,-0.22,38,-8.36
+25937219,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2369,2157,5.0,9,2.9,38,110.2,"Degardin, Sylvain",f,2272.0,False,FRA,1.0,1,0.66,38,25.08
+25937219,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2369,2157,5.0,9,2.9,38,110.2,"Milliet, Sophie",m wg,2361.0,False,FRA,1.0,1,0.76,38,28.88
+25937219,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2369,2157,5.0,9,2.9,38,110.2,"Harshavardhan, G B",m,2425.0,False,IND,0.0,1,-0.17,38,-6.46
+25937219,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2369,2157,5.0,9,2.9,38,110.2,"Clery, Nicolas",m,2316.0,False,FRA,0.5,1,0.21,38,7.98
+25937219,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2369,2157,5.0,9,2.9,38,110.2,"Benmesbah, Natacha",wm,2322.0,False,FRA,1.0,1,0.72,38,27.36
+25937219,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2369,2157,5.0,9,2.9,38,110.2,"Ermitsch, Magnus",f,2383.0,False,GER,0.5,1,0.29,38,11.02
+25937219,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2369,2157,5.0,9,2.9,38,110.2,"Gatineau, Yovann",m,2402.0,False,FRA,0.5,1,0.3,38,11.4
+25937219,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2369,2157,5.0,9,2.9,38,110.2,"Makkar, Rajat",m,2459.0,False,FRA,0.5,1,0.35,38,13.3
+25937219,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2091,2157,3.5,9,-1.9,20,-38.0,"Alexakis, Dimitris",m,2492.0,False,GRE,0.0,1,-0.12,20,-2.4
+25937219,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2091,2157,3.5,9,-1.9,20,-38.0,"Pavan, Karthikeya Varma Gunturi",,2071.0,False,IND,0.5,1,-0.12,20,-2.4
+25937219,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2091,2157,3.5,9,-1.9,20,-38.0,"Deligiannis, Christos Nikolaos",,2073.0,False,GRE,0.0,1,-0.62,20,-12.4
+25937219,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2091,2157,3.5,9,-1.9,20,-38.0,"Karanikolas, Dimitrios",,2080.0,False,GRE,0.5,1,-0.11,20,-2.2
+25937219,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2091,2157,3.5,9,-1.9,20,-38.0,"Kurtyilmaz, Kuzey",,2000.0,False,TUR,0.5,1,-0.21,20,-4.2
+25937219,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2091,2157,3.5,9,-1.9,20,-38.0,"Pisan, Kai",,2016.0,False,USA,1.0,1,0.31,20,6.2
+25937219,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2091,2157,3.5,9,-1.9,20,-38.0,"Koch-Muller, Oscar",,2034.0,False,DEN,1.0,1,0.33,20,6.6
+25937219,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2091,2157,3.5,9,-1.9,20,-38.0,"Odabasi, Ruzgar",,2008.0,False,TUR,0.0,1,-0.7,20,-14.0
+25937219,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2091,2157,3.5,9,-1.9,20,-38.0,"Kalogridis, Themistoklis",,2043.0,False,GRE,0.0,1,-0.66,20,-13.2
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Levitan, Caleb Levi",f,2205.0,False,RSA,0.0,1,-0.67,20,-13.4
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Pastar, Slaven",m,2361.0,False,BIH,0.5,1,0.04,20,0.8
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Varga, Zoltan",g,2286.0,False,HUN,1.0,1,0.43,20,8.6
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Papp, Levente",f,2362.0,False,HUN,0.0,1,-0.46,20,-9.2
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Dvornic, Mladen",f,2247.0,False,SRB,0.5,1,-0.12,20,-2.4
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Ljepic, Andrej",f,2356.0,False,SRB,0.5,1,0.03,20,0.6
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Cabarkapa, Novak",m,2464.0,False,SRB,0.0,1,-0.32,20,-6.4
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Alimpic, Aleksa",c,2238.0,False,SRB,0.5,1,-0.13,20,-2.6
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Bulmaga, Irina",m wg,2402.0,False,ROU,0.5,1,0.1,20,2.0
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Ozen, Deniz",m,2394.0,False,TUR,0.5,1,0.08,20,1.6
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Munizaba, Slobodan",f,2385.0,False,SRB,0.5,1,0.07,20,1.4
+25937219,2024-12-01,0,RUDAR XI - GM ROUND ROBIN,Pozarevac SRB,2024-11-06,2024-11-13,2390,2333,2.5,9,-1.3,20,-26.0,"Namitbir, Singh Walia",f,2339.0,False,IND,0.0,1,-0.49,20,-9.8
+25937219,2024-12-01,0,RUDAR XI - GM ROUND ROBIN,Pozarevac SRB,2024-11-06,2024-11-13,2390,2333,2.5,9,-1.3,20,-26.0,"Wu, Yixing",,2403.0,False,CHN,0.0,1,-0.4,20,-8.0
+25937219,2024-12-01,0,RUDAR XI - GM ROUND ROBIN,Pozarevac SRB,2024-11-06,2024-11-13,2390,2333,2.5,9,-1.3,20,-26.0,"Garv, Gaur",f,2388.0,False,IND,0.5,1,0.08,20,1.6
+25937219,2024-12-01,0,RUDAR XI - GM ROUND ROBIN,Pozarevac SRB,2024-11-06,2024-11-13,2390,2333,2.5,9,-1.3,20,-26.0,"Stojanovic, Mihajlo",g,2430.0,False,SRB,0.5,1,0.13,20,2.6
+25937219,2024-12-01,0,RUDAR XI - GM ROUND ROBIN,Pozarevac SRB,2024-11-06,2024-11-13,2390,2333,2.5,9,-1.3,20,-26.0,"Nikolov, Momchil",g,2421.0,False,BUL,0.0,1,-0.38,20,-7.6
+25937219,2024-12-01,0,RUDAR XI - GM ROUND ROBIN,Pozarevac SRB,2024-11-06,2024-11-13,2390,2333,2.5,9,-1.3,20,-26.0,"Dimitrov, Radoslav",g,2478.0,False,BUL,0.0,1,-0.31,20,-6.2
+25937219,2024-12-01,0,RUDAR XI - GM ROUND ROBIN,Pozarevac SRB,2024-11-06,2024-11-13,2390,2333,2.5,9,-1.3,20,-26.0,"Milosevic, Milos",m,2306.0,False,SRB,1.0,1,0.46,20,9.2
+25937219,2024-12-01,0,RUDAR XI - GM ROUND ROBIN,Pozarevac SRB,2024-11-06,2024-11-13,2390,2333,2.5,9,-1.3,20,-26.0,"Spasic, Petar",f,2354.0,False,SRB,0.5,1,0.03,20,0.6
+25937219,2024-12-01,0,RUDAR XI - GM ROUND ROBIN,Pozarevac SRB,2024-11-06,2024-11-13,2390,2333,2.5,9,-1.3,20,-26.0,"Sutormin, Danila",f,2394.0,False,RUS,0.0,1,-0.42,20,-8.4
+25937219,2024-12-01,0,RUDAR XII - GM ROUND ROBIN,Pozarevac SRB,2024-11-14,2024-11-21,2390,2333,1.5,9,-2.31,20,-46.2,"Wu, Yixing",,2403.0,False,CHN,0.0,1,-0.4,20,-8.0
+25937219,2024-12-01,0,RUDAR XII - GM ROUND ROBIN,Pozarevac SRB,2024-11-14,2024-11-21,2390,2333,1.5,9,-2.31,20,-46.2,"Sutormin, Danila",f,2394.0,False,RUS,0.0,1,-0.42,20,-8.4
+25937219,2024-12-01,0,RUDAR XII - GM ROUND ROBIN,Pozarevac SRB,2024-11-14,2024-11-21,2390,2333,1.5,9,-2.31,20,-46.2,"Stoyanov, Stoyan Or",,2333.0,False,BUL,0.0,1,-0.5,20,-10.0
+25937219,2024-12-01,0,RUDAR XII - GM ROUND ROBIN,Pozarevac SRB,2024-11-14,2024-11-21,2390,2333,1.5,9,-2.31,20,-46.2,"Dimitrov, Radoslav",g,2478.0,False,BUL,0.0,1,-0.31,20,-6.2
+25937219,2024-12-01,0,RUDAR XII - GM ROUND ROBIN,Pozarevac SRB,2024-11-14,2024-11-21,2390,2333,1.5,9,-2.31,20,-46.2,"Stojanovic, Mihajlo",g,2430.0,False,SRB,0.0,1,-0.37,20,-7.4
+25937219,2024-12-01,0,RUDAR XII - GM ROUND ROBIN,Pozarevac SRB,2024-11-14,2024-11-21,2390,2333,1.5,9,-2.31,20,-46.2,"Spasic, Petar",f,2354.0,False,SRB,0.5,1,0.03,20,0.6
+25937219,2024-12-01,0,RUDAR XII - GM ROUND ROBIN,Pozarevac SRB,2024-11-14,2024-11-21,2390,2333,1.5,9,-2.31,20,-46.2,"Milosevic, Milos",m,2306.0,False,SRB,1.0,1,0.46,20,9.2
+25937219,2024-12-01,0,RUDAR XII - GM ROUND ROBIN,Pozarevac SRB,2024-11-14,2024-11-21,2390,2333,1.5,9,-2.31,20,-46.2,"Garv, Gaur",f,2388.0,False,IND,0.0,1,-0.42,20,-8.4
+25937219,2024-12-01,0,RUDAR XII - GM ROUND ROBIN,Pozarevac SRB,2024-11-14,2024-11-21,2390,2333,1.5,9,-2.31,20,-46.2,"Nikolov, Momchil",g,2421.0,False,BUL,0.0,1,-0.38,20,-7.6
+25937219,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2342,2333,0.5,7,-2.93,20,-58.6,"Nikitenko, Mihail",g,2490.0,False,FID,0.0,1,-0.29,20,-5.8
+25937219,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2342,2333,0.5,7,-2.93,20,-58.6,"Khubukshanov, Erdem",m,2443.0,False,FID,0.0,1,-0.35,20,-7.0
+25937219,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2342,2333,0.5,7,-2.93,20,-58.6,"Jake, Shanty",,2270.0,False,IND,0.0,1,-0.59,20,-11.8
+25937219,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2342,2333,0.5,7,-2.93,20,-58.6,"Jaiveer, Mahendru",f,2273.0,False,IND,0.0,1,-0.58,20,-11.6
+25937219,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2342,2333,0.5,7,-2.93,20,-58.6,"Ankit, Ray",f,2320.0,False,IND,0.0,1,-0.52,20,-10.4
+25937219,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2342,2333,0.5,7,-2.93,20,-58.6,"Garv, Rai",,2277.0,False,IND,0.0,1,-0.58,20,-11.6
+25937219,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2342,2333,0.5,7,-2.93,20,-58.6,"Aakash Sharadchandra, Dalvi",f,2321.0,False,IND,0.5,1,-0.02,20,-0.4
+25937219,2025-03-01,0,29. Hit open 2025 A,Nova Gorica SLO,2025-01-24,2025-01-31,2035,2183,5.5,9,-0.61,20,-12.2,"Sebenik, Matej",g,2495.0,False,SLO,0.0,1,-0.14,20,-2.8
+25937219,2025-03-01,0,29. Hit open 2025 A,Nova Gorica SLO,2025-01-24,2025-01-31,2035,2183,5.5,9,-0.61,20,-12.2,"Labrovic, Jakov",,1968.0,False,CRO,0.5,1,-0.27,20,-5.4
+25937219,2025-03-01,0,29. Hit open 2025 A,Nova Gorica SLO,2025-01-24,2025-01-31,2035,2183,5.5,9,-0.61,20,-12.2,"Tavano, Leonardo",,1803.0,False,ITA,0.5,1,-0.41,20,-8.2
+25937219,2025-03-01,0,29. Hit open 2025 A,Nova Gorica SLO,2025-01-24,2025-01-31,2035,2183,5.5,9,-0.61,20,-12.2,"Beber, Anja",,1998.0,False,SLO,1.0,1,0.26,20,5.2
+25937219,2025-03-01,0,29. Hit open 2025 A,Nova Gorica SLO,2025-01-24,2025-01-31,2035,2183,5.5,9,-0.61,20,-12.2,"Mestek, Igor",,2060.0,False,SLO,0.0,1,-0.67,20,-13.4
+25937219,2025-03-01,0,29. Hit open 2025 A,Nova Gorica SLO,2025-01-24,2025-01-31,2035,2183,5.5,9,-0.61,20,-12.2,"Uzag, Alper",,1849.0,False,TUR,1.0,1,0.12,20,2.4
+25937219,2025-03-01,0,29. Hit open 2025 A,Nova Gorica SLO,2025-01-24,2025-01-31,2035,2183,5.5,9,-0.61,20,-12.2,"Pirvulescu, Adrian",,1919.0,False,ROU,1.0,1,0.18,20,3.6
+25937219,2025-03-01,0,29. Hit open 2025 A,Nova Gorica SLO,2025-01-24,2025-01-31,2035,2183,5.5,9,-0.61,20,-12.2,"Mazzi, Leonardo",,1976.0,False,ITA,1.0,1,0.23,20,4.6
+25937219,2025-03-01,0,29. Hit open 2025 A,Nova Gorica SLO,2025-01-24,2025-01-31,2035,2183,5.5,9,-0.61,20,-12.2,"Herega, Nejc",c,2249.0,False,SLO,0.5,1,0.09,20,1.8
+25937219,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2110,2183,3.0,9,-2.26,20,-45.2,"Akhmedov, David",f,2368.0,False,FID,0.0,1,-0.26,20,-5.2
+25937219,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2110,2183,3.0,9,-2.26,20,-45.2,"Pajcin, Lav",f,2238.0,False,SRB,0.0,1,-0.42,20,-8.4
+25937219,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2110,2183,3.0,9,-2.26,20,-45.2,"Rankov, Boris",,1947.0,False,SRB,1.0,1,0.2,20,4.0
+25937219,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2110,2183,3.0,9,-2.26,20,-45.2,"Aansh, Nandan Nerurkar",c,2236.0,False,IND,0.0,1,-0.43,20,-8.6
+25937219,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2110,2183,3.0,9,-2.26,20,-45.2,"Zhou, Yuxu",c,2037.0,False,CHN,0.5,1,-0.2,20,-4.0
+25937219,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2110,2183,3.0,9,-2.26,20,-45.2,"Rajkumar, Daniel",,1783.0,True,TTO,0.5,1,-0.42,20,-8.4
+25937219,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2110,2183,3.0,9,-2.26,20,-45.2,"Joel, Paul Ganta",c,2065.0,False,IND,0.0,1,-0.66,20,-13.2
+25937219,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2110,2183,3.0,9,-2.26,20,-45.2,"Gabric, Goran",,2215.0,False,SRB,0.0,1,-0.46,20,-9.2
+25937219,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2110,2183,3.0,9,-2.26,20,-45.2,"Petrusic, Velimir",,2101.0,False,SRB,1.0,1,0.39,20,7.8
+25937219,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2272,2183,3.5,8,0.4,20,8.0,"Senthil, Maran K",f,2380.0,False,IND,0.5,1,0.25,20,5.0
+25937219,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2272,2183,3.5,8,0.4,20,8.0,"Dvalishvili, Pavel S.",m,2344.0,False,RUS,0.5,1,0.21,20,4.2
+25937219,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2272,2183,3.5,8,0.4,20,8.0,"Stopa, Jacek",g,2310.0,False,POL,0.0,1,-0.33,20,-6.6
+25937219,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2272,2183,3.5,8,0.4,20,8.0,"Sason, Noam",,1973.0,False,ISR,1.0,1,0.23,20,4.6
+25937219,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2272,2183,3.5,8,0.4,20,8.0,"Nigametzianov, Mikhail",f,2399.0,False,RUS,0.0,1,-0.22,20,-4.4
+25937219,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2272,2183,3.5,8,0.4,20,8.0,"Jocev, Milan",f,2292.0,False,SRB,0.5,1,0.15,20,3.0
+25937219,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2272,2183,3.5,8,0.4,20,8.0,"Zhou, Yuxu",c,2037.0,False,CHN,1.0,1,0.3,20,6.0
+25937219,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2272,2183,3.5,8,0.4,20,8.0,"Ratkovic, Milovan",m,2439.0,False,SRB,0.0,1,-0.19,20,-3.8
+25937219,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2255,2183,2.5,9,-1.18,20,-23.6,"Golubovskis, Maksims",f,2237.0,False,LAT,0.5,1,0.08,20,1.6
+25937219,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2255,2183,2.5,9,-1.18,20,-23.6,"Zabotin, Alexander",m,2423.0,False,RUS,0.5,1,0.3,20,6.0
+25937219,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2255,2183,2.5,9,-1.18,20,-23.6,"Joel, Paul Ganta",c,2065.0,False,IND,1.0,1,0.34,20,6.8
+25937219,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2255,2183,2.5,9,-1.18,20,-23.6,"Pereverzev, Timofei",,2030.0,False,RUS,0.0,1,-0.7,20,-14.0
+25937219,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2255,2183,2.5,9,-1.18,20,-23.6,"Nigametzianov, Mikhail",f,2399.0,False,RUS,0.0,1,-0.22,20,-4.4
+25937219,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2255,2183,2.5,9,-1.18,20,-23.6,"Aansh, Nandan Nerurkar",c,2236.0,False,IND,0.0,1,-0.43,20,-8.6
+25937219,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2255,2183,2.5,9,-1.18,20,-23.6,"Runic, Zoran",m,2262.0,False,BIH,0.0,1,-0.39,20,-7.8
+25937219,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2255,2183,2.5,9,-1.18,20,-23.6,"Hou, Yifan B",,2199.0,False,CHN,0.5,1,0.02,20,0.4
+25937219,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2255,2183,2.5,9,-1.18,20,-23.6,"Hakemi, Arman",m,2444.0,False,IRI,0.0,1,-0.18,20,-3.6
+25937219,2025-04-01,0,I Arche Chess Open A,Lublin POL,2025-02-23,2025-03-01,2190,2183,4.0,9,-0.43,20,-8.6,"Adarsh, Tripathi",f,2369.0,False,IND,0.0,1,-0.26,20,-5.2
+25937219,2025-04-01,0,I Arche Chess Open A,Lublin POL,2025-02-23,2025-03-01,2190,2183,4.0,9,-0.43,20,-8.6,"Prudhvi, Kumar V",,2259.0,False,IND,1.0,1,0.6,20,12.0
+25937219,2025-04-01,0,I Arche Chess Open A,Lublin POL,2025-02-23,2025-03-01,2190,2183,4.0,9,-0.43,20,-8.6,"Dorokhina, Elizaveta",wc,2133.0,False,FID,0.5,1,-0.07,20,-1.4
+25937219,2025-04-01,0,I Arche Chess Open A,Lublin POL,2025-02-23,2025-03-01,2190,2183,4.0,9,-0.43,20,-8.6,"Mika, Tomasz",c,2194.0,False,POL,0.0,1,-0.48,20,-9.6
+25937219,2025-04-01,0,I Arche Chess Open A,Lublin POL,2025-02-23,2025-03-01,2190,2183,4.0,9,-0.43,20,-8.6,"Iwanczuk, Krzysztof",,2143.0,False,POL,0.5,1,-0.06,20,-1.2
+25937219,2025-04-01,0,I Arche Chess Open A,Lublin POL,2025-02-23,2025-03-01,2190,2183,4.0,9,-0.43,20,-8.6,"Gibala, Adam",c,2215.0,False,POL,0.5,1,0.04,20,0.8
+25937219,2025-04-01,0,I Arche Chess Open A,Lublin POL,2025-02-23,2025-03-01,2190,2183,4.0,9,-0.43,20,-8.6,"Paprocki, Jaroslaw",,2109.0,False,POL,0.5,1,-0.1,20,-2.0
+25937219,2025-04-01,0,I Arche Chess Open A,Lublin POL,2025-02-23,2025-03-01,2190,2183,4.0,9,-0.43,20,-8.6,"Rozycki, Bartlomiej",,2138.0,False,POL,0.5,1,-0.06,20,-1.2
+25937219,2025-04-01,0,I Arche Chess Open A,Lublin POL,2025-02-23,2025-03-01,2190,2183,4.0,9,-0.43,20,-8.6,"Piddubna, Bozhena",wf,2153.0,False,UKR,0.5,1,-0.04,20,-0.8

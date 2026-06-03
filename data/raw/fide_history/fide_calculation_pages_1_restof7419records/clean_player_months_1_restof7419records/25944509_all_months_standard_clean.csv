@@ -1,0 +1,27 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25944509,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1699,1512,4.0,7,2.18,40,87.2,"Ramanuj, Mishra",,1836.0,False,IND,1.0,1,0.87,40,34.8
+25944509,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1699,1512,4.0,7,2.18,40,87.2,"Bharat, Bansal",,1759.0,False,IND,0.0,1,-0.19,40,-7.6
+25944509,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1699,1512,4.0,7,2.18,40,87.2,"Singhal, Keshav",,1651.0,False,IND,1.0,1,0.69,40,27.6
+25944509,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1699,1512,4.0,7,2.18,40,87.2,"Aabhas, Kumar Srivastava",,1642.0,False,IND,0.0,1,-0.32,40,-12.8
+25944509,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1699,1512,4.0,7,2.18,40,87.2,"Pranjal, Verma",,1653.0,False,IND,1.0,1,0.69,40,27.6
+25944509,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1699,1512,4.0,7,2.18,40,87.2,"Prabal, Pandey",,1643.0,False,IND,0.0,1,-0.32,40,-12.8
+25944509,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1699,1512,4.0,7,2.18,40,87.2,"Ojasya, Saxena",,1711.0,False,IND,1.0,1,0.76,40,30.4
+25944509,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1735,1599,4.0,7,1.6,40,64.0,"Bharat, Kumar Reddy Poluri",,1999.0,True,IND,0.0,1,-0.08,40,-3.2
+25944509,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1735,1599,4.0,7,1.6,40,64.0,"Parth, Gupta",,1421.0,False,IND,0.5,1,-0.23,40,-9.2
+25944509,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1735,1599,4.0,7,1.6,40,64.0,"Udit, Singh",,1405.0,False,IND,1.0,1,0.25,40,10.0
+25944509,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1735,1599,4.0,7,1.6,40,64.0,"Anchal, Rastogi",,1855.0,False,IND,0.5,1,0.31,40,12.4
+25944509,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1735,1599,4.0,7,1.6,40,64.0,"Dave, Kantilal",,1832.0,False,IND,1.0,1,0.79,40,31.6
+25944509,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1735,1599,4.0,7,1.6,40,64.0,"Rathore, S.k.",f,1817.0,False,IND,0.5,1,0.28,40,11.2
+25944509,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1735,1599,4.0,7,1.6,40,64.0,"Mayank, Pandey",,1815.0,False,IND,0.5,1,0.28,40,11.2
+25944509,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1502,1663,1.5,3,-0.65,40,-26.0,"Tavish, Bansal",,1509.0,False,IND,0.0,1,-0.71,40,-28.4
+25944509,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1502,1663,1.5,3,-0.65,40,-26.0,"Aarav, Agarwal",,1541.0,False,IND,0.5,1,-0.17,40,-6.8
+25944509,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1502,1663,1.5,3,-0.65,40,-26.0,"Jai, Kant Tiwary",,1455.0,False,IND,1.0,1,0.23,40,9.2
+25944509,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1536,1663,5.5,9,-0.51,40,-20.4,"Manoj, Kumar Kohli",,1433.0,False,IND,1.0,1,0.21,40,8.4
+25944509,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1536,1663,5.5,9,-0.51,40,-20.4,"Achintya, Kashyap",,1501.0,False,IND,1.0,1,0.29,40,11.6
+25944509,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1536,1663,5.5,9,-0.51,40,-20.4,"Rudra, Shakti Madan",,1574.0,False,IND,0.0,1,-0.62,40,-24.8
+25944509,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1536,1663,5.5,9,-0.51,40,-20.4,"Snehit, Raj Singh",,1504.0,False,IND,1.0,1,0.29,40,11.6
+25944509,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1536,1663,5.5,9,-0.51,40,-20.4,Prayan,,1551.0,False,IND,0.5,1,-0.15,40,-6.0
+25944509,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1536,1663,5.5,9,-0.51,40,-20.4,"Ayush, Raj",,1483.0,False,IND,1.0,1,0.26,40,10.4
+25944509,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1536,1663,5.5,9,-0.51,40,-20.4,"Tanmay, Kashyap",,1604.0,False,IND,1.0,1,0.42,40,16.8
+25944509,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1536,1663,5.5,9,-0.51,40,-20.4,"Pathak, Anshu Kr",,1586.0,False,IND,0.0,1,-0.61,40,-24.4
+25944509,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1536,1663,5.5,9,-0.51,40,-20.4,"Shreyansh, Das",,1591.0,False,IND,0.0,1,-0.6,40,-24.0

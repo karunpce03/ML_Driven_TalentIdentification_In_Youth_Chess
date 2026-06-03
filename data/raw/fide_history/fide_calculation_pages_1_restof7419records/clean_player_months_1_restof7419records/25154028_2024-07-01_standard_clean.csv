@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25154028,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1640,1605,2.5,5,0.24,40,9.6,"Atrinjay, Saha",,1796.0,False,IND,0.0,1,-0.25,40,-10.0
+25154028,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1640,1605,2.5,5,0.24,40,9.6,"Aayan, Gupta",,1469.0,False,IND,0.5,1,-0.18,40,-7.2
+25154028,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1640,1605,2.5,5,0.24,40,9.6,"Shibantak, Saha",,1437.0,False,IND,1.0,1,0.28,40,11.2
+25154028,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1640,1605,2.5,5,0.24,40,9.6,"Rangeet, Majumdar",,1759.0,False,IND,0.5,1,0.21,40,8.4
+25154028,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1640,1605,2.5,5,0.24,40,9.6,"Shreyan, Gupta Barman",,1737.0,False,IND,0.5,1,0.18,40,7.2

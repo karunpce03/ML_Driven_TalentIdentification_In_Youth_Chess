@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25998676,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2247,2303,5.5,10,-0.18,20,-3.6,"Lin, Chenyi",,1926.0,False,RSA,1.0,1,0.09,20,1.8
+25998676,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2247,2303,5.5,10,-0.18,20,-3.6,"Timoshin, Maxim",f,2361.0,False,FID,0.0,1,-0.42,20,-8.4
+25998676,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2247,2303,5.5,10,-0.18,20,-3.6,"Collin, Moritz Valentin",f,2179.0,False,SUI,1.0,1,0.33,20,6.6
+25998676,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2247,2303,5.5,10,-0.18,20,-3.6,"Harsh, Suresh",f,2431.0,False,IND,0.0,1,-0.33,20,-6.6
+25998676,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2247,2303,5.5,10,-0.18,20,-3.6,"Melian, Juan Sebastian",f,2247.0,False,PAR,0.5,1,-0.08,20,-1.6
+25998676,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2247,2303,5.5,10,-0.18,20,-3.6,"Ciric, Pavle",,2203.0,False,SRB,0.5,1,-0.14,20,-2.8
+25998676,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2247,2303,5.5,10,-0.18,20,-3.6,"Iliev, Hristiyan",,2114.0,False,BUL,1.0,1,0.25,20,5.0
+25998676,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2247,2303,5.5,10,-0.18,20,-3.6,"Chasin, Nico",m,2416.0,False,USA,0.0,1,-0.35,20,-7.0
+25998676,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2247,2303,5.5,10,-0.18,20,-3.6,"Kocsmar, Akos",,2196.0,False,HUN,1.0,1,0.35,20,7.0
+25998676,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2247,2303,5.5,10,-0.18,20,-3.6,"Davtyan, Arsen",m,2394.0,False,ARM,0.5,1,0.12,20,2.4

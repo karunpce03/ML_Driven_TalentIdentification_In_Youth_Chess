@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88127354,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1681,1583,1.0,8,-2.02,40,-80.8,"Al Rahbi, Ahmed Badar",,1890.0,False,OMA,0.0,1,-0.14,40,-5.6
+88127354,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1681,1583,1.0,8,-2.02,40,-80.8,"Pranav, Bobby Sekhar",,1789.0,False,IND,0.0,1,-0.24,40,-9.6
+88127354,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1681,1583,1.0,8,-2.02,40,-80.8,"Hari, Vardan Satheeskumar",,1724.0,False,IND,0.0,1,-0.31,40,-12.4
+88127354,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1681,1583,1.0,8,-2.02,40,-80.8,"Khalid, Alhaway",,1476.0,False,UAE,1.0,1,0.35,40,14.0
+88127354,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1681,1583,1.0,8,-2.02,40,-80.8,"Almaamari , Zainab Darwish",wc,1765.0,False,UAE,0.0,1,-0.26,40,-10.4
+88127354,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1681,1583,1.0,8,-2.02,40,-80.8,"Bashaer, Khalil",wc,1705.0,False,UAE,0.0,1,-0.33,40,-13.2
+88127354,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1681,1583,1.0,8,-2.02,40,-80.8,"Kaushika, Sridharan",,1671.0,False,IND,0.0,1,-0.38,40,-15.2
+88127354,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1681,1583,1.0,8,-2.02,40,-80.8,"Mohamed, Hasan Alfardan",,1428.0,False,UAE,0.0,1,-0.71,40,-28.4
+88127354,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1497,1583,0.0,1,-0.62,40,-24.8,"Dhrupad, Lohidas",,1497.0,False,IND,0.0,1,-0.62,40,-24.8

@@ -1,0 +1,23 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88102718,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1469.0,1414.0,2.0,5,-0.12,40,-4.8,"Weerasingha Nanayakkara, Thejan T",,1538.0,False,SRI,0.0,1,-0.33,40.0,-13.2
+88102718,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1469.0,1414.0,2.0,5,-0.12,40,-4.8,"Rafeaa, Ameer.",,1464.0,False,SYR,1.0,1,0.57,40.0,22.8
+88102718,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1469.0,1414.0,2.0,5,-0.12,40,-4.8,"Abdelrahman, Mohamed Al Hammadi",,1456.0,False,UAE,0.0,1,-0.44,40.0,-17.6
+88102718,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1469.0,1414.0,2.0,5,-0.12,40,-4.8,"Hamdan Obaid, Alsuwaidi",,1450.0,False,UAE,0.5,1,0.05,40.0,2.0
+88102718,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1469.0,1414.0,2.0,5,-0.12,40,-4.8,"Hafiz, Manaf",,1435.0,False,IND,0.5,1,0.03,40.0,1.2
+88102718,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1527.0,1409.0,1.0,2,0.3,40,12.0,"Pranav, Thiruppathi",,1434.0,False,IND,1.0,1,0.53,40.0,21.2
+88102718,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1527.0,1409.0,1.0,2,0.3,40,12.0,"Nookala, Nikhil Sriram",,1619.0,False,IND,0.0,1,-0.23,40.0,-9.2
+88102718,2024-09-01,0,Think &amp; Plan August 2024-Standard,Sharjah UAE,2024-08-10,2024-08-12,1571.0,1421.0,0.0,2,-0.63,40,-25.2,"Saqar, Essa Khamis",,1691.0,False,UAE,0.0,1,-0.17,40.0,-6.8
+88102718,2024-09-01,0,Think &amp; Plan August 2024-Standard,Sharjah UAE,2024-08-10,2024-08-12,1571.0,1421.0,0.0,2,-0.63,40,-25.2,"Talal Mohammed, Al Blooshi",,1450.0,False,UAE,0.0,1,-0.46,40.0,-18.4
+88102718,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,,,0.0,2,0.0,903,,"Mokhtar, Omar.",,1724.0,False,SYR,0.0,1,0.0,,0.0
+88102718,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,,,0.0,2,0.0,903,,"Kaushika, Sridharan",,1682.0,False,IND,0.0,1,0.0,,0.0
+88102718,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,,,1.0,3,0.0,1490,,"Klochkov, Grigory",,1691.0,False,RUS,0.0,1,0.0,,0.0
+88102718,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,,,1.0,3,0.0,1490,,"Mokhtar, Omar.",,1724.0,False,SYR,0.0,1,0.0,,0.0
+88102718,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,,,1.0,3,0.0,1490,,"Muminova, Zakiyabonu",,1430.0,False,TJK,1.0,1,0.0,,0.0
+88102718,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,,,2.5,5,0.0,1508,,"Hussein, Adam Sharafeldin",,1655.0,False,SUD,0.5,1,0.0,,0.0
+88102718,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,,,2.5,5,0.0,1508,,"Adit, Sood",,1402.0,False,IND,0.0,1,0.0,,0.0
+88102718,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,,,2.5,5,0.0,1508,,"Keertiganesh, S R",,1521.0,False,IND,1.0,1,0.0,,0.0
+88102718,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,,,2.5,5,0.0,1508,,"Rajendra, Sawant",,1464.0,False,IND,0.0,1,0.0,,0.0
+88102718,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,,,2.5,5,0.0,1508,,"Sarvesh, Raveender",,1499.0,False,IND,1.0,1,0.0,,0.0
+88102718,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1664.0,1563.0,0.5,3,-0.6,40,-24.0,"Jaiswal, Prince",,1681.0,False,IND,0.0,1,-0.34,40.0,-13.6
+88102718,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1664.0,1563.0,0.5,3,-0.6,40,-24.0,"Vaishnavi, Iyer",,1725.0,False,IND,0.5,1,0.21,40.0,8.4
+88102718,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1664.0,1563.0,0.5,3,-0.6,40,-24.0,"Hamdan, Hassan Mohammed Hassan",,1587.0,False,UAE,0.0,1,-0.47,40.0,-18.8

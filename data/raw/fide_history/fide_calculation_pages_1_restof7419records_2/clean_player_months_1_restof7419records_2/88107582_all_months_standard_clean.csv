@@ -1,0 +1,28 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88107582,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,,,0.0,3,0.0,695,,"Kevin, Savio",,1537.0,False,IND,0.0,1,0.0,,0.0
+88107582,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,,,0.0,3,0.0,695,,"Sudarshan, Balaji",,1474.0,False,IND,0.0,1,0.0,,0.0
+88107582,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,,,0.0,3,0.0,695,,"John, Harris Sujin",,1474.0,False,IND,0.0,1,0.0,,0.0
+88107582,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,,,0.0,4,0.0,738,,"Meiyappan, M",,1660.0,False,IND,0.0,1,0.0,,0.0
+88107582,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,,,0.0,4,0.0,738,,"Pranesh, Kumar M R",,1488.0,False,IND,0.0,1,0.0,,0.0
+88107582,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,,,0.0,4,0.0,738,,"Shanmugam, D",,1509.0,False,IND,0.0,1,0.0,,0.0
+88107582,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,,,0.0,4,0.0,738,,"Keerthi, Kumar A",,1494.0,False,IND,0.0,1,0.0,,0.0
+88107582,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,,,2.0,3,0.0,1457,,"Sanjai, V",,1466.0,False,IND,0.5,1,0.0,,0.0
+88107582,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,,,2.0,3,0.0,1457,,"Dhatchayini, Ayyappan",,1406.0,False,IND,0.5,1,0.0,,0.0
+88107582,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,,,2.0,3,0.0,1457,,"Venkat, Ramanan S",,1438.0,False,IND,1.0,1,0.0,,0.0
+88107582,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,,,3.0,7,0.0,1431,,"Thiagarajan, V N",,1573.0,False,IND,0.0,1,0.0,,0.0
+88107582,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,,,3.0,7,0.0,1431,,"Deniya, V",,1499.0,False,IND,0.0,1,0.0,,0.0
+88107582,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,,,3.0,7,0.0,1431,,"Srikeshav, P",,1425.0,False,IND,0.5,1,0.0,,0.0
+88107582,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,,,3.0,7,0.0,1431,,"Akshay, Krithik Shyam",,1408.0,False,IND,0.5,1,0.0,,0.0
+88107582,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,,,3.0,7,0.0,1431,,"Jax, Danno L J",,1474.0,False,IND,1.0,1,0.0,,0.0
+88107582,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,,,3.0,7,0.0,1431,,"Muthu, Vignesh G",,1517.0,False,IND,0.5,1,0.0,,0.0
+88107582,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,,,3.0,7,0.0,1431,,"Sathya, Narayanan Rajagopalan",,1472.0,False,IND,0.5,1,0.0,,0.0
+88107582,2024-12-01,0,Sacred Heart College Alumni Association First International FIDE Rating Chess Tournament,Tirupattur IND,2024-11-12,2024-11-16,1597.0,1509.0,1.5,4,-0.16,40,-6.4,"Gokula, Vishnu R",,1909.0,True,IND,0.0,1,-0.08,40.0,-3.2
+88107582,2024-12-01,0,Sacred Heart College Alumni Association First International FIDE Rating Chess Tournament,Tirupattur IND,2024-11-12,2024-11-16,1597.0,1509.0,1.5,4,-0.16,40,-6.4,"Kaarthikeyan, S",,1402.0,False,IND,1.0,1,0.35,40.0,14.0
+88107582,2024-12-01,0,Sacred Heart College Alumni Association First International FIDE Rating Chess Tournament,Tirupattur IND,2024-11-12,2024-11-16,1597.0,1509.0,1.5,4,-0.16,40,-6.4,"Borate, Tanvi",,1668.0,False,IND,0.0,1,-0.29,40.0,-11.6
+88107582,2024-12-01,0,Sacred Heart College Alumni Association First International FIDE Rating Chess Tournament,Tirupattur IND,2024-11-12,2024-11-16,1597.0,1509.0,1.5,4,-0.16,40,-6.4,"Gautham, Vadivelan",,1408.0,False,IND,0.5,1,-0.14,40.0,-5.6
+88107582,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1501.0,1503.0,2.0,6,-1.03,40,-41.2,"Meiyappan, M",,1637.0,False,IND,0.5,1,0.18,40.0,7.2
+88107582,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1501.0,1503.0,2.0,6,-1.03,40,-41.2,"Soumya, Das",,1668.0,False,IND,0.0,1,-0.28,40.0,-11.2
+88107582,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1501.0,1503.0,2.0,6,-1.03,40,-41.2,"Gurrupu, Vidhya Dhan",,1407.0,False,IND,0.5,1,-0.13,40.0,-5.2
+88107582,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1501.0,1503.0,2.0,6,-1.03,40,-41.2,"Thirunavukarasu, T",,1417.0,False,IND,0.5,1,-0.12,40.0,-4.8
+88107582,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1501.0,1503.0,2.0,6,-1.03,40,-41.2,"Sai, Ritheesh S",,1413.0,False,IND,0.5,1,-0.12,40.0,-4.8
+88107582,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1501.0,1503.0,2.0,6,-1.03,40,-41.2,"Sri, Hari Gowtham V",,1461.0,False,IND,0.0,1,-0.56,40.0,-22.4

@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25753630,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1844,1729,5.0,7,2.53,40,101.2,"Bangad, Vedant",,1526.0,False,IND,1.0,1,0.24,40,9.6
+25753630,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1844,1729,5.0,7,2.53,40,101.2,"Raghav, Srivathsav V",,1964.0,False,IND,1.0,1,0.79,40,31.6
+25753630,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1844,1729,5.0,7,2.53,40,101.2,"Jagadale, Ishwari",,1846.0,False,IND,0.5,1,0.16,40,6.4
+25753630,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1844,1729,5.0,7,2.53,40,101.2,"Ramnathan, Balasubramaniam",m,2001.0,False,IND,0.5,1,0.33,40,13.2
+25753630,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1844,1729,5.0,7,2.53,40,101.2,"Srikara, Darbha",,1814.0,False,IND,1.0,1,0.62,40,24.8
+25753630,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1844,1729,5.0,7,2.53,40,101.2,"Samaksh, Ashok",,1821.0,False,IND,1.0,1,0.63,40,25.2
+25753630,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1844,1729,5.0,7,2.53,40,101.2,"Madkar, Atharva",,1935.0,False,IND,0.0,1,-0.24,40,-9.6

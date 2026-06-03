@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25917676,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1651,1646,4.5,7,1.02,40,40.8,"Abhijay, Barua",,1544.0,False,IND,1.0,1,0.36,40,14.4
+25917676,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1651,1646,4.5,7,1.02,40,40.8,"Raj, Kapoor",,1789.0,False,IND,0.5,1,0.19,40,7.6
+25917676,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1651,1646,4.5,7,1.02,40,40.8,"Sher, Singh",,1866.0,False,IND,0.0,1,-0.22,40,-8.8
+25917676,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1651,1646,4.5,7,1.02,40,40.8,"Manvender, Singh",,1503.0,False,IND,1.0,1,0.31,40,12.4
+25917676,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1651,1646,4.5,7,1.02,40,40.8,"Chirag, Sureka",,1522.0,False,IND,0.5,1,-0.17,40,-6.8
+25917676,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1651,1646,4.5,7,1.02,40,40.8,"Aarav, Neelkamal Gupta",,1527.0,False,IND,1.0,1,0.34,40,13.6
+25917676,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1651,1646,4.5,7,1.02,40,40.8,"Kale, Shruti",,1807.0,False,IND,0.5,1,0.21,40,8.4

@@ -1,0 +1,10 @@
+Variable Group,Variable,N,Missing %,Mean,Median,Min,Max
+Baseline rating,rating_start,1000,0.0,1508.35,1479.5,1400.0,2364.0
+Activity,total_games_12m,1000,0.0,13.67,7.0,0.0,147.0
+Activity,active_months_12m,1000,0.0,1.74,1.0,0.0,11.0
+Activity,inactive_months_12m,1000,0.0,7.27,8.0,0.0,12.0
+Enrichment,calc_games_12m,1000,0.0,24.2,10.0,0.0,278.0
+Enrichment,calc_tournaments_12m,1000,0.0,2.26,1.0,0.0,18.0
+Opponent strength,avg_opponent_rating_12m,629,37.1,1565.31,1552.5,1400.0,2259.92
+Performance quality,score_percentage_12m,629,37.1,0.28,0.27,0.0,0.72
+Outcome,rating_gain_12m,1000,0.0,10.39,0.0,-217.0,404.0

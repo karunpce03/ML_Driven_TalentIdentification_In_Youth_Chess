@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48741329,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1513,1450,0.0,3,-1.26,40,-50.4,"Abhirup, Mukherjee",,1456.0,False,IND,0.0,1,-0.49,40,-19.6
+48741329,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1513,1450,0.0,3,-1.26,40,-50.4,"Aayan, Gupta",,1438.0,False,IND,0.0,1,-0.52,40,-20.8
+48741329,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1513,1450,0.0,3,-1.26,40,-50.4,"Somiddho, Rajbanshi",,1645.0,False,IND,0.0,1,-0.25,40,-10.0
+48741329,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1707,1400,1.0,4,0.34,40,13.6,"Manna, Chiranjit",,1800.0,True,IND,0.0,1,-0.08,40,-3.2
+48741329,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1707,1400,1.0,4,0.34,40,13.6,"Mitra, Ashoke",,1800.0,True,SWE,0.5,1,0.42,40,16.8
+48741329,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1707,1400,1.0,4,0.34,40,13.6,"Tuhin, Dutta",,1728.0,False,IND,0.0,1,-0.13,40,-5.2
+48741329,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1707,1400,1.0,4,0.34,40,13.6,"Soumyadeep, Nath",,1498.0,False,IND,0.5,1,0.13,40,5.2

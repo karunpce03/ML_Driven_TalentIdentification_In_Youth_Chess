@@ -1,0 +1,24 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33403406,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1578,1574,3.5,7,-0.12,30,-3.6,"Ramakrishna, Perumalla",,1974.0,True,IND,0.0,1,-0.08,30,-2.4
+33403406,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1578,1574,3.5,7,-0.12,30,-3.6,"Srinivas, Lokoju",,1428.0,False,IND,0.0,1,-0.7,30,-21.0
+33403406,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1578,1574,3.5,7,-0.12,30,-3.6,"Sai, Dharhas Kommu",,1419.0,False,IND,1.0,1,0.29,30,8.7
+33403406,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1578,1574,3.5,7,-0.12,30,-3.6,"Kaushik, Reddy",,1458.0,False,IND,1.0,1,0.34,30,10.2
+33403406,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1578,1574,3.5,7,-0.12,30,-3.6,"Yashvi, Jain",,1820.0,False,IND,0.0,1,-0.19,30,-5.7
+33403406,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1578,1574,3.5,7,-0.12,30,-3.6,"Sai, Manvik Reddy Bethi",,1467.0,False,IND,0.5,1,-0.15,30,-4.5
+33403406,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1578,1574,3.5,7,-0.12,30,-3.6,"Ujwal, Mekala",,1480.0,False,IND,1.0,1,0.37,30,11.1
+33403406,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1500,1574,5.5,8,0.71,30,21.3,"Aadhyan, Kukudala",,1440.0,False,IND,1.0,1,0.32,30,9.6
+33403406,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1500,1574,5.5,8,0.71,30,21.3,"Shreyas, K Patil",,1725.0,False,IND,0.0,1,-0.3,30,-9.0
+33403406,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1500,1574,5.5,8,0.71,30,21.3,"Ravi, Shreyansh",,1461.0,False,IND,1.0,1,0.35,30,10.5
+33403406,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1500,1574,5.5,8,0.71,30,21.3,"Dara, Sai Vivash",,1446.0,False,IND,0.5,1,-0.17,30,-5.1
+33403406,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1500,1574,5.5,8,0.71,30,21.3,"Ushnish, Pan",,1429.0,False,IND,1.0,1,0.31,30,9.3
+33403406,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1500,1574,5.5,8,0.71,30,21.3,"Sathyachith, E M",,1645.0,False,IND,0.5,1,0.1,30,3.0
+33403406,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1500,1574,5.5,8,0.71,30,21.3,"Vihaan, Datta Katakam",,1420.0,False,IND,0.5,1,-0.21,30,-6.3
+33403406,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1500,1574,5.5,8,0.71,30,21.3,"Dheeraj, Kumar Pabba",,1436.0,False,IND,1.0,1,0.31,30,9.3
+33403406,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1581,1574,3.5,8,-0.43,30,-12.9,"Navin, T",,1410.0,False,IND,1.0,1,0.28,30,8.4
+33403406,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1581,1574,3.5,8,-0.43,30,-12.9,"Adhiadhavan, G",,1725.0,False,IND,0.5,1,0.2,30,6.0
+33403406,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1581,1574,3.5,8,-0.43,30,-12.9,"Mithun, K",,1683.0,False,IND,1.0,1,0.65,30,19.5
+33403406,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1581,1574,3.5,8,-0.43,30,-12.9,"Jackson, V X",,1777.0,False,IND,0.0,1,-0.24,30,-7.2
+33403406,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1581,1574,3.5,8,-0.43,30,-12.9,"Karthick, Sai P",,1653.0,False,IND,0.0,1,-0.39,30,-11.7
+33403406,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1581,1574,3.5,8,-0.43,30,-12.9,"Dinesh, Arun Kumar",,1454.0,False,IND,1.0,1,0.34,30,10.2
+33403406,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1581,1574,3.5,8,-0.43,30,-12.9,"Dharsan, Ratnakar P",,1483.0,False,IND,0.0,1,-0.62,30,-18.6
+33403406,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1581,1574,3.5,8,-0.43,30,-12.9,"Linith, Amar S",,1463.0,False,IND,0.0,1,-0.65,30,-19.5

@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25977946,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1602,1581,3.5,7,0.13,40,5.2,"Jyotshnav, Talukdar",,1877.0,False,IND,0.0,1,-0.15,40,-6.0
+25977946,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1602,1581,3.5,7,0.13,40,5.2,"Aryan, Gupta",,1441.0,False,IND,1.0,1,0.31,40,12.4
+25977946,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1602,1581,3.5,7,0.13,40,5.2,"Sukant, Mohindra",,1445.0,False,IND,1.0,1,0.32,40,12.8
+25977946,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1602,1581,3.5,7,0.13,40,5.2,"Om, Batra",,1804.0,False,IND,0.0,1,-0.22,40,-8.8
+25977946,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1602,1581,3.5,7,0.13,40,5.2,"Barolia, Arihan",,1477.0,False,IND,0.5,1,-0.14,40,-5.6
+25977946,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1602,1581,3.5,7,0.13,40,5.2,"Mahir, Taneja",,1718.0,False,IND,0.0,1,-0.32,40,-12.8
+25977946,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1602,1581,3.5,7,0.13,40,5.2,"Vedant, Aggarwal",,1453.0,False,IND,1.0,1,0.33,40,13.2
+25977946,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1689,1586,2.5,5,0.64,40,25.6,"Debapriya, Manna",,1779.0,False,IND,0.0,1,-0.25,40,-10.0
+25977946,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1689,1586,2.5,5,0.64,40,25.6,"Aratrika, Das",,1446.0,False,IND,1.0,1,0.31,40,12.4
+25977946,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1689,1586,2.5,5,0.64,40,25.6,"Sunetra, Dey",,1652.0,False,IND,1.0,1,0.59,40,23.6
+25977946,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1689,1586,2.5,5,0.64,40,25.6,"Ananya, Bothra",,1699.0,False,IND,0.5,1,0.15,40,6.0
+25977946,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1689,1586,2.5,5,0.64,40,25.6,"Rajanya, Datta",,1870.0,False,IND,0.0,1,-0.16,40,-6.4

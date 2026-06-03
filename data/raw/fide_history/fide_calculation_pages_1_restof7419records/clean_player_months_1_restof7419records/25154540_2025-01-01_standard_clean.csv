@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25154540,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2151,1811,4.5,9,3.39,40,135.6,"Ghazaryan, Raffi",,2097,False,ARM,1.0,1,0.84,40,33.6
+25154540,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2151,1811,4.5,9,3.39,40,135.6,"Ostensen, Nicolai Maxime",c,2211,True,NOR,0.5,1,0.42,40,16.8
+25154540,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2151,1811,4.5,9,3.39,40,135.6,"Perez Perez, Gabriel",c,2197,False,ESP,0.5,1,0.41,40,16.4
+25154540,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2151,1811,4.5,9,3.39,40,135.6,"Pulkkinen, Kari",f,2182,False,FIN,0.5,1,0.4,40,16.0
+25154540,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2151,1811,4.5,9,3.39,40,135.6,"Ochedzan, Filip",c,2201,False,POL,0.0,1,-0.09,40,-3.6
+25154540,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2151,1811,4.5,9,3.39,40,135.6,"Stewart, Ashley",,2078,False,ENG,0.5,1,0.32,40,12.8
+25154540,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2151,1811,4.5,9,3.39,40,135.6,"Lasinskas, Povilas",f,2112,False,LTU,1.0,1,0.85,40,34.0
+25154540,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2151,1811,4.5,9,3.39,40,135.6,"Garcia Gimenez, Santiago",f,2184,False,ESP,0.0,1,-0.1,40,-4.0
+25154540,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2151,1811,4.5,9,3.39,40,135.6,"Olsen, William Alexander",,2095,False,NOR,0.5,1,0.34,40,13.6

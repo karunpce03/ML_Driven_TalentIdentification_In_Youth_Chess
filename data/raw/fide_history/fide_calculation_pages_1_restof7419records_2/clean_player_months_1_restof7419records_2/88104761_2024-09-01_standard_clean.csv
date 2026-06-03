@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88104761,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1641,1514,0.0,1,-0.33,40,-13.2,"Atm, Aravindalochanan",,1641.0,False,IND,0.0,1,-0.33,40,-13.2
+88104761,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1515,1514,1.0,3,-0.52,40,-20.8,"Abirama Srinithi, G",,1734.0,False,IND,0.0,1,-0.22,40,-8.8
+88104761,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1515,1514,1.0,3,-0.52,40,-20.8,"Vignesh, M",,1404.0,False,IND,0.5,1,-0.15,40,-6.0
+88104761,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1515,1514,1.0,3,-0.52,40,-20.8,"Rithiha, Balamurugan",,1406.0,False,IND,0.5,1,-0.15,40,-6.0

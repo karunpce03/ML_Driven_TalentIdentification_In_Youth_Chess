@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48786829,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1647,1432,2.0,6,0.63,40,25.2,"Kakade, Atul",,1655.0,False,IND,1.0,1,0.78,40,31.2
+48786829,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1647,1432,2.0,6,0.63,40,25.2,"Krishna, Kundu",,1686.0,False,IND,0.0,1,-0.19,40,-7.6
+48786829,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1647,1432,2.0,6,0.63,40,25.2,"Pazhany, Kaushal Kohli",,1631.0,False,IND,0.0,1,-0.24,40,-9.6
+48786829,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1647,1432,2.0,6,0.63,40,25.2,"Tejasv, Kumar",,1574.0,False,IND,1.0,1,0.69,40,27.6
+48786829,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1647,1432,2.0,6,0.63,40,25.2,"Atharv, Singh Negi",,1630.0,False,IND,0.0,1,-0.24,40,-9.6
+48786829,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1647,1432,2.0,6,0.63,40,25.2,"Arnav, Goyal",,1708.0,False,IND,0.0,1,-0.17,40,-6.8

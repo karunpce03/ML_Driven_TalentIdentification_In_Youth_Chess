@@ -1,0 +1,40 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33481261,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1544,1446,3.0,6,0.81,40,32.4,"Shreyan, Mukherjee",,1548.0,False,IND,0.0,1,-0.36,40,-14.4
+33481261,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1544,1446,3.0,6,0.81,40,32.4,"Shruti, Sarkar",,1444.0,False,IND,0.5,1,0.0,40,0.0
+33481261,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1544,1446,3.0,6,0.81,40,32.4,"Mainak, Chowdhury",,1561.0,False,IND,1.0,1,0.66,40,26.4
+33481261,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1544,1446,3.0,6,0.81,40,32.4,"Shreyan, Bag",,1545.0,False,IND,0.5,1,0.14,40,5.6
+33481261,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1544,1446,3.0,6,0.81,40,32.4,"Maheshwar, P",,1607.0,False,IND,1.0,1,0.71,40,28.4
+33481261,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1544,1446,3.0,6,0.81,40,32.4,"Spandan, Roy",,1561.0,False,IND,0.0,1,-0.34,40,-13.6
+33481261,2024-07-01,0,WB State U-17 Girls Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1542,1478,2.5,6,-0.04,40,-1.6,"Debapriya, Manna",,1719.0,False,IND,0.0,1,-0.2,40,-8.0
+33481261,2024-07-01,0,WB State U-17 Girls Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1542,1478,2.5,6,-0.04,40,-1.6,"Miyani, Chanda",,1429.0,False,IND,1.0,1,0.43,40,17.2
+33481261,2024-07-01,0,WB State U-17 Girls Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1542,1478,2.5,6,-0.04,40,-1.6,"Olivia, Biswas",,1648.0,False,IND,0.0,1,-0.28,40,-11.2
+33481261,2024-07-01,0,WB State U-17 Girls Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1542,1478,2.5,6,-0.04,40,-1.6,"Asmita, Biswas",,1422.0,False,IND,0.5,1,-0.08,40,-3.2
+33481261,2024-07-01,0,WB State U-17 Girls Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1542,1478,2.5,6,-0.04,40,-1.6,"Aryahi, Bhattacharya",,1409.0,False,IND,1.0,1,0.4,40,16.0
+33481261,2024-07-01,0,WB State U-17 Girls Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1542,1478,2.5,6,-0.04,40,-1.6,"Kathakali, Dey",,1622.0,False,IND,0.0,1,-0.31,40,-12.4
+33481261,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1678,1476,2.0,5,0.77,40,30.8,"Megha, Mondal",,1630.0,False,IND,0.0,1,-0.29,40,-11.6
+33481261,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1678,1476,2.0,5,0.77,40,30.8,"Olivia, Biswas",,1680.0,False,IND,1.0,1,0.76,40,30.4
+33481261,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1678,1476,2.0,5,0.77,40,30.8,"Aayusree, Sarkar",,1597.0,False,IND,0.0,1,-0.34,40,-13.6
+33481261,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1678,1476,2.0,5,0.77,40,30.8,"Rajanya, Mondal",,1707.0,False,IND,1.0,1,0.79,40,31.6
+33481261,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1678,1476,2.0,5,0.77,40,30.8,"Maitreyi, Mondal",,1778.0,False,IND,0.0,1,-0.15,40,-6.0
+33481261,2024-11-01,0,West Bengal State Under-13 (Girls) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1582,1507,2.0,5,-0.09,40,-3.6,"Aayusree, Sarkar",,1688.0,False,IND,0.0,1,-0.26,40,-10.4
+33481261,2024-11-01,0,West Bengal State Under-13 (Girls) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1582,1507,2.0,5,-0.09,40,-3.6,"Sreejita, Halder",,1423.0,False,IND,1.0,1,0.38,40,15.2
+33481261,2024-11-01,0,West Bengal State Under-13 (Girls) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1582,1507,2.0,5,-0.09,40,-3.6,"Maitreyi, Mondal",,1852.0,False,IND,0.0,1,-0.11,40,-4.4
+33481261,2024-11-01,0,West Bengal State Under-13 (Girls) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1582,1507,2.0,5,-0.09,40,-3.6,"Ananya, Samanta",,1459.0,False,IND,0.5,1,-0.07,40,-2.8
+33481261,2024-11-01,0,West Bengal State Under-13 (Girls) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1582,1507,2.0,5,-0.09,40,-3.6,"Diya, Ghosh",,1488.0,False,IND,0.5,1,-0.03,40,-1.2
+33481261,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1679,1503,0.5,3,-0.31,40,-12.4,"Lochan, Kumar Das",,1669.0,False,IND,0.0,1,-0.28,40,-11.2
+33481261,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1679,1503,0.5,3,-0.31,40,-12.4,"Rajesh, Kumar Nayak",,1669.0,False,IND,0.5,1,0.22,40,8.8
+33481261,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1679,1503,0.5,3,-0.31,40,-12.4,"Ravi, Prakash Singh",,1698.0,False,IND,0.0,1,-0.25,40,-10.0
+33481261,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1587,1503,4.0,9,0.44,40,17.6,"Rahini, Das",,1428.0,False,IND,1.0,1,0.4,40,16.0
+33481261,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1587,1503,4.0,9,0.44,40,17.6,"Aditri, Shome",,1716.0,False,IND,0.0,1,-0.23,40,-9.2
+33481261,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1587,1503,4.0,9,0.44,40,17.6,"Pragya, Bhardwaj",,1415.0,False,IND,0.5,1,-0.12,40,-4.8
+33481261,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1587,1503,4.0,9,0.44,40,17.6,"Hunsika, M",,1443.0,False,IND,0.5,1,-0.08,40,-3.2
+33481261,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1587,1503,4.0,9,0.44,40,17.6,"Anandhi, P",,1717.0,False,IND,0.5,1,0.27,40,10.8
+33481261,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1587,1503,4.0,9,0.44,40,17.6,"Sahana, S",,1638.0,False,IND,1.0,1,0.68,40,27.2
+33481261,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1587,1503,4.0,9,0.44,40,17.6,"Aahna, Gulati",,1746.0,False,IND,0.0,1,-0.2,40,-8.0
+33481261,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1587,1503,4.0,9,0.44,40,17.6,"Krupha, S Ukkali",,1701.0,False,IND,0.0,1,-0.24,40,-9.6
+33481261,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1587,1503,4.0,9,0.44,40,17.6,"Nainika, Sahoo",,1475.0,False,IND,0.5,1,-0.04,40,-1.6
+33481261,2025-03-01,0,2nd WB State Amateur Open Chess Championship 2024 (Below 2300),Hooghly IND,2025-01-28,2025-01-31,1796,1508,1.5,5,0.67,40,26.8,"Arghya, Sen",,1826.0,False,IND,0.0,1,-0.13,40,-5.2
+33481261,2025-03-01,0,2nd WB State Amateur Open Chess Championship 2024 (Below 2300),Hooghly IND,2025-01-28,2025-01-31,1796,1508,1.5,5,0.67,40,26.8,"Kangsabanik, Prabir",,1908.0,True,IND,0.5,1,0.42,40,16.8
+33481261,2025-03-01,0,2nd WB State Amateur Open Chess Championship 2024 (Below 2300),Hooghly IND,2025-01-28,2025-01-31,1796,1508,1.5,5,0.67,40,26.8,"Debasish, Banerjee",,1743.0,False,IND,1.0,1,0.79,40,31.6
+33481261,2025-03-01,0,2nd WB State Amateur Open Chess Championship 2024 (Below 2300),Hooghly IND,2025-01-28,2025-01-31,1796,1508,1.5,5,0.67,40,26.8,"Arhashirsha, Biswas",,1808.0,False,IND,0.0,1,-0.15,40,-6.0
+33481261,2025-03-01,0,2nd WB State Amateur Open Chess Championship 2024 (Below 2300),Hooghly IND,2025-01-28,2025-01-31,1796,1508,1.5,5,0.67,40,26.8,"Rudrasish, Som",,1694.0,False,IND,0.0,1,-0.26,40,-10.4

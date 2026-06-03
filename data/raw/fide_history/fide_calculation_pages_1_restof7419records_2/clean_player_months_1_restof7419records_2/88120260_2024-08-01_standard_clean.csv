@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88120260,2024-08-01,0,13th Annual World Open Women's Championship,"Philadelphia, PA USA",2024-07-01,2024-07-02,1713,1434,0.5,4,-0.28,40,-11.2,"Airapetian, Chouchanik",wf,1834,True,USA,0.0,1,-0.08,40,-3.2
+88120260,2024-08-01,0,13th Annual World Open Women's Championship,"Philadelphia, PA USA",2024-07-01,2024-07-02,1713,1434,0.5,4,-0.28,40,-11.2,"Ayyappan, Anushka",,1717,False,IND,0.0,1,-0.16,40,-6.4
+88120260,2024-08-01,0,13th Annual World Open Women's Championship,"Philadelphia, PA USA",2024-07-01,2024-07-02,1713,1434,0.5,4,-0.28,40,-11.2,"Goli, Sandhya",wc,1834,True,IND,0.0,1,-0.08,40,-3.2
+88120260,2024-08-01,0,13th Annual World Open Women's Championship,"Philadelphia, PA USA",2024-07-01,2024-07-02,1713,1434,0.5,4,-0.28,40,-11.2,"Smits, Kaiya Bridgit Ng",,1465,False,USA,0.5,1,0.04,40,1.6

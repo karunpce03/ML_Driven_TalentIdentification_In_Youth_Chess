@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25124030,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1895,1884,8.0,11,2.6,40,104.0,"Gitansh, Phogat",,1548,False,IND,1.0,1,0.12,40,4.8
+25124030,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1895,1884,8.0,11,2.6,40,104.0,"Vrishank, Royadu",,1734,False,IND,1.0,1,0.3,40,12.0
+25124030,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1895,1884,8.0,11,2.6,40,104.0,"Sherla, Prathamesh",,2041,False,IND,0.0,1,-0.29,40,-11.6
+25124030,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1895,1884,8.0,11,2.6,40,104.0,"Ojas, Joshi",,1720,False,IND,1.0,1,0.28,40,11.2
+25124030,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1895,1884,8.0,11,2.6,40,104.0,"Kalyani, Sirin",wf,2133,False,IND,0.0,1,-0.19,40,-7.6
+25124030,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1895,1884,8.0,11,2.6,40,104.0,"Sreetej, B",,1724,False,IND,1.0,1,0.29,40,11.6
+25124030,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1895,1884,8.0,11,2.6,40,104.0,"Dahale, Rajas",,1706,False,IND,1.0,1,0.27,40,10.8
+25124030,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1895,1884,8.0,11,2.6,40,104.0,"Iniyan, R S",,2011,False,IND,1.0,1,0.67,40,26.8
+25124030,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1895,1884,8.0,11,2.6,40,104.0,"Nirnay, Garg",,1944,False,IND,1.0,1,0.58,40,23.2
+25124030,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1895,1884,8.0,11,2.6,40,104.0,"Mrinmoy, Rajkhowa",,1996,False,IND,1.0,1,0.65,40,26.0
+25124030,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1895,1884,8.0,11,2.6,40,104.0,"Vaz, Ethan",m,2284,True,IND,0.0,1,-0.08,40,-3.2

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429046904,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,2.0,5,0.0,1421,,"Rahul, Krishnamoorthy",,1411.0,False,IND,1.0,1,0.0,,0.0
+429046904,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,2.0,5,0.0,1421,,"Surya, A",,1602.0,False,IND,0.0,1,0.0,,0.0
+429046904,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,2.0,5,0.0,1421,,"Kritharth, S",,1432.0,False,IND,1.0,1,0.0,,0.0
+429046904,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,2.0,5,0.0,1421,,"Abijith, S",,1557.0,False,IND,0.0,1,0.0,,0.0
+429046904,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,2.0,5,0.0,1421,,"Bhavesh, Roshan V",,1462.0,False,IND,0.0,1,0.0,,0.0
+429046904,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1504.0,1531.0,0.0,4,-2.16,40,-86.4,"Dharmesh, Mukul D",,1567.0,False,IND,0.0,1,-0.45,40.0,-18.0
+429046904,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1504.0,1531.0,0.0,4,-2.16,40,-86.4,"Shaurya, L",,1519.0,False,IND,0.0,1,-0.52,40.0,-20.8
+429046904,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1504.0,1531.0,0.0,4,-2.16,40,-86.4,"Kaarthikeyan, S",,1446.0,False,IND,0.0,1,-0.62,40.0,-24.8
+429046904,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1504.0,1531.0,0.0,4,-2.16,40,-86.4,"Yoganandan, A",,1483.0,False,IND,0.0,1,-0.57,40.0,-22.8
+429046904,2024-12-01,0,Sacred Heart College Alumni Association First International FIDE Rating Chess Tournament,Tirupattur IND,2024-11-12,2024-11-16,1685.0,1445.0,0.0,1,-0.2,40,-8.0,"Aylore, Hari Suryanarayana",,1685.0,False,IND,0.0,1,-0.2,40.0,-8.0

@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33433275,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1591,1688,3.5,7,-1.0,40,-40.0,"Jaisai, A",,1483,False,IND,1.0,1,0.24,40,9.6
+33433275,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1591,1688,3.5,7,-1.0,40,-40.0,"Vignesh, B",,2088,True,IND,0.0,1,-0.08,40,-3.2
+33433275,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1591,1688,3.5,7,-1.0,40,-40.0,"Ramanan, M",,1499,False,IND,0.5,1,-0.25,40,-10.0
+33433275,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1591,1688,3.5,7,-1.0,40,-40.0,"Deepak, Raj Hari",,1523,False,IND,0.5,1,-0.22,40,-8.8
+33433275,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1591,1688,3.5,7,-1.0,40,-40.0,"Monish, G",,1547,False,IND,0.0,1,-0.69,40,-27.6
+33433275,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1591,1688,3.5,7,-1.0,40,-40.0,"Prem, Raaghavan G",,1472,False,IND,1.0,1,0.22,40,8.8
+33433275,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1591,1688,3.5,7,-1.0,40,-40.0,"Kavish, Palaniappan K",,1523,False,IND,0.5,1,-0.22,40,-8.8

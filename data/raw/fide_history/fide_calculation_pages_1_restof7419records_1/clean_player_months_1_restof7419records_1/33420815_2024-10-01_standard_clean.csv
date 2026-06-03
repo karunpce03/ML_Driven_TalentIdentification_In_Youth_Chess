@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33420815,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1706,1550,2.0,6,0.11,40,4.4,"Ayushh, Ravikumar",f,1950,True,IND,0.0,1,-0.08,40,-3.2
+33420815,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1706,1550,2.0,6,0.11,40,4.4,"Padmaesh, M K",,1765,False,IND,1.0,1,0.77,40,30.8
+33420815,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1706,1550,2.0,6,0.11,40,4.4,"Yash, Bijlani",,1727,False,IND,0.0,1,-0.27,40,-10.8
+33420815,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1706,1550,2.0,6,0.11,40,4.4,"Ryan, Dominic",,1695,False,IND,0.0,1,-0.31,40,-12.4
+33420815,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1706,1550,2.0,6,0.11,40,4.4,"Dinesh, Babu Manakkal",,1449,False,IND,1.0,1,0.36,40,14.4
+33420815,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1706,1550,2.0,6,0.11,40,4.4,"Meenakshi, Sundaram",,1652,False,IND,0.0,1,-0.36,40,-14.4

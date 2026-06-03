@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88122190,2025-02-01,0,1st Kuwait International Chess Festival-Open Master 2025,Kuwait KUW,2025-01-05,2025-01-13,2087,1904,4.0,9,1.25,40,50.0,"Viani, Antonio Dcunha",m,2304,True,IND,0.0,1,-0.08,40,-3.2
+88122190,2025-02-01,0,1st Kuwait International Chess Festival-Open Master 2025,Kuwait KUW,2025-01-05,2025-01-13,2087,1904,4.0,9,1.25,40,50.0,"Alasfour, Zaid",,1762,False,KUW,1.0,1,0.31,40,12.4
+88122190,2025-02-01,0,1st Kuwait International Chess Festival-Open Master 2025,Kuwait KUW,2025-01-05,2025-01-13,2087,1904,4.0,9,1.25,40,50.0,"Bellahcene, Bilel",g,2304,True,ALG,0.5,1,0.42,40,16.8
+88122190,2025-02-01,0,1st Kuwait International Chess Festival-Open Master 2025,Kuwait KUW,2025-01-05,2025-01-13,2087,1904,4.0,9,1.25,40,50.0,"Mithilesh, Ranjithkumar",,1918,False,IND,1.0,1,0.52,40,20.8
+88122190,2025-02-01,0,1st Kuwait International Chess Festival-Open Master 2025,Kuwait KUW,2025-01-05,2025-01-13,2087,1904,4.0,9,1.25,40,50.0,"Ahlam, Rashed",wf,1935,False,UAE,1.0,1,0.54,40,21.6
+88122190,2025-02-01,0,1st Kuwait International Chess Festival-Open Master 2025,Kuwait KUW,2025-01-05,2025-01-13,2087,1904,4.0,9,1.25,40,50.0,"Lorparizangeneh, Shahin",g,2304,True,IRI,0.0,1,-0.08,40,-3.2
+88122190,2025-02-01,0,1st Kuwait International Chess Festival-Open Master 2025,Kuwait KUW,2025-01-05,2025-01-13,2087,1904,4.0,9,1.25,40,50.0,"Barsov, Alexei",g,2304,True,UZB,0.0,1,-0.08,40,-3.2
+88122190,2025-02-01,0,1st Kuwait International Chess Festival-Open Master 2025,Kuwait KUW,2025-01-05,2025-01-13,2087,1904,4.0,9,1.25,40,50.0,"Sawan, Eman",wf,1922,False,PLE,0.0,1,-0.47,40,-18.8
+88122190,2025-02-01,0,1st Kuwait International Chess Festival-Open Master 2025,Kuwait KUW,2025-01-05,2025-01-13,2087,1904,4.0,9,1.25,40,50.0,"Sharvaanica, A S",wc,2031,False,IND,0.5,1,0.17,40,6.8

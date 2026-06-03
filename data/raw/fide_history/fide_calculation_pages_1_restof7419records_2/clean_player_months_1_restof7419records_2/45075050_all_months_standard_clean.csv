@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45075050,2024-07-01,0,Maharashtra State Women FIDE Rated Chess Championship-2024,Pune IND,2024-05-29,2024-05-31,1594,1801,5.5,8,-0.45,40,-18.0,"Kimaya, Ghadge",,1411.0,False,IND,1.0,1,0.09,40,3.6
+45075050,2024-07-01,0,Maharashtra State Women FIDE Rated Chess Championship-2024,Pune IND,2024-05-29,2024-05-31,1594,1801,5.5,8,-0.45,40,-18.0,"Margaj, Prisha",,1509.0,False,IND,1.0,1,0.15,40,6.0
+45075050,2024-07-01,0,Maharashtra State Women FIDE Rated Chess Championship-2024,Pune IND,2024-05-29,2024-05-31,1594,1801,5.5,8,-0.45,40,-18.0,"Bakliwal, Sharvee",,1585.0,False,IND,1.0,1,0.22,40,8.8
+45075050,2024-07-01,0,Maharashtra State Women FIDE Rated Chess Championship-2024,Pune IND,2024-05-29,2024-05-31,1594,1801,5.5,8,-0.45,40,-18.0,"Jagadale, Ishwari",,1671.0,False,IND,1.0,1,0.32,40,12.8
+45075050,2024-07-01,0,Maharashtra State Women FIDE Rated Chess Championship-2024,Pune IND,2024-05-29,2024-05-31,1594,1801,5.5,8,-0.45,40,-18.0,"Bhagyashree, Patil",wf,1929.0,False,IND,0.0,1,-0.33,40,-13.2
+45075050,2024-07-01,0,Maharashtra State Women FIDE Rated Chess Championship-2024,Pune IND,2024-05-29,2024-05-31,1594,1801,5.5,8,-0.45,40,-18.0,"Sani, Deshpande",,1671.0,False,IND,0.0,1,-0.68,40,-27.2
+45075050,2024-07-01,0,Maharashtra State Women FIDE Rated Chess Championship-2024,Pune IND,2024-05-29,2024-05-31,1594,1801,5.5,8,-0.45,40,-18.0,"Gawande, Devanshi",,1516.0,False,IND,1.0,1,0.16,40,6.4
+45075050,2024-07-01,0,Maharashtra State Women FIDE Rated Chess Championship-2024,Pune IND,2024-05-29,2024-05-31,1594,1801,5.5,8,-0.45,40,-18.0,"Sai, Vijaysinh Patil",,1462.0,False,IND,0.5,1,-0.38,40,-15.2
+45075050,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1916,1783,6.0,10,2.68,40,107.2,"Nauryzbay, Ayana",,1643.0,False,KAZ,1.0,1,0.31,40,12.4
+45075050,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1916,1783,6.0,10,2.68,40,107.2,"Samuel, Stephen Noble S",,1964.0,False,IND,0.0,1,-0.26,40,-10.4
+45075050,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1916,1783,6.0,10,2.68,40,107.2,"Arixander, Johny",,1619.0,False,IND,1.0,1,0.28,40,11.2
+45075050,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1916,1783,6.0,10,2.68,40,107.2,"Gunawardhana, Devindya Oshini",wm,2001.0,False,SRI,0.5,1,0.28,40,11.2
+45075050,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1916,1783,6.0,10,2.68,40,107.2,"Iniyan, R S",,1943.0,False,IND,1.0,1,0.71,40,28.4
+45075050,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1916,1783,6.0,10,2.68,40,107.2,"Daksh, Goyal",,2116.0,False,IND,0.5,1,0.38,40,15.2
+45075050,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1916,1783,6.0,10,2.68,40,107.2,"Pruthu, Deshpande",,2000.0,False,IND,0.0,1,-0.22,40,-8.8
+45075050,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1916,1783,6.0,10,2.68,40,107.2,"Hamid, Rani",wm,1956.0,False,BAN,1.0,1,0.73,40,29.2
+45075050,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1916,1783,6.0,10,2.68,40,107.2,"Kulkarni, Vinayak",,1974.0,False,IND,0.5,1,0.25,40,10.0
+45075050,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1916,1783,6.0,10,2.68,40,107.2,"Bristy, Mukherjee",wf,1947.0,False,IND,0.5,1,0.22,40,8.8

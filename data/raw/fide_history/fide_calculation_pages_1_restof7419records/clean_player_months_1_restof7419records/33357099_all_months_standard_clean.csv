@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33357099,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1650,1454,1.0,4,-0.01,40,-0.4,"Gaurav, Sharma",,1660.0,False,IND,0.5,1,0.26,40,10.4
+33357099,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1650,1454,1.0,4,-0.01,40,-0.4,"Deepak, Rai",,1729.0,False,IND,0.0,1,-0.17,40,-6.8
+33357099,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1650,1454,1.0,4,-0.01,40,-0.4,"Mohit, Ambwani",,1670.0,False,IND,0.0,1,-0.22,40,-8.8
+33357099,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1650,1454,1.0,4,-0.01,40,-0.4,"Abhyuday, Goenka",,1539.0,False,IND,0.5,1,0.12,40,4.8
+33357099,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1670,1454,4.5,8,2.63,40,105.2,"Deshpande, Amit",,1632.0,False,IND,1.0,1,0.73,40,29.2
+33357099,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1670,1454,4.5,8,2.63,40,105.2,"Vidit, Sethi",,1844.0,False,IND,0.0,1,-0.09,40,-3.6
+33357099,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1670,1454,4.5,8,2.63,40,105.2,"Aarav, Neelkamal Gupta",,1558.0,False,IND,0.5,1,0.14,40,5.6
+33357099,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1670,1454,4.5,8,2.63,40,105.2,"Kavyansh, Jain",,1621.0,False,IND,1.0,1,0.72,40,28.8
+33357099,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1670,1454,4.5,8,2.63,40,105.2,"Aniket, Bakshi",,1592.0,False,IND,1.0,1,0.69,40,27.6
+33357099,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1670,1454,4.5,8,2.63,40,105.2,"Abhay, Chetty",,1715.0,False,IND,0.5,1,0.32,40,12.8
+33357099,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1670,1454,4.5,8,2.63,40,105.2,"Ranvir, Kanwar",,1700.0,False,IND,0.5,1,0.31,40,12.4
+33357099,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1670,1454,4.5,8,2.63,40,105.2,"Sinha, Keshav",,1701.0,False,IND,0.0,1,-0.19,40,-7.6
+33357099,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1616,1454,2.5,7,0.5,40,20.0,"Pramod, Kr. Kushwaha",,1609.0,False,IND,1.0,1,0.71,40,28.4
+33357099,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1616,1454,2.5,7,0.5,40,20.0,"Abhyudaya, Matta",,1642.0,False,IND,0.5,1,0.24,40,9.6
+33357099,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1616,1454,2.5,7,0.5,40,20.0,"Aarav, Jain",,1612.0,False,IND,0.0,1,-0.29,40,-11.6
+33357099,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1616,1454,2.5,7,0.5,40,20.0,"Nitin, Rathore",,1633.0,False,IND,0.5,1,0.23,40,9.2
+33357099,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1616,1454,2.5,7,0.5,40,20.0,"Shashank, Maheshwari",,1622.0,False,IND,0.5,1,0.22,40,8.8
+33357099,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1616,1454,2.5,7,0.5,40,20.0,"Arun, Wahi",,1570.0,False,IND,0.0,1,-0.34,40,-13.6
+33357099,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1616,1454,2.5,7,0.5,40,20.0,"Manab, Bhattacharjee",,1625.0,False,IND,0.0,1,-0.27,40,-10.8

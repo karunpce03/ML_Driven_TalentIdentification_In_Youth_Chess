@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33383189,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group C,Sant Boi de Llobregat (Barcelona) ESP,2024-11-30,2024-12-08,,,2.5,7,0.0,1454,,"Tarhan, Ismail",,1582,False,TUR,0.5,1,0.0,,0.0
+33383189,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group C,Sant Boi de Llobregat (Barcelona) ESP,2024-11-30,2024-12-08,,,2.5,7,0.0,1454,,"Castro Torres, Vicente",,1488,False,ESP,0.0,1,0.0,,0.0
+33383189,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group C,Sant Boi de Llobregat (Barcelona) ESP,2024-11-30,2024-12-08,,,2.5,7,0.0,1454,,"Hurtado Farre, Ildefons",,1416,False,ESP,0.0,1,0.0,,0.0
+33383189,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group C,Sant Boi de Llobregat (Barcelona) ESP,2024-11-30,2024-12-08,,,2.5,7,0.0,1454,,"Majoral Marco, Javier",,1518,False,ESP,1.0,1,0.0,,0.0
+33383189,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group C,Sant Boi de Llobregat (Barcelona) ESP,2024-11-30,2024-12-08,,,2.5,7,0.0,1454,,"Duro Sole, Ramon",,1548,False,ESP,0.0,1,0.0,,0.0
+33383189,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group C,Sant Boi de Llobregat (Barcelona) ESP,2024-11-30,2024-12-08,,,2.5,7,0.0,1454,,"Julbe Colom, Lluis",,1670,False,ESP,1.0,1,0.0,,0.0
+33383189,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group C,Sant Boi de Llobregat (Barcelona) ESP,2024-11-30,2024-12-08,,,2.5,7,0.0,1454,,"Sanz Prat, Javier",,1671,False,ESP,0.0,1,0.0,,0.0
+33383189,2025-02-01,0,VI Torneo de Invierno en Alicante 2025,Alicante ESP,2025-01-03,2025-01-05,1728.0,1530.0,0.0,3,-0.85,40,-34.0,"Sala Esquiva, Miguel",,1930,True,ESP,0.0,1,-0.08,40.0,-3.2
+33383189,2025-02-01,0,VI Torneo de Invierno en Alicante 2025,Alicante ESP,2025-01-03,2025-01-05,1728.0,1530.0,0.0,3,-0.85,40,-34.0,"Golatkar, Aditya",,1800,False,IND,0.0,1,-0.17,40.0,-6.8
+33383189,2025-02-01,0,VI Torneo de Invierno en Alicante 2025,Alicante ESP,2025-01-03,2025-01-05,1728.0,1530.0,0.0,3,-0.85,40,-34.0,"Soghoyan, Narek",,1454,False,ESP,0.0,1,-0.6,40.0,-24.0

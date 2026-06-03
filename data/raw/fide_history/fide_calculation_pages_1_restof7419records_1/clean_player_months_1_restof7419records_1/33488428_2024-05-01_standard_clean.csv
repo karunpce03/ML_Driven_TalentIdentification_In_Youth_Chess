@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33488428,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1562,1600,5.5,8,1.08,40,43.2,"Harsith, V",,1453.0,False,IND,1.0,1,0.3,40,12.0
+33488428,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1562,1600,5.5,8,1.08,40,43.2,"Anupam, M Sreekumar",wc,1777.0,False,IND,0.0,1,-0.27,40,-10.8
+33488428,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1562,1600,5.5,8,1.08,40,43.2,"Ramesh, M M",,1453.0,False,IND,0.5,1,-0.2,40,-8.0
+33488428,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1562,1600,5.5,8,1.08,40,43.2,"Kriday, Nagpal",,1486.0,False,IND,1.0,1,0.34,40,13.6
+33488428,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1562,1600,5.5,8,1.08,40,43.2,"Sabarish, A",,1461.0,False,IND,0.5,1,-0.19,40,-7.6
+33488428,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1562,1600,5.5,8,1.08,40,43.2,"Alden, John Biju",,1481.0,False,IND,1.0,1,0.34,40,13.6
+33488428,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1562,1600,5.5,8,1.08,40,43.2,"Mohanan, U.c.",,1715.0,False,IND,0.5,1,0.16,40,6.4
+33488428,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1562,1600,5.5,8,1.08,40,43.2,"Gautham, A",,1669.0,False,IND,1.0,1,0.6,40,24.0

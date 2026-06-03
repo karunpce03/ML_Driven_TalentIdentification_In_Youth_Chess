@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88183076,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,2.5,7,0.0,1376,,"Eshan, Tanti",,1515.0,False,IND,0.0,1,0.0,,0.0
+88183076,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,2.5,7,0.0,1376,,"Faujia, Fahima Rahman",,1433.0,False,IND,0.0,1,0.0,,0.0
+88183076,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,2.5,7,0.0,1376,,"Raj, Kondho",,1425.0,False,IND,1.0,1,0.0,,0.0
+88183076,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,2.5,7,0.0,1376,,"Mayukh, Martin Konwar",,1509.0,False,IND,0.5,1,0.0,,0.0
+88183076,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,2.5,7,0.0,1376,,"Debabrata, Nath",,1479.0,False,IND,0.5,1,0.0,,0.0
+88183076,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,2.5,7,0.0,1376,,"Dipnalisha, Borah",,1530.0,False,IND,0.5,1,0.0,,0.0
+88183076,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,2.5,7,0.0,1376,,"Rulaikham, Handique",,1457.0,False,IND,0.0,1,0.0,,0.0
+88183076,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1640.0,1470.0,1.5,6,-0.19,40,-7.6,"Supritom, Boruah",,1725.0,False,IND,0.0,1,-0.19,40.0,-7.6
+88183076,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1640.0,1470.0,1.5,6,-0.19,40,-7.6,"Ahan, Prasad Kashyap",,1569.0,False,IND,0.5,1,0.14,40.0,5.6
+88183076,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1640.0,1470.0,1.5,6,-0.19,40,-7.6,"Prasanna, Tamuli",,1656.0,False,IND,0.5,1,0.24,40.0,9.6
+88183076,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1640.0,1470.0,1.5,6,-0.19,40,-7.6,"Hritik, Gogoi",,1551.0,False,IND,0.0,1,-0.39,40.0,-15.6
+88183076,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1640.0,1470.0,1.5,6,-0.19,40,-7.6,"Anuraag, Saikia",,1724.0,False,IND,0.5,1,0.31,40.0,12.4
+88183076,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1640.0,1470.0,1.5,6,-0.19,40,-7.6,"Bikram, Chetry",,1617.0,False,IND,0.0,1,-0.3,40.0,-12.0

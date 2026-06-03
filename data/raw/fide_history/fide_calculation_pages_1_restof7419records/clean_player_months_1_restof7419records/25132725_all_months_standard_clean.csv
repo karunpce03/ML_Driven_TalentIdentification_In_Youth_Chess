@@ -1,0 +1,74 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25132725,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1739,1597,2.0,5,0.32,40,12.8,"Anagha, Yardi",,1482.0,False,IND,1.0,1,0.34,40,13.6
+25132725,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1739,1597,2.0,5,0.32,40,12.8,"Suryanshi, Sharma",,1639.0,False,IND,0.0,1,-0.44,40,-17.6
+25132725,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1739,1597,2.0,5,0.32,40,12.8,"Garima, Gaurav",,1786.0,False,IND,0.0,1,-0.25,40,-10.0
+25132725,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1739,1597,2.0,5,0.32,40,12.8,"Salonika, Saina",wm,1997.0,True,IND,0.0,1,-0.08,40,-3.2
+25132725,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1739,1597,2.0,5,0.32,40,12.8,"Aparajita, Gochhikar",c,1791.0,False,IND,1.0,1,0.75,40,30.0
+25132725,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1625,1597,4.5,8,0.73,40,29.2,"Negi, Virender Singh",,1920.0,False,IND,0.5,1,0.37,40,14.8
+25132725,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1625,1597,4.5,8,0.73,40,29.2,"Sarthak, Sharma",,1447.0,False,IND,1.0,1,0.3,40,12.0
+25132725,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1625,1597,4.5,8,0.73,40,29.2,"Ramanuj, Mishra",,1731.0,False,IND,0.0,1,-0.32,40,-12.8
+25132725,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1625,1597,4.5,8,0.73,40,29.2,"Aditi, Mukherjee",,1498.0,False,IND,1.0,1,0.36,40,14.4
+25132725,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1625,1597,4.5,8,0.73,40,29.2,"Shubh, Singh Saini",,1772.0,False,IND,0.0,1,-0.27,40,-10.8
+25132725,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1625,1597,4.5,8,0.73,40,29.2,"Tizya, Kumar",,1428.0,False,IND,1.0,1,0.28,40,11.2
+25132725,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1625,1597,4.5,8,0.73,40,29.2,"Tarun, N",,1721.0,False,IND,0.0,1,-0.33,40,-13.2
+25132725,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1625,1597,4.5,8,0.73,40,29.2,"Paritosh, Dhanaraju",,1480.0,False,IND,1.0,1,0.34,40,13.6
+25132725,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1463,1639,3.5,8,-2.35,40,-94.0,"Sai, Manvik Reddy Bethi",,1467.0,False,IND,0.0,1,-0.73,40,-29.2
+25132725,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1463,1639,3.5,8,-2.35,40,-94.0,"Bhuvansai, Vundemodhalu",,1432.0,False,IND,0.5,1,-0.27,40,-10.8
+25132725,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1463,1639,3.5,8,-2.35,40,-94.0,"Agasthya, Samhit Pabba",,1424.0,False,IND,1.0,1,0.23,40,9.2
+25132725,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1463,1639,3.5,8,-2.35,40,-94.0,"Bodda, Sri Jayya Mohan",,1507.0,False,IND,0.0,1,-0.68,40,-27.2
+25132725,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1463,1639,3.5,8,-2.35,40,-94.0,"Hartejpal, Singh",,1449.0,False,IND,1.0,1,0.25,40,10.0
+25132725,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1463,1639,3.5,8,-2.35,40,-94.0,"Amulya, Bhagavatula",,1422.0,False,IND,1.0,1,0.22,40,8.8
+25132725,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1463,1639,3.5,8,-2.35,40,-94.0,"Timmaraju, Venkata Sathvik",,1504.0,False,IND,0.0,1,-0.68,40,-27.2
+25132725,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1463,1639,3.5,8,-2.35,40,-94.0,"Sri, Sai Vedaansh P",,1497.0,False,IND,0.0,1,-0.69,40,-27.6
+25132725,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1511,1639,4.5,7,-0.21,40,-8.4,"Likethaksh, Peruka",,1444.0,False,IND,1.0,1,0.25,40,10.0
+25132725,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1511,1639,4.5,7,-0.21,40,-8.4,"Kartikeya, Chunchu",,1506.0,False,IND,0.5,1,-0.18,40,-7.2
+25132725,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1511,1639,4.5,7,-0.21,40,-8.4,"Satyanarayna, Murthy Pvv",,1519.0,False,IND,1.0,1,0.34,40,13.6
+25132725,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1511,1639,4.5,7,-0.21,40,-8.4,"Bruhathi, Kondisetti",,1531.0,False,IND,0.5,1,-0.15,40,-6.0
+25132725,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1511,1639,4.5,7,-0.21,40,-8.4,"Mihir, Chandra Loke",,1569.0,False,IND,0.0,1,-0.6,40,-24.0
+25132725,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1511,1639,4.5,7,-0.21,40,-8.4,"Samarth, Ranjan Sahu",,1499.0,False,IND,0.5,1,-0.19,40,-7.6
+25132725,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1511,1639,4.5,7,-0.21,40,-8.4,"Bodda, Sri Jayya Mohan",,1507.0,False,IND,1.0,1,0.32,40,12.8
+25132725,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1624,1537,1.0,6,-1.49,40,-59.6,"Bhat, Sannidhi Ramakrishna",,1937.0,True,IND,0.0,1,-0.08,40,-3.2
+25132725,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1624,1537,1.0,6,-1.49,40,-59.6,"Riddhi, Khanna",,1421.0,False,IND,0.0,1,-0.66,40,-26.4
+25132725,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1624,1537,1.0,6,-1.49,40,-59.6,"Yashavishree, N",,1587.0,False,IND,0.0,1,-0.43,40,-17.2
+25132725,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1624,1537,1.0,6,-1.49,40,-59.6,"Aishani, Anand Vaid",,1447.0,False,IND,0.5,1,-0.12,40,-4.8
+25132725,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1624,1537,1.0,6,-1.49,40,-59.6,"Chahat, Kohli",,1476.0,False,IND,0.5,1,-0.08,40,-3.2
+25132725,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1624,1537,1.0,6,-1.49,40,-59.6,"Nivedita, V C",,1877.0,False,IND,0.0,1,-0.12,40,-4.8
+25132725,2024-08-01,0,M.P. STATE SENIOR (OPEN) RATING CHESS CHAMPIONSHIP - 2024,Dewas IND,2024-07-26,2024-07-28,1839,1537,0.0,2,-0.32,40,-12.8,"Utkarsh, Agrawal",,1740.0,False,IND,0.0,1,-0.24,40,-9.6
+25132725,2024-08-01,0,M.P. STATE SENIOR (OPEN) RATING CHESS CHAMPIONSHIP - 2024,Dewas IND,2024-07-26,2024-07-28,1839,1537,0.0,2,-0.32,40,-12.8,"Shahid, Azmat",,1937.0,True,IND,0.0,1,-0.08,40,-3.2
+25132725,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1657,1465,4.0,11,1.12,40,44.8,"Parth, Belwal",,1840.0,False,IND,0.0,1,-0.09,40,-3.6
+25132725,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1657,1465,4.0,11,1.12,40,44.8,"Drishtee, Ghosh",,1730.0,False,IND,0.0,1,-0.18,40,-7.2
+25132725,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1657,1465,4.0,11,1.12,40,44.8,"Atharv, Singh Bisht",,1644.0,False,IND,1.0,1,0.73,40,29.2
+25132725,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1657,1465,4.0,11,1.12,40,44.8,"Majji, Ram Charan Teja",,1740.0,False,IND,0.5,1,0.33,40,13.2
+25132725,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1657,1465,4.0,11,1.12,40,44.8,"Barbith, M Sangma",,1736.0,False,IND,0.0,1,-0.17,40,-6.8
+25132725,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1657,1465,4.0,11,1.12,40,44.8,"Vishwam, Anand",,1710.0,False,IND,0.0,1,-0.2,40,-8.0
+25132725,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1657,1465,4.0,11,1.12,40,44.8,"Dushyant, Singh",,1603.0,False,IND,0.0,1,-0.31,40,-12.4
+25132725,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1657,1465,4.0,11,1.12,40,44.8,"Poorvi, Rajpoot",,1581.0,False,IND,0.0,1,-0.34,40,-13.6
+25132725,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1657,1465,4.0,11,1.12,40,44.8,"Dinesh, Kumar Gupta",,1512.0,False,IND,1.0,1,0.57,40,22.8
+25132725,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1657,1465,4.0,11,1.12,40,44.8,"Zothanhlira, Royte",,1564.0,False,IND,0.5,1,0.14,40,5.6
+25132725,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1657,1465,4.0,11,1.12,40,44.8,"Krishnan, Kundan",,1568.0,False,IND,1.0,1,0.64,40,25.6
+25132725,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1655,1510,4.0,10,0.77,40,30.8,"Anushka, Bapu Kutwal",,1860.0,False,IND,0.0,1,-0.11,40,-4.4
+25132725,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1655,1510,4.0,10,0.77,40,30.8,"Tanya, Verma",,1694.0,False,IND,1.0,1,0.74,40,29.6
+25132725,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1655,1510,4.0,10,0.77,40,30.8,"Vakcheri, Mohitha",,1820.0,False,IND,0.0,1,-0.14,40,-5.6
+25132725,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1655,1510,4.0,10,0.77,40,30.8,"Poornima, Gupta",,1676.0,False,IND,0.5,1,0.22,40,8.8
+25132725,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1655,1510,4.0,10,0.77,40,30.8,"Sahejdeep, Kaur",,1670.0,False,IND,0.0,1,-0.29,40,-11.6
+25132725,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1655,1510,4.0,10,0.77,40,30.8,"Modipalli, Deekshitha",,1726.0,False,IND,0.0,1,-0.22,40,-8.8
+25132725,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1655,1510,4.0,10,0.77,40,30.8,"Aayra, Singh",,1451.0,False,IND,0.5,1,-0.08,40,-3.2
+25132725,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1655,1510,4.0,10,0.77,40,30.8,"Vygaprabha, K A",,1430.0,False,IND,1.0,1,0.39,40,15.6
+25132725,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1655,1510,4.0,10,0.77,40,30.8,"Avika, Panwar",,1684.0,False,IND,0.0,1,-0.27,40,-10.8
+25132725,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1655,1510,4.0,10,0.77,40,30.8,"Ankita, Raj",,1535.0,False,IND,1.0,1,0.53,40,21.2
+25132725,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1532,1541,5.0,10,-0.15,40,-6.0,"Hasini, S",,1413.0,False,IND,1.0,1,0.33,40,13.2
+25132725,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1532,1541,5.0,10,-0.15,40,-6.0,"Sahana, Shainsha",,1714.0,False,IND,0.0,1,-0.27,40,-10.8
+25132725,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1532,1541,5.0,10,-0.15,40,-6.0,"Naja, Fathima P",,1430.0,False,IND,0.5,1,-0.15,40,-6.0
+25132725,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1532,1541,5.0,10,-0.15,40,-6.0,"Suneli, Bera",,1428.0,False,IND,1.0,1,0.35,40,14.0
+25132725,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1532,1541,5.0,10,-0.15,40,-6.0,"Archita, Agrawal",,1770.0,False,IND,0.0,1,-0.21,40,-8.4
+25132725,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1532,1541,5.0,10,-0.15,40,-6.0,"Hunsika, M",,1400.0,False,IND,1.0,1,0.31,40,12.4
+25132725,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1532,1541,5.0,10,-0.15,40,-6.0,"Pournami, S",,1701.0,False,IND,0.0,1,-0.29,40,-11.6
+25132725,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1532,1541,5.0,10,-0.15,40,-6.0,"Baishnavi, Limboo",,1514.0,False,IND,0.0,1,-0.54,40,-21.6
+25132725,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1532,1541,5.0,10,-0.15,40,-6.0,"Nakshatra, G",,1433.0,False,IND,1.0,1,0.35,40,14.0
+25132725,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1532,1541,5.0,10,-0.15,40,-6.0,"Aarohi, Mathur",,1519.0,False,IND,0.5,1,-0.03,40,-1.2
+25132725,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1634,1535,3.0,6,0.7,40,28.0,"Shaurya, Chaudhary",,1890.0,False,IND,0.0,1,-0.11,40,-4.4
+25132725,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1634,1535,3.0,6,0.7,40,28.0,"Gaurav, Sharma J S",,1420.0,False,IND,1.0,1,0.34,40,13.6
+25132725,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1634,1535,3.0,6,0.7,40,28.0,"Kushagra, Gupta",,1437.0,False,IND,1.0,1,0.37,40,14.8
+25132725,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1634,1535,3.0,6,0.7,40,28.0,"Ratul, Majumder",,1659.0,False,IND,1.0,1,0.67,40,26.8
+25132725,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1634,1535,3.0,6,0.7,40,28.0,"Chitrak, Naha",,1714.0,False,IND,0.0,1,-0.27,40,-10.8
+25132725,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1634,1535,3.0,6,0.7,40,28.0,"Hariom, Solanki",,1683.0,False,IND,0.0,1,-0.3,40,-12.0

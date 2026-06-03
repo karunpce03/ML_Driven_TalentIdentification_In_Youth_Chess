@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88120830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1798,1710,4.5,11,0.19,40,7.6,"Singh, Arvinder Preet",f,1992.0,False,IND,0.5,1,0.34,40,13.6
+88120830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1798,1710,4.5,11,0.19,40,7.6,"Jai, Sankar Subramanian",,2099.0,False,IND,0.0,1,-0.09,40,-3.6
+88120830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1798,1710,4.5,11,0.19,40,7.6,"Shashank, K",,1809.0,False,IND,0.0,1,-0.36,40,-14.4
+88120830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1798,1710,4.5,11,0.19,40,7.6,"Nabam, Nikum",,1613.0,False,IND,1.0,1,0.37,40,14.8
+88120830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1798,1710,4.5,11,0.19,40,7.6,"Nimay, Agrawal",c,1936.0,False,IND,0.0,1,-0.21,40,-8.4
+88120830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1798,1710,4.5,11,0.19,40,7.6,"Kanishka, Choudhary",,1465.0,False,IND,1.0,1,0.2,40,8.0
+88120830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1798,1710,4.5,11,0.19,40,7.6,"Abhinav, Anand",,1794.0,False,IND,0.5,1,0.12,40,4.8
+88120830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1798,1710,4.5,11,0.19,40,7.6,"Devansh, Singh",,1787.0,False,IND,1.0,1,0.61,40,24.4
+88120830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1798,1710,4.5,11,0.19,40,7.6,"Khalid, Amin",,1860.0,False,IND,0.0,1,-0.3,40,-12.0
+88120830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1798,1710,4.5,11,0.19,40,7.6,"Sidharth, Mohan",,1848.0,False,IND,0.0,1,-0.31,40,-12.4
+88120830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1798,1710,4.5,11,0.19,40,7.6,"Vedant, Rajesh",,1574.0,False,IND,0.5,1,-0.18,40,-7.2

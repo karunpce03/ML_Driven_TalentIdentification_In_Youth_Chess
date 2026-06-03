@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33479232,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1686,1427,0.0,3,-0.6,40,-24.0,"Ayushh, Ravikumar",f,1827,True,IND,0.0,1,-0.08,40,-3.2
+33479232,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1686,1427,0.0,3,-0.6,40,-24.0,"Shane, Joseph",,1579,False,IND,0.0,1,-0.3,40,-12.0
+33479232,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1686,1427,0.0,3,-0.6,40,-24.0,"Meenakshi, Sundaram",,1652,False,IND,0.0,1,-0.22,40,-8.8

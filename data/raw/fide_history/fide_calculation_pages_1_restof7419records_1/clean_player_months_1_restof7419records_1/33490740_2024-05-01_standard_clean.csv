@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33490740,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1577,1530,3.0,5,0.8,40,32.0,"Sameer, Chaudhary",,1656.0,False,IND,0.0,1,-0.33,40,-13.2
+33490740,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1577,1530,3.0,5,0.8,40,32.0,"Shashank, Seshan",,1431.0,False,IND,1.0,1,0.36,40,14.4
+33490740,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1577,1530,3.0,5,0.8,40,32.0,"Singh, Ambesh Pratap",,1708.0,False,IND,0.0,1,-0.27,40,-10.8
+33490740,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1577,1530,3.0,5,0.8,40,32.0,"Prabuddh, Pathak",,1446.0,False,IND,1.0,1,0.38,40,15.2
+33490740,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1577,1530,3.0,5,0.8,40,32.0,"Abhibhav, Kumar",,1644.0,False,IND,1.0,1,0.66,40,26.4

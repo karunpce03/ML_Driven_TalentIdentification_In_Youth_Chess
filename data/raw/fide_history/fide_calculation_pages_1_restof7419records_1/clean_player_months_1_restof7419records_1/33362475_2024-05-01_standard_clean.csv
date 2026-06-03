@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33362475,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1622,1437,1.0,6,-0.64,40,-25.6,"Sa, Kannan",,1821.0,False,IND,0.0,1,-0.09,40,-3.6
+33362475,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1622,1437,1.0,6,-0.64,40,-25.6,"Dhevarsh, Sagar V P",,1666.0,False,IND,0.0,1,-0.21,40,-8.4
+33362475,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1622,1437,1.0,6,-0.64,40,-25.6,"Anjana, S G",,1554.0,False,IND,0.0,1,-0.34,40,-13.6
+33362475,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1622,1437,1.0,6,-0.64,40,-25.6,"Ishan, S",,1611.0,False,IND,0.5,1,0.23,40,9.2
+33362475,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1622,1437,1.0,6,-0.64,40,-25.6,"Anjana, A",,1534.0,False,IND,0.5,1,0.13,40,5.2
+33362475,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1622,1437,1.0,6,-0.64,40,-25.6,"Manoj, Kumar K",,1543.0,False,IND,0.0,1,-0.36,40,-14.4
+33362475,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1637,1437,0.0,4,-0.98,40,-39.2,"Trisha, B",,1630.0,False,IND,0.0,1,-0.25,40,-10.0
+33362475,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1637,1437,0.0,4,-0.98,40,-39.2,"Saganapriya, V",,1577.0,False,IND,0.0,1,-0.31,40,-12.4
+33362475,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1637,1437,0.0,4,-0.98,40,-39.2,"Vaishnavi, S K",,1677.0,False,IND,0.0,1,-0.2,40,-8.0
+33362475,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1637,1437,0.0,4,-0.98,40,-39.2,"Magizhini, M",,1662.0,False,IND,0.0,1,-0.22,40,-8.8

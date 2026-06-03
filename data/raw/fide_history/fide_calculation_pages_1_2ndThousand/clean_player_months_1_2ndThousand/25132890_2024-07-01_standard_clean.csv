@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25132890,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1886,1703,2.5,6,0.72,40,28.8,"Bristy, Mukherjee",wf,1902,False,IND,0.5,1,0.26,40,10.4
+25132890,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1886,1703,2.5,6,0.72,40,28.8,"Rahman, Syed Mahfuzur",f,2103,True,BAN,0.0,1,-0.08,40,-3.2
+25132890,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1886,1703,2.5,6,0.72,40,28.8,"Chitta, Roy",,1593,False,IND,1.0,1,0.35,40,14.0
+25132890,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1886,1703,2.5,6,0.72,40,28.8,"Jagajit, Sinha",,1733,False,IND,1.0,1,0.54,40,21.6
+25132890,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1886,1703,2.5,6,0.72,40,28.8,"Singh, Soram Rahul",,1879,False,IND,0.0,1,-0.27,40,-10.8
+25132890,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1886,1703,2.5,6,0.72,40,28.8,"Kushal, O",,2103,True,IND,0.0,1,-0.08,40,-3.2

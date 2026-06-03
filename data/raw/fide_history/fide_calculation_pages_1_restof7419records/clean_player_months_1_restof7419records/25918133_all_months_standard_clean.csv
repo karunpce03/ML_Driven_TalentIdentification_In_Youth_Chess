@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25918133,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1676,1456,0.0,2,-0.44,40,-17.6,"Bitupon, Saika",,1674.0,False,IND,0.0,1,-0.22,40,-8.8
+25918133,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1676,1456,0.0,2,-0.44,40,-17.6,"Bikram, Chetry",,1677.0,False,IND,0.0,1,-0.22,40,-8.8
+25918133,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1691,1438,0.0,3,-0.58,40,-23.2,"Mohit, Kumar Soni",,1783.0,False,IND,0.0,1,-0.11,40,-4.4
+25918133,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1691,1438,0.0,3,-0.58,40,-23.2,"Hitarth, Pratim Buragohain",,1629.0,False,IND,0.0,1,-0.25,40,-10.0
+25918133,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1691,1438,0.0,3,-0.58,40,-23.2,"Bitupon, Saika",,1660.0,False,IND,0.0,1,-0.22,40,-8.8
+25918133,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1576,1415,1.0,4,-0.15,40,-6.0,"Arunabh, Bharalua",,1597.0,False,IND,0.0,1,-0.26,40,-10.4
+25918133,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1576,1415,1.0,4,-0.15,40,-6.0,"Kavya., S",,1573.0,False,IND,0.0,1,-0.29,40,-11.6
+25918133,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1576,1415,1.0,4,-0.15,40,-6.0,"Hridhant, Sharma",,1542.0,False,IND,1.0,1,0.67,40,26.8
+25918133,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1576,1415,1.0,4,-0.15,40,-6.0,"Atul, Chetia",,1593.0,False,IND,0.0,1,-0.27,40,-10.8

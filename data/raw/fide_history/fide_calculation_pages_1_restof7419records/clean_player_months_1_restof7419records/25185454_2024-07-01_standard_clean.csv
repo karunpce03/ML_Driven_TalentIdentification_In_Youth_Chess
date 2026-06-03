@@ -1,0 +1,28 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25185454,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2208,2066,2.5,9,-0.3,25,-7.5,"Kozlovic, Jernej",f,2301.0,False,SLO,0.0,1,-0.21,25,-5.25
+25185454,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2208,2066,2.5,9,-0.3,25,-7.5,"Gathi, Donat",,2216.0,False,HUN,0.0,1,-0.3,25,-7.5
+25185454,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2208,2066,2.5,9,-0.3,25,-7.5,"Tancsa, Tamas",f,2175.0,False,HUN,0.0,1,-0.35,25,-8.75
+25185454,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2208,2066,2.5,9,-0.3,25,-7.5,"Zakin, Ilay",,2174.0,False,ISR,0.5,1,0.15,25,3.75
+25185454,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2208,2066,2.5,9,-0.3,25,-7.5,"Nagy, Ervin Dr.",m,2187.0,False,HUN,0.5,1,0.16,25,4.0
+25185454,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2208,2066,2.5,9,-0.3,25,-7.5,"Terbe, Zsuzsanna",wm,2188.0,False,HUN,1.0,1,0.67,25,16.75
+25185454,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2208,2066,2.5,9,-0.3,25,-7.5,"Oros, Robert",f,2245.0,False,UKR,0.5,1,0.23,25,5.75
+25185454,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2208,2066,2.5,9,-0.3,25,-7.5,"Leszko, Bence",f,2206.0,False,HUN,0.0,1,-0.31,25,-7.75
+25185454,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2208,2066,2.5,9,-0.3,25,-7.5,"Iliaguev, Daniel",,2181.0,False,ISR,0.0,1,-0.34,25,-8.5
+25185454,2024-07-01,0,SixDays Budapest June 2024 IM-B,Budapest HUN,2024-06-03,2024-06-08,2251,2066,3.0,9,0.52,25,13.0,"Nagarkatte, Vedant",f,2272.0,False,IND,0.5,1,0.26,25,6.5
+25185454,2024-07-01,0,SixDays Budapest June 2024 IM-B,Budapest HUN,2024-06-03,2024-06-08,2251,2066,3.0,9,0.52,25,13.0,"Nanditha, V",wc,1852.0,False,IND,0.5,1,-0.27,25,-6.75
+25185454,2024-07-01,0,SixDays Budapest June 2024 IM-B,Budapest HUN,2024-06-03,2024-06-08,2251,2066,3.0,9,0.52,25,13.0,"Bashylina, Luisa",wf,2250.0,False,GER,0.5,1,0.24,25,6.0
+25185454,2024-07-01,0,SixDays Budapest June 2024 IM-B,Budapest HUN,2024-06-03,2024-06-08,2251,2066,3.0,9,0.52,25,13.0,"Van Zyl-Rudd, Jack",f,2292.0,False,RSA,0.5,1,0.29,25,7.25
+25185454,2024-07-01,0,SixDays Budapest June 2024 IM-B,Budapest HUN,2024-06-03,2024-06-08,2251,2066,3.0,9,0.52,25,13.0,"Krizsany, Laszlo",m,2330.0,False,HUN,0.5,1,0.32,25,8.0
+25185454,2024-07-01,0,SixDays Budapest June 2024 IM-B,Budapest HUN,2024-06-03,2024-06-08,2251,2066,3.0,9,0.52,25,13.0,"Danilenko, Dmitriy",f,2403.0,False,UKR,0.0,1,-0.12,25,-3.0
+25185454,2024-07-01,0,SixDays Budapest June 2024 IM-B,Budapest HUN,2024-06-03,2024-06-08,2251,2066,3.0,9,0.52,25,13.0,"Izsak, Gyula",m,2386.0,False,HUN,0.5,1,0.37,25,9.25
+25185454,2024-07-01,0,SixDays Budapest June 2024 IM-B,Budapest HUN,2024-06-03,2024-06-08,2251,2066,3.0,9,0.52,25,13.0,"Varga, Csaba Zoltan",f,2157.0,False,HUN,0.0,1,-0.38,25,-9.5
+25185454,2024-07-01,0,SixDays Budapest June 2024 IM-B,Budapest HUN,2024-06-03,2024-06-08,2251,2066,3.0,9,0.52,25,13.0,"Horvath, David",m,2313.0,False,HUN,0.0,1,-0.19,25,-4.75
+25185454,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2171,2066,5.0,9,1.7,25,42.5,"Yoo, Eugene",c,2273.0,False,USA,0.0,1,-0.23,25,-5.75
+25185454,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2171,2066,5.0,9,1.7,25,42.5,"Torres Rebolledo, Victor",,2215.0,False,ESP,1.0,1,0.7,25,17.5
+25185454,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2171,2066,5.0,9,1.7,25,42.5,"Rodriguez Pulido, Jose De Jesus",,1870.0,False,MEX,1.0,1,0.25,25,6.25
+25185454,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2171,2066,5.0,9,1.7,25,42.5,"Alba Fernandez, Nicolas",,2150.0,False,ESP,0.5,1,0.12,25,3.0
+25185454,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2171,2066,5.0,9,1.7,25,42.5,"Calvo Simon, Jorge",,2210.0,False,ESP,0.5,1,0.19,25,4.75
+25185454,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2171,2066,5.0,9,1.7,25,42.5,"Sanroman Costas, Mauro",,2143.0,False,ESP,0.5,1,0.11,25,2.75
+25185454,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2171,2066,5.0,9,1.7,25,42.5,"Khamrakulov, Ibragim S.",g,2412.0,False,ESP,0.0,1,-0.11,25,-2.75
+25185454,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2171,2066,5.0,9,1.7,25,42.5,"Derige Kane, Yan",c,2237.0,False,FRA,0.5,1,0.23,25,5.75
+25185454,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2171,2066,5.0,9,1.7,25,42.5,"Wildt, Pablo Montgomery",,2026.0,False,HON,1.0,1,0.44,25,11.0

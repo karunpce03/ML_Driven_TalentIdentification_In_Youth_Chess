@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33390088,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1722,1775,6.0,9,0.89,36,32.04,"Yadnya, Bharambe",,1485.0,False,IND,1.0,1,0.16,36,5.76
+33390088,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1722,1775,6.0,9,0.89,36,32.04,"Aadithya, R",,1599.0,False,IND,1.0,1,0.27,36,9.72
+33390088,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1722,1775,6.0,9,0.89,36,32.04,"Moghe, Parth",,1601.0,False,IND,0.5,1,-0.23,36,-8.28
+33390088,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1722,1775,6.0,9,0.89,36,32.04,"Perecharla, Hariram Saikrishna",,1725.0,False,USA,1.0,1,0.43,36,15.48
+33390088,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1722,1775,6.0,9,0.89,36,32.04,"Avirat, Chauhan",,1890.0,False,IND,0.0,1,-0.34,36,-12.24
+33390088,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1722,1775,6.0,9,0.89,36,32.04,"Bhute, Nikhil",,1600.0,False,IND,1.0,1,0.27,36,9.72
+33390088,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1722,1775,6.0,9,0.89,36,32.04,"Geetesh, Mishra",,1636.0,False,IND,1.0,1,0.31,36,11.16
+33390088,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1722,1775,6.0,9,0.89,36,32.04,"Sherla, Prathamesh",,1978.0,False,IND,0.5,1,0.26,36,9.36
+33390088,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1722,1775,6.0,9,0.89,36,32.04,"Ramakrishna, J.",f,1980.0,False,IND,0.0,1,-0.24,36,-8.64
+33390088,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1855,1724,5.0,10,1.7,36,61.2,"Alluri, Bhaskara Ratna Shanmukha",,2010.0,False,IND,0.0,1,-0.16,36,-5.76
+33390088,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1855,1724,5.0,10,1.7,36,61.2,"Soham, Pranav Nagrecha",,1474.0,False,IND,1.0,1,0.19,36,6.84
+33390088,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1855,1724,5.0,10,1.7,36,61.2,"Badamundi, Tapan",,1921.0,False,IND,0.0,1,-0.25,36,-9.0
+33390088,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1855,1724,5.0,10,1.7,36,61.2,"Subhrajit, Dey",,1940.0,False,IND,1.0,1,0.78,36,28.08
+33390088,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1855,1724,5.0,10,1.7,36,61.2,"Sidharth, Mohan",,1848.0,False,IND,1.0,1,0.67,36,24.12
+33390088,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1855,1724,5.0,10,1.7,36,61.2,"Kishan, Kumar",,1954.0,False,IND,0.5,1,0.29,36,10.44
+33390088,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1855,1724,5.0,10,1.7,36,61.2,"Marium, Fatima",,1918.0,False,IND,0.0,1,-0.25,36,-9.0
+33390088,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1855,1724,5.0,10,1.7,36,61.2,"Sahil, Bheron",,1839.0,False,IND,0.0,1,-0.34,36,-12.24
+33390088,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1855,1724,5.0,10,1.7,36,61.2,"Arghya, Sen",,1804.0,False,IND,1.0,1,0.61,36,21.96
+33390088,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1855,1724,5.0,10,1.7,36,61.2,"Atiksh, Thakur",,1843.0,False,IND,0.5,1,0.16,36,5.76

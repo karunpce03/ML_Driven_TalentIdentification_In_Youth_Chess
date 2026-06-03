@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366110180,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1494,1505,1.5,3,-0.05,40,-2.0,"Deepak, Singh",,1401.0,False,IND,1.0,1,0.36,40,14.4
+366110180,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1494,1505,1.5,3,-0.05,40,-2.0,"Lakshya, Nigam",,1652.0,False,IND,0.0,1,-0.3,40,-12.0
+366110180,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1494,1505,1.5,3,-0.05,40,-2.0,"Anvay, Rathi",,1428.0,False,IND,0.5,1,-0.11,40,-4.4
+366110180,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1710,1505,2.0,4,0.97,40,38.8,"Shreyas, Raj",,1905.0,True,IND,0.0,1,-0.08,40,-3.2
+366110180,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1710,1505,2.0,4,0.97,40,38.8,"Vardan, Srivastava",,1667.0,False,IND,1.0,1,0.71,40,28.4
+366110180,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1710,1505,2.0,4,0.97,40,38.8,"Aditya, Saxena",,1584.0,False,IND,1.0,1,0.61,40,24.4
+366110180,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1710,1505,2.0,4,0.97,40,38.8,"Arindam, Shukla",,1682.0,False,IND,0.0,1,-0.27,40,-10.8
+366110180,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1635,1505,1.0,3,-0.01,40,-0.4,"Ayush, Saxena",,1747.0,False,IND,0.0,1,-0.2,40,-8.0
+366110180,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1635,1505,1.0,3,-0.01,40,-0.4,"Shivay, Singh",,1673.0,False,IND,0.0,1,-0.28,40,-11.2
+366110180,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1635,1505,1.0,3,-0.01,40,-0.4,"Atharva, Tyagi",,1485.0,False,IND,1.0,1,0.47,40,18.8

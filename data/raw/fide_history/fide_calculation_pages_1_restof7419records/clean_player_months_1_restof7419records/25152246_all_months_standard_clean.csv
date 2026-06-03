@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25152246,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,1735,1555,1.0,3,0.2,40,8.0,"Pranav, Pradeep Nair",,1818.0,False,IND,0.0,1,-0.18,40,-7.2
+25152246,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,1735,1555,1.0,3,0.2,40,8.0,"Gani, Mohammad Ali",,1693.0,False,PHI,0.5,1,0.19,40,7.6
+25152246,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,1735,1555,1.0,3,0.2,40,8.0,"Lim, Han Sun",,1693.0,False,MAS,0.5,1,0.19,40,7.6

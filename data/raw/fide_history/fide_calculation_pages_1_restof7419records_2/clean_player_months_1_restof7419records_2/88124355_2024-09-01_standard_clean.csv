@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88124355,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1703,1520,1.0,3,0.22,40,8.8,"Karthik, K",,1746.0,False,IND,1.0,1,0.79,40,31.6
+88124355,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1703,1520,1.0,3,0.22,40,8.8,"Amanlal, A",,1691.0,False,IND,0.0,1,-0.27,40,-10.8
+88124355,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1703,1520,1.0,3,0.22,40,8.8,"Abhinav, M B",,1671.0,False,IND,0.0,1,-0.3,40,-12.0

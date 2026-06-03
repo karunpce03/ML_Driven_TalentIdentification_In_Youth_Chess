@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33439877,2025-04-01,0,The DCU Open 2025,Dublin IRL,2025-02-21,2025-02-23,1686,1501,2.5,5,1.16,40,46.4,"Jocius, Donatas",,1855.0,False,IRL,0.0,1,-0.11,40,-4.4
+33439877,2025-04-01,0,The DCU Open 2025,Dublin IRL,2025-02-21,2025-02-23,1686,1501,2.5,5,1.16,40,46.4,"O`regan, Cathal",,1656.0,False,IRL,0.0,1,-0.29,40,-11.6
+33439877,2025-04-01,0,The DCU Open 2025,Dublin IRL,2025-02-21,2025-02-23,1686,1501,2.5,5,1.16,40,46.4,"Scott, Shay",,1611.0,False,IRL,1.0,1,0.65,40,26.0
+33439877,2025-04-01,0,The DCU Open 2025,Dublin IRL,2025-02-21,2025-02-23,1686,1501,2.5,5,1.16,40,46.4,"Corry, Shane",,1644.0,False,IRL,0.5,1,0.19,40,7.6
+33439877,2025-04-01,0,The DCU Open 2025,Dublin IRL,2025-02-21,2025-02-23,1686,1501,2.5,5,1.16,40,46.4,"Biswal, Saiansh",,1665.0,False,IRL,1.0,1,0.72,40,28.8

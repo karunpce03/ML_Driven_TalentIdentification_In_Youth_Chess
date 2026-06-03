@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33463727,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.5,4,0.0,1245,,"Sam, Yedidiah S",,1693.0,False,IND,0.0,1,0.0,,0.0
+33463727,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.5,4,0.0,1245,,"Vinoo, Varshan N",,1545.0,False,IND,0.5,1,0.0,,0.0
+33463727,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.5,4,0.0,1245,,"Radwin, R",,1487.0,False,IND,0.0,1,0.0,,0.0
+33463727,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.5,4,0.0,1245,,"Kavin, Prakash",,1544.0,False,IND,0.0,1,0.0,,0.0
+33463727,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.0,7,0.0,1498,,"Marimuthu, K",,1747.0,False,IND,0.0,1,0.0,,0.0
+33463727,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.0,7,0.0,1498,,"Jairam, P",,1541.0,False,IND,0.5,1,0.0,,0.0
+33463727,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.0,7,0.0,1498,,"Gowtham, K P",,1556.0,False,IND,0.0,1,0.0,,0.0
+33463727,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.0,7,0.0,1498,,"Subramanian, P V",,1498.0,False,IND,0.5,1,0.0,,0.0
+33463727,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.0,7,0.0,1498,,"Paarventhan, M D",,1496.0,False,IND,0.5,1,0.0,,0.0
+33463727,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.0,7,0.0,1498,,"Vijayamurugan, N G",,1438.0,False,IND,0.5,1,0.0,,0.0
+33463727,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.0,7,0.0,1498,,"Indhumathi, R",,1557.0,False,IND,1.0,1,0.0,,0.0
+33463727,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1771.0,1482.0,0.0,1,-0.16,40,-6.4,"Sunil Dev, S",,1771.0,False,IND,0.0,1,-0.16,40.0,-6.4

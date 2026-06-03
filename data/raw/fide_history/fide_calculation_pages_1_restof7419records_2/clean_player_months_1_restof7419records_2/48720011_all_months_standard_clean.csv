@@ -1,0 +1,17 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48720011,2024-06-01,0,6th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-27,2024-04-28,1453.0,1451.0,0.0,2,-1.0,40,-40.0,"Vyom, Jain",,1453.0,False,NGR,0.0,1,-0.5,40.0,-20.0
+48720011,2024-06-01,0,6th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-27,2024-04-28,1453.0,1451.0,0.0,2,-1.0,40,-40.0,"Deshmukh, Omm",,1453.0,False,IND,0.0,1,-0.5,40.0,-20.0
+48720011,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1610.0,1411.0,0.0,3,-0.83,40,-33.2,"Marcos, Marvin",,1811.0,True,PHI,0.0,1,-0.08,40.0,-3.2
+48720011,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1610.0,1411.0,0.0,3,-0.83,40,-33.2,"Sinno , Abdul Salam",,1605.0,False,LBN,0.0,1,-0.25,40.0,-10.0
+48720011,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1610.0,1411.0,0.0,3,-0.83,40,-33.2,"Barut, Omer",,1413.0,False,TUR,0.0,1,-0.5,40.0,-20.0
+48720011,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1644.0,1411.0,0.0,3,-0.66,40,-26.4,"Shashish, Subbiah",,1767.0,False,IND,0.0,1,-0.11,40.0,-4.4
+48720011,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1644.0,1411.0,0.0,3,-0.66,40,-26.4,"Vaibhav, Krishnan K P",,1630.0,False,IND,0.0,1,-0.22,40.0,-8.8
+48720011,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1644.0,1411.0,0.0,3,-0.66,40,-26.4,"Subin, Kurian Thomas",,1536.0,False,IND,0.0,1,-0.33,40.0,-13.2
+48720011,2024-11-01,0,Chess Lab Classic Rating Invitational,Dubai UAE,2024-09-20,2024-09-28,,,3.0,6,0.0,1462,,"Hofilena, Nino Francisco Iv",,1444.0,False,PHI,0.5,1,0.0,,0.0
+48720011,2024-11-01,0,Chess Lab Classic Rating Invitational,Dubai UAE,2024-09-20,2024-09-28,,,3.0,6,0.0,1462,,"Lobo, Dhruv",,1550.0,False,NED,0.0,1,0.0,,0.0
+48720011,2024-11-01,0,Chess Lab Classic Rating Invitational,Dubai UAE,2024-09-20,2024-09-28,,,3.0,6,0.0,1462,,"Minesh, Patil",,1438.0,False,IND,1.0,1,0.0,,0.0
+48720011,2024-11-01,0,Chess Lab Classic Rating Invitational,Dubai UAE,2024-09-20,2024-09-28,,,3.0,6,0.0,1462,,"Rajendra, Sawant",,1446.0,False,IND,0.5,1,0.0,,0.0
+48720011,2024-11-01,0,Chess Lab Classic Rating Invitational,Dubai UAE,2024-09-20,2024-09-28,,,3.0,6,0.0,1462,,"Goel, Vivan",,1403.0,False,IND,0.5,1,0.0,,0.0
+48720011,2024-11-01,0,Chess Lab Classic Rating Invitational,Dubai UAE,2024-09-20,2024-09-28,,,3.0,6,0.0,1462,,"Vir, Dhawan",,1491.0,False,IND,0.5,1,0.0,,0.0
+48720011,2025-01-01,0,Chess Lab U1800 Classic Tournament-November,Dubai UAE,2024-11-29,2024-11-30,1553.0,1547.0,2.0,2,1.02,40,40.8,"Deshmukh, Omm",,1519.0,False,IND,1.0,1,0.46,40.0,18.4
+48720011,2025-01-01,0,Chess Lab U1800 Classic Tournament-November,Dubai UAE,2024-11-29,2024-11-30,1553.0,1547.0,2.0,2,1.02,40,40.8,"Al-Ali, Leith",,1587.0,False,ENG,1.0,1,0.56,40.0,22.4

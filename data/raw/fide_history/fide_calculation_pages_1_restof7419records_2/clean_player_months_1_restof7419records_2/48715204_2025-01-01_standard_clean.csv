@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48715204,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1708,1600,3.0,6,0.85,40,34.0,"Prakul, A",,1805.0,False,IND,1.0,1,0.76,40,30.4
+48715204,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1708,1600,3.0,6,0.85,40,34.0,"Mithiran, A",,1752.0,False,IND,0.5,1,0.2,40,8.0
+48715204,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1708,1600,3.0,6,0.85,40,34.0,"Siva, Adithyan S",,1736.0,False,IND,0.5,1,0.18,40,7.2
+48715204,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1708,1600,3.0,6,0.85,40,34.0,"Kanishkaraj, V",,1724.0,False,IND,0.0,1,-0.33,40,-13.2
+48715204,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1708,1600,3.0,6,0.85,40,34.0,"Shravan, V",,1481.0,False,IND,1.0,1,0.34,40,13.6
+48715204,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1708,1600,3.0,6,0.85,40,34.0,"Pradiksha, P S",,1748.0,False,IND,0.0,1,-0.3,40,-12.0

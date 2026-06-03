@@ -1,0 +1,47 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33478902,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1725,1675,5.5,7,2.44,40,97.6,"Anup, Shankar R",,1968.0,False,IND,0.0,1,-0.15,40,-6.0
+33478902,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1725,1675,5.5,7,2.44,40,97.6,"Raghvendra, Kumar Mishra",,1764.0,False,IND,1.0,1,0.62,40,24.8
+33478902,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1725,1675,5.5,7,2.44,40,97.6,"Priyanshu, Thakur",,1615.0,False,IND,1.0,1,0.42,40,16.8
+33478902,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1725,1675,5.5,7,2.44,40,97.6,"Dev, Raj",,1744.0,False,IND,1.0,1,0.6,40,24.0
+33478902,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1725,1675,5.5,7,2.44,40,97.6,"Shivraj, Meena",,1546.0,False,IND,1.0,1,0.33,40,13.2
+33478902,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1725,1675,5.5,7,2.44,40,97.6,"Pritish, Vashisht",,1754.0,False,IND,1.0,1,0.61,40,24.4
+33478902,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1725,1675,5.5,7,2.44,40,97.6,"Godhani, Maharth",,1684.0,False,IND,0.5,1,0.01,40,0.4
+33478902,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1889,1773,4.5,10,0.75,40,30.0,"Arshpreet, Singh",,1970.0,False,IND,1.0,1,0.75,40,30.0
+33478902,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1889,1773,4.5,10,0.75,40,30.0,"Arul, Prakash N",,1932.0,False,IND,0.5,1,0.21,40,8.4
+33478902,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1889,1773,4.5,10,0.75,40,30.0,"Arya, G Mallar",,1836.0,False,IND,1.0,1,0.59,40,23.6
+33478902,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1889,1773,4.5,10,0.75,40,30.0,"Md, Bashiq Imrose",c,2140.0,False,IND,1.0,1,0.9,40,36.0
+33478902,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1889,1773,4.5,10,0.75,40,30.0,"Nandish, V S",,2173.0,True,IND,0.0,1,-0.08,40,-3.2
+33478902,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1889,1773,4.5,10,0.75,40,30.0,"Mukund, Hemant Agarwal",,2132.0,False,IND,0.0,1,-0.1,40,-4.0
+33478902,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1889,1773,4.5,10,0.75,40,30.0,"Sundram, Kumar",,1869.0,False,IND,0.0,1,-0.37,40,-14.8
+33478902,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1889,1773,4.5,10,0.75,40,30.0,"Shabadjot, Singh",,1600.0,False,IND,0.0,1,-0.73,40,-29.2
+33478902,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1889,1773,4.5,10,0.75,40,30.0,"Vivaan, Mittal",,1627.0,False,IND,0.5,1,-0.2,40,-8.0
+33478902,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1889,1773,4.5,10,0.75,40,30.0,"Om, Sagar",,1608.0,False,IND,0.5,1,-0.22,40,-8.8
+33478902,2024-08-01,0,3rd H.P. Senior State FIDE Rated Chess Championship - 2024,Bilaspur IND,2024-07-26,2024-07-28,1607,1773,6.0,7,1.01,40,40.4,"Mayur, Saxena",,1482.0,False,IND,1.0,1,0.15,40,6.0
+33478902,2024-08-01,0,3rd H.P. Senior State FIDE Rated Chess Championship - 2024,Bilaspur IND,2024-07-26,2024-07-28,1607,1773,6.0,7,1.01,40,40.4,"Ahmed, Aftab",,1574.0,False,IND,1.0,1,0.24,40,9.6
+33478902,2024-08-01,0,3rd H.P. Senior State FIDE Rated Chess Championship - 2024,Bilaspur IND,2024-07-26,2024-07-28,1607,1773,6.0,7,1.01,40,40.4,"Ritesh, Bhardwaj",,1614.0,False,IND,0.5,1,-0.21,40,-8.4
+33478902,2024-08-01,0,3rd H.P. Senior State FIDE Rated Chess Championship - 2024,Bilaspur IND,2024-07-26,2024-07-28,1607,1773,6.0,7,1.01,40,40.4,"Sanjeev, Vekta",,1719.0,False,IND,1.0,1,0.42,40,16.8
+33478902,2024-08-01,0,3rd H.P. Senior State FIDE Rated Chess Championship - 2024,Bilaspur IND,2024-07-26,2024-07-28,1607,1773,6.0,7,1.01,40,40.4,"Gaurav, Sunil Dutt Rana",,1573.0,False,IND,0.5,1,-0.26,40,-10.4
+33478902,2024-08-01,0,3rd H.P. Senior State FIDE Rated Chess Championship - 2024,Bilaspur IND,2024-07-26,2024-07-28,1607,1773,6.0,7,1.01,40,40.4,"Pranav, Singh",,1543.0,False,IND,1.0,1,0.21,40,8.4
+33478902,2024-08-01,0,3rd H.P. Senior State FIDE Rated Chess Championship - 2024,Bilaspur IND,2024-07-26,2024-07-28,1607,1773,6.0,7,1.01,40,40.4,"Suryansh, Verma",,1747.0,False,IND,1.0,1,0.46,40,18.4
+33478902,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1870,1843,6.0,11,0.87,40,34.8,"Anagha, Yardi",,1485.0,False,IND,0.5,1,-0.4,40,-16.0
+33478902,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1870,1843,6.0,11,0.87,40,34.8,"Shreyansh, Sahu",,1545.0,False,IND,1.0,1,0.15,40,6.0
+33478902,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1870,1843,6.0,11,0.87,40,34.8,"Nirnay, Garg",,2045.0,False,IND,1.0,1,0.76,40,30.4
+33478902,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1870,1843,6.0,11,0.87,40,34.8,"Sriram, Jha",g,2243.0,True,IND,0.0,1,-0.08,40,-3.2
+33478902,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1870,1843,6.0,11,0.87,40,34.8,"Lakshmi, Charan Naidu G",,2007.0,False,IND,0.5,1,0.22,40,8.8
+33478902,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1870,1843,6.0,11,0.87,40,34.8,"Naveen, Kumar P",,2065.0,False,IND,0.5,1,0.28,40,11.2
+33478902,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1870,1843,6.0,11,0.87,40,34.8,"Aadik, Theophane Lenin",,1995.0,False,IND,0.0,1,-0.3,40,-12.0
+33478902,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1870,1843,6.0,11,0.87,40,34.8,"Borate, Tanvi",,1725.0,False,IND,1.0,1,0.34,40,13.6
+33478902,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1870,1843,6.0,11,0.87,40,34.8,"Harshit, Ranjan Sahu",,2003.0,False,IND,0.0,1,-0.29,40,-11.6
+33478902,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1870,1843,6.0,11,0.87,40,34.8,"Vismay, Sachar",,1724.0,False,IND,0.5,1,-0.16,40,-6.4
+33478902,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1870,1843,6.0,11,0.87,40,34.8,"Rithwik, Reddy Upparigudam",,1735.0,False,IND,1.0,1,0.35,40,14.0
+33478902,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1828,1878,7.5,11,1.31,40,52.4,"Amiyanshu, Bhowal",,1576.0,False,IND,1.0,1,0.15,40,6.0
+33478902,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1828,1878,7.5,11,1.31,40,52.4,"Adhrit, Das Purkayastha",,1700.0,False,IND,1.0,1,0.27,40,10.8
+33478902,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1828,1878,7.5,11,1.31,40,52.4,"Shreyaskar, Tanti",,1776.0,False,IND,0.5,1,-0.14,40,-5.6
+33478902,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1828,1878,7.5,11,1.31,40,52.4,"Abhigyan, Das",,1770.0,False,IND,1.0,1,0.35,40,14.0
+33478902,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1828,1878,7.5,11,1.31,40,52.4,"Rosh, Jain",f,2076.0,False,IND,0.0,1,-0.24,40,-9.6
+33478902,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1828,1878,7.5,11,1.31,40,52.4,"Shreyas, Mishra",,1750.0,False,IND,0.5,1,-0.17,40,-6.8
+33478902,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1828,1878,7.5,11,1.31,40,52.4,"Prakhar, Tripathi",,1748.0,False,IND,1.0,1,0.32,40,12.8
+33478902,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1828,1878,7.5,11,1.31,40,52.4,"Prajeesh, B U",,1779.0,False,IND,1.0,1,0.36,40,14.4
+33478902,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1828,1878,7.5,11,1.31,40,52.4,"Chinmay, Kowshik",,1959.0,False,IND,1.0,1,0.61,40,24.4
+33478902,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1828,1878,7.5,11,1.31,40,52.4,"Puneet, Verma",,2029.0,False,IND,0.5,1,0.2,40,8.0
+33478902,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1828,1878,7.5,11,1.31,40,52.4,"Tanmay, Rajbongshi",,1949.0,False,IND,0.0,1,-0.4,40,-16.0

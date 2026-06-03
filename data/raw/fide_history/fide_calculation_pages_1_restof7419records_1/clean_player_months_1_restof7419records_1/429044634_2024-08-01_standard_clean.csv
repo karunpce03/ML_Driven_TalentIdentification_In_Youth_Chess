@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429044634,2024-08-01,0,Aditya Birla Memorial 23rd Jharkhand State FIDE Rating Chess Championship - 2024,Ranchi IND,2024-07-20,2024-07-23,1630,1424,1.0,4,0.02,40,0.8,"Debanjan, Sinha",,1724.0,False,IND,0.0,1,-0.15,40,-6.0
+429044634,2024-08-01,0,Aditya Birla Memorial 23rd Jharkhand State FIDE Rating Chess Championship - 2024,Ranchi IND,2024-07-20,2024-07-23,1630,1424,1.0,4,0.02,40,0.8,"Rabindra, Kumar",,1543.0,False,IND,1.0,1,0.66,40,26.4
+429044634,2024-08-01,0,Aditya Birla Memorial 23rd Jharkhand State FIDE Rating Chess Championship - 2024,Ranchi IND,2024-07-20,2024-07-23,1630,1424,1.0,4,0.02,40,0.8,"Ajay, Kumar",,1572.0,False,IND,0.0,1,-0.3,40,-12.0
+429044634,2024-08-01,0,Aditya Birla Memorial 23rd Jharkhand State FIDE Rating Chess Championship - 2024,Ranchi IND,2024-07-20,2024-07-23,1630,1424,1.0,4,0.02,40,0.8,"Nishant, Ketu",,1679.0,False,IND,0.0,1,-0.19,40,-7.6

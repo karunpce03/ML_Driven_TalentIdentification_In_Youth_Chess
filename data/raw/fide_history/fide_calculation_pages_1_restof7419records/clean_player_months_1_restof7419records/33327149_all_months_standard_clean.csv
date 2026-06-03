@@ -1,0 +1,24 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33327149,2024-05-01,0,12th KT Global School All Odisha Open FIDE Rated Chess Tournament-2024,Khorda IND,2024-04-11,2024-04-15,1573.0,1403.0,0.5,2,-0.06,40,-2.4,"Sahu, Biswajit",,1597.0,False,IND,0.5,1,0.25,40.0,10.0
+33327149,2024-05-01,0,12th KT Global School All Odisha Open FIDE Rated Chess Tournament-2024,Khorda IND,2024-04-11,2024-04-15,1573.0,1403.0,0.5,2,-0.06,40,-2.4,"Subhransu, Sekhar Dash",,1548.0,False,IND,0.0,1,-0.31,40.0,-12.4
+33327149,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,1670.0,1401.0,0.0,3,-0.53,40,-21.2,"Pratyasha, Jena",,1727.0,False,IND,0.0,1,-0.13,40.0,-5.2
+33327149,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,1670.0,1401.0,0.0,3,-0.53,40,-21.2,"Satyabrata, Rao",,1641.0,False,IND,0.0,1,-0.2,40.0,-8.0
+33327149,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,1670.0,1401.0,0.0,3,-0.53,40,-21.2,"Bidhu Bhusan, Mishra",,1641.0,False,IND,0.0,1,-0.2,40.0,-8.0
+33327149,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1382,,"Samyakta, Gupta",,1435.0,False,IND,0.0,1,0.0,,0.0
+33327149,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1382,,"Eshani, Choudhury",,1420.0,False,IND,1.0,1,0.0,,0.0
+33327149,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1382,,"Laksna, Sri R",,1461.0,False,IND,0.5,1,0.0,,0.0
+33327149,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1382,,"Srinika, S",,1521.0,False,IND,0.0,1,0.0,,0.0
+33327149,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1382,,"Adya, Kalra",,1465.0,False,IND,1.0,1,0.0,,0.0
+33327149,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1382,,"Nakshatra, Gumudavelly",,1447.0,False,IND,0.5,1,0.0,,0.0
+33327149,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1382,,"Meha, Arin A",,1462.0,False,IND,0.5,1,0.0,,0.0
+33327149,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1382,,"Janvi, Mallya",,1456.0,False,IND,0.0,1,0.0,,0.0
+33327149,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1382,,"Ankita, Raj",,1447.0,False,IND,0.5,1,0.0,,0.0
+33327149,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1382,,"Dishi, Makhija",,1424.0,False,IND,0.0,1,0.0,,0.0
+33327149,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1563.0,1455.0,2.0,4,0.59,40,23.6,"Kale, Shivam",,1570.0,False,IND,1.0,1,0.66,40.0,26.4
+33327149,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1563.0,1455.0,2.0,4,0.59,40,23.6,"Asit, Kumar Mohanty",,1545.0,False,IND,1.0,1,0.62,40.0,24.8
+33327149,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1563.0,1455.0,2.0,4,0.59,40,23.6,"Soni, Shubham",,1594.0,False,IND,0.0,1,-0.31,40.0,-12.4
+33327149,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1563.0,1455.0,2.0,4,0.59,40,23.6,"Amarjeet, Singh Bagga",,1541.0,False,IND,0.0,1,-0.38,40.0,-15.2
+33327149,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1548.0,1479.0,0.0,4,-1.64,40,-65.6,"Charudharshini, R",,1683.0,False,IND,0.0,1,-0.24,40.0,-9.6
+33327149,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1548.0,1479.0,0.0,4,-1.64,40,-65.6,"Anvita, Sathi",,1603.0,False,IND,0.0,1,-0.33,40.0,-13.2
+33327149,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1548.0,1479.0,0.0,4,-1.64,40,-65.6,"Sreesha, Kandi",,1504.0,False,IND,0.0,1,-0.47,40.0,-18.8
+33327149,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1548.0,1479.0,0.0,4,-1.64,40,-65.6,"Srilasya, Bonala",,1403.0,False,IND,0.0,1,-0.6,40.0,-24.0

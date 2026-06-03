@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25789457,2024-10-01,0,Vezerkepzo IM August 2024,Budapest HUN,2024-08-28,2024-09-05,2250,2200,4.5,9,0.59,40,23.6,"Neverov, Valeriy",g,2412.0,False,UKR,0.5,1,0.27,40,10.8
+25789457,2024-10-01,0,Vezerkepzo IM August 2024,Budapest HUN,2024-08-28,2024-09-05,2250,2200,4.5,9,0.59,40,23.6,"Pavan, Karthikeya Varma Gunturi",,2071.0,False,IND,0.0,1,-0.67,40,-26.8
+25789457,2024-10-01,0,Vezerkepzo IM August 2024,Budapest HUN,2024-08-28,2024-09-05,2250,2200,4.5,9,0.59,40,23.6,"Pang, Ethan",c,2266.0,False,ENG,0.5,1,0.09,40,3.6
+25789457,2024-10-01,0,Vezerkepzo IM August 2024,Budapest HUN,2024-08-28,2024-09-05,2250,2200,4.5,9,0.59,40,23.6,"Cong, Dingzhou",,2074.0,False,CHN,0.0,1,-0.67,40,-26.8
+25789457,2024-10-01,0,Vezerkepzo IM August 2024,Budapest HUN,2024-08-28,2024-09-05,2250,2200,4.5,9,0.59,40,23.6,"Jakab, Attila",m,2252.0,False,HUN,1.0,1,0.57,40,22.8
+25789457,2024-10-01,0,Vezerkepzo IM August 2024,Budapest HUN,2024-08-28,2024-09-05,2250,2200,4.5,9,0.59,40,23.6,"Pacher, Milan",g,2365.0,False,SVK,1.0,1,0.72,40,28.8
+25789457,2024-10-01,0,Vezerkepzo IM August 2024,Budapest HUN,2024-08-28,2024-09-05,2250,2200,4.5,9,0.59,40,23.6,"Czebe, Attila",g,2302.0,False,HUN,0.5,1,0.14,40,5.6
+25789457,2024-10-01,0,Vezerkepzo IM August 2024,Budapest HUN,2024-08-28,2024-09-05,2250,2200,4.5,9,0.59,40,23.6,"Varga, Zoltan",g,2321.0,False,HUN,1.0,1,0.66,40,26.4
+25789457,2024-10-01,0,Vezerkepzo IM August 2024,Budapest HUN,2024-08-28,2024-09-05,2250,2200,4.5,9,0.59,40,23.6,"Nemeth, Zalan",f,2185.0,False,IRL,0.0,1,-0.52,40,-20.8

@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25697307,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1834,1868,6.0,8,1.57,40,62.8,"Goswami, Dr.arvind",,1596.0,False,IND,1.0,1,0.17,40,6.8
+25697307,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1834,1868,6.0,8,1.57,40,62.8,"Prithvi, Sharma",,1858.0,False,IND,1.0,1,0.49,40,19.6
+25697307,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1834,1868,6.0,8,1.57,40,62.8,"Aronyak, Ghosh",c,2268.0,True,IND,0.0,1,-0.08,40,-3.2
+25697307,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1834,1868,6.0,8,1.57,40,62.8,"Sourabh, Kochar",,1468.0,True,IND,1.0,1,0.08,40,3.2
+25697307,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1834,1868,6.0,8,1.57,40,62.8,"Adireddy, Arjun",f,2268.0,True,IND,0.0,1,-0.08,40,-3.2
+25697307,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1834,1868,6.0,8,1.57,40,62.8,"Shreyash, Singh",,1807.0,False,IND,1.0,1,0.42,40,16.8
+25697307,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1834,1868,6.0,8,1.57,40,62.8,"Ardhendu, Sekhar Mandal",,1654.0,False,IND,1.0,1,0.23,40,9.2
+25697307,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1834,1868,6.0,8,1.57,40,62.8,"Mangal, Prasad",,1750.0,False,IND,1.0,1,0.34,40,13.6
+25697307,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1937,1868,3.5,9,-0.25,40,-10.0,"Karavade, Eesha",m wg,2265.0,False,IND,0.0,1,-0.08,40,-3.2
+25697307,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1937,1868,3.5,9,-0.25,40,-10.0,"Tobin, Paul Nicholas",,1596.0,False,SGP,0.0,1,-0.83,40,-33.2
+25697307,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1937,1868,3.5,9,-0.25,40,-10.0,"Shaffer, Alexander",,1752.0,False,PUR,1.0,1,0.34,40,13.6
+25697307,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1937,1868,3.5,9,-0.25,40,-10.0,"Lee, Tsuen Jin Aiesec",,1599.0,False,SGP,1.0,1,0.17,40,6.8
+25697307,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1937,1868,3.5,9,-0.25,40,-10.0,"Kumar, Gaurav",f,2082.0,False,IND,0.5,1,0.27,40,10.8
+25697307,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1937,1868,3.5,9,-0.25,40,-10.0,"Sidabutar, Uriel Noah Oloan",,2090.0,False,INA,0.5,1,0.28,40,11.2
+25697307,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1937,1868,3.5,9,-0.25,40,-10.0,"Skiotis, Pano",,2053.0,False,AUS,0.0,1,-0.26,40,-10.4
+25697307,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1937,1868,3.5,9,-0.25,40,-10.0,"Thompson, Ian D",f,2009.0,False,ENG,0.5,1,0.19,40,7.6
+25697307,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1937,1868,3.5,9,-0.25,40,-10.0,"Ilmoni, Tommy",,1990.0,False,FIN,0.0,1,-0.33,40,-13.2

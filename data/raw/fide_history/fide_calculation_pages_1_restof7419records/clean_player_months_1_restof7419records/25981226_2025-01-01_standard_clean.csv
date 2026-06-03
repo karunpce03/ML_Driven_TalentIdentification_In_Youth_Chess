@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25981226,2025-01-01,0,Southall FIDE Congress 14-15 December - U2400,London ENG,2024-12-14,2024-12-15,1911,1893,1.0,5,-1.37,40,-54.8,"Oragwu, Chukwunonso",f,2088.0,False,NGR,0.0,1,-0.25,40,-10.0
+25981226,2025-01-01,0,Southall FIDE Congress 14-15 December - U2400,London ENG,2024-12-14,2024-12-15,1911,1893,1.0,5,-1.37,40,-54.8,"Plotnikov, Matvii",,1640.0,False,ITA,0.0,1,-0.81,40,-32.4
+25981226,2025-01-01,0,Southall FIDE Congress 14-15 December - U2400,London ENG,2024-12-14,2024-12-15,1911,1893,1.0,5,-1.37,40,-54.8,"Dincer, Mehmet Alper",,1849.0,False,TUR,0.5,1,-0.06,40,-2.4
+25981226,2025-01-01,0,Southall FIDE Congress 14-15 December - U2400,London ENG,2024-12-14,2024-12-15,1911,1893,1.0,5,-1.37,40,-54.8,"Soulier, Alfred",,1913.0,False,ENG,0.5,1,0.03,40,1.2
+25981226,2025-01-01,0,Southall FIDE Congress 14-15 December - U2400,London ENG,2024-12-14,2024-12-15,1911,1893,1.0,5,-1.37,40,-54.8,"Bharat Kumar, Balahari",,2063.0,False,ENG,0.0,1,-0.28,40,-11.2

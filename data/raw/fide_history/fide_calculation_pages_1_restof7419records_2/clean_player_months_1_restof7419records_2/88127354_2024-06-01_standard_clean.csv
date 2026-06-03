@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88127354,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1502,1563,4.0,6,0.5,40,20.0,"Al Maawali, Yousuf",,1512.0,False,OMA,1.0,1,0.43,40,17.2
+88127354,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1502,1563,4.0,6,0.5,40,20.0,"Al Jabri, Sultan Ahmed",,1416.0,False,OMA,1.0,1,0.3,40,12.0
+88127354,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1502,1563,4.0,6,0.5,40,20.0,"Al Mahrouqi, Mohammed",,1466.0,False,OMA,1.0,1,0.37,40,14.8
+88127354,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1502,1563,4.0,6,0.5,40,20.0,"Al Bulushi, Omar",,1446.0,False,OMA,0.5,1,-0.16,40,-6.4
+88127354,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1502,1563,4.0,6,0.5,40,20.0,"Shybi, Binoj",,1761.0,False,IND,0.0,1,-0.24,40,-9.6
+88127354,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1502,1563,4.0,6,0.5,40,20.0,"Al Rasbi, Al Hasan",,1411.0,False,OMA,0.5,1,-0.2,40,-8.0

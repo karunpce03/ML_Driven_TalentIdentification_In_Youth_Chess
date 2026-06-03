@@ -1,0 +1,26 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33396280,2024-06-01,0,33rd Annual Chicago Open - U2100,"Wheeling, IL USA",2024-05-24,2024-05-27,,,0.5,5,0.0,1408,,"Singi, Advay",,1811.0,False,USA,0.0,1,0.0,,0.0
+33396280,2024-06-01,0,33rd Annual Chicago Open - U2100,"Wheeling, IL USA",2024-05-24,2024-05-27,,,0.5,5,0.0,1408,,"Bajaj, Arjun",,1738.0,False,USA,0.0,1,0.0,,0.0
+33396280,2024-06-01,0,33rd Annual Chicago Open - U2100,"Wheeling, IL USA",2024-05-24,2024-05-27,,,0.5,5,0.0,1408,,"He, Alvin",,1788.0,False,USA,0.0,1,0.0,,0.0
+33396280,2024-06-01,0,33rd Annual Chicago Open - U2100,"Wheeling, IL USA",2024-05-24,2024-05-27,,,0.5,5,0.0,1408,,"Sundaram, Senthil",,1689.0,False,USA,0.5,1,0.0,,0.0
+33396280,2024-06-01,0,33rd Annual Chicago Open - U2100,"Wheeling, IL USA",2024-05-24,2024-05-27,,,0.5,5,0.0,1408,,"Li, Tanqi",,1846.0,False,USA,0.0,1,0.0,,0.0
+33396280,2024-10-01,0,2024 September Marshall Monthly FIDE - U1800,"New York, NY USA",2024-09-20,2024-09-22,1622.0,1552.0,1.5,3,0.29,40,11.6,"Dinglasan, Matthew",,1640.0,False,USA,0.0,1,-0.38,40.0,-15.2
+33396280,2024-10-01,0,2024 September Marshall Monthly FIDE - U1800,"New York, NY USA",2024-09-20,2024-09-22,1622.0,1552.0,1.5,3,0.29,40,11.6,"Chen, Yidong",,1601.0,False,USA,0.5,1,0.07,40.0,2.8
+33396280,2024-10-01,0,2024 September Marshall Monthly FIDE - U1800,"New York, NY USA",2024-09-20,2024-09-22,1622.0,1552.0,1.5,3,0.29,40,11.6,"Peters, Axel",,1625.0,False,USA,1.0,1,0.6,40.0,24.0
+33396280,2024-11-01,0,2024 October Marshall Premier FIDE - U2000,"New York, NY USA",2024-10-04,2024-10-06,1911.0,1564.0,0.0,1,-0.11,40,-4.4,"Esquivel, Levi Kalani Fogo",,1911.0,False,MEX,0.0,1,-0.11,40.0,-4.4
+33396280,2024-12-01,0,2024 November Marshall Premier FIDE - U2000,"New York, NY USA",2024-11-01,2024-11-03,1708.0,1560.0,0.0,2,-0.61,40,-24.4,"Dubey, Shiv",,1720.0,False,USA,0.0,1,-0.29,40.0,-11.6
+33396280,2024-12-01,0,2024 November Marshall Premier FIDE - U2000,"New York, NY USA",2024-11-01,2024-11-03,1708.0,1560.0,0.0,2,-0.61,40,-24.4,"Su, Milo",,1695.0,False,USA,0.0,1,-0.32,40.0,-12.8
+33396280,2024-12-01,0,2024 Jeremy Simon Memorial - Marshall CC Amateur Championship,"New York, NY USA",2024-11-22,2024-11-24,1872.0,1560.0,0.0,2,-0.28,40,-11.2,"Tao, Jeremy",,1837.0,False,USA,0.0,1,-0.17,40.0,-6.8
+33396280,2024-12-01,0,2024 Jeremy Simon Memorial - Marshall CC Amateur Championship,"New York, NY USA",2024-11-22,2024-11-24,1872.0,1560.0,0.0,2,-0.28,40,-11.2,"Diamond, Colin",,1906.0,False,USA,0.0,1,-0.11,40.0,-4.4
+33396280,2025-01-01,0,2024 December Marshall Monthly FIDE - U2400,"New York, NY USA",2024-12-20,2024-12-22,1775.0,1524.0,2.5,4,1.69,40,67.6,"Goel, Raben",,1753.0,False,USA,0.5,1,0.29,40.0,11.6
+33396280,2025-01-01,0,2024 December Marshall Monthly FIDE - U2400,"New York, NY USA",2024-12-20,2024-12-22,1775.0,1524.0,2.5,4,1.69,40,67.6,"Zhou, Abigail",wc,1773.0,False,USA,0.5,1,0.31,40.0,12.4
+33396280,2025-01-01,0,2024 December Marshall Monthly FIDE - U2400,"New York, NY USA",2024-12-20,2024-12-22,1775.0,1524.0,2.5,4,1.69,40,67.6,"Kashyap, Manish",,1648.0,False,USA,1.0,1,0.67,40.0,26.8
+33396280,2025-01-01,0,2024 December Marshall Monthly FIDE - U2400,"New York, NY USA",2024-12-20,2024-12-22,1775.0,1524.0,2.5,4,1.69,40,67.6,"You, Eden",,1924.0,True,USA,0.5,1,0.42,40.0,16.8
+33396280,2025-02-01,0,57th annual Liberty Bell Open - U2100,"Philadelphia, PA USA",2025-01-17,2025-01-20,1598.0,1592.0,0.5,2,-0.48,40,-19.2,"Bossola, Rio",,1567.0,False,USA,0.5,1,-0.03,40.0,-1.2
+33396280,2025-02-01,0,57th annual Liberty Bell Open - U2100,"Philadelphia, PA USA",2025-01-17,2025-01-20,1598.0,1592.0,0.5,2,-0.48,40,-19.2,"Raghur, Advaith",,1629.0,False,USA,0.0,1,-0.45,40.0,-18.0
+33396280,2025-03-01,0,2025 February Marshall Monthly FIDE - U2400,"New York, NY USA",2025-02-21,2025-02-23,1684.0,1573.0,1.0,3,-0.06,40,-2.4,"Pang, Owen J",,1641.0,False,USA,0.0,1,-0.41,40.0,-16.4
+33396280,2025-03-01,0,2025 February Marshall Monthly FIDE - U2400,"New York, NY USA",2025-02-21,2025-02-23,1684.0,1573.0,1.0,3,-0.06,40,-2.4,"Nguyen, Sarah",,1725.0,False,USA,0.5,1,0.2,40.0,8.0
+33396280,2025-03-01,0,2025 February Marshall Monthly FIDE - U2400,"New York, NY USA",2025-02-21,2025-02-23,1684.0,1573.0,1.0,3,-0.06,40,-2.4,"Yu, Allyson",,1686.0,False,USA,0.5,1,0.15,40.0,6.0
+33396280,2025-04-01,0,2025 March Marshall Monthly FIDE - U2400,"New York, NY USA",2025-03-21,2025-03-23,1870.0,1571.0,0.0,3,-0.45,40,-18.0,"Paruchuri, Naveen",,1848.0,False,USA,0.0,1,-0.17,40.0,-6.8
+33396280,2025-04-01,0,2025 March Marshall Monthly FIDE - U2400,"New York, NY USA",2025-03-21,2025-03-23,1870.0,1571.0,0.0,3,-0.45,40,-18.0,"Sarwar, Sawyer L",,1828.0,False,USA,0.0,1,-0.18,40.0,-7.2
+33396280,2025-04-01,0,2025 March Marshall Monthly FIDE - U2400,"New York, NY USA",2025-03-21,2025-03-23,1870.0,1571.0,0.0,3,-0.45,40,-18.0,"Raitzin, Misha",,1934.0,False,USA,0.0,1,-0.1,40.0,-4.0

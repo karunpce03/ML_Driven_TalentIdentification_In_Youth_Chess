@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88170845,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,,,0.0,4,0.0,667,,"Nehan, Abdullah",,1564.0,False,BAN,0.0,1,0.0,,0.0
+88170845,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,,,0.0,4,0.0,667,,"Hamad, Ali.",,1413.0,False,SYR,0.0,1,0.0,,0.0
+88170845,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,,,0.0,4,0.0,667,,"Sulaiman, Hussain",,1430.0,False,KUW,0.0,1,0.0,,0.0
+88170845,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,,,0.0,4,0.0,667,,"Nitesh, Vidyasagar",,1462.0,False,IND,0.0,1,0.0,,0.0
+88170845,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,,,1.0,5,0.0,1273,,"Alduwaisan, Hamad",,1551.0,False,KUW,0.0,1,0.0,,0.0
+88170845,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,,,1.0,5,0.0,1273,,"Alonaizi, Abdullah",,1581.0,False,KUW,1.0,1,0.0,,0.0
+88170845,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,,,1.0,5,0.0,1273,,"Novio, Pablo Jr",,1488.0,False,PHI,0.0,1,0.0,,0.0
+88170845,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,,,1.0,5,0.0,1273,,"Awadh, Mohammad",,1523.0,False,KUW,0.0,1,0.0,,0.0
+88170845,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,,,1.0,5,0.0,1273,,"Safar, Hussain",,1420.0,False,KUW,0.0,1,0.0,,0.0
+88170845,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1617.0,1437.0,0.0,4,-1.08,40,-43.2,"Nishaanth, Vidyasagar",,1694.0,False,IND,0.0,1,-0.18,40.0,-7.2
+88170845,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1617.0,1437.0,0.0,4,-1.08,40,-43.2,"Almanaseer, Talal",,1580.0,False,KUW,0.0,1,-0.31,40.0,-12.4
+88170845,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1617.0,1437.0,0.0,4,-1.08,40,-43.2,"Alhasan, Zainah",,1522.0,False,KUW,0.0,1,-0.38,40.0,-15.2
+88170845,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1617.0,1437.0,0.0,4,-1.08,40,-43.2,"Parthieswar, Sai Muppavara",,1672.0,False,IND,0.0,1,-0.21,40.0,-8.4

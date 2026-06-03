@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33385300,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1956,1954,5.5,10,0.47,40,18.8,"Sunetra, Dey",,1652,False,IND,1.0,1,0.15,40,6.0
+33385300,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1956,1954,5.5,10,0.47,40,18.8,"Karthik, Venkataraman",g,2354,True,IND,0.0,1,-0.08,40,-3.2
+33385300,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1956,1954,5.5,10,0.47,40,18.8,"Vakcheri, Mohitha",,1781,False,IND,1.0,1,0.27,40,10.8
+33385300,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1956,1954,5.5,10,0.47,40,18.8,"Medhvansh, Madeti",,1792,False,IND,0.5,1,-0.21,40,-8.4
+33385300,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1956,1954,5.5,10,0.47,40,18.8,"Shreyas, Mishra",,1762,False,IND,0.5,1,-0.25,40,-10.0
+33385300,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1956,1954,5.5,10,0.47,40,18.8,"Koustuv, Dash",,2124,False,IND,0.5,1,0.22,40,8.8
+33385300,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1956,1954,5.5,10,0.47,40,18.8,"Mukund, Hemant Agarwal",,2114,False,IND,0.5,1,0.21,40,8.4
+33385300,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1956,1954,5.5,10,0.47,40,18.8,"Raihaan, Zahid",,2136,False,IND,1.0,1,0.74,40,29.6
+33385300,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1956,1954,5.5,10,0.47,40,18.8,"Daksh, Goyal",,2096,False,IND,0.0,1,-0.31,40,-12.4
+33385300,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1956,1954,5.5,10,0.47,40,18.8,"Rishit, Sharma",,1745,False,IND,0.5,1,-0.27,40,-10.8

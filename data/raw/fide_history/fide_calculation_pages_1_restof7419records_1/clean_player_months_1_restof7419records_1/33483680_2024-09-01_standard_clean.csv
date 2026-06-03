@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33483680,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1593,1452,1.5,5,-0.05,40,-2.0,"Krithik, Muthukumar",,1607.0,False,IND,0.0,1,-0.29,40,-11.6
+33483680,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1593,1452,1.5,5,-0.05,40,-2.0,"Srinika, S",,1598.0,False,IND,0.5,1,0.2,40,8.0
+33483680,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1593,1452,1.5,5,-0.05,40,-2.0,"Ananya, Manisundaram",,1587.0,False,IND,0.0,1,-0.32,40,-12.8
+33483680,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1593,1452,1.5,5,-0.05,40,-2.0,"Sai, Krishna V",,1618.0,False,IND,0.0,1,-0.28,40,-11.2
+33483680,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1593,1452,1.5,5,-0.05,40,-2.0,"Vidyuth, Bharadwaj V",,1553.0,False,IND,1.0,1,0.64,40,25.6

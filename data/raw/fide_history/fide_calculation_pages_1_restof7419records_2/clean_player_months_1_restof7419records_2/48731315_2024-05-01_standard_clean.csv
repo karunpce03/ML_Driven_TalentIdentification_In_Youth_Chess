@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48731315,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1540,1432,1.5,6,-0.62,40,-24.8,"Satyaki, G Gokul",,1585.0,False,IND,0.0,1,-0.3,40,-12.0
+48731315,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1540,1432,1.5,6,-0.62,40,-24.8,"Muthukumar, M",,1548.0,False,IND,0.0,1,-0.34,40,-13.6
+48731315,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1540,1432,1.5,6,-0.62,40,-24.8,Indusheetala,,1527.0,False,IND,1.0,1,0.63,40,25.2
+48731315,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1540,1432,1.5,6,-0.62,40,-24.8,"Dhairyakumar, Mistry",,1571.0,False,IND,0.0,1,-0.31,40,-12.4
+48731315,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1540,1432,1.5,6,-0.62,40,-24.8,"Athulkrishna, P",,1526.0,False,IND,0.5,1,0.13,40,5.2
+48731315,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1540,1432,1.5,6,-0.62,40,-24.8,"Nalan, Arumugam S",,1485.0,False,IND,0.0,1,-0.43,40,-17.2

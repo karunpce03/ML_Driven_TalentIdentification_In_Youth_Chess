@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33403546,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1731,1615,3.5,9,0.36,40,14.4,"Mandryka, Vladislav",,1825.0,False,FID,0.5,1,0.27,40,10.8
+33403546,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1731,1615,3.5,9,0.36,40,14.4,"Delloro, Noli",,1884.0,False,PHI,0.0,1,-0.17,40,-6.8
+33403546,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1731,1615,3.5,9,0.36,40,14.4,"Subasinghe, D D C H",,1749.0,False,SRI,0.0,1,-0.32,40,-12.8
+33403546,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1731,1615,3.5,9,0.36,40,14.4,"Arixander, Johny",,1668.0,False,IND,0.0,1,-0.43,40,-17.2
+33403546,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1731,1615,3.5,9,0.36,40,14.4,"Rashid, Husain Alhammadi",,1654.0,False,UAE,0.5,1,0.05,40,2.0
+33403546,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1731,1615,3.5,9,0.36,40,14.4,"Almaini, Aishah Sarhan",,1779.0,False,UAE,0.0,1,-0.28,40,-11.2
+33403546,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1731,1615,3.5,9,0.36,40,14.4,"Zhilkin, Valeriy",,1716.0,False,TKM,1.0,1,0.64,40,25.6
+33403546,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1731,1615,3.5,9,0.36,40,14.4,"Alazmi, Amani",,1668.0,False,KUW,0.5,1,0.07,40,2.8
+33403546,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1731,1615,3.5,9,0.36,40,14.4,"Bilog, Cecilio",,1634.0,False,PHI,1.0,1,0.53,40,21.2

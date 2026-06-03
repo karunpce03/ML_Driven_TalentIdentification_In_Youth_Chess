@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33472530,2024-11-01,0,Chess Lab Classic Rating Invitational,Dubai UAE,2024-09-20,2024-09-28,1456,1491,2.5,5,-0.24,40,-9.6,"Hofilena, Nino Francisco Iv",,1444.0,False,PHI,1.0,1,0.43,40,17.2
+33472530,2024-11-01,0,Chess Lab Classic Rating Invitational,Dubai UAE,2024-09-20,2024-09-28,1456,1491,2.5,5,-0.24,40,-9.6,"Minesh, Patil",,1438.0,False,IND,0.5,1,-0.07,40,-2.8
+33472530,2024-11-01,0,Chess Lab Classic Rating Invitational,Dubai UAE,2024-09-20,2024-09-28,1456,1491,2.5,5,-0.24,40,-9.6,"Goel, Vivan",,1403.0,False,IND,0.0,1,-0.62,40,-24.8
+33472530,2024-11-01,0,Chess Lab Classic Rating Invitational,Dubai UAE,2024-09-20,2024-09-28,1456,1491,2.5,5,-0.24,40,-9.6,"Lobo, Dhruv",,1550.0,False,NED,0.0,1,-0.42,40,-16.8
+33472530,2024-11-01,0,Chess Lab Classic Rating Invitational,Dubai UAE,2024-09-20,2024-09-28,1456,1491,2.5,5,-0.24,40,-9.6,"Rajendra, Sawant",,1446.0,False,IND,1.0,1,0.44,40,17.6
+33472530,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1496,1491,2.5,4,0.5,40,20.0,"Minesh, Patil",,1414.0,False,IND,0.5,1,-0.11,40,-4.4
+33472530,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1496,1491,2.5,4,0.5,40,20.0,"Goel, Vivan",,1403.0,False,IND,1.0,1,0.38,40,15.2
+33472530,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1496,1491,2.5,4,0.5,40,20.0,"Rajendra, Sawant",,1464.0,False,IND,1.0,1,0.46,40,18.4
+33472530,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1496,1491,2.5,4,0.5,40,20.0,"Tom, Mathew",,1704.0,False,IND,0.0,1,-0.23,40,-9.2

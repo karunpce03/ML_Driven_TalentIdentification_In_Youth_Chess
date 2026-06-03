@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33367060,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1557,1610,5.5,9,0.36,40,14.4,"Aditya, Savalkar",,1848.0,False,IND,0.0,1,-0.2,40,-8.0
+33367060,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1557,1610,5.5,9,0.36,40,14.4,"Iniyan, Gopinathen",,1451.0,False,IND,0.0,1,-0.71,40,-28.4
+33367060,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1557,1610,5.5,9,0.36,40,14.4,"Sai, Keerthi Vasan R",,1430.0,False,IND,1.0,1,0.26,40,10.4
+33367060,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1557,1610,5.5,9,0.36,40,14.4,"Samarth, Ranjan Sahu",,1476.0,False,IND,1.0,1,0.32,40,12.8
+33367060,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1557,1610,5.5,9,0.36,40,14.4,"Dinesh, Reddy Konda",,1414.0,False,IND,0.0,1,-0.75,40,-30.0
+33367060,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1557,1610,5.5,9,0.36,40,14.4,"Shashini, Puvi",,1491.0,False,IND,1.0,1,0.34,40,13.6
+33367060,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1557,1610,5.5,9,0.36,40,14.4,"Daksh, M",,1474.0,False,IND,1.0,1,0.32,40,12.8
+33367060,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1557,1610,5.5,9,0.36,40,14.4,Aryagopal,,1719.0,False,IND,0.5,1,0.15,40,6.0
+33367060,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1557,1610,5.5,9,0.36,40,14.4,"Sinthia, Sarkar",,1708.0,False,IND,1.0,1,0.63,40,25.2

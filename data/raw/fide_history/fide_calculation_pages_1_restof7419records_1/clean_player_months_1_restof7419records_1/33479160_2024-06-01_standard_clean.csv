@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33479160,2024-06-01,0,2024 May Marshall Premier FIDE - U2000,"New York, NY USA",2024-05-03,2024-05-05,1614,1659,1.5,2,0.4,40,16.0,"Schaefer, Sasha Milo",,1781.0,False,USA,0.5,1,0.17,40,6.8
+33479160,2024-06-01,0,2024 May Marshall Premier FIDE - U2000,"New York, NY USA",2024-05-03,2024-05-05,1614,1659,1.5,2,0.4,40,16.0,"Zhou, Audrey",,1447.0,False,USA,1.0,1,0.23,40,9.2
+33479160,2024-06-01,0,11th Cherry Blossom Classic - U2100,"Dulles, VA USA",2024-05-23,2024-05-27,1731,1659,3.5,7,0.62,40,24.8,"Li, Ella Xinyi",,1585.0,False,USA,0.0,1,-0.6,40,-24.0
+33479160,2024-06-01,0,11th Cherry Blossom Classic - U2100,"Dulles, VA USA",2024-05-23,2024-05-27,1731,1659,3.5,7,0.62,40,24.8,"Fitzsimmons, Daniela",,1630.0,False,USA,1.0,1,0.46,40,18.4
+33479160,2024-06-01,0,11th Cherry Blossom Classic - U2100,"Dulles, VA USA",2024-05-23,2024-05-27,1731,1659,3.5,7,0.62,40,24.8,"Hiban, Joshua Daniel",,1857.0,False,USA,0.5,1,0.26,40,10.4
+33479160,2024-06-01,0,11th Cherry Blossom Classic - U2100,"Dulles, VA USA",2024-05-23,2024-05-27,1731,1659,3.5,7,0.62,40,24.8,"Haldankar, Atharva",,1711.0,False,USA,1.0,1,0.57,40,22.8
+33479160,2024-06-01,0,11th Cherry Blossom Classic - U2100,"Dulles, VA USA",2024-05-23,2024-05-27,1731,1659,3.5,7,0.62,40,24.8,"Ari, Srinandasai",,1575.0,False,USA,1.0,1,0.38,40,15.2
+33479160,2024-06-01,0,11th Cherry Blossom Classic - U2100,"Dulles, VA USA",2024-05-23,2024-05-27,1731,1659,3.5,7,0.62,40,24.8,"Panico, Nick F, Iii",,1945.0,False,USA,0.0,1,-0.16,40,-6.4
+33479160,2024-06-01,0,11th Cherry Blossom Classic - U2100,"Dulles, VA USA",2024-05-23,2024-05-27,1731,1659,3.5,7,0.62,40,24.8,"Zhang, Derek",,1815.0,False,USA,0.0,1,-0.29,40,-11.6

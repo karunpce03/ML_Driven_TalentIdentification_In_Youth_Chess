@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25142348,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1736,1471,1.0,4,0.29,40,11.6,"Lalruattluanga, Pautu",,1735.0,False,IND,1.0,1,0.82,40,32.8
+25142348,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1736,1471,1.0,4,0.29,40,11.6,"Konia, Gandhi",,1768.0,False,IND,0.0,1,-0.15,40,-6.0
+25142348,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1736,1471,1.0,4,0.29,40,11.6,"Hage, Lasa Nado",,1711.0,False,IND,0.0,1,-0.2,40,-8.0
+25142348,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1736,1471,1.0,4,0.29,40,11.6,"Ayush, Saha",,1731.0,False,IND,0.0,1,-0.18,40,-7.2

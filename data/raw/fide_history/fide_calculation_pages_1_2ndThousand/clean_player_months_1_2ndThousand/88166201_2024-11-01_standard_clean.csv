@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88166201,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1577,1440,1.5,5,-0.09,40,-3.6,"Sai, Shakti Panda",,1649.0,False,IND,0.0,1,-0.23,40,-9.2
+88166201,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1577,1440,1.5,5,-0.09,40,-3.6,"Panda, Priyabrata",,1585.0,False,IND,0.0,1,-0.31,40,-12.4
+88166201,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1577,1440,1.5,5,-0.09,40,-3.6,"Satya, Narayana G",,1519.0,False,IND,0.5,1,0.11,40,4.4
+88166201,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1577,1440,1.5,5,-0.09,40,-3.6,"Bimal, Basantara",,1529.0,False,IND,1.0,1,0.62,40,24.8
+88166201,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1577,1440,1.5,5,-0.09,40,-3.6,"Gatikrushna, Bhuyan",,1605.0,False,IND,0.0,1,-0.28,40,-11.2

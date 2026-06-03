@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48701300,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1700,1785,2.5,6,-1.14,40,-45.6,"Kvaratskhelia, Giorgi",,1441.0,False,GEO,0.0,1,-0.88,40,-35.2
+48701300,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1700,1785,2.5,6,-1.14,40,-45.6,"Kiringoda, Thehas Rithmitha",,1641.0,False,SRI,1.0,1,0.31,40,12.4
+48701300,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1700,1785,2.5,6,-1.14,40,-45.6,"Shogdzhiev, Roman",c,2060.0,False,FID,0.0,1,-0.17,40,-6.8
+48701300,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1700,1785,2.5,6,-1.14,40,-45.6,"Bergmann, Rafael Antonio",,1743.0,False,GER,0.5,1,-0.06,40,-2.4
+48701300,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1700,1785,2.5,6,-1.14,40,-45.6,"Kazimzade, Mahammad",,1594.0,False,AZE,1.0,1,0.25,40,10.0
+48701300,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1700,1785,2.5,6,-1.14,40,-45.6,"Akramov, Khasan",,1718.0,False,UZB,0.0,1,-0.59,40,-23.6
+48701300,2024-08-01,0,FIDE WORLD CUP U10 Open (Stage-II),Batumi GEO,2024-07-01,2024-07-02,1630,1826,2.0,2,0.5,40,20.0,"Obado, Sean Adrich",,1630.0,False,PHI,1.0,1,0.25,40,10.0
+48701300,2024-08-01,0,FIDE WORLD CUP U10 Open (Stage-II),Batumi GEO,2024-07-01,2024-07-02,1630,1826,2.0,2,0.5,40,20.0,"Obado, Sean Adrich",,1630.0,False,PHI,1.0,1,0.25,40,10.0

@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33309663,2024-09-01,0,Karnataka State Under 19 OPEN FIDE rating Chess Championship - 2024,Hassan IND,2024-08-02,2024-08-04,1604,1581,1.0,3,-0.41,40,-16.4,"Naga, Sai Sarthak Karanam",,1764.0,False,IND,0.0,1,-0.26,40,-10.4
+33309663,2024-09-01,0,Karnataka State Under 19 OPEN FIDE rating Chess Championship - 2024,Hassan IND,2024-08-02,2024-08-04,1604,1581,1.0,3,-0.41,40,-16.4,"Adwit, K Mishra",,1468.0,False,IND,1.0,1,0.35,40,14.0
+33309663,2024-09-01,0,Karnataka State Under 19 OPEN FIDE rating Chess Championship - 2024,Hassan IND,2024-08-02,2024-08-04,1604,1581,1.0,3,-0.41,40,-16.4,"Khan, Raees Ahmed",,1579.0,False,IND,0.0,1,-0.5,40,-20.0

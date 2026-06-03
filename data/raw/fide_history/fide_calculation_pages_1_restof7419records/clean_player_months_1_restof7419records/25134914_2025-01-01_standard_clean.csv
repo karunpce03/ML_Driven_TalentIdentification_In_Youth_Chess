@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25134914,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1726,1496,0.0,3,-0.65,40,-26.0,"Kriti, Mayur Patel",wc,1781.0,False,IND,0.0,1,-0.16,40,-6.4
+25134914,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1726,1496,0.0,3,-0.65,40,-26.0,"Singh, Satendra",,1739.0,False,IND,0.0,1,-0.2,40,-8.0
+25134914,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1726,1496,0.0,3,-0.65,40,-26.0,"Sresth, Yadav",,1657.0,False,IND,0.0,1,-0.29,40,-11.6

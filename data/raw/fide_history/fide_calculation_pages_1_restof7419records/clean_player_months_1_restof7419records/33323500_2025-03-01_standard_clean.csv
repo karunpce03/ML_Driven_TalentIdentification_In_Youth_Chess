@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33323500,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2148,2149,4.5,9,-0.19,40,-7.6,"Subelj, Jan",g,2526,False,SLO,0.0,1,-0.09,40,-3.6
+33323500,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2148,2149,4.5,9,-0.19,40,-7.6,"Silva, Mariana",wf,2030,False,POR,1.0,1,0.34,40,13.6
+33323500,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2148,2149,4.5,9,-0.19,40,-7.6,"Pechac, Jergus",g,2549,True,SVK,0.0,1,-0.08,40,-3.2
+33323500,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2148,2149,4.5,9,-0.19,40,-7.6,"Mnatsakanyan, Aren",,2058,False,ARM,0.0,1,-0.62,40,-24.8
+33323500,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2148,2149,4.5,9,-0.19,40,-7.6,"Fuchs, Elmar",,1999,False,GER,0.5,1,-0.2,40,-8.0
+33323500,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2148,2149,4.5,9,-0.19,40,-7.6,"Kawa, Anna",,1918,False,POL,1.0,1,0.21,40,8.4
+33323500,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2148,2149,4.5,9,-0.19,40,-7.6,"Acarbay, Algi",wc,2037,False,TUR,1.0,1,0.35,40,14.0
+33323500,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2148,2149,4.5,9,-0.19,40,-7.6,"Yeghiazaryan, Mikayel",,1903,False,ARM,1.0,1,0.19,40,7.6
+33323500,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2148,2149,4.5,9,-0.19,40,-7.6,"Kokoszczynski, Jan",f,2311,False,POL,0.0,1,-0.29,40,-11.6

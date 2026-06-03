@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25118072,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1691,1482,4.0,11,1.38,40,55.2,"Joshi, Aditya Shripad",,1842.0,False,IND,0.0,1,-0.1,40,-4.0
+25118072,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1691,1482,4.0,11,1.38,40,55.2,"Borate, Tanvi",,1725.0,False,IND,0.0,1,-0.2,40,-8.0
+25118072,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1691,1482,4.0,11,1.38,40,55.2,"Rohit, Sahu",,1653.0,False,IND,0.0,1,-0.27,40,-10.8
+25118072,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1691,1482,4.0,11,1.38,40,55.2,"Pratham, Nayyar",,1614.0,False,IND,0.5,1,0.18,40,7.2
+25118072,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1691,1482,4.0,11,1.38,40,55.2,"Harshad S, Parulekar",,1743.0,False,IND,1.0,1,0.82,40,32.8
+25118072,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1691,1482,4.0,11,1.38,40,55.2,"Dhruv, Singh Bisht",,1786.0,False,IND,0.0,1,-0.14,40,-5.6
+25118072,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1691,1482,4.0,11,1.38,40,55.2,Rohit,,1628.0,False,IND,0.5,1,0.2,40,8.0
+25118072,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1691,1482,4.0,11,1.38,40,55.2,"Bhavanya, Panchumarthi",,1645.0,False,IND,0.5,1,0.22,40,8.8
+25118072,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1691,1482,4.0,11,1.38,40,55.2,"Darsh, Ilwadi",,1661.0,False,IND,0.0,1,-0.27,40,-10.8
+25118072,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1691,1482,4.0,11,1.38,40,55.2,"Thomas, Remsangzuala",,1691.0,False,IND,1.0,1,0.77,40,30.8
+25118072,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1691,1482,4.0,11,1.38,40,55.2,"Vitasta, Koul",,1611.0,False,IND,0.5,1,0.17,40,6.8

@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25698923,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1590,1618,5.0,8,0.63,40,25.2,"Akshaj, P",,1453.0,False,IND,1.0,1,0.28,40,11.2
+25698923,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1590,1618,5.0,8,0.63,40,25.2,"Sabarish, A",,1461.0,False,IND,1.0,1,0.29,40,11.6
+25698923,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1590,1618,5.0,8,0.63,40,25.2,"Ebin, Benny",,1743.0,False,IND,0.0,1,-0.33,40,-13.2
+25698923,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1590,1618,5.0,8,0.63,40,25.2,"Navin, T",,1487.0,False,IND,1.0,1,0.32,40,12.8
+25698923,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1590,1618,5.0,8,0.63,40,25.2,"Sham, R",,1953.0,False,IND,0.0,1,-0.12,40,-4.8
+25698923,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1590,1618,5.0,8,0.63,40,25.2,"Leo, Sanish",,1483.0,False,IND,1.0,1,0.32,40,12.8
+25698923,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1590,1618,5.0,8,0.63,40,25.2,"Karthick, Raja P",,1455.0,False,IND,1.0,1,0.28,40,11.2
+25698923,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1590,1618,5.0,8,0.63,40,25.2,"Balamurugan, Senthilkumar",,1681.0,False,IND,0.0,1,-0.41,40,-16.4

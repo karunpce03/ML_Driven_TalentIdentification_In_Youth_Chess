@@ -1,0 +1,61 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25738011,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,2026,1934,4.5,8,1.32,40,52.8,"Baghdasaryan, Vahe",g,2242.0,False,ARM,1.0,1,0.86,40,34.4
+25738011,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,2026,1934,4.5,8,1.32,40,52.8,"Yoo, Eugene",c,2260.0,False,USA,0.0,1,-0.13,40,-5.2
+25738011,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,2026,1934,4.5,8,1.32,40,52.8,"Zujev, Oleg",f,2263.0,False,LTU,0.5,1,0.38,40,15.2
+25738011,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,2026,1934,4.5,8,1.32,40,52.8,"Vivaan, Rana",,1768.0,False,IND,1.0,1,0.28,40,11.2
+25738011,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,2026,1934,4.5,8,1.32,40,52.8,"Turayev, Shahruh",,2139.0,False,TKM,0.0,1,-0.24,40,-9.6
+25738011,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,2026,1934,4.5,8,1.32,40,52.8,"Barsamian, Eduard",,2232.0,False,RUS,0.0,1,-0.15,40,-6.0
+25738011,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,2026,1934,4.5,8,1.32,40,52.8,"Arya, G Mallar",,1686.0,False,IND,1.0,1,0.19,40,7.6
+25738011,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,2026,1934,4.5,8,1.32,40,52.8,"Omirserik, Alima",,1614.0,False,KAZ,1.0,1,0.13,40,5.2
+25738011,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,2130,1987,6.5,9,3.62,38,137.56,"Alghanim, Faisal",,1595.0,False,KUW,1.0,1,0.08,38,3.04
+25738011,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,2130,1987,6.5,9,3.62,38,137.56,"Bayantas, Asman",,2140.0,False,KAZ,1.0,1,0.7,38,26.6
+25738011,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,2130,1987,6.5,9,3.62,38,137.56,"Dumanuly, Sultanbeibarys",f,2123.0,False,KAZ,1.0,1,0.68,38,25.84
+25738011,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,2130,1987,6.5,9,3.62,38,137.56,"Amangeldy, Ernur",f,2223.0,False,KAZ,1.0,1,0.8,38,30.4
+25738011,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,2130,1987,6.5,9,3.62,38,137.56,"Tran, Ngoc Minh Duy",,2022.0,False,VIE,0.5,1,0.05,38,1.9
+25738011,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,2130,1987,6.5,9,3.62,38,137.56,"Goh, Zi Han",f,2306.0,False,SGP,0.5,1,0.37,38,14.06
+25738011,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,2130,1987,6.5,9,3.62,38,137.56,"Sapenov, Daniyal",f,2339.0,False,KAZ,0.5,1,0.39,38,14.82
+25738011,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,2130,1987,6.5,9,3.62,38,137.56,"Maslovskiy, Vladimir",,2293.0,False,FID,0.0,1,-0.14,38,-5.32
+25738011,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,2130,1987,6.5,9,3.62,38,137.56,"Gusev, Kirill",,2126.0,False,FID,1.0,1,0.69,38,26.22
+25738011,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2056,1987,3.0,9,-0.8,38,-30.4,"Vahidov, Tair",g,2356.0,False,UZB,0.5,1,0.4,38,15.2
+25738011,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2056,1987,3.0,9,-0.8,38,-30.4,"Kurbanbaev, Zalkar",,1940.0,False,KGZ,0.5,1,-0.07,38,-2.66
+25738011,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2056,1987,3.0,9,-0.8,38,-30.4,"Shalamberidze, Akaki",m,2222.0,False,GEO,0.5,1,0.29,38,11.02
+25738011,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2056,1987,3.0,9,-0.8,38,-30.4,"Tuguldur, Soninbayar",,1951.0,False,MGL,0.0,1,-0.55,38,-20.9
+25738011,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2056,1987,3.0,9,-0.8,38,-30.4,"Pranay, Akula",,2015.0,False,IND,0.5,1,0.04,38,1.52
+25738011,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2056,1987,3.0,9,-0.8,38,-30.4,"Erzhanov, Arman",f,2152.0,False,KAZ,0.0,1,-0.28,38,-10.64
+25738011,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2056,1987,3.0,9,-0.8,38,-30.4,"Takyrbashev, Tilek",f,1921.0,False,KGZ,0.0,1,-0.59,38,-22.42
+25738011,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2056,1987,3.0,9,-0.8,38,-30.4,"Spiridonov, Kirill",,1917.0,False,KGZ,0.5,1,-0.1,38,-3.8
+25738011,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2056,1987,3.0,9,-0.8,38,-30.4,"Bauyrzhan, Arnash",wf,2028.0,False,KAZ,0.5,1,0.06,38,2.28
+25738011,2024-08-01,0,Western Asian Youth Chess Championships 2024 - Under 16 Years,Kaluthara SRI,2024-07-08,2024-07-15,1910,2094,5.5,9,-0.85,40,-34.0,"Yanakan, P",,1756.0,False,SRI,0.5,1,-0.38,40,-15.2
+25738011,2024-08-01,0,Western Asian Youth Chess Championships 2024 - Under 16 Years,Kaluthara SRI,2024-07-08,2024-07-15,1910,2094,5.5,9,-0.85,40,-34.0,"Sandaruwan, K E Dineth",,1723.0,False,SRI,1.0,1,0.1,40,4.0
+25738011,2024-08-01,0,Western Asian Youth Chess Championships 2024 - Under 16 Years,Kaluthara SRI,2024-07-08,2024-07-15,1910,2094,5.5,9,-0.85,40,-34.0,"Liyanage, K P L",,1819.0,False,SRI,0.0,1,-0.83,40,-33.2
+25738011,2024-08-01,0,Western Asian Youth Chess Championships 2024 - Under 16 Years,Kaluthara SRI,2024-07-08,2024-07-15,1910,2094,5.5,9,-0.85,40,-34.0,"Rathnayaka, Minaga Yethmin",,1709.0,False,SRI,1.0,1,0.09,40,3.6
+25738011,2024-08-01,0,Western Asian Youth Chess Championships 2024 - Under 16 Years,Kaluthara SRI,2024-07-08,2024-07-15,1910,2094,5.5,9,-0.85,40,-34.0,"Manuwaruna, Sethun Neththaru",,1871.0,False,SRI,1.0,1,0.22,40,8.8
+25738011,2024-08-01,0,Western Asian Youth Chess Championships 2024 - Under 16 Years,Kaluthara SRI,2024-07-08,2024-07-15,1910,2094,5.5,9,-0.85,40,-34.0,"Akhilbay, Imangali",f,2255.0,False,KAZ,0.5,1,0.21,40,8.4
+25738011,2024-08-01,0,Western Asian Youth Chess Championships 2024 - Under 16 Years,Kaluthara SRI,2024-07-08,2024-07-15,1910,2094,5.5,9,-0.85,40,-34.0,"Abiru, K A Aken",,1791.0,False,SRI,1.0,1,0.14,40,5.6
+25738011,2024-08-01,0,Western Asian Youth Chess Championships 2024 - Under 16 Years,Kaluthara SRI,2024-07-08,2024-07-15,1910,2094,5.5,9,-0.85,40,-34.0,"Daksh, Goyal",,2094.0,False,IND,0.5,1,0.0,40,0.0
+25738011,2024-08-01,0,Western Asian Youth Chess Championships 2024 - Under 16 Years,Kaluthara SRI,2024-07-08,2024-07-15,1910,2094,5.5,9,-0.85,40,-34.0,"Md, Imran",f,2170.0,False,IND,0.0,1,-0.4,40,-16.0
+25738011,2024-11-01,0,Asian Juniors Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,2101,2060,4.5,9,0.37,40,14.8,"Constante, Marius",,1660.0,True,PHI,1.0,1,0.08,40,3.2
+25738011,2024-11-01,0,Asian Juniors Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,2101,2060,4.5,9,0.37,40,14.8,"Dau, Khuong Duy",c,2422.0,False,VIE,0.5,1,0.4,40,16.0
+25738011,2024-11-01,0,Asian Juniors Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,2101,2060,4.5,9,0.37,40,14.8,"Aswath, S",f,2460.0,True,IND,0.0,1,-0.08,40,-3.2
+25738011,2024-11-01,0,Asian Juniors Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,2101,2060,4.5,9,0.37,40,14.8,"Dolorosa, Andrei Ainsley",,2076.0,False,PHI,0.0,1,-0.48,40,-19.2
+25738011,2024-11-01,0,Asian Juniors Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,2101,2060,4.5,9,0.37,40,14.8,"Magpusao, Almwayne",,1660.0,True,PHI,1.0,1,0.08,40,3.2
+25738011,2024-11-01,0,Asian Juniors Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,2101,2060,4.5,9,0.37,40,14.8,"Yu, Chen Yu",,1770.0,False,TPE,1.0,1,0.16,40,6.4
+25738011,2024-11-01,0,Asian Juniors Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,2101,2060,4.5,9,0.37,40,14.8,"Rohith, Krishna S",m,2460.0,True,IND,0.0,1,-0.08,40,-3.2
+25738011,2024-11-01,0,Asian Juniors Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,2101,2060,4.5,9,0.37,40,14.8,"Bharadia, Yash",c,2415.0,False,IND,0.5,1,0.39,40,15.6
+25738011,2024-11-01,0,Asian Juniors Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,2101,2060,4.5,9,0.37,40,14.8,"Akshat, Sureka",,1986.0,False,IND,0.5,1,-0.1,40,-4.0
+25738011,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1848,2075,5.0,7,-0.3,40,-12.0,"Ramar, Rajasekaran",,1675.0,True,IND,1.0,1,0.08,40,3.2
+25738011,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1848,2075,5.0,7,-0.3,40,-12.0,"Al Saidi, Almuhannad",,1675.0,True,OMA,1.0,1,0.08,40,3.2
+25738011,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1848,2075,5.0,7,-0.3,40,-12.0,"Al Balushi, Said",,1697.0,False,OMA,1.0,1,0.09,40,3.6
+25738011,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1848,2075,5.0,7,-0.3,40,-12.0,"Al Saidi, Mohammed Khalfan",,1875.0,False,OMA,1.0,1,0.24,40,9.6
+25738011,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1848,2075,5.0,7,-0.3,40,-12.0,"Sinan, Shafeek",,1758.0,False,IND,1.0,1,0.13,40,5.2
+25738011,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1848,2075,5.0,7,-0.3,40,-12.0,"Hakemi, Arman",m,2439.0,False,IRI,0.0,1,-0.1,40,-4.0
+25738011,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1848,2075,5.0,7,-0.3,40,-12.0,"Al-Qudaimi, Abdullah",,1814.0,False,YEM,0.0,1,-0.82,40,-32.8
+25738011,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1993,2075,6.5,9,1.09,40,43.6,"Khush, Dholaria",,1675.0,True,IND,1.0,1,0.08,40,3.2
+25738011,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1993,2075,6.5,9,1.09,40,43.6,"Aditi, Arun",,1705.0,False,IND,1.0,1,0.1,40,4.0
+25738011,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1993,2075,6.5,9,1.09,40,43.6,"Al-Qudaimi, Abdullah",,1814.0,False,YEM,1.0,1,0.18,40,7.2
+25738011,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1993,2075,6.5,9,1.09,40,43.6,"Fawzy, Adham",g,2475.0,True,EGY,0.0,1,-0.08,40,-3.2
+25738011,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1993,2075,6.5,9,1.09,40,43.6,"Sai, Hridhay S",,1811.0,False,IND,1.0,1,0.18,40,7.2
+25738011,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1993,2075,6.5,9,1.09,40,43.6,"Al Hosni, Khalfan",,1749.0,False,OMA,1.0,1,0.13,40,5.2
+25738011,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1993,2075,6.5,9,1.09,40,43.6,"Bellahcene, Bilel",g,2475.0,True,ALG,0.5,1,0.42,40,16.8
+25738011,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1993,2075,6.5,9,1.09,40,43.6,"Wafa, Hamed",m,2359.0,False,EGY,0.0,1,-0.16,40,-6.4
+25738011,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1993,2075,6.5,9,1.09,40,43.6,"Al Saidi, Mohammed Khalfan",,1875.0,False,OMA,1.0,1,0.24,40,9.6

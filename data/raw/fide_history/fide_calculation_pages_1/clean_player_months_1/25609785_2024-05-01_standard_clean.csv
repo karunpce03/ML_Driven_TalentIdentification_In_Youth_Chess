@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25609785,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1612,1900,6.5,9,-0.99,40,-39.6,"Kaaviyasree, Kannan",,1500,True,IND,1.0,1,0.08,40,3.2
+25609785,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1612,1900,6.5,9,-0.99,40,-39.6,"Deepthaashri, Ravi Ganesh",,1511,False,IND,1.0,1,0.09,40,3.6
+25609785,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1612,1900,6.5,9,-0.99,40,-39.6,"Lakshanaa, R",,1633,False,IND,1.0,1,0.18,40,7.2
+25609785,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1612,1900,6.5,9,-0.99,40,-39.6,"Vaishnavi, S K",,1677,False,IND,1.0,1,0.22,40,8.8
+25609785,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1612,1900,6.5,9,-0.99,40,-39.6,"Ananya, Raman",,1763,False,IND,0.0,1,-0.68,40,-27.2
+25609785,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1612,1900,6.5,9,-0.99,40,-39.6,"Charudharshini, R",,1591,False,IND,0.5,1,-0.36,40,-14.4
+25609785,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1612,1900,6.5,9,-0.99,40,-39.6,"Shanmuga, Preethi M S",,1534,False,IND,1.0,1,0.1,40,4.0
+25609785,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1612,1900,6.5,9,-0.99,40,-39.6,"Sahana, Shainsha",,1676,False,IND,0.0,1,-0.78,40,-31.2
+25609785,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1612,1900,6.5,9,-0.99,40,-39.6,"Ananya, Manisundaram",,1621,False,IND,1.0,1,0.16,40,6.4

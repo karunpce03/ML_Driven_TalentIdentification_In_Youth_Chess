@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33403821,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1697,1506,2.5,6,0.98,40,39.2,"Rishabh, Pradhan",,1752.0,False,IND,1.0,1,0.81,40,32.4
+33403821,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1697,1506,2.5,6,0.98,40,39.2,"Mohammad, Sameed",,1710.0,False,IND,0.0,1,-0.24,40,-9.6
+33403821,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1697,1506,2.5,6,0.98,40,39.2,"Singh, Vimlesh Kumar",,1712.0,False,IND,1.0,1,0.76,40,30.4
+33403821,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1697,1506,2.5,6,0.98,40,39.2,"Alokik, Maheshwari",,1705.0,False,IND,0.0,1,-0.24,40,-9.6
+33403821,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1697,1506,2.5,6,0.98,40,39.2,"Ravi, Kumar",,1653.0,False,IND,0.0,1,-0.3,40,-12.0
+33403821,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1697,1506,2.5,6,0.98,40,39.2,"Reyansh, Arora",,1651.0,False,IND,0.5,1,0.19,40,7.6

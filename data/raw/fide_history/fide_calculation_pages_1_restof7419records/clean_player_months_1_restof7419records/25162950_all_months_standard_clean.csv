@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25162950,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1648,1517,2.5,5,0.83,40,33.2,"Al Maawali, Yousuf",,1512.0,False,OMA,1.0,1,0.49,40,19.6
+25162950,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1648,1517,2.5,5,0.83,40,33.2,"Madhusoodanan, K.r.",,1722.0,False,IND,0.0,1,-0.24,40,-9.6
+25162950,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1648,1517,2.5,5,0.83,40,33.2,"Abo El Khair, Moustafa",,1722.0,False,EGY,0.5,1,0.26,40,10.4
+25162950,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1648,1517,2.5,5,0.83,40,33.2,"Aswanthram, Sankar Ganesh Kannan",,1560.0,False,IND,1.0,1,0.56,40,22.4
+25162950,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1648,1517,2.5,5,0.83,40,33.2,"Sinan, Shafeek",,1722.0,False,FID,0.0,1,-0.24,40,-9.6
+25162950,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1795,1550,0.0,3,-0.61,40,-24.4,"Aly, Talal",,1893.0,False,EGY,0.0,1,-0.12,40,-4.8
+25162950,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1795,1550,0.0,3,-0.61,40,-24.4,"Mohamed, Taha Elsayed",,1758.0,False,EGY,0.0,1,-0.23,40,-9.2
+25162950,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1795,1550,0.0,3,-0.61,40,-24.4,"Kaushika, Sridharan",,1733.0,False,IND,0.0,1,-0.26,40,-10.4

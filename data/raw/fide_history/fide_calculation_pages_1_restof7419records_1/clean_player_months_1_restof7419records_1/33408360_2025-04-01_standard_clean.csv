@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33408360,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1622,1747,2.5,5,-0.79,40,-31.6,"Agrawal, Anay",,1505,False,IND,1.0,1,0.2,40,8.0
+33408360,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1622,1747,2.5,5,-0.79,40,-31.6,"Aarav, Gupta",,1648,False,IND,0.5,1,-0.14,40,-5.6
+33408360,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1622,1747,2.5,5,-0.79,40,-31.6,"Ajay, Santhosh Parvathareddy",f,2147,True,IND,0.0,1,-0.08,40,-3.2
+33408360,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1622,1747,2.5,5,-0.79,40,-31.6,"Shivansh, Sharma",,1409,False,IND,0.0,1,-0.88,40,-35.2
+33408360,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1622,1747,2.5,5,-0.79,40,-31.6,"Japesh, Chaudhary",,1402,False,IND,1.0,1,0.11,40,4.4

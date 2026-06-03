@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48703567,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1573,1455,1.0,4,-0.38,40,-15.2,"Shreyansh, Das",,1621.0,False,IND,0.5,1,0.22,40,8.8
+48703567,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1573,1455,1.0,4,-0.38,40,-15.2,"Saicharan, Srinivasan",,1616.0,False,IND,0.0,1,-0.29,40,-11.6
+48703567,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1573,1455,1.0,4,-0.38,40,-15.2,"Anish, Abhijeet Jawalkar",,1494.0,False,IND,0.5,1,0.05,40,2.0
+48703567,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1573,1455,1.0,4,-0.38,40,-15.2,"Ayaanraj, Kottapally",,1561.0,False,IND,0.0,1,-0.36,40,-14.4

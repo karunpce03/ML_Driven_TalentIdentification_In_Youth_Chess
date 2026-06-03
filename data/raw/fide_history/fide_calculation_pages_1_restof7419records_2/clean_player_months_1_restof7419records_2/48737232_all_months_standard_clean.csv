@@ -1,0 +1,22 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48737232,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.0,5,0.0,656,,"Vishnuram, Kishore",,1492.0,False,IND,0.0,1,0.0,,0.0
+48737232,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.0,5,0.0,656,,"Sajeev, R R",,1466.0,False,IND,0.0,1,0.0,,0.0
+48737232,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.0,5,0.0,656,,"Rafaz, Mansoor M",,1457.0,False,IND,0.0,1,0.0,,0.0
+48737232,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.0,5,0.0,656,,"Roopesh, V S",,1459.0,False,IND,0.0,1,0.0,,0.0
+48737232,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.0,5,0.0,656,,"Mothesh, S",,1404.0,False,IND,0.0,1,0.0,,0.0
+48737232,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.5,9,0.0,1420,,"Parthasarathy, Baskaran",,1544.0,False,IND,1.0,1,0.0,,0.0
+48737232,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.5,9,0.0,1420,,"Harith, R",,1610.0,False,IND,0.5,1,0.0,,0.0
+48737232,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.5,9,0.0,1420,,"Nishan, M",,1595.0,False,IND,0.0,1,0.0,,0.0
+48737232,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.5,9,0.0,1420,,"Divesh, V",,1486.0,False,IND,0.0,1,0.0,,0.0
+48737232,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.5,9,0.0,1420,,"Prakanyaa, M M",,1405.0,False,IND,1.0,1,0.0,,0.0
+48737232,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.5,9,0.0,1420,,"Sohan, Harshad S A",,1450.0,False,IND,1.0,1,0.0,,0.0
+48737232,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.5,9,0.0,1420,,"Pranav, V B",,1515.0,False,IND,0.0,1,0.0,,0.0
+48737232,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.5,9,0.0,1420,,"Rohith, Thanveer",,1465.0,False,IND,0.0,1,0.0,,0.0
+48737232,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,3.5,9,0.0,1420,,"Sidharthan, V",,1431.0,False,IND,0.0,1,0.0,,0.0
+48737232,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1453.0,1490.0,1.0,2,-0.1,40,-4.0,"Sri, Hari A S",,1501.0,False,IND,0.0,1,-0.48,40.0,-19.2
+48737232,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1453.0,1490.0,1.0,2,-0.1,40,-4.0,"Navajith, Bose Jeyaraman",,1405.0,False,IND,1.0,1,0.38,40.0,15.2
+48737232,2024-10-01,0,36th Tamilnadu State Under-11 Open FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,1568.0,1486.0,0.5,3,-0.68,40,-27.2,"Thavish, S",,1607.0,False,IND,0.0,1,-0.34,40.0,-13.6
+48737232,2024-10-01,0,36th Tamilnadu State Under-11 Open FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,1568.0,1486.0,0.5,3,-0.68,40,-27.2,"Siddharth, S S",,1419.0,False,IND,0.5,1,-0.09,40.0,-3.6
+48737232,2024-10-01,0,36th Tamilnadu State Under-11 Open FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,1568.0,1486.0,0.5,3,-0.68,40,-27.2,"Praneeshwar, Madhavan",,1677.0,False,IND,0.0,1,-0.25,40.0,-10.0
+48737232,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1646.0,1459.0,1.0,2,0.48,40,19.2,"Yogesh, Loganathan",,1717.0,False,IND,0.0,1,-0.18,40.0,-7.2
+48737232,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1646.0,1459.0,1.0,2,0.48,40,19.2,"S, Dakshin Shravan",,1574.0,False,IND,1.0,1,0.66,40.0,26.4

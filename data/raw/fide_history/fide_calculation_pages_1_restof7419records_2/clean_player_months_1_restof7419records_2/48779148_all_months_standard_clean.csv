@@ -1,0 +1,33 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48779148,2024-09-01,0,August Classic Chess Tournament,Kuwait KUW,2024-08-01,2024-08-09,1719,1476,0.5,4,-0.32,40,-12.8,"Mithilesh, Ranjithkumar",,1833.0,False,IND,0.0,1,-0.11,40,-4.4
+48779148,2024-09-01,0,August Classic Chess Tournament,Kuwait KUW,2024-08-01,2024-08-09,1719,1476,0.5,4,-0.32,40,-12.8,"Hamza, Ahmed Hamza",,1701.0,False,EGY,0.0,1,-0.22,40,-8.8
+48779148,2024-09-01,0,August Classic Chess Tournament,Kuwait KUW,2024-08-01,2024-08-09,1719,1476,0.5,4,-0.32,40,-12.8,"Advik, Srinivasan",,1640.0,False,IND,0.5,1,0.22,40,8.8
+48779148,2024-09-01,0,August Classic Chess Tournament,Kuwait KUW,2024-08-01,2024-08-09,1719,1476,0.5,4,-0.32,40,-12.8,"Khalaf, Ali",,1703.0,False,KUW,0.0,1,-0.21,40,-8.4
+48779148,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1737,1463,5.0,7,3.75,40,150.0,"Alhasan, Hasan",,1815.0,False,KUW,1.0,1,0.89,40,35.6
+48779148,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1737,1463,5.0,7,3.75,40,150.0,"Vishwesh, Sivanantham",,1642.0,False,IND,1.0,1,0.73,40,29.2
+48779148,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1737,1463,5.0,7,3.75,40,150.0,"Alazmi, Amani",wc,1648.0,False,KUW,1.0,1,0.74,40,29.6
+48779148,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1737,1463,5.0,7,3.75,40,150.0,"Nishaanth, Vidyasagar",,1725.0,False,IND,1.0,1,0.82,40,32.8
+48779148,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1737,1463,5.0,7,3.75,40,150.0,"Rosebert, Abera",,1780.0,False,PHI,0.0,1,-0.13,40,-5.2
+48779148,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1737,1463,5.0,7,3.75,40,150.0,"Qabazard, Mohamed",,1684.0,False,KUW,1.0,1,0.78,40,31.2
+48779148,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1737,1463,5.0,7,3.75,40,150.0,"Youssef Ahmed, Youssef",,1863.0,True,EGY,0.0,1,-0.08,40,-3.2
+48779148,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1709,1613,1.5,4,0.01,40,0.4,"Ezhil, Aadhav Kaladharan",,1711.0,False,IND,0.0,1,-0.37,40,-14.8
+48779148,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1709,1613,1.5,4,0.01,40,0.4,"Alshourfaa, Hazaa",,1791.0,False,KUW,0.5,1,0.23,40,9.2
+48779148,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1709,1613,1.5,4,0.01,40,0.4,"Advik, Srinivasan",,1654.0,False,IND,0.0,1,-0.44,40,-17.6
+48779148,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1709,1613,1.5,4,0.01,40,0.4,"Sudhanshu, Muluka",,1679.0,False,IND,1.0,1,0.59,40,23.6
+48779148,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1642,1613,3.0,5,0.64,40,25.6,"Saksham, Upadhyay",,1891.0,False,IND,0.0,1,-0.17,40,-6.8
+48779148,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1642,1613,3.0,5,0.64,40,25.6,"Mohsen, Hussain",,1459.0,False,EGY,1.0,1,0.29,40,11.6
+48779148,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1642,1613,3.0,5,0.64,40,25.6,"Rosebert, Abera",,1799.0,False,PHI,0.0,1,-0.26,40,-10.4
+48779148,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1642,1613,3.0,5,0.64,40,25.6,"Alonaizi, Abdullah",,1581.0,False,KUW,1.0,1,0.46,40,18.4
+48779148,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1642,1613,3.0,5,0.64,40,25.6,"Mohammed, Junaid Khan",,1481.0,False,IND,1.0,1,0.32,40,12.8
+48779148,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1642,1639,4.0,7,0.54,40,21.6,"Humaidan Mohamed, Alzaabi",,1850.0,False,UAE,0.0,1,-0.23,40,-9.2
+48779148,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1642,1639,4.0,7,0.54,40,21.6,"Nathanael, Xavier",,1468.0,False,IND,1.0,1,0.27,40,10.8
+48779148,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1642,1639,4.0,7,0.54,40,21.6,"Amna, Saqer Almarri",,1400.0,False,UAE,1.0,1,0.2,40,8.0
+48779148,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1642,1639,4.0,7,0.54,40,21.6,"Nishaanth, Vidyasagar",,1694.0,False,IND,0.5,1,0.08,40,3.2
+48779148,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1642,1639,4.0,7,0.54,40,21.6,"Elallawy, Hesham",,1857.0,False,EGY,1.0,1,0.78,40,31.2
+48779148,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1642,1639,4.0,7,0.54,40,21.6,"Vedant, Yogesh Kale",,1740.0,False,IND,0.0,1,-0.36,40,-14.4
+48779148,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1642,1639,4.0,7,0.54,40,21.6,"Mohsen, Hussain",,1487.0,False,EGY,0.5,1,-0.2,40,-8.0
+48779148,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1683,1661,2.5,5,0.1,40,4.0,"Youssef Ahmed, Youssef",,1872.0,False,EGY,0.0,1,-0.23,40,-9.2
+48779148,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1683,1661,2.5,5,0.1,40,4.0,"Shrhi, Harini Anandkannan",,1508.0,False,IND,0.5,1,-0.2,40,-8.0
+48779148,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1683,1661,2.5,5,0.1,40,4.0,"Sumesh, Suresh",,1555.0,False,IND,1.0,1,0.36,40,14.4
+48779148,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1683,1661,2.5,5,0.1,40,4.0,"Mohsen, Hussain",,1525.0,False,EGY,1.0,1,0.32,40,12.8
+48779148,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1683,1661,2.5,5,0.1,40,4.0,"Saksham, Upadhyay",,1954.0,False,IND,0.0,1,-0.15,40,-6.0

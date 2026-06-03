@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33310955,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1634,1534,1.0,4,-0.49,40,-19.6,"Yuwan, Das",,1740.0,False,IND,0.0,1,-0.24,40,-9.6
+33310955,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1634,1534,1.0,4,-0.49,40,-19.6,"Abhishek, Borthakur",,1635.0,False,IND,0.0,1,-0.36,40,-14.4
+33310955,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1634,1534,1.0,4,-0.49,40,-19.6,"Shubham, Kumar",,1752.0,False,IND,0.0,1,-0.22,40,-8.8
+33310955,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1634,1534,1.0,4,-0.49,40,-19.6,"Madhudvish, Gogoi",,1410.0,False,IND,1.0,1,0.33,40,13.2

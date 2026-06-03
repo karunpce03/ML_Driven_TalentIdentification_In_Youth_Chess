@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25142445,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1588,1691,3.0,11,-4.0,40,-160.0,"Tanmay, Rajbongshi",,1980.0,False,IND,0.0,1,-0.16,40,-6.4
+25142445,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1588,1691,3.0,11,-4.0,40,-160.0,"Om, Nagnath Lamkane",,1914.0,False,IND,0.0,1,-0.22,40,-8.8
+25142445,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1588,1691,3.0,11,-4.0,40,-160.0,"Zothanhlira, Royte",,1564.0,False,IND,0.0,1,-0.67,40,-26.8
+25142445,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1588,1691,3.0,11,-4.0,40,-160.0,"Amrutansu, Bhatta",,1505.0,False,IND,0.0,1,-0.74,40,-29.6
+25142445,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1588,1691,3.0,11,-4.0,40,-160.0,Bovito,,1507.0,False,IND,1.0,1,0.26,40,10.4
+25142445,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1588,1691,3.0,11,-4.0,40,-160.0,"Rakshit, Batra",,1562.0,False,IND,0.0,1,-0.67,40,-26.8
+25142445,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1588,1691,3.0,11,-4.0,40,-160.0,"Aarnav, Rawat",,1495.0,False,IND,0.5,1,-0.25,40,-10.0
+25142445,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1588,1691,3.0,11,-4.0,40,-160.0,"Narayanan, Rishitha",,1521.0,False,IND,0.5,1,-0.22,40,-8.8
+25142445,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1588,1691,3.0,11,-4.0,40,-160.0,"Devansh, Gupta",,1517.0,False,IND,0.5,1,-0.23,40,-9.2
+25142445,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1588,1691,3.0,11,-4.0,40,-160.0,"Arz, Bhatia",,1482.0,False,IND,0.0,1,-0.77,40,-30.8
+25142445,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1588,1691,3.0,11,-4.0,40,-160.0,"Aadvik, Arora",,1417.0,False,IND,0.5,1,-0.33,40,-13.2

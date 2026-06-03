@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25900803,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,2149,1971,5.5,8,2.97,40,118.8,"Kaewwattha, Natrada",,1711,False,THA,1.0,1,0.18,40,7.2
+25900803,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,2149,1971,5.5,8,2.97,40,118.8,"Arfan, Aditya Bagus",m,2371,True,INA,1.0,1,0.92,40,36.8
+25900803,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,2149,1971,5.5,8,2.97,40,118.8,"Chernyavsky, Alexander",f,2339,False,FID,0.0,1,-0.1,40,-4.0
+25900803,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,2149,1971,5.5,8,2.97,40,118.8,"Sai, Han Thiha",f,2196,False,MYA,0.5,1,0.28,40,11.2
+25900803,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,2149,1971,5.5,8,2.97,40,118.8,"Kavinda, Akila",c,1965,False,SRI,1.0,1,0.49,40,19.6
+25900803,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,2149,1971,5.5,8,2.97,40,118.8,"Shoker, Samy",g,2371,True,EGY,0.5,1,0.42,40,16.8
+25900803,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,2149,1971,5.5,8,2.97,40,118.8,"Wang, Justin Zhide",,1869,False,NZL,1.0,1,0.36,40,14.4
+25900803,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,2149,1971,5.5,8,2.97,40,118.8,"Mohammad, Nubairshah Shaikh",m,2371,True,IND,0.5,1,0.42,40,16.8
+25900803,2024-11-01,0,2nd The Rooky International Open 2024 - Open,Bangkok THA,2024-10-19,2024-10-23,1808,1971,5.5,9,-0.77,40,-30.8,"Fiuza Lima Junior, Francisco Jose",,1663,False,ESP,0.0,1,-0.86,40,-34.4
+25900803,2024-11-01,0,2nd The Rooky International Open 2024 - Open,Bangkok THA,2024-10-19,2024-10-23,1808,1971,5.5,9,-0.77,40,-30.8,"Ainul Fikri, Aqilah Husna",,1716,False,MAS,1.0,1,0.19,40,7.6
+25900803,2024-11-01,0,2nd The Rooky International Open 2024 - Open,Bangkok THA,2024-10-19,2024-10-23,1808,1971,5.5,9,-0.77,40,-30.8,"Ling, Guohan",,1811,False,CHN,0.0,1,-0.71,40,-28.4
+25900803,2024-11-01,0,2nd The Rooky International Open 2024 - Open,Bangkok THA,2024-10-19,2024-10-23,1808,1971,5.5,9,-0.77,40,-30.8,"Akhmetov, Rail",,1571,True,FID,1.0,1,0.08,40,3.2
+25900803,2024-11-01,0,2nd The Rooky International Open 2024 - Open,Bangkok THA,2024-10-19,2024-10-23,1808,1971,5.5,9,-0.77,40,-30.8,"Jin, Renyushu",,1801,False,CHN,0.5,1,-0.22,40,-8.8
+25900803,2024-11-01,0,2nd The Rooky International Open 2024 - Open,Bangkok THA,2024-10-19,2024-10-23,1808,1971,5.5,9,-0.77,40,-30.8,"Kyaw, Zay Ya",,1850,False,MYA,1.0,1,0.34,40,13.6
+25900803,2024-11-01,0,2nd The Rooky International Open 2024 - Open,Bangkok THA,2024-10-19,2024-10-23,1808,1971,5.5,9,-0.77,40,-30.8,"Enkhtuul, Altan-Ulzii",wg,2196,False,MGL,0.5,1,0.28,40,11.2
+25900803,2024-11-01,0,2nd The Rooky International Open 2024 - Open,Bangkok THA,2024-10-19,2024-10-23,1808,1971,5.5,9,-0.77,40,-30.8,"Wang, Justin Zhide",,1869,False,NZL,1.0,1,0.36,40,14.4
+25900803,2024-11-01,0,2nd The Rooky International Open 2024 - Open,Bangkok THA,2024-10-19,2024-10-23,1808,1971,5.5,9,-0.77,40,-30.8,"Mu, Wangxueyao",,1798,False,CHN,0.5,1,-0.23,40,-9.2

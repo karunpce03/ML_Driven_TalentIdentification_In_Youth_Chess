@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48766410,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1510,1456,5.0,7,1.92,40,76.8,"Rongit, Dasgupta",,1423.0,False,IND,1.0,1,0.45,40,18.0
+48766410,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1510,1456,5.0,7,1.92,40,76.8,"Ahimalya, Das",,1450.0,False,IND,1.0,1,0.49,40,19.6
+48766410,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1510,1456,5.0,7,1.92,40,76.8,"Ankit, Das",,1806.0,False,IND,0.5,1,0.39,40,15.6
+48766410,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1510,1456,5.0,7,1.92,40,76.8,"Pyansu, Nath",,1496.0,False,IND,0.0,1,-0.44,40,-17.6
+48766410,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1510,1456,5.0,7,1.92,40,76.8,"Mayuraksha, Sihi",,1462.0,False,IND,1.0,1,0.51,40,20.4
+48766410,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1510,1456,5.0,7,1.92,40,76.8,"Nibir, Kundu",,1486.0,False,IND,1.0,1,0.54,40,21.6
+48766410,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1510,1456,5.0,7,1.92,40,76.8,"Arohan, Dey",,1445.0,False,IND,0.5,1,-0.02,40,-0.8

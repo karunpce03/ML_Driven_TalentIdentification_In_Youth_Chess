@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48785580,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1617,1531,3.5,6,1.1,40,44.0,"Laksh, Mihir Dighe",,1450.0,False,IND,1.0,1,0.39,40,15.6
+48785580,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1617,1531,3.5,6,1.1,40,44.0,"Kriti, Mayur Patel",wc,1761.0,False,IND,0.0,1,-0.21,40,-8.4
+48785580,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1617,1531,3.5,6,1.1,40,44.0,"Riyansh, Sandeep Borate",,1425.0,False,IND,1.0,1,0.36,40,14.4
+48785580,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1617,1531,3.5,6,1.1,40,44.0,"Gogte, Soumil",,1846.0,False,IND,0.5,1,0.36,40,14.4
+48785580,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1617,1531,3.5,6,1.1,40,44.0,"Soni, Deepak R",,1738.0,False,IND,0.0,1,-0.23,40,-9.2
+48785580,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1617,1531,3.5,6,1.1,40,44.0,"Prijesh, Veliyathuparambil",,1479.0,False,IND,1.0,1,0.43,40,17.2

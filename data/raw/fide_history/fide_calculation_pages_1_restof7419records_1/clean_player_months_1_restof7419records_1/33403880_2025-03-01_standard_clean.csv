@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33403880,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,,,0.5,4,0.0,1223,,"Gaurav, Sunil Dutt Rana",,1667,False,IND,0.0,1,0.0,,0.0
+33403880,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,,,0.5,4,0.0,1223,,"Prabindra, Mani Verma",,1509,False,IND,0.0,1,0.0,,0.0
+33403880,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,,,0.5,4,0.0,1223,,"Advay, Srivastava",,1513,False,IND,0.5,1,0.0,,0.0
+33403880,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,,,0.5,4,0.0,1223,,"Chaudhary, Parv",,1492,False,IND,0.0,1,0.0,,0.0

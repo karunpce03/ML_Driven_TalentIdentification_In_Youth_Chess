@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33449830,2024-06-01,0,1st Gombak U1800 FIDE Rated Classical,Gombak MAS,2024-05-11,2024-05-12,1607,1492,3.0,5,1.23,40,49.2,"Velaithum, Piraveen",,1642.0,False,MAS,0.0,1,-0.3,40,-12.0
+33449830,2024-06-01,0,1st Gombak U1800 FIDE Rated Classical,Gombak MAS,2024-05-11,2024-05-12,1607,1492,3.0,5,1.23,40,49.2,"Surendran, Tavamathie",,1492.0,False,MAS,1.0,1,0.5,40,20.0
+33449830,2024-06-01,0,1st Gombak U1800 FIDE Rated Classical,Gombak MAS,2024-05-11,2024-05-12,1607,1492,3.0,5,1.23,40,49.2,"Chay, Joon Hoong",,1770.0,False,MAS,0.0,1,-0.17,40,-6.8
+33449830,2024-06-01,0,1st Gombak U1800 FIDE Rated Classical,Gombak MAS,2024-05-11,2024-05-12,1607,1492,3.0,5,1.23,40,49.2,"Wang, Xin Ran Claire",,1609.0,False,MAS,1.0,1,0.66,40,26.4
+33449830,2024-06-01,0,1st Gombak U1800 FIDE Rated Classical,Gombak MAS,2024-05-11,2024-05-12,1607,1492,3.0,5,1.23,40,49.2,"Parth, Baghele",,1522.0,False,IND,1.0,1,0.54,40,21.6

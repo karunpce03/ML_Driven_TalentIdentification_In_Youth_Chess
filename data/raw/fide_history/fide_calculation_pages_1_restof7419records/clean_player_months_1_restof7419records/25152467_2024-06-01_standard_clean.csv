@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25152467,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1628,1467,0.0,3,-0.86,40,-34.4,"Joshi, Nikhil",,1665.0,False,IND,0.0,1,-0.24,40,-9.6
+25152467,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1628,1467,0.0,3,-0.86,40,-34.4,"Shete, Soham",,1625.0,False,IND,0.0,1,-0.29,40,-11.6
+25152467,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1628,1467,0.0,3,-0.86,40,-34.4,"Kale, Shivprasad",,1593.0,False,IND,0.0,1,-0.33,40,-13.2

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33405263,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1611,1630,4.0,5,1.33,40,53.2,"Marcos, Marvin",,1938.0,False,PHI,0.0,1,-0.14,40,-5.6
+33405263,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1611,1630,4.0,5,1.33,40,53.2,"Nikil, Reddy Thalamarla",,1411.0,False,IND,1.0,1,0.22,40,8.8
+33405263,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1611,1630,4.0,5,1.33,40,53.2,"Aditya, Shah",,1511.0,False,IND,1.0,1,0.34,40,13.6
+33405263,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1611,1630,4.0,5,1.33,40,53.2,"Karageziyan, Paul",,1513.0,False,USA,1.0,1,0.34,40,13.6
+33405263,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1611,1630,4.0,5,1.33,40,53.2,"Akhil, Vijayakumar",,1683.0,False,IND,1.0,1,0.57,40,22.8

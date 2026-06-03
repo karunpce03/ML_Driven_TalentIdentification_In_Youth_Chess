@@ -1,0 +1,27 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25693735,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2192,2099,3.0,8,-0.15,40,-6.0,"Willow, Jonah B",m,2446.0,False,ENG,0.0,1,-0.11,40,-4.4
+25693735,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2192,2099,3.0,8,-0.15,40,-6.0,"Lien, Sebastian",,1885.0,False,NOR,1.0,1,0.23,40,9.2
+25693735,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2192,2099,3.0,8,-0.15,40,-6.0,"Mihajlov, Sebastian",m,2373.0,False,CRC,0.0,1,-0.17,40,-6.8
+25693735,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2192,2099,3.0,8,-0.15,40,-6.0,"Rynning, Rune Kleiven",,1813.0,False,NOR,1.0,1,0.16,40,6.4
+25693735,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2192,2099,3.0,8,-0.15,40,-6.0,"Narva, Mai",m wg,2399.0,False,EST,0.0,1,-0.15,40,-6.0
+25693735,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2192,2099,3.0,8,-0.15,40,-6.0,"Haug, Havard",c,2341.0,False,NOR,0.0,1,-0.2,40,-8.0
+25693735,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2192,2099,3.0,8,-0.15,40,-6.0,"Makka, Ioulia",wm,1983.0,False,GRE,1.0,1,0.34,40,13.6
+25693735,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2192,2099,3.0,8,-0.15,40,-6.0,"Gandrud, Vegar Koi",f,2293.0,False,NOR,0.0,1,-0.25,40,-10.0
+25693735,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2127,2043,3.5,9,-0.05,40,-2.0,"Formento, Paolo",f,2346.0,False,ITA,0.0,1,-0.14,40,-5.6
+25693735,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2127,2043,3.5,9,-0.05,40,-2.0,"Orfila, Kristofer",,2223.0,False,FRA,0.5,1,0.24,40,9.6
+25693735,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2127,2043,3.5,9,-0.05,40,-2.0,"Sharvaanica, A S",wc,1914.0,False,IND,1.0,1,0.33,40,13.2
+25693735,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2127,2043,3.5,9,-0.05,40,-2.0,"Rotunno, Flavio",,2217.0,False,SUI,0.0,1,-0.27,40,-10.8
+25693735,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2127,2043,3.5,9,-0.05,40,-2.0,"Kishore, Kumar Jagana",,2168.0,False,IND,0.0,1,-0.33,40,-13.2
+25693735,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2127,2043,3.5,9,-0.05,40,-2.0,"Mina, Marco",,1956.0,False,ITA,1.0,1,0.38,40,15.2
+25693735,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2127,2043,3.5,9,-0.05,40,-2.0,"Toktomushev, Teimur",f,2246.0,False,SUI,0.0,1,-0.24,40,-9.6
+25693735,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2127,2043,3.5,9,-0.05,40,-2.0,"Levesque, Guillaume",,1981.0,False,FRA,1.0,1,0.41,40,16.4
+25693735,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2127,2043,3.5,9,-0.05,40,-2.0,"Fischer, Julie",wf,2090.0,False,FRA,0.0,1,-0.43,40,-17.2
+25693735,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2188,2043,3.5,9,0.68,40,27.2,"Fanninger, Leon",,2246.0,False,AUT,1.0,1,0.76,40,30.4
+25693735,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2188,2043,3.5,9,0.68,40,27.2,"Gelas, Christophe",f,2348.0,False,FRA,0.0,1,-0.14,40,-5.6
+25693735,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2188,2043,3.5,9,0.68,40,27.2,"Trabet, Nicolas",,2193.0,False,FRA,0.0,1,-0.3,40,-12.0
+25693735,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2188,2043,3.5,9,0.68,40,27.2,"Mohota, Nisha",m wg,2140.0,False,IND,0.0,1,-0.37,40,-14.8
+25693735,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2188,2043,3.5,9,0.68,40,27.2,"Vu Dinh, Adrien",,2187.0,False,FRA,0.5,1,0.19,40,7.6
+25693735,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2188,2043,3.5,9,0.68,40,27.2,"Calistri, Tristan",m,2201.0,False,FRA,0.0,1,-0.29,40,-11.6
+25693735,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2188,2043,3.5,9,0.68,40,27.2,"Makke, Laurent",,2124.0,False,FRA,1.0,1,0.61,40,24.4
+25693735,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2188,2043,3.5,9,0.68,40,27.2,"Perrouin, Alexian",,2134.0,False,FRA,0.0,1,-0.38,40,-15.2
+25693735,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2188,2043,3.5,9,0.68,40,27.2,"Lacour, Serge",,2116.0,False,FRA,1.0,1,0.6,40,24.0

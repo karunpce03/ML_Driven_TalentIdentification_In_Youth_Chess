@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25166212,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1573,1542,0.5,3,-0.93,40,-37.2,"Triparno, Ghosh",,1832.0,False,IND,0.0,1,-0.16,40,-6.4
+25166212,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1573,1542,0.5,3,-0.93,40,-37.2,"Bihaan, Sarkar",,1442.0,False,IND,0.0,1,-0.64,40,-25.6
+25166212,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1573,1542,0.5,3,-0.93,40,-37.2,"Agnibha, Koley",,1446.0,False,IND,0.5,1,-0.13,40,-5.2

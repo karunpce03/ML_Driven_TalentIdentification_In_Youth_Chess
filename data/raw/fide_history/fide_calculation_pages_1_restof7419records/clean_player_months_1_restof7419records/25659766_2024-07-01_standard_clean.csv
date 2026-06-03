@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25659766,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2374,2425,6.0,11,-0.1,10,-1.0,"Jai, Sankar Subramanian",,2025,True,IND,1.0,1,0.08,10,0.8
+25659766,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2374,2425,6.0,11,-0.1,10,-1.0,"Mnyasta, Charlton",,2174,False,RSA,1.0,1,0.19,10,1.9
+25659766,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2374,2425,6.0,11,-0.1,10,-1.0,"Pranav, Anand",g,2540,False,IND,1.0,1,0.66,10,6.6
+25659766,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2374,2425,6.0,11,-0.1,10,-1.0,"Nogerbek, Kazybek",m,2502,False,KAZ,0.5,1,0.11,10,1.1
+25659766,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2374,2425,6.0,11,-0.1,10,-1.0,"Cardoso Cardoso, Jose Gabriel",g,2497,False,COL,0.5,1,0.1,10,1.0
+25659766,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2374,2425,6.0,11,-0.1,10,-1.0,"Makarian, Rudik",m,2524,False,FID,0.0,1,-0.36,10,-3.6
+25659766,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2374,2425,6.0,11,-0.1,10,-1.0,"Ayush, Sharma",f,2325,False,IND,1.0,1,0.36,10,3.6
+25659766,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2374,2425,6.0,11,-0.1,10,-1.0,"Vaz, Ethan",m,2420,False,IND,0.5,1,-0.01,10,-0.1
+25659766,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2374,2425,6.0,11,-0.1,10,-1.0,"Ohanyan, Emin",g,2501,False,ARM,0.0,1,-0.4,10,-4.0
+25659766,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2374,2425,6.0,11,-0.1,10,-1.0,"Lopez Rayo, Santiago",f,2277,False,COL,0.5,1,-0.2,10,-2.0
+25659766,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2374,2425,6.0,11,-0.1,10,-1.0,"Shahil, Dey",m,2332,False,IND,0.0,1,-0.63,10,-6.3

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33476446,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1873,1490,0.0,5,-0.45,40,-18.0,"McConnell, Griffin",,1890,True,USA,0.0,1,-0.08,40,-3.2
+33476446,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1873,1490,0.0,5,-0.45,40,-18.0,"Gerasimova, Svetlana",wf,1890,True,FID,0.0,1,-0.08,40,-3.2
+33476446,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1873,1490,0.0,5,-0.45,40,-18.0,"Tsapalin, Sergey",,1890,True,FID,0.0,1,-0.08,40,-3.2
+33476446,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1873,1490,0.0,5,-0.45,40,-18.0,"Roehrig, Uwe",,1806,False,GER,0.0,1,-0.13,40,-5.2
+33476446,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1873,1490,0.0,5,-0.45,40,-18.0,"Aleksandrova, Aleksandra",wf,1890,True,ISR,0.0,1,-0.08,40,-3.2

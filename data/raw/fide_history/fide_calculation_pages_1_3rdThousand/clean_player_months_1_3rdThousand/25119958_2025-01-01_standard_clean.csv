@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25119958,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1935,1764,5.0,10,1.97,40,78.8,"Lakshya, Nigam",,1603,False,IND,0.5,1,-0.21,40,-8.4
+25119958,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1935,1764,5.0,10,1.97,40,78.8,"Darsh, Ilwadi",,1624,False,IND,1.0,1,0.31,40,12.4
+25119958,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1935,1764,5.0,10,1.97,40,78.8,"Sidharth, Sreekumar",,1854,False,IND,1.0,1,0.62,40,24.8
+25119958,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1935,1764,5.0,10,1.97,40,78.8,"Goutham, Ramesh",,1945,False,IND,1.0,1,0.74,40,29.6
+25119958,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1935,1764,5.0,10,1.97,40,78.8,"Janukshan, B",,2024,False,SRI,1.0,1,0.82,40,32.8
+25119958,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1935,1764,5.0,10,1.97,40,78.8,"Fedorov, Alexei",g,2164,True,BLR,0.5,1,0.42,40,16.8
+25119958,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1935,1764,5.0,10,1.97,40,78.8,"Das, Sayantan",g,2164,True,IND,0.0,1,-0.08,40,-3.2
+25119958,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1935,1764,5.0,10,1.97,40,78.8,"Siddhanth, Poonja",,2042,False,IND,0.0,1,-0.17,40,-6.8
+25119958,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1935,1764,5.0,10,1.97,40,78.8,"Liyanage, Pesandu Rashmitha",,1968,False,SRI,0.0,1,-0.24,40,-9.6
+25119958,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1935,1764,5.0,10,1.97,40,78.8,"Prashanth, J Naik",,1963,False,IND,0.0,1,-0.24,40,-9.6

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48736546,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1496,1576,6.0,9,0.51,40,20.4,"Ayush, S Jagtap",,1450.0,False,IND,1.0,1,0.33,40,13.2
+48736546,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1496,1576,6.0,9,0.51,40,20.4,"Zain, Abdullah",,1419.0,False,IND,0.5,1,-0.21,40,-8.4
+48736546,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1496,1576,6.0,9,0.51,40,20.4,"Kodre, Tirth",,1442.0,False,IND,0.5,1,-0.18,40,-7.2
+48736546,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1496,1576,6.0,9,0.51,40,20.4,"Maulesh, Konar",,1476.0,False,IND,1.0,1,0.36,40,14.4
+48736546,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1496,1576,6.0,9,0.51,40,20.4,"Avneesh, Devadiga",,1500.0,False,IND,0.5,1,-0.1,40,-4.0
+48736546,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1496,1576,6.0,9,0.51,40,20.4,"Neev, Nirav Bafna",,1504.0,False,IND,1.0,1,0.4,40,16.0
+48736546,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1496,1576,6.0,9,0.51,40,20.4,"Sragvidha, S",,1711.0,False,IND,0.0,1,-0.32,40,-12.8
+48736546,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1496,1576,6.0,9,0.51,40,20.4,"Hitansh, Kunal Gohil",,1476.0,False,IND,0.5,1,-0.14,40,-5.6
+48736546,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1496,1576,6.0,9,0.51,40,20.4,"Harshavardan, Mehanathan",,1482.0,False,IND,1.0,1,0.37,40,14.8
+48736546,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1823,1545,0.0,2,-0.37,40,-14.8,"Singh, D.p.",m,1945.0,True,IND,0.0,1,-0.08,40,-3.2
+48736546,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1823,1545,0.0,2,-0.37,40,-14.8,"Prakhar, Tripathi",,1700.0,False,IND,0.0,1,-0.29,40,-11.6

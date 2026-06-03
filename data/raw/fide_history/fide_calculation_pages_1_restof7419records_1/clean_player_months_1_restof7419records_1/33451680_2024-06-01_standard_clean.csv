@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33451680,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1595,1414,1.5,5,0.17,40,6.8,"Vegi, Bhavishnu Sai Sivaji",,1705.0,False,IND,0.0,1,-0.15,40,-6.0
+33451680,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1595,1414,1.5,5,0.17,40,6.8,"Katari, Sajyotsna",,1599.0,False,IND,1.0,1,0.74,40,29.6
+33451680,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1595,1414,1.5,5,0.17,40,6.8,"Aarush, Reddy V",,1577.0,False,IND,0.5,1,0.22,40,8.8
+33451680,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1595,1414,1.5,5,0.17,40,6.8,"Pooru, Harshith",,1572.0,False,IND,0.0,1,-0.29,40,-11.6
+33451680,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1595,1414,1.5,5,0.17,40,6.8,"Pritam, Darshan Nadimpalli",,1521.0,False,IND,0.0,1,-0.35,40,-14.0

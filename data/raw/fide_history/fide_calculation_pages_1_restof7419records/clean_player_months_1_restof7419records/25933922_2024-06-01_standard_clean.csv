@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25933922,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1546,1425,3.0,7,0.65,40,26.0,"Sumanth, Mamidala",,1553.0,False,IND,1.0,1,0.67,40,26.8
+25933922,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1546,1425,3.0,7,0.65,40,26.0,"Singh, Viraj",,1609.0,False,USA,0.0,1,-0.26,40,-10.4
+25933922,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1546,1425,3.0,7,0.65,40,26.0,"Mohammad, Abid",,1524.0,False,IND,0.5,1,0.14,40,5.6
+25933922,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1546,1425,3.0,7,0.65,40,26.0,"Kethan, Reddy Nandyala",,1518.0,False,IND,1.0,1,0.63,40,25.2
+25933922,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1546,1425,3.0,7,0.65,40,26.0,"Shaik, Mohammed Irfan",,1563.0,False,IND,0.5,1,0.19,40,7.6
+25933922,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1546,1425,3.0,7,0.65,40,26.0,"Sahejdeep, Kaur",,1527.0,False,IND,0.0,1,-0.36,40,-14.4
+25933922,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1546,1425,3.0,7,0.65,40,26.0,"Samim, S K",,1526.0,False,IND,0.0,1,-0.36,40,-14.4
+25933922,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1685,1425,0.5,4,-0.27,40,-10.8,"Saparya, Ghosh",,1825.0,True,IND,0.0,1,-0.08,40,-3.2
+25933922,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1685,1425,0.5,4,-0.27,40,-10.8,"Jayanta, Kr. Sarkar",,1695.0,False,IND,0.0,1,-0.17,40,-6.8
+25933922,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1685,1425,0.5,4,-0.27,40,-10.8,"Abir, Mitra",,1643.0,False,IND,0.0,1,-0.22,40,-8.8
+25933922,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1685,1425,0.5,4,-0.27,40,-10.8,"Aditya, Sur",,1576.0,False,IND,0.5,1,0.2,40,8.0

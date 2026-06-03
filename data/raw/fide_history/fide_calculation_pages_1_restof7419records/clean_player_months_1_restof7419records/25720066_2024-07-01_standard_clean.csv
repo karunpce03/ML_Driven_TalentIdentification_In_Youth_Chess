@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25720066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2205,2029,2.5,8,0.33,40,13.2,"Lohia, Sohum",f,2284.0,False,ENG,0.0,1,-0.19,40,-7.6
+25720066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2205,2029,2.5,8,0.33,40,13.2,"Diachek, Andriy",c,2202.0,False,POL,0.5,1,0.23,40,9.2
+25720066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2205,2029,2.5,8,0.33,40,13.2,"Thrish, Karthik",,2188.0,False,IND,0.0,1,-0.29,40,-11.6
+25720066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2205,2029,2.5,8,0.33,40,13.2,"Vegh, Endre",m,2167.0,False,HUN,1.0,1,0.69,40,27.6
+25720066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2205,2029,2.5,8,0.33,40,13.2,"Mihok-Juhasz, Barbara",wm,2200.0,False,HUN,0.0,1,-0.27,40,-10.8
+25720066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2205,2029,2.5,8,0.33,40,13.2,"Zakin, Ilay",,2174.0,False,ISR,0.0,1,-0.31,40,-12.4
+25720066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2205,2029,2.5,8,0.33,40,13.2,"Nagy, Ervin Dr.",m,2187.0,False,HUN,1.0,1,0.71,40,28.4
+25720066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2205,2029,2.5,8,0.33,40,13.2,"Fishchuk, Vladyslav",f,2234.0,False,UKR,0.0,1,-0.24,40,-9.6
+25720066,2024-07-01,0,SixDays Budapest June 2024 IM,Budapest HUN,2024-06-03,2024-06-08,2275,2029,2.5,9,0.72,40,28.8,"Dushatov, Timur",c,2228.0,False,KAZ,0.5,1,0.26,40,10.4
+25720066,2024-07-01,0,SixDays Budapest June 2024 IM,Budapest HUN,2024-06-03,2024-06-08,2275,2029,2.5,9,0.72,40,28.8,"Szalay-Ocsak, Bank",c,2279.0,False,HUN,0.5,1,0.31,40,12.4
+25720066,2024-07-01,0,SixDays Budapest June 2024 IM,Budapest HUN,2024-06-03,2024-06-08,2275,2029,2.5,9,0.72,40,28.8,"Rohrer, Christophe",f,2241.0,False,SUI,0.5,1,0.27,40,10.8
+25720066,2024-07-01,0,SixDays Budapest June 2024 IM,Budapest HUN,2024-06-03,2024-06-08,2275,2029,2.5,9,0.72,40,28.8,"To, Nhat Minh",m,2311.0,False,HUN,0.0,1,-0.16,40,-6.4
+25720066,2024-07-01,0,SixDays Budapest June 2024 IM,Budapest HUN,2024-06-03,2024-06-08,2275,2029,2.5,9,0.72,40,28.8,"Tregubenko, Nikolay",,2246.0,False,FID,0.5,1,0.28,40,11.2
+25720066,2024-07-01,0,SixDays Budapest June 2024 IM,Budapest HUN,2024-06-03,2024-06-08,2275,2029,2.5,9,0.72,40,28.8,"Szeberenyi, Adam",m,2257.0,False,HUN,0.5,1,0.29,40,11.6
+25720066,2024-07-01,0,SixDays Budapest June 2024 IM,Budapest HUN,2024-06-03,2024-06-08,2275,2029,2.5,9,0.72,40,28.8,"Neverov, Valeriy",g,2395.0,False,UKR,0.0,1,-0.1,40,-4.0
+25720066,2024-07-01,0,SixDays Budapest June 2024 IM,Budapest HUN,2024-06-03,2024-06-08,2275,2029,2.5,9,0.72,40,28.8,"Jaiveer, Mahendru",f,2195.0,False,IND,0.0,1,-0.28,40,-11.2
+25720066,2024-07-01,0,SixDays Budapest June 2024 IM,Budapest HUN,2024-06-03,2024-06-08,2275,2029,2.5,9,0.72,40,28.8,"Mouhamad, Joachim",f,2322.0,False,FRA,0.0,1,-0.15,40,-6.0

@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25745700,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2381,2408,5.5,10,0.14,10,1.4,"Bhagat, Kush",f,2270.0,False,IND,1.0,1,0.31,10,3.1
+25745700,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2381,2408,5.5,10,0.14,10,1.4,"Nagy, Gabor",g,2458.0,False,HUN,0.0,1,-0.43,10,-4.3
+25745700,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2381,2408,5.5,10,0.14,10,1.4,"Md, Imran",f,2382.0,False,IND,1.0,1,0.46,10,4.6
+25745700,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2381,2408,5.5,10,0.14,10,1.4,"Chen, Hongsen",,2442.0,False,CHN,0.0,1,-0.45,10,-4.5
+25745700,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2381,2408,5.5,10,0.14,10,1.4,"Aczel, Gergely",g,2488.0,False,HUN,0.5,1,0.11,10,1.1
+25745700,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2381,2408,5.5,10,0.14,10,1.4,"Peng, Hongchi",,2387.0,False,CHN,1.0,1,0.47,10,4.7
+25745700,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2381,2408,5.5,10,0.14,10,1.4,"Nguyen, Quoc Hy",f,2367.0,False,VIE,1.0,1,0.44,10,4.4
+25745700,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2381,2408,5.5,10,0.14,10,1.4,"Pap, Misa",g,2401.0,False,SRB,0.0,1,-0.51,10,-5.1
+25745700,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2381,2408,5.5,10,0.14,10,1.4,"Sklokin, Sergey",c,2257.0,False,FID,1.0,1,0.3,10,3.0
+25745700,2024-12-01,0,Vezerkezo GM November 2024,Budapest HUN,2024-11-04,2024-11-11,2381,2408,5.5,10,0.14,10,1.4,"Song, Edward",m,2362.0,False,USA,0.0,1,-0.56,10,-5.6
+25745700,2024-12-01,0,Vezerkepzo GM Eperjesi Laszlo Memorial,Budapest HUN,2024-11-13,2024-11-21,2390,2408,2.5,9,-2.22,10,-22.2,"Palczert, Matyas",f,2359.0,False,HUN,0.0,1,-0.57,10,-5.7
+25745700,2024-12-01,0,Vezerkepzo GM Eperjesi Laszlo Memorial,Budapest HUN,2024-11-13,2024-11-21,2390,2408,2.5,9,-2.22,10,-22.2,"Pap, Misa",g,2401.0,False,SRB,0.0,1,-0.51,10,-5.1
+25745700,2024-12-01,0,Vezerkepzo GM Eperjesi Laszlo Memorial,Budapest HUN,2024-11-13,2024-11-21,2390,2408,2.5,9,-2.22,10,-22.2,"Peng, Hongchi",,2387.0,False,CHN,0.0,1,-0.53,10,-5.3
+25745700,2024-12-01,0,Vezerkepzo GM Eperjesi Laszlo Memorial,Budapest HUN,2024-11-13,2024-11-21,2390,2408,2.5,9,-2.22,10,-22.2,"Panesar, Vedant",f,2441.0,False,IND,0.5,1,0.05,10,0.5
+25745700,2024-12-01,0,Vezerkepzo GM Eperjesi Laszlo Memorial,Budapest HUN,2024-11-13,2024-11-21,2390,2408,2.5,9,-2.22,10,-22.2,"Moksh, Amit Doshi",m,2391.0,False,IND,0.0,1,-0.52,10,-5.2
+25745700,2024-12-01,0,Vezerkepzo GM Eperjesi Laszlo Memorial,Budapest HUN,2024-11-13,2024-11-21,2390,2408,2.5,9,-2.22,10,-22.2,"Aarav, Sarbalia",f,2300.0,False,IND,1.0,1,0.35,10,3.5
+25745700,2024-12-01,0,Vezerkepzo GM Eperjesi Laszlo Memorial,Budapest HUN,2024-11-13,2024-11-21,2390,2408,2.5,9,-2.22,10,-22.2,"Nguyen, Quoc Hy",f,2367.0,False,VIE,0.0,1,-0.56,10,-5.6
+25745700,2024-12-01,0,Vezerkepzo GM Eperjesi Laszlo Memorial,Budapest HUN,2024-11-13,2024-11-21,2390,2408,2.5,9,-2.22,10,-22.2,"Berczes, David",g,2413.0,False,HUN,1.0,1,0.51,10,5.1
+25745700,2024-12-01,0,Vezerkepzo GM Eperjesi Laszlo Memorial,Budapest HUN,2024-11-13,2024-11-21,2390,2408,2.5,9,-2.22,10,-22.2,"Mirzoev, Azer",g,2454.0,False,AZE,0.0,1,-0.44,10,-4.4

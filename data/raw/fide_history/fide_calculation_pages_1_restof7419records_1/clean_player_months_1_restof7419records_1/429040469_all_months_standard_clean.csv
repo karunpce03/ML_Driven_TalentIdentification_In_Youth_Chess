@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429040469,2024-08-01,0,47th All Assam Men's Open Rating Tournament 2024,Nagaon IND,2024-07-16,2024-07-20,1808,1594,0.5,3,-0.23,40,-9.2,"Tanmay, Rajbongshi",,1960.0,False,IND,0.0,1,-0.1,40,-4.0
+429040469,2024-08-01,0,47th All Assam Men's Open Rating Tournament 2024,Nagaon IND,2024-07-16,2024-07-20,1808,1594,0.5,3,-0.23,40,-9.2,"Pulakesh, Sahu",,1746.0,False,IND,0.0,1,-0.3,40,-12.0
+429040469,2024-08-01,0,47th All Assam Men's Open Rating Tournament 2024,Nagaon IND,2024-07-16,2024-07-20,1808,1594,0.5,3,-0.23,40,-9.2,"Abhirup, Saikia",,1718.0,False,IND,0.5,1,0.17,40,6.8

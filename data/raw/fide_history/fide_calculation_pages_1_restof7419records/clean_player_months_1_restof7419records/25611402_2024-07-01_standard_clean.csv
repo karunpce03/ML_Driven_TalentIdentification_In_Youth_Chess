@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25611402,2024-07-01,0,"4th Sahibkiran Amir Temur Cup ""A"" group",Tashkent UZB,2024-05-29,2024-06-04,2131,1879,5.0,9,3.13,38,118.94,"Markov, Mikhail",m,2279,True,KGZ,0.5,1,0.42,38,15.96
+25611402,2024-07-01,0,"4th Sahibkiran Amir Temur Cup ""A"" group",Tashkent UZB,2024-05-29,2024-06-04,2131,1879,5.0,9,3.13,38,118.94,"Omonova, Umida",wm,2143,False,UZB,0.0,1,-0.18,38,-6.84
+25611402,2024-07-01,0,"4th Sahibkiran Amir Temur Cup ""A"" group",Tashkent UZB,2024-05-29,2024-06-04,2131,1879,5.0,9,3.13,38,118.94,"Khadijah, Qurotaain",wf,2023,False,INA,1.0,1,0.69,38,26.22
+25611402,2024-07-01,0,"4th Sahibkiran Amir Temur Cup ""A"" group",Tashkent UZB,2024-05-29,2024-06-04,2131,1879,5.0,9,3.13,38,118.94,"Bobomurodova, Maftuna",wm,1966,False,UZB,1.0,1,0.62,38,23.56
+25611402,2024-07-01,0,"4th Sahibkiran Amir Temur Cup ""A"" group",Tashkent UZB,2024-05-29,2024-06-04,2131,1879,5.0,9,3.13,38,118.94,"Samandarov, Sherzod",,2100,False,UZB,0.5,1,0.28,38,10.64
+25611402,2024-07-01,0,"4th Sahibkiran Amir Temur Cup ""A"" group",Tashkent UZB,2024-05-29,2024-06-04,2131,1879,5.0,9,3.13,38,118.94,"Fayzullaev, Akmal",m,2279,True,UZB,0.0,1,-0.08,38,-3.04
+25611402,2024-07-01,0,"4th Sahibkiran Amir Temur Cup ""A"" group",Tashkent UZB,2024-05-29,2024-06-04,2131,1879,5.0,9,3.13,38,118.94,"Zheenbekov, Nurgazy",,2107,False,KGZ,0.5,1,0.29,38,11.02
+25611402,2024-07-01,0,"4th Sahibkiran Amir Temur Cup ""A"" group",Tashkent UZB,2024-05-29,2024-06-04,2131,1879,5.0,9,3.13,38,118.94,"Botiraliev, Abdumajid",,2007,False,UZB,1.0,1,0.67,38,25.46
+25611402,2024-07-01,0,"4th Sahibkiran Amir Temur Cup ""A"" group",Tashkent UZB,2024-05-29,2024-06-04,2131,1879,5.0,9,3.13,38,118.94,"Arfan, Aditya Bagus",m,2279,True,INA,0.5,1,0.42,38,15.96
+25611402,2024-07-01,0,26th Asian Youth Chess Championship U18 group,Almaty KAZ,2024-06-12,2024-06-19,2020,1853,3.5,9,0.63,38,23.94,"Bagwe, Gaurang",f,2253,True,IND,0.5,1,0.42,38,15.96
+25611402,2024-07-01,0,26th Asian Youth Chess Championship U18 group,Almaty KAZ,2024-06-12,2024-06-19,2020,1853,3.5,9,0.63,38,23.94,"Harsh, Suresh",f,2253,True,IND,1.0,1,0.92,38,34.96
+25611402,2024-07-01,0,26th Asian Youth Chess Championship U18 group,Almaty KAZ,2024-06-12,2024-06-19,2020,1853,3.5,9,0.63,38,23.94,"Ajay, Santhosh Parvathareddy",,2163,False,IND,0.0,1,-0.14,38,-5.32
+25611402,2024-07-01,0,26th Asian Youth Chess Championship U18 group,Almaty KAZ,2024-06-12,2024-06-19,2020,1853,3.5,9,0.63,38,23.94,"Sai, Han Thiha",f,2123,False,MYA,0.0,1,-0.17,38,-6.46
+25611402,2024-07-01,0,26th Asian Youth Chess Championship U18 group,Almaty KAZ,2024-06-12,2024-06-19,2020,1853,3.5,9,0.63,38,23.94,"Ijlal, Amer",,1723,False,PAK,0.5,1,-0.18,38,-6.84
+25611402,2024-07-01,0,26th Asian Youth Chess Championship U18 group,Almaty KAZ,2024-06-12,2024-06-19,2020,1853,3.5,9,0.63,38,23.94,"Maraimov, Khudoyor",,1706,False,UZB,1.0,1,0.3,38,11.4
+25611402,2024-07-01,0,26th Asian Youth Chess Championship U18 group,Almaty KAZ,2024-06-12,2024-06-19,2020,1853,3.5,9,0.63,38,23.94,"Hommadov, Amanmuhammet",,2141,False,TKM,0.0,1,-0.16,38,-6.08
+25611402,2024-07-01,0,26th Asian Youth Chess Championship U18 group,Almaty KAZ,2024-06-12,2024-06-19,2020,1853,3.5,9,0.63,38,23.94,"Anas, Khwaira",,2048,False,JOR,0.0,1,-0.25,38,-9.5
+25611402,2024-07-01,0,26th Asian Youth Chess Championship U18 group,Almaty KAZ,2024-06-12,2024-06-19,2020,1853,3.5,9,0.63,38,23.94,"Lai, Hong-Yi",,1773,False,TPE,0.5,1,-0.11,38,-4.18

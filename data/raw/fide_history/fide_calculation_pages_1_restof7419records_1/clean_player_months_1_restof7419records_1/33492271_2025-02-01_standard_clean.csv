@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33492271,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1454,1412,4.5,10,0.07,40,2.8,"Lalith, Srihaas Mendi",,1507.0,False,IND,0.5,1,0.13,40,5.2
+33492271,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1454,1412,4.5,10,0.07,40,2.8,"Rishi, Chaturvedi",,1444.0,False,IND,0.0,1,-0.46,40,-18.4
+33492271,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1454,1412,4.5,10,0.07,40,2.8,"Prayank, Gaonkar",,1475.0,False,IND,0.5,1,0.09,40,3.6
+33492271,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1454,1412,4.5,10,0.07,40,2.8,"Samrat, Jindal",,1440.0,False,IND,0.5,1,0.04,40,1.6
+33492271,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1454,1412,4.5,10,0.07,40,2.8,"Hamzah, Malik",,1437.0,False,IND,0.5,1,0.03,40,1.2
+33492271,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1454,1412,4.5,10,0.07,40,2.8,"Gaikwad, Anvit",,1438.0,False,IND,1.0,1,0.54,40,21.6
+33492271,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1454,1412,4.5,10,0.07,40,2.8,"Gajjar, Dewarth",,1431.0,False,IND,0.0,1,-0.47,40,-18.8
+33492271,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1454,1412,4.5,10,0.07,40,2.8,"Jevyn, Joe",,1444.0,False,IND,0.5,1,0.04,40,1.6
+33492271,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1454,1412,4.5,10,0.07,40,2.8,"Padmesh, C K S",,1444.0,False,IND,0.5,1,0.04,40,1.6
+33492271,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1454,1412,4.5,10,0.07,40,2.8,"Vidyuth, V",,1476.0,False,IND,0.5,1,0.09,40,3.6

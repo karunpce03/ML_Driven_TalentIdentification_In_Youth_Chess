@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25977458,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1639,1472,1.0,4,-0.15,40,-6.0,"Shriya, Guleria",,1462.0,False,IND,1.0,1,0.49,40,19.6
+25977458,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1639,1472,1.0,4,-0.15,40,-6.0,"Minki, Sinha",,1702.0,False,IND,0.0,1,-0.21,40,-8.4
+25977458,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1639,1472,1.0,4,-0.15,40,-6.0,"Avika, Panwar",,1680.0,False,IND,0.0,1,-0.23,40,-9.2
+25977458,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1639,1472,1.0,4,-0.15,40,-6.0,"Akankhya, Kabi",,1710.0,False,IND,0.0,1,-0.2,40,-8.0

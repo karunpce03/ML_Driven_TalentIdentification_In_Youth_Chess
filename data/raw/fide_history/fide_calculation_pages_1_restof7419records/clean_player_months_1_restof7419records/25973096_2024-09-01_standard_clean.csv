@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25973096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1960,1828,6.5,9,3.41,40,136.4,"Lad, Mandar Pradip",,2228,True,IND,0.0,1,-0.08,40,-3.2
+25973096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1960,1828,6.5,9,3.41,40,136.4,"Ahmed, Ali Bamatraf",,1635,False,UAE,1.0,1,0.25,40,10.0
+25973096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1960,1828,6.5,9,3.41,40,136.4,"Nilesh, Karthick",,1463,False,IND,1.0,1,0.1,40,4.0
+25973096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1960,1828,6.5,9,3.41,40,136.4,"Mohamed, Saeed Laily",c,1962,False,UAE,1.0,1,0.68,40,27.2
+25973096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1960,1828,6.5,9,3.41,40,136.4,"Saif, Ahmed",,2022,False,UAE,0.0,1,-0.25,40,-10.0
+25973096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1960,1828,6.5,9,3.41,40,136.4,"Orazalina, Nursulu",,1950,False,KAZ,1.0,1,0.67,40,26.8
+25973096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1960,1828,6.5,9,3.41,40,136.4,"Alhassadi, Yousef A.",f,2134,False,LBA,0.5,1,0.36,40,14.4
+25973096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1960,1828,6.5,9,3.41,40,136.4,"Unwana, Eugene Ekpoikong",f,2042,False,NGR,1.0,1,0.77,40,30.8
+25973096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1960,1828,6.5,9,3.41,40,136.4,"Abdullayev, Elshad",,2205,False,AZE,1.0,1,0.91,40,36.4

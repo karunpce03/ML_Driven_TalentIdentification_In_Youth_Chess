@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33398950,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1961,1803,5.0,10,1.85,40,74.0,"Arijit, Ghosh",,1700,False,IND,0.5,1,-0.14,40,-5.6
+33398950,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1961,1803,5.0,10,1.85,40,74.0,"Dishita, Dey",,1666,False,IND,1.0,1,0.32,40,12.8
+33398950,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1961,1803,5.0,10,1.85,40,74.0,"Fominyh, Alexander",g,2203,True,RUS,0.5,1,0.42,40,16.8
+33398950,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1961,1803,5.0,10,1.85,40,74.0,"Murugan, Krishnamoorthy",m,2192,False,IND,0.5,1,0.41,40,16.4
+33398950,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1961,1803,5.0,10,1.85,40,74.0,"Md Anichuzzaman, Jewel",,1963,False,BAN,0.5,1,0.21,40,8.4
+33398950,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1961,1803,5.0,10,1.85,40,74.0,"Bristy, Mukherjee",wf,1947,False,IND,1.0,1,0.69,40,27.6
+33398950,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1961,1803,5.0,10,1.85,40,74.0,"Saparya, Ghosh",wf,1991,False,IND,0.0,1,-0.26,40,-10.4
+33398950,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1961,1803,5.0,10,1.85,40,74.0,"Samuel, Stephen Noble S",,1964,False,IND,0.5,1,0.21,40,8.4
+33398950,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1961,1803,5.0,10,1.85,40,74.0,"Nimay, Agrawal",c,2005,False,IND,0.0,1,-0.24,40,-9.6
+33398950,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1961,1803,5.0,10,1.85,40,74.0,"Gopal, Krishna Maheshwari",,1980,False,IND,0.5,1,0.23,40,9.2

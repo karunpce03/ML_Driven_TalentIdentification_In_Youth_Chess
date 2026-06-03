@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33393168,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1699,1666,2.0,7,-1.22,40,-48.8,"Mirzaei, Saleh",,1960.0,False,IRI,0.0,1,-0.15,40,-6.0
+33393168,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1699,1666,2.0,7,-1.22,40,-48.8,"Al Riyami, Saeed",,1426.0,False,OMA,1.0,1,0.2,40,8.0
+33393168,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1699,1666,2.0,7,-1.22,40,-48.8,"Al-Qudaimi, Abdullah",,1814.0,False,YEM,1.0,1,0.7,40,28.0
+33393168,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1699,1666,2.0,7,-1.22,40,-48.8,"Al Busaidi, Hamood",c,1890.0,False,OMA,0.0,1,-0.22,40,-8.8
+33393168,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1699,1666,2.0,7,-1.22,40,-48.8,"Shaurya, Dinesh Sawlani",,1830.0,False,IND,0.0,1,-0.28,40,-11.2
+33393168,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1699,1666,2.0,7,-1.22,40,-48.8,"Jaberi, Valeed",,1503.0,False,TUR,0.0,1,-0.72,40,-28.8
+33393168,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1699,1666,2.0,7,-1.22,40,-48.8,"Reyansh, Amit Bodkhe",,1470.0,False,IND,0.0,1,-0.75,40,-30.0

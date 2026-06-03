@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88153401,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1638,1430,0.0,3,-0.77,40,-30.8,"Ayyappan, P Santhana Prabu",,1830,True,IND,0.0,1,-0.08,40,-3.2
+88153401,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1638,1430,0.0,3,-0.77,40,-30.8,"Vasudev, R",,1552,False,IND,0.0,1,-0.33,40,-13.2
+88153401,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1638,1430,0.0,3,-0.77,40,-30.8,"Aadhesh, Nambi",,1533,False,IND,0.0,1,-0.36,40,-14.4

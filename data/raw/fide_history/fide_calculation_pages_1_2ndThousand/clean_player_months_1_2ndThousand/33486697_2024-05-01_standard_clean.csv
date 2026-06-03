@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33486697,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1722,1737,6.0,10,0.6,40,24.0,"Vedanth, Nayak",,1453,False,IND,1.0,1,0.16,40,6.4
+33486697,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1722,1737,6.0,10,0.6,40,24.0,"Sahana, S",,1569,False,IND,1.0,1,0.28,40,11.2
+33486697,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1722,1737,6.0,10,0.6,40,24.0,"Kaustuv, Kundu",,2137,True,IND,0.0,1,-0.08,40,-3.2
+33486697,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1722,1737,6.0,10,0.6,40,24.0,"Shraddha, Naresh Padvekar",,1581,False,IND,1.0,1,0.29,40,11.6
+33486697,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1722,1737,6.0,10,0.6,40,24.0,"Saket, Kumar",,1578,False,IND,1.0,1,0.29,40,11.6
+33486697,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1722,1737,6.0,10,0.6,40,24.0,"Aditya, Savalkar",,1848,False,IND,0.0,1,-0.35,40,-14.0
+33486697,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1722,1737,6.0,10,0.6,40,24.0,"Guhan, Nelamangala Harsha",,1632,False,IND,1.0,1,0.36,40,14.4
+33486697,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1722,1737,6.0,10,0.6,40,24.0,"Balkishan, A.",,2137,True,IND,0.0,1,-0.08,40,-3.2
+33486697,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1722,1737,6.0,10,0.6,40,24.0,"Siddhi, Rao",,1653,False,IND,0.5,1,-0.12,40,-4.8
+33486697,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1722,1737,6.0,10,0.6,40,24.0,"Menon, Padmanand",,1627,False,IND,0.5,1,-0.15,40,-6.0

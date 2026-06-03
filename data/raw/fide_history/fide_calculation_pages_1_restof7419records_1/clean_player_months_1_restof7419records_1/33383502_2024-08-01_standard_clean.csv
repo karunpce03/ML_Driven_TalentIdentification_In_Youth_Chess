@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33383502,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1570,1408,2.5,7,0.46,40,18.4,"Samarth, Jain",,1737.0,False,IND,0.0,1,-0.12,40,-4.8
+33383502,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1570,1408,2.5,7,0.46,40,18.4,"Bhavya, Arora",,1559.0,False,IND,0.0,1,-0.3,40,-12.0
+33383502,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1570,1408,2.5,7,0.46,40,18.4,"Saket, Kumar",,1547.0,False,IND,1.0,1,0.69,40,27.6
+33383502,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1570,1408,2.5,7,0.46,40,18.4,"Awasthi, Balgovind",,1576.0,False,IND,0.0,1,-0.28,40,-11.2
+33383502,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1570,1408,2.5,7,0.46,40,18.4,"Advay, Srivastava",,1529.0,False,IND,0.5,1,0.16,40,6.4
+33383502,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1570,1408,2.5,7,0.46,40,18.4,"Ateeksh, Singh Jeena",,1531.0,False,IND,0.5,1,0.17,40,6.8
+33383502,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1570,1408,2.5,7,0.46,40,18.4,"Dhruvansh, Sethi",,1514.0,False,IND,0.5,1,0.14,40,5.6

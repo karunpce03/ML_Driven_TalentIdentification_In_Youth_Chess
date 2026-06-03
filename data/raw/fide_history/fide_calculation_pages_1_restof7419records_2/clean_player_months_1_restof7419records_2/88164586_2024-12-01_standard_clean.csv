@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88164586,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1530,1564,1.5,6,-1.89,40,-75.6,"Krishiv, Kapish Mittal",,1449,False,IND,1.0,1,0.34,40,13.6
+88164586,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1530,1564,1.5,6,-1.89,40,-75.6,"Palit, Somak",m,1964,True,IND,0.0,1,-0.08,40,-3.2
+88164586,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1530,1564,1.5,6,-1.89,40,-75.6,Saksham,,1405,False,IND,0.0,1,-0.71,40,-28.4
+88164586,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1530,1564,1.5,6,-1.89,40,-75.6,"Anushree, Venkatraman",,1496,False,IND,0.5,1,-0.09,40,-3.6
+88164586,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1530,1564,1.5,6,-1.89,40,-75.6,Hitansh,,1404,False,IND,0.0,1,-0.71,40,-28.4
+88164586,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1530,1564,1.5,6,-1.89,40,-75.6,"Saurav, Dutta",,1462,False,IND,0.0,1,-0.64,40,-25.6

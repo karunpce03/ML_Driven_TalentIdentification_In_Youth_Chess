@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48787400,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1687,1536,0.0,3,-0.89,40,-35.6,"Bharat, Bansal",,1728.0,False,IND,0.0,1,-0.25,40,-10.0
+48787400,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1687,1536,0.0,3,-0.89,40,-35.6,"Parigyan, Chakraborty",,1674.0,False,IND,0.0,1,-0.31,40,-12.4
+48787400,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1687,1536,0.0,3,-0.89,40,-35.6,"Pawan, Sain",,1660.0,False,IND,0.0,1,-0.33,40,-13.2
+48787400,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1753,1500,5.0,8,3.45,40,138.0,"Shrivastava, Kushagra",,1810.0,False,IND,0.5,1,0.36,40,14.4
+48787400,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1753,1500,5.0,8,3.45,40,138.0,"Aryan, Pal",,1632.0,False,IND,1.0,1,0.68,40,27.2
+48787400,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1753,1500,5.0,8,3.45,40,138.0,"Kriti, Mayur Patel",wc,1781.0,False,IND,1.0,1,0.84,40,33.6
+48787400,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1753,1500,5.0,8,3.45,40,138.0,"Himanshu, Ranjan",,1866.0,False,IND,0.0,1,-0.1,40,-4.0
+48787400,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1753,1500,5.0,8,3.45,40,138.0,"Chaturvedi, Dewansh",,1772.0,False,IND,0.5,1,0.33,40,13.2
+48787400,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1753,1500,5.0,8,3.45,40,138.0,"Abhay, Chetty",,1738.0,False,IND,0.5,1,0.3,40,12.0
+48787400,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1753,1500,5.0,8,3.45,40,138.0,"Sresth, Yadav",,1657.0,False,IND,1.0,1,0.71,40,28.4
+48787400,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1753,1500,5.0,8,3.45,40,138.0,"Aabhas, Kumar Srivastava",,1768.0,False,IND,0.5,1,0.33,40,13.2

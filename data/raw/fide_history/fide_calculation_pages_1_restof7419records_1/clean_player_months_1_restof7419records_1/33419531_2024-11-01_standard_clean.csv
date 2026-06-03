@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33419531,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2022,1914,5.5,9,2.27,40,90.8,"Sunko, Sviatoslav",,2045.0,False,GER,0.5,1,0.18,40,7.2
+33419531,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2022,1914,5.5,9,2.27,40,90.8,"Marcziter, Dmitrii",f,2210.0,False,GER,0.0,1,-0.15,40,-6.0
+33419531,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2022,1914,5.5,9,2.27,40,90.8,"Tennstedt, Andreas, Dr.",,2035.0,False,GER,1.0,1,0.66,40,26.4
+33419531,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2022,1914,5.5,9,2.27,40,90.8,"Olbrich, Leonard",,1654.0,False,GER,1.0,1,0.18,40,7.2
+33419531,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2022,1914,5.5,9,2.27,40,90.8,"Bennemann, Ingmar",,2045.0,False,GER,1.0,1,0.68,40,27.2
+33419531,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2022,1914,5.5,9,2.27,40,90.8,"Winkler, Yonathan",,2147.0,False,GER,0.0,1,-0.21,40,-8.4
+33419531,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2022,1914,5.5,9,2.27,40,90.8,"Mueller, Frank",,1981.0,False,GER,0.5,1,0.09,40,3.6
+33419531,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2022,1914,5.5,9,2.27,40,90.8,"Marcziter, Alex",,2059.0,False,GER,1.0,1,0.69,40,27.6
+33419531,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2022,1914,5.5,9,2.27,40,90.8,"Jansen, Dirk",,2023.0,False,GER,0.5,1,0.15,40,6.0
+33419531,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2072,1914,3.5,8,1.09,40,43.6,"Girel, Joseph",g,2314.0,True,FRA,0.0,1,-0.08,40,-3.2
+33419531,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2072,1914,3.5,8,1.09,40,43.6,"Rounaiv, Rana",,2043.0,False,IND,0.0,1,-0.33,40,-13.2
+33419531,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2072,1914,3.5,8,1.09,40,43.6,"Daksh, Jain",,2029.0,False,IND,0.0,1,-0.34,40,-13.6
+33419531,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2072,1914,3.5,8,1.09,40,43.6,"Vayanos, George Marwan",,2049.0,False,LBN,0.0,1,-0.32,40,-12.8
+33419531,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2072,1914,3.5,8,1.09,40,43.6,"Bryant, Harry",,2008.0,False,ENG,0.5,1,0.13,40,5.2
+33419531,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2072,1914,3.5,8,1.09,40,43.6,"Yaghi, Leen",,2008.0,False,FRA,1.0,1,0.63,40,25.2
+33419531,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2072,1914,3.5,8,1.09,40,43.6,"Maccagnan, Tomas",,2047.0,False,FRA,1.0,1,0.68,40,27.2
+33419531,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2072,1914,3.5,8,1.09,40,43.6,"Delaplace, Mathias",,2079.0,False,FRA,1.0,1,0.72,40,28.8

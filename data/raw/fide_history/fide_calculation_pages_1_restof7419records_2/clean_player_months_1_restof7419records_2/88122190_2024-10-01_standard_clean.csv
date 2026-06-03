@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88122190,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1667,1885,4.5,6,0.01,40,0.4,"Bou Hamdan, Hani.",,1485,True,SYR,1.0,1,0.08,40,3.2
+88122190,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1667,1885,4.5,6,0.01,40,0.4,"Taksh, Agrawal",,1599,False,IND,1.0,1,0.16,40,6.4
+88122190,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1667,1885,4.5,6,0.01,40,0.4,"Mithilesh, Ranjithkumar",,1954,False,IND,0.0,1,-0.4,40,-16.0
+88122190,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1667,1885,4.5,6,0.01,40,0.4,"Ezhil, Aadhav Kaladharan",,1783,False,IND,1.0,1,0.36,40,14.4
+88122190,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1667,1885,4.5,6,0.01,40,0.4,"Nishaanth, Vidyasagar",,1631,False,IND,0.5,1,-0.31,40,-12.4
+88122190,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1667,1885,4.5,6,0.01,40,0.4,"Bhavanya, Panchumarthi",,1547,False,IND,1.0,1,0.12,40,4.8

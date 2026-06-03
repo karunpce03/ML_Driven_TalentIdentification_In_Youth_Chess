@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33395462,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1609,1425,0.0,2,-0.52,40,-20.8,"Aadvik, A S",,1623.0,False,IND,0.0,1,-0.24,40,-9.6
+33395462,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1609,1425,0.0,2,-0.52,40,-20.8,"Samhith, M",,1595.0,False,IND,0.0,1,-0.28,40,-11.2
+33395462,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1578,1425,0.0,2,-0.59,40,-23.6,"Brijesh, Poola",,1608.0,False,IND,0.0,1,-0.26,40,-10.4
+33395462,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1578,1425,0.0,2,-0.59,40,-23.6,"Monish, G",,1547.0,False,IND,0.0,1,-0.33,40,-13.2

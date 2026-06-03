@@ -1,0 +1,16 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366096448,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,3.0,8,0.0,1400,,"Shivam, Shah",,1517.0,False,IND,1.0,1,0.0,,0.0
+366096448,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,3.0,8,0.0,1400,,"Aharsi, Ghosh",,1648.0,False,IND,0.0,1,0.0,,0.0
+366096448,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,3.0,8,0.0,1400,,"Shatodru, Das",,1476.0,False,IND,0.0,1,0.0,,0.0
+366096448,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,3.0,8,0.0,1400,,"Dipro, Mandal",,1463.0,False,IND,0.5,1,0.0,,0.0
+366096448,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,3.0,8,0.0,1400,,"Yug, Desai",,1504.0,False,IND,0.0,1,0.0,,0.0
+366096448,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,3.0,8,0.0,1400,,"Anuj, Roy Chowdhury",,1437.0,False,IND,0.5,1,0.0,,0.0
+366096448,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,3.0,8,0.0,1400,,"Aniket, Das",,1432.0,False,IND,0.5,1,0.0,,0.0
+366096448,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,3.0,8,0.0,1400,,"Nevan, Goenka",,1419.0,False,IND,0.5,1,0.0,,0.0
+366096448,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1575.0,1478.0,3.0,7,0.42,40,16.8,"Samneet, Munde",,1582.0,False,IND,0.5,1,0.14,40.0,5.6
+366096448,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1575.0,1478.0,3.0,7,0.42,40,16.8,"Piyush, Kumar Mishra",,1600.0,False,IND,0.0,1,-0.33,40.0,-13.2
+366096448,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1575.0,1478.0,3.0,7,0.42,40,16.8,"Himanshu, Gujjar",,1576.0,False,IND,1.0,1,0.63,40.0,25.2
+366096448,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1575.0,1478.0,3.0,7,0.42,40,16.8,"Sheikh, Jahan",,1639.0,False,IND,0.0,1,-0.29,40.0,-11.6
+366096448,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1575.0,1478.0,3.0,7,0.42,40,16.8,"Vihaan, Sinha",,1539.0,False,IND,0.5,1,0.08,40.0,3.2
+366096448,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1575.0,1478.0,3.0,7,0.42,40,16.8,"Avinash, Kumar Yadav",,1542.0,False,IND,0.5,1,0.09,40.0,3.6
+366096448,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1575.0,1478.0,3.0,7,0.42,40,16.8,"Siddharth, Shandilya",,1549.0,False,IND,0.5,1,0.1,40.0,4.0

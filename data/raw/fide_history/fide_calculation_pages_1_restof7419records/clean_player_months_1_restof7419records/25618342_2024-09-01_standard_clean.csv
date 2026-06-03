@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25618342,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2300,2445,6.0,9,0.05,10,0.5,"Dinesh, Rajan M",,2092.0,False,IND,0.5,1,-0.39,10,-3.9
+25618342,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2300,2445,6.0,9,0.05,10,0.5,"Tencati, Giuseppe",,2046.0,False,ITA,1.0,1,0.08,10,0.8
+25618342,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2300,2445,6.0,9,0.05,10,0.5,"Kretainis, Kristaps",,2185.0,False,LAT,1.0,1,0.18,10,1.8
+25618342,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2300,2445,6.0,9,0.05,10,0.5,"Vardanyan, Aras",c,2300.0,False,LTU,0.5,1,-0.19,10,-1.9
+25618342,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2300,2445,6.0,9,0.05,10,0.5,"Tirelli, Mauro",,2274.0,False,ITA,1.0,1,0.27,10,2.7
+25618342,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2300,2445,6.0,9,0.05,10,0.5,"Safarli, Eltaj",g,2602.0,False,AZE,0.5,1,0.21,10,2.1
+25618342,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2300,2445,6.0,9,0.05,10,0.5,"Germanovs, Georgijs",,2132.0,False,LAT,1.0,1,0.14,10,1.4
+25618342,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2300,2445,6.0,9,0.05,10,0.5,"Chen, Qi B",m,2485.0,False,CHN,0.5,1,0.06,10,0.6
+25618342,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2300,2445,6.0,9,0.05,10,0.5,"Kazakouski, Valery",g,2588.0,False,LTU,0.0,1,-0.31,10,-3.1
+25618342,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2342,2445,5.0,9,-0.76,10,-7.6,"Baradaran Tamadon, Arian",f,2304.0,False,IRI,0.0,1,-0.69,10,-6.9
+25618342,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2342,2445,5.0,9,-0.76,10,-7.6,"Xie, Felix",f,2326.0,False,NZL,1.0,1,0.34,10,3.4
+25618342,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2342,2445,5.0,9,-0.76,10,-7.6,"Yeganegi, Barad",f,2355.0,False,IRI,0.5,1,-0.12,10,-1.2
+25618342,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2342,2445,5.0,9,-0.76,10,-7.6,"Ritviz, Parab",f,2375.0,False,IND,0.0,1,-0.6,10,-6.0
+25618342,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2342,2445,5.0,9,-0.76,10,-7.6,"Mammadova, Narmin",wm,2327.0,False,AZE,1.0,1,0.34,10,3.4
+25618342,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2342,2445,5.0,9,-0.76,10,-7.6,"Yarar, Bora",f,2365.0,False,TUR,1.0,1,0.39,10,3.9
+25618342,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2342,2445,5.0,9,-0.76,10,-7.6,"Daaevik, Wadhawan",f,2323.0,False,IND,0.5,1,-0.17,10,-1.7
+25618342,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2342,2445,5.0,9,-0.76,10,-7.6,"Soham, Kamotra",f,2382.0,False,IND,0.0,1,-0.59,10,-5.9
+25618342,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2342,2445,5.0,9,-0.76,10,-7.6,"Novozhilov, Semen",f,2324.0,False,RUS,1.0,1,0.34,10,3.4

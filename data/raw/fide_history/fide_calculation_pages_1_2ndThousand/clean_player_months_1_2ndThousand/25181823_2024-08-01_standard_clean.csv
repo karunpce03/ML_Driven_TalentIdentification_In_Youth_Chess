@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25181823,2024-08-01,0,FIDE WORLD CUP U12 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1905,1957,4.0,7,0.05,40,2.0,"Lee, Daniel Joshua",,1717.0,False,CAN,1.0,1,0.2,40,8.0
+25181823,2024-08-01,0,FIDE WORLD CUP U12 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1905,1957,4.0,7,0.05,40,2.0,"Yin, Zeming",,1832.0,False,CAN,1.0,1,0.33,40,13.2
+25181823,2024-08-01,0,FIDE WORLD CUP U12 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1905,1957,4.0,7,0.05,40,2.0,"Yang, Zilong",,1874.0,False,CHN,0.5,1,-0.11,40,-4.4
+25181823,2024-08-01,0,FIDE WORLD CUP U12 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1905,1957,4.0,7,0.05,40,2.0,"Obidov, Biloliddin",,1998.0,False,UZB,0.5,1,0.06,40,2.4
+25181823,2024-08-01,0,FIDE WORLD CUP U12 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1905,1957,4.0,7,0.05,40,2.0,"Guo, Ethan",c,2136.0,False,USA,0.0,1,-0.27,40,-10.8
+25181823,2024-08-01,0,FIDE WORLD CUP U12 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1905,1957,4.0,7,0.05,40,2.0,"Haresh, Venkata Narayanaswamy",,1728.0,False,SGP,1.0,1,0.21,40,8.4
+25181823,2024-08-01,0,FIDE WORLD CUP U12 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1905,1957,4.0,7,0.05,40,2.0,"Syed, Abdul Khader",,2050.0,False,IND,0.0,1,-0.37,40,-14.8
+25181823,2024-08-01,0,FIDE WORLD CUP U12 Open (Stage-II),Batumi GEO,2024-07-01,2024-07-02,1919,1981,0.5,2,-0.68,40,-27.2,"Zhang, Haoxuan(zj)",,1919.0,False,CHN,0.5,1,-0.09,40,-3.6
+25181823,2024-08-01,0,FIDE WORLD CUP U12 Open (Stage-II),Batumi GEO,2024-07-01,2024-07-02,1919,1981,0.5,2,-0.68,40,-27.2,"Zhang, Haoxuan(zj)",,1919.0,False,CHN,0.0,1,-0.59,40,-23.6
+25181823,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1662,1981,7.0,8,0.16,40,6.4,"Advik, Upadhyaya",,1581.0,True,IND,1.0,1,0.08,40,3.2
+25181823,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1662,1981,7.0,8,0.16,40,6.4,"Sragvidha, S",,1596.0,False,IND,1.0,1,0.09,40,3.6
+25181823,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1662,1981,7.0,8,0.16,40,6.4,"Aarush, Bhat",,1619.0,False,IND,1.0,1,0.1,40,4.0
+25181823,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1662,1981,7.0,8,0.16,40,6.4,"Yuvanesh, A",,1752.0,False,IND,0.0,1,-0.79,40,-31.6
+25181823,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1662,1981,7.0,8,0.16,40,6.4,"Rithesh, K",,1622.0,False,IND,1.0,1,0.1,40,4.0
+25181823,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1662,1981,7.0,8,0.16,40,6.4,"Aaditya, Ranjan Sahu",,1663.0,False,IND,1.0,1,0.13,40,5.2
+25181823,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1662,1981,7.0,8,0.16,40,6.4,"Chinmay, Kowshik",,1883.0,False,IND,1.0,1,0.37,40,14.8
+25181823,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1662,1981,7.0,8,0.16,40,6.4,"Nandan, M M B",,1581.0,True,IND,1.0,1,0.08,40,3.2

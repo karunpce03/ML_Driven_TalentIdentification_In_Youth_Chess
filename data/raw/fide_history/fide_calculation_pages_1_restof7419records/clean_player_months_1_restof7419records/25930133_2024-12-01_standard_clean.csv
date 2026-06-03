@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25930133,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1929,1878,7.0,11,2.24,35,78.4,"Sai, Srikar Dharmavarapu",,1545.0,False,IND,1.0,1,0.12,35,4.2
+25930133,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1929,1878,7.0,11,2.24,35,78.4,"Dahale, Rajas",,1706.0,False,IND,1.0,1,0.27,35,9.45
+25930133,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1929,1878,7.0,11,2.24,35,78.4,"Haridev, S",,2024.0,False,IND,0.0,1,-0.3,35,-10.5
+25930133,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1929,1878,7.0,11,2.24,35,78.4,"Sree, Rama Anjani Kumar K",,1710.0,False,IND,1.0,1,0.28,35,9.8
+25930133,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1929,1878,7.0,11,2.24,35,78.4,"Arul, Prakash N",,2131.0,False,IND,1.0,1,0.81,35,28.35
+25930133,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1929,1878,7.0,11,2.24,35,78.4,"Nimay, Agrawal",c,2059.0,False,IND,0.5,1,0.24,35,8.4
+25930133,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1929,1878,7.0,11,2.24,35,78.4,"Mohit, S",,2041.0,False,IND,1.0,1,0.72,35,25.2
+25930133,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1929,1878,7.0,11,2.24,35,78.4,"Madhvendra, Pratap Sharma",c,2201.0,False,IND,0.0,1,-0.13,35,-4.55
+25930133,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1929,1878,7.0,11,2.24,35,78.4,"Saisarvesh, S",,1999.0,False,IND,0.0,1,-0.34,35,-11.9
+25930133,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1929,1878,7.0,11,2.24,35,78.4,"Vishwajit, S",,1781.0,False,IND,1.0,1,0.37,35,12.95
+25930133,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1929,1878,7.0,11,2.24,35,78.4,"Sharnarthi, Shlok",,2024.0,False,IND,0.5,1,0.2,35,7.0
+25930133,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1740,1878,7.5,9,1.49,35,52.15,"Vidith, Devaki Bhatta",,1478.0,True,IND,1.0,1,0.08,35,2.8
+25930133,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1740,1878,7.5,9,1.49,35,52.15,"Vihaan, Shetty",,1569.0,False,IND,0.5,1,-0.36,35,-12.6
+25930133,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1740,1878,7.5,9,1.49,35,52.15,"Yajur, Shikaram",,1537.0,False,IND,1.0,1,0.12,35,4.2
+25930133,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1740,1878,7.5,9,1.49,35,52.15,"Yug, Tarun Khiani",,1673.0,False,IND,1.0,1,0.24,35,8.4
+25930133,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1740,1878,7.5,9,1.49,35,52.15,"Sragvidha, S",,1729.0,False,IND,1.0,1,0.3,35,10.5
+25930133,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1740,1878,7.5,9,1.49,35,52.15,Krishna,,1857.0,False,IND,0.5,1,-0.03,35,-1.05
+25930133,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1740,1878,7.5,9,1.49,35,52.15,"Abhinav, V",,1732.0,False,IND,1.0,1,0.3,35,10.5
+25930133,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1740,1878,7.5,9,1.49,35,52.15,"Chakravarthi Reddy, M",m,2247.0,False,IND,1.0,1,0.9,35,31.5
+25930133,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1740,1878,7.5,9,1.49,35,52.15,"Sibi, Srinivas Einstein",,1835.0,False,IND,0.5,1,-0.06,35,-2.1

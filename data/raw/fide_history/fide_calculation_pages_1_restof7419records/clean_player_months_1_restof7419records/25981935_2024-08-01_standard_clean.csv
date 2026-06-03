@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25981935,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1654,1483,1.0,4,-0.1,40,-4.0,"Vivaan, Sardana",,1666.0,False,IND,0.0,1,-0.26,40,-10.4
+25981935,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1654,1483,1.0,4,-0.1,40,-4.0,"Atharv, Singh Bisht",,1639.0,False,IND,0.0,1,-0.29,40,-11.6
+25981935,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1654,1483,1.0,4,-0.1,40,-4.0,"Priyansh, Arora",,1721.0,False,IND,0.0,1,-0.2,40,-8.0
+25981935,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1654,1483,1.0,4,-0.1,40,-4.0,"Aniket, Bakshi",,1590.0,False,IND,1.0,1,0.65,40,26.0

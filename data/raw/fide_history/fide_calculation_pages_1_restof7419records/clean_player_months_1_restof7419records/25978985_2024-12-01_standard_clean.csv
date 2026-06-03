@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25978985,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1854,1948,9.5,11,2.76,40,110.4,"Maya, Ameen",,1548,True,IND,1.0,1,0.08,40,3.2
+25978985,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1854,1948,9.5,11,2.76,40,110.4,"Asudani, Ruhani Raj",,1668,False,IND,1.0,1,0.16,40,6.4
+25978985,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1854,1948,9.5,11,2.76,40,110.4,"Nafila, A",,1780,False,IND,1.0,1,0.28,40,11.2
+25978985,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1854,1948,9.5,11,2.76,40,110.4,"Sherali, Pattnaik",wc,1878,False,IND,1.0,1,0.4,40,16.0
+25978985,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1854,1948,9.5,11,2.76,40,110.4,"Gade, Sharanya",,1834,False,IND,0.5,1,-0.16,40,-6.4
+25978985,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1854,1948,9.5,11,2.76,40,110.4,"Akshaya, Sathi",,1824,False,IND,0.5,1,-0.17,40,-6.8
+25978985,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1854,1948,9.5,11,2.76,40,110.4,"Yashvi, Jain",,1935,False,IND,1.0,1,0.48,40,19.2
+25978985,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1854,1948,9.5,11,2.76,40,110.4,"Arshiya, Das",wc,2030,False,IND,0.5,1,0.11,40,4.4
+25978985,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1854,1948,9.5,11,2.76,40,110.4,"Sachi, Jain",wf,2050,False,IND,1.0,1,0.64,40,25.6
+25978985,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1854,1948,9.5,11,2.76,40,110.4,"Jain, Ashita",,1800,False,IND,1.0,1,0.3,40,12.0
+25978985,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1854,1948,9.5,11,2.76,40,110.4,"Jeevika, S",,2047,False,IND,1.0,1,0.64,40,25.6

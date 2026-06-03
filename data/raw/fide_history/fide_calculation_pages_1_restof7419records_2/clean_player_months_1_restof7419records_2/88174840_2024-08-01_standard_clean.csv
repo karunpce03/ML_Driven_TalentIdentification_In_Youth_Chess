@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88174840,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1736,1501,0.0,3,-0.66,40,-26.4,"Pankaj, Bhat",,1858.0,False,IND,0.0,1,-0.11,40,-4.4
+88174840,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1736,1501,0.0,3,-0.66,40,-26.4,"Rajasurya, J.",wf,1712.0,False,IND,0.0,1,-0.23,40,-9.2
+88174840,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1736,1501,0.0,3,-0.66,40,-26.4,"Gaurang, Bhandari",,1637.0,False,IND,0.0,1,-0.32,40,-12.8

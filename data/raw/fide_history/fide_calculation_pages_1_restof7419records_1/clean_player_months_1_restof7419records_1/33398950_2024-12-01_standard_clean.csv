@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33398950,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1634,1798,6.5,9,0.13,40,5.2,Saksham,,1405,False,IND,1.0,1,0.08,40,3.2
+33398950,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1634,1798,6.5,9,0.13,40,5.2,"Sahasrarchi, Pandey",,1519,False,IND,1.0,1,0.16,40,6.4
+33398950,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1634,1798,6.5,9,0.13,40,5.2,"Debarpit, Mishra",,1599,False,IND,1.0,1,0.24,40,9.6
+33398950,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1634,1798,6.5,9,0.13,40,5.2,"Roy Chowdhury, Saptarshi",g,2198,True,IND,0.0,1,-0.08,40,-3.2
+33398950,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1634,1798,6.5,9,0.13,40,5.2,"Karthik, S",,1596,False,IND,0.0,1,-0.76,40,-30.4
+33398950,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1634,1798,6.5,9,0.13,40,5.2,"Vishnu, Nandan",,1499,False,IND,1.0,1,0.15,40,6.0
+33398950,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1634,1798,6.5,9,0.13,40,5.2,"Hriday, Garg",,1595,False,IND,1.0,1,0.24,40,9.6
+33398950,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1634,1798,6.5,9,0.13,40,5.2,"Abhyudaya, Matta",,1644,False,IND,1.0,1,0.29,40,11.6
+33398950,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1634,1798,6.5,9,0.13,40,5.2,Flansh,,1654,False,IND,0.5,1,-0.19,40,-7.6

@@ -1,0 +1,17 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25737775,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2168,1807,4.5,8,3.62,40,144.8,"Harshavardhan, G B",m,2207,True,IND,0.5,1,0.42,40,16.8
+25737775,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2168,1807,4.5,8,3.62,40,144.8,"Aswath, S",f,2207,True,IND,0.5,1,0.42,40,16.8
+25737775,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2168,1807,4.5,8,3.62,40,144.8,"Kushagra, Mohan",m,2207,True,IND,0.5,1,0.42,40,16.8
+25737775,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2168,1807,4.5,8,3.62,40,144.8,"Antic, Dejan",g,2207,True,SRB,0.0,1,-0.08,40,-3.2
+25737775,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2168,1807,4.5,8,3.62,40,144.8,"Vihaan, Dumir",,2032,False,IND,0.5,1,0.28,40,11.2
+25737775,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2168,1807,4.5,8,3.62,40,144.8,"Yalcinkaya, Efe",,2070,False,TUR,1.0,1,0.82,40,32.8
+25737775,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2168,1807,4.5,8,3.62,40,144.8,"Pranav, K P",,2207,True,IND,0.5,1,0.42,40,16.8
+25737775,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2168,1807,4.5,8,3.62,40,144.8,"Ivanov, Mikhail M",g,2207,True,SRB,1.0,1,0.92,40,36.8
+25737775,2024-08-01,0,28. Open t. Battle of Senta A,Senta SRB,2024-07-03,2024-07-10,2098,1807,4.5,8,3.22,40,128.8,"Brajic, Miloje",f,2059,False,SRB,0.0,1,-0.19,40,-7.6
+25737775,2024-08-01,0,28. Open t. Battle of Senta A,Senta SRB,2024-07-03,2024-07-10,2098,1807,4.5,8,3.22,40,128.8,"Khaschuluu, Sergelenbaatar",,2005,False,MGL,1.0,1,0.76,40,30.4
+25737775,2024-08-01,0,28. Open t. Battle of Senta A,Senta SRB,2024-07-03,2024-07-10,2098,1807,4.5,8,3.22,40,128.8,"Sirotanovic, Obrad",f,2165,False,SRB,1.0,1,0.9,40,36.0
+25737775,2024-08-01,0,28. Open t. Battle of Senta A,Senta SRB,2024-07-03,2024-07-10,2098,1807,4.5,8,3.22,40,128.8,"Gusev, Mikhail",,2132,False,SRB,0.0,1,-0.13,40,-5.2
+25737775,2024-08-01,0,28. Open t. Battle of Senta A,Senta SRB,2024-07-03,2024-07-10,2098,1807,4.5,8,3.22,40,128.8,"Kostic, Milutin B",f,2081,False,SRB,0.0,1,-0.17,40,-6.8
+25737775,2024-08-01,0,28. Open t. Battle of Senta A,Senta SRB,2024-07-03,2024-07-10,2098,1807,4.5,8,3.22,40,128.8,"Zisiadis, Dimitrios",,2019,False,GRE,1.0,1,0.77,40,30.8
+25737775,2024-08-01,0,28. Open t. Battle of Senta A,Senta SRB,2024-07-03,2024-07-10,2098,1807,4.5,8,3.22,40,128.8,"Michalicka, Milan",,2117,False,SVK,1.0,1,0.86,40,34.4
+25737775,2024-08-01,0,28. Open t. Battle of Senta A,Senta SRB,2024-07-03,2024-07-10,2098,1807,4.5,8,3.22,40,128.8,"Drazic, Sinisa",g,2207,True,SRB,0.5,1,0.42,40,16.8

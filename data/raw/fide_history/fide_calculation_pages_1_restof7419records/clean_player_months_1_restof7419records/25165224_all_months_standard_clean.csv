@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25165224,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1750,1476,1.0,3,0.47,40,18.8,"Dutta, Umashankar",,1739.0,False,IND,0.0,1,-0.18,40,-7.2
+25165224,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1750,1476,1.0,3,0.47,40,18.8,"Bit, Irom",,1679.0,False,IND,0.5,1,0.26,40,10.4
+25165224,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1750,1476,1.0,3,0.47,40,18.8,"Karu, Julai Londa",,1833.0,False,IND,0.5,1,0.39,40,15.6
+25165224,2025-03-01,0,1st T-RERA International Open FIDE Rating Chess Tournament,Agartala IND,2025-01-30,2025-02-03,1692,1495,1.0,5,-0.3,40,-12.0,"Mohit, Kumar Soni",,1883.0,False,IND,0.0,1,-0.09,40,-3.6
+25165224,2025-03-01,0,1st T-RERA International Open FIDE Rating Chess Tournament,Agartala IND,2025-01-30,2025-02-03,1692,1495,1.0,5,-0.3,40,-12.0,"Dev, Dharshan S",,1632.0,False,IND,1.0,1,0.68,40,27.2
+25165224,2025-03-01,0,1st T-RERA International Open FIDE Rating Chess Tournament,Agartala IND,2025-01-30,2025-02-03,1692,1495,1.0,5,-0.3,40,-12.0,"Dibya, Jyoti Sarkar",,1707.0,False,IND,0.0,1,-0.23,40,-9.2
+25165224,2025-03-01,0,1st T-RERA International Open FIDE Rating Chess Tournament,Agartala IND,2025-01-30,2025-02-03,1692,1495,1.0,5,-0.3,40,-12.0,"Debatirtha, Das",,1620.0,False,IND,0.0,1,-0.33,40,-13.2
+25165224,2025-03-01,0,1st T-RERA International Open FIDE Rating Chess Tournament,Agartala IND,2025-01-30,2025-02-03,1692,1495,1.0,5,-0.3,40,-12.0,"Pradip, Kumar Debnath",,1618.0,False,IND,0.0,1,-0.33,40,-13.2

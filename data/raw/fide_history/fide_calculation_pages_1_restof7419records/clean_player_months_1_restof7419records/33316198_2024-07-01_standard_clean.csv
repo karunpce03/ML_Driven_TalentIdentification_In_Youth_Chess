@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33316198,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1495,1651,3.5,5,0.03,40,1.2,"Anirban, Patra",,1419.0,False,IND,0.5,1,-0.29,40,-11.6
+33316198,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1495,1651,3.5,5,0.03,40,1.2,"Aaradhyo, Guin",,1437.0,False,IND,1.0,1,0.23,40,9.2
+33316198,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1495,1651,3.5,5,0.03,40,1.2,"Subarna, Kundu",,1448.0,False,IND,1.0,1,0.24,40,9.6
+33316198,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1495,1651,3.5,5,0.03,40,1.2,"Sinjan, Roy",,1745.0,False,IND,0.0,1,-0.37,40,-14.8
+33316198,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1495,1651,3.5,5,0.03,40,1.2,"Srijan, Saha",,1426.0,False,IND,1.0,1,0.22,40,8.8

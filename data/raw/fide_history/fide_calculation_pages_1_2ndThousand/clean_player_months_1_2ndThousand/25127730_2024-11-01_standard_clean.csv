@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25127730,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1666,2008,6.5,7,0.35,40,14.0,"Nathanael, Xavier",,1608,True,IND,1.0,1,0.08,40,3.2
+25127730,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1666,2008,6.5,7,0.35,40,14.0,"Dherraj, Sathish Kumar",,1608,True,IND,1.0,1,0.08,40,3.2
+25127730,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1666,2008,6.5,7,0.35,40,14.0,"Mohnish, Balamurugan",,1608,True,IND,1.0,1,0.08,40,3.2
+25127730,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1666,2008,6.5,7,0.35,40,14.0,"Qabazard, Mohamed",,1684,False,KUW,1.0,1,0.13,40,5.2
+25127730,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1666,2008,6.5,7,0.35,40,14.0,"Advik, Srinivasan",,1645,False,IND,1.0,1,0.1,40,4.0
+25127730,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1666,2008,6.5,7,0.35,40,14.0,"Rosebert, Abera",,1780,False,PHI,1.0,1,0.21,40,8.4
+25127730,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1666,2008,6.5,7,0.35,40,14.0,"Alrefae, Ahmad",,1730,False,KUW,0.5,1,-0.33,40,-13.2

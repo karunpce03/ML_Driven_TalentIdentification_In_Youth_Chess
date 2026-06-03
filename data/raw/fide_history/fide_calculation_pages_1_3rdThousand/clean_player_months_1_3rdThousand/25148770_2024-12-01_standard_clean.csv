@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25148770,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1754,1604,2.5,5,0.9,40,36.0,"Khalid, Lodhi",,1720,False,PAK,1.0,1,0.66,40,26.4
+25148770,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1754,1604,2.5,5,0.9,40,36.0,"Sudhanshu, Muluka",,1679,False,IND,1.0,1,0.6,40,24.0
+25148770,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1754,1604,2.5,5,0.9,40,36.0,"Mithilesh, Ranjithkumar",,2004,True,IND,0.0,1,-0.08,40,-3.2
+25148770,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1754,1604,2.5,5,0.9,40,36.0,"Ezhil, Aadhav Kaladharan",,1711,False,IND,0.5,1,0.15,40,6.0
+25148770,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1754,1604,2.5,5,0.9,40,36.0,"Advik, Srinivasan",,1654,False,IND,0.0,1,-0.43,40,-17.2

@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25174800,2024-08-01,0,47th All Assam Men's Open Rating Tournament 2024,Nagaon IND,2024-07-16,2024-07-20,1828,1534,0.0,2,-0.31,40,-12.4,"Subhajit, Dhar",,1822.0,False,IND,0.0,1,-0.16,40,-6.4
+25174800,2024-08-01,0,47th All Assam Men's Open Rating Tournament 2024,Nagaon IND,2024-07-16,2024-07-20,1828,1534,0.0,2,-0.31,40,-12.4,"Protul, Gogoi",,1833.0,False,IND,0.0,1,-0.15,40,-6.0

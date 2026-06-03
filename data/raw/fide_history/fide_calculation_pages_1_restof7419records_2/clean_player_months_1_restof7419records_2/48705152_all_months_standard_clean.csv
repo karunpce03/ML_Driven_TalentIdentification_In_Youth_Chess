@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48705152,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,,,2.5,6,0.0,1456,,"Jagannathan, Govind",,1504.0,False,IND,0.0,1,0.0,,0.0
+48705152,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,,,2.5,6,0.0,1456,,"Koustav, Sarkar",,1458.0,False,IND,0.0,1,0.0,,0.0
+48705152,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,,,2.5,6,0.0,1456,,"Suvra, Kanti Karsharma",,1438.0,False,IND,1.0,1,0.0,,0.0
+48705152,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,,,2.5,6,0.0,1456,,"Manoranjan, Kapat",,1742.0,False,IND,1.0,1,0.0,,0.0
+48705152,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,,,2.5,6,0.0,1456,,"Shourya, Paul",,1460.0,False,IND,0.0,1,0.0,,0.0
+48705152,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,,,2.5,6,0.0,1456,,"Aaradhyo, Guin",,1477.0,False,IND,0.5,1,0.0,,0.0
+48705152,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1667.0,1542.0,0.0,3,-0.99,40,-39.6,"Olivia, Biswas",,1680.0,False,IND,0.0,1,-0.31,40.0,-12.4
+48705152,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1667.0,1542.0,0.0,3,-0.99,40,-39.6,"Megha, Chakraborty",,1621.0,False,IND,0.0,1,-0.39,40.0,-15.6
+48705152,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1667.0,1542.0,0.0,3,-0.99,40,-39.6,"Ananya, Bothra",,1699.0,False,IND,0.0,1,-0.29,40.0,-11.6
+48705152,2024-10-01,0,West Bengal State U-11 Girls FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1466.0,1502.0,0.0,2,-1.1,40,-44.0,"Shruti, Sarkar",,1455.0,False,IND,0.0,1,-0.57,40.0,-22.8
+48705152,2024-10-01,0,West Bengal State U-11 Girls FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1466.0,1502.0,0.0,2,-1.1,40,-44.0,"Aditri, Baisya",,1477.0,False,IND,0.0,1,-0.53,40.0,-21.2

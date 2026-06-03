@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48719951,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1673,1473,0.5,5,-0.78,40,-31.2,"Bharat, Kumar Reddy Poluri",,1873.0,True,IND,0.0,1,-0.08,40,-3.2
+48719951,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1673,1473,0.5,5,-0.78,40,-31.2,"Shravan, Ambaru",,1615.0,False,IND,0.5,1,0.19,40,7.6
+48719951,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1673,1473,0.5,5,-0.78,40,-31.2,"Sragvidha, S",,1624.0,False,IND,0.0,1,-0.3,40,-12.0
+48719951,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1673,1473,0.5,5,-0.78,40,-31.2,"Mohapatra, Ayush Aryan",,1639.0,False,IND,0.0,1,-0.28,40,-11.2
+48719951,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1673,1473,0.5,5,-0.78,40,-31.2,"Ganesh, K N",,1616.0,False,IND,0.0,1,-0.31,40,-12.4
+48719951,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1634,1473,0.0,2,-0.58,40,-23.2,"Jai, Prakash Vanum",,1650.0,False,IND,0.0,1,-0.27,40,-10.8
+48719951,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1634,1473,0.0,2,-0.58,40,-23.2,"Sathvik, Gulakaram",,1618.0,False,IND,0.0,1,-0.31,40,-12.4

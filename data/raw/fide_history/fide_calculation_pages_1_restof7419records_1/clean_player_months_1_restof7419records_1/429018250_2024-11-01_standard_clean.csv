@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429018250,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,,,0.5,1,0.0,1408,,"Vaaswar, Basak",,1408,False,IND,0.5,1,0.0,,0.0
+429018250,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,,,2.5,6,0.0,1390,,"Ankit, Ganguly",,1403,False,IND,0.0,1,0.0,,0.0
+429018250,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,,,2.5,6,0.0,1390,,"Sahnan, Alam",,1414,False,IND,0.5,1,0.0,,0.0
+429018250,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,,,2.5,6,0.0,1390,,"Anurag, Bhadra",,1417,False,IND,0.5,1,0.0,,0.0
+429018250,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,,,2.5,6,0.0,1390,,"Baidurjo, Biswas",,1530,False,IND,1.0,1,0.0,,0.0
+429018250,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,,,2.5,6,0.0,1390,,"Vedant, Karanam",,1466,False,IND,0.5,1,0.0,,0.0
+429018250,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,,,2.5,6,0.0,1390,,"Abhiraj, Das",,1453,False,IND,0.0,1,0.0,,0.0
+429018250,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,,,1.0,3,0.0,1352,,"Shreyam, Roy",,1511,False,IND,0.0,1,0.0,,0.0
+429018250,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,,,1.0,3,0.0,1352,,"Vedanth, Agarwal",,1461,False,IND,1.0,1,0.0,,0.0
+429018250,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,,,1.0,3,0.0,1352,,"Dhritiman, Majumdar",,1459,False,IND,0.0,1,0.0,,0.0

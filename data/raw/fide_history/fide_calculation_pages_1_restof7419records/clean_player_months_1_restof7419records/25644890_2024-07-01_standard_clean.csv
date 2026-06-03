@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25644890,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2291,2189,3.5,7,0.93,40,37.2,"Shagbazyan, Taron",f,2402.0,False,UKR,0.5,1,0.27,40,10.8
+25644890,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2291,2189,3.5,7,0.93,40,37.2,"Shohat, Yotam",f,2409.0,False,ISR,0.0,1,-0.22,40,-8.8
+25644890,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2291,2189,3.5,7,0.93,40,37.2,"Liashkevich, Lizaveta",,2034.0,False,FID,1.0,1,0.29,40,11.6
+25644890,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2291,2189,3.5,7,0.93,40,37.2,"Dixit, Nikhil",f,2334.0,False,IND,0.5,1,0.19,40,7.6
+25644890,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2291,2189,3.5,7,0.93,40,37.2,"Weber, Samuel",f,2315.0,False,GER,0.0,1,-0.33,40,-13.2
+25644890,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2291,2189,3.5,7,0.93,40,37.2,"Jaiveer, Mahendru",f,2244.0,False,IND,1.0,1,0.58,40,23.2
+25644890,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2291,2189,3.5,7,0.93,40,37.2,"Krishnan, Ritvik",f,2296.0,False,IND,0.5,1,0.15,40,6.0

@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33448990,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1731,1521,3.0,7,1.28,40,51.2,"Kaustuv, Kundu",,1921,True,IND,0.0,1,-0.08,40,-3.2
+33448990,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1731,1521,3.0,7,1.28,40,51.2,"Shinde, Kunal",,1639,False,IND,0.5,1,0.16,40,6.4
+33448990,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1731,1521,3.0,7,1.28,40,51.2,"Rohan, Kumar Gourabathuni",,1698,False,IND,0.0,1,-0.27,40,-10.8
+33448990,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1731,1521,3.0,7,1.28,40,51.2,"Kapadi, Yash",,1791,False,IND,1.0,1,0.83,40,33.2
+33448990,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1731,1521,3.0,7,1.28,40,51.2,"Ruchir, Nadikatla",,1617,False,IND,0.0,1,-0.37,40,-14.8
+33448990,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1731,1521,3.0,7,1.28,40,51.2,"Vivaan, Sachdev",,1791,False,IND,0.5,1,0.33,40,13.2
+33448990,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1731,1521,3.0,7,1.28,40,51.2,"Jitendra, Kashyap L",,1657,False,IND,1.0,1,0.68,40,27.2

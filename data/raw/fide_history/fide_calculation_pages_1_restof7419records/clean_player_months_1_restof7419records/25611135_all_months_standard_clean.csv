@@ -1,0 +1,65 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25611135,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1694,1870,7.0,8,1.23,40,49.2,"Aadithya, R",,1495.0,False,IND,1.0,1,0.09,40,3.6
+25611135,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1694,1870,7.0,8,1.23,40,49.2,"Tripurambika, V",,1625.0,False,IND,1.0,1,0.2,40,8.0
+25611135,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1694,1870,7.0,8,1.23,40,49.2,"Tarun, N",,1721.0,False,IND,1.0,1,0.3,40,12.0
+25611135,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1694,1870,7.0,8,1.23,40,49.2,"Lakshmi, Charan Naidu G",,1753.0,False,IND,0.5,1,-0.16,40,-6.4
+25611135,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1694,1870,7.0,8,1.23,40,49.2,"Shivamshika, G",,1741.0,False,IND,1.0,1,0.33,40,13.2
+25611135,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1694,1870,7.0,8,1.23,40,49.2,"Midde, Dhanush",,1711.0,False,IND,1.0,1,0.29,40,11.6
+25611135,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1694,1870,7.0,8,1.23,40,49.2,"Kandi, Santosh Sai Karthik",,1736.0,False,IND,0.5,1,-0.18,40,-7.2
+25611135,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1694,1870,7.0,8,1.23,40,49.2,"Majji, Ram Charan Teja",,1766.0,False,IND,1.0,1,0.36,40,14.4
+25611135,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1781,1870,7.0,9,1.49,40,59.6,"Vinod, Kumar M",,1527.0,False,IND,1.0,1,0.12,40,4.8
+25611135,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1781,1870,7.0,9,1.49,40,59.6,"Shubhankar, Bamalia",,1641.0,False,IND,1.0,1,0.21,40,8.4
+25611135,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1781,1870,7.0,9,1.49,40,59.6,"Aditya, Dileepraj",,1698.0,False,IND,1.0,1,0.27,40,10.8
+25611135,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1781,1870,7.0,9,1.49,40,59.6,"Ekam, Singh",,1679.0,False,IND,1.0,1,0.25,40,10.0
+25611135,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1781,1870,7.0,9,1.49,40,59.6,"Koustuv, Dash",,2135.0,False,IND,0.5,1,0.32,40,12.8
+25611135,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1781,1870,7.0,9,1.49,40,59.6,"Suraj, Dahiya",,1891.0,False,IND,1.0,1,0.53,40,21.2
+25611135,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1781,1870,7.0,9,1.49,40,59.6,"Bhosale, Shriraj",,2032.0,False,IND,0.0,1,-0.29,40,-11.6
+25611135,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1781,1870,7.0,9,1.49,40,59.6,"Rajanya, Datta",,1686.0,False,IND,0.5,1,-0.24,40,-9.6
+25611135,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1781,1870,7.0,9,1.49,40,59.6,"Shejal, Sahil Sanjay",,1740.0,False,IND,1.0,1,0.32,40,12.8
+25611135,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1782,1979,7.0,9,0.39,40,15.6,"Kumara, Sandilya Somanchi",,1579.0,True,IND,1.0,1,0.08,40,3.2
+25611135,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1782,1979,7.0,9,0.39,40,15.6,"Saranya, Devi Narahari",,1666.0,False,IND,1.0,1,0.14,40,5.6
+25611135,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1782,1979,7.0,9,0.39,40,15.6,"Sathwik, D S S U",,1794.0,False,IND,1.0,1,0.26,40,10.4
+25611135,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1782,1979,7.0,9,0.39,40,15.6,"Alluri, Bhaskara Ratna Shanmukha",,1817.0,False,IND,0.5,1,-0.21,40,-8.4
+25611135,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1782,1979,7.0,9,0.39,40,15.6,"Afreed, T Khan",,1837.0,False,IND,0.0,1,-0.69,40,-27.6
+25611135,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1782,1979,7.0,9,0.39,40,15.6,"Athul, M",,1688.0,False,IND,1.0,1,0.15,40,6.0
+25611135,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1782,1979,7.0,9,0.39,40,15.6,"Swastik, Suvam Patnaik",,1752.0,False,IND,1.0,1,0.21,40,8.4
+25611135,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1782,1979,7.0,9,0.39,40,15.6,"Vakcheri, Mohitha",,1738.0,False,IND,1.0,1,0.2,40,8.0
+25611135,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1782,1979,7.0,9,0.39,40,15.6,"Bharat, Kumar Reddy Poluri",,2169.0,False,IND,0.5,1,0.25,40,10.0
+25611135,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2066,1995,7.0,11,2.08,40,83.2,"Goura, Hari Mohapatra",,1714.0,False,IND,1.0,1,0.16,40,6.4
+25611135,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2066,1995,7.0,11,2.08,40,83.2,"Jess, Ruchandani",,1736.0,False,IND,1.0,1,0.18,40,7.2
+25611135,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2066,1995,7.0,11,2.08,40,83.2,"Visakh, N R",g,2395.0,True,IND,0.5,1,0.42,40,16.8
+25611135,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2066,1995,7.0,11,2.08,40,83.2,"Gusain, Himal",m,2395.0,True,IND,0.5,1,0.42,40,16.8
+25611135,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2066,1995,7.0,11,2.08,40,83.2,"Sahil, Bheron",,1839.0,False,IND,1.0,1,0.29,40,11.6
+25611135,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2066,1995,7.0,11,2.08,40,83.2,"Krishna, C R G",m,2395.0,True,IND,0.0,1,-0.08,40,-3.2
+25611135,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2066,1995,7.0,11,2.08,40,83.2,"Yashad, Bambeshwar",,1873.0,False,IND,0.5,1,-0.17,40,-6.8
+25611135,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2066,1995,7.0,11,2.08,40,83.2,"Ahaz, E U",,1854.0,False,IND,1.0,1,0.31,40,12.4
+25611135,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2066,1995,7.0,11,2.08,40,83.2,"Medhvansh, Madeti",,1792.0,False,IND,1.0,1,0.24,40,9.6
+25611135,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2066,1995,7.0,11,2.08,40,83.2,"Venkatesh, M.r.",g,2387.0,False,IND,0.5,1,0.42,40,16.8
+25611135,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2066,1995,7.0,11,2.08,40,83.2,"Nitin, S.",m,2341.0,False,IND,0.0,1,-0.11,40,-4.4
+25611135,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1872,2078,7.0,9,0.28,40,11.2,"Pavan, Sangathala",,1678.0,True,IND,1.0,1,0.08,40,3.2
+25611135,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1872,2078,7.0,9,0.28,40,11.2,"Hrudhan, Moghe",,1706.0,False,IND,1.0,1,0.1,40,4.0
+25611135,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1872,2078,7.0,9,0.28,40,11.2,"Sagnik, Halder",,1799.0,False,IND,1.0,1,0.16,40,6.4
+25611135,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1872,2078,7.0,9,0.28,40,11.2,"Revlin, Ram R H",,1837.0,False,IND,1.0,1,0.2,40,8.0
+25611135,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1872,2078,7.0,9,0.28,40,11.2,"Kaustuv, Kundu",m,2429.0,False,IND,0.0,1,-0.11,40,-4.4
+25611135,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1872,2078,7.0,9,0.28,40,11.2,"Aniket, Narayan Biswas",,1802.0,False,IND,1.0,1,0.17,40,6.8
+25611135,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1872,2078,7.0,9,0.28,40,11.2,"Jayanth, Suravarapu",,1850.0,False,IND,0.5,1,-0.29,40,-11.6
+25611135,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1872,2078,7.0,9,0.28,40,11.2,"Seetasagar, Konaparthi",,1888.0,False,IND,0.5,1,-0.25,40,-10.0
+25611135,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1872,2078,7.0,9,0.28,40,11.2,"Rao J., Malleswara",,1862.0,False,IND,1.0,1,0.22,40,8.8
+25611135,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1778,2089,6.0,9,-1.63,40,-65.2,"Nabiyev, Iman",,1689.0,True,KAZ,1.0,1,0.08,40,3.2
+25611135,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1778,2089,6.0,9,-1.63,40,-65.2,"Aryan, Mehta",,1762.0,False,IND,1.0,1,0.13,40,5.2
+25611135,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1778,2089,6.0,9,-1.63,40,-65.2,"Maraimov, Khudoyor",,1833.0,False,UZB,0.0,1,-0.81,40,-32.4
+25611135,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1778,2089,6.0,9,-1.63,40,-65.2,"Mendoza, Ryan",,1941.0,False,PHI,0.0,1,-0.7,40,-28.0
+25611135,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1778,2089,6.0,9,-1.63,40,-65.2,"Devansh, Rai",,1689.0,True,IND,1.0,1,0.08,40,3.2
+25611135,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1778,2089,6.0,9,-1.63,40,-65.2,"Al-Kuwari, Hamad",c,1736.0,False,QAT,1.0,1,0.11,40,4.4
+25611135,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1778,2089,6.0,9,-1.63,40,-65.2,"Amulya, Guruprasad",wc,1718.0,False,IND,1.0,1,0.1,40,4.0
+25611135,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1778,2089,6.0,9,-1.63,40,-65.2,"Elarcosa, Rommel T.",,1689.0,True,PHI,1.0,1,0.08,40,3.2
+25611135,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1778,2089,6.0,9,-1.63,40,-65.2,"Syed, Abdul Khader",,1943.0,False,IND,0.0,1,-0.7,40,-28.0
+25611135,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1825,2024,7.5,9,0.94,40,37.6,"Siplekar, Siddodhan",,1624.0,True,IND,1.0,1,0.08,40,3.2
+25611135,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1825,2024,7.5,9,0.94,40,37.6,"Bala, Sanjay J",,1630.0,False,IND,0.5,1,-0.42,40,-16.8
+25611135,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1825,2024,7.5,9,0.94,40,37.6,"Vishweswaran, N",,1757.0,False,IND,1.0,1,0.18,40,7.2
+25611135,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1825,2024,7.5,9,0.94,40,37.6,"Sriram, Sundar V",,1814.0,False,IND,1.0,1,0.23,40,9.2
+25611135,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1825,2024,7.5,9,0.94,40,37.6,"Lukesh, A",,1842.0,False,IND,1.0,1,0.26,40,10.4
+25611135,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1825,2024,7.5,9,0.94,40,37.6,"Naga, Sai Sarthak Karanam",,2009.0,False,IND,1.0,1,0.48,40,19.2
+25611135,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1825,2024,7.5,9,0.94,40,37.6,"Sri, Charan Sandipagu",,1935.0,False,IND,1.0,1,0.38,40,15.2
+25611135,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1825,2024,7.5,9,0.94,40,37.6,"Majji, Ram Charan Teja",,1697.0,False,IND,0.5,1,-0.37,40,-14.8
+25611135,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1825,2024,7.5,9,0.94,40,37.6,"Pavan, Karthikeya Varma Gunturi",,2115.0,False,IND,0.5,1,0.12,40,4.8

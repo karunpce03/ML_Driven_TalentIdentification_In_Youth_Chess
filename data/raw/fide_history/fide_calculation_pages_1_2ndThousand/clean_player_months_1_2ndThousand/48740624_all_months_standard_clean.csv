@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48740624,2024-10-01,0,74th Oregon Open - U2000,"Portland, OR USA",2024-08-31,2024-09-02,1705,1752,0.0,1,-0.57,40,-22.8,"Morehouse, Ethan",,1705.0,False,USA,0.0,1,-0.57,40,-22.8
+48740624,2024-11-01,0,2024 Susan Polgar Foundation National Open for Girls and Boys - K-12 Open,"Bellevue, WA USA",2024-10-26,2024-10-27,1905,1729,1.0,2,0.35,40,14.0,"Willy, Stephen",c,2129.0,True,USA,0.0,1,-0.08,40,-3.2
+48740624,2024-11-01,0,2024 Susan Polgar Foundation National Open for Girls and Boys - K-12 Open,"Bellevue, WA USA",2024-10-26,2024-10-27,1905,1729,1.0,2,0.35,40,14.0,"Yao, Lucas",,1680.0,False,CAN,1.0,1,0.43,40,17.2
+48740624,2024-12-01,0,2024 Washington Challenger's Cup - Gukesh Open,"Bellevue, WA USA",2024-11-10,2024-11-11,1932,1743,2.0,4,0.89,40,35.6,"Lu, Yiding",c,2143.0,True,USA,0.5,1,0.42,40,16.8
+48740624,2024-12-01,0,2024 Washington Challenger's Cup - Gukesh Open,"Bellevue, WA USA",2024-11-10,2024-11-11,1932,1743,2.0,4,0.89,40,35.6,"Palathingal, Rafael",,1872.0,False,USA,0.5,1,0.17,40,6.8
+48740624,2024-12-01,0,2024 Washington Challenger's Cup - Gukesh Open,"Bellevue, WA USA",2024-11-10,2024-11-11,1932,1743,2.0,4,0.89,40,35.6,"Wong-Godfrey, Emerson",,1834.0,False,USA,0.0,1,-0.38,40,-15.2
+48740624,2024-12-01,0,2024 Washington Challenger's Cup - Gukesh Open,"Bellevue, WA USA",2024-11-10,2024-11-11,1932,1743,2.0,4,0.89,40,35.6,"Pupols, Viktors",,1878.0,False,USA,1.0,1,0.68,40,27.2
+48740624,2025-01-01,0,2024 Washington Class Championships - Expert,"Redmond, WA USA",2024-11-29,2024-12-01,1830,1743,3.5,6,1.2,40,48.0,"Saddi, Neevan Reddy",,1720.0,False,USA,0.5,1,-0.03,40,-1.2
+48740624,2025-01-01,0,2024 Washington Class Championships - Expert,"Redmond, WA USA",2024-11-29,2024-12-01,1830,1743,3.5,6,1.2,40,48.0,"Razmov, Valentin",,1798.0,False,USA,1.0,1,0.58,40,23.2
+48740624,2025-01-01,0,2024 Washington Class Championships - Expert,"Redmond, WA USA",2024-11-29,2024-12-01,1830,1743,3.5,6,1.2,40,48.0,"Patankar, Vijay",,1874.0,False,USA,0.5,1,0.18,40,7.2
+48740624,2025-01-01,0,2024 Washington Class Championships - Expert,"Redmond, WA USA",2024-11-29,2024-12-01,1830,1743,3.5,6,1.2,40,48.0,"Bartron, Paul",f,1935.0,False,USA,0.5,1,0.25,40,10.0
+48740624,2025-01-01,0,2024 Washington Class Championships - Expert,"Redmond, WA USA",2024-11-29,2024-12-01,1830,1743,3.5,6,1.2,40,48.0,"Palathingal, Rafael",,1872.0,False,USA,0.5,1,0.17,40,6.8
+48740624,2025-01-01,0,2024 Washington Class Championships - Expert,"Redmond, WA USA",2024-11-29,2024-12-01,1830,1743,3.5,6,1.2,40,48.0,"Gupta, Saahil",,1780.0,False,USA,0.5,1,0.05,40,2.0
+48740624,2025-02-01,0,34th Annual North American Open - U2100,"Las Vegas, NV USA",2024-12-26,2024-12-29,1894,1779,3.5,7,1.04,40,41.6,"Eigemann, Julian",,1997.0,False,GER,0.5,1,0.28,40,11.2
+48740624,2025-02-01,0,34th Annual North American Open - U2100,"Las Vegas, NV USA",2024-12-26,2024-12-29,1894,1779,3.5,7,1.04,40,41.6,"Wolfley, Lawrence",,2002.0,False,USA,0.5,1,0.28,40,11.2
+48740624,2025-02-01,0,34th Annual North American Open - U2100,"Las Vegas, NV USA",2024-12-26,2024-12-29,1894,1779,3.5,7,1.04,40,41.6,"Peng, Alan B",,1949.0,False,USA,0.5,1,0.22,40,8.8
+48740624,2025-02-01,0,34th Annual North American Open - U2100,"Las Vegas, NV USA",2024-12-26,2024-12-29,1894,1779,3.5,7,1.04,40,41.6,"Singi, Advay",,1838.0,False,USA,0.0,1,-0.42,40,-16.8
+48740624,2025-02-01,0,34th Annual North American Open - U2100,"Las Vegas, NV USA",2024-12-26,2024-12-29,1894,1779,3.5,7,1.04,40,41.6,"Powers, Victor",,1683.0,False,USA,1.0,1,0.37,40,14.8
+48740624,2025-02-01,0,34th Annual North American Open - U2100,"Las Vegas, NV USA",2024-12-26,2024-12-29,1894,1779,3.5,7,1.04,40,41.6,"Tabor, Kai",,1886.0,False,USA,0.5,1,0.15,40,6.0
+48740624,2025-02-01,0,34th Annual North American Open - U2100,"Las Vegas, NV USA",2024-12-26,2024-12-29,1894,1779,3.5,7,1.04,40,41.6,"Munkhbat, Anand",,1900.0,False,MGL,0.5,1,0.16,40,6.4

@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33367582,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1567,1511,1.5,4,-0.33,40,-13.2,"Udiavar, Pragun Pai",,1432.0,False,IND,1.0,1,0.39,40,15.6
+33367582,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1567,1511,1.5,4,-0.33,40,-13.2,"Marcos, Marvin",,1911.0,True,PHI,0.0,1,-0.08,40,-3.2
+33367582,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1567,1511,1.5,4,-0.33,40,-13.2,"Rithik, Heman Odhrani",,1485.0,False,IND,0.0,1,-0.54,40,-21.6
+33367582,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1567,1511,1.5,4,-0.33,40,-13.2,"Jain, Arnav Shirish",,1440.0,False,IND,0.5,1,-0.1,40,-4.0
+33367582,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1602,1511,1.0,4,-0.51,40,-20.4,"Sai, Hridhay S",,1677.0,False,IND,0.0,1,-0.28,40,-11.2
+33367582,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1602,1511,1.0,4,-0.51,40,-20.4,"Vaibhav, Krishnan K P",,1630.0,False,IND,0.0,1,-0.34,40,-13.6
+33367582,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1602,1511,1.0,4,-0.51,40,-20.4,"Keertiganesh, S R",,1472.0,False,IND,1.0,1,0.45,40,18.0
+33367582,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1602,1511,1.0,4,-0.51,40,-20.4,"Nookala, Nikhil Sriram",,1629.0,False,IND,0.0,1,-0.34,40,-13.6
+33367582,2024-08-01,0,Grand Prix Chess Lab Classic U2200,Dubai UAE,2024-07-27,2024-07-28,1733,1511,1.0,4,-0.02,40,-0.8,"Mercado, Levi",,1911.0,True,PHI,0.0,1,-0.08,40,-3.2
+33367582,2024-08-01,0,Grand Prix Chess Lab Classic U2200,Dubai UAE,2024-07-27,2024-07-28,1733,1511,1.0,4,-0.02,40,-0.8,"Gandasarakula, Nibhish",,1421.0,False,RSA,1.0,1,0.38,40,15.2
+33367582,2024-08-01,0,Grand Prix Chess Lab Classic U2200,Dubai UAE,2024-07-27,2024-07-28,1733,1511,1.0,4,-0.02,40,-0.8,"Sharma, Taksh",,1834.0,False,IND,0.0,1,-0.13,40,-5.2
+33367582,2024-08-01,0,Grand Prix Chess Lab Classic U2200,Dubai UAE,2024-07-27,2024-07-28,1733,1511,1.0,4,-0.02,40,-0.8,"Alviz, Joshua Ezekiel",,1765.0,False,PHI,0.0,1,-0.19,40,-7.6

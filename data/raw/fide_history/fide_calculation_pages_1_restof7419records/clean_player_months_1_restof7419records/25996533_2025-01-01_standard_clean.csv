@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25996533,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2170,2351,3.5,7,-1.51,20,-30.2,"Holliman, Bob",,2000.0,False,USA,1.0,1,0.11,20,2.2
+25996533,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2170,2351,3.5,7,-1.51,20,-30.2,"Koridze, Lile",wf,2107.0,False,GEO,1.0,1,0.2,20,4.0
+25996533,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2170,2351,3.5,7,-1.51,20,-30.2,"Maurizzi, Marc Andria",g,2576.0,False,FRA,0.0,1,-0.22,20,-4.4
+25996533,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2170,2351,3.5,7,-1.51,20,-30.2,"Sijpkens, Michiel",,2120.0,False,NED,1.0,1,0.21,20,4.2
+25996533,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2170,2351,3.5,7,-1.51,20,-30.2,"Chanturia, Giorgi Mal",,2042.0,False,GEO,0.5,1,-0.36,20,-7.2
+25996533,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2170,2351,3.5,7,-1.51,20,-30.2,"Shukhman, Anna",wm,2245.0,False,FID,0.0,1,-0.64,20,-12.8
+25996533,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2170,2351,3.5,7,-1.51,20,-30.2,"Patel, Zain",,2099.0,False,ENG,0.0,1,-0.81,20,-16.2

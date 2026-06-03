@@ -1,0 +1,110 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25666231,2024-05-01,0,5th Colonial Open,"Dulles, VA USA",2024-03-28,2024-03-31,2021,2002,3.5,5,1.03,40,41.2,"Manikandan, Siddharth",,1602.0,True,IND,1.0,1,0.08,40,3.2
+25666231,2024-05-01,0,5th Colonial Open,"Dulles, VA USA",2024-03-28,2024-03-31,2021,2002,3.5,5,1.03,40,41.2,"Fang, Arabella",wc,1813.0,False,USA,1.0,1,0.25,40,10.0
+25666231,2024-05-01,0,5th Colonial Open,"Dulles, VA USA",2024-03-28,2024-03-31,2021,2002,3.5,5,1.03,40,41.2,"Kraai, Jesse",g,2373.0,False,USA,0.0,1,-0.1,40,-4.0
+25666231,2024-05-01,0,5th Colonial Open,"Dulles, VA USA",2024-03-28,2024-03-31,2021,2002,3.5,5,1.03,40,41.2,"Mariappan, Anish M",,1914.0,False,USA,1.0,1,0.38,40,15.2
+25666231,2024-05-01,0,5th Colonial Open,"Dulles, VA USA",2024-03-28,2024-03-31,2021,2002,3.5,5,1.03,40,41.2,"Baron, Tal",g,2402.0,True,ISR,0.5,1,0.42,40,16.8
+25666231,2024-05-01,0,69th Annual Maryland Open - Championship,"Rockville, MD USA",2024-04-19,2024-04-21,2015,2012,1.0,3,-0.48,40,-19.2,"Wilson, Ronen",,2018.0,False,USA,0.5,1,0.01,40,0.4
+25666231,2024-05-01,0,69th Annual Maryland Open - Championship,"Rockville, MD USA",2024-04-19,2024-04-21,2015,2012,1.0,3,-0.48,40,-19.2,"Venkatesh, Narayan",c,2033.0,False,USA,0.5,1,0.03,40,1.2
+25666231,2024-05-01,0,69th Annual Maryland Open - Championship,"Rockville, MD USA",2024-04-19,2024-04-21,2015,2012,1.0,3,-0.48,40,-19.2,"Tay, Brian",,1995.0,False,USA,0.0,1,-0.52,40,-20.8
+25666231,2024-06-01,0,2nd Annual Metropolitan Open,"Sterling, VA USA",2024-05-03,2024-05-05,1787,2034,4.0,5,0.08,40,3.2,"Thimmasamudram, Sandeep",,1755.0,False,USA,0.5,1,-0.34,40,-13.6
+25666231,2024-06-01,0,2nd Annual Metropolitan Open,"Sterling, VA USA",2024-05-03,2024-05-05,1787,2034,4.0,5,0.08,40,3.2,"Deng, Michael",,1675.0,False,USA,1.0,1,0.1,40,4.0
+25666231,2024-06-01,0,2nd Annual Metropolitan Open,"Sterling, VA USA",2024-05-03,2024-05-05,1787,2034,4.0,5,0.08,40,3.2,"Adu, Oladapo",m,2077.0,False,NGR,1.0,1,0.56,40,22.4
+25666231,2024-06-01,0,2nd Annual Metropolitan Open,"Sterling, VA USA",2024-05-03,2024-05-05,1787,2034,4.0,5,0.08,40,3.2,"Wang, Lacey",,1715.0,False,USA,0.5,1,-0.37,40,-14.8
+25666231,2024-06-01,0,2nd Annual Metropolitan Open,"Sterling, VA USA",2024-05-03,2024-05-05,1787,2034,4.0,5,0.08,40,3.2,"Zhou, Alexander Zheng",,1712.0,False,USA,1.0,1,0.13,40,5.2
+25666231,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1836,2034,7.5,9,0.89,40,35.6,"Wang, Lacey",,1715.0,False,USA,0.5,1,-0.37,40,-14.8
+25666231,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1836,2034,7.5,9,0.89,40,35.6,"Chang, Leonhard",,1708.0,False,USA,1.0,1,0.13,40,5.2
+25666231,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1836,2034,7.5,9,0.89,40,35.6,"Mummidi, Aaryan",,1696.0,False,USA,1.0,1,0.12,40,4.8
+25666231,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1836,2034,7.5,9,0.89,40,35.6,"Zhou, Alexander Zheng",,1712.0,False,USA,1.0,1,0.13,40,5.2
+25666231,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1836,2034,7.5,9,0.89,40,35.6,"Mariappan, Anish M",,1879.0,False,USA,1.0,1,0.29,40,11.6
+25666231,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1836,2034,7.5,9,0.89,40,35.6,"Prem, Pranav S",,2011.0,False,USA,1.0,1,0.47,40,18.8
+25666231,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1836,2034,7.5,9,0.89,40,35.6,"Shibut, Macon A",f,2114.0,False,USA,0.5,1,0.11,40,4.4
+25666231,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1836,2034,7.5,9,0.89,40,35.6,"Hyland, Mark Daniel",,1876.0,False,USA,1.0,1,0.29,40,11.6
+25666231,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1836,2034,7.5,9,0.89,40,35.6,"Wright, James Douglas",,1812.0,False,USA,0.5,1,-0.28,40,-11.2
+25666231,2024-08-01,0,2nd Annual Independence Day Open,"Dulles, VA USA",2024-07-05,2024-07-07,1834,2073,4.0,5,0.05,40,2.0,"Ananth, Ananya",,1807.0,False,USA,0.5,1,-0.32,40,-12.8
+25666231,2024-08-01,0,2nd Annual Independence Day Open,"Dulles, VA USA",2024-07-05,2024-07-07,1834,2073,4.0,5,0.05,40,2.0,"Fang, Arabella",wc,1805.0,False,USA,1.0,1,0.17,40,6.8
+25666231,2024-08-01,0,2nd Annual Independence Day Open,"Dulles, VA USA",2024-07-05,2024-07-07,1834,2073,4.0,5,0.05,40,2.0,"Ghosh, Yohan",,1774.0,False,USA,0.5,1,-0.35,40,-14.0
+25666231,2024-08-01,0,2nd Annual Independence Day Open,"Dulles, VA USA",2024-07-05,2024-07-07,1834,2073,4.0,5,0.05,40,2.0,"Peed, Grant",,1800.0,False,USA,1.0,1,0.17,40,6.8
+25666231,2024-08-01,0,2nd Annual Independence Day Open,"Dulles, VA USA",2024-07-05,2024-07-07,1834,2073,4.0,5,0.05,40,2.0,"Swaminathan, Prana",,1983.0,False,USA,1.0,1,0.38,40,15.2
+25666231,2024-08-01,0,2nd Annual DMV Open,"Dulles, VA USA",2024-07-12,2024-07-14,1965,2073,2.0,4,-0.49,40,-19.6,"Iyer, Vedanth",,1688.0,False,USA,1.0,1,0.09,40,3.6
+25666231,2024-08-01,0,2nd Annual DMV Open,"Dulles, VA USA",2024-07-12,2024-07-14,1965,2073,2.0,4,-0.49,40,-19.6,"Wang, Daniel",,1860.0,False,USA,1.0,1,0.23,40,9.2
+25666231,2024-08-01,0,2nd Annual DMV Open,"Dulles, VA USA",2024-07-12,2024-07-14,1965,2073,2.0,4,-0.49,40,-19.6,"Wang, Tianqi",m,2329.0,False,USA,0.0,1,-0.19,40,-7.6
+25666231,2024-08-01,0,2nd Annual DMV Open,"Dulles, VA USA",2024-07-12,2024-07-14,1965,2073,2.0,4,-0.49,40,-19.6,"Swaminathan, Pranav",,1983.0,False,USA,0.0,1,-0.62,40,-24.8
+25666231,2024-09-01,0,56th annual Atlantic Open - Major,"Washington, DC USA",2024-08-23,2024-08-25,2026,2055,2.0,3,0.33,40,13.2,"Carrasco, Christian Nelio",,1857.0,False,USA,0.5,1,-0.26,40,-10.4
+25666231,2024-09-01,0,56th annual Atlantic Open - Major,"Washington, DC USA",2024-08-23,2024-08-25,2026,2055,2.0,3,0.33,40,13.2,"Liu, Steven",,1803.0,False,USA,1.0,1,0.19,40,7.6
+25666231,2024-09-01,0,56th annual Atlantic Open - Major,"Washington, DC USA",2024-08-23,2024-08-25,2026,2055,2.0,3,0.33,40,13.2,"Zeltsan, Joseph",,2417.0,False,USA,0.5,1,0.4,40,16.0
+25666231,2024-10-01,0,3rd Annual Beltway Open,"Sterling, VA USA",2024-09-06,2024-09-08,2000,2068,4.5,5,1.53,40,61.2,"Doddapaneni, Viyaan Krishna",,1753.0,False,USA,1.0,1,0.14,40,5.6
+25666231,2024-10-01,0,3rd Annual Beltway Open,"Sterling, VA USA",2024-09-06,2024-09-08,2000,2068,4.5,5,1.53,40,61.2,"Ramnath, Architsai",,1785.0,False,USA,1.0,1,0.16,40,6.4
+25666231,2024-10-01,0,3rd Annual Beltway Open,"Sterling, VA USA",2024-09-06,2024-09-08,2000,2068,4.5,5,1.53,40,61.2,"Liu, Steven",,1896.0,False,USA,1.0,1,0.27,40,10.8
+25666231,2024-10-01,0,3rd Annual Beltway Open,"Sterling, VA USA",2024-09-06,2024-09-08,2000,2068,4.5,5,1.53,40,61.2,"Diao, Matthew Guo",,2097.0,False,USA,1.0,1,0.54,40,21.6
+25666231,2024-10-01,0,3rd Annual Beltway Open,"Sterling, VA USA",2024-09-06,2024-09-08,2000,2068,4.5,5,1.53,40,61.2,"Lenderman, Aleksandr",g,2468.0,True,USA,0.5,1,0.42,40,16.8
+25666231,2024-10-01,0,Blue Ridge Open,"Dulles, VA USA",2024-09-20,2024-09-22,1909,2068,2.5,4,-0.31,40,-12.4,"Haldankar, Ameya",,1838.0,False,USA,1.0,1,0.21,40,8.4
+25666231,2024-10-01,0,Blue Ridge Open,"Dulles, VA USA",2024-09-20,2024-09-22,1909,2068,2.5,4,-0.31,40,-12.4,"Badiee, Barzin Moh",,1860.0,False,USA,0.0,1,-0.77,40,-30.8
+25666231,2024-10-01,0,Blue Ridge Open,"Dulles, VA USA",2024-09-20,2024-09-22,1909,2068,2.5,4,-0.31,40,-12.4,"Sridhar, Jagadeesh",,1848.0,False,USA,1.0,1,0.22,40,8.8
+25666231,2024-10-01,0,Blue Ridge Open,"Dulles, VA USA",2024-09-20,2024-09-22,1909,2068,2.5,4,-0.31,40,-12.4,"Moorhouse, Will",,2091.0,False,USA,0.5,1,0.03,40,1.2
+25666231,2024-11-01,0,1st Annual Capital Open,"Sterling, VA USA",2024-09-27,2024-09-29,1975,2068,4.0,5,0.85,40,34.0,"Murugan Ayyappan, Adhiraiyan",,1807.0,False,USA,1.0,1,0.18,40,7.2
+25666231,2024-11-01,0,1st Annual Capital Open,"Sterling, VA USA",2024-09-27,2024-09-29,1975,2068,4.0,5,0.85,40,34.0,"Thimmasamudram, Sandeep",,1774.0,False,USA,1.0,1,0.15,40,6.0
+25666231,2024-11-01,0,1st Annual Capital Open,"Sterling, VA USA",2024-09-27,2024-09-29,1975,2068,4.0,5,0.85,40,34.0,"Zhuang, Kyle",,1986.0,False,USA,1.0,1,0.39,40,15.6
+25666231,2024-11-01,0,1st Annual Capital Open,"Sterling, VA USA",2024-09-27,2024-09-29,1975,2068,4.0,5,0.85,40,34.0,"Baron, Tal",g,2459.0,False,ISR,0.0,1,-0.09,40,-3.6
+25666231,2024-11-01,0,1st Annual Capital Open,"Sterling, VA USA",2024-09-27,2024-09-29,1975,2068,4.0,5,0.85,40,34.0,"Sridhar, Jagadeeshwar Y",,1848.0,False,USA,1.0,1,0.22,40,8.8
+25666231,2024-11-01,0,3rd Skyline Open - Open,"Dulles, VA USA",2024-10-10,2024-10-14,2060,2117,5.0,8,0.34,40,13.6,"Carey, Michael P",,1899.0,False,USA,1.0,1,0.22,40,8.8
+25666231,2024-11-01,0,3rd Skyline Open - Open,"Dulles, VA USA",2024-10-10,2024-10-14,2060,2117,5.0,8,0.34,40,13.6,"Anandh, Vijay Srinivas",,1969.0,False,USA,1.0,1,0.3,40,12.0
+25666231,2024-11-01,0,3rd Skyline Open - Open,"Dulles, VA USA",2024-10-10,2024-10-14,2060,2117,5.0,8,0.34,40,13.6,"Paragua, Mark",g,2453.0,False,PHI,0.5,1,0.38,40,15.2
+25666231,2024-11-01,0,3rd Skyline Open - Open,"Dulles, VA USA",2024-10-10,2024-10-14,2060,2117,5.0,8,0.34,40,13.6,"Das, Aditeya",c,1961.0,False,USA,0.5,1,-0.21,40,-8.4
+25666231,2024-11-01,0,3rd Skyline Open - Open,"Dulles, VA USA",2024-10-10,2024-10-14,2060,2117,5.0,8,0.34,40,13.6,"Levine, Owen",,1934.0,False,USA,1.0,1,0.26,40,10.4
+25666231,2024-11-01,0,3rd Skyline Open - Open,"Dulles, VA USA",2024-10-10,2024-10-14,2060,2117,5.0,8,0.34,40,13.6,"Panda, Vedic",,2143.0,False,USA,1.0,1,0.54,40,21.6
+25666231,2024-11-01,0,3rd Skyline Open - Open,"Dulles, VA USA",2024-10-10,2024-10-14,2060,2117,5.0,8,0.34,40,13.6,"Wilson, Ronen",,2049.0,False,USA,0.0,1,-0.59,40,-23.6
+25666231,2024-11-01,0,3rd Skyline Open - Open,"Dulles, VA USA",2024-10-10,2024-10-14,2060,2117,5.0,8,0.34,40,13.6,"Moorhouse, Will",,2075.0,False,USA,0.0,1,-0.56,40,-22.4
+25666231,2024-12-01,0,2024 GM Alex Sherzer Memorial Masters,"Sterling, VA USA",2024-11-01,2024-11-03,2296,2165,2.5,5,0.81,40,32.4,"Bora, Safal",m,2494.0,False,USA,0.5,1,0.38,40,15.2
+25666231,2024-12-01,0,2024 GM Alex Sherzer Memorial Masters,"Sterling, VA USA",2024-11-01,2024-11-03,2296,2165,2.5,5,0.81,40,32.4,"Kraai, Jesse",g,2388.0,False,USA,0.0,1,-0.22,40,-8.8
+25666231,2024-12-01,0,2024 GM Alex Sherzer Memorial Masters,"Sterling, VA USA",2024-11-01,2024-11-03,2296,2165,2.5,5,0.81,40,32.4,"Rosario, Salvador",,1922.0,False,USA,1.0,1,0.2,40,8.0
+25666231,2024-12-01,0,2024 GM Alex Sherzer Memorial Masters,"Sterling, VA USA",2024-11-01,2024-11-03,2296,2165,2.5,5,0.81,40,32.4,"Recuero Guerra, David",m,2399.0,False,ESP,1.0,1,0.79,40,31.6
+25666231,2024-12-01,0,2024 GM Alex Sherzer Memorial Masters,"Sterling, VA USA",2024-11-01,2024-11-03,2296,2165,2.5,5,0.81,40,32.4,"Sarkar, Justin J",m,2279.0,False,USA,0.0,1,-0.34,40,-13.6
+25666231,2024-12-01,0,1st Annual Old Dominion Open,"Dulles, VA USA",2024-11-08,2024-11-10,1919,2165,3.0,5,-0.95,40,-38.0,"Baim, Emin",,1780.0,False,USA,1.0,1,0.09,40,3.6
+25666231,2024-12-01,0,1st Annual Old Dominion Open,"Dulles, VA USA",2024-11-08,2024-11-10,1919,2165,3.0,5,-0.95,40,-38.0,"Yehamandram Sridhar, Jagadeeshwar",,1852.0,False,USA,1.0,1,0.14,40,5.6
+25666231,2024-12-01,0,1st Annual Old Dominion Open,"Dulles, VA USA",2024-11-08,2024-11-10,1919,2165,3.0,5,-0.95,40,-38.0,"Liu, Steven",,1872.0,False,USA,0.5,1,-0.35,40,-14.0
+25666231,2024-12-01,0,1st Annual Old Dominion Open,"Dulles, VA USA",2024-11-08,2024-11-10,1919,2165,3.0,5,-0.95,40,-38.0,"Zhuang, Kyle",,2051.0,False,USA,0.5,1,-0.16,40,-6.4
+25666231,2024-12-01,0,1st Annual Old Dominion Open,"Dulles, VA USA",2024-11-08,2024-11-10,1919,2165,3.0,5,-0.95,40,-38.0,"Slate, Kent",,2042.0,False,USA,0.0,1,-0.67,40,-26.8
+25666231,2025-01-01,0,2024 US Masters,"Charlotte, NC USA",2024-11-27,2024-12-01,2168,2165,3.5,9,-1.02,40,-40.8,"Mitrabha, Guha",g,2511.0,False,IND,0.0,1,-0.11,40,-4.4
+25666231,2025-01-01,0,2024 US Masters,"Charlotte, NC USA",2024-11-27,2024-12-01,2168,2165,3.5,9,-1.02,40,-40.8,"Zhao, Kevin",,1982.0,False,USA,1.0,1,0.26,40,10.4
+25666231,2025-01-01,0,2024 US Masters,"Charlotte, NC USA",2024-11-27,2024-12-01,2168,2165,3.5,9,-1.02,40,-40.8,"Katz, Alexander",m,2426.0,False,USA,0.5,1,0.32,40,12.8
+25666231,2025-01-01,0,2024 US Masters,"Charlotte, NC USA",2024-11-27,2024-12-01,2168,2165,3.5,9,-1.02,40,-40.8,"Valdes Romero, Leonardo",m,2337.0,False,CRC,0.0,1,-0.27,40,-10.8
+25666231,2025-01-01,0,2024 US Masters,"Charlotte, NC USA",2024-11-27,2024-12-01,2168,2165,3.5,9,-1.02,40,-40.8,"Das, Rohan",,1964.0,False,USA,1.0,1,0.24,40,9.6
+25666231,2025-01-01,0,2024 US Masters,"Charlotte, NC USA",2024-11-27,2024-12-01,2168,2165,3.5,9,-1.02,40,-40.8,"Plotkin, Mark",m,2331.0,False,CAN,0.0,1,-0.28,40,-11.2
+25666231,2025-01-01,0,2024 US Masters,"Charlotte, NC USA",2024-11-27,2024-12-01,2168,2165,3.5,9,-1.02,40,-40.8,"Santosh, Saharsh",,1909.0,False,USA,0.5,1,-0.31,40,-12.4
+25666231,2025-01-01,0,2024 US Masters,"Charlotte, NC USA",2024-11-27,2024-12-01,2168,2165,3.5,9,-1.02,40,-40.8,"Hiwale, Ronak",,2061.0,False,USA,0.0,1,-0.64,40,-25.6
+25666231,2025-01-01,0,2024 US Masters,"Charlotte, NC USA",2024-11-27,2024-12-01,2168,2165,3.5,9,-1.02,40,-40.8,"Anatol, Luke Leon Robin",,1992.0,False,USA,0.5,1,-0.23,40,-9.2
+25666231,2025-01-01,0,1st Annual Federal Open,"Sterling, VA USA",2024-12-13,2024-12-15,2006,2159,4.5,5,1.07,40,42.8,"Ananiadis, Constantine",,1878.0,False,USA,1.0,1,0.16,40,6.4
+25666231,2025-01-01,0,1st Annual Federal Open,"Sterling, VA USA",2024-12-13,2024-12-15,2006,2159,4.5,5,1.07,40,42.8,"Bhoopathi, Rishith",,1893.0,False,USA,1.0,1,0.18,40,7.2
+25666231,2025-01-01,0,1st Annual Federal Open,"Sterling, VA USA",2024-12-13,2024-12-15,2006,2159,4.5,5,1.07,40,42.8,"Parpiev, Isaak",c,2305.0,False,FID,1.0,1,0.7,40,28.0
+25666231,2025-01-01,0,1st Annual Federal Open,"Sterling, VA USA",2024-12-13,2024-12-15,2006,2159,4.5,5,1.07,40,42.8,"Desmarais, Nicholas",,2026.0,False,USA,0.5,1,-0.18,40,-7.2
+25666231,2025-01-01,0,1st Annual Federal Open,"Sterling, VA USA",2024-12-13,2024-12-15,2006,2159,4.5,5,1.07,40,42.8,"Ilnytsky, Alexander",,1927.0,False,USA,1.0,1,0.21,40,8.4
+25666231,2025-02-01,0,34th Annual North American Open,"Las Vegas, NV USA",2024-12-26,2024-12-30,2262,2159,1.0,2,0.23,40,9.2,"Vidyarthi, Vyom",m,2434.0,False,USA,0.0,1,-0.17,40,-6.8
+25666231,2025-02-01,0,34th Annual North American Open,"Las Vegas, NV USA",2024-12-26,2024-12-30,2262,2159,1.0,2,0.23,40,9.2,"Wu, Nathan Ping-Ying",,2089.0,False,CAN,1.0,1,0.4,40,16.0
+25666231,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1900,2159,4.5,5,0.54,40,21.6,"Nguyen, John",,1759.0,True,USA,1.0,1,0.08,40,3.2
+25666231,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1900,2159,4.5,5,0.54,40,21.6,"Yin, Andrew",,1759.0,True,CAN,1.0,1,0.08,40,3.2
+25666231,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1900,2159,4.5,5,0.54,40,21.6,"Gattani, Sarthak",,1870.0,False,USA,1.0,1,0.16,40,6.4
+25666231,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1900,2159,4.5,5,0.54,40,21.6,"Wu, William",,2089.0,False,USA,0.5,1,-0.1,40,-4.0
+25666231,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1900,2159,4.5,5,0.54,40,21.6,"Wang, Kyle Yiwen",,2022.0,False,USA,1.0,1,0.32,40,12.8
+25666231,2025-02-01,0,57th Virginia Open - Championship,"Dulles, VA USA",2025-01-03,2025-01-05,1940,2161,3.0,5,-0.76,40,-30.4,"Baim, Emin",,1761.0,True,USA,1.0,1,0.08,40,3.2
+25666231,2025-02-01,0,57th Virginia Open - Championship,"Dulles, VA USA",2025-01-03,2025-01-05,1940,2161,3.0,5,-0.76,40,-30.4,"Molodtsov, Konstantin",,1792.0,False,USA,1.0,1,0.1,40,4.0
+25666231,2025-02-01,0,57th Virginia Open - Championship,"Dulles, VA USA",2025-01-03,2025-01-05,1940,2161,3.0,5,-0.76,40,-30.4,"Lane, Thomas",,2006.0,False,USA,1.0,1,0.29,40,11.6
+25666231,2025-02-01,0,57th Virginia Open - Championship,"Dulles, VA USA",2025-01-03,2025-01-05,1940,2161,3.0,5,-0.76,40,-30.4,"Shah, Ansh",,2199.0,False,IND,0.0,1,-0.45,40,-18.0
+25666231,2025-02-01,0,57th Virginia Open - Championship,"Dulles, VA USA",2025-01-03,2025-01-05,1940,2161,3.0,5,-0.76,40,-30.4,"Hamilton, Sam",,1943.0,False,USA,0.0,1,-0.78,40,-31.2
+25666231,2025-03-01,0,3rd Annual Metropolitan Open,"Dulles, VA USA",2025-02-07,2025-02-09,2036,2161,4.0,5,0.76,40,30.4,"Reardon, Joshua Guo-Xu",,1813.0,False,USA,1.0,1,0.11,40,4.4
+25666231,2025-03-01,0,3rd Annual Metropolitan Open,"Dulles, VA USA",2025-02-07,2025-02-09,2036,2161,4.0,5,0.76,40,30.4,"Samanta, Aayansh",,1775.0,False,USA,1.0,1,0.09,40,3.6
+25666231,2025-03-01,0,3rd Annual Metropolitan Open,"Dulles, VA USA",2025-02-07,2025-02-09,2036,2161,4.0,5,0.76,40,30.4,"Kannan, Atul S.",,1894.0,False,USA,1.0,1,0.18,40,7.2
+25666231,2025-03-01,0,3rd Annual Metropolitan Open,"Dulles, VA USA",2025-02-07,2025-02-09,2036,2161,4.0,5,0.76,40,30.4,"Wang, Kevin",,2135.0,False,USA,1.0,1,0.46,40,18.4
+25666231,2025-03-01,0,3rd Annual Metropolitan Open,"Dulles, VA USA",2025-02-07,2025-02-09,2036,2161,4.0,5,0.76,40,30.4,"Zhou, Jianchao",g,2561.0,True,USA,0.0,1,-0.08,40,-3.2
+25666231,2025-03-01,0,2nd Annual Presidents' Day Open - Premier,"Dulles, VA USA",2025-02-13,2025-02-17,2193,2161,5.5,9,1.19,40,47.6,"Srinivasan, Arjun",,1983.0,False,USA,1.0,1,0.27,40,10.8
+25666231,2025-03-01,0,2nd Annual Presidents' Day Open - Premier,"Dulles, VA USA",2025-02-13,2025-02-17,2193,2161,5.5,9,1.19,40,47.6,"Grigoryan, Karen",g,2554.0,False,ARM,0.0,1,-0.08,40,-3.2
+25666231,2025-03-01,0,2nd Annual Presidents' Day Open - Premier,"Dulles, VA USA",2025-02-13,2025-02-17,2193,2161,5.5,9,1.19,40,47.6,"Liu, Steven",c,1970.0,False,USA,1.0,1,0.25,40,10.0
+25666231,2025-03-01,0,2nd Annual Presidents' Day Open - Premier,"Dulles, VA USA",2025-02-13,2025-02-17,2193,2161,5.5,9,1.19,40,47.6,"Abraham, John",,2167.0,False,USA,1.0,1,0.51,40,20.4
+25666231,2025-03-01,0,2nd Annual Presidents' Day Open - Premier,"Dulles, VA USA",2025-02-13,2025-02-17,2193,2161,5.5,9,1.19,40,47.6,"Senft, Sean",,2054.0,False,USA,0.5,1,-0.15,40,-6.0
+25666231,2025-03-01,0,2nd Annual Presidents' Day Open - Premier,"Dulles, VA USA",2025-02-13,2025-02-17,2193,2161,5.5,9,1.19,40,47.6,"Stremavicius, Titas",g,2554.0,False,LTU,0.5,1,0.42,40,16.8
+25666231,2025-03-01,0,2nd Annual Presidents' Day Open - Premier,"Dulles, VA USA",2025-02-13,2025-02-17,2193,2161,5.5,9,1.19,40,47.6,"Samuelson, Andrew",f,2032.0,False,USA,0.5,1,-0.17,40,-6.8
+25666231,2025-03-01,0,2nd Annual Presidents' Day Open - Premier,"Dulles, VA USA",2025-02-13,2025-02-17,2193,2161,5.5,9,1.19,40,47.6,"Vinod, Aarush",,2248.0,False,USA,0.5,1,0.12,40,4.8
+25666231,2025-03-01,0,2nd Annual Presidents' Day Open - Premier,"Dulles, VA USA",2025-02-13,2025-02-17,2193,2161,5.5,9,1.19,40,47.6,"Diao, Matthew Guo",,2176.0,False,USA,0.5,1,0.02,40,0.8
+25666231,2025-03-01,0,9th Annual George Washington Open - Major,"Dulles, VA USA",2025-02-21,2025-02-23,1910,2161,1.5,3,-0.88,40,-35.2,"Yang, Aimee",wc,2016.0,False,USA,0.5,1,-0.19,40,-7.6
+25666231,2025-03-01,0,9th Annual George Washington Open - Major,"Dulles, VA USA",2025-02-21,2025-02-23,1910,2161,1.5,3,-0.88,40,-35.2,"Katta, Sriansh",,1765.0,False,USA,1.0,1,0.08,40,3.2
+25666231,2025-03-01,0,9th Annual George Washington Open - Major,"Dulles, VA USA",2025-02-21,2025-02-23,1910,2161,1.5,3,-0.88,40,-35.2,"Taylor, Stewart Bradley",,1950.0,False,USA,0.0,1,-0.77,40,-30.8

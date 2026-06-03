@@ -1,0 +1,28 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2262,2236,5.0,9,0.81,25,20.25,"Akbas, Umut Ata",m,2433.0,False,TUR,0.5,1,0.25,25,6.25
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2262,2236,5.0,9,0.81,25,20.25,"Dvalishvili, Pavel S.",m,2344.0,False,RUS,0.5,1,0.15,25,3.75
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2262,2236,5.0,9,0.81,25,20.25,"Stojanovic, Dalibor",g,2449.0,False,BIH,0.0,1,-0.23,25,-5.75
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2262,2236,5.0,9,0.81,25,20.25,"Apaar, Saxena",c,2183.0,False,IND,1.0,1,0.43,25,10.75
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2262,2236,5.0,9,0.81,25,20.25,"Pikula, Dejan",g,2305.0,False,SRB,0.0,1,-0.4,25,-10.0
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2262,2236,5.0,9,0.81,25,20.25,"Levitan, Judah Nathan",c,2010.0,False,RSA,1.0,1,0.21,25,5.25
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2262,2236,5.0,9,0.81,25,20.25,"Farkas, Tibor",m,2208.0,False,SRB,0.5,1,-0.04,25,-1.0
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2262,2236,5.0,9,0.81,25,20.25,"Pajcin, Lav",f,2238.0,False,SRB,0.5,1,0.0,25,0.0
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2262,2236,5.0,9,0.81,25,20.25,"Kecskemeti, Arpad",f,2192.0,False,SRB,1.0,1,0.44,25,11.0
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2358,2236,5.0,9,1.95,25,48.75,"Glek, Igor",g,2423.0,False,BEL,0.0,1,-0.26,25,-6.5
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2358,2236,5.0,9,1.95,25,48.75,"Gaivoronskii, Andrei",,2148.0,False,SRB,1.0,1,0.38,25,9.5
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2358,2236,5.0,9,1.95,25,48.75,"Senthil, Maran K",f,2380.0,False,IND,1.0,1,0.69,25,17.25
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2358,2236,5.0,9,1.95,25,48.75,"Bryakin, Mikhail",g,2427.0,False,SRB,0.5,1,0.25,25,6.25
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2358,2236,5.0,9,1.95,25,48.75,"Akhmedov, David",f,2368.0,False,FID,0.0,1,-0.32,25,-8.0
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2358,2236,5.0,9,1.95,25,48.75,"Dvalishvili, Pavel S.",m,2344.0,False,RUS,0.5,1,0.15,25,3.75
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2358,2236,5.0,9,1.95,25,48.75,"Ratkovic, Milovan",m,2439.0,False,SRB,0.5,1,0.26,25,6.5
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2358,2236,5.0,9,1.95,25,48.75,"Nigametzianov, Mikhail",f,2399.0,False,RUS,0.5,1,0.22,25,5.5
+25922491,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2358,2236,5.0,9,1.95,25,48.75,"Levitan, Caleb Levi",f,2293.0,False,RSA,1.0,1,0.58,25,14.5
+25922491,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2249,2236,5.0,9,0.66,25,16.5,"Hakemi, Arman",m,2444.0,False,IRI,0.0,1,-0.23,25,-5.75
+25922491,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2249,2236,5.0,9,0.66,25,16.5,"Golubovskis, Maksims",f,2237.0,False,LAT,0.0,1,-0.5,25,-12.5
+25922491,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2249,2236,5.0,9,0.66,25,16.5,"Zabotin, Alexander",m,2423.0,False,RUS,1.0,1,0.74,25,18.5
+25922491,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2249,2236,5.0,9,0.66,25,16.5,"Joel, Paul Ganta",c,2065.0,False,IND,1.0,1,0.27,25,6.75
+25922491,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2249,2236,5.0,9,0.66,25,16.5,"Pereverzev, Timofei",,2030.0,False,RUS,0.5,1,-0.26,25,-6.5
+25922491,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2249,2236,5.0,9,0.66,25,16.5,"Apaar, Saxena",c,2183.0,False,IND,1.0,1,0.43,25,10.75
+25922491,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2249,2236,5.0,9,0.66,25,16.5,"Nigametzianov, Mikhail",f,2399.0,False,RUS,0.0,1,-0.28,25,-7.0
+25922491,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2249,2236,5.0,9,0.66,25,16.5,"Runic, Zoran",m,2262.0,False,BIH,1.0,1,0.54,25,13.5
+25922491,2025-03-01,0,IM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2249,2236,5.0,9,0.66,25,16.5,"Hou, Yifan B",,2199.0,False,CHN,0.5,1,-0.05,25,-1.25

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33397481,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1897,1794,5.5,11,1.26,40,50.4,"Ravi, Teja S.",m,2194,True,IND,0.5,1,0.42,40,16.8
+33397481,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1897,1794,5.5,11,1.26,40,50.4,"Vignesh, Advaith Vemula",,2189,False,IND,0.0,1,-0.08,40,-3.2
+33397481,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1897,1794,5.5,11,1.26,40,50.4,"Dushyant, Singh",,1603,False,IND,1.0,1,0.25,40,10.0
+33397481,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1897,1794,5.5,11,1.26,40,50.4,"Swati, Ghate",wg,2029,False,IND,0.0,1,-0.21,40,-8.4
+33397481,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1897,1794,5.5,11,1.26,40,50.4,"Aadithya, R",,1597,False,IND,1.0,1,0.25,40,10.0
+33397481,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1897,1794,5.5,11,1.26,40,50.4,"Jagreet, Misra",,2026,False,IND,0.0,1,-0.21,40,-8.4
+33397481,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1897,1794,5.5,11,1.26,40,50.4,"Vishwam, Anand",,1710,False,IND,0.5,1,-0.12,40,-4.8
+33397481,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1897,1794,5.5,11,1.26,40,50.4,"Talin, Nimpu",,1710,False,IND,1.0,1,0.38,40,15.2
+33397481,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1897,1794,5.5,11,1.26,40,50.4,"Harshit, Singh",,1957,False,IND,1.0,1,0.72,40,28.8
+33397481,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1897,1794,5.5,11,1.26,40,50.4,"Arnav, Agrawal",,1935,False,IND,0.5,1,0.19,40,7.6
+33397481,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1897,1794,5.5,11,1.26,40,50.4,"Badamundi, Tapan",,1921,False,IND,0.0,1,-0.33,40,-13.2

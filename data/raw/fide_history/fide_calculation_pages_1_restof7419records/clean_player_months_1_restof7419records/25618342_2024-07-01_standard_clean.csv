@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25618342,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2355,2290,5.0,9,1.29,10,12.9,"Pirvulescu, Ekaterina",wf,2040.0,False,ROU,0.5,1,-0.31,10,-3.1
+25618342,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2355,2290,5.0,9,1.29,10,12.9,"Kovacs, Klara",wm,2069.0,False,HUN,1.0,1,0.22,10,2.2
+25618342,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2355,2290,5.0,9,1.29,10,12.9,"Pasztor, Balazs",f,2410.0,False,HUN,0.5,1,0.16,10,1.6
+25618342,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2355,2290,5.0,9,1.29,10,12.9,"Hacker, Jonas",m,2391.0,False,GER,1.0,1,0.64,10,6.4
+25618342,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2355,2290,5.0,9,1.29,10,12.9,"Juhasz, Agoston",f,2430.0,False,HUN,0.0,1,-0.31,10,-3.1
+25618342,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2355,2290,5.0,9,1.29,10,12.9,"Hoang, Thanh Trang",g wg,2382.0,False,HUN,1.0,1,0.63,10,6.3
+25618342,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2355,2290,5.0,9,1.29,10,12.9,"Sathvik, Adiga",f,2413.0,False,IND,1.0,1,0.67,10,6.7
+25618342,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2355,2290,5.0,9,1.29,10,12.9,"Kozak, Adam",g,2607.0,False,HUN,0.0,1,-0.13,10,-1.3
+25618342,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2355,2290,5.0,9,1.29,10,12.9,"Krastev, Alexander",m,2457.0,False,GER,0.0,1,-0.28,10,-2.8

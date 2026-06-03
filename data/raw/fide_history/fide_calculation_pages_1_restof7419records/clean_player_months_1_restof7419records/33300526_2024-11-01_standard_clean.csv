@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33300526,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2147,2176,4.0,10,-1.38,36,-49.68,"Ansat, Aldiyar",m,2456.0,False,KAZ,0.0,1,-0.16,36,-5.76
+33300526,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2147,2176,4.0,10,-1.38,36,-49.68,"Bauyrzhan, Arnash",wf,1930.0,False,KAZ,1.0,1,0.19,36,6.84
+33300526,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2147,2176,4.0,10,-1.38,36,-49.68,"Aradhya, Garg",f,2405.0,False,IND,0.5,1,0.29,36,10.44
+33300526,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2147,2176,4.0,10,-1.38,36,-49.68,"Jain, Kashish Manoj",f,2358.0,False,IND,0.0,1,-0.26,36,-9.36
+33300526,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2147,2176,4.0,10,-1.38,36,-49.68,"Kabylbek, Yedil",,1942.0,False,KAZ,0.5,1,-0.29,36,-10.44
+33300526,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2147,2176,4.0,10,-1.38,36,-49.68,"Altynbek, Aiaru",wf,1990.0,False,KAZ,0.5,1,-0.24,36,-8.64
+33300526,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2147,2176,4.0,10,-1.38,36,-49.68,"Vaibhav, Jayant Raut",c,2267.0,False,IND,0.0,1,-0.38,36,-13.68
+33300526,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2147,2176,4.0,10,-1.38,36,-49.68,"Dhrupad, Kashyap",,2116.0,False,IND,0.0,1,-0.58,36,-20.88
+33300526,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2147,2176,4.0,10,-1.38,36,-49.68,"Kholyavko, Mariya",wf,1951.0,False,KAZ,0.5,1,-0.28,36,-10.08
+33300526,2024-11-01,0,Oskemen Open 2024 Masters,Oskemen KAZ,2024-10-02,2024-10-10,2147,2176,4.0,10,-1.38,36,-49.68,"Meirkhanuly, Akylzhan",,2052.0,False,KAZ,1.0,1,0.33,36,11.88
+33300526,2024-11-01,0,Pavlodar Open 2024 Masters,Pavlodar KAZ,2024-10-13,2024-10-22,2115,2176,2.0,9,-3.23,36,-116.28,"Pantsulaia, Levan",g,2521.0,False,GEO,0.0,1,-0.11,36,-3.96
+33300526,2024-11-01,0,Pavlodar Open 2024 Masters,Pavlodar KAZ,2024-10-13,2024-10-22,2115,2176,2.0,9,-3.23,36,-116.28,"Ankudinova, Yelena",wg,1896.0,False,KAZ,0.5,1,-0.34,36,-12.24
+33300526,2024-11-01,0,Pavlodar Open 2024 Masters,Pavlodar KAZ,2024-10-13,2024-10-22,2115,2176,2.0,9,-3.23,36,-116.28,"Kazhmuratov, Altair",,1964.0,False,KAZ,1.0,1,0.23,36,8.28
+33300526,2024-11-01,0,Pavlodar Open 2024 Masters,Pavlodar KAZ,2024-10-13,2024-10-22,2115,2176,2.0,9,-3.23,36,-116.28,"Suyarov, Mukhammadzokhid",f,2467.0,False,UZB,0.0,1,-0.15,36,-5.4
+33300526,2024-11-01,0,Pavlodar Open 2024 Masters,Pavlodar KAZ,2024-10-13,2024-10-22,2115,2176,2.0,9,-3.23,36,-116.28,"Vaibhav, Jayant Raut",c,2267.0,False,IND,0.0,1,-0.38,36,-13.68
+33300526,2024-11-01,0,Pavlodar Open 2024 Masters,Pavlodar KAZ,2024-10-13,2024-10-22,2115,2176,2.0,9,-3.23,36,-116.28,"Syzdyk, Samir",,1864.0,False,KAZ,0.0,1,-0.86,36,-30.96
+33300526,2024-11-01,0,Pavlodar Open 2024 Masters,Pavlodar KAZ,2024-10-13,2024-10-22,2115,2176,2.0,9,-3.23,36,-116.28,"Azatzhan, Adil",,2041.0,False,KAZ,0.0,1,-0.68,36,-24.48
+33300526,2024-11-01,0,Pavlodar Open 2024 Masters,Pavlodar KAZ,2024-10-13,2024-10-22,2115,2176,2.0,9,-3.23,36,-116.28,"Mazhkenov, Alisher",,2062.0,False,KAZ,0.0,1,-0.66,36,-23.76
+33300526,2024-11-01,0,Pavlodar Open 2024 Masters,Pavlodar KAZ,2024-10-13,2024-10-22,2115,2176,2.0,9,-3.23,36,-116.28,"Kholyavko, Mariya",wf,1951.0,False,KAZ,0.5,1,-0.28,36,-10.08

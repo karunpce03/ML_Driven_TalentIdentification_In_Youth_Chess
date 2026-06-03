@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33387656,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1617,1639,3.5,5,0.74,40,29.6,"Mohota, Nisha",m wg,2039,True,IND,0.0,1,-0.08,40,-3.2
+33387656,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1617,1639,3.5,5,0.74,40,29.6,"Kanishka, Choudhary",,1597,False,IND,1.0,1,0.44,40,17.6
+33387656,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1617,1639,3.5,5,0.74,40,29.6,"Shresthi, Gupta",,1497,False,IND,0.5,1,-0.19,40,-7.6
+33387656,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1617,1639,3.5,5,0.74,40,29.6,"Reet, Garcha",,1437,False,IND,1.0,1,0.24,40,9.6
+33387656,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1617,1639,3.5,5,0.74,40,29.6,"Adya, Shree",,1513,False,IND,1.0,1,0.33,40,13.2

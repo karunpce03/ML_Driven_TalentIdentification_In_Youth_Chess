@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88108104,2024-12-01,0,Sacred Heart College Alumni Association First International FIDE Rating Chess Tournament,Tirupattur IND,2024-11-12,2024-11-16,,,1.0,3,0.0,1507,,"Suthershun, A",,1875,False,IND,0.0,1,0.0,,0.0
+88108104,2024-12-01,0,Sacred Heart College Alumni Association First International FIDE Rating Chess Tournament,Tirupattur IND,2024-11-12,2024-11-16,,,1.0,3,0.0,1507,,"Harshavardhan, N",,1479,False,IND,1.0,1,0.0,,0.0
+88108104,2024-12-01,0,Sacred Heart College Alumni Association First International FIDE Rating Chess Tournament,Tirupattur IND,2024-11-12,2024-11-16,,,1.0,3,0.0,1507,,"Aakash, K",,1541,False,IND,0.0,1,0.0,,0.0

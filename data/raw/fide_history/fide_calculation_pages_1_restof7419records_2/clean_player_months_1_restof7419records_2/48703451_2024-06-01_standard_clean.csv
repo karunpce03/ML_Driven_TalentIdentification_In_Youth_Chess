@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48703451,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1660,1432,2.5,6,1.15,40,46.0,"Uddipan, Roy",,1832,True,IND,0.0,1,-0.08,40,-3.2
+48703451,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1660,1432,2.5,6,1.15,40,46.0,"Sinjan, Roy",,1731,False,IND,0.5,1,0.35,40,14.0
+48703451,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1660,1432,2.5,6,1.15,40,46.0,"Debopriyo, Dutta",,1628,False,IND,0.5,1,0.25,40,10.0
+48703451,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1660,1432,2.5,6,1.15,40,46.0,"Kinjal, Sardar",,1597,False,IND,0.5,1,0.22,40,8.8
+48703451,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1660,1432,2.5,6,1.15,40,46.0,"Sk, Riaz Uddin",,1531,False,IND,1.0,1,0.64,40,25.6
+48703451,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1660,1432,2.5,6,1.15,40,46.0,"Shreyaskar, Tanti",,1642,False,IND,0.0,1,-0.23,40,-9.2

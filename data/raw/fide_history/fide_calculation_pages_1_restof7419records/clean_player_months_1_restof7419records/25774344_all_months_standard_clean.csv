@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25774344,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1606,1475,1.5,5,-0.15,40,-6.0,"Bhosale, Abhay Namdev",,1701.0,False,IND,0.0,1,-0.21,40,-8.4
+25774344,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1606,1475,1.5,5,-0.15,40,-6.0,"Kush, Ajay Agarwal",,1695.0,False,IND,0.0,1,-0.22,40,-8.8
+25774344,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1606,1475,1.5,5,-0.15,40,-6.0,"Vipul, Tamatkar",,1409.0,False,IND,1.0,1,0.41,40,16.4
+25774344,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1606,1475,1.5,5,-0.15,40,-6.0,"Pratiti, Khandelwal",,1624.0,False,IND,0.0,1,-0.3,40,-12.0
+25774344,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1606,1475,1.5,5,-0.15,40,-6.0,"Agrawal, Saksham",,1603.0,False,IND,0.5,1,0.17,40,6.8
+25774344,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1581,1469,1.0,5,-0.74,40,-29.6,"Agraval, Shravana",,1608.0,False,IND,0.0,1,-0.31,40,-12.4
+25774344,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1581,1469,1.0,5,-0.74,40,-29.6,"Aditya, Siddharth",,1533.0,False,IND,1.0,1,0.59,40,23.6
+25774344,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1581,1469,1.0,5,-0.74,40,-29.6,"Yuti, Mayur Patel",,1627.0,False,IND,0.0,1,-0.29,40,-11.6
+25774344,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1581,1469,1.0,5,-0.74,40,-29.6,"Gogri, Vedaant",,1582.0,False,IND,0.0,1,-0.35,40,-14.0
+25774344,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1581,1469,1.0,5,-0.74,40,-29.6,"Viha, Hiren Shah",,1554.0,False,IND,0.0,1,-0.38,40,-15.2

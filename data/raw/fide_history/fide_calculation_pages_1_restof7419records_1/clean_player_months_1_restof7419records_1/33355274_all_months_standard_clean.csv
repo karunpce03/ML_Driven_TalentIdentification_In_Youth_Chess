@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33355274,2024-05-01,0,His Excellency Filed Marshal Sheikh Khalifa Bin Ahmed Al Khalifa 1st Ramadan Chess Tournament,Riffa BRN,2024-03-18,2024-04-04,1795,1525,0.0,3,-0.58,40,-23.2,"Al Dosari, Naif",,1871.0,False,KSA,0.0,1,-0.11,40,-4.4
+33355274,2024-05-01,0,His Excellency Filed Marshal Sheikh Khalifa Bin Ahmed Al Khalifa 1st Ramadan Chess Tournament,Riffa BRN,2024-03-18,2024-04-04,1795,1525,0.0,3,-0.58,40,-23.2,"Darwish, Hashim",,1896.0,False,BRN,0.0,1,-0.1,40,-4.0
+33355274,2024-05-01,0,His Excellency Filed Marshal Sheikh Khalifa Bin Ahmed Al Khalifa 1st Ramadan Chess Tournament,Riffa BRN,2024-03-18,2024-04-04,1795,1525,0.0,3,-0.58,40,-23.2,"Hudson, Antony",,1618.0,False,IND,0.0,1,-0.37,40,-14.8
+33355274,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1691,1502,1.0,2,0.44,40,17.6,"Pranav, Bobby Sekhar",,1834.0,False,IND,0.0,1,-0.12,40,-4.8
+33355274,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1691,1502,1.0,2,0.44,40,17.6,"Dhrupad, Lohidas",,1548.0,False,IND,1.0,1,0.56,40,22.4
+33355274,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1525,1502,2.5,6,-0.31,40,-12.4,"Aradhy, Roy",,1564.0,False,IND,0.5,1,0.09,40,3.6
+33355274,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1525,1502,2.5,6,-0.31,40,-12.4,"Faqihi, Abdulaziz",,1593.0,False,BRN,1.0,1,0.62,40,24.8
+33355274,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1525,1502,2.5,6,-0.31,40,-12.4,"Mikael, Vivek Joseph",,1450.0,False,IND,0.0,1,-0.57,40,-22.8
+33355274,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1525,1502,2.5,6,-0.31,40,-12.4,"Youssef, Mohamed",,1547.0,False,MAR,0.0,1,-0.44,40,-17.6
+33355274,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1525,1502,2.5,6,-0.31,40,-12.4,"Tanya, Singh",,1544.0,False,IND,0.0,1,-0.44,40,-17.6
+33355274,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1525,1502,2.5,6,-0.31,40,-12.4,"Sanjana, Selvaraj",,1451.0,False,IND,1.0,1,0.43,40,17.2
+33355274,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1501,1502,0.0,2,-1.0,40,-40.0,"Mikael, Vivek Joseph",,1450.0,False,IND,0.0,1,-0.57,40,-22.8
+33355274,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1501,1502,0.0,2,-1.0,40,-40.0,"Gabriel, Vivek Joseph",,1552.0,False,IND,0.0,1,-0.43,40,-17.2
+33355274,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1609,1467,1.0,7,-1.25,40,-50.0,"Rudra, Rajeev",,1747.0,False,IND,0.0,1,-0.16,40,-6.4
+33355274,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1609,1467,1.0,7,-1.25,40,-50.0,Somya,,1585.0,False,IND,0.0,1,-0.34,40,-13.6
+33355274,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1609,1467,1.0,7,-1.25,40,-50.0,"Nandana, Mooketh",,1631.0,False,IND,1.0,1,0.72,40,28.8
+33355274,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1609,1467,1.0,7,-1.25,40,-50.0,"Arpita, Singh",,1577.0,False,IND,0.0,1,-0.35,40,-14.0
+33355274,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1609,1467,1.0,7,-1.25,40,-50.0,"Vritika, Krushna Game",,1756.0,False,IND,0.0,1,-0.16,40,-6.4
+33355274,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1609,1467,1.0,7,-1.25,40,-50.0,"Riyana, Khatun",,1531.0,False,IND,0.0,1,-0.41,40,-16.4
+33355274,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1609,1467,1.0,7,-1.25,40,-50.0,"Trishika, Patnaik",,1434.0,False,IND,0.0,1,-0.55,40,-22.0

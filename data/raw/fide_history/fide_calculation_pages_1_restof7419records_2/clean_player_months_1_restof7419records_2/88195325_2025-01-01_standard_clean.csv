@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88195325,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1494,1416,2.5,4,0.92,40,36.8,"Tavish, Bansal",,1425.0,False,IND,0.0,1,-0.49,40,-19.6
+88195325,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1494,1416,2.5,4,0.92,40,36.8,"Suresh, Rao E",,1504.0,False,IND,0.5,1,0.12,40,4.8
+88195325,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1494,1416,2.5,4,0.92,40,36.8,"Dharanidhar, S.",,1518.0,False,IND,1.0,1,0.64,40,25.6
+88195325,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat C,Bhubaneswar IND,2024-12-19,2024-12-22,1494,1416,2.5,4,0.92,40,36.8,"Deepak, Kumar Bhoi",,1529.0,False,IND,1.0,1,0.65,40,26.0

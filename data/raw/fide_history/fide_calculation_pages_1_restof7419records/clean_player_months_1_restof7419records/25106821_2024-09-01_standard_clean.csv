@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25106821,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1905,2050,3.5,8,-2.02,40,-80.8,"Harshad S, Parulekar",,1743.0,False,IND,1.0,1,0.14,40,5.6
+25106821,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1905,2050,3.5,8,-2.02,40,-80.8,"Shourya, Paul",,1848.0,False,IND,0.5,1,-0.26,40,-10.4
+25106821,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1905,2050,3.5,8,-2.02,40,-80.8,"Tanna, Krish Alpeshbhai",,1846.0,False,IND,1.0,1,0.24,40,9.6
+25106821,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1905,2050,3.5,8,-2.02,40,-80.8,"Deepan, Chakkravarthy J.",g,2423.0,False,IND,0.0,1,-0.1,40,-4.0
+25106821,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1905,2050,3.5,8,-2.02,40,-80.8,"Ram, Vishal Parab",,1871.0,False,IND,0.0,1,-0.73,40,-29.2
+25106821,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1905,2050,3.5,8,-2.02,40,-80.8,"Albin, Sajan",,1805.0,False,IND,1.0,1,0.2,40,8.0
+25106821,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1905,2050,3.5,8,-2.02,40,-80.8,"Mahish, S A",,1877.0,False,IND,0.0,1,-0.73,40,-29.2
+25106821,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1905,2050,3.5,8,-2.02,40,-80.8,"Samarth, Sreeni Warrier",,1826.0,False,IND,0.0,1,-0.78,40,-31.2

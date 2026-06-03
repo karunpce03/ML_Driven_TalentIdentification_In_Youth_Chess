@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48753629,2024-07-01,0,26th Asian Youth Chess Championship U10 group,Almaty KAZ,2024-06-12,2024-06-19,1701,1852,6.5,9,0.28,40,11.2,"Tugsbilguun, Davganamdag",,1609.0,False,MGL,1.0,1,0.2,40,8.0
+48753629,2024-07-01,0,26th Asian Youth Chess Championship U10 group,Almaty KAZ,2024-06-12,2024-06-19,1701,1852,6.5,9,0.28,40,11.2,"Kiringoda, Thehas Rithmitha",,1641.0,False,SRI,0.0,1,-0.77,40,-30.8
+48753629,2024-07-01,0,26th Asian Youth Chess Championship U10 group,Almaty KAZ,2024-06-12,2024-06-19,1701,1852,6.5,9,0.28,40,11.2,"Makhfuzov, Alisher",,1545.0,False,KAZ,1.0,1,0.14,40,5.6
+48753629,2024-07-01,0,26th Asian Youth Chess Championship U10 group,Almaty KAZ,2024-06-12,2024-06-19,1701,1852,6.5,9,0.28,40,11.2,"Aitzhan, Karim",,1690.0,False,KAZ,1.0,1,0.29,40,11.6
+48753629,2024-07-01,0,26th Asian Youth Chess Championship U10 group,Almaty KAZ,2024-06-12,2024-06-19,1701,1852,6.5,9,0.28,40,11.2,"Zhou, Martin",,1704.0,False,NZL,1.0,1,0.3,40,12.0
+48753629,2024-07-01,0,26th Asian Youth Chess Championship U10 group,Almaty KAZ,2024-06-12,2024-06-19,1701,1852,6.5,9,0.28,40,11.2,"Yu, Zechen",,1889.0,False,CHN,1.0,1,0.55,40,22.0
+48753629,2024-07-01,0,26th Asian Youth Chess Championship U10 group,Almaty KAZ,2024-06-12,2024-06-19,1701,1852,6.5,9,0.28,40,11.2,"Bolashakov, Nurali",,1843.0,False,KAZ,0.0,1,-0.51,40,-20.4
+48753629,2024-07-01,0,26th Asian Youth Chess Championship U10 group,Almaty KAZ,2024-06-12,2024-06-19,1701,1852,6.5,9,0.28,40,11.2,"Kadyr, Aldiyar",,1685.0,False,KAZ,0.5,1,-0.22,40,-8.8
+48753629,2024-07-01,0,26th Asian Youth Chess Championship U10 group,Almaty KAZ,2024-06-12,2024-06-19,1701,1852,6.5,9,0.28,40,11.2,"Bakyt, Ibrahim",,1699.0,False,KAZ,1.0,1,0.3,40,12.0

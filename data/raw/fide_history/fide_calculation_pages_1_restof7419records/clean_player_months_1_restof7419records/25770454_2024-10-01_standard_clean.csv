@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25770454,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,,,1.5,4,0.0,1399,,"Alia, Saud Nasser Marzooq",,1434,False,UAE,1.0,1,0.0,,0.0
+25770454,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,,,1.5,4,0.0,1399,,"Karageziyan, Paul",,1493,False,USA,0.5,1,0.0,,0.0
+25770454,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,,,1.5,4,0.0,1399,,"Singh, Ziana",,1519,False,FID,0.0,1,0.0,,0.0
+25770454,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,,,1.5,4,0.0,1399,,"Joel, Tojan",,1497,False,IND,0.0,1,0.0,,0.0

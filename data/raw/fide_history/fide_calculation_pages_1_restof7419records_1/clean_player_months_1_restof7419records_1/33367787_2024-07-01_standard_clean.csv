@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33367787,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1826,1854,6.5,9,1.63,40,65.2,"Nani, Babu Bandaru",,1521.0,False,IND,1.0,1,0.12,40,4.8
+33367787,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1826,1854,6.5,9,1.63,40,65.2,"Karra, Surya Kumara Sridatta",,1662.0,False,IND,1.0,1,0.25,40,10.0
+33367787,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1826,1854,6.5,9,1.63,40,65.2,"Rohan, Kumar Gourabathuni",,1737.0,False,IND,1.0,1,0.34,40,13.6
+33367787,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1826,1854,6.5,9,1.63,40,65.2,"Sravyasree, Bheemarasetty",,1814.0,False,IND,1.0,1,0.44,40,17.6
+33367787,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1826,1854,6.5,9,1.63,40,65.2,"Potluri, Supreetha",wf,1806.0,False,IND,0.5,1,-0.07,40,-2.8
+33367787,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1826,1854,6.5,9,1.63,40,65.2,"Afreed, T Khan",,1837.0,False,IND,0.5,1,-0.02,40,-0.8
+33367787,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1826,1854,6.5,9,1.63,40,65.2,"Druvesh, Dondapati",,1845.0,False,IND,0.5,1,-0.01,40,-0.4
+33367787,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1826,1854,6.5,9,1.63,40,65.2,"Haridev, S",,1982.0,False,IND,0.5,1,0.17,40,6.8
+33367787,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1826,1854,6.5,9,1.63,40,65.2,"Sri, Sai Baswanth P",,2234.0,False,IND,0.5,1,0.41,40,16.4

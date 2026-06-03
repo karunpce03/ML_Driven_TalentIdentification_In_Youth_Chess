@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48720313,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1601,1620,2.5,6,-0.74,40,-29.6,"Ramakrishna, J.",f,1980.0,False,IND,0.0,1,-0.1,40,-4.0
+48720313,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1601,1620,2.5,6,-0.74,40,-29.6,"Advay, Bharathram",,1440.0,False,IND,1.0,1,0.26,40,10.4
+48720313,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1601,1620,2.5,6,-0.74,40,-29.6,"Rayan, Merchant",,1436.0,False,IND,1.0,1,0.26,40,10.4
+48720313,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1601,1620,2.5,6,-0.74,40,-29.6,"Aamuktha, Guntaka",,1779.0,False,IND,0.0,1,-0.29,40,-11.6
+48720313,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1601,1620,2.5,6,-0.74,40,-29.6,"Kethan, Reddy Nandyala",,1481.0,False,IND,0.5,1,-0.19,40,-7.6
+48720313,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1601,1620,2.5,6,-0.74,40,-29.6,"Kurella, Dinesh Sai",,1490.0,False,IND,0.0,1,-0.68,40,-27.2
+48720313,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1538,1620,2.0,4,-0.44,40,-17.6,"Vardaan, Mohanty",,1453.0,False,IND,1.0,1,0.28,40,11.2
+48720313,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1538,1620,2.0,4,-0.44,40,-17.6,"Shanmukha, Pulli",,1749.0,False,IND,0.0,1,-0.33,40,-13.2
+48720313,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1538,1620,2.0,4,-0.44,40,-17.6,"Aishwarya, N",,1484.0,False,IND,1.0,1,0.32,40,12.8
+48720313,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1538,1620,2.0,4,-0.44,40,-17.6,"Taneesh, Choppa",,1464.0,False,IND,0.0,1,-0.71,40,-28.4

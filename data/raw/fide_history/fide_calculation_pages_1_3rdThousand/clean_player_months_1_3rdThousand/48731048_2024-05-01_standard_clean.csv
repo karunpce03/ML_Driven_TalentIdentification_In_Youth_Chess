@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48731048,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1718,1511,1.5,4,0.55,40,22.0,"Kishore, V",,1741.0,False,IND,0.5,1,0.29,40,11.6
+48731048,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1718,1511,1.5,4,0.55,40,22.0,"Manickam, K",,1775.0,False,IND,1.0,1,0.82,40,32.8
+48731048,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1718,1511,1.5,4,0.55,40,22.0,"Ivan, George E",,1704.0,False,IND,0.0,1,-0.25,40,-10.0
+48731048,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1718,1511,1.5,4,0.55,40,22.0,"Gurupranav, P",,1652.0,False,IND,0.0,1,-0.31,40,-12.4

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48700967,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1639,1480,1.0,5,-0.5,40,-20.0,"Rutherford, S",,1814.0,False,IND,0.0,1,-0.12,40,-4.8
+48700967,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1639,1480,1.0,5,-0.5,40,-20.0,"Punith, Neeli",,1590.0,False,IND,0.0,1,-0.35,40,-14.0
+48700967,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1639,1480,1.0,5,-0.5,40,-20.0,"Karthik, G Iyer",,1584.0,False,IND,1.0,1,0.64,40,25.6
+48700967,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1639,1480,1.0,5,-0.5,40,-20.0,"Chavan, Aditya",,1624.0,False,IND,0.0,1,-0.31,40,-12.4
+48700967,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1639,1480,1.0,5,-0.5,40,-20.0,"Shraddha, Naresh Padvekar",,1581.0,False,IND,0.0,1,-0.36,40,-14.4
+48700967,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1619,1480,1.0,4,-0.26,40,-10.4,"Shitiz, Prasad",,1619.0,False,IND,0.0,1,-0.31,40,-12.4
+48700967,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1619,1480,1.0,4,-0.26,40,-10.4,"Punith, Neeli",,1590.0,False,IND,0.0,1,-0.35,40,-14.0
+48700967,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1619,1480,1.0,4,-0.26,40,-10.4,Jeevanandham,,1656.0,False,IND,1.0,1,0.73,40,29.2
+48700967,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1619,1480,1.0,4,-0.26,40,-10.4,"Ashva, Shanmugam",,1609.0,False,IND,0.0,1,-0.33,40,-13.2

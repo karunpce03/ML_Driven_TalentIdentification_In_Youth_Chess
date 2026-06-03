@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33308179,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1704,1767,6.0,8,1.3,40,52.0,"Yuvraj, Vaishnav",,1513.0,False,IND,1.0,1,0.19,40,7.6
+33308179,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1704,1767,6.0,8,1.3,40,52.0,"Sahil, Kumar",,1576.0,False,IND,1.0,1,0.25,40,10.0
+33308179,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1704,1767,6.0,8,1.3,40,52.0,"Goransh, Goyal",,1529.0,False,IND,1.0,1,0.2,40,8.0
+33308179,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1704,1767,6.0,8,1.3,40,52.0,"Sharsha, Backer",,1975.0,False,IND,0.0,1,-0.23,40,-9.2
+33308179,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1704,1767,6.0,8,1.3,40,52.0,"Aarav, Laddha",,1627.0,False,IND,1.0,1,0.31,40,12.4
+33308179,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1704,1767,6.0,8,1.3,40,52.0,"Daksh, Goyal",,2101.0,False,IND,0.0,1,-0.12,40,-4.8
+33308179,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1704,1767,6.0,8,1.3,40,52.0,"Kanav, Bansal",,1640.0,False,IND,1.0,1,0.33,40,13.2
+33308179,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1704,1767,6.0,8,1.3,40,52.0,"Samarth, Jain",,1670.0,False,IND,1.0,1,0.37,40,14.8

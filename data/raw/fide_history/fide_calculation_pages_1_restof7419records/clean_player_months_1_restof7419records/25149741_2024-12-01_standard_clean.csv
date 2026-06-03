@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25149741,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1908,1866,7.0,11,2.14,36,77.04,"Vivaan, Balani",,1544.0,False,IND,1.0,1,0.13,36,4.68
+25149741,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1908,1866,7.0,11,2.14,36,77.04,"Sree, Rama Anjani Kumar K",,1710.0,False,IND,1.0,1,0.29,36,10.44
+25149741,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1908,1866,7.0,11,2.14,36,77.04,"Gaikwad, Manas",,2005.0,False,IND,0.5,1,0.19,36,6.84
+25149741,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1908,1866,7.0,11,2.14,36,77.04,"Madhesh, Kumar S",,1925.0,False,IND,0.5,1,0.08,36,2.88
+25149741,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1908,1866,7.0,11,2.14,36,77.04,"Sharnarthi, Shlok",,2024.0,False,IND,0.0,1,-0.29,36,-10.44
+25149741,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1908,1866,7.0,11,2.14,36,77.04,"Sathyachith, E M",,1726.0,False,IND,1.0,1,0.31,36,11.16
+25149741,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1908,1866,7.0,11,2.14,36,77.04,"Arul, Prakash N",,2131.0,False,IND,1.0,1,0.82,36,29.52
+25149741,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1908,1866,7.0,11,2.14,36,77.04,"Kandi, Santosh Sai Karthik",,1965.0,False,IND,1.0,1,0.64,36,23.04
+25149741,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1908,1866,7.0,11,2.14,36,77.04,"Mukund, Hemant Agarwal",,2054.0,False,IND,0.0,1,-0.26,36,-9.36
+25149741,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1908,1866,7.0,11,2.14,36,77.04,"Nirnay, Garg",,1944.0,False,IND,1.0,1,0.61,36,21.96
+25149741,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1908,1866,7.0,11,2.14,36,77.04,"Yohan, Yadav Tarala",,1957.0,False,IND,0.0,1,-0.38,36,-13.68
+25149741,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1640,1866,6.0,8,-0.06,36,-2.16,"Vaishnavi, Anand",,1466.0,True,IND,1.0,1,0.08,36,2.88
+25149741,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1640,1866,6.0,8,-0.06,36,-2.16,Satyasavit,,1554.0,False,IND,0.0,1,-0.86,36,-30.96
+25149741,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1640,1866,6.0,8,-0.06,36,-2.16,"Jhanvi, Venkatesh",,1466.0,True,IND,1.0,1,0.08,36,2.88
+25149741,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1640,1866,6.0,8,-0.06,36,-2.16,"Vasudev, R",,1552.0,False,IND,1.0,1,0.14,36,5.04
+25149741,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1640,1866,6.0,8,-0.06,36,-2.16,"Sahithyan, D",,1641.0,False,IND,1.0,1,0.22,36,7.92
+25149741,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1640,1866,6.0,8,-0.06,36,-2.16,"Adharva, P T",,1645.0,False,IND,1.0,1,0.22,36,7.92
+25149741,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1640,1866,6.0,8,-0.06,36,-2.16,"Rajarishi, Karthi",c,2141.0,False,IND,0.0,1,-0.17,36,-6.12
+25149741,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1640,1866,6.0,8,-0.06,36,-2.16,"Surendiraa, A Sathish",,1653.0,False,IND,1.0,1,0.23,36,8.28

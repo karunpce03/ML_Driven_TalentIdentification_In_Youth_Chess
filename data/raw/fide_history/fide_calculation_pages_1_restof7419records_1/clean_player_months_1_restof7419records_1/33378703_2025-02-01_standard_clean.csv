@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33378703,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1856,1602,2.5,7,1.08,40,43.2,"Nigmatov, Ortik",m,2002.0,True,UZB,0.0,1,-0.08,40,-3.2
+33378703,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1856,1602,2.5,7,1.08,40,43.2,"Ahmed, Ali",,1894.0,False,SUD,1.0,1,0.85,40,34.0
+33378703,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1856,1602,2.5,7,1.08,40,43.2,"Balanandan, Ayyappan",,1780.0,False,IND,0.0,1,-0.27,40,-10.8
+33378703,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1856,1602,2.5,7,1.08,40,43.2,"Al-Kuwari, Hamad",c,1736.0,False,QAT,1.0,1,0.68,40,27.2
+33378703,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1856,1602,2.5,7,1.08,40,43.2,"Nyland, Thomas",,2002.0,True,NOR,0.0,1,-0.08,40,-3.2
+33378703,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1856,1602,2.5,7,1.08,40,43.2,"Bait Said, Manaf Salim",,1750.0,False,OMA,0.5,1,0.2,40,8.0
+33378703,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1856,1602,2.5,7,1.08,40,43.2,"Al, Ansi Amin",,1825.0,False,OMA,0.0,1,-0.22,40,-8.8
+33378703,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1553,1602,2.5,4,0.24,40,9.6,"Dahveed, Sibi Kurisinkal",,1633.0,False,IND,0.0,1,-0.46,40,-18.4
+33378703,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1553,1602,2.5,4,0.24,40,9.6,"Ilaan, Shafeek",,1542.0,False,IND,1.0,1,0.42,40,16.8
+33378703,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1553,1602,2.5,4,0.24,40,9.6,"Rakesh, Kumar Gopinath",,1417.0,False,IND,1.0,1,0.26,40,10.4
+33378703,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1553,1602,2.5,4,0.24,40,9.6,"Mohamed, Fadil Syed Ibrahim",,1618.0,False,IND,0.5,1,0.02,40,0.8

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33437467,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1594,1425,1.0,5,-0.4,40,-16.0,"Sananda, R",,1614.0,False,IND,0.0,1,-0.25,40,-10.0
+33437467,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1594,1425,1.0,5,-0.4,40,-16.0,"Shiyonika, J",,1531.0,False,IND,0.0,1,-0.36,40,-14.4
+33437467,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1594,1425,1.0,5,-0.4,40,-16.0,"Magizhini, M",,1662.0,False,IND,1.0,1,0.8,40,32.0
+33437467,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1594,1425,1.0,5,-0.4,40,-16.0,"Nishanthini, U",,1578.0,False,IND,0.0,1,-0.3,40,-12.0
+33437467,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1594,1425,1.0,5,-0.4,40,-16.0,"Sai, Tanishka T",,1583.0,False,IND,0.0,1,-0.29,40,-11.6

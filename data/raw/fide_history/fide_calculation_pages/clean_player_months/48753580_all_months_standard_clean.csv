@@ -1,0 +1,23 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48753580,2024-07-01,0,SCF Training Tournament Rated Q2 2024,Singapore SGP,2024-06-08,2024-06-09,1521.0,1417.0,1.0,5,-0.81,40,-32.4,"Daniel, Thomas John",,1498.0,False,SGP,0.0,1,-0.39,40.0,-15.6
+48753580,2024-07-01,0,SCF Training Tournament Rated Q2 2024,Singapore SGP,2024-06-08,2024-06-09,1521.0,1417.0,1.0,5,-0.81,40,-32.4,"Ho, Rui Jie Jonathan",,1485.0,False,SGP,0.5,1,0.09,40.0,3.6
+48753580,2024-07-01,0,SCF Training Tournament Rated Q2 2024,Singapore SGP,2024-06-08,2024-06-09,1521.0,1417.0,1.0,5,-0.81,40,-32.4,"Wee, Yu Heng Lucas John",,1499.0,False,SGP,0.5,1,0.11,40.0,4.4
+48753580,2024-07-01,0,SCF Training Tournament Rated Q2 2024,Singapore SGP,2024-06-08,2024-06-09,1521.0,1417.0,1.0,5,-0.81,40,-32.4,"Kelmendi, Paolo",,1498.0,False,SGP,0.0,1,-0.39,40.0,-15.6
+48753580,2024-07-01,0,SCF Training Tournament Rated Q2 2024,Singapore SGP,2024-06-08,2024-06-09,1521.0,1417.0,1.0,5,-0.81,40,-32.4,"Lin, Yi Christopher",,1624.0,False,SGP,0.0,1,-0.23,40.0,-9.2
+48753580,2024-07-01,0,CASPL 2nd FIDE Rated Standard Tournament 2024,Singapore SGP,2024-06-15,2024-06-16,1546.0,1417.0,0.5,2,-0.17,40,-6.8,"Arjun, Anand",,1478.0,False,SGP,0.5,1,0.08,40.0,3.2
+48753580,2024-07-01,0,CASPL 2nd FIDE Rated Standard Tournament 2024,Singapore SGP,2024-06-15,2024-06-16,1546.0,1417.0,0.5,2,-0.17,40,-6.8,"Fang, Tianyang",,1614.0,False,CHN,0.0,1,-0.25,40.0,-10.0
+48753580,2024-11-01,0,SCF Training Tournament Q4 2024,Singapore SGP,2024-09-28,2024-09-29,,,3.0,5,0.0,1481,,"Yeo, Si Xu Shane",,1433.0,False,SGP,1.0,1,0.0,,0.0
+48753580,2024-11-01,0,SCF Training Tournament Q4 2024,Singapore SGP,2024-09-28,2024-09-29,,,3.0,5,0.0,1481,,"Daniel, Thomas John",,1517.0,False,SGP,0.0,1,0.0,,0.0
+48753580,2024-11-01,0,SCF Training Tournament Q4 2024,Singapore SGP,2024-09-28,2024-09-29,,,3.0,5,0.0,1481,,"Wong, Tzejin Zavier",,1417.0,False,SGP,0.5,1,0.0,,0.0
+48753580,2024-11-01,0,SCF Training Tournament Q4 2024,Singapore SGP,2024-09-28,2024-09-29,,,3.0,5,0.0,1481,,"Lim, Dao Xun Kayden",,1467.0,False,SGP,1.0,1,0.0,,0.0
+48753580,2024-11-01,0,SCF Training Tournament Q4 2024,Singapore SGP,2024-09-28,2024-09-29,,,3.0,5,0.0,1481,,"Kelmendi, Paolo",,1472.0,False,SGP,0.5,1,0.0,,0.0
+48753580,2025-02-01,0,2025 Rooty Hill Summer Cup Rounds 1-3,Sydney AUS,2025-01-14,2025-01-28,1682.0,1608.0,1.5,3,0.29,40,11.6,"Mejares, Remeo",,1636.0,False,AUS,0.5,1,0.04,40.0,1.6
+48753580,2025-02-01,0,2025 Rooty Hill Summer Cup Rounds 1-3,Sydney AUS,2025-01-14,2025-01-28,1682.0,1608.0,1.5,3,0.29,40,11.6,"Thuaux, Alan",,1594.0,False,AUS,1.0,1,0.48,40.0,19.2
+48753580,2025-02-01,0,2025 Rooty Hill Summer Cup Rounds 1-3,Sydney AUS,2025-01-14,2025-01-28,1682.0,1608.0,1.5,3,0.29,40,11.6,"Bhaumik, Ronen",,1816.0,False,AUS,0.0,1,-0.23,40.0,-9.2
+48753580,2025-02-01,0,2025 NSWCA Australia Day Weekender,Sydney AUS,2025-01-25,2025-01-26,1619.0,1608.0,1.0,2,0.03,40,1.2,"Walsh, Michael",,1695.0,False,AUS,0.0,1,-0.38,40.0,-15.2
+48753580,2025-02-01,0,2025 NSWCA Australia Day Weekender,Sydney AUS,2025-01-25,2025-01-26,1619.0,1608.0,1.0,2,0.03,40,1.2,"Yendluri, Rithvik Chowdary",,1543.0,False,AUS,1.0,1,0.41,40.0,16.4
+48753580,2025-03-01,0,2025 Rooty Hill Summer Cup Rounds 4-7,Sydney AUS,2025-02-04,2025-02-25,1669.0,1621.0,2.0,4,0.22,40,8.8,"Magesh, Devahuti",,1511.0,False,AUS,1.0,1,0.35,40.0,14.0
+48753580,2025-03-01,0,2025 Rooty Hill Summer Cup Rounds 4-7,Sydney AUS,2025-02-04,2025-02-25,1669.0,1621.0,2.0,4,0.22,40,8.8,"Woon, Ella",,1623.0,False,AUS,0.5,1,0.0,40.0,0.0
+48753580,2025-03-01,0,2025 Rooty Hill Summer Cup Rounds 4-7,Sydney AUS,2025-02-04,2025-02-25,1669.0,1621.0,2.0,4,0.22,40,8.8,"Corona, Jonluke",,1891.0,False,AUS,0.0,1,-0.17,40.0,-6.8
+48753580,2025-03-01,0,2025 Rooty Hill Summer Cup Rounds 4-7,Sydney AUS,2025-02-04,2025-02-25,1669.0,1621.0,2.0,4,0.22,40,8.8,"Rupasinghe, Chanya",,1651.0,False,AUS,0.5,1,0.04,40.0,1.6
+48753580,2025-04-01,0,2025 Rooty Hill Summer Cup Rounds 8-9,Sydney AUS,2025-03-04,2025-03-11,1549.0,1630.0,1.0,1,0.39,40,15.6,"Kuncoro, Harvey",,1549.0,False,AUS,1.0,1,0.39,40.0,15.6

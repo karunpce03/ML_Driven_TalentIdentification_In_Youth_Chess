@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25666231,2025-02-01,0,34th Annual North American Open,"Las Vegas, NV USA",2024-12-26,2024-12-30,2262,2159,1.0,2,0.23,40,9.2,"Vidyarthi, Vyom",m,2434.0,False,USA,0.0,1,-0.17,40,-6.8
+25666231,2025-02-01,0,34th Annual North American Open,"Las Vegas, NV USA",2024-12-26,2024-12-30,2262,2159,1.0,2,0.23,40,9.2,"Wu, Nathan Ping-Ying",,2089.0,False,CAN,1.0,1,0.4,40,16.0
+25666231,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1900,2159,4.5,5,0.54,40,21.6,"Nguyen, John",,1759.0,True,USA,1.0,1,0.08,40,3.2
+25666231,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1900,2159,4.5,5,0.54,40,21.6,"Yin, Andrew",,1759.0,True,CAN,1.0,1,0.08,40,3.2
+25666231,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1900,2159,4.5,5,0.54,40,21.6,"Gattani, Sarthak",,1870.0,False,USA,1.0,1,0.16,40,6.4
+25666231,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1900,2159,4.5,5,0.54,40,21.6,"Wu, William",,2089.0,False,USA,0.5,1,-0.1,40,-4.0
+25666231,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1900,2159,4.5,5,0.54,40,21.6,"Wang, Kyle Yiwen",,2022.0,False,USA,1.0,1,0.32,40,12.8
+25666231,2025-02-01,0,57th Virginia Open - Championship,"Dulles, VA USA",2025-01-03,2025-01-05,1940,2161,3.0,5,-0.76,40,-30.4,"Baim, Emin",,1761.0,True,USA,1.0,1,0.08,40,3.2
+25666231,2025-02-01,0,57th Virginia Open - Championship,"Dulles, VA USA",2025-01-03,2025-01-05,1940,2161,3.0,5,-0.76,40,-30.4,"Molodtsov, Konstantin",,1792.0,False,USA,1.0,1,0.1,40,4.0
+25666231,2025-02-01,0,57th Virginia Open - Championship,"Dulles, VA USA",2025-01-03,2025-01-05,1940,2161,3.0,5,-0.76,40,-30.4,"Lane, Thomas",,2006.0,False,USA,1.0,1,0.29,40,11.6
+25666231,2025-02-01,0,57th Virginia Open - Championship,"Dulles, VA USA",2025-01-03,2025-01-05,1940,2161,3.0,5,-0.76,40,-30.4,"Shah, Ansh",,2199.0,False,IND,0.0,1,-0.45,40,-18.0
+25666231,2025-02-01,0,57th Virginia Open - Championship,"Dulles, VA USA",2025-01-03,2025-01-05,1940,2161,3.0,5,-0.76,40,-30.4,"Hamilton, Sam",,1943.0,False,USA,0.0,1,-0.78,40,-31.2

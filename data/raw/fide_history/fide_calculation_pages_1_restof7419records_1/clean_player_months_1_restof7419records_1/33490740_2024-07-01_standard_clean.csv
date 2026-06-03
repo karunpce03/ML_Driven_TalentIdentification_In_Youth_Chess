@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33490740,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1567,1562,3.0,6,0.02,40,0.8,"Kale, Shruti",,1807.0,False,IND,0.0,1,-0.2,40,-8.0
+33490740,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1567,1562,3.0,6,0.02,40,0.8,"Tanush, Mandowara",,1404.0,False,IND,1.0,1,0.29,40,11.6
+33490740,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1567,1562,3.0,6,0.02,40,0.8,"Hardik, Shah",,1668.0,False,IND,0.5,1,0.14,40,5.6
+33490740,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1567,1562,3.0,6,0.02,40,0.8,"Velugoti, Yathin Reddy",,1708.0,False,IND,0.0,1,-0.3,40,-12.0
+33490740,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1567,1562,3.0,6,0.02,40,0.8,"Arnav, Pasricha",,1412.0,False,IND,0.5,1,-0.2,40,-8.0
+33490740,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1567,1562,3.0,6,0.02,40,0.8,"Darsh, Jindal",,1402.0,False,IND,1.0,1,0.29,40,11.6
+33490740,2024-07-01,0,UP State U-13 Chess Championship-2024-25 (Open),Bijnor IND,2024-06-07,2024-06-09,1620,1562,0.0,2,-0.86,40,-34.4,"Sanyam, Srivastava",,1771.0,False,IND,0.0,1,-0.23,40,-9.2
+33490740,2024-07-01,0,UP State U-13 Chess Championship-2024-25 (Open),Bijnor IND,2024-06-07,2024-06-09,1620,1562,0.0,2,-0.86,40,-34.4,"Arnit, Gupta",,1468.0,False,IND,0.0,1,-0.63,40,-25.2

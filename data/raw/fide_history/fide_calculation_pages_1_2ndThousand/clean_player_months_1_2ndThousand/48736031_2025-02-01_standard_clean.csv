@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48736031,2025-02-01,0,40. Internationales Boeblinger Open B,Boeblingen GER,2024-12-26,2024-12-30,1765,1598,2.5,8,0.22,40,8.8,"Kemper, Yannick",,1810.0,False,GER,0.0,1,-0.23,40,-9.2
+48736031,2025-02-01,0,40. Internationales Boeblinger Open B,Boeblingen GER,2024-12-26,2024-12-30,1765,1598,2.5,8,0.22,40,8.8,"Bruns, Patrick, Dr.",,1830.0,False,GER,0.5,1,0.29,40,11.6
+48736031,2025-02-01,0,40. Internationales Boeblinger Open B,Boeblingen GER,2024-12-26,2024-12-30,1765,1598,2.5,8,0.22,40,8.8,"Besthorn, Luisa",,1709.0,False,GER,0.0,1,-0.35,40,-14.0
+48736031,2025-02-01,0,40. Internationales Boeblinger Open B,Boeblingen GER,2024-12-26,2024-12-30,1765,1598,2.5,8,0.22,40,8.8,"Smierzchala, Zbigniew",,1852.0,False,GER,1.0,1,0.81,40,32.4
+48736031,2025-02-01,0,40. Internationales Boeblinger Open B,Boeblingen GER,2024-12-26,2024-12-30,1765,1598,2.5,8,0.22,40,8.8,"Bachschisade, Elvin",,1789.0,False,GER,0.0,1,-0.25,40,-10.0
+48736031,2025-02-01,0,40. Internationales Boeblinger Open B,Boeblingen GER,2024-12-26,2024-12-30,1765,1598,2.5,8,0.22,40,8.8,"Fischer, Uta",,1714.0,False,GER,0.5,1,0.16,40,6.4
+48736031,2025-02-01,0,40. Internationales Boeblinger Open B,Boeblingen GER,2024-12-26,2024-12-30,1765,1598,2.5,8,0.22,40,8.8,"Finkbeiner, Andreas",,1716.0,False,GER,0.5,1,0.16,40,6.4
+48736031,2025-02-01,0,40. Internationales Boeblinger Open B,Boeblingen GER,2024-12-26,2024-12-30,1765,1598,2.5,8,0.22,40,8.8,"Gendzelevsky, Stefan",,1696.0,False,GER,0.0,1,-0.37,40,-14.8
+48736031,2025-02-01,0,Muenchner Jugendschach-Einzelmeisterschaft 2025 U14,Muenchen GER,2025-01-10,2025-01-12,1868,1598,0.0,2,-0.37,40,-14.8,"Salsa, Nicola",,1785.0,False,GER,0.0,1,-0.26,40,-10.4
+48736031,2025-02-01,0,Muenchner Jugendschach-Einzelmeisterschaft 2025 U14,Muenchen GER,2025-01-10,2025-01-12,1868,1598,0.0,2,-0.37,40,-14.8,"Sajka, Noah",,1951.0,False,GER,0.0,1,-0.11,40,-4.4

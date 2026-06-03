@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25913581,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1843,1932,6.5,9,0.92,40,36.8,"Arya, Amol Bagayatkar",,1537,False,IND,1.0,1,0.08,40,3.2
+25913581,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1843,1932,6.5,9,0.92,40,36.8,"Ehaan, Shaikh",,1654,False,IND,1.0,1,0.17,40,6.8
+25913581,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1843,1932,6.5,9,0.92,40,36.8,"Chavan, Aditya",,1717,False,IND,1.0,1,0.23,40,9.2
+25913581,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1843,1932,6.5,9,0.92,40,36.8,"Shounak, Mazumder",,1762,False,IND,1.0,1,0.28,40,11.2
+25913581,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1843,1932,6.5,9,0.92,40,36.8,"Neelash, Saha",m,2332,True,IND,0.0,1,-0.08,40,-3.2
+25913581,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1843,1932,6.5,9,0.92,40,36.8,"Nihaan, Pohane",,1751,False,IND,1.0,1,0.26,40,10.4
+25913581,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1843,1932,6.5,9,0.92,40,36.8,"Sanjay, Narayanan P S",,1792,False,IND,1.0,1,0.31,40,12.4
+25913581,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1843,1932,6.5,9,0.92,40,36.8,"Ratnakaran, K.",m,2258,False,IND,0.0,1,-0.13,40,-5.2
+25913581,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1843,1932,6.5,9,0.92,40,36.8,"Kandi, Santosh Sai Karthik",,1786,False,IND,0.5,1,-0.2,40,-8.0
+25913581,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1847,1969,5.0,9,-1.0,40,-40.0,"Ashutosh, Jamwal",,1685,False,IND,0.5,1,-0.34,40,-13.6
+25913581,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1847,1969,5.0,9,-1.0,40,-40.0,"Abel, M S",,1708,False,IND,1.0,1,0.18,40,7.2
+25913581,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1847,1969,5.0,9,-1.0,40,-40.0,"Nithik, Reddy Bhavanam",,1766,False,IND,0.5,1,-0.26,40,-10.4
+25913581,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1847,1969,5.0,9,-1.0,40,-40.0,"Potluri, Supreetha",wf,1826,False,IND,1.0,1,0.31,40,12.4
+25913581,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1847,1969,5.0,9,-1.0,40,-40.0,"Lalit, Babu M R",g,2369,True,IND,0.0,1,-0.08,40,-3.2
+25913581,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1847,1969,5.0,9,-1.0,40,-40.0,"Hari, R Chandran",,1816,False,IND,1.0,1,0.3,40,12.0
+25913581,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1847,1969,5.0,9,-1.0,40,-40.0,"Krishay, Jain",,1815,False,IND,0.5,1,-0.21,40,-8.4
+25913581,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1847,1969,5.0,9,-1.0,40,-40.0,"Shah, Moxit J",,1809,False,IND,0.5,1,-0.21,40,-8.4
+25913581,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1847,1969,5.0,9,-1.0,40,-40.0,"Salunke, Siddhant",,1830,False,IND,0.0,1,-0.69,40,-27.6

@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33392528,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1638,1503,0.0,1,-0.32,40,-12.8,"Ar, Saisharvesh",,1638.0,False,IND,0.0,1,-0.32,40,-12.8
+33392528,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1656,1503,2.5,5,1.01,40,40.4,"Tharunika, G",,1709.0,False,IND,0.5,1,0.26,40,10.4
+33392528,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1656,1503,2.5,5,1.01,40,40.4,Raghunandan,,1649.0,False,IND,1.0,1,0.7,40,28.0
+33392528,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1656,1503,2.5,5,1.01,40,40.4,"Keerthivasan, P K",,1647.0,False,IND,0.5,1,0.19,40,7.6
+33392528,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1656,1503,2.5,5,1.01,40,40.4,"Brijesh, Poola",,1669.0,False,IND,0.5,1,0.22,40,8.8
+33392528,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1656,1503,2.5,5,1.01,40,40.4,"Kavish, Palaniappan K",,1607.0,False,IND,0.0,1,-0.36,40,-14.4

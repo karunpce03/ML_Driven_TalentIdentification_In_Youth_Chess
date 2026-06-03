@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88122190,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1728,1795,6.5,7,2.4,40,96.0,"Awadh, Mohammad",,1530.0,False,KUW,1.0,1,0.18,40,7.2
+88122190,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1728,1795,6.5,7,2.4,40,96.0,"Vishwesh, Sivanantham",,1623.0,False,IND,1.0,1,0.27,40,10.8
+88122190,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1728,1795,6.5,7,2.4,40,96.0,"Advik, Srinivasan",,1654.0,False,IND,0.5,1,-0.19,40,-7.6
+88122190,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1728,1795,6.5,7,2.4,40,96.0,"Youssef Ahmed, Youssef",,1915.0,False,EGY,1.0,1,0.66,40,26.4
+88122190,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1728,1795,6.5,7,2.4,40,96.0,"Alazmi, Amani",wc,1634.0,False,KUW,1.0,1,0.29,40,11.6
+88122190,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1728,1795,6.5,7,2.4,40,96.0,"Mithilesh, Ranjithkumar",,2022.0,False,IND,1.0,1,0.79,40,31.6
+88122190,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1728,1795,6.5,7,2.4,40,96.0,"Khalid, Lodhi",,1720.0,False,PAK,1.0,1,0.4,40,16.0

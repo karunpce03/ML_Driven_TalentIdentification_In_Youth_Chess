@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33434670,2024-08-01,0,Sachovy festival Ceske Budejovice 2024 - Open A,Ceske Budejovice CZE,2024-06-29,2024-07-07,2019,1632,3.0,8,2.29,40,91.6,"Nagyova, Daniela",,1958.0,False,CZE,1.0,1,0.87,40,34.8
+33434670,2024-08-01,0,Sachovy festival Ceske Budejovice 2024 - Open A,Ceske Budejovice CZE,2024-06-29,2024-07-07,2019,1632,3.0,8,2.29,40,91.6,"Sokolovsky, Jakub",,2032.0,True,SVK,0.0,1,-0.08,40,-3.2
+33434670,2024-08-01,0,Sachovy festival Ceske Budejovice 2024 - Open A,Ceske Budejovice CZE,2024-06-29,2024-07-07,2019,1632,3.0,8,2.29,40,91.6,"Jires, Jiri",,2032.0,True,CZE,0.5,1,0.42,40,16.8
+33434670,2024-08-01,0,Sachovy festival Ceske Budejovice 2024 - Open A,Ceske Budejovice CZE,2024-06-29,2024-07-07,2019,1632,3.0,8,2.29,40,91.6,"Taborsky, Rostislav",f,2032.0,True,CZE,0.0,1,-0.08,40,-3.2
+33434670,2024-08-01,0,Sachovy festival Ceske Budejovice 2024 - Open A,Ceske Budejovice CZE,2024-06-29,2024-07-07,2019,1632,3.0,8,2.29,40,91.6,"Hruby, Milan",,2022.0,False,CZE,1.0,1,0.91,40,36.4
+33434670,2024-08-01,0,Sachovy festival Ceske Budejovice 2024 - Open A,Ceske Budejovice CZE,2024-06-29,2024-07-07,2019,1632,3.0,8,2.29,40,91.6,"Gzib, David",,2032.0,True,SVK,0.5,1,0.42,40,16.8
+33434670,2024-08-01,0,Sachovy festival Ceske Budejovice 2024 - Open A,Ceske Budejovice CZE,2024-06-29,2024-07-07,2019,1632,3.0,8,2.29,40,91.6,"Zdrazil, Patrik",,2032.0,True,SVK,0.0,1,-0.08,40,-3.2
+33434670,2024-08-01,0,Sachovy festival Ceske Budejovice 2024 - Open A,Ceske Budejovice CZE,2024-06-29,2024-07-07,2019,1632,3.0,8,2.29,40,91.6,"Glimbrant, Torbjorn",,2011.0,False,SWE,0.0,1,-0.09,40,-3.6
+33434670,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1936,1707,3.0,9,0.9,40,36.0,"Herczeg, Marcell",,2032.0,False,HUN,0.5,1,0.37,40,14.8
+33434670,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1936,1707,3.0,9,0.9,40,36.0,"Kovacs, Kristof",,2103.0,False,HUN,0.0,1,-0.08,40,-3.2
+33434670,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1936,1707,3.0,9,0.9,40,36.0,"Bod, Marton",,1981.0,False,HUN,0.5,1,0.33,40,13.2
+33434670,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1936,1707,3.0,9,0.9,40,36.0,"Kovacs, Reka",,1897.0,False,HUN,1.0,1,0.75,40,30.0
+33434670,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1936,1707,3.0,9,0.9,40,36.0,"Papai, Mate",,2019.0,False,HUN,0.0,1,-0.14,40,-5.6
+33434670,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1936,1707,3.0,9,0.9,40,36.0,"Kertesz, Aron Borsa",,1906.0,False,HUN,0.0,1,-0.24,40,-9.6
+33434670,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1936,1707,3.0,9,0.9,40,36.0,"Csikos, Mihaly",c,2065.0,False,HUN,0.0,1,-0.1,40,-4.0
+33434670,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1936,1707,3.0,9,0.9,40,36.0,"Naga, Laxmi Seelam",,1671.0,False,IND,0.0,1,-0.55,40,-22.0
+33434670,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1936,1707,3.0,9,0.9,40,36.0,"Jarai, Csenge",,1749.0,False,SUI,1.0,1,0.56,40,22.4

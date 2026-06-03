@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25918117,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1590,1509,1.5,4,-0.15,40,-6.0,"Ashutosh, Kumar",,1851.0,False,IND,0.0,1,-0.12,40,-4.8
+25918117,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1590,1509,1.5,4,-0.15,40,-6.0,"Priyanuj, Dutta",,1409.0,False,IND,1.0,1,0.36,40,14.4
+25918117,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1590,1509,1.5,4,-0.15,40,-6.0,"Adipto, Nath",,1664.0,False,IND,0.0,1,-0.29,40,-11.6
+25918117,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1590,1509,1.5,4,-0.15,40,-6.0,"Raagneel, Borgohain",,1435.0,False,IND,0.5,1,-0.1,40,-4.0
+25918117,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1698,1503,1.0,4,-0.06,40,-2.4,"Dharmeswar, Pegu",,1885.0,False,IND,0.0,1,-0.09,40,-3.6
+25918117,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1698,1503,1.0,4,-0.06,40,-2.4,"Nabam, Nikum",,1621.0,False,IND,1.0,1,0.66,40,26.4
+25918117,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1698,1503,1.0,4,-0.06,40,-2.4,"Moirangthem, Modhusudon",,1677.0,False,IND,0.0,1,-0.27,40,-10.8
+25918117,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1698,1503,1.0,4,-0.06,40,-2.4,"Biswajit, Changmai",,1607.0,False,IND,0.0,1,-0.36,40,-14.4
+25918117,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1701,1501,0.0,2,-0.5,40,-20.0,"Supritom, Boruah",,1757.0,False,IND,0.0,1,-0.19,40,-7.6
+25918117,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1701,1501,0.0,2,-0.5,40,-20.0,"Bora, Mahendra",,1644.0,False,IND,0.0,1,-0.31,40,-12.4

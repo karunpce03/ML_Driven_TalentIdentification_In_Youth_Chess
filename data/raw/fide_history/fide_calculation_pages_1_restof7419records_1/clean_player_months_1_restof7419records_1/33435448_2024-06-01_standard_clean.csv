@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33435448,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1459,1643,1.5,3,-0.72,40,-28.8,"Nischith, Gurukar K",,1468.0,False,IND,0.5,1,-0.23,40,-9.2
+33435448,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1459,1643,1.5,3,-0.72,40,-28.8,"Vyan, Banchhor",,1471.0,False,IND,0.0,1,-0.73,40,-29.2
+33435448,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1459,1643,1.5,3,-0.72,40,-28.8,"Vishak, P",,1437.0,False,IND,1.0,1,0.24,40,9.6

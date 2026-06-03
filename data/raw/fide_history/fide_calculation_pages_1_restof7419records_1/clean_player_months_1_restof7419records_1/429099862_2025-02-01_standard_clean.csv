@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429099862,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1575,1461,3.5,8,0.62,40,24.8,"Advik, Mundhada",,1620,False,IND,0.0,1,-0.29,40,-11.6
+429099862,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1575,1461,3.5,8,0.62,40,24.8,"Divith, Reddy Adulla",,1861,True,IND,1.0,1,0.92,40,36.8
+429099862,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1575,1461,3.5,8,0.62,40,24.8,"Medhansh, Dinesh Poojary",,1521,False,IND,0.0,1,-0.42,40,-16.8
+429099862,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1575,1461,3.5,8,0.62,40,24.8,"Ishaan, Mukund Laddha",,1418,False,IND,1.0,1,0.44,40,17.6
+429099862,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1575,1461,3.5,8,0.62,40,24.8,"Suryansh, Kuksal",,1530,False,IND,1.0,1,0.6,40,24.0
+429099862,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1575,1461,3.5,8,0.62,40,24.8,"Devansh, Keshri",,1595,False,IND,0.5,1,0.18,40,7.2
+429099862,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1575,1461,3.5,8,0.62,40,24.8,"Ayaanraj, Kottapally",,1561,False,IND,0.0,1,-0.36,40,-14.4
+429099862,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1575,1461,3.5,8,0.62,40,24.8,"Anish, Abhijeet Jawalkar",,1494,False,IND,0.0,1,-0.45,40,-18.0

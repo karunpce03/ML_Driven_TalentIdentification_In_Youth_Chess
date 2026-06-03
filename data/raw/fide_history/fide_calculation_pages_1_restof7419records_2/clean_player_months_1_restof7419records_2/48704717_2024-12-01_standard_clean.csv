@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48704717,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1705,1425,0.0,3,-0.53,40,-21.2,"Gogte, Soumil",,1825,True,IND,0.0,1,-0.08,40,-3.2
+48704717,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1705,1425,0.0,3,-0.53,40,-21.2,"Margaj, Prisha",,1688,False,IND,0.0,1,-0.18,40,-7.2
+48704717,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1705,1425,0.0,3,-0.53,40,-21.2,"Parv, H Hakani",,1601,False,IND,0.0,1,-0.27,40,-10.8

@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25184644,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1624,1479,2.0,6,0.09,40,3.6,"Niladri, Banerjee",,1820.0,False,IND,0.0,1,-0.12,40,-4.8
+25184644,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1624,1479,2.0,6,0.09,40,3.6,"Abhirup, Mukherjee",,1470.0,False,IND,0.0,1,-0.51,40,-20.4
+25184644,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1624,1479,2.0,6,0.09,40,3.6,"Raunak, Sarkar",,1596.0,False,IND,0.0,1,-0.34,40,-13.6
+25184644,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1624,1479,2.0,6,0.09,40,3.6,"Adhiraj, Mukherjee",,1648.0,False,IND,1.0,1,0.72,40,28.8
+25184644,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1624,1479,2.0,6,0.09,40,3.6,"Arkojyoti, Banerjee",,1661.0,False,IND,0.0,1,-0.26,40,-10.4
+25184644,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1624,1479,2.0,6,0.09,40,3.6,"Spandan, Debnath",,1550.0,False,IND,1.0,1,0.6,40,24.0

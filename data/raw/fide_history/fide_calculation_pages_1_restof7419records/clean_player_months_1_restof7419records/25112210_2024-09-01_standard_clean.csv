@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Khalid, Amin",,1860.0,False,IND,0.0,1,-0.14,40,-5.6
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Mokshith, Pasupulety",,1758.0,False,IND,0.5,1,0.27,40,10.8
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Rama, Anjaneyulu R V S S",,1751.0,False,IND,0.5,1,0.26,40,10.4
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Bhanushali, Neemay",,1736.0,False,IND,0.5,1,0.24,40,9.6
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Lalbiak, Mawia",,1781.0,False,IND,0.0,1,-0.21,40,-8.4
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Ashutosh, Jamwal",,1685.0,False,IND,0.0,1,-0.32,40,-12.8
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Shravan, Sriram",,1747.0,False,IND,1.0,1,0.76,40,30.4
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Darsh, Ilwadi",,1661.0,False,IND,1.0,1,0.65,40,26.0
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Ebenezer, Joseph",c,1884.0,False,IND,0.0,1,-0.12,40,-4.8
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Ansh, Kumar",,1689.0,False,IND,0.5,1,0.19,40,7.6
+25112210,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1548,5.0,11,2.29,40,91.6,"Talin, Nimpu",,1710.0,False,IND,1.0,1,0.71,40,28.4

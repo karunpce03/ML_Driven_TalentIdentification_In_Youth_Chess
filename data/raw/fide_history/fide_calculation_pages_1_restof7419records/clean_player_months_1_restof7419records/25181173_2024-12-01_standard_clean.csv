@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25181173,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1714,1968,7.0,11,-1.87,36,-67.32,"Avika, Panwar",,1568,True,IND,1.0,1,0.08,36,2.88
+25181173,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1714,1968,7.0,11,-1.87,36,-67.32,"Janani, J",,1667,False,IND,1.0,1,0.15,36,5.4
+25181173,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1714,1968,7.0,11,-1.87,36,-67.32,"Arushi, Severin Helen D Silva",,1789,False,IND,0.0,1,-0.73,36,-26.28
+25181173,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1714,1968,7.0,11,-1.87,36,-67.32,"Saganapriya, V",,1623,False,IND,1.0,1,0.11,36,3.96
+25181173,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1714,1968,7.0,11,-1.87,36,-67.32,"Kavyasree, S",,1748,False,IND,0.5,1,-0.28,36,-10.08
+25181173,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1714,1968,7.0,11,-1.87,36,-67.32,"Krupha, S Ukkali",,1741,False,IND,1.0,1,0.21,36,7.56
+25181173,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1714,1968,7.0,11,-1.87,36,-67.32,"Jagadale, Ishwari",,1793,False,IND,0.0,1,-0.73,36,-26.28
+25181173,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1714,1968,7.0,11,-1.87,36,-67.32,"Theephigaa, K P",,1702,False,IND,0.5,1,-0.32,36,-11.52
+25181173,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1714,1968,7.0,11,-1.87,36,-67.32,"Aditi, Arun",,1738,False,IND,1.0,1,0.21,36,7.56
+25181173,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1714,1968,7.0,11,-1.87,36,-67.32,"Jahnvi, Ashok",,1744,False,IND,0.0,1,-0.78,36,-28.08
+25181173,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1714,1968,7.0,11,-1.87,36,-67.32,"Shreya, Rajesh",,1742,False,IND,1.0,1,0.21,36,7.56
+25181173,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1745,1968,6.0,8,-0.03,36,-1.08,Shanibraaz,,1568,True,IND,1.0,1,0.08,36,2.88
+25181173,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1745,1968,6.0,8,-0.03,36,-1.08,"Pranav, Mukunth P",,1597,False,IND,0.5,1,-0.4,36,-14.4
+25181173,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1745,1968,6.0,8,-0.03,36,-1.08,"Takkshanth, Anand",,1591,False,IND,1.0,1,0.09,36,3.24
+25181173,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1745,1968,6.0,8,-0.03,36,-1.08,"Vishwajith, S",,1678,False,IND,0.5,1,-0.34,36,-12.24
+25181173,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1745,1968,6.0,8,-0.03,36,-1.08,"Surendiraa, A Sathish",,1653,False,IND,1.0,1,0.14,36,5.04
+25181173,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1745,1968,6.0,8,-0.03,36,-1.08,"Karthick, Sai P",,1727,False,IND,1.0,1,0.2,36,7.2
+25181173,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1745,1968,6.0,8,-0.03,36,-1.08,"Nijesh, R",,1830,False,IND,1.0,1,0.31,36,11.16
+25181173,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1745,1968,6.0,8,-0.03,36,-1.08,"Laxman, R.r.",g,2313,False,IND,0.0,1,-0.11,36,-3.96

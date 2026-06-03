@@ -1,0 +1,52 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25611330,2024-05-01,0,5th Colonial Open,"Dulles, VA USA",2024-03-28,2024-03-31,1882,1564,1.5,7,0.52,40,20.8,"Das, Aditeya",,1900.0,False,USA,1.0,1,0.88,40,35.2
+25611330,2024-05-01,0,5th Colonial Open,"Dulles, VA USA",2024-03-28,2024-03-31,1882,1564,1.5,7,0.52,40,20.8,"Foisor, Sabina-Francesca",wg,1964.0,True,USA,0.0,1,-0.08,40,-3.2
+25611330,2024-05-01,0,5th Colonial Open,"Dulles, VA USA",2024-03-28,2024-03-31,1882,1564,1.5,7,0.52,40,20.8,"Kalpaka, Vaibhav Robinjith",,1964.0,True,IND,0.0,1,-0.08,40,-3.2
+25611330,2024-05-01,0,5th Colonial Open,"Dulles, VA USA",2024-03-28,2024-03-31,1882,1564,1.5,7,0.52,40,20.8,"Amrany, Benjamin",,1929.0,False,USA,0.0,1,-0.1,40,-4.0
+25611330,2024-05-01,0,5th Colonial Open,"Dulles, VA USA",2024-03-28,2024-03-31,1882,1564,1.5,7,0.52,40,20.8,"Katta, Sriansh",,1768.0,False,USA,0.0,1,-0.24,40,-9.6
+25611330,2024-05-01,0,5th Colonial Open,"Dulles, VA USA",2024-03-28,2024-03-31,1882,1564,1.5,7,0.52,40,20.8,"Wang, Chloe Heather",wc,1860.0,False,USA,0.0,1,-0.15,40,-6.0
+25611330,2024-05-01,0,5th Colonial Open,"Dulles, VA USA",2024-03-28,2024-03-31,1882,1564,1.5,7,0.52,40,20.8,"Diao, Sujia",,1791.0,False,USA,0.5,1,0.29,40,11.6
+25611330,2024-05-01,0,The 1st Annual Keystone Open,"Langhorne, Pennsylvania USA",2024-04-12,2024-04-14,1897,1564,2.5,5,1.83,40,73.2,"Rychkov, Roman",,1964.0,True,USA,0.5,1,0.42,40,16.8
+25611330,2024-05-01,0,The 1st Annual Keystone Open,"Langhorne, Pennsylvania USA",2024-04-12,2024-04-14,1897,1564,2.5,5,1.83,40,73.2,"Nitz, James John",,1905.0,False,USA,0.5,1,0.38,40,15.2
+25611330,2024-05-01,0,The 1st Annual Keystone Open,"Langhorne, Pennsylvania USA",2024-04-12,2024-04-14,1897,1564,2.5,5,1.83,40,73.2,"Everett, Luke",,1720.0,False,USA,1.0,1,0.71,40,28.4
+25611330,2024-05-01,0,The 1st Annual Keystone Open,"Langhorne, Pennsylvania USA",2024-04-12,2024-04-14,1897,1564,2.5,5,1.83,40,73.2,"Rawshani, Kamran",,1932.0,False,USA,0.5,1,0.4,40,16.0
+25611330,2024-05-01,0,The 1st Annual Keystone Open,"Langhorne, Pennsylvania USA",2024-04-12,2024-04-14,1897,1564,2.5,5,1.83,40,73.2,"Mujumdar, Sameer Suhas",,1964.0,True,USA,0.0,1,-0.08,40,-3.2
+25611330,2024-06-01,0,1st Annual Northern Class Championship,"Langhorne, Pennsylvania USA",2024-05-10,2024-05-12,1943,1658,0.0,3,-0.56,40,-22.4,"Mujumdar, Sameer Suhas",,2035.0,False,USA,0.0,1,-0.09,40,-3.6
+25611330,2024-06-01,0,1st Annual Northern Class Championship,"Langhorne, Pennsylvania USA",2024-05-10,2024-05-12,1943,1658,0.0,3,-0.56,40,-22.4,"Garg, Priyansh",,2049.0,False,USA,0.0,1,-0.09,40,-3.6
+25611330,2024-06-01,0,1st Annual Northern Class Championship,"Langhorne, Pennsylvania USA",2024-05-10,2024-05-12,1943,1658,0.0,3,-0.56,40,-22.4,"Kumbharathi, Vedanth",,1746.0,False,USA,0.0,1,-0.38,40,-15.2
+25611330,2024-08-01,0,11th Annual Potomac Open - U2100,"Rockville, MD USA",2024-07-19,2024-07-21,1742,1636,3.0,5,1.17,40,46.8,"Ay, Altu",,1790.0,False,TUR,0.0,1,-0.29,40,-11.6
+25611330,2024-08-01,0,11th Annual Potomac Open - U2100,"Rockville, MD USA",2024-07-19,2024-07-21,1742,1636,3.0,5,1.17,40,46.8,"Murugan Ayyappan, Adhiraiyan",,1729.0,False,USA,1.0,1,0.63,40,25.2
+25611330,2024-08-01,0,11th Annual Potomac Open - U2100,"Rockville, MD USA",2024-07-19,2024-07-21,1742,1636,3.0,5,1.17,40,46.8,"Muthu, Kamatchi",,1531.0,False,USA,1.0,1,0.36,40,14.4
+25611330,2024-08-01,0,11th Annual Potomac Open - U2100,"Rockville, MD USA",2024-07-19,2024-07-21,1742,1636,3.0,5,1.17,40,46.8,"Kunder, Steven Carl",,1722.0,False,USA,1.0,1,0.62,40,24.8
+25611330,2024-08-01,0,11th Annual Potomac Open - U2100,"Rockville, MD USA",2024-07-19,2024-07-21,1742,1636,3.0,5,1.17,40,46.8,"Schenk, Sam",,1936.0,False,USA,0.0,1,-0.15,40,-6.0
+25611330,2024-09-01,0,2024 DMV Summer FIDE Classical,"Chantilly, VA USA",2024-08-03,2024-08-04,1540,1683,0.5,2,-0.89,40,-35.6,"Huang, Lulu",,1560.0,False,USA,0.5,1,-0.17,40,-6.8
+25611330,2024-09-01,0,2024 DMV Summer FIDE Classical,"Chantilly, VA USA",2024-08-03,2024-08-04,1540,1683,0.5,2,-0.89,40,-35.6,"Ghodgaonkar, Anirudh",,1520.0,False,USA,0.0,1,-0.72,40,-28.8
+25611330,2024-09-01,0,54th Annual Continental Open - U2100,"Marlborough, MA USA",2024-08-15,2024-08-18,1692,1683,4.0,5,1.57,40,62.8,"Klempf, Maxim",,1602.0,False,USA,1.0,1,0.39,40,15.6
+25611330,2024-09-01,0,54th Annual Continental Open - U2100,"Marlborough, MA USA",2024-08-15,2024-08-18,1692,1683,4.0,5,1.57,40,62.8,"Klempf, Nathan",,1746.0,False,USA,1.0,1,0.59,40,23.6
+25611330,2024-09-01,0,54th Annual Continental Open - U2100,"Marlborough, MA USA",2024-08-15,2024-08-18,1692,1683,4.0,5,1.57,40,62.8,"Cui, Chris",,1606.0,False,USA,1.0,1,0.39,40,15.6
+25611330,2024-09-01,0,54th Annual Continental Open - U2100,"Marlborough, MA USA",2024-08-15,2024-08-18,1692,1683,4.0,5,1.57,40,62.8,"Mashkov, David Alexander",,1725.0,False,USA,0.5,1,0.06,40,2.4
+25611330,2024-09-01,0,54th Annual Continental Open - U2100,"Marlborough, MA USA",2024-08-15,2024-08-18,1692,1683,4.0,5,1.57,40,62.8,"Bhargava, Kushagra",,1783.0,False,USA,0.5,1,0.14,40,5.6
+25611330,2024-10-01,0,146th Annual New York State Championship - U2100,"Albany, NY USA",2024-08-30,2024-09-02,1764,1683,4.5,6,2.15,40,86.0,"Northrup, Cory",,1848.0,False,USA,1.0,1,0.72,40,28.8
+25611330,2024-10-01,0,146th Annual New York State Championship - U2100,"Albany, NY USA",2024-08-30,2024-09-02,1764,1683,4.5,6,2.15,40,86.0,"Goel, Raben",,1795.0,False,USA,1.0,1,0.65,40,26.0
+25611330,2024-10-01,0,146th Annual New York State Championship - U2100,"Albany, NY USA",2024-08-30,2024-09-02,1764,1683,4.5,6,2.15,40,86.0,"Ramesan, Raunak Amit",,1723.0,False,CAN,0.5,1,0.06,40,2.4
+25611330,2024-10-01,0,146th Annual New York State Championship - U2100,"Albany, NY USA",2024-08-30,2024-09-02,1764,1683,4.5,6,2.15,40,86.0,"Zhou, Audrey",,1460.0,False,USA,1.0,1,0.22,40,8.8
+25611330,2024-10-01,0,146th Annual New York State Championship - U2100,"Albany, NY USA",2024-08-30,2024-09-02,1764,1683,4.5,6,2.15,40,86.0,"Larsen, Jeremy",,1926.0,False,USA,0.0,1,-0.2,40,-8.0
+25611330,2024-10-01,0,146th Annual New York State Championship - U2100,"Albany, NY USA",2024-08-30,2024-09-02,1764,1683,4.5,6,2.15,40,86.0,"Olson, Travis J",,1832.0,False,USA,1.0,1,0.7,40,28.0
+25611330,2024-10-01,0,September 2024 ChessKQ Super Sunday FIDE Tournament,"Piscataway, NJ USA",2024-09-08,2024-09-08,1876,1710,3.0,3,2.11,40,84.4,"Cirasella, Lucas",,2029.0,False,USA,1.0,1,0.87,40,34.8
+25611330,2024-10-01,0,September 2024 ChessKQ Super Sunday FIDE Tournament,"Piscataway, NJ USA",2024-09-08,2024-09-08,1876,1710,3.0,3,2.11,40,84.4,"Yang, Aimee",wc,1805.0,False,USA,1.0,1,0.63,40,25.2
+25611330,2024-10-01,0,September 2024 ChessKQ Super Sunday FIDE Tournament,"Piscataway, NJ USA",2024-09-08,2024-09-08,1876,1710,3.0,3,2.11,40,84.4,"Chovanec, Alice",wc,1793.0,False,USA,1.0,1,0.61,40,24.4
+25611330,2024-11-01,0,October 2024 ChessKQ Super Sunday FIDE Tournament,"Piscataway, NJ USA",2024-10-06,2024-10-06,1799,1880,1.5,2,0.28,40,11.2,"Mummidi, Aaryan",,1836.0,False,USA,0.5,1,-0.06,40,-2.4
+25611330,2024-11-01,0,October 2024 ChessKQ Super Sunday FIDE Tournament,"Piscataway, NJ USA",2024-10-06,2024-10-06,1799,1880,1.5,2,0.28,40,11.2,"Jandhyala, Yegna Sairam",,1762.0,False,USA,1.0,1,0.34,40,13.6
+25611330,2025-01-01,0,55th Annual National Chess Congress - Premier,"Philadelphia, PA USA",2024-11-29,2024-12-01,1928,1891,1.0,5,-1.25,40,-50.0,"Dubnoff, Micah Simon",,2046.0,False,USA,0.0,1,-0.29,40,-11.6
+25611330,2025-01-01,0,55th Annual National Chess Congress - Premier,"Philadelphia, PA USA",2024-11-29,2024-12-01,1928,1891,1.0,5,-1.25,40,-50.0,"Xie, Timothy",,1861.0,False,USA,0.0,1,-0.54,40,-21.6
+25611330,2025-01-01,0,55th Annual National Chess Congress - Premier,"Philadelphia, PA USA",2024-11-29,2024-12-01,1928,1891,1.0,5,-1.25,40,-50.0,"Tang, Vincent",,1905.0,False,USA,0.0,1,-0.48,40,-19.2
+25611330,2025-01-01,0,55th Annual National Chess Congress - Premier,"Philadelphia, PA USA",2024-11-29,2024-12-01,1928,1891,1.0,5,-1.25,40,-50.0,"Stern, Kevin Bradley",,1970.0,False,USA,0.5,1,0.11,40,4.4
+25611330,2025-01-01,0,55th Annual National Chess Congress - Premier,"Philadelphia, PA USA",2024-11-29,2024-12-01,1928,1891,1.0,5,-1.25,40,-50.0,"Zhang, Royce",,1856.0,False,USA,0.5,1,-0.05,40,-2.0
+25611330,2025-01-01,0,1st Annual Benjamin Franklin Open,"Langhorne, PA USA",2024-12-20,2024-12-22,1726,1891,2.5,5,-1.07,40,-42.8,"Prasanna, Pranav",,1723.0,False,USA,0.0,1,-0.72,40,-28.8
+25611330,2025-01-01,0,1st Annual Benjamin Franklin Open,"Langhorne, PA USA",2024-12-20,2024-12-22,1726,1891,2.5,5,-1.07,40,-42.8,"Vaneswaran, Anand",,1767.0,False,USA,0.5,1,-0.17,40,-6.8
+25611330,2025-01-01,0,1st Annual Benjamin Franklin Open,"Langhorne, PA USA",2024-12-20,2024-12-22,1726,1891,2.5,5,-1.07,40,-42.8,"Muthu, Kamatchi",,1610.0,False,USA,0.0,1,-0.84,40,-33.6
+25611330,2025-01-01,0,1st Annual Benjamin Franklin Open,"Langhorne, PA USA",2024-12-20,2024-12-22,1726,1891,2.5,5,-1.07,40,-42.8,"Zeigler, Nathan",,1803.0,False,USA,1.0,1,0.38,40,15.2
+25611330,2025-01-01,0,1st Annual Benjamin Franklin Open,"Langhorne, PA USA",2024-12-20,2024-12-22,1726,1891,2.5,5,-1.07,40,-42.8,"Parripati, Tanay",,1727.0,False,USA,1.0,1,0.28,40,11.2
+25611330,2025-04-01,0,March 2025 Super Sunday FIDE Tournament,"Piscataway, NJ USA",2025-03-23,2025-03-23,1735,1798,1.0,3,-0.75,40,-30.0,"Nigam, Myra",,1618.0,False,USA,1.0,1,0.26,40,10.4
+25611330,2025-04-01,0,March 2025 Super Sunday FIDE Tournament,"Piscataway, NJ USA",2025-03-23,2025-03-23,1735,1798,1.0,3,-0.75,40,-30.0,"Yang, Aimee",wc,1984.0,False,USA,0.0,1,-0.26,40,-10.4
+25611330,2025-04-01,0,March 2025 Super Sunday FIDE Tournament,"Piscataway, NJ USA",2025-03-23,2025-03-23,1735,1798,1.0,3,-0.75,40,-30.0,"Kashyap, Manish B",,1602.0,False,USA,0.0,1,-0.75,40,-30.0

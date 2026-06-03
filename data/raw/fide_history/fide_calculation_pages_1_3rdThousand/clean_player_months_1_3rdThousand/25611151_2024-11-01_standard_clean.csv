@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25611151,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2290,2242,5.5,9,1.57,20,31.4,"Anes, Thomas",,1965.0,False,FRA,1.0,1,0.17,20,3.4
+25611151,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2290,2242,5.5,9,1.57,20,31.4,"Bournel, Antoine",m,2391.0,False,FRA,0.0,1,-0.3,20,-6.0
+25611151,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2290,2242,5.5,9,1.57,20,31.4,"Lissillour, Baptiste",,2085.0,False,FRA,0.5,1,-0.21,20,-4.2
+25611151,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2290,2242,5.5,9,1.57,20,31.4,"Alibabaei, Sasan",,2096.0,False,IRI,1.0,1,0.3,20,6.0
+25611151,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2290,2242,5.5,9,1.57,20,31.4,"Joie, Sebastien",m,2364.0,False,FRA,1.0,1,0.67,20,13.4
+25611151,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2290,2242,5.5,9,1.57,20,31.4,"Sankalp, Gupta",g,2534.0,False,IND,0.0,1,-0.15,20,-3.0
+25611151,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2290,2242,5.5,9,1.57,20,31.4,"Erdogdu, Aziz Mert",g,2413.0,False,TUR,1.0,1,0.73,20,14.6
+25611151,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2290,2242,5.5,9,1.57,20,31.4,"Das, Sayantan",g,2471.0,False,IND,0.0,1,-0.21,20,-4.2
+25611151,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2290,2242,5.5,9,1.57,20,31.4,"Gautier, Anand",,2293.0,False,FRA,1.0,1,0.57,20,11.4

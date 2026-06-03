@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25187198,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1805,1619,3.0,5,1.58,40,63.2,"Shanmathi, Sree S",wc,1887,False,IND,1.0,1,0.83,40,33.2
+25187198,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1805,1619,3.0,5,1.58,40,63.2,"Falak, Joni Naik",,1717,False,IND,1.0,1,0.63,40,25.2
+25187198,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1805,1619,3.0,5,1.58,40,63.2,"Khushboo, Kushwaha",,1551,False,IND,1.0,1,0.41,40,16.4
+25187198,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1805,1619,3.0,5,1.58,40,63.2,"Kale, Shruti",,1853,False,IND,0.0,1,-0.21,40,-8.4
+25187198,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1805,1619,3.0,5,1.58,40,63.2,"Kiran, Manisha Mohanty",wg,2019,True,IND,0.0,1,-0.08,40,-3.2

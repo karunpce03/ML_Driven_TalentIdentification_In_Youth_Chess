@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25157078,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1746,1489,2.5,5,1.54,40,61.6,"Pradiksha, P S",,1789.0,False,IND,0.0,1,-0.15,40,-6.0
+25157078,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1746,1489,2.5,5,1.54,40,61.6,"Pavithra, R V",,1724.0,False,IND,0.0,1,-0.21,40,-8.4
+25157078,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1746,1489,2.5,5,1.54,40,61.6,"Karthik, Gopal",,1848.0,False,IND,1.0,1,0.9,40,36.0
+25157078,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1746,1489,2.5,5,1.54,40,61.6,"Balu, Karthick",,1638.0,False,IND,1.0,1,0.7,40,28.0
+25157078,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1746,1489,2.5,5,1.54,40,61.6,"Manikandan, Tayalan",,1732.0,False,IND,0.5,1,0.3,40,12.0

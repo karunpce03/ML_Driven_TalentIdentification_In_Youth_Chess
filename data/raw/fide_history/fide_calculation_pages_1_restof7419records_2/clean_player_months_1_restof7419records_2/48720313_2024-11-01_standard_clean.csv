@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48720313,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1590,1573,1.0,5,-1.43,40,-57.2,"Unnikrishnan, M A",,1791.0,False,IND,0.0,1,-0.22,40,-8.8
+48720313,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1590,1573,1.0,5,-1.43,40,-57.2,"Abhay, Chetty",,1804.0,False,IND,0.0,1,-0.21,40,-8.4
+48720313,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1590,1573,1.0,5,-1.43,40,-57.2,"Aarush, Singhai",,1450.0,False,IND,0.0,1,-0.67,40,-26.8
+48720313,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1590,1573,1.0,5,-1.43,40,-57.2,"Ujwal, Mekala",,1415.0,False,IND,1.0,1,0.29,40,11.6
+48720313,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1590,1573,1.0,5,-1.43,40,-57.2,"Aishwarya, N",,1489.0,False,IND,0.0,1,-0.62,40,-24.8

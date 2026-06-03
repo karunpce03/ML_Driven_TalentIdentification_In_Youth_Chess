@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25789449,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1802,1955,5.5,11,-2.18,35,-76.3,"Disha, U A",,1660.0,False,IND,1.0,1,0.15,35,5.25
+25789449,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1802,1955,5.5,11,-2.18,35,-76.3,"Divya, Deshmukh",m wg,2355.0,True,IND,0.0,1,-0.08,35,-2.8
+25789449,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1802,1955,5.5,11,-2.18,35,-76.3,"Jain, Ashita",,1744.0,False,IND,0.5,1,-0.27,35,-9.45
+25789449,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1802,1955,5.5,11,-2.18,35,-76.3,"Kirthika, B",,1724.0,False,IND,1.0,1,0.21,35,7.35
+25789449,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1802,1955,5.5,11,-2.18,35,-76.3,"Yashvi, Jain",,1729.0,False,IND,0.0,1,-0.79,35,-27.65
+25789449,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1802,1955,5.5,11,-2.18,35,-76.3,"Koksa, Jelena",,1842.0,False,CRO,0.0,1,-0.65,35,-22.75
+25789449,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1802,1955,5.5,11,-2.18,35,-76.3,"Rejepova, Jahan",,1816.0,False,TKM,0.0,1,-0.69,35,-24.15
+25789449,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1802,1955,5.5,11,-2.18,35,-76.3,"Drishtee, Ghosh",,1700.0,False,IND,1.0,1,0.19,35,6.65
+25789449,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1802,1955,5.5,11,-2.18,35,-76.3,"Radhika, Sharma",,1651.0,False,IND,1.0,1,0.14,35,4.9
+25789449,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1802,1955,5.5,11,-2.18,35,-76.3,"Kanishka, S",,1882.0,False,IND,0.0,1,-0.6,35,-21.0
+25789449,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1802,1955,5.5,11,-2.18,35,-76.3,"Zarkym, Ailin",,1721.0,False,KAZ,1.0,1,0.21,35,7.35
+25789449,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2064,1955,4.5,9,1.27,35,44.45,"Zhakshylykov, Erzhan",f,2261.0,False,KGZ,0.0,1,-0.14,35,-4.9
+25789449,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2064,1955,4.5,9,1.27,35,44.45,"Egorov, Konstantin",c,2119.0,False,FID,0.0,1,-0.28,35,-9.8
+25789449,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2064,1955,4.5,9,1.27,35,44.45,"Bauyrzhan, Arnash",wf,2028.0,False,KAZ,0.5,1,0.1,35,3.5
+25789449,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2064,1955,4.5,9,1.27,35,44.45,"Tenuunbold, Battulga",f,2089.0,False,MGL,0.0,1,-0.32,35,-11.2
+25789449,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2064,1955,4.5,9,1.27,35,44.45,"Chyngyz, Sultai",c,1967.0,False,KGZ,0.5,1,0.02,35,0.7
+25789449,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2064,1955,4.5,9,1.27,35,44.45,"Spiridonov, Kirill",,1917.0,False,KGZ,1.0,1,0.45,35,15.75
+25789449,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2064,1955,4.5,9,1.27,35,44.45,"Umarbekov, Aziz",,2113.0,False,KGZ,1.0,1,0.71,35,24.85
+25789449,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2064,1955,4.5,9,1.27,35,44.45,"Turksoi, Zhanpolat",,1938.0,False,KGZ,0.5,1,-0.02,35,-0.7
+25789449,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2064,1955,4.5,9,1.27,35,44.45,"Ovezdurdyyeva, Jemal",wf,2144.0,False,TKM,1.0,1,0.75,35,26.25

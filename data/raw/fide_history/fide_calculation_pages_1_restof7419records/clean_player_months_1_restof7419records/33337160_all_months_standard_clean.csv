@@ -1,0 +1,50 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33337160,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1829,1761,3.0,9,-0.82,40,-32.8,"Pazhany, Kaushal Kohli",,1563.0,False,IND,1.0,1,0.24,40,9.6
+33337160,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1829,1761,3.0,9,-0.82,40,-32.8,"Dakshita, Kumawat",,1855.0,False,IND,0.0,1,-0.37,40,-14.8
+33337160,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1829,1761,3.0,9,-0.82,40,-32.8,"Thakur, Ankur Singh",,1641.0,False,IND,1.0,1,0.34,40,13.6
+33337160,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1829,1761,3.0,9,-0.82,40,-32.8,"Rajith, V.",,1695.0,False,IND,0.5,1,-0.09,40,-3.6
+33337160,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1829,1761,3.0,9,-0.82,40,-32.8,"Vignesh, N R",g,2161.0,True,IND,0.0,1,-0.08,40,-3.2
+33337160,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1829,1761,3.0,9,-0.82,40,-32.8,"Swarna, Nihal",,2003.0,False,IND,0.5,1,0.3,40,12.0
+33337160,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1829,1761,3.0,9,-0.82,40,-32.8,"Om, Nagnath Lamkane",,1922.0,False,IND,0.0,1,-0.29,40,-11.6
+33337160,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1829,1761,3.0,9,-0.82,40,-32.8,"Amit, Dhoundiyal",,1792.0,False,IND,0.0,1,-0.46,40,-18.4
+33337160,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1829,1761,3.0,9,-0.82,40,-32.8,"Nirnay, Garg",,1828.0,False,IND,0.0,1,-0.41,40,-16.4
+33337160,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1622,1728,6.5,9,0.77,40,30.8,"Dharmendra, Jain",,1402.0,False,IND,1.0,1,0.13,40,5.2
+33337160,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1622,1728,6.5,9,0.77,40,30.8,"Varnit, Dixit",,1536.0,False,IND,1.0,1,0.25,40,10.0
+33337160,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1622,1728,6.5,9,0.77,40,30.8,"Borate, Tanvi",,1616.0,False,IND,1.0,1,0.35,40,14.0
+33337160,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1622,1728,6.5,9,0.77,40,30.8,"Kishan, Kumar",,1920.0,False,IND,0.0,1,-0.25,40,-10.0
+33337160,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1622,1728,6.5,9,0.77,40,30.8,"Chandwani, Prateek",,1605.0,False,IND,1.0,1,0.33,40,13.2
+33337160,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1622,1728,6.5,9,0.77,40,30.8,"Devarsh, Kinra",,1635.0,False,IND,0.0,1,-0.63,40,-25.2
+33337160,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1622,1728,6.5,9,0.77,40,30.8,"Harshvardhan, Singh Parihar",,1588.0,False,IND,1.0,1,0.31,40,12.4
+33337160,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1622,1728,6.5,9,0.77,40,30.8,"Sundar, Divij P",,1653.0,False,IND,0.5,1,-0.1,40,-4.0
+33337160,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1622,1728,6.5,9,0.77,40,30.8,"Shreyaskar, Tanti",,1642.0,False,IND,1.0,1,0.38,40,15.2
+33337160,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1666,1759,5.5,8,0.52,40,20.8,"Anuj, Keshari",,1545.0,False,IND,1.0,1,0.23,40,9.2
+33337160,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1666,1759,5.5,8,0.52,40,20.8,"Hardev, Sahai",,1512.0,False,IND,1.0,1,0.19,40,7.6
+33337160,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1666,1759,5.5,8,0.52,40,20.8,"Ayush, Saxena",,1705.0,False,IND,0.0,1,-0.58,40,-23.2
+33337160,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1666,1759,5.5,8,0.52,40,20.8,"Md, Hasnain Siddiqui",,1720.0,False,IND,0.5,1,-0.05,40,-2.0
+33337160,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1666,1759,5.5,8,0.52,40,20.8,"Aabhas, Kumar Srivastava",,1642.0,False,IND,1.0,1,0.34,40,13.6
+33337160,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1666,1759,5.5,8,0.52,40,20.8,"Sresth, Yadav",,1673.0,False,IND,1.0,1,0.38,40,15.2
+33337160,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1666,1759,5.5,8,0.52,40,20.8,"Harshit, Singh",,1909.0,False,IND,0.5,1,0.2,40,8.0
+33337160,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1666,1759,5.5,8,0.52,40,20.8,"Shreyas, Mishra",,1621.0,False,IND,0.5,1,-0.19,40,-7.6
+33337160,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1799,1780,6.5,9,2.28,40,91.2,"Samriddhi, Tiwari",,1485.0,False,IND,1.0,1,0.15,40,6.0
+33337160,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1799,1780,6.5,9,2.28,40,91.2,"Nigudkar, Ameya",,1628.0,False,IND,1.0,1,0.3,40,12.0
+33337160,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1799,1780,6.5,9,2.28,40,91.2,"Harshit, Singh",,1957.0,False,IND,1.0,1,0.73,40,29.2
+33337160,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1799,1780,6.5,9,2.28,40,91.2,"Prashanth, J Naik",,1884.0,False,IND,0.0,1,-0.36,40,-14.4
+33337160,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1799,1780,6.5,9,2.28,40,91.2,"Sharma, Harish",,1902.0,False,IND,1.0,1,0.67,40,26.8
+33337160,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1799,1780,6.5,9,2.28,40,91.2,"Narayan, Iyengar",,1892.0,False,IND,0.5,1,0.15,40,6.0
+33337160,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1799,1780,6.5,9,2.28,40,91.2,"Lawaniya, Eshan",,1888.0,False,IND,0.0,1,-0.35,40,-14.0
+33337160,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1799,1780,6.5,9,2.28,40,91.2,"Ayaan, Trikha",,1663.0,False,IND,1.0,1,0.34,40,13.6
+33337160,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1799,1780,6.5,9,2.28,40,91.2,"Narahari, Geethika Hasini",,1890.0,False,IND,1.0,1,0.65,40,26.0
+33337160,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1495,1780,1.5,3,-1.02,40,-40.8,"Vedaang, Dave",,1498.0,False,IND,0.5,1,-0.34,40,-13.6
+33337160,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1495,1780,1.5,3,-1.02,40,-40.8,"Swayam, Chhabra",,1484.0,False,IND,0.5,1,-0.35,40,-14.0
+33337160,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1495,1780,1.5,3,-1.02,40,-40.8,"Abinesh, V",,1502.0,False,IND,0.5,1,-0.33,40,-13.2
+33337160,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1782,1830,5.5,11,-0.62,40,-24.8,"K., Moin Ahamad",,1434.0,False,IND,0.5,1,-0.42,40,-16.8
+33337160,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1782,1830,5.5,11,-0.62,40,-24.8,"Chaitanya, V Gaonkar",,1713.0,False,IND,0.5,1,-0.16,40,-6.4
+33337160,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1782,1830,5.5,11,-0.62,40,-24.8,"Harshvardhnachari, Uttaradi",,1686.0,False,IND,1.0,1,0.31,40,12.4
+33337160,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1782,1830,5.5,11,-0.62,40,-24.8,"Ajjesh, J R",,2034.0,False,IND,1.0,1,0.76,40,30.4
+33337160,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1782,1830,5.5,11,-0.62,40,-24.8,"Hari, Ganesh T",,2029.0,False,IND,0.0,1,-0.24,40,-9.6
+33337160,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1782,1830,5.5,11,-0.62,40,-24.8,"Jihan, Tejas Shah",,2089.0,False,IND,0.0,1,-0.18,40,-7.2
+33337160,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1782,1830,5.5,11,-0.62,40,-24.8,"Amrit, Raunak",,1723.0,False,IND,0.5,1,-0.15,40,-6.0
+33337160,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1782,1830,5.5,11,-0.62,40,-24.8,"Rishabh, Kumar",,1712.0,False,IND,0.5,1,-0.16,40,-6.4
+33337160,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1782,1830,5.5,11,-0.62,40,-24.8,"Dushyant, Singh",,1595.0,False,IND,1.0,1,0.21,40,8.4
+33337160,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1782,1830,5.5,11,-0.62,40,-24.8,"Vihaan, Dumir",,1972.0,False,IND,0.0,1,-0.31,40,-12.4
+33337160,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1782,1830,5.5,11,-0.62,40,-24.8,"Medhansh, Goyal",,1613.0,False,IND,0.5,1,-0.28,40,-11.2

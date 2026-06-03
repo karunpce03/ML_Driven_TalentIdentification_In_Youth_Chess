@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25770780,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1422,1509,0.5,2,-0.74,40,-29.6,"Indrayudh, Ghosh",,1430.0,False,IND,0.5,1,-0.11,40,-4.4
+25770780,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1422,1509,0.5,2,-0.74,40,-29.6,"Satyaki, Chanda",,1413.0,False,IND,0.0,1,-0.63,40,-25.2
+25770780,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1652,1509,0.0,1,-0.31,40,-12.4,"Amiyanshu, Bhowal",,1652.0,False,IND,0.0,1,-0.31,40,-12.4
+25770780,2025-02-01,0,PMZDS INTERNATIONAL OPEN FIDE RATING CHESS TOURNAMENT-2025,Purba Medinipur IND,2025-01-07,2025-01-12,1615,1467,0.0,2,-0.62,40,-24.8,"Soumyadeep, Nath",,1549.0,False,IND,0.0,1,-0.39,40,-15.6
+25770780,2025-02-01,0,PMZDS INTERNATIONAL OPEN FIDE RATING CHESS TOURNAMENT-2025,Purba Medinipur IND,2025-01-07,2025-01-12,1615,1467,0.0,2,-0.62,40,-24.8,"Abir, Mitra",,1680.0,False,IND,0.0,1,-0.23,40,-9.2

@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33471215,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1595,1435,3.0,7,0.88,40,35.2,"Sharsha, Backer",,1835,True,IND,0.0,1,-0.08,40,-3.2
+33471215,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1595,1435,3.0,7,0.88,40,35.2,"Aniket, Kashinath Bawaskar",,1546,False,IND,1.0,1,0.65,40,26.0
+33471215,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1595,1435,3.0,7,0.88,40,35.2,"Agraval, Shravana",,1608,False,IND,0.5,1,0.23,40,9.2
+33471215,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1595,1435,3.0,7,0.88,40,35.2,"Vansh, Jajoo",,1626,False,IND,0.0,1,-0.25,40,-10.0
+33471215,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1595,1435,3.0,7,0.88,40,35.2,"Rayan, Merchant",,1508,False,IND,0.5,1,0.1,40,4.0
+33471215,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1595,1435,3.0,7,0.88,40,35.2,"Rathod, Avinash",,1509,False,IND,1.0,1,0.6,40,24.0
+33471215,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1595,1435,3.0,7,0.88,40,35.2,"Gangan, Vihang Vishwanath",,1531,False,IND,0.0,1,-0.37,40,-14.8

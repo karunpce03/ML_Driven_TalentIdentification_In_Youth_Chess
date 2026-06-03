@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33399620,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1437,1639,2.0,6,-2.55,40,-102.0,"Soham, Mittal",,1438.0,False,IND,0.0,1,-0.76,40,-30.4
+33399620,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1437,1639,2.0,6,-2.55,40,-102.0,"Dheeraj, Malik",,1414.0,False,IND,0.0,1,-0.78,40,-31.2
+33399620,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1437,1639,2.0,6,-2.55,40,-102.0,"Prabhav, Atwal",,1427.0,False,IND,1.0,1,0.23,40,9.2
+33399620,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1437,1639,2.0,6,-2.55,40,-102.0,"Mintu, Gayen",,1488.0,False,IND,0.0,1,-0.7,40,-28.0
+33399620,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1437,1639,2.0,6,-2.55,40,-102.0,"Sunil, Vaishnav",,1419.0,False,IND,0.0,1,-0.78,40,-31.2
+33399620,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1437,1639,2.0,6,-2.55,40,-102.0,"Zayd, Saeed",,1438.0,False,IND,1.0,1,0.24,40,9.6

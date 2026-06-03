@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25943316,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1732,1800,4.5,10,-1.5,40,-60.0,"Sethuraman, S.p.",g,2200,True,IND,0.0,1,-0.08,40,-3.2
+25943316,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1732,1800,4.5,10,-1.5,40,-60.0,"Jayant, Chauhan",,1664,False,IND,1.0,1,0.32,40,12.8
+25943316,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1732,1800,4.5,10,-1.5,40,-60.0,"Vignesh, B",,2200,True,IND,0.0,1,-0.08,40,-3.2
+25943316,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1732,1800,4.5,10,-1.5,40,-60.0,"Ansh, Kumar",,1689,False,IND,0.5,1,-0.15,40,-6.0
+25943316,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1732,1800,4.5,10,-1.5,40,-60.0,"Binod, Kanhar",,1649,False,IND,1.0,1,0.3,40,12.0
+25943316,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1732,1800,4.5,10,-1.5,40,-60.0,"Saksham, Arora",,1573,False,IND,0.0,1,-0.79,40,-31.6
+25943316,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1732,1800,4.5,10,-1.5,40,-60.0,"Shiva, R V",,1729,False,IND,0.0,1,-0.6,40,-24.0
+25943316,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1732,1800,4.5,10,-1.5,40,-60.0,"Madhav, Jaydeepbhai Vora",,1507,False,IND,0.0,1,-0.85,40,-34.0
+25943316,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1732,1800,4.5,10,-1.5,40,-60.0,"Ikshit, Jain",,1419,False,IND,1.0,1,0.09,40,3.6
+25943316,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1732,1800,4.5,10,-1.5,40,-60.0,"Ashutosh, Jamwal",,1685,False,IND,1.0,1,0.34,40,13.6

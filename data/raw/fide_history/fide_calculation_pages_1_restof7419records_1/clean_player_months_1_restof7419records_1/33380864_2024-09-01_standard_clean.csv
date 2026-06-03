@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33380864,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1851,1544,1.0,3,0.56,40,22.4,"Simsek, Ayaz",,1883.0,False,TUR,1.0,1,0.88,40,35.2
+33380864,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1851,1544,1.0,3,0.56,40,22.4,"Mulhem, Laith.",,1786.0,False,SYR,0.0,1,-0.2,40,-8.0
+33380864,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1851,1544,1.0,3,0.56,40,22.4,"Kalyoncu, Beren",wc,1885.0,False,TUR,0.0,1,-0.12,40,-4.8
+33380864,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1699,1544,1.0,4,-0.26,40,-10.4,"Simsek, Ayaz",,1883.0,False,TUR,0.0,1,-0.12,40,-4.8
+33380864,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1699,1544,1.0,4,-0.26,40,-10.4,"Niroshan, Thanikachalam",,1717.0,False,IND,0.0,1,-0.27,40,-10.8
+33380864,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1699,1544,1.0,4,-0.26,40,-10.4,"Fares, Qanair",,1738.0,False,JOR,0.5,1,0.25,40,10.0
+33380864,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1699,1544,1.0,4,-0.26,40,-10.4,"Abdulazizov, Asadbek",,1458.0,False,UZB,0.5,1,-0.12,40,-4.8

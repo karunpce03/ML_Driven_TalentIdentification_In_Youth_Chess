@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25162748,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2220,2186,5.0,9,0.87,40,34.8,"Marn, Jan",f,2400.0,False,SLO,0.5,1,0.27,40,10.8
+25162748,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2220,2186,5.0,9,0.87,40,34.8,"Lumachi, Gabriele",f,2438.0,False,ITA,0.0,1,-0.19,40,-7.6
+25162748,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2220,2186,5.0,9,0.87,40,34.8,"Kekic, Urban",,2010.0,False,SLO,0.5,1,-0.23,40,-9.2
+25162748,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2220,2186,5.0,9,0.87,40,34.8,"Christodoulaki, Antonia",wf,2068.0,False,GRE,1.0,1,0.34,40,13.6
+25162748,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2220,2186,5.0,9,0.87,40,34.8,"Reza, Wojciech",f,2227.0,False,POL,0.0,1,-0.44,40,-17.6
+25162748,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2220,2186,5.0,9,0.87,40,34.8,"Hofstadler, Mario",c,2203.0,False,AUT,1.0,1,0.52,40,20.8
+25162748,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2220,2186,5.0,9,0.87,40,34.8,"Dolas, Aarush",c,2014.0,False,IND,1.0,1,0.27,40,10.8
+25162748,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2220,2186,5.0,9,0.87,40,34.8,"Skawinski, Arkadiusz",f,2331.0,False,POL,0.0,1,-0.31,40,-12.4
+25162748,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2220,2186,5.0,9,0.87,40,34.8,"Hercegovac, Neven",f,2287.0,False,ITA,1.0,1,0.64,40,25.6

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366108941,2025-03-01,0,41e Open International d'echecs de Cappelle la Grande,CAPPELLE LA GRANDE FRA,2025-02-15,2025-02-21,2086,2096,5.5,9,0.96,40,38.4,"Defromont, Benjamin",f,2395,False,FRA,0.5,1,0.35,40,14.0
+366108941,2025-03-01,0,41e Open International d'echecs de Cappelle la Grande,CAPPELLE LA GRANDE FRA,2025-02-15,2025-02-21,2086,2096,5.5,9,0.96,40,38.4,"Hutois, Mickael",f,2251,False,FRA,0.5,1,0.21,40,8.4
+366108941,2025-03-01,0,41e Open International d'echecs de Cappelle la Grande,CAPPELLE LA GRANDE FRA,2025-02-15,2025-02-21,2086,2096,5.5,9,0.96,40,38.4,"Rousseau, Matthieu",,1898,False,FRA,1.0,1,0.24,40,9.6
+366108941,2025-03-01,0,41e Open International d'echecs de Cappelle la Grande,CAPPELLE LA GRANDE FRA,2025-02-15,2025-02-21,2086,2096,5.5,9,0.96,40,38.4,"Bujisho, Benjamin",m,2352,False,FRA,0.5,1,0.31,40,12.4
+366108941,2025-03-01,0,41e Open International d'echecs de Cappelle la Grande,CAPPELLE LA GRANDE FRA,2025-02-15,2025-02-21,2086,2096,5.5,9,0.96,40,38.4,"Le Goff, Ronan",f,2240,False,FRA,0.0,1,-0.31,40,-12.4
+366108941,2025-03-01,0,41e Open International d'echecs de Cappelle la Grande,CAPPELLE LA GRANDE FRA,2025-02-15,2025-02-21,2086,2096,5.5,9,0.96,40,38.4,"Saad, Gabriel",,2220,False,FRA,0.0,1,-0.33,40,-13.2
+366108941,2025-03-01,0,41e Open International d'echecs de Cappelle la Grande,CAPPELLE LA GRANDE FRA,2025-02-15,2025-02-21,2086,2096,5.5,9,0.96,40,38.4,"Dupuich, Pierre",,1696,True,FRA,1.0,1,0.08,40,3.2
+366108941,2025-03-01,0,41e Open International d'echecs de Cappelle la Grande,CAPPELLE LA GRANDE FRA,2025-02-15,2025-02-21,2086,2096,5.5,9,0.96,40,38.4,"Bangerter, Ena",,1838,False,SUI,1.0,1,0.18,40,7.2
+366108941,2025-03-01,0,41e Open International d'echecs de Cappelle la Grande,CAPPELLE LA GRANDE FRA,2025-02-15,2025-02-21,2086,2096,5.5,9,0.96,40,38.4,"Lion, Maurice",,1881,False,BEL,1.0,1,0.23,40,9.2

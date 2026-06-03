@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45015775,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2294,2505,6.5,9,-0.33,10,-3.3,"Suska, Szymon",,2149.0,False,POL,1.0,1,0.11,10,1.1
+45015775,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2294,2505,6.5,9,-0.33,10,-3.3,"Bhagat, Kush",f,2297.0,False,IND,0.0,1,-0.77,10,-7.7
+45015775,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2294,2505,6.5,9,-0.33,10,-3.3,"Hoegl, Emanuel",,2147.0,False,AUT,1.0,1,0.1,10,1.0
+45015775,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2294,2505,6.5,9,-0.33,10,-3.3,"Gal, Andrej",f,2280.0,False,CRO,1.0,1,0.22,10,2.2
+45015775,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2294,2505,6.5,9,-0.33,10,-3.3,"Tan, Jun Ying",f,2368.0,False,MAS,0.5,1,-0.18,10,-1.8
+45015775,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2294,2505,6.5,9,-0.33,10,-3.3,"Bettalli, Francesco",f,2351.0,False,ITA,0.5,1,-0.21,10,-2.1
+45015775,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2294,2505,6.5,9,-0.33,10,-3.3,"Novosel, Lovro",f,2352.0,False,CRO,0.5,1,-0.2,10,-2.0
+45015775,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2294,2505,6.5,9,-0.33,10,-3.3,"Lenaerts, Lennert",f,2312.0,False,BEL,1.0,1,0.25,10,2.5
+45015775,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2294,2505,6.5,9,-0.33,10,-3.3,"Xie, Kaifan",c,2394.0,False,CHN,1.0,1,0.35,10,3.5

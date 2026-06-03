@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48701955,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1649,1700,6.5,9,1.4,40,56.0,"Lum, Yong Feng",,1437.0,False,SGP,1.0,1,0.18,40,7.2
+48701955,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1649,1700,6.5,9,1.4,40,56.0,"Akhila, Anand",,1547.0,False,FID,1.0,1,0.3,40,12.0
+48701955,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1649,1700,6.5,9,1.4,40,56.0,"Pham, Thanh Phuong Thao",wf,1862.0,False,VIE,1.0,1,0.71,40,28.4
+48701955,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1649,1700,6.5,9,1.4,40,56.0,"Conan, Wong",,1765.0,False,SGP,1.0,1,0.59,40,23.6
+48701955,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1649,1700,6.5,9,1.4,40,56.0,"Nguyen, Van Quan",,1870.0,False,VIE,0.0,1,-0.28,40,-11.2
+48701955,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1649,1700,6.5,9,1.4,40,56.0,"Yeo, Lucas Li Zhe",,1562.0,False,SGP,1.0,1,0.31,40,12.4
+48701955,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1649,1700,6.5,9,1.4,40,56.0,"Poovendtiran, Thamil Chelvan",,1618.0,False,MAS,1.0,1,0.39,40,15.6
+48701955,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1649,1700,6.5,9,1.4,40,56.0,"Ng, Jaeden Etienne",,1520.0,False,SGP,0.5,1,-0.24,40,-9.6
+48701955,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1649,1700,6.5,9,1.4,40,56.0,"Tugsbilguun, Davganamdag",,1659.0,False,MGL,0.0,1,-0.56,40,-22.4

@@ -1,0 +1,52 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33315817,2024-05-01,0,April Classic Chess Tournament 2024,Kuwait KUW,2024-04-18,2024-04-25,1616,1758,4.0,5,0.62,40,24.8,"Bou Hamdan, Hani.",,1462.0,False,SYR,1.0,1,0.15,40,6.0
+33315817,2024-05-01,0,April Classic Chess Tournament 2024,Kuwait KUW,2024-04-18,2024-04-25,1616,1758,4.0,5,0.62,40,24.8,"Avantika, Maneesh",,1515.0,False,IND,1.0,1,0.2,40,8.0
+33315817,2024-05-01,0,April Classic Chess Tournament 2024,Kuwait KUW,2024-04-18,2024-04-25,1616,1758,4.0,5,0.62,40,24.8,"Advik, Srinivasan",,1638.0,False,IND,1.0,1,0.34,40,13.6
+33315817,2024-05-01,0,April Classic Chess Tournament 2024,Kuwait KUW,2024-04-18,2024-04-25,1616,1758,4.0,5,0.62,40,24.8,"Mithilesh, Ranjithkumar",,1822.0,False,IND,1.0,1,0.59,40,23.6
+33315817,2024-05-01,0,April Classic Chess Tournament 2024,Kuwait KUW,2024-04-18,2024-04-25,1616,1758,4.0,5,0.62,40,24.8,"Mithula, Venugopal Srinivasan",,1642.0,False,IND,0.0,1,-0.66,40,-26.4
+33315817,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1659,1783,2.5,4,-0.12,40,-4.8,"Ajbali, Ghaleyah",,1513.0,False,KUW,1.0,1,0.17,40,6.8
+33315817,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1659,1783,2.5,4,-0.12,40,-4.8,"Eidi, Eisa",,1621.0,False,KUW,0.5,1,-0.21,40,-8.4
+33315817,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1659,1783,2.5,4,-0.12,40,-4.8,"Advik, Srinivasan",,1617.0,False,IND,1.0,1,0.28,40,11.2
+33315817,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1659,1783,2.5,4,-0.12,40,-4.8,"Saksham, Upadhyay",,1885.0,False,IND,0.0,1,-0.36,40,-14.4
+33315817,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1490,1778,2.5,5,-1.68,40,-67.2,"Mohammed, Junaid Khan",,1431.0,False,IND,0.0,1,-0.89,40,-35.6
+33315817,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1490,1778,2.5,5,-1.68,40,-67.2,"Mohsen, Hussain",,1480.0,False,EGY,1.0,1,0.15,40,6.0
+33315817,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1490,1778,2.5,5,-1.68,40,-67.2,"Bhavanya, Panchumarthi",,1543.0,False,IND,0.0,1,-0.79,40,-31.6
+33315817,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1490,1778,2.5,5,-1.68,40,-67.2,"Safar, Hussain",,1414.0,False,KUW,1.0,1,0.1,40,4.0
+33315817,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1490,1778,2.5,5,-1.68,40,-67.2,"Jai, Khalish S",,1583.0,False,IND,0.5,1,-0.25,40,-10.0
+33315817,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1632,1711,4.5,7,0.21,40,8.4,"Nitesh, Vidyasagar",,1462.0,False,IND,1.0,1,0.19,40,7.6
+33315817,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1632,1711,4.5,7,0.21,40,8.4,"Abel, Joseph",,1613.0,False,IND,1.0,1,0.37,40,14.8
+33315817,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1632,1711,4.5,7,0.21,40,8.4,"Alsayer, Bader",,1588.0,False,KUW,0.0,1,-0.67,40,-26.8
+33315817,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1632,1711,4.5,7,0.21,40,8.4,"Adel, Joseph",,1569.0,False,IND,1.0,1,0.31,40,12.4
+33315817,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1632,1711,4.5,7,0.21,40,8.4,"Mohnish, Balamurugan",,1604.0,False,IND,0.5,1,-0.15,40,-6.0
+33315817,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1632,1711,4.5,7,0.21,40,8.4,"Nehan, Abdullah",,1564.0,False,BAN,1.0,1,0.3,40,12.0
+33315817,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1632,1711,4.5,7,0.21,40,8.4,"Mithilesh, Ranjithkumar",,2022.0,False,IND,0.0,1,-0.14,40,-5.6
+33315817,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1561,1719,5.0,10,-2.05,40,-82.0,"Yuvan, Akhash",,1468.0,False,IND,1.0,1,0.19,40,7.6
+33315817,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1561,1719,5.0,10,-2.05,40,-82.0,"Suhaib, Ahmad",,1497.0,False,IND,0.5,1,-0.28,40,-11.2
+33315817,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1561,1719,5.0,10,-2.05,40,-82.0,"Umashankar, A",,1982.0,False,IND,0.0,1,-0.18,40,-7.2
+33315817,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1561,1719,5.0,10,-2.05,40,-82.0,"Karthick, Raja P",,1535.0,False,IND,0.0,1,-0.74,40,-29.6
+33315817,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1561,1719,5.0,10,-2.05,40,-82.0,"Akil, Sethu G",,1491.0,False,IND,0.5,1,-0.29,40,-11.6
+33315817,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1561,1719,5.0,10,-2.05,40,-82.0,"Hameed, Yousuf S G",,1502.0,False,IND,1.0,1,0.22,40,8.8
+33315817,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1561,1719,5.0,10,-2.05,40,-82.0,"Vishesh, Srikant",,1568.0,False,IND,0.0,1,-0.7,40,-28.0
+33315817,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1561,1719,5.0,10,-2.05,40,-82.0,"Akshath, D",,1500.0,False,IND,0.5,1,-0.28,40,-11.2
+33315817,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1561,1719,5.0,10,-2.05,40,-82.0,"Vellithirumutham, Sriniketh R",,1510.0,False,USA,1.0,1,0.23,40,9.2
+33315817,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1561,1719,5.0,10,-2.05,40,-82.0,"Krishav, Nikesh N",,1555.0,False,IND,0.5,1,-0.22,40,-8.8
+33315817,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1740,1637,5.0,8,2.08,40,83.2,"Amna, Saqer Almarri",,1400.0,False,UAE,1.0,1,0.2,40,8.0
+33315817,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1740,1637,5.0,8,2.08,40,83.2,"Abdulla, Ateeq Alremaeithi",,1726.0,False,UAE,1.0,1,0.62,40,24.8
+33315817,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1740,1637,5.0,8,2.08,40,83.2,"Eisa Mohmood, Alkhoori",c,1760.0,False,UAE,1.0,1,0.67,40,26.8
+33315817,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1740,1637,5.0,8,2.08,40,83.2,"Elallawy, Hesham",,1857.0,False,EGY,1.0,1,0.78,40,31.2
+33315817,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1740,1637,5.0,8,2.08,40,83.2,"Krithik, Muthukumar",,1849.0,False,IND,0.5,1,0.27,40,10.8
+33315817,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1740,1637,5.0,8,2.08,40,83.2,"Humaidan Mohamed, Alzaabi",,1850.0,False,UAE,0.0,1,-0.23,40,-9.2
+33315817,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1740,1637,5.0,8,2.08,40,83.2,"Vishwanath, Jeyaraman",,1750.0,False,IND,0.0,1,-0.35,40,-14.0
+33315817,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1740,1637,5.0,8,2.08,40,83.2,"Vishwesh, Sivanantham",,1728.0,False,IND,0.5,1,0.12,40,4.8
+33315817,2025-03-01,0,Hala February Classic Tournament 2025,Kuwait KUW,2025-02-20,2025-02-25,1755,1720,2.0,5,-0.28,40,-11.2,"Sumesh, Suresh",,1591.0,False,IND,1.0,1,0.33,40,13.2
+33315817,2025-03-01,0,Hala February Classic Tournament 2025,Kuwait KUW,2025-02-20,2025-02-25,1755,1720,2.0,5,-0.28,40,-11.2,"Tinsay, Nathaniel",,1769.0,False,PHI,0.5,1,0.07,40,2.8
+33315817,2025-03-01,0,Hala February Classic Tournament 2025,Kuwait KUW,2025-02-20,2025-02-25,1755,1720,2.0,5,-0.28,40,-11.2,"Alazmi, Amani",wc,1667.0,False,KUW,0.0,1,-0.57,40,-22.8
+33315817,2025-03-01,0,Hala February Classic Tournament 2025,Kuwait KUW,2025-02-20,2025-02-25,1755,1720,2.0,5,-0.28,40,-11.2,"Mithilesh, Ranjithkumar",,1969.0,False,IND,0.5,1,0.31,40,12.4
+33315817,2025-03-01,0,Hala February Classic Tournament 2025,Kuwait KUW,2025-02-20,2025-02-25,1755,1720,2.0,5,-0.28,40,-11.2,"Alrefae, Ahmad",,1780.0,False,KUW,0.0,1,-0.42,40,-16.8
+33315817,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1699,1709,5.0,7,1.41,40,56.4,"Alsabah, Majed",,1415.0,False,KUW,1.0,1,0.15,40,6.0
+33315817,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1699,1709,5.0,7,1.41,40,56.4,"Alenezi, Khaled",,1541.0,False,KUW,1.0,1,0.28,40,11.2
+33315817,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1699,1709,5.0,7,1.41,40,56.4,"Advik, Srinivasan",,1788.0,False,IND,0.5,1,0.11,40,4.4
+33315817,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1699,1709,5.0,7,1.41,40,56.4,"Saad, Amer Mohamed",,1922.0,False,EGY,0.5,1,0.27,40,10.8
+33315817,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1699,1709,5.0,7,1.41,40,56.4,"Mohnish, Balamurugan",,1652.0,False,IND,1.0,1,0.42,40,16.8
+33315817,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1699,1709,5.0,7,1.41,40,56.4,"Saksham, Upadhyay",,1954.0,False,IND,0.0,1,-0.2,40,-8.0
+33315817,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1699,1709,5.0,7,1.41,40,56.4,"Sudhanshu, Muluka",,1620.0,False,IND,1.0,1,0.38,40,15.2

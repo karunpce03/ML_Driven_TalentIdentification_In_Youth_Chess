@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25131001,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,1979,2015,3.5,8,-0.92,40,-36.8,"Amangeldy, Ernur",f,2223.0,False,KAZ,0.0,1,-0.23,40,-9.2
+25131001,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,1979,2015,3.5,8,-0.92,40,-36.8,"Manuwaruna, Sethun Neththaru",,1819.0,False,SRI,0.5,1,-0.25,40,-10.0
+25131001,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,1979,2015,3.5,8,-0.92,40,-36.8,"Parpiev, Isaak",c,2318.0,False,FID,0.0,1,-0.14,40,-5.6
+25131001,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,1979,2015,3.5,8,-0.92,40,-36.8,"Weerasekara, Dinul Vinsitha",,1814.0,False,SRI,1.0,1,0.24,40,9.6
+25131001,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,1979,2015,3.5,8,-0.92,40,-36.8,"Daulet, Alikhan",,1877.0,False,KAZ,1.0,1,0.31,40,12.4
+25131001,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,1979,2015,3.5,8,-0.92,40,-36.8,"Suslov, Dmitrii",c,2105.0,False,FID,0.0,1,-0.38,40,-15.2
+25131001,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,1979,2015,3.5,8,-0.92,40,-36.8,"Danilov, Dmitryi",,1860.0,False,KAZ,0.5,1,-0.21,40,-8.4
+25131001,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,1979,2015,3.5,8,-0.92,40,-36.8,"Esentay, Arsen",,1812.0,False,KAZ,0.5,1,-0.26,40,-10.4
+25131001,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2029,2015,3.5,9,-0.93,40,-37.2,"Khoroshev, Nikita",m,2361.0,False,KGZ,0.0,1,-0.11,40,-4.4
+25131001,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2029,2015,3.5,9,-0.93,40,-37.2,"Spiridonov, Kirill",,1917.0,False,KGZ,1.0,1,0.37,40,14.8
+25131001,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2029,2015,3.5,9,-0.93,40,-37.2,"Egorov, Konstantin",c,2119.0,False,FID,0.0,1,-0.36,40,-14.4
+25131001,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2029,2015,3.5,9,-0.93,40,-37.2,"Zarylykov, Erhan",,1923.0,False,KGZ,0.0,1,-0.63,40,-25.2
+25131001,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2029,2015,3.5,9,-0.93,40,-37.2,"Velavaa, Ragavesh",c,1987.0,False,IND,0.5,1,-0.04,40,-1.6
+25131001,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2029,2015,3.5,9,-0.93,40,-37.2,"Turksoi, Zhanpolat",,1938.0,False,KGZ,0.0,1,-0.61,40,-24.4
+25131001,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2029,2015,3.5,9,-0.93,40,-37.2,"Bauyrzhan, Arnash",wf,2028.0,False,KAZ,0.5,1,0.02,40,0.8
+25131001,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2029,2015,3.5,9,-0.93,40,-37.2,"Chyngyz, Sultai",c,1967.0,False,KGZ,1.0,1,0.43,40,17.2
+25131001,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2029,2015,3.5,9,-0.93,40,-37.2,"Tunik, Sergey",,2017.0,False,KGZ,0.5,1,0.0,40,0.0

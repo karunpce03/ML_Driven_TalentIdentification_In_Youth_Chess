@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366195016,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2398,2286,3.5,8,0.73,10,7.3,"Gan-Erdene, Sugar",m,2437.0,False,MGL,0.0,1,-0.3,10,-3.0
+366195016,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2398,2286,3.5,8,0.73,10,7.3,"Wafa, Hamed",m,2359.0,False,EGY,1.0,1,0.6,10,6.0
+366195016,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2398,2286,3.5,8,0.73,10,7.3,"Rakhmatullaev, Almas",m,2410.0,False,UZB,0.0,1,-0.33,10,-3.3
+366195016,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2398,2286,3.5,8,0.73,10,7.3,"Arun, Kataria",f,2370.0,False,IND,1.0,1,0.62,10,6.2
+366195016,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2398,2286,3.5,8,0.73,10,7.3,"Begmuratov, Khumoyun",m,2416.0,False,UZB,0.5,1,0.18,10,1.8
+366195016,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2398,2286,3.5,8,0.73,10,7.3,"Harsh, Suresh",f,2420.0,False,IND,0.5,1,0.18,10,1.8
+366195016,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2398,2286,3.5,8,0.73,10,7.3,"Abdurakhmonov, Mukhammadali",m,2395.0,False,UZB,0.0,1,-0.35,10,-3.5
+366195016,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2398,2286,3.5,8,0.73,10,7.3,"Kamalidenova, Meruert",m wg,2378.0,False,KAZ,0.5,1,0.13,10,1.3

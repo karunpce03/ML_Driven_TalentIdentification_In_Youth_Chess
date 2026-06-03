@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48768847,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1683,1531,4.0,7,1.75,40,70.0,"Soni, Atharv",,1931,True,IND,0.0,1,-0.08,40,-3.2
+48768847,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1683,1531,4.0,7,1.75,40,70.0,"Amaya, Roy",,1446,False,IND,1.0,1,0.38,40,15.2
+48768847,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1683,1531,4.0,7,1.75,40,70.0,"Pednekar, Ninant",,1758,False,IND,1.0,1,0.79,40,31.6
+48768847,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1683,1531,4.0,7,1.75,40,70.0,"Soni, Deepak R",,1738,False,IND,0.5,1,0.27,40,10.8
+48768847,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1683,1531,4.0,7,1.75,40,70.0,"Kulkarni, Guruprasad",,1718,False,IND,0.5,1,0.24,40,9.6
+48768847,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1683,1531,4.0,7,1.75,40,70.0,"Shah, Veer Kunjan",,1756,False,IND,0.0,1,-0.22,40,-8.8
+48768847,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1683,1531,4.0,7,1.75,40,70.0,"Shreeya, Vijay Joshi",,1435,False,IND,1.0,1,0.37,40,14.8

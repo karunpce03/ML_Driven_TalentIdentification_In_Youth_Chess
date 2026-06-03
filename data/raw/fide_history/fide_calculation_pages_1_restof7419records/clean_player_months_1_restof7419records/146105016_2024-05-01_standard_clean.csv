@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+146105016,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1595,1508,2.0,4,0.46,40,18.4,"Shashish, Subbiah",,1690.0,False,IND,0.0,1,-0.26,40,-10.4
+146105016,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1595,1508,2.0,4,0.46,40,18.4,"Zain, Ali Shaheen",,1441.0,False,IND,0.5,1,-0.09,40,-3.6
+146105016,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1595,1508,2.0,4,0.46,40,18.4,"Cresencia, Clarence Miguel",,1628.0,False,PHI,1.0,1,0.66,40,26.4
+146105016,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1595,1508,2.0,4,0.46,40,18.4,"Sampreet, Sudheer",,1620.0,False,IND,0.5,1,0.15,40,6.0

@@ -1,0 +1,27 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25157760,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,1925,1668,4.5,8,2.86,26,74.36,"Kiraly, Lilla Virag",,1933.0,False,HUN,0.5,1,0.32,26,8.32
+25157760,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,1925,1668,4.5,8,2.86,26,74.36,"Borocz, Lorinc",,1947.0,False,HUN,0.0,1,-0.16,26,-4.16
+25157760,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,1925,1668,4.5,8,2.86,26,74.36,"Lieber, Lukas",,1920.0,False,CZE,0.0,1,-0.19,26,-4.94
+25157760,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,1925,1668,4.5,8,2.86,26,74.36,"Boronyak, Arpad",f,2066.0,False,HUN,0.0,1,-0.08,26,-2.08
+25157760,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,1925,1668,4.5,8,2.86,26,74.36,"Tardi, Richard",,1620.0,False,HUN,1.0,1,0.43,26,11.18
+25157760,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,1925,1668,4.5,8,2.86,26,74.36,"Valenta, Petr",,1865.0,False,CZE,1.0,1,0.75,26,19.5
+25157760,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,1925,1668,4.5,8,2.86,26,74.36,"Reitinger, Petr",,1984.0,False,CZE,1.0,1,0.87,26,22.62
+25157760,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,1925,1668,4.5,8,2.86,26,74.36,"Meszaros, Andras",m,2068.0,True,HUN,1.0,1,0.92,26,23.92
+25157760,2024-07-01,0,FE 15 Dolomiti - B,Forni di Sopra ITA,2024-06-08,2024-06-15,1853,1668,7.5,9,5.16,26,134.16,"Giobbi, Costantino",,1887.0,False,ITA,1.0,1,0.78,26,20.28
+25157760,2024-07-01,0,FE 15 Dolomiti - B,Forni di Sopra ITA,2024-06-08,2024-06-15,1853,1668,7.5,9,5.16,26,134.16,"Galliani, William",,1815.0,False,ITA,1.0,1,0.7,26,18.2
+25157760,2024-07-01,0,FE 15 Dolomiti - B,Forni di Sopra ITA,2024-06-08,2024-06-15,1853,1668,7.5,9,5.16,26,134.16,"Gergolet, Jan",,1817.0,False,ITA,1.0,1,0.7,26,18.2
+25157760,2024-07-01,0,FE 15 Dolomiti - B,Forni di Sopra ITA,2024-06-08,2024-06-15,1853,1668,7.5,9,5.16,26,134.16,"Predan, Luca",,1859.0,False,ITA,0.5,1,0.25,26,6.5
+25157760,2024-07-01,0,FE 15 Dolomiti - B,Forni di Sopra ITA,2024-06-08,2024-06-15,1853,1668,7.5,9,5.16,26,134.16,"Donadi, Luca",,1779.0,False,ITA,1.0,1,0.65,26,16.9
+25157760,2024-07-01,0,FE 15 Dolomiti - B,Forni di Sopra ITA,2024-06-08,2024-06-15,1853,1668,7.5,9,5.16,26,134.16,"Gervasi, Pietro",,1882.0,False,ITA,1.0,1,0.77,26,20.02
+25157760,2024-07-01,0,FE 15 Dolomiti - B,Forni di Sopra ITA,2024-06-08,2024-06-15,1853,1668,7.5,9,5.16,26,134.16,"Marino, Giovanni",,1894.0,False,ITA,0.5,1,0.29,26,7.54
+25157760,2024-07-01,0,FE 15 Dolomiti - B,Forni di Sopra ITA,2024-06-08,2024-06-15,1853,1668,7.5,9,5.16,26,134.16,"Mastroddi, Emiliano",,1936.0,False,ITA,1.0,1,0.83,26,21.58
+25157760,2024-07-01,0,FE 15 Dolomiti - B,Forni di Sopra ITA,2024-06-08,2024-06-15,1853,1668,7.5,9,5.16,26,134.16,"Tissino, Tiziano",,1809.0,False,ITA,0.5,1,0.19,26,4.94
+25157760,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1894,1668,5.5,9,3.32,26,86.32,"Lazic, Miroljub",g,2068.0,True,SRB,0.5,1,0.42,26,10.92
+25157760,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1894,1668,5.5,9,3.32,26,86.32,"Adams Bida, Giosue",,1541.0,False,ITA,1.0,1,0.33,26,8.58
+25157760,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1894,1668,5.5,9,3.32,26,86.32,"Marta, Daniele",,1962.0,False,ITA,1.0,1,0.85,26,22.1
+25157760,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1894,1668,5.5,9,3.32,26,86.32,"Baldo Gentile, Giona Gabriel",,1938.0,False,ITA,0.5,1,0.33,26,8.58
+25157760,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1894,1668,5.5,9,3.32,26,86.32,"Kumaresh, A",,1924.0,False,IND,0.0,1,-0.19,26,-4.94
+25157760,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1894,1668,5.5,9,3.32,26,86.32,"Jamous, Manuel",,1839.0,False,ITA,1.0,1,0.73,26,18.98
+25157760,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1894,1668,5.5,9,3.32,26,86.32,"Psaila, Clarence",f,1994.0,False,MLT,0.5,1,0.37,26,9.62
+25157760,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1894,1668,5.5,9,3.32,26,86.32,"Mammi, Ottavio",,2068.0,True,ITA,0.0,1,-0.08,26,-2.08
+25157760,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1894,1668,5.5,9,3.32,26,86.32,"Riso, Giuseppe",,1712.0,False,ITA,1.0,1,0.56,26,14.56

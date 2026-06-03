@@ -1,0 +1,25 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33449830,2024-06-01,0,1st Gombak U1800 FIDE Rated Classical,Gombak MAS,2024-05-11,2024-05-12,1607,1492,3.0,5,1.23,40,49.2,"Velaithum, Piraveen",,1642.0,False,MAS,0.0,1,-0.3,40,-12.0
+33449830,2024-06-01,0,1st Gombak U1800 FIDE Rated Classical,Gombak MAS,2024-05-11,2024-05-12,1607,1492,3.0,5,1.23,40,49.2,"Surendran, Tavamathie",,1492.0,False,MAS,1.0,1,0.5,40,20.0
+33449830,2024-06-01,0,1st Gombak U1800 FIDE Rated Classical,Gombak MAS,2024-05-11,2024-05-12,1607,1492,3.0,5,1.23,40,49.2,"Chay, Joon Hoong",,1770.0,False,MAS,0.0,1,-0.17,40,-6.8
+33449830,2024-06-01,0,1st Gombak U1800 FIDE Rated Classical,Gombak MAS,2024-05-11,2024-05-12,1607,1492,3.0,5,1.23,40,49.2,"Wang, Xin Ran Claire",,1609.0,False,MAS,1.0,1,0.66,40,26.4
+33449830,2024-06-01,0,1st Gombak U1800 FIDE Rated Classical,Gombak MAS,2024-05-11,2024-05-12,1607,1492,3.0,5,1.23,40,49.2,"Parth, Baghele",,1522.0,False,IND,1.0,1,0.54,40,21.6
+33449830,2024-07-01,0,14th KLMaster U1800 FIDE Rated Classical,"SHAH ALAM, SELANGOR MAS",2024-06-01,2024-06-02,1772,1541,0.0,1,-0.21,40,-8.4,"Emran, Muhammad Emir Rasyid",,1772.0,False,MAS,0.0,1,-0.21,40,-8.4
+33449830,2024-10-01,0,16th KCM Master U1800 FIDE Rated Classical,"Shah Alam, Selangor MAS",2024-09-07,2024-09-08,1639,1533,2.5,6,0.34,40,13.6,"Koong, Chun Hong",,1687.0,False,MAS,0.5,1,0.21,40,8.4
+33449830,2024-10-01,0,16th KCM Master U1800 FIDE Rated Classical,"Shah Alam, Selangor MAS",2024-09-07,2024-09-08,1639,1533,2.5,6,0.34,40,13.6,"Jivan Rao, Gauthm",,1627.0,False,MAS,0.5,1,0.13,40,5.2
+33449830,2024-10-01,0,16th KCM Master U1800 FIDE Rated Classical,"Shah Alam, Selangor MAS",2024-09-07,2024-09-08,1639,1533,2.5,6,0.34,40,13.6,"Young, Teck Kang",,1634.0,False,MAS,0.5,1,0.14,40,5.6
+33449830,2024-10-01,0,16th KCM Master U1800 FIDE Rated Classical,"Shah Alam, Selangor MAS",2024-09-07,2024-09-08,1639,1533,2.5,6,0.34,40,13.6,"Yahaya, Nor Zaiasron",,1658.0,False,MAS,0.0,1,-0.33,40,-13.2
+33449830,2024-10-01,0,16th KCM Master U1800 FIDE Rated Classical,"Shah Alam, Selangor MAS",2024-09-07,2024-09-08,1639,1533,2.5,6,0.34,40,13.6,"Beh, Keat Ket",,1774.0,False,MAS,0.0,1,-0.2,40,-8.0
+33449830,2024-10-01,0,16th KCM Master U1800 FIDE Rated Classical,"Shah Alam, Selangor MAS",2024-09-07,2024-09-08,1639,1533,2.5,6,0.34,40,13.6,"Low, Hui Lin",,1454.0,False,MAS,1.0,1,0.39,40,15.6
+33449830,2025-01-01,0,17th KCM Master U1800 FIDE Rated Standard,"SHAH ALAM, SELANGOR MAS",2024-12-14,2024-12-15,1717,1547,1.0,4,-0.11,40,-4.4,"Siva Kumar, Rishikesh Kumar",,1713.0,False,MAS,0.0,1,-0.28,40,-11.2
+33449830,2025-01-01,0,17th KCM Master U1800 FIDE Rated Standard,"SHAH ALAM, SELANGOR MAS",2024-12-14,2024-12-15,1717,1547,1.0,4,-0.11,40,-4.4,"Ismail, Muhd Yusuff",,1678.0,False,MAS,1.0,1,0.68,40,27.2
+33449830,2025-01-01,0,17th KCM Master U1800 FIDE Rated Standard,"SHAH ALAM, SELANGOR MAS",2024-12-14,2024-12-15,1717,1547,1.0,4,-0.11,40,-4.4,"Govindaraju, Arvind",,1683.0,False,MAS,0.0,1,-0.32,40,-12.8
+33449830,2025-01-01,0,17th KCM Master U1800 FIDE Rated Standard,"SHAH ALAM, SELANGOR MAS",2024-12-14,2024-12-15,1717,1547,1.0,4,-0.11,40,-4.4,"Wee, Yin Lin",,1793.0,False,MAS,0.0,1,-0.19,40,-7.6
+33449830,2025-01-01,0,KCE18 1st ULTIMATE CHESS MASTER 2024,"SERI KEMBANGAN, SELANGOR MAS",2024-12-21,2024-12-22,1603,1547,0.0,3,-1.29,40,-51.6,"Mohd Nizar, Muhd Irfan",,1626.0,False,MAS,0.0,1,-0.39,40,-15.6
+33449830,2025-01-01,0,KCE18 1st ULTIMATE CHESS MASTER 2024,"SERI KEMBANGAN, SELANGOR MAS",2024-12-21,2024-12-22,1603,1547,0.0,3,-1.29,40,-51.6,"Mohd Shaiden, Shareef Basil",,1744.0,False,MAS,0.0,1,-0.25,40,-10.0
+33449830,2025-01-01,0,KCE18 1st ULTIMATE CHESS MASTER 2024,"SERI KEMBANGAN, SELANGOR MAS",2024-12-21,2024-12-22,1603,1547,0.0,3,-1.29,40,-51.6,"Shahzali, Muhd Faris Asymawi",,1440.0,False,MAS,0.0,1,-0.65,40,-26.0
+33449830,2025-03-01,0,"2nd  WP Kuala Lumpur Wilayah Day Classics 1800, 2025",Kuala Lumpur MAS,2025-02-01,2025-02-02,1632,1491,2.0,5,0.38,40,15.2,"Chan, Jun Seng Terence",,1644.0,False,MAS,0.5,1,0.2,40,8.0
+33449830,2025-03-01,0,"2nd  WP Kuala Lumpur Wilayah Day Classics 1800, 2025",Kuala Lumpur MAS,2025-02-01,2025-02-02,1632,1491,2.0,5,0.38,40,15.2,"Lim, Cheng Lun",,1612.0,False,MAS,0.0,1,-0.34,40,-13.6
+33449830,2025-03-01,0,"2nd  WP Kuala Lumpur Wilayah Day Classics 1800, 2025",Kuala Lumpur MAS,2025-02-01,2025-02-02,1632,1491,2.0,5,0.38,40,15.2,"Bahari, Ramli",,1452.0,False,MAS,1.0,1,0.45,40,18.0
+33449830,2025-03-01,0,"2nd  WP Kuala Lumpur Wilayah Day Classics 1800, 2025",Kuala Lumpur MAS,2025-02-01,2025-02-02,1632,1491,2.0,5,0.38,40,15.2,"McAteer, Ian",,1780.0,False,AUS,0.5,1,0.34,40,13.6
+33449830,2025-03-01,0,"2nd  WP Kuala Lumpur Wilayah Day Classics 1800, 2025",Kuala Lumpur MAS,2025-02-01,2025-02-02,1632,1491,2.0,5,0.38,40,15.2,"Bui, Dai Lam",,1670.0,False,VIE,0.0,1,-0.27,40,-10.8

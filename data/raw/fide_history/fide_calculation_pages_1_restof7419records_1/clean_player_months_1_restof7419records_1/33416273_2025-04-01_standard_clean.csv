@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33416273,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1645,1484,3.0,5,1.35,40,54.0,"Ramanuj, Mishra",,1857,False,IND,0.0,1,-0.1,40,-4.0
+33416273,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1645,1484,3.0,5,1.35,40,54.0,"Japesh, Chaudhary",,1402,False,IND,1.0,1,0.39,40,15.6
+33416273,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1645,1484,3.0,5,1.35,40,54.0,"Anvay, Rathi",,1428,False,IND,1.0,1,0.42,40,16.8
+33416273,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1645,1484,3.0,5,1.35,40,54.0,"Prakhar, Tripathi",,1884,True,IND,0.5,1,0.42,40,16.8
+33416273,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1645,1484,3.0,5,1.35,40,54.0,"Lakshya, Nigam",,1652,False,IND,0.5,1,0.22,40,8.8
+33416273,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1579,1484,1.0,3,-0.24,40,-9.6,"Shivansh, Sharma",,1409,False,IND,1.0,1,0.4,40,16.0
+33416273,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1579,1484,1.0,3,-0.24,40,-9.6,"Shreyas, Raj",,1884,True,IND,0.0,1,-0.08,40,-3.2
+33416273,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1579,1484,1.0,3,-0.24,40,-9.6,"Gauransh, Jaiswal",,1443,False,IND,0.0,1,-0.56,40,-22.4
+33416273,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1632,1484,1.5,4,0.17,40,6.8,"Ajay, Santhosh Parvathareddy",f,1884,True,IND,0.0,1,-0.08,40,-3.2
+33416273,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1632,1484,1.5,4,0.17,40,6.8,"Atharva, Tyagi",,1485,False,IND,1.0,1,0.5,40,20.0
+33416273,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1632,1484,1.5,4,0.17,40,6.8,"Shivay, Singh",,1673,False,IND,0.0,1,-0.25,40,-10.0
+33416273,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1632,1484,1.5,4,0.17,40,6.8,"Viyom, Bansal",,1485,False,IND,0.5,1,0.0,40,0.0

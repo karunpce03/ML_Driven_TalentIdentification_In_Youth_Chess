@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429036569,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1567,1476,0.5,3,-0.75,40,-30.0,"Kiran, Manisha Mohanty",wg,1876,True,IND,0.0,1,-0.08,40,-3.2
+429036569,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1567,1476,0.5,3,-0.75,40,-30.0,"Kritika, Thakur",,1416,False,IND,0.5,1,-0.08,40,-3.2
+429036569,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1567,1476,0.5,3,-0.75,40,-30.0,"Pranjali, Sharma",,1408,False,IND,0.0,1,-0.59,40,-23.6

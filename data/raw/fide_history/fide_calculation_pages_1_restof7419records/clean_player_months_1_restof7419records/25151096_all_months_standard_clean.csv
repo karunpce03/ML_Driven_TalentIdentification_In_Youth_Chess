@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25151096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1600,1467,2.5,5,0.85,40,34.0,"Mikael, Vivek Joseph",,1706.0,False,IND,0.0,1,-0.2,40,-8.0
+25151096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1600,1467,2.5,5,0.85,40,34.0,"Tulyaganova, Fazilat",,1402.0,False,UZB,1.0,1,0.41,40,16.4
+25151096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1600,1467,2.5,5,0.85,40,34.0,"Obado, Sean Adrich",,1601.0,False,PHI,0.5,1,0.18,40,7.2
+25151096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1600,1467,2.5,5,0.85,40,34.0,"Aljundi, Ammar",,1592.0,False,SYR,0.0,1,-0.33,40,-13.2
+25151096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1600,1467,2.5,5,0.85,40,34.0,"Pitts, Daniel",,1700.0,False,ENG,1.0,1,0.79,40,31.6
+25151096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1682,1467,0.0,4,-0.92,40,-36.8,"Pranav, Ganesh Prabhu",,1719.0,False,IND,0.0,1,-0.19,40,-7.6
+25151096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1682,1467,0.0,4,-0.92,40,-36.8,"Anvit, Sreejith",,1665.0,False,IND,0.0,1,-0.24,40,-9.6
+25151096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1682,1467,0.0,4,-0.92,40,-36.8,"Srinjay, Shrinivas Shankar",,1604.0,False,IND,0.0,1,-0.32,40,-12.8
+25151096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1682,1467,0.0,4,-0.92,40,-36.8,"Fares, Qanair",,1738.0,False,JOR,0.0,1,-0.17,40,-6.8
+25151096,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1804,1464,0.0,2,-0.24,40,-9.6,"Abhishek, T M",,1864.0,True,IND,0.0,1,-0.08,40,-3.2
+25151096,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1804,1464,0.0,2,-0.24,40,-9.6,"Haaziq, S",,1744.0,False,IND,0.0,1,-0.16,40,-6.4
+25151096,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1774,1454,2.5,8,1.38,40,55.2,"Rashid, Husain Alhammadi",,1854.0,True,UAE,1.0,1,0.92,40,36.8
+25151096,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1774,1454,2.5,8,1.38,40,55.2,"Sumith, K S",,1825.0,False,IND,1.0,1,0.9,40,36.0
+25151096,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1774,1454,2.5,8,1.38,40,55.2,"Khalifa Essa, Albalooshi",,1854.0,True,UAE,0.0,1,-0.08,40,-3.2
+25151096,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1774,1454,2.5,8,1.38,40,55.2,"Balanandan, Ayyappan",,1780.0,False,IND,0.0,1,-0.13,40,-5.2
+25151096,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1774,1454,2.5,8,1.38,40,55.2,"Saqar, Essa Khamis",,1684.0,False,UAE,0.0,1,-0.21,40,-8.4
+25151096,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1774,1454,2.5,8,1.38,40,55.2,"Erfan, Mohamad Firdaus",c,1851.0,False,QAT,0.0,1,-0.08,40,-3.2
+25151096,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1774,1454,2.5,8,1.38,40,55.2,"Johan, Jobsy",,1702.0,False,IND,0.5,1,0.31,40,12.4
+25151096,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1774,1454,2.5,8,1.38,40,55.2,"Javier, Jasper",,1643.0,False,PHI,0.0,1,-0.25,40,-10.0
+25151096,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy for Category C (Below 1800),Chennai IND,2025-01-06,2025-01-08,1633,1509,0.0,1,-0.33,40,-13.2,"Arnav, Ashish Thatte",,1633.0,False,IND,0.0,1,-0.33,40,-13.2

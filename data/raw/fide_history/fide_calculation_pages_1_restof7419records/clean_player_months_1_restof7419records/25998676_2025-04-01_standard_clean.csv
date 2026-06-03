@@ -1,0 +1,28 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25998676,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2141,2245,7.0,9,1.45,20,29.0,"Shyam, Prasad O",,1845,True,IND,1.0,1,0.08,20,1.6
+25998676,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2141,2245,7.0,9,1.45,20,29.0,"Aarit, Kapil",c,2079,False,IND,1.0,1,0.28,20,5.6
+25998676,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2141,2245,7.0,9,1.45,20,29.0,"Das, Sayantan",g,2428,False,IND,0.5,1,0.24,20,4.8
+25998676,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2141,2245,7.0,9,1.45,20,29.0,Bhoopnath,,1913,False,IND,0.5,1,-0.38,20,-7.6
+25998676,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2141,2245,7.0,9,1.45,20,29.0,"Mahindrakar, Indrajeet",,2145,False,IND,1.0,1,0.36,20,7.2
+25998676,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2141,2245,7.0,9,1.45,20,29.0,"Sherla, Prathamesh",c,2132,False,IND,1.0,1,0.35,20,7.0
+25998676,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2141,2245,7.0,9,1.45,20,29.0,"Sriansh, Das",f,2286,False,IND,1.0,1,0.56,20,11.2
+25998676,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2141,2245,7.0,9,1.45,20,29.0,"Sankalp, Gupta",g,2545,False,IND,0.0,1,-0.15,20,-3.0
+25998676,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2141,2245,7.0,9,1.45,20,29.0,"Raj, D Vyas",,1900,False,IND,1.0,1,0.11,20,2.2
+25998676,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1865,2245,5.5,6,0.06,20,1.2,"Ujjwal, Raj Srivasatav",,1845,True,IND,1.0,1,0.08,20,1.6
+25998676,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1865,2245,5.5,6,0.06,20,1.2,"Divam, Talwar",,1845,True,IND,1.0,1,0.08,20,1.6
+25998676,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1865,2245,5.5,6,0.06,20,1.2,"Maaz, Iqubal",,1845,True,IND,1.0,1,0.08,20,1.6
+25998676,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1865,2245,5.5,6,0.06,20,1.2,"Prakhar, Tripathi",,1950,False,IND,1.0,1,0.15,20,3.0
+25998676,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1865,2245,5.5,6,0.06,20,1.2,"Ramanuj, Mishra",,1857,False,IND,1.0,1,0.09,20,1.8
+25998676,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1865,2245,5.5,6,0.06,20,1.2,"Vidit, Sethi",,1845,True,IND,0.5,1,-0.42,20,-8.4
+25998676,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1863,2245,6.0,6,0.55,20,11.0,"Rishant, Srivastava",,1845,True,IND,1.0,1,0.08,20,1.6
+25998676,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1863,2245,6.0,6,0.55,20,11.0,"Divam, Talwar",,1845,True,IND,1.0,1,0.08,20,1.6
+25998676,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1863,2245,6.0,6,0.55,20,11.0,"Vardan, Srivastava",,1845,True,IND,1.0,1,0.08,20,1.6
+25998676,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1863,2245,6.0,6,0.55,20,11.0,"Shreyas, Raj",,1941,False,IND,1.0,1,0.14,20,2.8
+25998676,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1863,2245,6.0,6,0.55,20,11.0,"Vidit, Sethi",,1845,True,IND,1.0,1,0.08,20,1.6
+25998676,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1863,2245,6.0,6,0.55,20,11.0,"Ramanuj, Mishra",,1857,False,IND,1.0,1,0.09,20,1.8
+25998676,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1863,2245,6.0,6,0.55,20,11.0,"Chaudhary, Parv",,1845,True,IND,1.0,1,0.08,20,1.6
+25998676,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1863,2245,6.0,6,0.55,20,11.0,"Md, Hasnain Siddiqui",,1845,True,IND,1.0,1,0.08,20,1.6
+25998676,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1863,2245,6.0,6,0.55,20,11.0,"Ayush, Saxena",,1845,True,IND,1.0,1,0.08,20,1.6
+25998676,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1863,2245,6.0,6,0.55,20,11.0,"Prakhar, Tripathi",,1950,False,IND,1.0,1,0.15,20,3.0
+25998676,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1863,2245,6.0,6,0.55,20,11.0,"Devansh, Rathore",,1845,True,IND,1.0,1,0.08,20,1.6
+25998676,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1863,2245,6.0,6,0.55,20,11.0,"Shivay, Singh",,1845,True,IND,1.0,1,0.08,20,1.6

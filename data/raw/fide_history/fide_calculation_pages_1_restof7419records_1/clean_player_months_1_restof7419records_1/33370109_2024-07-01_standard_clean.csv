@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33370109,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2267,1956,5.0,10,3.37,40,134.8,"Srihari, L",m,2356,True,IND,0.0,1,-0.08,40,-3.2
+33370109,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2267,1956,5.0,10,3.37,40,134.8,"Mishra, Abhimanyu",g,2356,True,USA,0.0,1,-0.08,40,-3.2
+33370109,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2267,1956,5.0,10,3.37,40,134.8,"De Maupeou Dableiges, Alexandre",,1831,False,NZL,1.0,1,0.33,40,13.2
+33370109,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2267,1956,5.0,10,3.37,40,134.8,"Bodrogi, Bendeguz",f,2353,False,HUN,0.5,1,0.42,40,16.8
+33370109,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2267,1956,5.0,10,3.37,40,134.8,"Lopez Rayo, Santiago",f,2277,False,COL,0.5,1,0.37,40,14.8
+33370109,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2267,1956,5.0,10,3.37,40,134.8,"Harshad, S",f,2272,False,IND,0.5,1,0.37,40,14.8
+33370109,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2267,1956,5.0,10,3.37,40,134.8,"Bizhigitov, Zhangir",f,2212,False,KAZ,1.0,1,0.81,40,32.4
+33370109,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2267,1956,5.0,10,3.37,40,134.8,"Fecker, Noah",f,2356,True,SUI,0.5,1,0.42,40,16.8
+33370109,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2267,1956,5.0,10,3.37,40,134.8,"Aswath, S",f,2352,False,IND,0.5,1,0.42,40,16.8
+33370109,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2267,1956,5.0,10,3.37,40,134.8,"Adireddy, Arjun",f,2306,False,IND,0.5,1,0.39,40,15.6

@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33493731,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1606,1414,4.0,8,1.91,40,76.4,"Watarkar, Yash",,1814,True,IND,0.0,1,-0.08,40,-3.2
+33493731,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1606,1414,4.0,8,1.91,40,76.4,"Pathak, Anshu Kr",,1663,False,IND,1.0,1,0.81,40,32.4
+33493731,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1606,1414,4.0,8,1.91,40,76.4,"Pratyaksh, Joshi",,1604,False,IND,0.5,1,0.25,40,10.0
+33493731,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1606,1414,4.0,8,1.91,40,76.4,"Ganesh, Arjun Katakdhond",,1549,False,IND,0.5,1,0.18,40,7.2
+33493731,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1606,1414,4.0,8,1.91,40,76.4,"Mohd, Ismail Siddiqui",,1546,False,IND,0.5,1,0.18,40,7.2
+33493731,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1606,1414,4.0,8,1.91,40,76.4,"Hriday, Garg",,1543,False,IND,1.0,1,0.67,40,26.8
+33493731,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1606,1414,4.0,8,1.91,40,76.4,"Kavyansh, Jain",,1621,False,IND,0.0,1,-0.23,40,-9.2
+33493731,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1606,1414,4.0,8,1.91,40,76.4,"Anirudh, Singh",,1511,False,IND,0.5,1,0.13,40,5.2

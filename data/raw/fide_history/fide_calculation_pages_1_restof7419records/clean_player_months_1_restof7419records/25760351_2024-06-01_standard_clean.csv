@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25760351,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1561,1531,2.0,5,-0.36,40,-14.4,"Darshan, S",,1849.0,False,IND,0.0,1,-0.13,40,-5.2
+25760351,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1561,1531,2.0,5,-0.36,40,-14.4,"Gokul, G",,1667.0,False,IND,0.0,1,-0.32,40,-12.8
+25760351,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1561,1531,2.0,5,-0.36,40,-14.4,"Kapilnithin, B M",,1443.0,False,IND,0.0,1,-0.62,40,-24.8
+25760351,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1561,1531,2.0,5,-0.36,40,-14.4,"Balasai, Aravind Ganesh V",,1404.0,False,IND,1.0,1,0.33,40,13.2
+25760351,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1561,1531,2.0,5,-0.36,40,-14.4,"Manav, Kirsi Binoy",,1440.0,False,IND,1.0,1,0.38,40,15.2

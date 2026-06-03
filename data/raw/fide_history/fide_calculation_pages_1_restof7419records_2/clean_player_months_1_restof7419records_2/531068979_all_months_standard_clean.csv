@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531068979,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,0.0,1,0.0,740,,"Shivay, Singh",,1540,False,IND,0.0,1,0.0,,0.0
+531068979,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,,,1.0,3,0.0,1442,,"Jani, Harsh",,1564,False,IND,0.0,1,0.0,,0.0
+531068979,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,,,1.0,3,0.0,1442,,"S, Harihara Subramanian",,1504,False,IND,0.0,1,0.0,,0.0
+531068979,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,,,1.0,3,0.0,1442,,"Kenkare, S H",,1632,False,IND,1.0,1,0.0,,0.0
+531068979,2025-01-01,0,1st Aquinas International School Below 1800 All India FIDE Rating Chess Tournament 2024,Mumbai IND,2024-12-26,2024-12-28,,,0.0,1,0.0,746,,"Manya, Abhishek Drolia",,1546,False,IND,0.0,1,0.0,,0.0
+531068979,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,,,1.0,4,0.0,1303,,"Ekaansh, Sharma",,1520,False,IND,0.5,1,0.0,,0.0
+531068979,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,,,1.0,4,0.0,1303,,"Shaurya, Kaushal Shah",,1552,False,IND,0.0,1,0.0,,0.0
+531068979,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,,,1.0,4,0.0,1303,,"Thokal, Kaustubh",,1415,False,IND,0.5,1,0.0,,0.0
+531068979,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,,,1.0,4,0.0,1303,,"Mane, Aarush",,1495,False,IND,0.0,1,0.0,,0.0

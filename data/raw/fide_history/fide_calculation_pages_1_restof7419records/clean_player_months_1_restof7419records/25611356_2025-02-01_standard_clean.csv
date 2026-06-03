@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25611356,2025-02-01,0,"International Tournament ""Prestige 2025"" - OPEN A",Paracin SRB,2025-01-11,2025-01-19,2026,2110,2.5,6,-1.15,40,-46.0,"Zol-Uchral, Erdenesaikhan",wc,1773.0,False,MGL,0.5,1,-0.38,40,-15.2
+25611356,2025-02-01,0,"International Tournament ""Prestige 2025"" - OPEN A",Paracin SRB,2025-01-11,2025-01-19,2026,2110,2.5,6,-1.15,40,-46.0,"Stojanovic, Mihajlo",g,2422.0,False,SRB,0.0,1,-0.14,40,-5.6
+25611356,2025-02-01,0,"International Tournament ""Prestige 2025"" - OPEN A",Paracin SRB,2025-01-11,2025-01-19,2026,2110,2.5,6,-1.15,40,-46.0,"Ivanov, Sergei V.",,1896.0,False,RUS,0.5,1,-0.27,40,-10.8
+25611356,2025-02-01,0,"International Tournament ""Prestige 2025"" - OPEN A",Paracin SRB,2025-01-11,2025-01-19,2026,2110,2.5,6,-1.15,40,-46.0,"Pereverzev, Timofei",,1952.0,False,RUS,1.0,1,0.29,40,11.6
+25611356,2025-02-01,0,"International Tournament ""Prestige 2025"" - OPEN A",Paracin SRB,2025-01-11,2025-01-19,2026,2110,2.5,6,-1.15,40,-46.0,"Al Saleh, Mohammad",,2055.0,False,SYR,0.5,1,-0.08,40,-3.2
+25611356,2025-02-01,0,"International Tournament ""Prestige 2025"" - OPEN A",Paracin SRB,2025-01-11,2025-01-19,2026,2110,2.5,6,-1.15,40,-46.0,"Mulay, Pratik",,2057.0,False,IND,0.0,1,-0.57,40,-22.8
+25611356,2025-02-01,0,Lliga Catalana 2025 - Primera Divisio Grup II Rondas 1-2,Barcelona ESP,2025-01-19,2025-01-26,2181,2110,0.5,1,0.1,40,4.0,"Monterde Monterde, Ricardo",,2181.0,False,ESP,0.5,1,0.1,40,4.0

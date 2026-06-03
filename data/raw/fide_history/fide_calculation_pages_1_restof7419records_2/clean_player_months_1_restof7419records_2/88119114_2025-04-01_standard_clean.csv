@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88119114,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1697,1487,1.5,5,0.32,40,12.8,"Marimuthu, K",,1775.0,False,IND,0.0,1,-0.16,40,-6.4
+88119114,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1697,1487,1.5,5,0.32,40,12.8,"Paresh, S",,1687.0,False,IND,0.0,1,-0.24,40,-9.6
+88119114,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1697,1487,1.5,5,0.32,40,12.8,"Gowtham, S",,1607.0,False,IND,1.0,1,0.66,40,26.4
+88119114,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1697,1487,1.5,5,0.32,40,12.8,"Sudarshan, Balaji",,1651.0,False,IND,0.5,1,0.22,40,8.8
+88119114,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1697,1487,1.5,5,0.32,40,12.8,"Eshwar, Veerappan Aiyappan",,1767.0,False,IND,0.0,1,-0.16,40,-6.4

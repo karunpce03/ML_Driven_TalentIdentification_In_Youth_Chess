@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429056160,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1482,1444,4.0,8,0.42,40,16.8,"Vidur, Murali",,1496.0,False,IND,0.0,1,-0.43,40,-17.2
+429056160,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1482,1444,4.0,8,0.42,40,16.8,"Venkata, Ramana Gudipati",,1489.0,False,IND,1.0,1,0.56,40,22.4
+429056160,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1482,1444,4.0,8,0.42,40,16.8,"Murali, Mohan Y",,1523.0,False,IND,0.0,1,-0.39,40,-15.6
+429056160,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1482,1444,4.0,8,0.42,40,16.8,"Jayaditya, Chepuri",,1457.0,False,IND,0.5,1,0.02,40,0.8
+429056160,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1482,1444,4.0,8,0.42,40,16.8,"Stephen, Andrews",,1568.0,False,IND,0.0,1,-0.33,40,-13.2
+429056160,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1482,1444,4.0,8,0.42,40,16.8,"Surson, Sanjeeva Reddy",,1401.0,False,IND,1.0,1,0.44,40,17.6
+429056160,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1482,1444,4.0,8,0.42,40,16.8,"Kaushik, Reddy",,1458.0,False,IND,0.5,1,0.02,40,0.8
+429056160,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1482,1444,4.0,8,0.42,40,16.8,"Ayan, Karmokar",,1462.0,False,IND,1.0,1,0.53,40,21.2
+429056160,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1597,1444,0.0,4,-1.25,40,-50.0,"Majhi, Fakir",,1770.0,False,IND,0.0,1,-0.13,40,-5.2
+429056160,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1597,1444,0.0,4,-1.25,40,-50.0,"Jalawadi, Nandika",,1505.0,False,IND,0.0,1,-0.42,40,-16.8
+429056160,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1597,1444,0.0,4,-1.25,40,-50.0,"Murali, Mohan Y",,1523.0,False,IND,0.0,1,-0.39,40,-15.6
+429056160,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1597,1444,0.0,4,-1.25,40,-50.0,"Varun, Jain",,1589.0,False,IND,0.0,1,-0.31,40,-12.4

@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33300526,2024-09-01,0,"XII Torneo Internacional Cidade de Pontevedra ""Masters""",Pontevedra ESP,2024-07-24,2024-07-30,2202,1951,3.5,8,1.91,36,68.76,"Otero Marino, Alain",m,2280.0,False,CUB,0.5,1,0.38,36,13.68
+33300526,2024-09-01,0,"XII Torneo Internacional Cidade de Pontevedra ""Masters""",Pontevedra ESP,2024-07-24,2024-07-30,2202,1951,3.5,8,1.91,36,68.76,"Fernandez Lopez, Ruben",f,2173.0,False,ESP,0.5,1,0.28,36,10.08
+33300526,2024-09-01,0,"XII Torneo Internacional Cidade de Pontevedra ""Masters""",Pontevedra ESP,2024-07-24,2024-07-30,2202,1951,3.5,8,1.91,36,68.76,"Povshednyi, Ivan",c,2242.0,False,UKR,0.0,1,-0.15,36,-5.4
+33300526,2024-09-01,0,"XII Torneo Internacional Cidade de Pontevedra ""Masters""",Pontevedra ESP,2024-07-24,2024-07-30,2202,1951,3.5,8,1.91,36,68.76,"Farias, David Nuno M E",,2206.0,False,POR,1.0,1,0.81,36,29.16
+33300526,2024-09-01,0,"XII Torneo Internacional Cidade de Pontevedra ""Masters""",Pontevedra ESP,2024-07-24,2024-07-30,2202,1951,3.5,8,1.91,36,68.76,"Martinez Reyes, Pedro Ramon",f,2343.0,False,VEN,0.0,1,-0.08,36,-2.88
+33300526,2024-09-01,0,"XII Torneo Internacional Cidade de Pontevedra ""Masters""",Pontevedra ESP,2024-07-24,2024-07-30,2202,1951,3.5,8,1.91,36,68.76,"Gomez Jurado, Luis Alberto",f,2090.0,False,ESP,0.5,1,0.19,36,6.84
+33300526,2024-09-01,0,"XII Torneo Internacional Cidade de Pontevedra ""Masters""",Pontevedra ESP,2024-07-24,2024-07-30,2202,1951,3.5,8,1.91,36,68.76,"Grabuzova, Tatiana",wg,2223.0,False,ESP,0.0,1,-0.17,36,-6.12
+33300526,2024-09-01,0,"XII Torneo Internacional Cidade de Pontevedra ""Masters""",Pontevedra ESP,2024-07-24,2024-07-30,2202,1951,3.5,8,1.91,36,68.76,"Pintor, Simao Maciel Abranches",,2061.0,False,POR,1.0,1,0.65,36,23.4
+33300526,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2046,2136,6.0,11,-0.79,36,-28.44,"Samarth, Jain",,1769.0,False,IND,1.0,1,0.1,36,3.6
+33300526,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2046,2136,6.0,11,-0.79,36,-28.44,"Sree, Shaunak Chanda",,1874.0,False,IND,1.0,1,0.18,36,6.48
+33300526,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2046,2136,6.0,11,-0.79,36,-28.44,"Hari, R Chandran",,1816.0,False,IND,1.0,1,0.13,36,4.68
+33300526,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2046,2136,6.0,11,-0.79,36,-28.44,"Lalit, Babu M R",g,2494.0,False,IND,1.0,1,0.9,36,32.4
+33300526,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2046,2136,6.0,11,-0.79,36,-28.44,"Ghosh, Diptayan",g,2536.0,True,IND,0.0,1,-0.08,36,-2.88
+33300526,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2046,2136,6.0,11,-0.79,36,-28.44,"Sengupta, Deep",g,2516.0,False,IND,0.0,1,-0.09,36,-3.24
+33300526,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2046,2136,6.0,11,-0.79,36,-28.44,"Siddhanth, Poonja",,1962.0,False,IND,1.0,1,0.27,36,9.72
+33300526,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2046,2136,6.0,11,-0.79,36,-28.44,"Esshan, Wadhawan",,1954.0,False,IND,0.0,1,-0.74,36,-26.64
+33300526,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2046,2136,6.0,11,-0.79,36,-28.44,"Yohan, Yadav Tarala",,1954.0,False,IND,0.0,1,-0.74,36,-26.64
+33300526,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2046,2136,6.0,11,-0.79,36,-28.44,"Utkrisht, Tuli",,1892.0,False,IND,0.0,1,-0.8,36,-28.8
+33300526,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2046,2136,6.0,11,-0.79,36,-28.44,"Saksham, Arora",,1736.0,True,IND,1.0,1,0.08,36,2.88

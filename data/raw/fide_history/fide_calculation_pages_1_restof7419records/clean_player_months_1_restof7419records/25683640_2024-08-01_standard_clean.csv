@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25683640,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1846,2013,8.0,11,0.25,40,10.0,"Om, Sagar",,1613,True,IND,1.0,1,0.08,40,3.2
+25683640,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1846,2013,8.0,11,0.25,40,10.0,"Vismay, Sachar",,1775,False,IND,1.0,1,0.2,40,8.0
+25683640,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1846,2013,8.0,11,0.25,40,10.0,"Hardik, Shah",,1813,False,IND,1.0,1,0.24,40,9.6
+25683640,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1846,2013,8.0,11,0.25,40,10.0,"Vedant, Garg",,1850,False,IND,1.0,1,0.28,40,11.2
+25683640,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1846,2013,8.0,11,0.25,40,10.0,"Jaiveer, Mahendru",f,2214,False,IND,0.0,1,-0.24,40,-9.6
+25683640,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1846,2013,8.0,11,0.25,40,10.0,"Sundram, Kumar",,1869,False,IND,1.0,1,0.31,40,12.4
+25683640,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1846,2013,8.0,11,0.25,40,10.0,"Abhash, Roimya Saikia",,1860,False,IND,1.0,1,0.3,40,12.0
+25683640,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1846,2013,8.0,11,0.25,40,10.0,"Arpith, S Bijoy",,2002,False,IND,0.0,1,-0.52,40,-20.8
+25683640,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1846,2013,8.0,11,0.25,40,10.0,"Puneet, Verma",,1684,False,IND,0.0,1,-0.88,40,-35.2
+25683640,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1846,2013,8.0,11,0.25,40,10.0,"Richard, Solomon M",,1793,False,IND,1.0,1,0.22,40,8.8
+25683640,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1846,2013,8.0,11,0.25,40,10.0,"Tijil, Singh",,1831,False,IND,1.0,1,0.26,40,10.4

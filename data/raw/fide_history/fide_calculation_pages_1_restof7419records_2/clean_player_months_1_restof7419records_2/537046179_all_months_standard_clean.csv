@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+537046179,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,3.5,8,0.0,1455,,"Damodar, Kumar",,1440.0,False,IND,1.0,1,0.0,,0.0
+537046179,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,3.5,8,0.0,1455,,"Ravisankar, Prasad",,1591.0,False,IND,0.5,1,0.0,,0.0
+537046179,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,3.5,8,0.0,1455,,"Avinash, Kumar Yadav",,1557.0,False,IND,0.0,1,0.0,,0.0
+537046179,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,3.5,8,0.0,1455,,"Paswan, Ramesh",,1447.0,False,IND,1.0,1,0.0,,0.0
+537046179,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,3.5,8,0.0,1455,,"Abhishek, Ranjan",,1592.0,False,IND,0.0,1,0.0,,0.0
+537046179,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,3.5,8,0.0,1455,,"Suvam, Ghosh",,1436.0,False,IND,1.0,1,0.0,,0.0
+537046179,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,3.5,8,0.0,1455,,"Aditya, Tanmay Sharma",,1449.0,False,IND,0.0,1,0.0,,0.0
+537046179,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,3.5,8,0.0,1455,,Aadya,,1474.0,False,IND,0.0,1,0.0,,0.0
+537046179,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1725.0,1523.0,0.5,3,-0.22,40,-8.8,"Menhajul, Hoda",,1718.0,False,IND,0.0,1,-0.25,40.0,-10.0
+537046179,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1725.0,1523.0,0.5,3,-0.22,40,-8.8,"Aishani, Pathak",,1725.0,False,IND,0.5,1,0.26,40.0,10.4
+537046179,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1725.0,1523.0,0.5,3,-0.22,40,-8.8,"Dev, Raj",,1733.0,False,IND,0.0,1,-0.23,40.0,-9.2

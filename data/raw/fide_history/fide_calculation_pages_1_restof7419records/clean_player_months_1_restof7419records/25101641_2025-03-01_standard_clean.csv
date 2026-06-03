@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25101641,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1698,1592,4.0,7,1.42,40,56.8,"Abhijith, U",,1803.0,False,IND,1.0,1,0.77,40,30.8
+25101641,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1698,1592,4.0,7,1.42,40,56.8,Divyansh,,1776.0,False,IND,0.5,1,0.24,40,9.6
+25101641,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1698,1592,4.0,7,1.42,40,56.8,"Mani, Bharathy",,1788.0,False,IND,0.0,1,-0.25,40,-10.0
+25101641,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1698,1592,4.0,7,1.42,40,56.8,"Wahane, Spandan",,1770.0,False,IND,0.5,1,0.23,40,9.2
+25101641,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1698,1592,4.0,7,1.42,40,56.8,"Jaydeep, Sharma",,1843.0,False,IND,0.5,1,0.31,40,12.4
+25101641,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1698,1592,4.0,7,1.42,40,56.8,"Vihaan, Garg",,1454.0,False,IND,0.5,1,-0.19,40,-7.6
+25101641,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1698,1592,4.0,7,1.42,40,56.8,"Tanishka, Ramasubramanian",,1453.0,False,IND,1.0,1,0.31,40,12.4

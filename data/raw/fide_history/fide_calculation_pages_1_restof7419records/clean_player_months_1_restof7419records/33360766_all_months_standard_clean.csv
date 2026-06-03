@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33360766,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1566.0,1406.0,1.0,5,-0.53,40,-21.2,"Sunyuktha, C M N",,1806,True,IND,0.0,1,-0.08,40.0,-3.2
+33360766,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1566.0,1406.0,1.0,5,-0.53,40,-21.2,"Janani, P",,1561,False,IND,0.0,1,-0.29,40.0,-11.6
+33360766,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1566.0,1406.0,1.0,5,-0.53,40,-21.2,"Dakshitha, Anand",,1476,False,IND,0.5,1,0.1,40.0,4.0
+33360766,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1566.0,1406.0,1.0,5,-0.53,40,-21.2,"Thaniya, Shree C",,1471,False,IND,0.5,1,0.09,40.0,3.6
+33360766,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1566.0,1406.0,1.0,5,-0.53,40,-21.2,"Aji, Shree A",,1516,False,IND,0.0,1,-0.35,40.0,-14.0
+33360766,2024-06-01,0,36th Tamil Nadu State Under-13 Girls Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,,,0.0,1,0.0,631,,"Vaishnavi, Anand",,1431,False,IND,0.0,1,0.0,,0.0
+33360766,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.0,2,0.0,717,,"Tharunika, G",,1613,False,IND,0.0,1,0.0,,0.0
+33360766,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.0,2,0.0,717,,"Nivedhitha, T R S",,1420,False,IND,0.0,1,0.0,,0.0
+33360766,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,,,0.0,4,0.0,648,,"Bhagatsingh, D",,1477,False,IND,0.0,1,0.0,,0.0
+33360766,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,,,0.0,4,0.0,648,,"Ganesan, P",,1463,False,IND,0.0,1,0.0,,0.0
+33360766,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,,,0.0,4,0.0,648,,"Alwin, D",,1438,False,IND,0.0,1,0.0,,0.0
+33360766,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,,,0.0,4,0.0,648,,"Akshath, D",,1414,False,IND,0.0,1,0.0,,0.0
+33360766,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,,,0.0,2,0.0,639,,"Meeran, Raees S",,1416,False,IND,0.0,1,0.0,,0.0
+33360766,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,,,0.0,2,0.0,639,,"Varun, Gopi G",,1462,False,IND,0.0,1,0.0,,0.0
+33360766,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,,,1.0,5,0.0,1250,,"Bhargav, Karthikeyan",,1492,False,IND,0.0,1,0.0,,0.0
+33360766,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,,,1.0,5,0.0,1250,,"George, Daniel",,1484,False,IND,0.0,1,0.0,,0.0
+33360766,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,,,1.0,5,0.0,1250,,"Kumar, T V",,1485,False,IND,1.0,1,0.0,,0.0
+33360766,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,,,1.0,5,0.0,1250,,"Srinandhan, A",,1521,False,IND,0.0,1,0.0,,0.0
+33360766,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,,,1.0,5,0.0,1250,,"Nanthabalan, V B",,1470,False,IND,0.0,1,0.0,,0.0

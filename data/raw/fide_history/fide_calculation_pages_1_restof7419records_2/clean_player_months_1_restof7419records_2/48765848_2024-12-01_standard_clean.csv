@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48765848,2024-12-01,0,Asian Chess Championship for Players with Disabilities 2024 - Juniors,Bishkek KGZ,2024-11-11,2024-11-17,1700,1464,1.5,4,0.6,40,24.0,"Rakhatbekov, Tilegen",,1771.0,False,KGZ,0.0,1,-0.14,40,-5.6
+48765848,2024-12-01,0,Asian Chess Championship for Players with Disabilities 2024 - Juniors,Bishkek KGZ,2024-11-11,2024-11-17,1700,1464,1.5,4,0.6,40,24.0,"Pisnov, Dmitriy",,1676.0,False,FID,1.0,1,0.77,40,30.8
+48765848,2024-12-01,0,Asian Chess Championship for Players with Disabilities 2024 - Juniors,Bishkek KGZ,2024-11-11,2024-11-17,1700,1464,1.5,4,0.6,40,24.0,"Usmanov, Dias",,1505.0,False,KAZ,0.5,1,0.06,40,2.4
+48765848,2024-12-01,0,Asian Chess Championship for Players with Disabilities 2024 - Juniors,Bishkek KGZ,2024-11-11,2024-11-17,1700,1464,1.5,4,0.6,40,24.0,"Bogdan, David",,1846.0,False,FID,0.0,1,-0.09,40,-3.6

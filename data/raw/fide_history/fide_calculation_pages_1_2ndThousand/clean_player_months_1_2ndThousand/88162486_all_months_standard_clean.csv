@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88162486,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1771,1456,0.0,1,-0.14,40,-5.6,"Al Jabri, Rashid",,1771.0,False,OMA,0.0,1,-0.14,40,-5.6
+88162486,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1700,1456,2.5,5,1.46,40,58.4,"Fawaz, Mohamad",,1856.0,True,LBN,0.5,1,0.42,40,16.8
+88162486,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1700,1456,2.5,5,1.46,40,58.4,"Al Mamari, Imran",,1676.0,False,OMA,0.0,1,-0.22,40,-8.8
+88162486,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1700,1456,2.5,5,1.46,40,58.4,"Al Balushi, Rashid Ali",,1617.0,False,OMA,1.0,1,0.71,40,28.4
+88162486,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1700,1456,2.5,5,1.46,40,58.4,"Al-Kuwari, Hamad",c,1736.0,False,QAT,0.0,1,-0.16,40,-6.4
+88162486,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1700,1456,2.5,5,1.46,40,58.4,"Barghol, Fatemeh",,1617.0,False,IRI,1.0,1,0.71,40,28.4
+88162486,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1825,1508,1.0,2,0.74,40,29.6,"Ahmed, Ali",,1826.0,False,SUD,1.0,1,0.87,40,34.8
+88162486,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1825,1508,1.0,2,0.74,40,29.6,"Hari, Vardan Satheeskumar",,1824.0,False,IND,0.0,1,-0.13,40,-5.2

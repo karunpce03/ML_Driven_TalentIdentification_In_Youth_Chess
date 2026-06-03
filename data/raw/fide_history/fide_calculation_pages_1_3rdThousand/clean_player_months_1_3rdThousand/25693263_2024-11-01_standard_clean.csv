@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25693263,2024-11-01,0,Asian Girls Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,1924,2062,7.0,9,1.08,40,43.2,"Chen, Pin-I",,1662,True,TPE,1.0,1,0.08,40,3.2
+25693263,2024-11-01,0,Asian Girls Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,1924,2062,7.0,9,1.08,40,43.2,"Khairmode, Dhanashree",,1876,False,IND,1.0,1,0.26,40,10.4
+25693263,2024-11-01,0,Asian Girls Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,1924,2062,7.0,9,1.08,40,43.2,"Luong, Hoang Tu Linh",,1907,False,VIE,1.0,1,0.29,40,11.6
+25693263,2024-11-01,0,Asian Girls Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,1924,2062,7.0,9,1.08,40,43.2,"Shukhman, Anna",wm,2163,False,FID,0.0,1,-0.36,40,-14.4
+25693263,2024-11-01,0,Asian Girls Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,1924,2062,7.0,9,1.08,40,43.2,"Tejaswini, G",wm,2207,False,IND,0.5,1,0.19,40,7.6
+25693263,2024-11-01,0,Asian Girls Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,1924,2062,7.0,9,1.08,40,43.2,"Mohd Afif, Ainul Mardhiah",,1866,False,MAS,1.0,1,0.25,40,10.0
+25693263,2024-11-01,0,Asian Girls Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,1924,2062,7.0,9,1.08,40,43.2,"Rindhiya, V",wf,2005,False,IND,0.5,1,-0.08,40,-3.2
+25693263,2024-11-01,0,Asian Girls Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,1924,2062,7.0,9,1.08,40,43.2,"Bristy, Mukherjee",wf,1965,False,IND,1.0,1,0.37,40,14.8
+25693263,2024-11-01,0,Asian Girls Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,1924,2062,7.0,9,1.08,40,43.2,"Sapuan, Arleah Cassandra",,1662,True,PHI,1.0,1,0.08,40,3.2

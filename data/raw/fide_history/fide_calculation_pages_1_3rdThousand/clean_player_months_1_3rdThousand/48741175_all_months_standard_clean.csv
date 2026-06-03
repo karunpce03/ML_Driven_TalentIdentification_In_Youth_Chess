@@ -1,0 +1,26 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48741175,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1528,1461,1.0,1,0.59,40,23.6,"Aryan, Dey",,1528.0,False,IND,1.0,1,0.59,40,23.6
+48741175,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1655,1485,1.0,4,-0.11,40,-4.4,"Sunetra, Dey",,1692.0,False,IND,0.0,1,-0.23,40,-9.2
+48741175,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1655,1485,1.0,4,-0.11,40,-4.4,"Chouhan, N.c.",,1628.0,False,IND,0.5,1,0.19,40,7.6
+48741175,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1655,1485,1.0,4,-0.11,40,-4.4,"Amit, Tiwari",,1655.0,False,IND,0.0,1,-0.28,40,-11.2
+48741175,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1655,1485,1.0,4,-0.11,40,-4.4,"Abir, Mitra",,1643.0,False,IND,0.5,1,0.21,40,8.4
+48741175,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1676,1481,0.0,3,-0.77,40,-30.8,"Krishay, Jain",,1800.0,False,IND,0.0,1,-0.13,40,-5.2
+48741175,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1676,1481,0.0,3,-0.77,40,-30.8,"Swapnabha, Neogi",,1632.0,False,IND,0.0,1,-0.3,40,-12.0
+48741175,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1676,1481,0.0,3,-0.77,40,-30.8,"Abir, Mitra",,1597.0,False,IND,0.0,1,-0.34,40,-13.6
+48741175,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1623,1450,1.5,4,0.34,40,13.6,"Ankit, Das",,1806.0,False,IND,0.0,1,-0.11,40,-4.4
+48741175,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1623,1450,1.5,4,0.34,40,13.6,"Khushal, Bagri",,1555.0,False,IND,0.0,1,-0.36,40,-14.4
+48741175,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1623,1450,1.5,4,0.34,40,13.6,"Pranit, Hajra",,1591.0,False,IND,1.0,1,0.69,40,27.6
+48741175,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1623,1450,1.5,4,0.34,40,13.6,"Shrihaan, Barman",,1540.0,False,IND,0.5,1,0.12,40,4.8
+48741175,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1679,1464,2.0,7,0.3,40,12.0,"Joshi, Aditya Shripad",,1864.0,True,IND,0.0,1,-0.08,40,-3.2
+48741175,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1679,1464,2.0,7,0.3,40,12.0,"Suman, Saideep",,1771.0,False,IND,0.0,1,-0.14,40,-5.6
+48741175,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1679,1464,2.0,7,0.3,40,12.0,"Vivaan, Mittal",,1738.0,False,IND,0.0,1,-0.17,40,-6.8
+48741175,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1679,1464,2.0,7,0.3,40,12.0,"Adriel, Job",,1543.0,False,IND,0.0,1,-0.39,40,-15.6
+48741175,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1679,1464,2.0,7,0.3,40,12.0,"Vishnu, Nandan",,1670.0,False,IND,1.0,1,0.76,40,30.4
+48741175,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1679,1464,2.0,7,0.3,40,12.0,"Dhayagude, Aarav",,1582.0,False,IND,0.5,1,0.16,40,6.4
+48741175,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1679,1464,2.0,7,0.3,40,12.0,"Rudransh, P S",,1582.0,False,IND,0.5,1,0.16,40,6.4
+48741175,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1574,1476,2.0,6,-0.26,40,-10.4,"Muhammad, Shayan Noushad Ibrahim",,1714.0,False,IND,0.0,1,-0.2,40,-8.0
+48741175,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1574,1476,2.0,6,-0.26,40,-10.4,"Pitambar, Debnath",,1402.0,False,IND,1.0,1,0.4,40,16.0
+48741175,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1574,1476,2.0,6,-0.26,40,-10.4,Prayan,,1576.0,False,IND,0.0,1,-0.36,40,-14.4
+48741175,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1574,1476,2.0,6,-0.26,40,-10.4,"Rudransh, Pancholi",,1425.0,False,IND,0.5,1,-0.07,40,-2.8
+48741175,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1574,1476,2.0,6,-0.26,40,-10.4,"Kavish, Palaniappan K",,1755.0,False,IND,0.5,1,0.34,40,13.6
+48741175,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1574,1476,2.0,6,-0.26,40,-10.4,"Vivaan, Srivastava",,1570.0,False,IND,0.0,1,-0.37,40,-14.8

@@ -1,0 +1,29 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531025501,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,2.5,6,0.0,1386,,"Bahalkar, Aarya",,1522,False,IND,0.0,1,0.0,,0.0
+531025501,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,2.5,6,0.0,1386,,"Saravanan, K",,1408,False,IND,0.5,1,0.0,,0.0
+531025501,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,2.5,6,0.0,1386,,"Selvarajan, T R",,1444,False,IND,0.0,1,0.0,,0.0
+531025501,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,2.5,6,0.0,1386,,"Sreejith, P R",,1403,False,IND,1.0,1,0.0,,0.0
+531025501,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,2.5,6,0.0,1386,,"Shanjiv, Bala T",,1464,False,IND,0.0,1,0.0,,0.0
+531025501,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,2.5,6,0.0,1386,,"Johaan, Justin",,1416,False,IND,1.0,1,0.0,,0.0
+531025501,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,,,1.0,5,0.0,1208,,"Shivnandan, S",,1533,False,IND,0.0,1,0.0,,0.0
+531025501,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,,,1.0,5,0.0,1208,,"Lakshmipriya, V M",,1429,False,IND,0.5,1,0.0,,0.0
+531025501,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,,,1.0,5,0.0,1208,,"Eric, Sanish",,1431,False,IND,0.0,1,0.0,,0.0
+531025501,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,,,1.0,5,0.0,1208,,"Jaison, S J",,1420,False,IND,0.0,1,0.0,,0.0
+531025501,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,,,1.0,5,0.0,1208,,"Devnarayan, Nikhil",,1427,False,IND,0.5,1,0.0,,0.0
+531025501,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,,,1.0,4,0.0,1289,,"Tanav, Kalyan V",,1539,False,IND,0.0,1,0.0,,0.0
+531025501,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,,,1.0,4,0.0,1289,,"Ajaykumar, Prabu",,1465,False,IND,0.0,1,0.0,,0.0
+531025501,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,,,1.0,4,0.0,1289,,"Akshay, Krithik Shyam",,1408,False,IND,1.0,1,0.0,,0.0
+531025501,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,,,1.0,4,0.0,1289,,"Lakshmanan, Natesan",,1514,False,IND,0.0,1,0.0,,0.0
+531025501,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,1.0,3,0.0,1449,,"Uttam, Surya Sai Naidu Burada",,1583,False,IND,1.0,1,0.0,,0.0
+531025501,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,1.0,3,0.0,1449,,"Disha, U A",,1604,False,IND,0.0,1,0.0,,0.0
+531025501,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,1.0,3,0.0,1449,,"Rakesh, Kumar Sinha",,1536,False,IND,0.0,1,0.0,,0.0
+531025501,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,,,0.0,3,0.0,743,,"Isha, R",,1551,False,IND,0.0,1,0.0,,0.0
+531025501,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,,,0.0,3,0.0,743,,"Sowmiya, Devi V",,1663,False,IND,0.0,1,0.0,,0.0
+531025501,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,,,0.0,3,0.0,743,,"Sadhana, S N",,1414,False,IND,0.0,1,0.0,,0.0
+531025501,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,,,2.0,7,0.0,1315,,"Mahathi, M",,1592,False,IND,0.0,1,0.0,,0.0
+531025501,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,,,2.0,7,0.0,1315,,"Prateeksha, R M",,1467,False,IND,0.0,1,0.0,,0.0
+531025501,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,,,2.0,7,0.0,1315,,"Tamanna, R",,1455,False,IND,1.0,1,0.0,,0.0
+531025501,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,,,2.0,7,0.0,1315,,"Muthu, M",,1484,False,IND,0.5,1,0.0,,0.0
+531025501,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,,,2.0,7,0.0,1315,,"Sri, Chandra Seelan S",,1451,False,IND,0.0,1,0.0,,0.0
+531025501,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,,,2.0,7,0.0,1315,,"Sai, Lingesh B",,1460,False,IND,0.5,1,0.0,,0.0
+531025501,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,,,2.0,7,0.0,1315,,"Shivesh, Shenbagarajan",,1402,False,IND,0.0,1,0.0,,0.0

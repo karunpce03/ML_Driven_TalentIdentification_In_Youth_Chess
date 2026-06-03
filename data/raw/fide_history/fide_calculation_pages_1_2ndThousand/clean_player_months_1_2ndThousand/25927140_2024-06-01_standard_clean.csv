@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25927140,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1683,1503,0.0,3,-0.79,40,-31.6,"Rounaq, Biswas",,1707.0,False,IND,0.0,1,-0.24,40,-9.6
+25927140,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1683,1503,0.0,3,-0.79,40,-31.6,"Sunetra, Dey",,1692.0,False,IND,0.0,1,-0.25,40,-10.0
+25927140,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1683,1503,0.0,3,-0.79,40,-31.6,"Angshu, Ghosh",,1651.0,False,IND,0.0,1,-0.3,40,-12.0

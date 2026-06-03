@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429010160,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1429,1488,0.5,2,-0.66,40,-26.4,"Komati, Charath Ashwin",,1415.0,False,IND,0.5,1,-0.1,40,-4.0
+429010160,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1429,1488,0.5,2,-0.66,40,-26.4,"Kavya, A N S S",,1443.0,False,IND,0.0,1,-0.56,40,-22.4

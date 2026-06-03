@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429048184,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,,,2.0,4,0.0,1507,,"Al-Janahi, Ibrahim",,1544,False,QAT,0.0,1,0.0,,0.0
+429048184,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,,,2.0,4,0.0,1507,,Danish,,1400,False,IND,0.0,1,0.0,,0.0
+429048184,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,,,2.0,4,0.0,1507,,"Muhammad Saleem, Hamad",,1607,False,PAK,1.0,1,0.0,,0.0
+429048184,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,,,2.0,4,0.0,1507,,"Mohamed Atif, Kareem",,1477,False,EGY,1.0,1,0.0,,0.0

@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531070744,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,,,0.5,3,0.0,1176,,"Asmit, Samanta",,1438.0,False,IND,0.5,1,0.0,,0.0
+531070744,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,,,0.5,3,0.0,1176,,"Kartik, Reddy",,1434.0,False,IND,0.0,1,0.0,,0.0
+531070744,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,,,0.5,3,0.0,1176,,"Shibantak, Saha",,1476.0,False,IND,0.0,1,0.0,,0.0
+531070744,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,2.5,6,0.0,1497,,"Nabhneel, Das",,1559.0,False,IND,0.5,1,0.0,,0.0
+531070744,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,2.5,6,0.0,1497,,"Aekansh, Kumar Bhardwaj",,1490.0,False,IND,0.0,1,0.0,,0.0
+531070744,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,2.5,6,0.0,1497,,Aadya,,1474.0,False,IND,1.0,1,0.0,,0.0
+531070744,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,2.5,6,0.0,1497,,"Krishna, Mohan",,1605.0,False,IND,1.0,1,0.0,,0.0
+531070744,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,2.5,6,0.0,1497,,"Vedant, Rajesh",,1641.0,False,IND,0.0,1,0.0,,0.0
+531070744,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,,,2.5,6,0.0,1497,,"Adiba, Ullah",,1552.0,False,IND,0.0,1,0.0,,0.0
+531070744,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1619.0,1468.0,2.5,5,0.9,40,36.0,"Sudhanshu, Ranjan",,1868.0,True,IND,0.0,1,-0.08,40.0,-3.2
+531070744,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1619.0,1468.0,2.5,5,0.9,40,36.0,"Jayanta, Bose",,1409.0,False,IND,1.0,1,0.42,40.0,16.8
+531070744,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1619.0,1468.0,2.5,5,0.9,40,36.0,"Sharanyak, Das",,1608.0,False,IND,0.0,1,-0.31,40.0,-12.4
+531070744,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1619.0,1468.0,2.5,5,0.9,40,36.0,"Tanmay, Raj",,1631.0,False,IND,0.5,1,0.22,40.0,8.8
+531070744,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1619.0,1468.0,2.5,5,0.9,40,36.0,"Patodekar, Samarth",,1580.0,False,IND,1.0,1,0.65,40.0,26.0
+531070744,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1548.0,1504.0,1.0,4,-0.77,40,-30.8,"Hardev, Sahai",,1663.0,False,IND,0.0,1,-0.29,40.0,-11.6
+531070744,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1548.0,1504.0,1.0,4,-0.77,40,-30.8,"Harshit, Malhotra",,1471.0,False,IND,1.0,1,0.45,40.0,18.0
+531070744,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1548.0,1504.0,1.0,4,-0.77,40,-30.8,"Baviskar, Shubham C",,1614.0,False,IND,0.0,1,-0.35,40.0,-14.0
+531070744,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1548.0,1504.0,1.0,4,-0.77,40,-30.8,"Tejas, Tiwari",,1445.0,False,IND,0.0,1,-0.58,40.0,-23.2

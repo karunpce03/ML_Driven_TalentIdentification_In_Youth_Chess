@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25155083,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1484,1576,4.0,6,0.23,40,9.2,"Rishi, Ray",,1460.0,False,IND,1.0,1,0.34,40,13.6
+25155083,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1484,1576,4.0,6,0.23,40,9.2,"Aditya, Baksi",,1469.0,False,IND,0.5,1,-0.15,40,-6.0
+25155083,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1484,1576,4.0,6,0.23,40,9.2,"Mayuraksha, Sihi",,1462.0,False,IND,0.5,1,-0.16,40,-6.4
+25155083,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1484,1576,4.0,6,0.23,40,9.2,"Rehant, Dhiraj Koche",,1469.0,False,IND,1.0,1,0.35,40,14.0
+25155083,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1484,1576,4.0,6,0.23,40,9.2,"Arnab, Nandy",,1545.0,False,IND,1.0,1,0.46,40,18.4
+25155083,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1484,1576,4.0,6,0.23,40,9.2,"Pyansu, Nath",,1496.0,False,IND,0.0,1,-0.61,40,-24.4

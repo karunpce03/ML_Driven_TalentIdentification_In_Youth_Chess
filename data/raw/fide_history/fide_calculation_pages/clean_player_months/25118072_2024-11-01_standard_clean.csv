@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25118072,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,1748,1537,1.5,7,-0.26,40,-10.4,"Wongsawan, Thoetsak",,1886,False,THA,0.0,1,-0.11,40,-4.4
+25118072,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,1748,1537,1.5,7,-0.26,40,-10.4,"Mu, Wangxueyao",,1798,False,CHN,0.0,1,-0.18,40,-7.2
+25118072,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,1748,1537,1.5,7,-0.26,40,-10.4,"Krishtopov, Konstantin",,1745,False,FID,0.0,1,-0.23,40,-9.2
+25118072,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,1748,1537,1.5,7,-0.26,40,-10.4,"Ferreira, Paulo",,1937,True,POR,0.0,1,-0.08,40,-3.2
+25118072,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,1748,1537,1.5,7,-0.26,40,-10.4,"Kaewwattha, Natrada",,1711,False,THA,0.5,1,0.23,40,9.2
+25118072,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,1748,1537,1.5,7,-0.26,40,-10.4,"Peng, Shiyang",,1677,False,CHN,0.5,1,0.19,40,7.6
+25118072,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,1748,1537,1.5,7,-0.26,40,-10.4,"Wong, Ming Wei Benjamin",,1482,False,SGP,0.5,1,-0.08,40,-3.2

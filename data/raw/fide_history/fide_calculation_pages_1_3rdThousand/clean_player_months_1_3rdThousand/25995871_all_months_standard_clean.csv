@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25995871,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1676,1411,1.5,5,0.53,40,21.2,"Tripurambika, V",,1803.0,False,IND,0.0,1,-0.08,40,-3.2
+25995871,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1676,1411,1.5,5,0.53,40,21.2,"Shah, Vrushti",,1654.0,False,IND,0.0,1,-0.2,40,-8.0
+25995871,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1676,1411,1.5,5,0.53,40,21.2,"Teesha, Byadwal",,1572.0,False,IND,1.0,1,0.71,40,28.4
+25995871,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1676,1411,1.5,5,0.53,40,21.2,"Khushboo, Kushwaha",,1551.0,False,IND,0.5,1,0.19,40,7.6
+25995871,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1676,1411,1.5,5,0.53,40,21.2,"Shivamshika, G",,1802.0,False,IND,0.0,1,-0.09,40,-3.6

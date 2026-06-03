@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88163717,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1700,1475,0.0,2,-0.44,40,-17.6,"Vakcheri, Mohitha",,1738.0,False,IND,0.0,1,-0.18,40,-7.2
+88163717,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1700,1475,0.0,2,-0.44,40,-17.6,"Karra, Surya Kumara Sridatta",,1662.0,False,IND,0.0,1,-0.26,40,-10.4
+88163717,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,1558,1457,0.0,2,-0.73,40,-29.2,"Ananda, Raj M",,1547.0,False,IND,0.0,1,-0.38,40,-15.2
+88163717,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,1558,1457,0.0,2,-0.73,40,-29.2,"Radhika Devi, Chavali",,1568.0,False,IND,0.0,1,-0.35,40,-14.0

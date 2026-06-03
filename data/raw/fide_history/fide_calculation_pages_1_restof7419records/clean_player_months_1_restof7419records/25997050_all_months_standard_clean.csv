@@ -1,0 +1,59 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25997050,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1637,1617,6.0,9,1.62,40,64.8,"Patil, Varad Sayaji",,1438.0,False,IND,1.0,1,0.27,40,10.8
+25997050,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1637,1617,6.0,9,1.62,40,64.8,"Dutta, Joydeep",f,2017.0,True,IND,0.0,1,-0.08,40,-3.2
+25997050,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1637,1617,6.0,9,1.62,40,64.8,"Amanchi, Naga Siva Sai Divya",,1459.0,False,IND,0.0,1,-0.71,40,-28.4
+25997050,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1637,1617,6.0,9,1.62,40,64.8,"Tejas, Wadhwani",,1431.0,False,IND,1.0,1,0.26,40,10.4
+25997050,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1637,1617,6.0,9,1.62,40,64.8,"Tushar, Agarwalla",,1480.0,False,IND,1.0,1,0.32,40,12.8
+25997050,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1637,1617,6.0,9,1.62,40,64.8,"Nithish, Sivasubramanian",,1534.0,False,IND,1.0,1,0.39,40,15.6
+25997050,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1637,1617,6.0,9,1.62,40,64.8,"Debayan, Ray",,1740.0,False,IND,1.0,1,0.67,40,26.8
+25997050,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1637,1617,6.0,9,1.62,40,64.8,"Naga, Sai Sarthak Karanam",,1778.0,False,IND,1.0,1,0.71,40,28.4
+25997050,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1637,1617,6.0,9,1.62,40,64.8,"Agnivo, Chakraborty",,1852.0,False,IND,0.0,1,-0.21,40,-8.4
+25997050,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1601,1682,6.0,9,0.47,40,18.8,"Vasista, Harsha Thumbaraguddi",,1480.0,False,IND,1.0,1,0.24,40,9.6
+25997050,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1601,1682,6.0,9,0.47,40,18.8,"Balkishan, A.",,2072.0,False,IND,0.0,1,-0.09,40,-3.6
+25997050,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1601,1682,6.0,9,0.47,40,18.8,"Sai, Darshith Jaladurgam",,1494.0,False,IND,0.0,1,-0.74,40,-29.6
+25997050,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1601,1682,6.0,9,0.47,40,18.8,"Ishaan, Kher",,1439.0,False,IND,1.0,1,0.2,40,8.0
+25997050,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1601,1682,6.0,9,0.47,40,18.8,"Jathin, Ravi Kumar",,1487.0,False,IND,1.0,1,0.25,40,10.0
+25997050,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1601,1682,6.0,9,0.47,40,18.8,"Charan, S Raju",,1509.0,False,IND,1.0,1,0.27,40,10.8
+25997050,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1601,1682,6.0,9,0.47,40,18.8,"Gavi, Siddayya",,1832.0,False,IND,0.0,1,-0.3,40,-12.0
+25997050,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1601,1682,6.0,9,0.47,40,18.8,"Achinthya, Bhat",,1538.0,False,IND,1.0,1,0.31,40,12.4
+25997050,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1601,1682,6.0,9,0.47,40,18.8,"Dhruva, Reddy B M",,1554.0,False,IND,1.0,1,0.33,40,13.2
+25997050,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1678,1682,5.5,8,1.44,40,57.6,Siddaraju,,1483.0,False,IND,1.0,1,0.24,40,9.6
+25997050,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1678,1682,5.5,8,1.44,40,57.6,"Ishaan, Bhowmick",,1457.0,False,IND,1.0,1,0.22,40,8.8
+25997050,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1678,1682,5.5,8,1.44,40,57.6,"Gavi, Siddayya",,1832.0,False,IND,1.0,1,0.7,40,28.0
+25997050,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1678,1682,5.5,8,1.44,40,57.6,"Arka, Sengupta",,1962.0,False,IND,0.0,1,-0.16,40,-6.4
+25997050,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1678,1682,5.5,8,1.44,40,57.6,"Karthik, G Iyer",,1550.0,False,IND,0.5,1,-0.18,40,-7.2
+25997050,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1678,1682,5.5,8,1.44,40,57.6,"Shreyas, Jayaraman",,1610.0,False,IND,1.0,1,0.4,40,16.0
+25997050,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1678,1682,5.5,8,1.44,40,57.6,"Adhrit, Das Purkayastha",,1726.0,False,IND,1.0,1,0.56,40,22.4
+25997050,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1678,1682,5.5,8,1.44,40,57.6,"Naga, Sai Sarthak Karanam",,1801.0,False,IND,0.0,1,-0.34,40,-13.6
+25997050,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1535,1758,4.5,7,-0.95,40,-38.0,"Vivaan, Pandey",,1486.0,False,IND,0.0,1,-0.83,40,-33.2
+25997050,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1535,1758,4.5,7,-0.95,40,-38.0,"Rithvik, Venkata Grandhi",,1447.0,False,IND,1.0,1,0.14,40,5.6
+25997050,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1535,1758,4.5,7,-0.95,40,-38.0,"Ishaan, Bhansali",,1545.0,False,IND,1.0,1,0.23,40,9.2
+25997050,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1535,1758,4.5,7,-0.95,40,-38.0,"Aadya, Gowda",,1608.0,False,IND,0.5,1,-0.2,40,-8.0
+25997050,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1535,1758,4.5,7,-0.95,40,-38.0,"Nandan, M M B",,1560.0,False,IND,0.0,1,-0.76,40,-30.4
+25997050,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1535,1758,4.5,7,-0.95,40,-38.0,"Kovidh, Muraleedhara",,1536.0,False,IND,1.0,1,0.22,40,8.8
+25997050,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1535,1758,4.5,7,-0.95,40,-38.0,"Abhineeth, Bhat",,1562.0,False,IND,1.0,1,0.25,40,10.0
+25997050,2024-10-01,0,Karnataka State Under 15 OPEN FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1563,1720,3.5,7,-1.4,40,-56.0,"Vivaan, Parangodath",,1425.0,False,IND,1.0,1,0.15,40,6.0
+25997050,2024-10-01,0,Karnataka State Under 15 OPEN FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1563,1720,3.5,7,-1.4,40,-56.0,"Shrihari, T K",,1508.0,False,IND,0.5,1,-0.27,40,-10.8
+25997050,2024-10-01,0,Karnataka State Under 15 OPEN FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1563,1720,3.5,7,-1.4,40,-56.0,"Abhinav, Anand",,1844.0,False,IND,0.0,1,-0.33,40,-13.2
+25997050,2024-10-01,0,Karnataka State Under 15 OPEN FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1563,1720,3.5,7,-1.4,40,-56.0,"Abhinav, Acharya",,1521.0,False,IND,1.0,1,0.24,40,9.6
+25997050,2024-10-01,0,Karnataka State Under 15 OPEN FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1563,1720,3.5,7,-1.4,40,-56.0,"Sanchit, P Sugur",,1581.0,False,IND,0.0,1,-0.69,40,-27.6
+25997050,2024-10-01,0,Karnataka State Under 15 OPEN FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1563,1720,3.5,7,-1.4,40,-56.0,"Yatin, Srinivas Chintam",,1503.0,False,IND,1.0,1,0.22,40,8.8
+25997050,2024-10-01,0,Karnataka State Under 15 OPEN FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1563,1720,3.5,7,-1.4,40,-56.0,"Shreyas, G Kaushik",,1556.0,False,IND,0.0,1,-0.72,40,-28.8
+25997050,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1695,1664,5.0,10,0.28,40,11.2,"Sherla, Prathamesh",,2041.0,False,IND,0.0,1,-0.09,40,-3.6
+25997050,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1695,1664,5.0,10,0.28,40,11.2,"Sudipta, Roy",,1485.0,False,IND,1.0,1,0.27,40,10.8
+25997050,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1695,1664,5.0,10,0.28,40,11.2,"Mahish, S A",,1970.0,False,IND,0.0,1,-0.14,40,-5.6
+25997050,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1695,1664,5.0,10,0.28,40,11.2,"Kumara, Sandilya Somanchi",,1521.0,False,IND,1.0,1,0.31,40,12.4
+25997050,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1695,1664,5.0,10,0.28,40,11.2,"Kavin, Prakash",,1542.0,False,IND,1.0,1,0.33,40,13.2
+25997050,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1695,1664,5.0,10,0.28,40,11.2,"Shashank, K",,1806.0,False,IND,0.0,1,-0.31,40,-12.4
+25997050,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1695,1664,5.0,10,0.28,40,11.2,"Shrihari, T K",,1531.0,False,IND,1.0,1,0.32,40,12.8
+25997050,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1695,1664,5.0,10,0.28,40,11.2,"Abhinav, M B",,1774.0,False,IND,0.0,1,-0.35,40,-14.0
+25997050,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1695,1664,5.0,10,0.28,40,11.2,"Leo, Sanish",,1496.0,False,IND,1.0,1,0.28,40,11.2
+25997050,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1695,1664,5.0,10,0.28,40,11.2,"Rejath, Renjith",,1782.0,False,IND,0.0,1,-0.34,40,-13.6
+25997050,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1579,1675,6.0,8,0.97,40,38.8,"Dushyanth, Subramanian",,1488.0,False,IND,1.0,1,0.26,40,10.4
+25997050,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1579,1675,6.0,8,0.97,40,38.8,"Muralidhara, G K",,1534.0,False,IND,1.0,1,0.31,40,12.4
+25997050,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1579,1675,6.0,8,0.97,40,38.8,"Venkatraman, Satyamurthy",,1580.0,False,IND,0.5,1,-0.13,40,-5.2
+25997050,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1579,1675,6.0,8,0.97,40,38.8,"Virat, Singh",,1568.0,False,IND,1.0,1,0.35,40,14.0
+25997050,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1579,1675,6.0,8,0.97,40,38.8,"Clive, Allen Lobo",,1611.0,False,IND,1.0,1,0.41,40,16.4
+25997050,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1579,1675,6.0,8,0.97,40,38.8,"Sumeetkumar, M S",,1764.0,False,IND,0.0,1,-0.38,40,-15.2
+25997050,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1579,1675,6.0,8,0.97,40,38.8,"Vihaan, Venu Gopal",,1506.0,False,IND,0.5,1,-0.22,40,-8.8
+25997050,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1579,1675,6.0,8,0.97,40,38.8,"Vinay, Kumar M V",,1581.0,False,IND,1.0,1,0.37,40,14.8

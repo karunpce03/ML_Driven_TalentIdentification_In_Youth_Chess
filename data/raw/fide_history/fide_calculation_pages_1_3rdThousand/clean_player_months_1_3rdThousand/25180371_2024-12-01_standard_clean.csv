@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25180371,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1680,1529,4.5,10,1.29,40,51.6,"Goutham, Ramesh",,1849,False,IND,0.0,1,-0.13,40,-5.2
+25180371,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1680,1529,4.5,10,1.29,40,51.6,"Mahish, S A",,1929,True,IND,0.0,1,-0.08,40,-3.2
+25180371,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1680,1529,4.5,10,1.29,40,51.6,"Abaneesh, Pal",,1427,False,IND,1.0,1,0.36,40,14.4
+25180371,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1680,1529,4.5,10,1.29,40,51.6,"Aabhas, Kumar Srivastava",,1682,False,IND,0.0,1,-0.3,40,-12.0
+25180371,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1680,1529,4.5,10,1.29,40,51.6,"Rayaan, Patil",,1408,False,IND,1.0,1,0.34,40,13.6
+25180371,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1680,1529,4.5,10,1.29,40,51.6,"Dhinesh, K A",,1670,False,IND,0.0,1,-0.31,40,-12.4
+25180371,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1680,1529,4.5,10,1.29,40,51.6,"Inban, R",,1663,False,IND,0.5,1,0.18,40,7.2
+25180371,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1680,1529,4.5,10,1.29,40,51.6,"Sarthak Sharma,",,1641,False,IND,1.0,1,0.65,40,26.0
+25180371,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1680,1529,4.5,10,1.29,40,51.6,"Prabhman, Singh Malhotra",,1734,False,IND,1.0,1,0.76,40,30.4
+25180371,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1680,1529,4.5,10,1.29,40,51.6,"Archisman, Patra",,1792,False,IND,0.0,1,-0.18,40,-7.2

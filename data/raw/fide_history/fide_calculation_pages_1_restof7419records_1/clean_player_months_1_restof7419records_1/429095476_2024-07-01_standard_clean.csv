@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429095476,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1601,1445,0.0,3,-0.88,40,-35.2,"Kedarnath, U",,1605.0,False,IND,0.0,1,-0.29,40,-11.6
+429095476,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1601,1445,0.0,3,-0.88,40,-35.2,"Rahul, R",,1592.0,False,IND,0.0,1,-0.3,40,-12.0
+429095476,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1601,1445,0.0,3,-0.88,40,-35.2,"Aarav, Ajith",,1606.0,False,IND,0.0,1,-0.29,40,-11.6

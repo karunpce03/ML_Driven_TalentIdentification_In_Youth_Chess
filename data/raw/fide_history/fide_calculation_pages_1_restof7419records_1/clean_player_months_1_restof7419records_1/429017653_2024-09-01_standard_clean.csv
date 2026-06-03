@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429017653,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1672,1474,3.5,11,0.73,40,29.2,"Mehul, Sondhi",,1839.0,False,IND,0.0,1,-0.1,40,-4.0
+429017653,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1672,1474,3.5,11,0.73,40,29.2,"Vismay, Sachar",,1724.0,False,IND,0.0,1,-0.19,40,-7.6
+429017653,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1672,1474,3.5,11,0.73,40,29.2,"Akshit, Kukkar",,1648.0,False,IND,0.5,1,0.23,40,9.2
+429017653,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1672,1474,3.5,11,0.73,40,29.2,"Ashutosh, Jamwal",,1685.0,False,IND,0.0,1,-0.23,40,-9.2
+429017653,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1672,1474,3.5,11,0.73,40,29.2,"Pratham, Nayyar",,1614.0,False,IND,0.0,1,-0.31,40,-12.4
+429017653,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1672,1474,3.5,11,0.73,40,29.2,"Harshad S, Parulekar",,1743.0,False,IND,1.0,1,0.83,40,33.2
+429017653,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1672,1474,3.5,11,0.73,40,29.2,"Kiyaselie, Mere",,1583.0,False,IND,0.0,1,-0.35,40,-14.0
+429017653,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1672,1474,3.5,11,0.73,40,29.2,"Shravan, Sriram",,1747.0,False,IND,1.0,1,0.83,40,33.2
+429017653,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1672,1474,3.5,11,0.73,40,29.2,"Bhavanya, Panchumarthi",,1645.0,False,IND,0.0,1,-0.27,40,-10.8
+429017653,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1672,1474,3.5,11,0.73,40,29.2,"Sayyam, Narang",,1559.0,False,IND,0.0,1,-0.38,40,-15.2
+429017653,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1672,1474,3.5,11,0.73,40,29.2,"Abhay, D Pendse",,1600.0,False,IND,1.0,1,0.67,40,26.8

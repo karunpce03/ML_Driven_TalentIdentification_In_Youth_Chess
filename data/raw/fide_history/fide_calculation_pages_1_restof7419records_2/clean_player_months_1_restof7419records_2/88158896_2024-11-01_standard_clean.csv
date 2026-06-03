@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88158896,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1640,1422,0.5,5,-0.67,40,-26.8,"Goutham, Ramesh",,1822,True,IND,0.0,1,-0.08,40,-3.2
+88158896,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1640,1422,0.5,5,-0.67,40,-26.8,"Sarthak, Mahajan",,1573,False,IND,0.5,1,0.2,40,8.0
+88158896,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1640,1422,0.5,5,-0.67,40,-26.8,"Kacha, Akshit",,1639,False,IND,0.0,1,-0.22,40,-8.8
+88158896,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1640,1422,0.5,5,-0.67,40,-26.8,"Harshvardhan, Singh Parihar",,1578,False,IND,0.0,1,-0.29,40,-11.6
+88158896,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1640,1422,0.5,5,-0.67,40,-26.8,"Govind, Kumar Chandel",,1590,False,IND,0.0,1,-0.28,40,-11.2

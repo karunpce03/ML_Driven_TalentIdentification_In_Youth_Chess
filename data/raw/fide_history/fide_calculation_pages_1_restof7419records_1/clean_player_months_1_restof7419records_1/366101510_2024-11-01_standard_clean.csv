@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366101510,2024-11-01,0,2024 Alberta Open,"Calgary, Alberta CAN",2024-10-12,2024-10-14,1796,1476,4.0,6,3.18,40,127.2,"Galwan, Artemio Abenoja",,1785,False,CAN,1.0,1,0.86,40,34.4
+366101510,2024-11-01,0,2024 Alberta Open,"Calgary, Alberta CAN",2024-10-12,2024-10-14,1796,1476,4.0,6,3.18,40,127.2,"Yearwood, Roy",,1876,True,CAN,0.0,1,-0.08,40,-3.2
+366101510,2024-11-01,0,2024 Alberta Open,"Calgary, Alberta CAN",2024-10-12,2024-10-14,1796,1476,4.0,6,3.18,40,127.2,"Milne, Arthur",,1675,False,CAN,1.0,1,0.76,40,30.4
+366101510,2024-11-01,0,2024 Alberta Open,"Calgary, Alberta CAN",2024-10-12,2024-10-14,1796,1476,4.0,6,3.18,40,127.2,"Michalchuk, Avery",,1755,False,CAN,1.0,1,0.84,40,33.6
+366101510,2024-11-01,0,2024 Alberta Open,"Calgary, Alberta CAN",2024-10-12,2024-10-14,1796,1476,4.0,6,3.18,40,127.2,"Bai, Jinghui",,1876,True,CAN,0.0,1,-0.08,40,-3.2
+366101510,2024-11-01,0,2024 Alberta Open,"Calgary, Alberta CAN",2024-10-12,2024-10-14,1796,1476,4.0,6,3.18,40,127.2,"Collins, Jacob",,1806,False,CAN,1.0,1,0.88,40,35.2

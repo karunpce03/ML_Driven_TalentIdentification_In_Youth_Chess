@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25697064,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1695,1542,2.0,6,0.09,40,3.6,"Ishvi, Aggarwal",wc,1942,True,IND,0.0,1,-0.08,40,-3.2
+25697064,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1695,1542,2.0,6,0.09,40,3.6,"Pratyush, Fulara",,1581,False,IND,0.5,1,0.05,40,2.0
+25697064,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1695,1542,2.0,6,0.09,40,3.6,"Himanshu, Moudgil",,1684,False,IND,0.5,1,0.19,40,7.6
+25697064,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1695,1542,2.0,6,0.09,40,3.6,"Mardav, Bhaikta",,1474,False,IND,0.0,1,-0.59,40,-23.6
+25697064,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1695,1542,2.0,6,0.09,40,3.6,"Raghvendra, Kumar Mishra",,1764,False,IND,0.5,1,0.28,40,11.2
+25697064,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1695,1542,2.0,6,0.09,40,3.6,"Akshit, Kukkar",,1722,False,IND,0.5,1,0.24,40,9.6

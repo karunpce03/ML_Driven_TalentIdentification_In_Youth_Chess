@@ -1,0 +1,23 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88183122,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,1.5,5,0.0,1313,,"Monodeep, Dhar",,1527.0,False,IND,0.0,1,0.0,,0.0
+88183122,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,1.5,5,0.0,1313,,"Genessa, Deysarkar",,1460.0,False,IND,0.5,1,0.0,,0.0
+88183122,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,1.5,5,0.0,1313,,"Chaitanaya, Siotia",,1472.0,False,IND,0.0,1,0.0,,0.0
+88183122,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,1.5,5,0.0,1313,,"Sayan, Roy",,1428.0,False,IND,0.5,1,0.0,,0.0
+88183122,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,1.5,5,0.0,1313,,"Pratyush, Pathak",,1422.0,False,IND,0.5,1,0.0,,0.0
+88183122,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,4.5,8,0.0,1528,,"Gaurab, Gautam Paul",,1471.0,False,IND,0.5,1,0.0,,0.0
+88183122,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,4.5,8,0.0,1528,,"Rulaikham, Handique",,1457.0,False,IND,1.0,1,0.0,,0.0
+88183122,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,4.5,8,0.0,1528,,"Abinash, P Gogoi",,1708.0,False,IND,0.0,1,0.0,,0.0
+88183122,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,4.5,8,0.0,1528,,"Astha, Jita Das",,1466.0,False,IND,0.5,1,0.0,,0.0
+88183122,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,4.5,8,0.0,1528,,"Debabrata, Nath",,1479.0,False,IND,0.5,1,0.0,,0.0
+88183122,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,4.5,8,0.0,1528,,"Dhruba, Jyoti Bharali",,1472.0,False,IND,1.0,1,0.0,,0.0
+88183122,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,4.5,8,0.0,1528,,"Jyotish, Pradhan",,1500.0,False,IND,0.5,1,0.0,,0.0
+88183122,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,,,4.5,8,0.0,1528,,"Mayukh, Martin Konwar",,1509.0,False,IND,0.5,1,0.0,,0.0
+88183122,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1729.0,1510.0,0.5,4,-0.39,40,-15.6,"Priyangshu, Mazumder",,1789.0,False,IND,0.0,1,-0.16,40.0,-6.4
+88183122,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1729.0,1510.0,0.5,4,-0.39,40,-15.6,"Das, Monaj",,1690.0,False,IND,0.0,1,-0.26,40.0,-10.4
+88183122,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1729.0,1510.0,0.5,4,-0.39,40,-15.6,"Anis, Mukhopadhyay",,1756.0,False,IND,0.0,1,-0.19,40.0,-7.6
+88183122,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1729.0,1510.0,0.5,4,-0.39,40,-15.6,"Bit, Irom",,1679.0,False,IND,0.5,1,0.22,40.0,8.8
+88183122,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1642.0,1494.0,2.5,5,0.96,40,38.4,"Krishay, Jain",,1758.0,False,IND,0.0,1,-0.18,40.0,-7.2
+88183122,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1642.0,1494.0,2.5,5,0.96,40,38.4,"Aditya, Baksi",,1638.0,False,IND,0.0,1,-0.31,40.0,-12.4
+88183122,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1642.0,1494.0,2.5,5,0.96,40,38.4,"Abhilekh, Hridoy Gogoi",,1591.0,False,IND,0.5,1,0.13,40.0,5.2
+88183122,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1642.0,1494.0,2.5,5,0.96,40,38.4,"Varuruchi, Shresht",,1576.0,False,ENG,1.0,1,0.61,40.0,24.4
+88183122,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1642.0,1494.0,2.5,5,0.96,40,38.4,"Vikram, Das",,1649.0,False,IND,1.0,1,0.71,40.0,28.4

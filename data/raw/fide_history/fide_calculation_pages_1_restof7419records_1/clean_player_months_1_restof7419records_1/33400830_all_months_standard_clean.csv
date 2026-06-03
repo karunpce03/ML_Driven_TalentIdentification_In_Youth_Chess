@@ -1,0 +1,88 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33400830,2024-05-01,0,2024 April DFW FIDE Royale - Championship,"Irving, TX USA",2024-04-12,2024-04-14,1837,1706,2.5,4,1.16,40,46.4,"Franco, Sigifredo R",,1852.0,False,USA,1.0,1,0.7,40,28.0
+33400830,2024-05-01,0,2024 April DFW FIDE Royale - Championship,"Irving, TX USA",2024-04-12,2024-04-14,1837,1706,2.5,4,1.16,40,46.4,"Winchell, Barrett",,1918.0,False,USA,0.5,1,0.27,40,10.8
+33400830,2024-05-01,0,2024 April DFW FIDE Royale - Championship,"Irving, TX USA",2024-04-12,2024-04-14,1837,1706,2.5,4,1.16,40,46.4,"Fang, Elbert",,1966.0,False,USA,0.0,1,-0.18,40,-7.2
+33400830,2024-05-01,0,2024 April DFW FIDE Royale - Championship,"Irving, TX USA",2024-04-12,2024-04-14,1837,1706,2.5,4,1.16,40,46.4,"Ganesan, Vikash",,1612.0,False,USA,1.0,1,0.37,40,14.8
+33400830,2024-06-01,0,Luis Salinas Memorial 79th Annual Texas State Amateur Championship,"Fort Worth, Texas USA",2024-05-24,2024-05-27,1706,1752,3.0,5,0.18,40,7.2,"Cullen, Dean",,1653.0,False,USA,1.0,1,0.36,40,14.4
+33400830,2024-06-01,0,Luis Salinas Memorial 79th Annual Texas State Amateur Championship,"Fort Worth, Texas USA",2024-05-24,2024-05-27,1706,1752,3.0,5,0.18,40,7.2,"Joseph, Julian",,1702.0,False,USA,0.0,1,-0.57,40,-22.8
+33400830,2024-06-01,0,Luis Salinas Memorial 79th Annual Texas State Amateur Championship,"Fort Worth, Texas USA",2024-05-24,2024-05-27,1706,1752,3.0,5,0.18,40,7.2,"Hosur, Sanmita",,1677.0,False,USA,1.0,1,0.4,40,16.0
+33400830,2024-06-01,0,Luis Salinas Memorial 79th Annual Texas State Amateur Championship,"Fort Worth, Texas USA",2024-05-24,2024-05-27,1706,1752,3.0,5,0.18,40,7.2,"Fukuchi, Curtis Ken",,1788.0,False,USA,1.0,1,0.55,40,22.0
+33400830,2024-06-01,0,Luis Salinas Memorial 79th Annual Texas State Amateur Championship,"Fort Worth, Texas USA",2024-05-24,2024-05-27,1706,1752,3.0,5,0.18,40,7.2,"Mididoddi, Yukta Sri",,1712.0,False,USA,0.0,1,-0.56,40,-22.4
+33400830,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1837,1759,4.5,7,1.64,40,65.6,"Mazumdar, Viraj",,1528.0,False,USA,1.0,1,0.21,40,8.4
+33400830,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1837,1759,4.5,7,1.64,40,65.6,"Adams, Shawn",,1811.0,False,USA,1.0,1,0.57,40,22.8
+33400830,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1837,1759,4.5,7,1.64,40,65.6,"Deviprasath, Sharvesh R",f,2159.0,True,USA,0.0,1,-0.08,40,-3.2
+33400830,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1837,1759,4.5,7,1.64,40,65.6,"Nigudkar, Rusheel",,1829.0,False,USA,0.0,1,-0.4,40,-16.0
+33400830,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1837,1759,4.5,7,1.64,40,65.6,"Joseph, Julian",,1727.0,False,USA,1.0,1,0.46,40,18.4
+33400830,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1837,1759,4.5,7,1.64,40,65.6,"Hernandez Virgen, Alfonso",,1938.0,False,MEX,1.0,1,0.73,40,29.2
+33400830,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1837,1759,4.5,7,1.64,40,65.6,"Dasari, Saathvik",,1869.0,False,USA,0.5,1,0.15,40,6.0
+33400830,2024-07-01,0,2024 150K Universal Open - Championship,"North Richland Hills, TX USA",2024-06-20,2024-06-23,2050,1759,2.0,6,1.01,40,40.4,"Posthuma, Joshua",m,2159.0,True,USA,0.0,1,-0.08,40,-3.2
+33400830,2024-07-01,0,2024 150K Universal Open - Championship,"North Richland Hills, TX USA",2024-06-20,2024-06-23,2050,1759,2.0,6,1.01,40,40.4,"Yanayt, Eugene",f,2066.0,False,USA,1.0,1,0.86,40,34.4
+33400830,2024-07-01,0,2024 150K Universal Open - Championship,"North Richland Hills, TX USA",2024-06-20,2024-06-23,2050,1759,2.0,6,1.01,40,40.4,"Jagirapu, Harshin Reddy",,2029.0,False,USA,0.0,1,-0.17,40,-6.8
+33400830,2024-07-01,0,2024 150K Universal Open - Championship,"North Richland Hills, TX USA",2024-06-20,2024-06-23,2050,1759,2.0,6,1.01,40,40.4,"Rambha, Hemachandra",,1987.0,False,USA,0.5,1,0.29,40,11.6
+33400830,2024-07-01,0,2024 150K Universal Open - Championship,"North Richland Hills, TX USA",2024-06-20,2024-06-23,2050,1759,2.0,6,1.01,40,40.4,"Avendano, Paul Omar Perez",f,2159.0,True,MEX,0.0,1,-0.08,40,-3.2
+33400830,2024-07-01,0,2024 150K Universal Open - Championship,"North Richland Hills, TX USA",2024-06-20,2024-06-23,2050,1759,2.0,6,1.01,40,40.4,"Luscomb, David",,1899.0,False,USA,0.5,1,0.19,40,7.6
+33400830,2024-08-01,0,7th Annual Queen City of the Prairie Open and Fort Worth Championship,"Fort Worth, TX USA",2024-07-19,2024-07-21,1881,1865,2.0,3,0.55,40,22.0,"Clarke, Daniel J",,1727.0,False,USA,1.0,1,0.31,40,12.4
+33400830,2024-08-01,0,7th Annual Queen City of the Prairie Open and Fort Worth Championship,"Fort Worth, TX USA",2024-07-19,2024-07-21,1881,1865,2.0,3,0.55,40,22.0,"Anandh, Vijay Srinivas",,2073.0,False,USA,1.0,1,0.77,40,30.8
+33400830,2024-08-01,0,7th Annual Queen City of the Prairie Open and Fort Worth Championship,"Fort Worth, TX USA",2024-07-19,2024-07-21,1881,1865,2.0,3,0.55,40,22.0,"Chandran, Harish",,1844.0,False,USA,0.0,1,-0.53,40,-21.2
+33400830,2024-09-01,0,2024 Austin Chess Club Summer Open - Championship,"Austin, TX USA",2024-08-16,2024-08-18,1849,1887,1.5,5,-1.25,40,-50.0,"Anandh, Vijay Srinivas",,1949.0,False,USA,0.5,1,0.09,40,3.6
+33400830,2024-09-01,0,2024 Austin Chess Club Summer Open - Championship,"Austin, TX USA",2024-08-16,2024-08-18,1849,1887,1.5,5,-1.25,40,-50.0,"Qin, Kevin",,1967.0,False,CAN,0.0,1,-0.39,40,-15.6
+33400830,2024-09-01,0,2024 Austin Chess Club Summer Open - Championship,"Austin, TX USA",2024-08-16,2024-08-18,1849,1887,1.5,5,-1.25,40,-50.0,"Zhang, Oscar Yihang",,1759.0,False,USA,0.0,1,-0.67,40,-26.8
+33400830,2024-09-01,0,2024 Austin Chess Club Summer Open - Championship,"Austin, TX USA",2024-08-16,2024-08-18,1849,1887,1.5,5,-1.25,40,-50.0,"Manchanda, Advik",,1767.0,False,USA,0.0,1,-0.66,40,-26.4
+33400830,2024-09-01,0,2024 Austin Chess Club Summer Open - Championship,"Austin, TX USA",2024-08-16,2024-08-18,1849,1887,1.5,5,-1.25,40,-50.0,"Binder, Joseph",,1802.0,False,USA,1.0,1,0.38,40,15.2
+33400830,2024-10-01,0,90th Annual Southwest Open,"Houston, TX USA",2024-08-29,2024-09-02,2061,1887,4.5,9,1.9,40,76.0,"Beukes, Dante Matthew",m,2235.0,False,NAM,0.5,1,0.39,40,15.6
+33400830,2024-10-01,0,90th Annual Southwest Open,"Houston, TX USA",2024-08-29,2024-09-02,2061,1887,4.5,9,1.9,40,76.0,"Munkhzul, Davaakhuu",wm,2163.0,False,MGL,0.0,1,-0.17,40,-6.8
+33400830,2024-10-01,0,90th Annual Southwest Open,"Houston, TX USA",2024-08-29,2024-09-02,2061,1887,4.5,9,1.9,40,76.0,"Hendrick, John Kristan",,1965.0,False,USA,0.5,1,0.11,40,4.4
+33400830,2024-10-01,0,90th Annual Southwest Open,"Houston, TX USA",2024-08-29,2024-09-02,2061,1887,4.5,9,1.9,40,76.0,"Land, Chris K",f,2090.0,False,USA,1.0,1,0.76,40,30.4
+33400830,2024-10-01,0,90th Annual Southwest Open,"Houston, TX USA",2024-08-29,2024-09-02,2061,1887,4.5,9,1.9,40,76.0,"Qin, Kevin",,1967.0,False,CAN,0.5,1,0.11,40,4.4
+33400830,2024-10-01,0,90th Annual Southwest Open,"Houston, TX USA",2024-08-29,2024-09-02,2061,1887,4.5,9,1.9,40,76.0,"Hiwale, Ronak",,2031.0,False,USA,0.0,1,-0.31,40,-12.4
+33400830,2024-10-01,0,90th Annual Southwest Open,"Houston, TX USA",2024-08-29,2024-09-02,2061,1887,4.5,9,1.9,40,76.0,"Elliott, Alexander Mclaughlin",,1914.0,False,USA,1.0,1,0.54,40,21.6
+33400830,2024-10-01,0,90th Annual Southwest Open,"Houston, TX USA",2024-08-29,2024-09-02,2061,1887,4.5,9,1.9,40,76.0,"Dejmek, Mark W",,1952.0,False,USA,1.0,1,0.59,40,23.6
+33400830,2024-10-01,0,90th Annual Southwest Open,"Houston, TX USA",2024-08-29,2024-09-02,2061,1887,4.5,9,1.9,40,76.0,"Amburgy, Ryan",f,2230.0,False,USA,0.0,1,-0.12,40,-4.8
+33400830,2024-11-01,0,18th Annual SPICE Cup Open,"Chesterfield, MO USA",2024-10-13,2024-10-18,2086,1913,3.5,9,0.94,40,37.6,"Torres, Luis Carlos, Jr",m,2247.0,False,MEX,0.0,1,-0.12,40,-4.8
+33400830,2024-11-01,0,18th Annual SPICE Cup Open,"Chesterfield, MO USA",2024-10-13,2024-10-18,2086,1913,3.5,9,0.94,40,37.6,"Fang, Elbert",,2130.0,False,USA,0.5,1,0.28,40,11.2
+33400830,2024-11-01,0,18th Annual SPICE Cup Open,"Chesterfield, MO USA",2024-10-13,2024-10-18,2086,1913,3.5,9,0.94,40,37.6,"Wan, Joseph Cheng-Yue",c,2184.0,False,USA,0.0,1,-0.17,40,-6.8
+33400830,2024-11-01,0,18th Annual SPICE Cup Open,"Chesterfield, MO USA",2024-10-13,2024-10-18,2086,1913,3.5,9,0.94,40,37.6,"Wilber, Matthew",,2081.0,False,USA,1.0,1,0.72,40,28.8
+33400830,2024-11-01,0,18th Annual SPICE Cup Open,"Chesterfield, MO USA",2024-10-13,2024-10-18,2086,1913,3.5,9,0.94,40,37.6,"Yanayt, Eugene",f,2117.0,False,USA,0.0,1,-0.24,40,-9.6
+33400830,2024-11-01,0,18th Annual SPICE Cup Open,"Chesterfield, MO USA",2024-10-13,2024-10-18,2086,1913,3.5,9,0.94,40,37.6,"Abraham, John",,2001.0,False,USA,0.0,1,-0.38,40,-15.2
+33400830,2024-11-01,0,18th Annual SPICE Cup Open,"Chesterfield, MO USA",2024-10-13,2024-10-18,2086,1913,3.5,9,0.94,40,37.6,"Feller, Gabriela Luisa Vicente",,1861.0,False,BRA,1.0,1,0.43,40,17.2
+33400830,2024-11-01,0,18th Annual SPICE Cup Open,"Chesterfield, MO USA",2024-10-13,2024-10-18,2086,1913,3.5,9,0.94,40,37.6,"Zhang, Alex",,2101.0,False,USA,0.5,1,0.24,40,9.6
+33400830,2024-11-01,0,18th Annual SPICE Cup Open,"Chesterfield, MO USA",2024-10-13,2024-10-18,2086,1913,3.5,9,0.94,40,37.6,"Shangin, Lev",,2048.0,False,USA,0.5,1,0.18,40,7.2
+33400830,2024-12-01,0,2024 Houston Open - Open,"Houston, TX USA",2024-11-08,2024-11-10,1893,1951,3.0,4,0.68,40,27.2,"Shen, Yangyang",,1778.0,False,USA,1.0,1,0.27,40,10.8
+33400830,2024-12-01,0,2024 Houston Open - Open,"Houston, TX USA",2024-11-08,2024-11-10,1893,1951,3.0,4,0.68,40,27.2,"Bayyarapu, Mohit Sreejan",,1830.0,False,USA,0.5,1,-0.16,40,-6.4
+33400830,2024-12-01,0,2024 Houston Open - Open,"Houston, TX USA",2024-11-08,2024-11-10,1893,1951,3.0,4,0.68,40,27.2,"Li, Sophie",wc,1798.0,False,USA,1.0,1,0.3,40,12.0
+33400830,2024-12-01,0,2024 Houston Open - Open,"Houston, TX USA",2024-11-08,2024-11-10,1893,1951,3.0,4,0.68,40,27.2,"De La Colina, Nicolas Alejandro",,2164.0,False,USA,0.5,1,0.27,40,10.8
+33400830,2024-12-01,0,2024 Texas Winter FIDE - Championship,"Irving, TX USA",2024-11-15,2024-11-17,1697,1951,3.5,5,-0.48,40,-19.2,"Vadher, Devaj Mayank",,1681.0,False,USA,1.0,1,0.17,40,6.8
+33400830,2024-12-01,0,2024 Texas Winter FIDE - Championship,"Irving, TX USA",2024-11-15,2024-11-17,1697,1951,3.5,5,-0.48,40,-19.2,"Shankar, Aashritha Vidhya",,1551.0,True,USA,0.0,1,-0.92,40,-36.8
+33400830,2024-12-01,0,2024 Texas Winter FIDE - Championship,"Irving, TX USA",2024-11-15,2024-11-17,1697,1951,3.5,5,-0.48,40,-19.2,"Bupeshnath, Arjun",,1789.0,False,USA,1.0,1,0.29,40,11.6
+33400830,2024-12-01,0,2024 Texas Winter FIDE - Championship,"Irving, TX USA",2024-11-15,2024-11-17,1697,1951,3.5,5,-0.48,40,-19.2,"Zhou, Huanzhi",,1838.0,False,USA,1.0,1,0.35,40,14.0
+33400830,2024-12-01,0,2024 Texas Winter FIDE - Championship,"Irving, TX USA",2024-11-15,2024-11-17,1697,1951,3.5,5,-0.48,40,-19.2,"Bee, Karstein",,1627.0,False,USA,0.5,1,-0.37,40,-14.8
+33400830,2025-01-01,0,4th Annual Forester Open,"Coppell, TX USA",2024-11-29,2024-12-01,1867,1951,4.0,6,0.26,40,10.4,"Yao, Annie",,1682.0,False,USA,1.0,1,0.17,40,6.8
+33400830,2025-01-01,0,4th Annual Forester Open,"Coppell, TX USA",2024-11-29,2024-12-01,1867,1951,4.0,6,0.26,40,10.4,"Krishnan, Anish",,1737.0,False,USA,1.0,1,0.23,40,9.2
+33400830,2025-01-01,0,4th Annual Forester Open,"Coppell, TX USA",2024-11-29,2024-12-01,1867,1951,4.0,6,0.26,40,10.4,"Zhang, Ellery",,1734.0,False,USA,0.5,1,-0.28,40,-11.2
+33400830,2025-01-01,0,4th Annual Forester Open,"Coppell, TX USA",2024-11-29,2024-12-01,1867,1951,4.0,6,0.26,40,10.4,"Potluri, Supreetha",wf,1838.0,False,IND,0.5,1,-0.15,40,-6.0
+33400830,2025-01-01,0,4th Annual Forester Open,"Coppell, TX USA",2024-11-29,2024-12-01,1867,1951,4.0,6,0.26,40,10.4,"Gu, Samuel",,1858.0,False,USA,1.0,1,0.37,40,14.8
+33400830,2025-01-01,0,4th Annual Forester Open,"Coppell, TX USA",2024-11-29,2024-12-01,1867,1951,4.0,6,0.26,40,10.4,"Raja, Harshit",g,2351.0,True,IND,0.0,1,-0.08,40,-3.2
+33400830,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1908,1959,3.5,6,0.12,40,4.8,"Wu, Zekai Bryson",,1654.0,False,USA,1.0,1,0.14,40,5.6
+33400830,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1908,1959,3.5,6,0.12,40,4.8,"Beegala, Keshav",,1759.0,False,USA,1.0,1,0.24,40,9.6
+33400830,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1908,1959,3.5,6,0.12,40,4.8,"Guo, Felix",,1991.0,False,USA,0.0,1,-0.46,40,-18.4
+33400830,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1908,1959,3.5,6,0.12,40,4.8,"Wang, Ted",,2004.0,False,USA,0.0,1,-0.44,40,-17.6
+33400830,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1908,1959,3.5,6,0.12,40,4.8,"Sarangi, Shreyan",,1839.0,False,USA,1.0,1,0.34,40,13.6
+33400830,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1908,1959,3.5,6,0.12,40,4.8,"Estrada, Julian",m,2199.0,False,MEX,0.5,1,0.3,40,12.0
+33400830,2025-02-01,0,2025 Austin Winter Open - Championship,"Austin, TX USA",2025-01-03,2025-01-05,2020,1969,2.0,4,0.16,40,6.4,"Santhosh, Pranav",,1804.0,False,USA,1.0,1,0.28,40,11.2
+33400830,2025-02-01,0,2025 Austin Winter Open - Championship,"Austin, TX USA",2025-01-03,2025-01-05,2020,1969,2.0,4,0.16,40,6.4,"Mista, Aleksander",g,2369.0,True,POL,0.0,1,-0.08,40,-3.2
+33400830,2025-02-01,0,2025 Austin Winter Open - Championship,"Austin, TX USA",2025-01-03,2025-01-05,2020,1969,2.0,4,0.16,40,6.4,"Roy, Aanya",,1762.0,False,USA,1.0,1,0.23,40,9.2
+33400830,2025-02-01,0,2025 Austin Winter Open - Championship,"Austin, TX USA",2025-01-03,2025-01-05,2020,1969,2.0,4,0.16,40,6.4,"Li, Rachael",wf,2145.0,False,USA,0.0,1,-0.27,40,-10.8
+33400830,2025-03-01,0,16th annual Southwest Class Championships - Master,"Irving, TX USA",2025-02-13,2025-02-17,2126,1980,3.5,9,0.64,40,25.6,"Andersen, Gunnar",,2290.0,False,USA,0.5,1,0.36,40,14.4
+33400830,2025-03-01,0,16th annual Southwest Class Championships - Master,"Irving, TX USA",2025-02-13,2025-02-17,2126,1980,3.5,9,0.64,40,25.6,"Shafer, Logan C",c,2162.0,False,USA,0.5,1,0.24,40,9.6
+33400830,2025-03-01,0,16th annual Southwest Class Championships - Master,"Irving, TX USA",2025-02-13,2025-02-17,2126,1980,3.5,9,0.64,40,25.6,"Matta, Nicholas F",f,2275.0,False,USA,0.5,1,0.35,40,14.0
+33400830,2025-03-01,0,16th annual Southwest Class Championships - Master,"Irving, TX USA",2025-02-13,2025-02-17,2126,1980,3.5,9,0.64,40,25.6,"Beukes, Dante M",m,2225.0,False,NAM,0.0,1,-0.2,40,-8.0
+33400830,2025-03-01,0,16th annual Southwest Class Championships - Master,"Irving, TX USA",2025-02-13,2025-02-17,2126,1980,3.5,9,0.64,40,25.6,"Gaw, Chloe",wm,2052.0,False,USA,0.0,1,-0.4,40,-16.0
+33400830,2025-03-01,0,16th annual Southwest Class Championships - Master,"Irving, TX USA",2025-02-13,2025-02-17,2126,1980,3.5,9,0.64,40,25.6,"Bhatta, Rohit",,2033.0,False,USA,0.5,1,0.07,40,2.8
+33400830,2025-03-01,0,16th annual Southwest Class Championships - Master,"Irving, TX USA",2025-02-13,2025-02-17,2126,1980,3.5,9,0.64,40,25.6,"Hoang, Truman",,2035.0,False,USA,0.0,1,-0.42,40,-16.8
+33400830,2025-03-01,0,16th annual Southwest Class Championships - Master,"Irving, TX USA",2025-02-13,2025-02-17,2126,1980,3.5,9,0.64,40,25.6,"McConnell, Griffin Thomas",,2023.0,False,USA,1.0,1,0.56,40,22.4
+33400830,2025-03-01,0,16th annual Southwest Class Championships - Master,"Irving, TX USA",2025-02-13,2025-02-17,2126,1980,3.5,9,0.64,40,25.6,"Anatol, Luke Leon Robin",,2036.0,False,USA,0.5,1,0.08,40,3.2
+33400830,2025-04-01,0,2025 AGCA Championship - Spring Edition,"Austin, TX USA",2025-03-21,2025-03-23,1904,2006,3.5,5,0.35,40,14.0,"Zhang, Ellery",,1824.0,False,USA,0.0,1,-0.74,40,-29.6
+33400830,2025-04-01,0,2025 AGCA Championship - Spring Edition,"Austin, TX USA",2025-03-21,2025-03-23,1904,2006,3.5,5,0.35,40,14.0,"Seelam, Tanish",,1708.0,False,USA,1.0,1,0.15,40,6.0
+33400830,2025-04-01,0,2025 AGCA Championship - Spring Edition,"Austin, TX USA",2025-03-21,2025-03-23,1904,2006,3.5,5,0.35,40,14.0,"Dotson, John B",,1851.0,False,USA,1.0,1,0.29,40,11.6
+33400830,2025-04-01,0,2025 AGCA Championship - Spring Edition,"Austin, TX USA",2025-03-21,2025-03-23,1904,2006,3.5,5,0.35,40,14.0,"Burd, Leonid",,1909.0,False,USA,1.0,1,0.37,40,14.8
+33400830,2025-04-01,0,2025 AGCA Championship - Spring Edition,"Austin, TX USA",2025-03-21,2025-03-23,1904,2006,3.5,5,0.35,40,14.0,"Li, Rachael",wf,2227.0,False,USA,0.5,1,0.28,40,11.2

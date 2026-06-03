@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45069310,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1748,1653,1.5,9,-1.99,40,-79.6,"Khairmode, Dhanashree",,1929,False,IND,0.0,1,-0.17,40,-6.8
+45069310,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1748,1653,1.5,9,-1.99,40,-79.6,"Shanmathi, Sree S",,1854,False,IND,0.0,1,-0.24,40,-9.6
+45069310,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1748,1653,1.5,9,-1.99,40,-79.6,"Brito Carrascal, Isabela",,1810,False,COL,0.0,1,-0.29,40,-11.6
+45069310,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1748,1653,1.5,9,-1.99,40,-79.6,"Kirtadze, Anastasia",wf,2053,True,GEO,0.0,1,-0.08,40,-3.2
+45069310,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1748,1653,1.5,9,-1.99,40,-79.6,"Radhika, Sharma",,1651,False,IND,0.0,1,-0.5,40,-20.0
+45069310,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1748,1653,1.5,9,-1.99,40,-79.6,"Banker, Reya",,1421,False,IND,0.0,1,-0.79,40,-31.6
+45069310,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1748,1653,1.5,9,-1.99,40,-79.6,"Prasiddhi, Bhat",,1709,False,IND,0.0,1,-0.42,40,-16.8
+45069310,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1748,1653,1.5,9,-1.99,40,-79.6,"Aashi, Upadhyay",,1653,False,IND,0.5,1,0.0,40,0.0
+45069310,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1748,1653,1.5,9,-1.99,40,-79.6,"Mishra, Riya",,1654,False,IND,1.0,1,0.5,40,20.0

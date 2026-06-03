@@ -1,0 +1,65 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33312982,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1806,1780,6.5,9,2.25,40,90.0,"Prasada Rao, Ponnapalli",,1507.0,False,IND,1.0,1,0.17,40,6.8
+33312982,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1806,1780,6.5,9,2.25,40,90.0,"Aarav, Kumar",,1626.0,False,IND,1.0,1,0.29,40,11.6
+33312982,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1806,1780,6.5,9,2.25,40,90.0,"Vageesh, Swaminathan",,1617.0,False,IND,1.0,1,0.28,40,11.2
+33312982,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1806,1780,6.5,9,2.25,40,90.0,"Kishan, Kumar",,1867.0,False,IND,1.0,1,0.62,40,24.8
+33312982,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1806,1780,6.5,9,2.25,40,90.0,"Narayan, Iyengar",,1845.0,False,IND,1.0,1,0.59,40,23.6
+33312982,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1806,1780,6.5,9,2.25,40,90.0,"Anadkat, Kartavya",,2164.0,False,IND,0.0,1,-0.09,40,-3.6
+33312982,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1806,1780,6.5,9,2.25,40,90.0,"Choudhary, Jitendra Kumar",,1855.0,False,IND,1.0,1,0.6,40,24.0
+33312982,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1806,1780,6.5,9,2.25,40,90.0,"Dubey, Sanchay",,1878.0,False,IND,0.0,1,-0.37,40,-14.8
+33312982,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1806,1780,6.5,9,2.25,40,90.0,"Bivor, Adak",,1899.0,False,IND,0.5,1,0.16,40,6.4
+33312982,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1724,1870,6.5,11,-1.11,40,-44.4,"Eshit, Bansal",,1581.0,False,IND,1.0,1,0.16,40,6.4
+33312982,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1724,1870,6.5,11,-1.11,40,-44.4,"Raj, Kapoor",,1745.0,False,IND,1.0,1,0.33,40,13.2
+33312982,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1724,1870,6.5,11,-1.11,40,-44.4,"Shubh, Kapur",,1755.0,False,IND,0.0,1,-0.66,40,-26.4
+33312982,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1724,1870,6.5,11,-1.11,40,-44.4,"Rishabh, Pradhan",,1730.0,False,IND,1.0,1,0.31,40,12.4
+33312982,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1724,1870,6.5,11,-1.11,40,-44.4,"Monil, Maroo",,1729.0,False,IND,0.5,1,-0.19,40,-7.6
+33312982,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1724,1870,6.5,11,-1.11,40,-44.4,"Shreyas, Raj",,1793.0,False,IND,0.0,1,-0.61,40,-24.4
+33312982,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1724,1870,6.5,11,-1.11,40,-44.4,"Kirpesh, I",,1717.0,False,IND,0.0,1,-0.7,40,-28.0
+33312982,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1724,1870,6.5,11,-1.11,40,-44.4,Abeer,,1656.0,False,IND,1.0,1,0.23,40,9.2
+33312982,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1724,1870,6.5,11,-1.11,40,-44.4,"Arhan, Jain",,1740.0,False,IND,0.5,1,-0.18,40,-7.2
+33312982,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1724,1870,6.5,11,-1.11,40,-44.4,"Medhvansh, Madeti",,1763.0,False,IND,0.5,1,-0.15,40,-6.0
+33312982,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1724,1870,6.5,11,-1.11,40,-44.4,"Nithik, Reddy Bhavanam",,1758.0,False,IND,1.0,1,0.35,40,14.0
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Prem, Kumar",,1426.0,True,IND,1.0,1,0.08,40,3.2
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Prakash, Ram",f,1998.0,False,IND,1.0,1,0.73,40,29.2
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Ravi, Teja S.",m,2226.0,True,IND,0.0,1,-0.08,40,-3.2
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Sharsha, Backer",,1981.0,False,IND,0.0,1,-0.29,40,-11.6
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Todwal, Sudeep",,1704.0,False,IND,0.0,1,-0.67,40,-26.8
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Paarshva, Parmar",,1692.0,False,IND,1.0,1,0.32,40,12.8
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Narayan, Joshi",,1746.0,False,IND,0.5,1,-0.11,40,-4.4
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Kolla, Bhaavan",,2050.0,False,IND,1.0,1,0.78,40,31.2
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Kheerthi, Ganta",wf,1982.0,False,IND,0.0,1,-0.29,40,-11.6
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Sambhav, Setiya",,1691.0,False,IND,0.5,1,-0.18,40,-7.2
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Bhargava, Susanth Saketh M",,1647.0,False,IND,0.5,1,-0.23,40,-9.2
+33312982,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1700,1828,6.0,9,0.11,40,4.4,"Devkrishan, Panwar",,1428.0,True,IND,1.0,1,0.08,40,3.2
+33312982,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1700,1828,6.0,9,0.11,40,4.4,Rajat,,1589.0,False,IND,0.5,1,-0.3,40,-12.0
+33312982,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1700,1828,6.0,9,0.11,40,4.4,"Yati, Agarwal",,1561.0,False,IND,1.0,1,0.18,40,7.2
+33312982,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1700,1828,6.0,9,0.11,40,4.4,"Ronak, Jayesh Kumar Shah",,1557.0,False,IND,0.5,1,-0.33,40,-13.2
+33312982,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1700,1828,6.0,9,0.11,40,4.4,"Kumbhar, Kartik",,1680.0,False,IND,1.0,1,0.3,40,12.0
+33312982,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1700,1828,6.0,9,0.11,40,4.4,"Saxena, Arpit",,1707.0,False,IND,1.0,1,0.34,40,13.6
+33312982,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1700,1828,6.0,9,0.11,40,4.4,"Pratitee, Bordoloi",wc,1948.0,False,IND,0.5,1,0.16,40,6.4
+33312982,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1700,1828,6.0,9,0.11,40,4.4,"Majumder, Shrayan",,2135.0,False,IND,0.0,1,-0.14,40,-5.6
+33312982,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1700,1828,6.0,9,0.11,40,4.4,"Manish, Kumar",,1693.0,False,IND,0.5,1,-0.18,40,-7.2
+33312982,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1781,1832,6.5,8,2.03,40,81.2,"Dinesh, Reddy Konda",,1523.0,False,IND,1.0,1,0.14,40,5.6
+33312982,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1781,1832,6.5,8,2.03,40,81.2,"Jeswin, Jayakumar",,1638.0,False,IND,1.0,1,0.25,40,10.0
+33312982,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1781,1832,6.5,8,2.03,40,81.2,"Velugoti, Yathin Reddy",,1697.0,False,IND,1.0,1,0.32,40,12.8
+33312982,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1781,1832,6.5,8,2.03,40,81.2,"Shashveen, A K",,1943.0,False,IND,0.5,1,0.15,40,6.0
+33312982,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1781,1832,6.5,8,2.03,40,81.2,"Shreyas, Mishra",,1803.0,False,IND,1.0,1,0.46,40,18.4
+33312982,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1781,1832,6.5,8,2.03,40,81.2,"Samuel, Stephen Noble S",,1930.0,False,IND,0.5,1,0.13,40,5.2
+33312982,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1781,1832,6.5,8,2.03,40,81.2,"Daniel, Ajish",,1829.0,False,IND,1.0,1,0.5,40,20.0
+33312982,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1781,1832,6.5,8,2.03,40,81.2,"Andalamala, Hemal Varshan",,1888.0,False,IND,0.5,1,0.08,40,3.2
+33312982,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2038,1913,3.0,7,0.53,40,21.2,"Nitin, S.",m,2313.0,True,IND,1.0,1,0.92,40,36.8
+33312982,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2038,1913,3.0,7,0.53,40,21.2,"Sharnarthi, Viresh",,2198.0,False,IND,0.0,1,-0.16,40,-6.4
+33312982,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2038,1913,3.0,7,0.53,40,21.2,"Aarit, Kapil",c,2079.0,False,IND,0.5,1,0.22,40,8.8
+33312982,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2038,1913,3.0,7,0.53,40,21.2,"Koustuv, Dash",,2094.0,False,IND,0.0,1,-0.26,40,-10.4
+33312982,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2038,1913,3.0,7,0.53,40,21.2,"Mahir, Taneja",,1910.0,False,IND,0.0,1,-0.5,40,-20.0
+33312982,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2038,1913,3.0,7,0.53,40,21.2,"Babula, Bhoi",,1703.0,False,IND,1.0,1,0.23,40,9.2
+33312982,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2038,1913,3.0,7,0.53,40,21.2,"Hiren, K G",,1969.0,False,IND,0.5,1,0.08,40,3.2
+33312982,2025-04-01,0,FIDE World School Chess Championships 2025 - O13,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1822,1913,6.0,9,0.47,40,18.8,"Zhuravlev, Andrei",,1513.0,True,WLS,1.0,1,0.08,40,3.2
+33312982,2025-04-01,0,FIDE World School Chess Championships 2025 - O13,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1822,1913,6.0,9,0.47,40,18.8,"Sukhanov, Nikita",,1763.0,False,KAZ,0.0,1,-0.7,40,-28.0
+33312982,2025-04-01,0,FIDE World School Chess Championships 2025 - O13,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1822,1913,6.0,9,0.47,40,18.8,"Kanacki, Aljosa",,1651.0,False,SRB,1.0,1,0.18,40,7.2
+33312982,2025-04-01,0,FIDE World School Chess Championships 2025 - O13,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1822,1913,6.0,9,0.47,40,18.8,"Rana, Oliver",,1808.0,False,USA,1.0,1,0.36,40,14.4
+33312982,2025-04-01,0,FIDE World School Chess Championships 2025 - O13,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1822,1913,6.0,9,0.47,40,18.8,"Eshwar, Veerappan Aiyappan",,1767.0,False,IND,1.0,1,0.3,40,12.0
+33312982,2025-04-01,0,FIDE World School Chess Championships 2025 - O13,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1822,1913,6.0,9,0.47,40,18.8,"Jayasooriya, Ruvin Sandharu",,1836.0,False,SRI,1.0,1,0.39,40,15.6
+33312982,2025-04-01,0,FIDE World School Chess Championships 2025 - O13,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1822,1913,6.0,9,0.47,40,18.8,"Yurasov, Matfey",c,2271.0,False,FID,0.0,1,-0.1,40,-4.0
+33312982,2025-04-01,0,FIDE World School Chess Championships 2025 - O13,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1822,1913,6.0,9,0.47,40,18.8,"Yang, Maxwell",c,1970.0,False,USA,0.5,1,0.08,40,3.2
+33312982,2025-04-01,0,FIDE World School Chess Championships 2025 - O13,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1822,1913,6.0,9,0.47,40,18.8,"Ilcic, Aleksa",,1822.0,False,SRB,0.5,1,-0.12,40,-4.8

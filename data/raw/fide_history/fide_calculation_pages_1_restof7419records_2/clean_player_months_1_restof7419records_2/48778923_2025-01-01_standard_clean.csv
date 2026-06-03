@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48778923,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1567,1642,0.5,4,-1.91,40,-76.4,"Al Saidi, Mohammed Khalfan",,1875.0,False,OMA,0.0,1,-0.21,40,-8.4
+48778923,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1567,1642,0.5,4,-1.91,40,-76.4,"Marksim Karki Abirami, Sriiyuktha",,1466.0,False,IND,0.0,1,-0.73,40,-29.2
+48778923,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1567,1642,0.5,4,-1.91,40,-76.4,"Stuthi, Nayak",,1450.0,False,IND,0.5,1,-0.25,40,-10.0
+48778923,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1567,1642,0.5,4,-1.91,40,-76.4,"Muhammad, Zaahir Naduvilaparambil",,1477.0,False,IND,0.0,1,-0.72,40,-28.8

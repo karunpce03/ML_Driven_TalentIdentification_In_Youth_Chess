@@ -1,0 +1,81 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33354650,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,1897,1798,5.5,9,1.96,38,74.48,"Abu Sufian, Shakil",m,2198.0,True,BAN,0.0,1,-0.08,38,-3.04
+33354650,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,1897,1798,5.5,9,1.96,38,74.48,"Mithun, Pranav",,1567.0,False,IND,1.0,1,0.21,38,7.98
+33354650,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,1897,1798,5.5,9,1.96,38,74.48,"Wongsawan, Thoetsak",,1898.0,False,THA,0.0,1,-0.36,38,-13.68
+33354650,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,1897,1798,5.5,9,1.96,38,74.48,"Pinphetsawan, Sirikwan",,1650.0,False,THA,1.0,1,0.3,38,11.4
+33354650,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,1897,1798,5.5,9,1.96,38,74.48,"Majumder, Shrayan",,2072.0,False,IND,0.0,1,-0.17,38,-6.46
+33354650,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,1897,1798,5.5,9,1.96,38,74.48,"Krishtopov, Konstantin",,1734.0,False,FID,0.5,1,-0.09,38,-3.42
+33354650,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,1897,1798,5.5,9,1.96,38,74.48,"Frost, Peter",,1785.0,False,AUS,1.0,1,0.48,38,18.24
+33354650,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,1897,1798,5.5,9,1.96,38,74.48,"Rahman, Md. Taibur",f,2166.0,False,BAN,1.0,1,0.9,38,34.2
+33354650,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Open 2024,Nakhon Nayok THA,2024-04-05,2024-04-09,1897,1798,5.5,9,1.96,38,74.48,"Wiwatanadate, Poompong",f,2006.0,False,THA,1.0,1,0.77,38,29.26
+33354650,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1970,1798,4.0,9,1.47,38,55.86,"Tobing, Daniel Hermawan Lumban",f,2098.0,False,INA,0.0,1,-0.15,38,-5.7
+33354650,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1970,1798,4.0,9,1.47,38,55.86,"Lukina, Aleksandra",wf,1939.0,False,FID,0.0,1,-0.31,38,-11.78
+33354650,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1970,1798,4.0,9,1.47,38,55.86,"Tashriq Saihan, Shan",,1926.0,False,BAN,1.0,1,0.67,38,25.46
+33354650,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1970,1798,4.0,9,1.47,38,55.86,"Rajesh, Vasanthakumar",,1908.0,False,IND,0.5,1,0.15,38,5.7
+33354650,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1970,1798,4.0,9,1.47,38,55.86,"Andes, Franklin Loyd",,1926.0,False,PHI,0.0,1,-0.33,38,-12.54
+33354650,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1970,1798,4.0,9,1.47,38,55.86,"Davis, Tony J",c,1900.0,False,AUS,1.0,1,0.64,38,24.32
+33354650,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1970,1798,4.0,9,1.47,38,55.86,"Siddharth, Gopakumar",,1956.0,False,ENG,1.0,1,0.71,38,26.98
+33354650,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1970,1798,4.0,9,1.47,38,55.86,"Aarav, Sarbalia",,2072.0,False,IND,0.5,1,0.33,38,12.54
+33354650,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1970,1798,4.0,9,1.47,38,55.86,"Swarna, Nihal",,2003.0,False,IND,0.0,1,-0.24,38,-9.12
+33354650,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1679,1928,6.5,8,0.12,40,4.8,"Nithilan, Bhagav",,1528.0,True,IND,1.0,1,0.08,40,3.2
+33354650,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1679,1928,6.5,8,0.12,40,4.8,"Sriram, Poola",,1604.0,False,IND,1.0,1,0.13,40,5.2
+33354650,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1679,1928,6.5,8,0.12,40,4.8,"Shravan, Sriram",,1639.0,False,IND,1.0,1,0.16,40,6.4
+33354650,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1679,1928,6.5,8,0.12,40,4.8,"Goutham, Ramesh",,1779.0,False,IND,1.0,1,0.3,40,12.0
+33354650,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1679,1928,6.5,8,0.12,40,4.8,"Mahish, S A",,1806.0,False,IND,0.5,1,-0.17,40,-6.8
+33354650,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1679,1928,6.5,8,0.12,40,4.8,"Mridav, M",,1773.0,False,IND,0.0,1,-0.71,40,-28.4
+33354650,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1679,1928,6.5,8,0.12,40,4.8,"Arjun, Adithiya K",,1643.0,False,IND,1.0,1,0.16,40,6.4
+33354650,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1679,1928,6.5,8,0.12,40,4.8,"Sai, Abhinav Kuchibhotla",,1660.0,False,IND,1.0,1,0.17,40,6.8
+33354650,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1749,1933,6.5,9,-0.02,38,-0.76,"Ishaan, Kandi",,1533.0,True,IND,1.0,1,0.08,38,3.04
+33354650,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1749,1933,6.5,9,-0.02,38,-0.76,"Kartikeya, Chunchu",,1647.0,False,IND,1.0,1,0.16,38,6.08
+33354650,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1749,1933,6.5,9,-0.02,38,-0.76,"Sai, Abhinav Kuchibhotla",,1753.0,False,IND,0.5,1,-0.24,38,-9.12
+33354650,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1749,1933,6.5,9,-0.02,38,-0.76,"Raman, Siddhardh B",,1742.0,False,IND,1.0,1,0.25,38,9.5
+33354650,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1749,1933,6.5,9,-0.02,38,-0.76,"Bharat, Kumar Reddy Poluri",,2163.0,False,IND,0.0,1,-0.21,38,-7.98
+33354650,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1749,1933,6.5,9,-0.02,38,-0.76,"Sundar, Divij P",,1734.0,False,IND,0.5,1,-0.26,38,-9.88
+33354650,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1749,1933,6.5,9,-0.02,38,-0.76,"Krishna, Kumar",,1702.0,False,IND,1.0,1,0.21,38,7.98
+33354650,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1749,1933,6.5,9,-0.02,38,-0.76,"Andabatla, Satvik",,1801.0,False,IND,0.5,1,-0.18,38,-6.84
+33354650,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1749,1933,6.5,9,-0.02,38,-0.76,"Venkata, Naga Karthik Malladi",,1662.0,False,IND,1.0,1,0.17,38,6.46
+33354650,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1717,1933,6.5,9,-0.34,38,-12.92,"Sri, Sai Vedaansh P",,1533.0,True,IND,0.5,1,-0.42,38,-15.96
+33354650,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1717,1933,6.5,9,-0.34,38,-12.92,"Teja, Vajraksh Revu",,1533.0,True,IND,1.0,1,0.08,38,3.04
+33354650,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1717,1933,6.5,9,-0.34,38,-12.92,"Mithilesh, P",,1668.0,False,IND,1.0,1,0.18,38,6.84
+33354650,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1717,1933,6.5,9,-0.34,38,-12.92,"Prajit, Ravishankar",,1786.0,False,IND,1.0,1,0.3,38,11.4
+33354650,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1717,1933,6.5,9,-0.34,38,-12.92,"Pranav, A J",,1782.0,False,IND,0.0,1,-0.7,38,-26.6
+33354650,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1717,1933,6.5,9,-0.34,38,-12.92,"Raman, Siddhardh B",,1742.0,False,IND,1.0,1,0.25,38,9.5
+33354650,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1717,1933,6.5,9,-0.34,38,-12.92,"Oishik, Mondal",,1832.0,False,IND,0.5,1,-0.14,38,-5.32
+33354650,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1717,1933,6.5,9,-0.34,38,-12.92,"Nidhish, Shyamal",,1817.0,False,IND,1.0,1,0.34,38,12.92
+33354650,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1717,1933,6.5,9,-0.34,38,-12.92,"Chukka, Vineel Radha Karthik",,1762.0,False,IND,0.5,1,-0.23,38,-8.74
+33354650,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1945,1919,6.5,11,1.38,40,55.2,"Sanjay, Narayanan P S",,1811.0,False,IND,0.0,1,-0.65,40,-26.0
+33354650,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1945,1919,6.5,11,1.38,40,55.2,"Mrithyunjay, Mahadevan",c,1931.0,False,IND,0.0,1,-0.48,40,-19.2
+33354650,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1945,1919,6.5,11,1.38,40,55.2,"Arul, Anandh S P K",,1903.0,False,IND,1.0,1,0.48,40,19.2
+33354650,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1945,1919,6.5,11,1.38,40,55.2,"Bernula, Istvan",,1951.0,False,HUN,0.5,1,0.04,40,1.6
+33354650,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1945,1919,6.5,11,1.38,40,55.2,"Kahn, Evarth Dr.",m,1989.0,False,HUN,1.0,1,0.6,40,24.0
+33354650,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1945,1919,6.5,11,1.38,40,55.2,"Chong, Kai Ni Agnes",wf,1828.0,False,MAS,1.0,1,0.38,40,15.2
+33354650,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1945,1919,6.5,11,1.38,40,55.2,"Charvi, A",wc,1916.0,False,IND,0.0,1,-0.5,40,-20.0
+33354650,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1945,1919,6.5,11,1.38,40,55.2,"Levay, Sorin",f,2076.0,False,ROU,1.0,1,0.71,40,28.4
+33354650,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1945,1919,6.5,11,1.38,40,55.2,"Nagy, Ervin Dr.",m,2112.0,False,HUN,0.0,1,-0.25,40,-10.0
+33354650,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1945,1919,6.5,11,1.38,40,55.2,"Kozma, Edit",wf,1841.0,False,HUN,1.0,1,0.39,40,15.6
+33354650,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1945,1919,6.5,11,1.38,40,55.2,"Farago, Sandor",m,2038.0,False,HUN,1.0,1,0.66,40,26.4
+33354650,2024-12-01,0,Wellness Chess Tour GP11 Hotel Lautarum,Pecs HUN,2024-11-21,2024-11-24,1942,1919,5.0,6,2.19,40,87.6,"B.garai, Etelka",,1657.0,False,HUN,1.0,1,0.18,40,7.2
+33354650,2024-12-01,0,Wellness Chess Tour GP11 Hotel Lautarum,Pecs HUN,2024-11-21,2024-11-24,1942,1919,5.0,6,2.19,40,87.6,"Halmosi, Thomas",,1676.0,False,HUN,1.0,1,0.2,40,8.0
+33354650,2024-12-01,0,Wellness Chess Tour GP11 Hotel Lautarum,Pecs HUN,2024-11-21,2024-11-24,1942,1919,5.0,6,2.19,40,87.6,"Sztojka, Sandor",,1976.0,False,UKR,1.0,1,0.58,40,23.2
+33354650,2024-12-01,0,Wellness Chess Tour GP11 Hotel Lautarum,Pecs HUN,2024-11-21,2024-11-24,1942,1919,5.0,6,2.19,40,87.6,"Jeszenszky, Jozsef",,2034.0,False,HUN,0.5,1,0.16,40,6.4
+33354650,2024-12-01,0,Wellness Chess Tour GP11 Hotel Lautarum,Pecs HUN,2024-11-21,2024-11-24,1942,1919,5.0,6,2.19,40,87.6,"Tubak, Daniel",,2240.0,False,HUN,0.5,1,0.37,40,14.8
+33354650,2024-12-01,0,Wellness Chess Tour GP11 Hotel Lautarum,Pecs HUN,2024-11-21,2024-11-24,1942,1919,5.0,6,2.19,40,87.6,"Kossela, Peter",,2067.0,False,HUN,1.0,1,0.7,40,28.0
+33354650,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2064,1919,5.0,9,2.22,36,79.92,"Pardo Ruiz, Carlos",,2184.0,False,ESP,0.0,1,-0.18,36,-6.48
+33354650,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2064,1919,5.0,9,2.22,36,79.92,"Nunez Munoz, Jesus",,2060.0,False,ESP,0.5,1,0.19,36,6.84
+33354650,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2064,1919,5.0,9,2.22,36,79.92,"Lacrosse, Marc",f,2057.0,False,BEL,0.5,1,0.19,36,6.84
+33354650,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2064,1919,5.0,9,2.22,36,79.92,"Alonso Valiente, Alexis",,2037.0,False,ESP,0.5,1,0.16,36,5.76
+33354650,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2064,1919,5.0,9,2.22,36,79.92,"Hu, Jiani",wf,2101.0,False,CHN,0.5,1,0.24,36,8.64
+33354650,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2064,1919,5.0,9,2.22,36,79.92,"Iugina, Mariia",wf,2016.0,False,ROU,0.0,1,-0.37,36,-13.32
+33354650,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2064,1919,5.0,9,2.22,36,79.92,"Britton, Richard L",f,2000.0,False,ENG,1.0,1,0.61,36,21.96
+33354650,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2064,1919,5.0,9,2.22,36,79.92,"Ainsa Jimenez, Lucas",,2026.0,False,ESP,1.0,1,0.65,36,23.4
+33354650,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2064,1919,5.0,9,2.22,36,79.92,"Martinez Villena, David",,2096.0,False,ESP,1.0,1,0.73,36,26.28
+33354650,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1707,2062,5.0,10,-3.91,36,-140.76,"Shreesuday, Behera",,1662.0,True,IND,1.0,1,0.08,36,2.88
+33354650,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1707,2062,5.0,10,-3.91,36,-140.76,"Iniyan, L",,1750.0,False,IND,0.5,1,-0.36,36,-12.96
+33354650,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1707,2062,5.0,10,-3.91,36,-140.76,"Shree, Hari Palaniappa S",,1741.0,False,IND,0.0,1,-0.87,36,-31.32
+33354650,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1707,2062,5.0,10,-3.91,36,-140.76,"Arhan, Chatterjee",,1662.0,True,IND,0.0,1,-0.92,36,-33.12
+33354650,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1707,2062,5.0,10,-3.91,36,-140.76,"Atharv, Vohra",,1662.0,True,IND,0.5,1,-0.42,36,-15.12
+33354650,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1707,2062,5.0,10,-3.91,36,-140.76,"Aarav, Kumar",,1662.0,True,IND,1.0,1,0.08,36,2.88
+33354650,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1707,2062,5.0,10,-3.91,36,-140.76,"Shakya, Singha Modak",,1728.0,False,IND,0.5,1,-0.38,36,-13.68
+33354650,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1707,2062,5.0,10,-3.91,36,-140.76,"Sameer, Singh Shergill",,1686.0,False,IND,1.0,1,0.09,36,3.24
+33354650,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1707,2062,5.0,10,-3.91,36,-140.76,"Sreehari, S Mecheril",,1762.0,False,IND,0.5,1,-0.35,36,-12.6
+33354650,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1707,2062,5.0,10,-3.91,36,-140.76,"Narendra, Agarwal",,1755.0,False,IND,0.0,1,-0.86,36,-30.96

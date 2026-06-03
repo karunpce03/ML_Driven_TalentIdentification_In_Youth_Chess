@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25697331,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1950,1819,3.0,8,0.2,40,8.0,"Feher, Botond",,2112.0,False,HUN,0.0,1,-0.15,40,-6.0
+25697331,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1950,1819,3.0,8,0.2,40,8.0,"Teglas, Balazs",,2202.0,False,HUN,0.0,1,-0.09,40,-3.6
+25697331,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1950,1819,3.0,8,0.2,40,8.0,"Lang, Gusztav Jr",,1727.0,False,SWE,0.5,1,-0.13,40,-5.2
+25697331,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1950,1819,3.0,8,0.2,40,8.0,"Siwak, Aleksandra",,1567.0,False,POL,1.0,1,0.19,40,7.6
+25697331,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1950,1819,3.0,8,0.2,40,8.0,"Budai, Akos",,2024.0,False,HUN,0.5,1,0.26,40,10.4
+25697331,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1950,1819,3.0,8,0.2,40,8.0,"Feher, Tamas",,2099.0,False,HUN,0.0,1,-0.16,40,-6.4
+25697331,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1950,1819,3.0,8,0.2,40,8.0,"Csikos, Mihaly",c,2065.0,False,HUN,0.5,1,0.31,40,12.4
+25697331,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1950,1819,3.0,8,0.2,40,8.0,"Pyun, Lindsay",,1800.0,False,ENG,0.5,1,-0.03,40,-1.2
+25697331,2024-08-01,0,17th International tournament of Paleochora 2024 - A,Chania GRE,2024-07-20,2024-07-27,2070,1819,4.0,9,2.2,40,88.0,"Kotyk, Michael",c,2127.0,False,GER,1.0,1,0.86,40,34.4
+25697331,2024-08-01,0,17th International tournament of Paleochora 2024 - A,Chania GRE,2024-07-20,2024-07-27,2070,1819,4.0,9,2.2,40,88.0,"Baillon, Olivier",,2217.0,False,FRA,0.5,1,0.42,40,16.8
+25697331,2024-08-01,0,17th International tournament of Paleochora 2024 - A,Chania GRE,2024-07-20,2024-07-27,2070,1819,4.0,9,2.2,40,88.0,"Georgiadis, Anastasios",,2210.0,False,GRE,0.0,1,-0.09,40,-3.6
+25697331,2024-08-01,0,17th International tournament of Paleochora 2024 - A,Chania GRE,2024-07-20,2024-07-27,2070,1819,4.0,9,2.2,40,88.0,"Papadopoulos, Georgios Nikea",,2008.0,False,GRE,0.5,1,0.25,40,10.0
+25697331,2024-08-01,0,17th International tournament of Paleochora 2024 - A,Chania GRE,2024-07-20,2024-07-27,2070,1819,4.0,9,2.2,40,88.0,"Dristellas, Neoklis",,1996.0,False,GRE,0.5,1,0.23,40,9.2
+25697331,2024-08-01,0,17th International tournament of Paleochora 2024 - A,Chania GRE,2024-07-20,2024-07-27,2070,1819,4.0,9,2.2,40,88.0,"Papadimitriou, Loukas",,2057.0,False,GRE,0.0,1,-0.2,40,-8.0
+25697331,2024-08-01,0,17th International tournament of Paleochora 2024 - A,Chania GRE,2024-07-20,2024-07-27,2070,1819,4.0,9,2.2,40,88.0,"Giannoulis, Grigorios",,1984.0,False,GRE,0.5,1,0.22,40,8.8
+25697331,2024-08-01,0,17th International tournament of Paleochora 2024 - A,Chania GRE,2024-07-20,2024-07-27,2070,1819,4.0,9,2.2,40,88.0,"Karakatsanis, Nikolaos",,2019.0,False,GRE,0.5,1,0.26,40,10.4
+25697331,2024-08-01,0,17th International tournament of Paleochora 2024 - A,Chania GRE,2024-07-20,2024-07-27,2070,1819,4.0,9,2.2,40,88.0,"Malaschitz, Richard",,2014.0,False,SVK,0.5,1,0.25,40,10.0

@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429010632,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,,,1.0,6,0.0,1281,,"Diproneel, Barman",,1677.0,False,IND,0.0,1,0.0,,0.0
+429010632,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,,,1.0,6,0.0,1281,,"Navaneel, Chhatui",,1626.0,False,IND,0.0,1,0.0,,0.0
+429010632,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,,,1.0,6,0.0,1281,,"Wriddhish, Chakraborty",,1536.0,False,IND,0.0,1,0.0,,0.0
+429010632,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,,,1.0,6,0.0,1281,,"Rayaan, Saha",,1502.0,False,IND,0.5,1,0.0,,0.0
+429010632,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,,,1.0,6,0.0,1281,,"Aditya, Baksi",,1473.0,False,IND,0.0,1,0.0,,0.0
+429010632,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,,,1.0,6,0.0,1281,,"Riddhiman, Das",,1512.0,False,IND,0.5,1,0.0,,0.0
+429010632,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1569.0,1404.0,1.5,4,0.3,40,12.0,"Aviraj, Roy",,1515.0,False,IND,0.0,1,-0.35,40.0,-14.0
+429010632,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1569.0,1404.0,1.5,4,0.3,40,12.0,"Narendra, Agarwal",,1770.0,False,IND,0.0,1,-0.1,40.0,-4.0
+429010632,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1569.0,1404.0,1.5,4,0.3,40,12.0,"Agnitra, Chakraborty",,1523.0,False,IND,1.0,1,0.66,40.0,26.4
+429010632,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1569.0,1404.0,1.5,4,0.3,40,12.0,"Aditya, Baksi",,1469.0,False,IND,0.5,1,0.09,40.0,3.6
+429010632,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1503.0,1416.0,2.5,5,0.59,40,23.6,"Ankit, Saha",,1528.0,False,IND,0.5,1,0.15,40.0,6.0
+429010632,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1503.0,1416.0,2.5,5,0.59,40,23.6,"Rongit, Dasgupta",,1405.0,False,IND,1.0,1,0.48,40.0,19.2
+429010632,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1503.0,1416.0,2.5,5,0.59,40,23.6,"Aayan, Gupta",,1524.0,False,IND,0.5,1,0.15,40.0,6.0
+429010632,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1503.0,1416.0,2.5,5,0.59,40,23.6,"Aviraj, Roy",,1502.0,False,IND,0.5,1,0.12,40.0,4.8
+429010632,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1503.0,1416.0,2.5,5,0.59,40,23.6,"Pyansu, Nath",,1556.0,False,IND,0.0,1,-0.31,40.0,-12.4
+429010632,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1595.0,1440.0,2.5,5,1.02,40,40.8,"Viraat, Jalan",,1575.0,False,IND,1.0,1,0.68,40.0,27.2
+429010632,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1595.0,1440.0,2.5,5,1.02,40,40.8,"Mukherjee, Dyutimoy",,1647.0,False,IND,0.5,1,0.27,40.0,10.8
+429010632,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1595.0,1440.0,2.5,5,1.02,40,40.8,"Amey, Chowdhury",,1635.0,False,IND,0.0,1,-0.25,40.0,-10.0
+429010632,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1595.0,1440.0,2.5,5,1.02,40,40.8,"Diptarup, Mitra",,1614.0,False,IND,0.0,1,-0.27,40.0,-10.8
+429010632,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1595.0,1440.0,2.5,5,1.02,40,40.8,"Sourish, Sikdar",,1504.0,False,IND,1.0,1,0.59,40.0,23.6

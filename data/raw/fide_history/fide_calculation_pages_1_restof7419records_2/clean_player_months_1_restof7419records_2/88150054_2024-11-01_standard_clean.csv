@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88150054,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1706,1473,2.5,5,1.37,40,54.8,"Nishanth, Dsouza",,1725,False,IND,0.0,1,-0.19,40,-7.6
+88150054,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1706,1473,2.5,5,1.37,40,54.8,"Vishwajit, S",,1774,False,IND,0.0,1,-0.15,40,-6.0
+88150054,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1706,1473,2.5,5,1.37,40,54.8,"Dhineshsunder, Ganapathi",,1873,True,IND,1.0,1,0.92,40,36.8
+88150054,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1706,1473,2.5,5,1.37,40,54.8,"Pavan, C Rao",,1562,False,IND,0.5,1,0.12,40,4.8
+88150054,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1706,1473,2.5,5,1.37,40,54.8,"Gangadhar, T",,1597,False,IND,1.0,1,0.67,40,26.8

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+537031414,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1612,1454,1.0,5,-0.48,40,-19.2,"Tejas, Shandilya",,1675.0,False,IND,0.0,1,-0.22,40,-8.8
+537031414,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1612,1454,1.0,5,-0.48,40,-19.2,"Prem, Kumar",,1706.0,False,IND,0.0,1,-0.19,40,-7.6
+537031414,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1612,1454,1.0,5,-0.48,40,-19.2,"Kartikeya, Nandan",,1543.0,False,IND,0.0,1,-0.38,40,-15.2
+537031414,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1612,1454,1.0,5,-0.48,40,-19.2,"Shreshth, Raj",,1552.0,False,IND,0.5,1,0.13,40,5.2
+537031414,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1612,1454,1.0,5,-0.48,40,-19.2,"Akshay, Anand",,1585.0,False,IND,0.5,1,0.18,40,7.2

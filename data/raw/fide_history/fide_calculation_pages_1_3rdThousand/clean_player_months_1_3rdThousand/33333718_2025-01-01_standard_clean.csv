@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33333718,2025-01-01,0,Open Tournament Banat I 2024,Mramorak SRB,2024-12-21,2024-12-27,1967,1735,3.5,9,1.47,40,58.8,"Andrejevic, Milorad",c,2063.0,False,SRB,0.5,1,0.37,40,14.8
+33333718,2025-01-01,0,Open Tournament Banat I 2024,Mramorak SRB,2024-12-21,2024-12-27,1967,1735,3.5,9,1.47,40,58.8,"Bjelic, Branislav",,1929.0,False,SRB,0.5,1,0.25,40,10.0
+33333718,2025-01-01,0,Open Tournament Banat I 2024,Mramorak SRB,2024-12-21,2024-12-27,1967,1735,3.5,9,1.47,40,58.8,"Radjenovic, Velimir",,2075.0,False,SRB,0.0,1,-0.12,40,-4.8
+33333718,2025-01-01,0,Open Tournament Banat I 2024,Mramorak SRB,2024-12-21,2024-12-27,1967,1735,3.5,9,1.47,40,58.8,"Jancic, Radomir",,1940.0,False,SRB,1.0,1,0.76,40,30.4
+33333718,2025-01-01,0,Open Tournament Banat I 2024,Mramorak SRB,2024-12-21,2024-12-27,1967,1735,3.5,9,1.47,40,58.8,"Milojevic, Dusan",,2114.0,False,SRB,0.0,1,-0.09,40,-3.6
+33333718,2025-01-01,0,Open Tournament Banat I 2024,Mramorak SRB,2024-12-21,2024-12-27,1967,1735,3.5,9,1.47,40,58.8,"Jurisic, Iskra",,1904.0,False,SRB,0.0,1,-0.28,40,-11.2
+33333718,2025-01-01,0,Open Tournament Banat I 2024,Mramorak SRB,2024-12-21,2024-12-27,1967,1735,3.5,9,1.47,40,58.8,"Radevic, Jovan",,2045.0,False,SRB,0.5,1,0.36,40,14.4
+33333718,2025-01-01,0,Open Tournament Banat I 2024,Mramorak SRB,2024-12-21,2024-12-27,1967,1735,3.5,9,1.47,40,58.8,"Djurovic, Milorad",,1901.0,False,SRB,0.0,1,-0.28,40,-11.2
+33333718,2025-01-01,0,Open Tournament Banat I 2024,Mramorak SRB,2024-12-21,2024-12-27,1967,1735,3.5,9,1.47,40,58.8,"Bukvic, Milivoje",,1732.0,False,SRB,1.0,1,0.5,40,20.0

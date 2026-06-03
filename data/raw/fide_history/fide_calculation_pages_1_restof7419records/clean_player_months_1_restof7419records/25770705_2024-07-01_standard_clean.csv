@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25770705,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1648,1410,2.0,5,0.92,40,36.8,"Soham, Roy",,1810,True,IND,0.0,1,-0.08,40,-3.2
+25770705,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1648,1410,2.0,5,0.92,40,36.8,"Adhiraj, Mukherjee",,1619,False,IND,0.0,1,-0.23,40,-9.2
+25770705,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1648,1410,2.0,5,0.92,40,36.8,"Subhrajyoti, Chaudhury",,1516,False,IND,1.0,1,0.64,40,25.6
+25770705,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1648,1410,2.0,5,0.92,40,36.8,"Souhardya, Prosad Sinha",,1609,False,IND,1.0,1,0.76,40,30.4
+25770705,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1648,1410,2.0,5,0.92,40,36.8,"Diproneel, Barman",,1687,False,IND,0.0,1,-0.17,40,-6.8

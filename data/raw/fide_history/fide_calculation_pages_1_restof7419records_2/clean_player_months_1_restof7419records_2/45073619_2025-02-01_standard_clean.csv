@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45073619,2025-02-01,0,40. Internationales Boeblinger Open A,Boeblingen GER,2024-12-26,2024-12-30,2062,1885,4.5,9,2.05,38,77.9,"Belin, Anton",,2024.0,False,GER,1.0,1,0.69,38,26.22
+45073619,2025-02-01,0,40. Internationales Boeblinger Open A,Boeblingen GER,2024-12-26,2024-12-30,2062,1885,4.5,9,2.05,38,77.9,"Lohvinov, Petro",f,2186.0,False,UKR,0.0,1,-0.15,38,-5.7
+45073619,2025-02-01,0,40. Internationales Boeblinger Open A,Boeblingen GER,2024-12-26,2024-12-30,2062,1885,4.5,9,2.05,38,77.9,"Klings, Peter",,2034.0,False,GER,0.0,1,-0.3,38,-11.4
+45073619,2025-02-01,0,40. Internationales Boeblinger Open A,Boeblingen GER,2024-12-26,2024-12-30,2062,1885,4.5,9,2.05,38,77.9,"Riabtsev, Ivan",,1998.0,False,UKR,1.0,1,0.65,38,24.7
+45073619,2025-02-01,0,40. Internationales Boeblinger Open A,Boeblingen GER,2024-12-26,2024-12-30,2062,1885,4.5,9,2.05,38,77.9,"Hein, Ralf",,1992.0,False,GER,1.0,1,0.65,38,24.7
+45073619,2025-02-01,0,40. Internationales Boeblinger Open A,Boeblingen GER,2024-12-26,2024-12-30,2062,1885,4.5,9,2.05,38,77.9,"Hoefken, Tom",,2066.0,False,GER,0.5,1,0.24,38,9.12
+45073619,2025-02-01,0,40. Internationales Boeblinger Open A,Boeblingen GER,2024-12-26,2024-12-30,2062,1885,4.5,9,2.05,38,77.9,"Bratu, Mircea",,2049.0,False,GER,1.0,1,0.72,38,27.36
+45073619,2025-02-01,0,40. Internationales Boeblinger Open A,Boeblingen GER,2024-12-26,2024-12-30,2062,1885,4.5,9,2.05,38,77.9,"Seitz, Patrick",,2165.0,False,GER,0.0,1,-0.16,38,-6.08
+45073619,2025-02-01,0,40. Internationales Boeblinger Open A,Boeblingen GER,2024-12-26,2024-12-30,2062,1885,4.5,9,2.05,38,77.9,"Schupp, Uwe",,2042.0,False,GER,0.0,1,-0.29,38,-11.02
+45073619,2025-02-01,0,35. Staufer-Open A,Schwaebisch Gmuend GER,2025-01-02,2025-01-06,2114,2001,5.0,9,1.79,38,68.02,"Dorweiler, Roger Paul",,1901.0,False,BRA,1.0,1,0.36,38,13.68
+45073619,2025-02-01,0,35. Staufer-Open A,Schwaebisch Gmuend GER,2025-01-02,2025-01-06,2114,2001,5.0,9,1.79,38,68.02,"Dordevic, Tom",,2136.0,False,GER,0.5,1,0.18,38,6.84
+45073619,2025-02-01,0,35. Staufer-Open A,Schwaebisch Gmuend GER,2025-01-02,2025-01-06,2114,2001,5.0,9,1.79,38,68.02,"Luebke, Florentin",,2146.0,False,GER,0.5,1,0.19,38,7.22
+45073619,2025-02-01,0,35. Staufer-Open A,Schwaebisch Gmuend GER,2025-01-02,2025-01-06,2114,2001,5.0,9,1.79,38,68.02,"Albert, Markus",,2202.0,False,GER,0.0,1,-0.24,38,-9.12
+45073619,2025-02-01,0,35. Staufer-Open A,Schwaebisch Gmuend GER,2025-01-02,2025-01-06,2114,2001,5.0,9,1.79,38,68.02,"Draude, Theo",,1830.0,False,GER,1.0,1,0.27,38,10.26
+45073619,2025-02-01,0,35. Staufer-Open A,Schwaebisch Gmuend GER,2025-01-02,2025-01-06,2114,2001,5.0,9,1.79,38,68.02,"Lutz, Ruben",f,2268.0,False,GER,0.5,1,0.32,38,12.16
+45073619,2025-02-01,0,35. Staufer-Open A,Schwaebisch Gmuend GER,2025-01-02,2025-01-06,2114,2001,5.0,9,1.79,38,68.02,"Duong, Quang Bach",,2207.0,False,GER,0.0,1,-0.24,38,-9.12
+45073619,2025-02-01,0,35. Staufer-Open A,Schwaebisch Gmuend GER,2025-01-02,2025-01-06,2114,2001,5.0,9,1.79,38,68.02,"Schulz, Karsten",f,2165.0,False,GER,1.0,1,0.72,38,27.36
+45073619,2025-02-01,0,35. Staufer-Open A,Schwaebisch Gmuend GER,2025-01-02,2025-01-06,2114,2001,5.0,9,1.79,38,68.02,"Mester, Philipp",,2174.0,False,GER,0.5,1,0.23,38,8.74

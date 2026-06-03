@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429023505,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1676,1517,2.0,5,0.54,40,21.6,"Samarth, Jain",,1737.0,False,IND,0.0,1,-0.22,40,-8.8
+429023505,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1676,1517,2.0,5,0.54,40,21.6,"Priyansh, Arora",,1721.0,False,IND,1.0,1,0.76,40,30.4
+429023505,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1676,1517,2.0,5,0.54,40,21.6,"Pawar, Sohum",,1649.0,False,IND,0.5,1,0.18,40,7.2
+429023505,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1676,1517,2.0,5,0.54,40,21.6,"Rahul, Suri",,1645.0,False,IND,0.0,1,-0.33,40,-13.2
+429023505,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1676,1517,2.0,5,0.54,40,21.6,"Shah, Namra Vishal",,1626.0,False,IND,0.5,1,0.15,40,6.0

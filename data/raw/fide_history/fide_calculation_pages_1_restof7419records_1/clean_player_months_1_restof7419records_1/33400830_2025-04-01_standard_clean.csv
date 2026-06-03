@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33400830,2025-04-01,0,2025 AGCA Championship - Spring Edition,"Austin, TX USA",2025-03-21,2025-03-23,1904,2006,3.5,5,0.35,40,14.0,"Zhang, Ellery",,1824.0,False,USA,0.0,1,-0.74,40,-29.6
+33400830,2025-04-01,0,2025 AGCA Championship - Spring Edition,"Austin, TX USA",2025-03-21,2025-03-23,1904,2006,3.5,5,0.35,40,14.0,"Seelam, Tanish",,1708.0,False,USA,1.0,1,0.15,40,6.0
+33400830,2025-04-01,0,2025 AGCA Championship - Spring Edition,"Austin, TX USA",2025-03-21,2025-03-23,1904,2006,3.5,5,0.35,40,14.0,"Dotson, John B",,1851.0,False,USA,1.0,1,0.29,40,11.6
+33400830,2025-04-01,0,2025 AGCA Championship - Spring Edition,"Austin, TX USA",2025-03-21,2025-03-23,1904,2006,3.5,5,0.35,40,14.0,"Burd, Leonid",,1909.0,False,USA,1.0,1,0.37,40,14.8
+33400830,2025-04-01,0,2025 AGCA Championship - Spring Edition,"Austin, TX USA",2025-03-21,2025-03-23,1904,2006,3.5,5,0.35,40,14.0,"Li, Rachael",wf,2227.0,False,USA,0.5,1,0.28,40,11.2

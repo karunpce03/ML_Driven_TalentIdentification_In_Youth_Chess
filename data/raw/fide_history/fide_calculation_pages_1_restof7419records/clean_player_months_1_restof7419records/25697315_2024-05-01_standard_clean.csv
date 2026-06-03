@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25697315,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1852,1828,7.5,9,3.24,38,123.12,"Priyanshu, Thakur",,1615.0,False,IND,1.0,1,0.23,38,8.74
+25697315,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1852,1828,7.5,9,3.24,38,123.12,"Gourav, Nigam",,1995.0,False,IND,1.0,1,0.72,38,27.36
+25697315,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1852,1828,7.5,9,3.24,38,123.12,"Sriram, Adarsh Uppala",,2141.0,False,IND,0.0,1,-0.14,38,-5.32
+25697315,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1852,1828,7.5,9,3.24,38,123.12,"Pranay, Chordia",,1796.0,False,IND,0.5,1,-0.04,38,-1.52
+25697315,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1852,1828,7.5,9,3.24,38,123.12,"Jashanpreet, Singh",,1830.0,False,IND,1.0,1,0.5,38,19.0
+25697315,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1852,1828,7.5,9,3.24,38,123.12,"Vigneshwaran, S",,1785.0,False,IND,1.0,1,0.44,38,16.72
+25697315,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1852,1828,7.5,9,3.24,38,123.12,"Rupesh, B Ramchandra",,1819.0,False,IND,1.0,1,0.49,38,18.62
+25697315,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1852,1828,7.5,9,3.24,38,123.12,"Ashutosh, Mohapatra",,1924.0,False,IND,1.0,1,0.63,38,23.94
+25697315,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1852,1828,7.5,9,3.24,38,123.12,"Bharat, Bansal",,1761.0,False,IND,1.0,1,0.41,38,15.58
+25697315,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1784,1828,7.5,9,2.48,38,94.24,"Kavya, Jain",,1429.0,False,IND,1.0,1,0.08,38,3.04
+25697315,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1784,1828,7.5,9,2.48,38,94.24,"Sarthak, Bathla",,1566.0,False,IND,1.0,1,0.18,38,6.84
+25697315,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1784,1828,7.5,9,2.48,38,94.24,"Arnav, Drolia",,1654.0,False,IND,1.0,1,0.27,38,10.26
+25697315,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1784,1828,7.5,9,2.48,38,94.24,"Ashutosh, Jamwal",,1684.0,False,IND,1.0,1,0.31,38,11.78
+25697315,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1784,1828,7.5,9,2.48,38,94.24,"Singh, Arvinder Preet",f,2061.0,False,IND,1.0,1,0.79,38,30.02
+25697315,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1784,1828,7.5,9,2.48,38,94.24,"Neelash, Saha",m,2228.0,True,IND,0.0,1,-0.08,38,-3.04
+25697315,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1784,1828,7.5,9,2.48,38,94.24,"Aarit, Kapil",,1742.0,False,IND,1.0,1,0.38,38,14.44
+25697315,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1784,1828,7.5,9,2.48,38,94.24,"Saparya, Ghosh",,1760.0,False,IND,0.5,1,-0.09,38,-3.42
+25697315,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1784,1828,7.5,9,2.48,38,94.24,"Kishan, Kumar",,1933.0,False,IND,1.0,1,0.64,38,24.32

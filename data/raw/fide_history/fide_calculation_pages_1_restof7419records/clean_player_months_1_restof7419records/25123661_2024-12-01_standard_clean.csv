@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25123661,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1581,1966,3.5,5,-1.05,40,-42.0,"Kiyan, Yogik Sanghavi",,1566,True,IND,1.0,1,0.08,40,3.2
+25123661,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1581,1966,3.5,5,-1.05,40,-42.0,"Gangan, Vihang Vishwanath",,1566,True,IND,1.0,1,0.08,40,3.2
+25123661,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1581,1966,3.5,5,-1.05,40,-42.0,"Ishan, Roy",,1639,False,IND,0.5,1,-0.37,40,-14.8
+25123661,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1581,1966,3.5,5,-1.05,40,-42.0,"Chopdekar, Aarav",,1566,True,IND,0.5,1,-0.42,40,-16.8
+25123661,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1581,1966,3.5,5,-1.05,40,-42.0,"Aarush, Budjade",,1566,True,IND,0.5,1,-0.42,40,-16.8
+25123661,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1649,1966,7.0,9,-0.64,40,-25.6,"Yuvan, Saini",,1566,True,IND,1.0,1,0.08,40,3.2
+25123661,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1649,1966,7.0,9,-0.64,40,-25.6,"Nishant, Bhardwaj",,1566,True,IND,1.0,1,0.08,40,3.2
+25123661,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1649,1966,7.0,9,-0.64,40,-25.6,"Garth, Pande",,1669,False,IND,0.0,1,-0.85,40,-34.0
+25123661,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1649,1966,7.0,9,-0.64,40,-25.6,"Navdeep, Singh",,1566,True,IND,1.0,1,0.08,40,3.2
+25123661,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1649,1966,7.0,9,-0.64,40,-25.6,"Atharv, Vohra",,1619,False,IND,0.5,1,-0.39,40,-15.6
+25123661,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1649,1966,7.0,9,-0.64,40,-25.6,"Bhavya, Arora",,1611,False,IND,1.0,1,0.11,40,4.4
+25123661,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1649,1966,7.0,9,-0.64,40,-25.6,"Palaash, Suyog Mapara",,1566,True,IND,1.0,1,0.08,40,3.2
+25123661,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1649,1966,7.0,9,-0.64,40,-25.6,"Navaneet, Sreekanth",,1765,False,IND,1.0,1,0.24,40,9.6
+25123661,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1649,1966,7.0,9,-0.64,40,-25.6,"Adhiraj, Mitra",,1914,False,IND,0.5,1,-0.07,40,-2.8

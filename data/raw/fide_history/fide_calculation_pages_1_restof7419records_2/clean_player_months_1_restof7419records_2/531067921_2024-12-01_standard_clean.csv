@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531067921,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1611,1430,2.5,6,0.82,40,32.8,"Shenvi, Pratik",,1830,True,IND,1.0,1,0.92,40,36.8
+531067921,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1611,1430,2.5,6,0.82,40,32.8,"Tahilianey, Dhruv",,1562,False,IND,0.0,1,-0.32,40,-12.8
+531067921,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1611,1430,2.5,6,0.82,40,32.8,"Margaj, Prisha",,1688,False,IND,0.5,1,0.32,40,12.8
+531067921,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1611,1430,2.5,6,0.82,40,32.8,"Anay, Samir Uplap",,1539,False,IND,0.0,1,-0.35,40,-14.0
+531067921,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1611,1430,2.5,6,0.82,40,32.8,"Shryansh, Pandey",,1477,False,IND,0.0,1,-0.43,40,-17.2
+531067921,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1611,1430,2.5,6,0.82,40,32.8,"Sparsh, Ajay Patil",,1567,False,IND,1.0,1,0.68,40,27.2

@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33400393,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1599,1488,4.5,9,1.31,35,45.85,"Dhruv, Gupta",,1642.0,False,IND,1.0,1,0.71,35,24.85
+33400393,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1599,1488,4.5,9,1.31,35,45.85,"Deepak, Raj Hari",,1715.0,False,IND,0.0,1,-0.21,35,-7.35
+33400393,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1599,1488,4.5,9,1.31,35,45.85,"Nagireddypalli, Dikshit",,1608.0,False,IND,1.0,1,0.66,35,23.1
+33400393,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1599,1488,4.5,9,1.31,35,45.85,"Advik, Reddy Moate",,1688.0,False,IND,0.0,1,-0.24,35,-8.4
+33400393,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1599,1488,4.5,9,1.31,35,45.85,"Ansh, Kabra",,1635.0,False,IND,0.0,1,-0.3,35,-10.5
+33400393,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1599,1488,4.5,9,1.31,35,45.85,"Aadhyan, Kukudala",,1429.0,False,IND,1.0,1,0.42,35,14.7
+33400393,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1599,1488,4.5,9,1.31,35,45.85,"Vansh, Jajoo",,1609.0,False,IND,0.0,1,-0.34,35,-11.9
+33400393,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1599,1488,4.5,9,1.31,35,45.85,"Patlolla, Indra Reddy",,1424.0,False,IND,1.0,1,0.41,35,14.35
+33400393,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1599,1488,4.5,9,1.31,35,45.85,"Tanush, Johari",,1640.0,False,IND,0.5,1,0.2,35,7.0
+33400393,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1716,1488,2.0,7,0.42,35,14.7,"Pranay, Akula",,1888.0,True,IND,0.0,1,-0.08,35,-2.8
+33400393,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1716,1488,2.0,7,0.42,35,14.7,"Satyanarayana, M",,1682.0,False,IND,1.0,1,0.75,35,26.25
+33400393,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1716,1488,2.0,7,0.42,35,14.7,"Sreesha, Kandi",,1649.0,False,IND,1.0,1,0.71,35,24.85
+33400393,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1716,1488,2.0,7,0.42,35,14.7,"Andabatla, Satvik",,1801.0,False,IND,0.0,1,-0.14,35,-4.9
+33400393,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1716,1488,2.0,7,0.42,35,14.7,"Aadithya, R",,1647.0,False,IND,0.0,1,-0.29,35,-10.15
+33400393,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1716,1488,2.0,7,0.42,35,14.7,"Vedant, A Agarwal",,1608.0,False,IND,0.0,1,-0.34,35,-11.9
+33400393,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1716,1488,2.0,7,0.42,35,14.7,"Sandeep, Santhosh",,1739.0,False,IND,0.0,1,-0.19,35,-6.65
+33400393,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1686,1488,1.5,4,0.4,35,14.0,"Anurag, Jaiswal",c,1888.0,True,IND,0.0,1,-0.08,35,-2.8
+33400393,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1686,1488,1.5,4,0.4,35,14.0,"Om, Dayanand Ramgude",,1717.0,False,IND,0.5,1,0.29,35,10.15
+33400393,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1686,1488,1.5,4,0.4,35,14.0,"Ravi, Kumar K",,1722.0,False,IND,0.0,1,-0.21,35,-7.35
+33400393,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1686,1488,1.5,4,0.4,35,14.0,"Janani, Mahadevan",,1418.0,False,IND,1.0,1,0.4,35,14.0

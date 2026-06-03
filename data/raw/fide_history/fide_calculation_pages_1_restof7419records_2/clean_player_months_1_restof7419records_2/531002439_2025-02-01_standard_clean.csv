@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531002439,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1681,1475,0.5,5,-0.79,40,-31.6,"Mrityunjay, Kumar",,1875,True,IND,0.0,1,-0.08,40,-3.2
+531002439,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1681,1475,0.5,5,-0.79,40,-31.6,"Sinha, Keshav",,1701,False,IND,0.5,1,0.29,40,11.6
+531002439,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1681,1475,0.5,5,-0.79,40,-31.6,"Abhay, Chetty",,1715,False,IND,0.0,1,-0.2,40,-8.0
+531002439,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1681,1475,0.5,5,-0.79,40,-31.6,"Mohit, Ambwani",,1680,False,IND,0.0,1,-0.24,40,-9.6
+531002439,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1681,1475,0.5,5,-0.79,40,-31.6,"Shiven, Vij",,1432,False,IND,0.0,1,-0.56,40,-22.4

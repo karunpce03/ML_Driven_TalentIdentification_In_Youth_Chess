@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48703540,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1528,1516,4.0,8,0.11,40,4.4,"Shreyash, Sahoo",,1425.0,False,IND,0.5,1,-0.12,40,-4.8
+48703540,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1528,1516,4.0,8,0.11,40,4.4,Indusheetala,,1560.0,False,IND,0.0,1,-0.44,40,-17.6
+48703540,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1528,1516,4.0,8,0.11,40,4.4,"Subramanian, T.v.",,1431.0,False,IND,1.0,1,0.38,40,15.2
+48703540,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1528,1516,4.0,8,0.11,40,4.4,"Mughaho, Awomi",,1709.0,False,IND,0.0,1,-0.25,40,-10.0
+48703540,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1528,1516,4.0,8,0.11,40,4.4,"Paramesh, C K S",,1581.0,False,IND,0.5,1,0.09,40,3.6
+48703540,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1528,1516,4.0,8,0.11,40,4.4,"Vihaan, Datta Katakam",,1454.0,False,IND,1.0,1,0.41,40,16.4
+48703540,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1528,1516,4.0,8,0.11,40,4.4,"Sayansh, Das",,1412.0,False,IND,1.0,1,0.36,40,14.4
+48703540,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1528,1516,4.0,8,0.11,40,4.4,"Sengupta, Dipankar",,1648.0,False,IND,0.0,1,-0.32,40,-12.8

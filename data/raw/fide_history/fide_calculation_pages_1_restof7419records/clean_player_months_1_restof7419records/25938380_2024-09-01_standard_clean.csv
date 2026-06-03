@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25938380,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1651,1792,5.5,9,-0.63,36,-22.68,"Saket, Kumar",,1517.0,False,IND,1.0,1,0.17,36,6.12
+25938380,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1651,1792,5.5,9,-0.63,36,-22.68,"Parth, Gupta",,1640.0,False,IND,0.0,1,-0.7,36,-25.2
+25938380,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1651,1792,5.5,9,-0.63,36,-22.68,"Patni, Aniket Chandrakantbhai",,1567.0,False,IND,1.0,1,0.22,36,7.92
+25938380,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1651,1792,5.5,9,-0.63,36,-22.68,"Vakada, Sriram Jayin",,1637.0,False,IND,0.0,1,-0.71,36,-25.56
+25938380,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1651,1792,5.5,9,-0.63,36,-22.68,"Vittanala, Shanmuk Saish",,1602.0,False,IND,1.0,1,0.25,36,9.0
+25938380,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1651,1792,5.5,9,-0.63,36,-22.68,"Satyajit, Sarkar",,1634.0,False,IND,1.0,1,0.29,36,10.44
+25938380,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1651,1792,5.5,9,-0.63,36,-22.68,"Aryan, Verma",,1645.0,False,IND,1.0,1,0.3,36,10.8
+25938380,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1651,1792,5.5,9,-0.63,36,-22.68,"Chukka, Vineel Radha Karthik",,1938.0,False,IND,0.0,1,-0.3,36,-10.8
+25938380,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1651,1792,5.5,9,-0.63,36,-22.68,"Ratul, Majumder",,1680.0,False,IND,0.5,1,-0.15,36,-5.4
+25938380,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1988,1792,6.5,10,3.83,36,137.88,"Deepan, Chakkravarthy J.",g,2192.0,True,IND,0.0,1,-0.08,36,-2.88
+25938380,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1988,1792,6.5,10,3.83,36,137.88,Rohit,,1628.0,False,IND,1.0,1,0.28,36,10.08
+25938380,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1988,1792,6.5,10,3.83,36,137.88,"Prakash, Ram",f,1998.0,False,IND,1.0,1,0.76,36,27.36
+25938380,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1988,1792,6.5,10,3.83,36,137.88,"Yohan, Yadav Tarala",,1954.0,False,IND,0.5,1,0.21,36,7.56
+25938380,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1988,1792,6.5,10,3.83,36,137.88,"Dishank, Sachin Bajaj",,1971.0,False,IND,1.0,1,0.73,36,26.28
+25938380,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1988,1792,6.5,10,3.83,36,137.88,"Rachit, H Gurnani",,1975.0,False,IND,1.0,1,0.74,36,26.64
+25938380,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1988,1792,6.5,10,3.83,36,137.88,"Laxman, R.r.",g,2192.0,True,IND,0.0,1,-0.08,36,-2.88
+25938380,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1988,1792,6.5,10,3.83,36,137.88,"Sharsha, Backer",,1981.0,False,IND,1.0,1,0.75,36,27.0
+25938380,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1988,1792,6.5,10,3.83,36,137.88,"Gyana, Sai Santhosh M",,1995.0,False,IND,0.0,1,-0.24,36,-8.64
+25938380,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1988,1792,6.5,10,3.83,36,137.88,"Arshpreet, Singh",,1995.0,False,IND,1.0,1,0.76,36,27.36

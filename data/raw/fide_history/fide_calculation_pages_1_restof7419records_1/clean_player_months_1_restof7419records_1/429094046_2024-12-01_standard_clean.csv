@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429094046,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1553,1679,1.5,4,-1.16,40,-46.4,"Sulaiman, Hussain",,1430.0,False,KUW,1.0,1,0.19,40,7.6
+429094046,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1553,1679,1.5,4,-1.16,40,-46.4,"Nehan, Abdullah",,1564.0,False,BAN,0.5,1,-0.16,40,-6.4
+429094046,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1553,1679,1.5,4,-1.16,40,-46.4,"Mohnish, Balamurugan",,1604.0,False,IND,0.0,1,-0.6,40,-24.0
+429094046,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1553,1679,1.5,4,-1.16,40,-46.4,"Abel, Joseph",,1613.0,False,IND,0.0,1,-0.59,40,-23.6

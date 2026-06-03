@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33406510,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,1531,1514,3.5,6,0.64,40,25.6,"Nivedh, Vallabani",,1405.0,False,IND,1.0,1,0.35,40,14.0
+33406510,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,1531,1514,3.5,6,0.64,40,25.6,"Subramanian, A",,1598.0,False,IND,0.5,1,0.12,40,4.8
+33406510,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,1531,1514,3.5,6,0.64,40,25.6,"Manikanta, Barla",,1573.0,False,IND,0.0,1,-0.42,40,-16.8
+33406510,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,1531,1514,3.5,6,0.64,40,25.6,"Pranoopa, K",,1440.0,False,IND,1.0,1,0.4,40,16.0
+33406510,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,1531,1514,3.5,6,0.64,40,25.6,"Jaffar, Vali S",,1597.0,False,IND,1.0,1,0.61,40,24.4
+33406510,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,1531,1514,3.5,6,0.64,40,25.6,"Gopala, Krishnan M",,1573.0,False,IND,0.0,1,-0.42,40,-16.8

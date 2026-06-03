@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25940783,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2386,2410,6.0,9,1.23,10,12.3,"Plat, Vojtech",g,2528.0,False,CZE,1.0,1,0.66,10,6.6
+25940783,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2386,2410,6.0,9,1.23,10,12.3,"Bui, Vinh",g,2371.0,False,VIE,1.0,1,0.45,10,4.5
+25940783,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2386,2410,6.0,9,1.23,10,12.3,"Mohammad Fahad, Rahman",m,2426.0,False,BAN,0.5,1,0.02,10,0.2
+25940783,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2386,2410,6.0,9,1.23,10,12.3,"Banh, Gia Huy",f,2390.0,False,VIE,0.5,1,-0.03,10,-0.3
+25940783,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2386,2410,6.0,9,1.23,10,12.3,"Quizon, Daniel",m,2432.0,False,PHI,0.0,1,-0.47,10,-4.7
+25940783,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2386,2410,6.0,9,1.23,10,12.3,"Dao, Minh Nhat",m,2268.0,False,VIE,1.0,1,0.31,10,3.1
+25940783,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2386,2410,6.0,9,1.23,10,12.3,"Apaar, Saxena",c,2227.0,False,IND,0.5,1,-0.24,10,-2.4
+25940783,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2386,2410,6.0,9,1.23,10,12.3,"Namitbir, Singh Walia",f,2385.0,False,IND,1.0,1,0.47,10,4.7
+25940783,2024-05-01,0,Hanoi GM3 chess tournament - March 2024,Ha Noi VIE,2024-03-26,2024-03-31,2386,2410,6.0,9,1.23,10,12.3,"Nguyen, Anh Dung",g,2450.0,False,VIE,0.5,1,0.06,10,0.6

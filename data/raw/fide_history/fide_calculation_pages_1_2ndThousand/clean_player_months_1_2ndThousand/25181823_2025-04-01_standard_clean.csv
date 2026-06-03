@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25181823,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1975,2064,5.0,9,-0.45,40,-18.0,"Gaurav, Sharma H R",,1664,True,IND,1.0,1,0.08,40,3.2
+25181823,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1975,2064,5.0,9,-0.45,40,-18.0,"Sidhant, Mohapatra",m,2382,False,IND,0.0,1,-0.13,40,-5.2
+25181823,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1975,2064,5.0,9,-0.45,40,-18.0,"Ajay, Kumar Rai",,1796,False,IND,1.0,1,0.17,40,6.8
+25181823,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1975,2064,5.0,9,-0.45,40,-18.0,"Bhosale, Shriraj",,2099,False,IND,0.0,1,-0.45,40,-18.0
+25181823,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1975,2064,5.0,9,-0.45,40,-18.0,"Rahul, Kumar",,1825,False,IND,0.0,1,-0.8,40,-32.0
+25181823,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1975,2064,5.0,9,-0.45,40,-18.0,"Kolla, Bhaavan",,2047,False,IND,0.5,1,-0.02,40,-0.8
+25181823,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1975,2064,5.0,9,-0.45,40,-18.0,"Agarwal, Brajesh",,1852,False,IND,1.0,1,0.23,40,9.2
+25181823,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1975,2064,5.0,9,-0.45,40,-18.0,"Challa, Saharsha",,2096,False,IND,0.5,1,0.04,40,1.6
+25181823,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1975,2064,5.0,9,-0.45,40,-18.0,"Shah, Moxit J",,2017,False,IND,1.0,1,0.43,40,17.2

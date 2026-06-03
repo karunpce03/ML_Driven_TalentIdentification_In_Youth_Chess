@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48761915,2024-11-01,0,Thailand Pattaya Youth Open Chess Championship 2024,Pattaya THA,2024-10-05,2024-10-09,1571,1613,4.0,6,0.65,40,26.0,"Punyanitya, Prempipath",,1532.0,False,THA,0.5,1,-0.11,40,-4.4
+48761915,2024-11-01,0,Thailand Pattaya Youth Open Chess Championship 2024,Pattaya THA,2024-10-05,2024-10-09,1571,1613,4.0,6,0.65,40,26.0,"Tapanakulsak, Peramin",,1650.0,False,THA,1.0,1,0.55,40,22.0
+48761915,2024-11-01,0,Thailand Pattaya Youth Open Chess Championship 2024,Pattaya THA,2024-10-05,2024-10-09,1571,1613,4.0,6,0.65,40,26.0,"Murali, Aurik",,1630.0,False,CYP,0.0,1,-0.48,40,-19.2
+48761915,2024-11-01,0,Thailand Pattaya Youth Open Chess Championship 2024,Pattaya THA,2024-10-05,2024-10-09,1571,1613,4.0,6,0.65,40,26.0,"Limpetcharakul, Nutnapon",,1546.0,False,THA,1.0,1,0.41,40,16.4
+48761915,2024-11-01,0,Thailand Pattaya Youth Open Chess Championship 2024,Pattaya THA,2024-10-05,2024-10-09,1571,1613,4.0,6,0.65,40,26.0,"Saisud, Krit",,1592.0,False,THA,1.0,1,0.47,40,18.8
+48761915,2024-11-01,0,Thailand Pattaya Youth Open Chess Championship 2024,Pattaya THA,2024-10-05,2024-10-09,1571,1613,4.0,6,0.65,40,26.0,"Aramvareekul, Aten Parit",,1473.0,False,THA,0.5,1,-0.19,40,-7.6
+48761915,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,1785,1613,1.0,6,-0.67,40,-26.8,"Sivara, Poompat",,1894.0,False,THA,0.0,1,-0.16,40,-6.4
+48761915,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,1785,1613,1.0,6,-0.67,40,-26.8,"Ling, Guohan",,1811.0,False,CHN,0.5,1,0.26,40,10.4
+48761915,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,1785,1613,1.0,6,-0.67,40,-26.8,"Umer, S.m",,1849.0,False,IND,0.0,1,-0.2,40,-8.0
+48761915,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,1785,1613,1.0,6,-0.67,40,-26.8,"Rolston, Daniel Haruma",,1776.0,False,JPN,0.0,1,-0.28,40,-11.2
+48761915,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,1785,1613,1.0,6,-0.67,40,-26.8,"Wang, Yushin Andrea",,1637.0,False,TPE,0.5,1,0.03,40,1.2
+48761915,2024-11-01,0,Thailand Pattaya Open Chess Championship 2024,Pattaya THA,2024-10-09,2024-10-18,1785,1613,1.0,6,-0.67,40,-26.8,"Krishtopov, Konstantin",,1745.0,False,FID,0.0,1,-0.32,40,-12.8

@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429018358,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1652,1409,1.0,4,0.16,40,6.4,"Mohammed, Tharig S",,1809,True,IND,0.0,1,-0.08,40,-3.2
+429018358,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1652,1409,1.0,4,0.16,40,6.4,"Pushpakumar, J",,1647,False,IND,0.5,1,0.3,40,12.0
+429018358,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1652,1409,1.0,4,0.16,40,6.4,"Santhosh, S",,1553,False,IND,0.5,1,0.19,40,7.6
+429018358,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1652,1409,1.0,4,0.16,40,6.4,"Sivaram, Ambikasaran",,1600,False,IND,0.0,1,-0.25,40,-10.0

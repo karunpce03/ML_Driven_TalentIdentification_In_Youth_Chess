@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25167251,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1690,1582,1.5,4,0.01,40,0.4,"Sivan, S Roshan",,1916.0,False,IND,0.0,1,-0.12,40,-4.8
+25167251,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1690,1582,1.5,4,0.01,40,0.4,"Parameshh, Kumar U",,1439.0,False,IND,1.0,1,0.31,40,12.4
+25167251,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1690,1582,1.5,4,0.01,40,0.4,"Karthick, Sai P",,1727.0,False,IND,0.0,1,-0.31,40,-12.4
+25167251,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1690,1582,1.5,4,0.01,40,0.4,"Vishwajith, S",,1678.0,False,IND,0.5,1,0.13,40,5.2

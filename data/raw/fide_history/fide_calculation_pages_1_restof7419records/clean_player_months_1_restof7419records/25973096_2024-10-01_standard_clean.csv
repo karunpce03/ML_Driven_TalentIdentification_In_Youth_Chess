@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25973096,2024-10-01,0,exe Slovakia Open 2024 Bratislava,Bratislava SVK,2024-09-14,2024-09-22,2233,1964,5.5,9,3.67,40,146.8,"Nedeljak, Marek",,1564,True,SVK,1.0,1,0.08,40,3.2
+25973096,2024-10-01,0,exe Slovakia Open 2024 Bratislava,Bratislava SVK,2024-09-14,2024-09-22,2233,1964,5.5,9,3.67,40,146.8,"Grebennikov, Nikolai A.",,2220,False,FID,1.0,1,0.81,40,32.4
+25973096,2024-10-01,0,exe Slovakia Open 2024 Bratislava,Bratislava SVK,2024-09-14,2024-09-22,2233,1964,5.5,9,3.67,40,146.8,"Sernecki, Franciszek",f,2336,False,POL,0.5,1,0.4,40,16.0
+25973096,2024-10-01,0,exe Slovakia Open 2024 Bratislava,Bratislava SVK,2024-09-14,2024-09-22,2233,1964,5.5,9,3.67,40,146.8,"Gombocz, Ferenc Jr.",f,2336,False,HUN,1.0,1,0.9,40,36.0
+25973096,2024-10-01,0,exe Slovakia Open 2024 Bratislava,Bratislava SVK,2024-09-14,2024-09-22,2233,1964,5.5,9,3.67,40,146.8,"Stocek, Jiri",g,2364,True,CZE,0.5,1,0.42,40,16.8
+25973096,2024-10-01,0,exe Slovakia Open 2024 Bratislava,Bratislava SVK,2024-09-14,2024-09-22,2233,1964,5.5,9,3.67,40,146.8,"Koykka, Pekka",m,2351,False,FIN,0.5,1,0.41,40,16.4
+25973096,2024-10-01,0,exe Slovakia Open 2024 Bratislava,Bratislava SVK,2024-09-14,2024-09-22,2233,1964,5.5,9,3.67,40,146.8,"Mamatov, Melis",f,2362,False,KGZ,0.0,1,-0.08,40,-3.2
+25973096,2024-10-01,0,exe Slovakia Open 2024 Bratislava,Bratislava SVK,2024-09-14,2024-09-22,2233,1964,5.5,9,3.67,40,146.8,"Tancsa, Tamas",f,2236,False,HUN,1.0,1,0.83,40,33.2
+25973096,2024-10-01,0,exe Slovakia Open 2024 Bratislava,Bratislava SVK,2024-09-14,2024-09-22,2233,1964,5.5,9,3.67,40,146.8,"Suder, Jakub",f,2331,False,POL,0.0,1,-0.1,40,-4.0

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33484279,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1782,1611,3.0,10,0.09,40,3.6,"Sparsh, Khandelwal",,1968.0,False,IND,0.5,1,0.39,40,15.6
+33484279,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1782,1611,3.0,10,0.09,40,3.6,"Dishank, Sachin Bajaj",,1971.0,False,IND,0.0,1,-0.1,40,-4.0
+33484279,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1782,1611,3.0,10,0.09,40,3.6,"Shourya, Paul",,1848.0,False,IND,0.5,1,0.3,40,12.0
+33484279,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1782,1611,3.0,10,0.09,40,3.6,"Hari, R Chandran",,1816.0,False,IND,0.0,1,-0.24,40,-9.6
+33484279,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1782,1611,3.0,10,0.09,40,3.6,"Ekaaksha, Partap Singh Negi",,1791.0,False,IND,0.0,1,-0.26,40,-10.4
+33484279,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1782,1611,3.0,10,0.09,40,3.6,"Karjee, Manindra",,1772.0,False,IND,0.5,1,0.21,40,8.4
+33484279,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1782,1611,3.0,10,0.09,40,3.6,"Bhanushali, Neemay",,1736.0,False,IND,0.5,1,0.17,40,6.8
+33484279,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1782,1611,3.0,10,0.09,40,3.6,"Rudradaman, Mertia",,1723.0,False,IND,0.5,1,0.15,40,6.0
+33484279,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1782,1611,3.0,10,0.09,40,3.6,"Goura, Hari Mohapatra",,1714.0,False,IND,0.0,1,-0.36,40,-14.4
+33484279,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1782,1611,3.0,10,0.09,40,3.6,"Arz, Bhatia",,1482.0,False,IND,0.5,1,-0.17,40,-6.8

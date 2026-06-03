@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48761737,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1645,1428,1.0,5,-0.19,40,-7.6,"Deboushnik, De",,1827.0,False,IND,0.0,1,-0.08,40,-3.2
+48761737,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1645,1428,1.0,5,-0.19,40,-7.6,"Shivansh, Kesharwani",,1598.0,False,IND,0.0,1,-0.28,40,-11.2
+48761737,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1645,1428,1.0,5,-0.19,40,-7.6,"Rahul, Suri",,1645.0,False,IND,0.0,1,-0.22,40,-8.8
+48761737,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1645,1428,1.0,5,-0.19,40,-7.6,"Purushotham, Joshi",,1548.0,False,IND,1.0,1,0.66,40,26.4
+48761737,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1645,1428,1.0,5,-0.19,40,-7.6,"Chandwani, Prateek",,1605.0,False,IND,0.0,1,-0.27,40,-10.8
+48761737,2024-07-01,0,UP State U-13 Chess Championship-2024-25 (Open),Bijnor IND,2024-06-07,2024-06-09,1647,1428,0.0,2,-0.49,40,-19.6,"Sanyam, Srivastava",,1771.0,False,IND,0.0,1,-0.12,40,-4.8
+48761737,2024-07-01,0,UP State U-13 Chess Championship-2024-25 (Open),Bijnor IND,2024-06-07,2024-06-09,1647,1428,0.0,2,-0.49,40,-19.6,"Soumik, Chattopadhyaya",,1523.0,False,IND,0.0,1,-0.37,40,-14.8

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25906887,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1635,1756,6.5,10,-0.16,40,-6.4,"Chayank, Ramesh",,1458,False,IND,1.0,1,0.15,40,6.0
+25906887,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1635,1756,6.5,10,-0.16,40,-6.4,"Darsha, Bhat",,1583,False,IND,1.0,1,0.27,40,10.8
+25906887,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1635,1756,6.5,10,-0.16,40,-6.4,"Yamini, Sriram",,1536,False,IND,0.5,1,-0.28,40,-11.2
+25906887,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1635,1756,6.5,10,-0.16,40,-6.4,"Adharva, P T",,1525,False,IND,0.5,1,-0.29,40,-11.6
+25906887,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1635,1756,6.5,10,-0.16,40,-6.4,"Aaditya, Ranjan Sahu",,1619,False,IND,0.5,1,-0.18,40,-7.2
+25906887,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1635,1756,6.5,10,-0.16,40,-6.4,"Krupha, S Ukkali",,1640,False,IND,1.0,1,0.34,40,13.6
+25906887,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1635,1756,6.5,10,-0.16,40,-6.4,"Roy Chowdhury, Saptarshi",g,2156,True,IND,0.0,1,-0.08,40,-3.2
+25906887,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1635,1756,6.5,10,-0.16,40,-6.4,"Vrishank, Royadu",,1648,False,IND,1.0,1,0.35,40,14.0
+25906887,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1635,1756,6.5,10,-0.16,40,-6.4,"Sundar, Divij P",,1566,False,IND,0.5,1,-0.25,40,-10.0
+25906887,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1635,1756,6.5,10,-0.16,40,-6.4,"Arun, Dinakar",,1615,False,IND,0.5,1,-0.19,40,-7.6

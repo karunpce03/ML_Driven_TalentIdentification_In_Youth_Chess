@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25668552,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1645,1431,1.0,4,-0.04,40,-1.6,"Marthandan, K U",,1831,True,IND,0.0,1,-0.08,40,-3.2
+25668552,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1645,1431,1.0,4,-0.04,40,-1.6,"Gautham, C S",,1484,False,IND,1.0,1,0.57,40,22.8
+25668552,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1645,1431,1.0,4,-0.04,40,-1.6,"Rahul, V S",,1766,False,IND,0.0,1,-0.12,40,-4.8
+25668552,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1645,1431,1.0,4,-0.04,40,-1.6,"Arjun, S Anil",,1497,False,IND,0.0,1,-0.41,40,-16.4

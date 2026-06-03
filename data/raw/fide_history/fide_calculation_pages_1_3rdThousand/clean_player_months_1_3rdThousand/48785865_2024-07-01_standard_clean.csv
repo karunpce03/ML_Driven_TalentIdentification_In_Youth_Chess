@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48785865,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1633,1424,4.0,6,2.45,40,98.0,"Taher, Mohamed",,1762.0,False,BRN,1.0,1,0.88,40,35.2
+48785865,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1633,1424,4.0,6,2.45,40,98.0,"Gabriel, Vivek Joseph",,1529.0,False,IND,1.0,1,0.64,40,25.6
+48785865,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1633,1424,4.0,6,2.45,40,98.0,"Navaneet, Sreekanth",,1732.0,False,IND,0.0,1,-0.14,40,-5.6
+48785865,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1633,1424,4.0,6,2.45,40,98.0,"Palaash, Suyog Mapara",,1501.0,False,IND,0.0,1,-0.39,40,-15.6
+48785865,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1633,1424,4.0,6,2.45,40,98.0,"Sanjana, Selvaraj",,1451.0,False,IND,1.0,1,0.54,40,21.6
+48785865,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1633,1424,4.0,6,2.45,40,98.0,"Pranav, Bobby Sekhar",,1824.0,True,IND,1.0,1,0.92,40,36.8
+48785865,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1543,1450,4.5,6,2.21,40,88.4,"Youssef, Mohamed",,1547.0,False,MAR,1.0,1,0.63,40,25.2
+48785865,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1543,1450,4.5,6,2.21,40,88.4,"Gabriel, Vivek Joseph",,1552.0,False,IND,0.5,1,0.14,40,5.6
+48785865,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1543,1450,4.5,6,2.21,40,88.4,"Tissir, Maryam",,1419.0,False,MAR,1.0,1,0.46,40,18.4
+48785865,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1543,1450,4.5,6,2.21,40,88.4,"Kanushi, Kishore",,1502.0,False,IND,1.0,1,0.57,40,22.8
+48785865,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1543,1450,4.5,6,2.21,40,88.4,"Taher, Mohamed",,1743.0,False,BRN,0.0,1,-0.15,40,-6.0
+48785865,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1543,1450,4.5,6,2.21,40,88.4,"Binzaiman, Ayman",,1495.0,False,BRN,1.0,1,0.56,40,22.4

@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429038952,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1772,1495,0.0,3,-0.52,40,-20.8,"Sharma, Vivek",,1849.0,False,IND,0.0,1,-0.11,40,-4.4
+429038952,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1772,1495,0.0,3,-0.52,40,-20.8,"Gaurav, Kumar",,1710.0,False,IND,0.0,1,-0.23,40,-9.2
+429038952,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1772,1495,0.0,3,-0.52,40,-20.8,"Amrit, Raunak",,1757.0,False,IND,0.0,1,-0.18,40,-7.2

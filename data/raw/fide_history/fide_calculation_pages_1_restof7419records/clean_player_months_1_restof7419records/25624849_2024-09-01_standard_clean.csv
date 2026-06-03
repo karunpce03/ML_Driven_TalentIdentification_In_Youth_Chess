@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25624849,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2105,2169,3.5,9,-1.87,38,-71.06,"Kelires, Andreas",g,2516.0,False,GRE,0.0,1,-0.11,38,-4.18
+25624849,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2105,2169,3.5,9,-1.87,38,-71.06,"Sahin, Burak Doga",,2059.0,False,TUR,0.0,1,-0.65,38,-24.7
+25624849,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2105,2169,3.5,9,-1.87,38,-71.06,"Syrkiewicz, Michal",,2086.0,False,POL,0.5,1,-0.11,38,-4.18
+25624849,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2105,2169,3.5,9,-1.87,38,-71.06,"Potluri, Saye Srreezza",,2060.0,False,IND,1.0,1,0.35,38,13.3
+25624849,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2105,2169,3.5,9,-1.87,38,-71.06,"Demirtas, Alper",,2076.0,False,TUR,0.0,1,-0.63,38,-23.94
+25624849,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2105,2169,3.5,9,-1.87,38,-71.06,"Seretakis, Nikolas",,2004.0,False,GRE,1.0,1,0.28,38,10.64
+25624849,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2105,2169,3.5,9,-1.87,38,-71.06,"Skaperdas, Kostantinos",,2060.0,False,GRE,1.0,1,0.35,38,13.3
+25624849,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2105,2169,3.5,9,-1.87,38,-71.06,"Saksham, Wadhwa",,2036.0,False,IND,0.0,1,-0.68,38,-25.84
+25624849,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2105,2169,3.5,9,-1.87,38,-71.06,"Karademir, Bugra",,2044.0,False,TUR,0.0,1,-0.67,38,-25.46
+25624849,2024-09-01,0,Northumbria Masters IM Round Robin 2024,Darlington ENG,2024-08-22,2024-08-26,2242,2203,3.0,9,-1.01,38,-38.38,"Hollan, Petr",f,2249.0,False,CZE,0.5,1,0.06,38,2.28
+25624849,2024-09-01,0,Northumbria Masters IM Round Robin 2024,Darlington ENG,2024-08-22,2024-08-26,2242,2203,3.0,9,-1.01,38,-38.38,"Shearsby, Jude",,2164.0,False,ENG,0.5,1,-0.05,38,-1.9
+25624849,2024-09-01,0,Northumbria Masters IM Round Robin 2024,Darlington ENG,2024-08-22,2024-08-26,2242,2203,3.0,9,-1.01,38,-38.38,"Wall, Gavin",m,2258.0,False,IRL,0.0,1,-0.42,38,-15.96
+25624849,2024-09-01,0,Northumbria Masters IM Round Robin 2024,Darlington ENG,2024-08-22,2024-08-26,2242,2203,3.0,9,-1.01,38,-38.38,"Collin, Moritz Valentin",f,2234.0,False,SUI,1.0,1,0.54,38,20.52
+25624849,2024-09-01,0,Northumbria Masters IM Round Robin 2024,Darlington ENG,2024-08-22,2024-08-26,2242,2203,3.0,9,-1.01,38,-38.38,"Dunnington, Angus J",m,2256.0,False,SCO,0.5,1,0.07,38,2.66
+25624849,2024-09-01,0,Northumbria Masters IM Round Robin 2024,Darlington ENG,2024-08-22,2024-08-26,2242,2203,3.0,9,-1.01,38,-38.38,"Urh, Zala",wm,2256.0,False,SLO,0.0,1,-0.43,38,-16.34
+25624849,2024-09-01,0,Northumbria Masters IM Round Robin 2024,Darlington ENG,2024-08-22,2024-08-26,2242,2203,3.0,9,-1.01,38,-38.38,"Large, Peter G",m,2336.0,False,ENG,0.0,1,-0.32,38,-12.16
+25624849,2024-09-01,0,Northumbria Masters IM Round Robin 2024,Darlington ENG,2024-08-22,2024-08-26,2242,2203,3.0,9,-1.01,38,-38.38,"Moreby, James",f,2236.0,False,ENG,0.0,1,-0.45,38,-17.1
+25624849,2024-09-01,0,Northumbria Masters IM Round Robin 2024,Darlington ENG,2024-08-22,2024-08-26,2242,2203,3.0,9,-1.01,38,-38.38,"Burnett, Andrew",f,2193.0,False,SCO,0.5,1,-0.01,38,-0.38

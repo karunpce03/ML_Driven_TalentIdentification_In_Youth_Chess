@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33458480,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1647,1423,2.0,6,0.61,40,24.4,"Gavi, Siddayya",,1823,True,IND,0.0,1,-0.08,40,-3.2
+33458480,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1647,1423,2.0,6,0.61,40,24.4,"Atharv, Venkatesh",,1723,False,IND,0.0,1,-0.15,40,-6.0
+33458480,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1647,1423,2.0,6,0.61,40,24.4,"Shanmukha, Pulli",,1652,False,IND,1.0,1,0.79,40,31.6
+33458480,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1647,1423,2.0,6,0.61,40,24.4,"Shlok, Vinay Kulkarni",,1533,False,IND,0.0,1,-0.35,40,-14.0
+33458480,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1647,1423,2.0,6,0.61,40,24.4,"Vidhu, Thota",,1531,False,IND,0.0,1,-0.35,40,-14.0
+33458480,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1647,1423,2.0,6,0.61,40,24.4,"Saket, Kumar",,1619,False,IND,1.0,1,0.75,40,30.0

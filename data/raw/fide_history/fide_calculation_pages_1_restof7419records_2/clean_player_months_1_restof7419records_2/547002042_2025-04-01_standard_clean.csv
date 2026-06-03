@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+547002042,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,,,3.0,6,0.0,1586,,"Tejas, Mishra",,1488,False,IND,1.0,1,0.0,,0.0
+547002042,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,,,3.0,6,0.0,1586,,"Atiksh, Sagar",,1507,False,IND,1.0,1,0.0,,0.0
+547002042,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,,,3.0,6,0.0,1586,,"Abhinav, Kirti Varman",,1592,False,IND,0.0,1,0.0,,0.0
+547002042,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,,,3.0,6,0.0,1586,,"Agrawal, Anay",,1505,False,IND,0.5,1,0.0,,0.0
+547002042,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,,,3.0,6,0.0,1586,,"Divam, Talwar",,1565,False,IND,0.0,1,0.0,,0.0
+547002042,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,,,3.0,6,0.0,1586,,"Ramanuj, Mishra",,1857,False,IND,0.5,1,0.0,,0.0
+547002042,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,,,0.5,4,0.0,1198,,"Atiksh, Sagar",,1507,False,IND,0.5,1,0.0,,0.0
+547002042,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,,,0.5,4,0.0,1198,,"Aditya, Raj",,1460,False,IND,0.0,1,0.0,,0.0
+547002042,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,,,0.5,4,0.0,1198,,"Hardev, Sahai",,1663,False,IND,0.0,1,0.0,,0.0
+547002042,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,,,0.5,4,0.0,1198,,"Vanij, Jain",,1450,False,IND,0.0,1,0.0,,0.0

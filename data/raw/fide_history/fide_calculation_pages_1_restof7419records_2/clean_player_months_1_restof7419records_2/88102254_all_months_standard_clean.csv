@@ -1,0 +1,52 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88102254,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1584,1441,2.5,5,0.85,40,34.0,"Vishal, Choudary B",,1841.0,True,IND,0.0,1,-0.08,40,-3.2
+88102254,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1584,1441,2.5,5,0.85,40,34.0,"Paul Emerson, Gicale",,1522.0,False,PHI,1.0,1,0.61,40,24.4
+88102254,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1584,1441,2.5,5,0.85,40,34.0,"Avaneesh, Karanamu",,1577.0,False,IND,1.0,1,0.68,40,27.2
+88102254,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1584,1441,2.5,5,0.85,40,34.0,"Ramesh Nair, Advait",,1508.0,False,IND,0.5,1,0.09,40,3.6
+88102254,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1584,1441,2.5,5,0.85,40,34.0,"Ritul, Saai Praveen Kumar",,1474.0,False,IND,0.0,1,-0.45,40,-18.0
+88102254,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1541,1441,1.0,3,-0.09,38,-3.42,"Tom, Mathew",,1584.0,False,IND,0.5,1,0.19,38,7.22
+88102254,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1541,1441,1.0,3,-0.09,38,-3.42,"Nambiar, Niranjan Sujith",,1564.0,False,IND,0.0,1,-0.33,38,-12.54
+88102254,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1541,1441,1.0,3,-0.09,38,-3.42,"Advik, Mundhada",,1475.0,False,IND,0.5,1,0.05,38,1.9
+88102254,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1637,1475,4.0,8,1.64,38,62.32,"Rashid, Husain Alhammadi",,1654.0,False,UAE,0.5,1,0.23,38,8.74
+88102254,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1637,1475,4.0,8,1.64,38,62.32,"Rejepova, Jahan",,1813.0,False,TKM,0.0,1,-0.12,38,-4.56
+88102254,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1637,1475,4.0,8,1.64,38,62.32,"Muhammad, Saifan Noushad Ibrahim",,1587.0,False,IND,0.5,1,0.15,38,5.7
+88102254,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1637,1475,4.0,8,1.64,38,62.32,"Azylkhan, Yerkanat",,1540.0,False,KAZ,1.0,1,0.59,38,22.42
+88102254,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1637,1475,4.0,8,1.64,38,62.32,"Hibatilloev, Ramazon",,1590.0,False,UZB,1.0,1,0.66,38,25.08
+88102254,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1637,1475,4.0,8,1.64,38,62.32,"Sharma, Taksh",,1708.0,False,IND,0.0,1,-0.21,38,-7.98
+88102254,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1637,1475,4.0,8,1.64,38,62.32,"Saqar, Essa Khamis",,1596.0,False,UAE,0.5,1,0.16,38,6.08
+88102254,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1637,1475,4.0,8,1.64,38,62.32,"Andria, Bhattacharya",,1607.0,False,IND,0.5,1,0.18,38,6.84
+88102254,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1662,1475,1.5,7,-0.49,38,-18.62,"Al Hosni, Khalfan",,1738.0,False,OMA,0.0,1,-0.18,38,-6.84
+88102254,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1662,1475,1.5,7,-0.49,38,-18.62,"Ahmed, Nidal",,1852.0,False,PLE,0.5,1,0.41,38,15.58
+88102254,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1662,1475,1.5,7,-0.49,38,-18.62,"Valiyeva, Asnad",,1750.0,False,AZE,0.0,1,-0.17,38,-6.46
+88102254,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1662,1475,1.5,7,-0.49,38,-18.62,"Krisha, Tamhant Jain",,1835.0,False,IND,0.0,1,-0.1,38,-3.8
+88102254,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1662,1475,1.5,7,-0.49,38,-18.62,"Chakresh, Ganesan",,1451.0,False,IND,0.5,1,-0.03,38,-1.14
+88102254,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1662,1475,1.5,7,-0.49,38,-18.62,"Kazimzade, Mahammad",,1598.0,False,AZE,0.0,1,-0.33,38,-12.54
+88102254,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1662,1475,1.5,7,-0.49,38,-18.62,"Muminov, Imron",,1411.0,False,TJK,0.5,1,-0.09,38,-3.42
+88102254,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1521,1515,1.0,4,-0.96,40,-38.4,"Abdalla, Yahya Alhammadi",,1634.0,False,UAE,0.0,1,-0.34,40,-13.6
+88102254,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1521,1515,1.0,4,-0.96,40,-38.4,"Kedhar, Nellayimadom Santhosh",,1426.0,False,IND,1.0,1,0.38,40,15.2
+88102254,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1521,1515,1.0,4,-0.96,40,-38.4,"Saqar, Essa Khamis",,1623.0,False,UAE,0.0,1,-0.35,40,-14.0
+88102254,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1521,1515,1.0,4,-0.96,40,-38.4,"Parthiv, Senrayan Velmurugan",,1402.0,False,IND,0.0,1,-0.65,40,-26.0
+88102254,2024-09-01,0,Think &amp; Plan August 2024-Standard,Sharjah UAE,2024-08-10,2024-08-12,1711,1477,0.0,3,-0.65,40,-26.0,"Sharma, Taksh",,1812.0,False,IND,0.0,1,-0.12,40,-4.8
+88102254,2024-09-01,0,Think &amp; Plan August 2024-Standard,Sharjah UAE,2024-08-10,2024-08-12,1711,1477,0.0,3,-0.65,40,-26.0,"Sarish, Rajesh Shetty",,1591.0,False,IND,0.0,1,-0.34,40,-13.6
+88102254,2024-09-01,0,Think &amp; Plan August 2024-Standard,Sharjah UAE,2024-08-10,2024-08-12,1711,1477,0.0,3,-0.65,40,-26.0,"Sultan Jabir, Alzarooni",,1729.0,False,UAE,0.0,1,-0.19,40,-7.6
+88102254,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1583,1451,1.5,4,0.18,40,7.2,"Alali, Tammam.",,1687.0,False,SYR,0.0,1,-0.2,40,-8.0
+88102254,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1583,1451,1.5,4,0.18,40,7.2,"Sinno , Abdul Salam",,1594.0,False,LBN,1.0,1,0.69,40,27.6
+88102254,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1583,1451,1.5,4,0.18,40,7.2,"Aamer Saeed, Alyileili",,1640.0,False,UAE,0.5,1,0.25,40,10.0
+88102254,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1583,1451,1.5,4,0.18,40,7.2,"Rivera, Ariel",,1411.0,False,PHI,0.0,1,-0.56,40,-22.4
+88102254,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1707,1451,2.5,5,1.5,40,60.0,"Yohana, Teklehaimanot Brhane",,1639.0,False,ERI,1.0,1,0.74,40,29.6
+88102254,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1707,1451,2.5,5,1.5,40,60.0,"Nambiar, Niranjan Sujith",,1559.0,False,IND,1.0,1,0.65,40,26.0
+88102254,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1707,1451,2.5,5,1.5,40,60.0,"Nabatlao, Jason",,1769.0,False,PHI,0.0,1,-0.13,40,-5.2
+88102254,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1707,1451,2.5,5,1.5,40,60.0,"Kuzma, Ostap",,1717.0,False,UKR,0.5,1,0.32,40,12.8
+88102254,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1707,1451,2.5,5,1.5,40,60.0,"De Silva, Rasheen",,1851.0,True,SRI,0.0,1,-0.08,40,-3.2
+88102254,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1627,1458,3.0,6,1.29,40,51.6,"Hamdan, Hassan Mohammed Hassan",,1646.0,False,UAE,1.0,1,0.74,40,29.6
+88102254,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1627,1458,3.0,6,1.29,40,51.6,"Tayyeb, Usman",,1705.0,False,PAK,0.0,1,-0.19,40,-7.6
+88102254,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1627,1458,3.0,6,1.29,40,51.6,"Asher, Selvin Jayaseelan",,1542.0,False,IND,1.0,1,0.62,40,24.8
+88102254,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1627,1458,3.0,6,1.29,40,51.6,"Paul Emerson, Gicale",,1624.0,False,PHI,1.0,1,0.72,40,28.8
+88102254,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1627,1458,3.0,6,1.29,40,51.6,"Alviz, Joshua Ezekiel",,1740.0,False,PHI,0.0,1,-0.16,40,-6.4
+88102254,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1627,1458,3.0,6,1.29,40,51.6,"Hamad, Mohamed Almarashda",,1504.0,False,UAE,0.0,1,-0.44,40,-17.6
+88102254,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1720,1570,3.0,6,0.96,40,38.4,"Kamran, Fardad",,1756.0,False,PAK,0.0,1,-0.26,40,-10.4
+88102254,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1720,1570,3.0,6,0.96,40,38.4,"Elnemr, Mohamed",,1957.0,False,EGY,0.0,1,-0.09,40,-3.6
+88102254,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1720,1570,3.0,6,0.96,40,38.4,"Aamina, Shaikh Israr",,1454.0,False,IND,1.0,1,0.34,40,13.6
+88102254,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1720,1570,3.0,6,0.96,40,38.4,"Ritul, Saai Praveen Kumar",,1471.0,False,IND,1.0,1,0.36,40,14.4
+88102254,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1720,1570,3.0,6,0.96,40,38.4,"Hamad, Shuaib Al Kaff",,1710.0,False,UAE,1.0,1,0.69,40,27.6
+88102254,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1720,1570,3.0,6,0.96,40,38.4,"Chudinovskikh, Alexander M",m,1970.0,True,RUS,0.0,1,-0.08,40,-3.2

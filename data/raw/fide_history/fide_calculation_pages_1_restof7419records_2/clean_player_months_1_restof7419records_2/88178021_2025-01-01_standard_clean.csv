@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88178021,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1653,1473,1.5,5,0.15,40,6.0,"Aabhas, Kumar Srivastava",,1768.0,False,IND,0.0,1,-0.15,40,-6.0
+88178021,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1653,1473,1.5,5,0.15,40,6.0,"Aman, Agarwal",,1668.0,False,IND,0.0,1,-0.25,40,-10.0
+88178021,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1653,1473,1.5,5,0.15,40,6.0,"Ayansh, Singh",,1608.0,False,IND,1.0,1,0.68,40,27.2
+88178021,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1653,1473,1.5,5,0.15,40,6.0,"Bajpai, Anil",,1655.0,False,IND,0.0,1,-0.26,40,-10.4
+88178021,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1653,1473,1.5,5,0.15,40,6.0,"Aryansh, Chaturvedi",,1567.0,False,IND,0.5,1,0.13,40,5.2

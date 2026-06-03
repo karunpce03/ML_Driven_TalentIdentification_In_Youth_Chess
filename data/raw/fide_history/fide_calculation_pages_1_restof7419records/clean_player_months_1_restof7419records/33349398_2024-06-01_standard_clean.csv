@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33349398,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1819,1684,3.0,9,0.02,40,0.8,"Marcos, Marvin",,1955.0,False,PHI,0.0,1,-0.17,40,-6.8
+33349398,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1819,1684,3.0,9,0.02,40,0.8,"Maghakyan, Hayk",,1849.0,False,ARM,0.0,1,-0.28,40,-11.2
+33349398,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1819,1684,3.0,9,0.02,40,0.8,"Aryan, Goyal",,1795.0,False,IND,0.5,1,0.15,40,6.0
+33349398,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1819,1684,3.0,9,0.02,40,0.8,"Anoud, Eisa Bashkardi",,1772.0,False,UAE,1.0,1,0.62,40,24.8
+33349398,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1819,1684,3.0,9,0.02,40,0.8,"Ahmad, Al Romaithi",,1944.0,False,UAE,0.0,1,-0.18,40,-7.2
+33349398,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1819,1684,3.0,9,0.02,40,0.8,"Zayed, Sultan Al Taher",,1961.0,False,UAE,0.0,1,-0.17,40,-6.8
+33349398,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1819,1684,3.0,9,0.02,40,0.8,"Fawaz, Nadia",,1727.0,False,LBN,0.5,1,0.06,40,2.4
+33349398,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1819,1684,3.0,9,0.02,40,0.8,"Abhinav, Benny",,1615.0,False,IND,0.5,1,-0.1,40,-4.0
+33349398,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1819,1684,3.0,9,0.02,40,0.8,"Ilyushin, Viktor",,1749.0,False,UZB,0.5,1,0.09,40,3.6

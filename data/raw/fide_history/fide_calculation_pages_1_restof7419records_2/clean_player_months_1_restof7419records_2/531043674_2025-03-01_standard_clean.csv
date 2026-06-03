@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531043674,2025-03-01,0,Chess Lab U2199 Classic February Tournament,Dubai UAE,2025-02-01,2025-02-02,1695,1475,1.5,5,0.2,40,8.0,"Salman, Ali Khan",,1875,True,PAK,0.0,1,-0.08,40,-3.2
+531043674,2025-03-01,0,Chess Lab U2199 Classic February Tournament,Dubai UAE,2025-02-01,2025-02-02,1695,1475,1.5,5,0.2,40,8.0,"Opasiak, Dustin Tennessee",,1782,False,POL,0.5,1,0.36,40,14.4
+531043674,2025-03-01,0,Chess Lab U2199 Classic February Tournament,Dubai UAE,2025-02-01,2025-02-02,1695,1475,1.5,5,0.2,40,8.0,"Umayal, Ramanathan",,1437,False,IND,0.0,1,-0.55,40,-22.0
+531043674,2025-03-01,0,Chess Lab U2199 Classic February Tournament,Dubai UAE,2025-02-01,2025-02-02,1695,1475,1.5,5,0.2,40,8.0,"Minesh, Patil",,1517,False,IND,1.0,1,0.56,40,22.4
+531043674,2025-03-01,0,Chess Lab U2199 Classic February Tournament,Dubai UAE,2025-02-01,2025-02-02,1695,1475,1.5,5,0.2,40,8.0,"Vidur, Rajagopal",,1864,False,IND,0.0,1,-0.09,40,-3.6

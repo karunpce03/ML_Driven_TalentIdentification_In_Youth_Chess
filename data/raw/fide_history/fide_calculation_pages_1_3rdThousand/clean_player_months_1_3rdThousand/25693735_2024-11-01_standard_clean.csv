@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25693735,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2127,2043,3.5,9,-0.05,40,-2.0,"Formento, Paolo",f,2346.0,False,ITA,0.0,1,-0.14,40,-5.6
+25693735,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2127,2043,3.5,9,-0.05,40,-2.0,"Orfila, Kristofer",,2223.0,False,FRA,0.5,1,0.24,40,9.6
+25693735,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2127,2043,3.5,9,-0.05,40,-2.0,"Sharvaanica, A S",wc,1914.0,False,IND,1.0,1,0.33,40,13.2
+25693735,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2127,2043,3.5,9,-0.05,40,-2.0,"Rotunno, Flavio",,2217.0,False,SUI,0.0,1,-0.27,40,-10.8
+25693735,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2127,2043,3.5,9,-0.05,40,-2.0,"Kishore, Kumar Jagana",,2168.0,False,IND,0.0,1,-0.33,40,-13.2
+25693735,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2127,2043,3.5,9,-0.05,40,-2.0,"Mina, Marco",,1956.0,False,ITA,1.0,1,0.38,40,15.2
+25693735,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2127,2043,3.5,9,-0.05,40,-2.0,"Toktomushev, Teimur",f,2246.0,False,SUI,0.0,1,-0.24,40,-9.6
+25693735,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2127,2043,3.5,9,-0.05,40,-2.0,"Levesque, Guillaume",,1981.0,False,FRA,1.0,1,0.41,40,16.4
+25693735,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2127,2043,3.5,9,-0.05,40,-2.0,"Fischer, Julie",wf,2090.0,False,FRA,0.0,1,-0.43,40,-17.2

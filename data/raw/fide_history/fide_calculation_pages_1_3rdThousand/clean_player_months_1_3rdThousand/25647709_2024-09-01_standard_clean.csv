@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25647709,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2285,2301,7.0,9,2.29,10,22.9,"Annageldyev, Orazly",g,2316.0,False,TKM,1.0,1,0.52,10,5.2
+25647709,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2285,2301,7.0,9,2.29,10,22.9,"Harshad, S",f,2275.0,False,IND,0.5,1,-0.04,10,-0.4
+25647709,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2285,2301,7.0,9,2.29,10,22.9,"Nagarkatte, Vedant",f,2262.0,False,IND,0.5,1,-0.05,10,-0.5
+25647709,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2285,2301,7.0,9,2.29,10,22.9,"Manik, Mikulas",g,2338.0,False,SVK,1.0,1,0.55,10,5.5
+25647709,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2285,2301,7.0,9,2.29,10,22.9,"Uuriintuya, Uurtsaikh",wg,2214.0,False,MGL,1.0,1,0.38,10,3.8
+25647709,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2285,2301,7.0,9,2.29,10,22.9,"Daaevik, Wadhawan",f,2324.0,False,IND,1.0,1,0.53,10,5.3
+25647709,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2285,2301,7.0,9,2.29,10,22.9,"Nandish, V S",,2185.0,False,IND,1.0,1,0.34,10,3.4
+25647709,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2285,2301,7.0,9,2.29,10,22.9,"Slizhevsky, Alexander",m,2384.0,False,RUS,0.5,1,0.11,10,1.1
+25647709,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2285,2301,7.0,9,2.29,10,22.9,"Aakash, G",c,2265.0,False,IND,0.5,1,-0.05,10,-0.5
+25647709,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2173,2308,8.0,11,1.15,10,11.5,"Lalbiak, Mawia",,1908.0,True,IND,1.0,1,0.08,10,0.8
+25647709,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2173,2308,8.0,11,1.15,10,11.5,"Yashvi, Jain",,1908.0,True,IND,1.0,1,0.08,10,0.8
+25647709,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2173,2308,8.0,11,1.15,10,11.5,"Boricha, Yohan",,1908.0,True,IND,0.5,1,-0.42,10,-4.2
+25647709,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2173,2308,8.0,11,1.15,10,11.5,"Advik, Amit Agrawal",,1908.0,True,IND,1.0,1,0.08,10,0.8
+25647709,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2173,2308,8.0,11,1.15,10,11.5,"Deepan, Chakkravarthy J.",g,2423.0,False,IND,0.5,1,0.16,10,1.6
+25647709,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2173,2308,8.0,11,1.15,10,11.5,"Iniyan, Pa",g,2547.0,False,IND,0.5,1,0.3,10,3.0
+25647709,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2173,2308,8.0,11,1.15,10,11.5,"Chatterjee, K.k.",c,1951.0,False,IND,1.0,1,0.11,10,1.1
+25647709,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2173,2308,8.0,11,1.15,10,11.5,"Das, Sayantan",g,2491.0,False,IND,1.0,1,0.74,10,7.4
+25647709,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2173,2308,8.0,11,1.15,10,11.5,"Aronyak, Ghosh",c,2535.0,False,IND,0.0,1,-0.21,10,-2.1
+25647709,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2173,2308,8.0,11,1.15,10,11.5,"Ravi, Teja S.",m,2416.0,False,IND,0.5,1,0.15,10,1.5
+25647709,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2173,2308,8.0,11,1.15,10,11.5,"Shah, Moxit J",,1908.0,True,IND,1.0,1,0.08,10,0.8

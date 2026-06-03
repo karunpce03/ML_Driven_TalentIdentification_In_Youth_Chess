@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88199193,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1674,1471,1.0,4,-0.02,40,-0.8,"Siddharth, Sanjoy",,1841.0,False,IND,0.0,1,-0.1,40,-4.0
+88199193,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1674,1471,1.0,4,-0.02,40,-0.8,"Alhammadi, Khalifa Mohamed",,1709.0,False,UAE,0.0,1,-0.2,40,-8.0
+88199193,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1674,1471,1.0,4,-0.02,40,-0.8,"Zain, Ali Shaheen",,1570.0,False,IND,0.0,1,-0.36,40,-14.4
+88199193,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1674,1471,1.0,4,-0.02,40,-0.8,"Muhammad Saleem, Hamad",,1577.0,False,PAK,1.0,1,0.64,40,25.6

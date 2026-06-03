@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33370109,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2013,2031,7.5,11,1.46,40,58.4,"Barbith, M Sangma",,1736,False,IND,1.0,1,0.15,40,6.0
+33370109,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2013,2031,7.5,11,1.46,40,58.4,"Parth, Belwal",,1840,False,IND,0.5,1,-0.25,40,-10.0
+33370109,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2013,2031,7.5,11,1.46,40,58.4,"Shreyas, Mishra",,1762,False,IND,1.0,1,0.17,40,6.8
+33370109,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2013,2031,7.5,11,1.46,40,58.4,"Visakh, N R",g,2431,True,IND,0.0,1,-0.08,40,-3.2
+33370109,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2013,2031,7.5,11,1.46,40,58.4,"Vigneshwaran, S",,1860,False,IND,1.0,1,0.27,40,10.8
+33370109,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2013,2031,7.5,11,1.46,40,58.4,"Mhamane, Sourabh",,1884,False,IND,0.5,1,-0.2,40,-8.0
+33370109,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2013,2031,7.5,11,1.46,40,58.4,"Om, Nagnath Lamkane",,1914,False,IND,1.0,1,0.34,40,13.6
+33370109,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2013,2031,7.5,11,1.46,40,58.4,"Sankalp, Gupta",g,2431,True,IND,0.0,1,-0.08,40,-3.2
+33370109,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2013,2031,7.5,11,1.46,40,58.4,"Sumit, Grover",,1907,False,IND,1.0,1,0.33,40,13.2
+33370109,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2013,2031,7.5,11,1.46,40,58.4,"Krishna, C R G",m,2431,True,IND,0.5,1,0.42,40,16.8
+33370109,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2013,2031,7.5,11,1.46,40,58.4,"Chatterjee, K.k.",c,1951,False,IND,1.0,1,0.39,40,15.6

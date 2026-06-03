@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531012817,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1516,1465,4.5,9,0.62,40,24.8,"Rounak, Bhattacharya",,1571.0,False,IND,0.0,1,-0.36,40,-14.4
+531012817,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1516,1465,4.5,9,0.62,40,24.8,"Ishaan, Mukund Laddha",,1418.0,False,IND,1.0,1,0.43,40,17.2
+531012817,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1516,1465,4.5,9,0.62,40,24.8,"Prabindra, Mani Verma",,1509.0,False,IND,1.0,1,0.56,40,22.4
+531012817,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1516,1465,4.5,9,0.62,40,24.8,"Vanshika, Rawat",,1560.0,False,IND,0.0,1,-0.37,40,-14.8
+531012817,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1516,1465,4.5,9,0.62,40,24.8,"Bijendra, Singh Bhati",,1503.0,False,IND,1.0,1,0.55,40,22.0
+531012817,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1516,1465,4.5,9,0.62,40,24.8,"Viraj, Sharma",,1527.0,False,IND,0.5,1,0.09,40,3.6
+531012817,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1516,1465,4.5,9,0.62,40,24.8,"Dev, Pratap",,1496.0,False,IND,1.0,1,0.54,40,21.6
+531012817,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1516,1465,4.5,9,0.62,40,24.8,"Raj, Prakhar",,1571.0,False,IND,0.0,1,-0.36,40,-14.4
+531012817,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1516,1465,4.5,9,0.62,40,24.8,"Chaudhary, Parv",,1492.0,False,IND,0.0,1,-0.46,40,-18.4

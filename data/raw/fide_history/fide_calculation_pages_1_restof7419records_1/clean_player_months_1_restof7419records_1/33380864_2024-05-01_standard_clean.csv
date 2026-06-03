@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33380864,2024-05-01,0,UAE League Chess Championship - U18 Girls,Emirates UAE,2024-02-10,2024-03-10,1636,1171,2.0,4,1.44,40,57.6,"Ahlam, Rashed",wf,2222.0,False,UAE,0.0,1,0.0,40,0.0
+33380864,2024-05-01,0,UAE League Chess Championship - U18 Girls,Emirates UAE,2024-02-10,2024-03-10,1636,1171,2.0,4,1.44,40,57.6,"Aisha, Mohamed Al Muaini",,1354.0,False,UAE,1.0,1,0.74,40,29.6
+33380864,2024-05-01,0,UAE League Chess Championship - U18 Girls,Emirates UAE,2024-02-10,2024-03-10,1636,1171,2.0,4,1.44,40,57.6,"Anood, Ahmad",,1583.0,False,UAE,1.0,1,0.93,40,37.2
+33380864,2024-05-01,0,UAE League Chess Championship - U18 Girls,Emirates UAE,2024-02-10,2024-03-10,1636,1171,2.0,4,1.44,40,57.6,"Fatima, Saif Al-Ali",wc,1384.0,False,UAE,0.0,1,-0.23,40,-9.2
+33380864,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,1733,1503,0.0,2,-0.42,40,-16.8,"Felix, Winnie",,1734.0,False,PHI,0.0,1,-0.21,40,-8.4
+33380864,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,1733,1503,0.0,2,-0.42,40,-16.8,Ananthnarayan,,1731.0,False,IND,0.0,1,-0.21,40,-8.4

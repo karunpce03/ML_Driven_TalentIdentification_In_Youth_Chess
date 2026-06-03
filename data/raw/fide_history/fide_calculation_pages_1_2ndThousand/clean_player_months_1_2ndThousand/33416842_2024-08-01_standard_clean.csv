@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33416842,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1713,1405,0.5,4,-0.12,40,-4.8,"Shivam, Chaudhary",,1725,False,IND,0.0,1,-0.13,40,-5.2
+33416842,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1713,1405,0.5,4,-0.12,40,-4.8,"Kothari, Jai",,1805,True,ENG,0.0,1,-0.08,40,-3.2
+33416842,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1713,1405,0.5,4,-0.12,40,-4.8,"Arnav, B Kumar",,1762,False,IND,0.5,1,0.39,40,15.6
+33416842,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1713,1405,0.5,4,-0.12,40,-4.8,"Rajendra, Singh",,1558,False,IND,0.0,1,-0.3,40,-12.0

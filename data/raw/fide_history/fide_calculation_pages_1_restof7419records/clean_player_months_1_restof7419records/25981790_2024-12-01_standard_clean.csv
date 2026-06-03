@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25981790,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1636,1960,6.5,9,-1.27,40,-50.8,"Rahul, R K",,1560,True,IND,1.0,1,0.08,40,3.2
+25981790,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1636,1960,6.5,9,-1.27,40,-50.8,"Sahil, Mahajan",,1560,True,IND,1.0,1,0.08,40,3.2
+25981790,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1636,1960,6.5,9,-1.27,40,-50.8,"Ravi, Kumar",,1653,False,IND,0.0,1,-0.86,40,-34.4
+25981790,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1636,1960,6.5,9,-1.27,40,-50.8,"Shahzeb, Rizvi",,1560,True,IND,1.0,1,0.08,40,3.2
+25981790,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1636,1960,6.5,9,-1.27,40,-50.8,"Vitasta, Koul",,1615,False,IND,1.0,1,0.11,40,4.4
+25981790,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1636,1960,6.5,9,-1.27,40,-50.8,Divyansh,,1697,False,IND,0.0,1,-0.82,40,-32.8
+25981790,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1636,1960,6.5,9,-1.27,40,-50.8,"Aarav, Gupta",,1592,False,IND,1.0,1,0.1,40,4.0
+25981790,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1636,1960,6.5,9,-1.27,40,-50.8,"Pazhany, Kaushal Kohli",,1683,False,IND,1.0,1,0.17,40,6.8
+25981790,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1636,1960,6.5,9,-1.27,40,-50.8,"Aarit, Kapil",,1800,False,IND,0.5,1,-0.21,40,-8.4

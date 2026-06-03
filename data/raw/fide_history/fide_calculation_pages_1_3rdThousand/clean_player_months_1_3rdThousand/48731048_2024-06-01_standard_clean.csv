@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48731048,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1685,1533,2.0,5,0.46,40,18.4,"Mridav, M",,1773.0,False,IND,0.0,1,-0.2,40,-8.0
+48731048,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1685,1533,2.0,5,0.46,40,18.4,"Shashish, Subbiah",,1824.0,False,IND,0.0,1,-0.15,40,-6.0
+48731048,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1685,1533,2.0,5,0.46,40,18.4,"Dhinesh, K A",,1614.0,False,IND,1.0,1,0.61,40,24.4
+48731048,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1685,1533,2.0,5,0.46,40,18.4,"Nikhil, T L",,1607.0,False,IND,0.5,1,0.1,40,4.0
+48731048,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1685,1533,2.0,5,0.46,40,18.4,"Brijesh, Poola",,1608.0,False,IND,0.5,1,0.1,40,4.0
+48731048,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1700,1533,2.0,6,0.18,40,7.2,"Kirpesh, I",,1771.0,False,IND,0.5,1,0.3,40,12.0
+48731048,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1700,1533,2.0,6,0.18,40,7.2,"Ram, Kumar G M",,1788.0,False,IND,0.0,1,-0.19,40,-7.6
+48731048,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1700,1533,2.0,6,0.18,40,7.2,"Rakshith, Srinivasan",,1933.0,True,IND,0.0,1,-0.08,40,-3.2
+48731048,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1700,1533,2.0,6,0.18,40,7.2,"Bhava, Kishan",,1439.0,False,IND,1.0,1,0.37,40,14.8
+48731048,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1700,1533,2.0,6,0.18,40,7.2,"Mohana, Surya V",,1640.0,False,IND,0.5,1,0.15,40,6.0
+48731048,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1700,1533,2.0,6,0.18,40,7.2,"Sananda, R",,1629.0,False,IND,0.0,1,-0.37,40,-14.8

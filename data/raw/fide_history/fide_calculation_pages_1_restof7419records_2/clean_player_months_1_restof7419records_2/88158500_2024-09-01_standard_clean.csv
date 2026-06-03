@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88158500,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,,,0.0,4,0.0,740,,"Sayan, Bhattacharjee",,1576,False,IND,0.0,1,0.0,,0.0
+88158500,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,,,0.0,4,0.0,740,,"Shibantak, Saha",,1455,False,IND,0.0,1,0.0,,0.0
+88158500,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,,,0.0,4,0.0,740,,"Rajorshi, Pramanik",,1462,False,IND,0.0,1,0.0,,0.0
+88158500,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,,,0.0,4,0.0,740,,"Adipto, Nath",,1665,False,IND,0.0,1,0.0,,0.0

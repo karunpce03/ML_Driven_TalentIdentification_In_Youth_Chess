@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25168800,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1731,5.0,10,1.45,40,58.0,"Kulkarni, Bhakti",m wg,2131,True,IND,0.0,1,-0.08,40,-3.2
+25168800,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1731,5.0,10,1.45,40,58.0,"Himani, Dewangan",,1500,False,IND,1.0,1,0.21,40,8.4
+25168800,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1731,5.0,10,1.45,40,58.0,"Arpita, Mukherjee",wm,2131,True,IND,0.0,1,-0.08,40,-3.2
+25168800,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1731,5.0,10,1.45,40,58.0,"Anusri, S",,1491,False,IND,0.5,1,-0.3,40,-12.0
+25168800,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1731,5.0,10,1.45,40,58.0,"Nischala, Y",,1521,False,IND,1.0,1,0.23,40,9.2
+25168800,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1731,5.0,10,1.45,40,58.0,"Ishvi, Aggarwal",wc,2008,False,IND,1.0,1,0.83,40,33.2
+25168800,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1731,5.0,10,1.45,40,58.0,"Potluri, Supreetha",wf,1916,False,IND,1.0,1,0.74,40,29.6
+25168800,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1731,5.0,10,1.45,40,58.0,"Mrittika, Mallick",,2042,False,IND,0.0,1,-0.14,40,-5.6
+25168800,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1731,5.0,10,1.45,40,58.0,"Kirthika, B",,1909,False,IND,0.5,1,0.23,40,9.2
+25168800,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1863,1731,5.0,10,1.45,40,58.0,"Nivedita, V C",,1980,False,IND,0.0,1,-0.19,40,-7.6

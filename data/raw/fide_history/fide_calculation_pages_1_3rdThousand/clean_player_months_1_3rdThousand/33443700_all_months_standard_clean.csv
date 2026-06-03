@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33443700,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,,,1.0,4,0.0,1271,,"Chetana, Gopalakrishnan",,1451.0,False,IND,0.5,1,0.0,,0.0
+33443700,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,,,1.0,4,0.0,1271,,"Kavin, V",,1510.0,False,IND,0.0,1,0.0,,0.0
+33443700,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,,,1.0,4,0.0,1271,,"Shailesh, Sivakumar",,1448.0,False,IND,0.0,1,0.0,,0.0
+33443700,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,,,1.0,4,0.0,1271,,"Sharwin, J",,1448.0,False,IND,0.5,1,0.0,,0.0
+33443700,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,2.0,4,0.0,1535,,"Bharani, G N",,1410.0,False,IND,1.0,1,0.0,,0.0
+33443700,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,2.0,4,0.0,1535,,"Malhotra, Harsh",,1863.0,False,IND,0.0,1,0.0,,0.0
+33443700,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,2.0,4,0.0,1535,,"Angada, H P",,1402.0,False,IND,0.0,1,0.0,,0.0
+33443700,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,2.0,4,0.0,1535,,"Dhanyashree, P",,1465.0,False,IND,1.0,1,0.0,,0.0
+33443700,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1678.0,1481.0,0.5,2,0.01,40,0.4,"Pasricha, Jayan",,1682.0,False,IND,0.5,1,0.26,40.0,10.4
+33443700,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1678.0,1481.0,0.5,2,0.01,40,0.4,"Nayaz, Ahamad",,1674.0,False,IND,0.0,1,-0.25,40.0,-10.0

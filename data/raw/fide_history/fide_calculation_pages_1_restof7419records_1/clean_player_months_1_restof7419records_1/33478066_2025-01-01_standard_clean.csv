@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33478066,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2356,2270,4.0,8,0.93,40,37.2,"Vantika, Agrawal",m wg,2392.0,False,IND,0.0,1,-0.33,40,-13.2
+33478066,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2356,2270,4.0,8,0.93,40,37.2,"Schekachikhin, Maksim",m,2353.0,False,FID,0.0,1,-0.39,40,-15.6
+33478066,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2356,2270,4.0,8,0.93,40,37.2,"Apaar, Saxena",c,2333.0,False,IND,1.0,1,0.59,40,23.6
+33478066,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2356,2270,4.0,8,0.93,40,37.2,"Ankit, Ray",f,2320.0,False,IND,1.0,1,0.57,40,22.8
+33478066,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2356,2270,4.0,8,0.93,40,37.2,"Garv, Gaur",f,2388.0,False,IND,0.0,1,-0.34,40,-13.6
+33478066,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2356,2270,4.0,8,0.93,40,37.2,"Timoshin, Maxim",f,2361.0,False,FID,0.0,1,-0.38,40,-15.2
+33478066,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2356,2270,4.0,8,0.93,40,37.2,"Khamdamova, Afruza",wm,2330.0,False,UZB,1.0,1,0.58,40,23.2
+33478066,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2356,2270,4.0,8,0.93,40,37.2,"Mamatov, Melis",f,2367.0,False,KGZ,1.0,1,0.63,40,25.2

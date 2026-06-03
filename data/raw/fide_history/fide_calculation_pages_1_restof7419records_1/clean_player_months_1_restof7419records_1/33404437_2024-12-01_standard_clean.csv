@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33404437,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1771,1785,5.0,8,0.89,40,35.6,"Atharva, Kannaujiya",,1514.0,False,IND,1.0,1,0.17,40,6.8
+33404437,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1771,1785,5.0,8,0.89,40,35.6,"Saket, Kumar",,1619.0,False,IND,1.0,1,0.28,40,11.2
+33404437,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1771,1785,5.0,8,0.89,40,35.6,Jeevanandham,,1623.0,False,IND,1.0,1,0.29,40,11.6
+33404437,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1771,1785,5.0,8,0.89,40,35.6,"Hegde, Ravi Gopal",m,1949.0,False,IND,0.5,1,0.22,40,8.8
+33404437,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1771,1785,5.0,8,0.89,40,35.6,"Kulkarni, Vinayak",,1978.0,False,IND,0.5,1,0.25,40,10.0
+33404437,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1771,1785,5.0,8,0.89,40,35.6,"Madhesh, Kumar S",,1925.0,False,IND,0.0,1,-0.31,40,-12.4
+33404437,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1771,1785,5.0,8,0.89,40,35.6,"Ajith, Nayak",,1641.0,False,IND,1.0,1,0.31,40,12.4
+33404437,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1771,1785,5.0,8,0.89,40,35.6,"Devnath, Bijesh",,1916.0,False,IND,0.0,1,-0.32,40,-12.8

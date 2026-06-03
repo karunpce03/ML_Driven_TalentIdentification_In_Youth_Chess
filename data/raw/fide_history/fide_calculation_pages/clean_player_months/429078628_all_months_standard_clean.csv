@@ -1,0 +1,34 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429078628,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,,,0.0,4,0.0,653,,"Monish, G",,1547.0,False,IND,0.0,1,0.0,,0.0
+429078628,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,,,0.0,4,0.0,653,,"Vikas, Singh Tanwar",,1412.0,False,IND,0.0,1,0.0,,0.0
+429078628,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,,,0.0,4,0.0,653,,"Jan, Hanno L J",,1414.0,False,IND,0.0,1,0.0,,0.0
+429078628,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,,,0.0,4,0.0,653,,"Jimson, Paul John Jayakumaran",,1437.0,False,IND,0.0,1,0.0,,0.0
+429078628,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,,,1.0,4,0.0,1310,,"Kabilesh, K",,1530.0,False,IND,0.0,1,0.0,,0.0
+429078628,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,,,1.0,4,0.0,1310,,"Sathvika, S",,1564.0,False,IND,1.0,1,0.0,,0.0
+429078628,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,,,1.0,4,0.0,1310,,"Thanshika, G",,1433.0,False,IND,0.0,1,0.0,,0.0
+429078628,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,,,1.0,4,0.0,1310,,"Kaaviya, S",,1484.0,False,IND,0.0,1,0.0,,0.0
+429078628,2024-10-01,0,36th Tamilnadu State Under-11 Girls FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,,,1.5,4,0.0,1372,,"Deniya, V",,1499.0,False,IND,1.0,1,0.0,,0.0
+429078628,2024-10-01,0,36th Tamilnadu State Under-11 Girls FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,,,1.5,4,0.0,1372,,"Fecilika, Fiance S",,1438.0,False,IND,0.0,1,0.0,,0.0
+429078628,2024-10-01,0,36th Tamilnadu State Under-11 Girls FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,,,1.5,4,0.0,1372,,"Akshara, Sree G",,1439.0,False,IND,0.5,1,0.0,,0.0
+429078628,2024-10-01,0,36th Tamilnadu State Under-11 Girls FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,,,1.5,4,0.0,1372,,"Kanishka, M",,1461.0,False,IND,0.0,1,0.0,,0.0
+429078628,2024-10-01,0,37th National Under-7 Girls Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,0.0,1,0.0,668,,"Jiaana, Garg",,1468.0,False,IND,0.0,1,0.0,,0.0
+429078628,2024-11-01,0,37TH TAMIL NADU STATE UNDER 09 GIRLS CHESS CHAMPIONSHIP 2024,MADURAI IND,2024-09-28,2024-10-02,1424.0,1405.0,2.0,5,-0.38,40,-15.2,"Varnika, J B",,1420.0,False,IND,1.0,1,0.52,40.0,20.8
+429078628,2024-11-01,0,37TH TAMIL NADU STATE UNDER 09 GIRLS CHESS CHAMPIONSHIP 2024,MADURAI IND,2024-09-28,2024-10-02,1424.0,1405.0,2.0,5,-0.38,40,-15.2,"Yakshini, P",,1421.0,False,IND,1.0,1,0.52,40.0,20.8
+429078628,2024-11-01,0,37TH TAMIL NADU STATE UNDER 09 GIRLS CHESS CHAMPIONSHIP 2024,MADURAI IND,2024-09-28,2024-10-02,1424.0,1405.0,2.0,5,-0.38,40,-15.2,"Harshika, M",,1408.0,False,IND,0.0,1,-0.5,40.0,-20.0
+429078628,2024-11-01,0,37TH TAMIL NADU STATE UNDER 09 GIRLS CHESS CHAMPIONSHIP 2024,MADURAI IND,2024-09-28,2024-10-02,1424.0,1405.0,2.0,5,-0.38,40,-15.2,"Arushi, Dinesh",,1428.0,False,IND,0.0,1,-0.47,40.0,-18.8
+429078628,2024-11-01,0,37TH TAMIL NADU STATE UNDER 09 GIRLS CHESS CHAMPIONSHIP 2024,MADURAI IND,2024-09-28,2024-10-02,1424.0,1405.0,2.0,5,-0.38,40,-15.2,"Meha, M R",,1442.0,False,IND,0.0,1,-0.45,40.0,-18.0
+429078628,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,,,2.0,6,0.0,1333,,"Mitesh, Khanna Y",,1582.0,False,IND,0.0,1,0.0,,0.0
+429078628,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,,,2.0,6,0.0,1333,,"Megha, S K",,1429.0,False,IND,1.0,1,0.0,,0.0
+429078628,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,,,2.0,6,0.0,1333,,"Sathvika, S",,1438.0,False,IND,0.0,1,0.0,,0.0
+429078628,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,,,2.0,6,0.0,1333,,"Jhanvi, Venkatesh",,1464.0,False,IND,0.0,1,0.0,,0.0
+429078628,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,,,2.0,6,0.0,1333,,"Sai, Nitisha K",,1404.0,False,IND,1.0,1,0.0,,0.0
+429078628,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,,,2.0,6,0.0,1333,,Shanibraaz,,1428.0,False,IND,0.0,1,0.0,,0.0
+429078628,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1436.0,1402.0,2.0,7,-1.17,40,-46.8,"Anushka, Manoj Kumar",,1460.0,False,IND,0.0,1,-0.42,40.0,-16.8
+429078628,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1436.0,1402.0,2.0,7,-1.17,40,-46.8,"Giddal, Sharon Blessy",,1414.0,False,IND,0.0,1,-0.48,40.0,-19.2
+429078628,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1436.0,1402.0,2.0,7,-1.17,40,-46.8,"Naira, Aditya",,1420.0,False,IND,1.0,1,0.53,40.0,21.2
+429078628,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1436.0,1402.0,2.0,7,-1.17,40,-46.8,"Rithanya, D",,1438.0,False,IND,1.0,1,0.55,40.0,22.0
+429078628,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1436.0,1402.0,2.0,7,-1.17,40,-46.8,"Nitya, Konduri",,1462.0,False,IND,0.0,1,-0.42,40.0,-16.8
+429078628,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1436.0,1402.0,2.0,7,-1.17,40,-46.8,"Trishika, Patnaik",,1434.0,False,IND,0.0,1,-0.46,40.0,-18.4
+429078628,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1436.0,1402.0,2.0,7,-1.17,40,-46.8,"Megha, S K",,1424.0,False,IND,0.0,1,-0.47,40.0,-18.8
+429078628,2025-02-01,0,U 09 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1427.0,1402.0,0.0,2,-0.93,40,-37.2,"Rayna, Ajay Patel",,1453.0,False,IND,0.0,1,-0.43,40.0,-17.2
+429078628,2025-02-01,0,U 09 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1427.0,1402.0,0.0,2,-0.93,40,-37.2,"Eishita, Lahiry",,1401.0,False,IND,0.0,1,-0.5,40.0,-20.0

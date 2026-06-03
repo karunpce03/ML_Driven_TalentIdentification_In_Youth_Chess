@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25984446,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2034,1729,6.0,11,4.37,40,174.8,"Swara, Lakshmi S Nair",wc,2051,False,IND,1.0,1,0.87,40,34.8
+25984446,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2034,1729,6.0,11,4.37,40,174.8,"Anishka, Vikram",wc,2048,False,IND,1.0,1,0.87,40,34.8
+25984446,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2034,1729,6.0,11,4.37,40,174.8,"Norman, Kseniya",,2129,True,FID,0.5,1,0.42,40,16.8
+25984446,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2034,1729,6.0,11,4.37,40,174.8,"Wikar, Martyna",wf,2129,True,POL,0.0,1,-0.08,40,-3.2
+25984446,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2034,1729,6.0,11,4.37,40,174.8,"Sherali, Pattnaik",,1955,False,IND,1.0,1,0.79,40,31.6
+25984446,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2034,1729,6.0,11,4.37,40,174.8,"Kaldarova, Ayaulym",wf,2100,False,KAZ,0.0,1,-0.1,40,-4.0
+25984446,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2034,1729,6.0,11,4.37,40,174.8,"Gunawardhana, Devindya Oshini",wf,1980,False,SRI,0.0,1,-0.19,40,-7.6
+25984446,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2034,1729,6.0,11,4.37,40,174.8,"Nagyova, Daniela",,1958,False,CZE,1.0,1,0.79,40,31.6
+25984446,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2034,1729,6.0,11,4.37,40,174.8,"Striskova, Lucia",,2023,False,SVK,0.0,1,-0.15,40,-6.0
+25984446,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2034,1729,6.0,11,4.37,40,174.8,"Mrittika, Mallick",,2076,False,IND,1.0,1,0.89,40,35.6
+25984446,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2034,1729,6.0,11,4.37,40,174.8,"Bhagyashree, Patil",wf,1929,False,IND,0.5,1,0.26,40,10.4

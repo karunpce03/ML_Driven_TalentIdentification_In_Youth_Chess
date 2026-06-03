@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33442215,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1577,1876,2.5,5,-1.72,40,-68.8,"Anirban, Patra",,1476,True,IND,1.0,1,0.08,40,3.2
+33442215,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1577,1876,2.5,5,-1.72,40,-68.8,"Agnibho, Mukhopadhyay",,1509,False,IND,1.0,1,0.1,40,4.0
+33442215,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1577,1876,2.5,5,-1.72,40,-68.8,"Neelabhro, Bandyopadhyay",,1675,False,IND,0.5,1,-0.26,40,-10.4
+33442215,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1577,1876,2.5,5,-1.72,40,-68.8,"Somiddho, Rajbanshi",,1669,False,IND,0.0,1,-0.77,40,-30.8
+33442215,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1577,1876,2.5,5,-1.72,40,-68.8,"Ankit, Debnath",,1554,False,IND,0.0,1,-0.87,40,-34.8

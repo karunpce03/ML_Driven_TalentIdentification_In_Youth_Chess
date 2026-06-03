@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48765848,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1703,1492,0.0,3,-0.7,40,-28.0,"Nishaanth, Vidyasagar",,1725.0,False,IND,0.0,1,-0.21,40,-8.4
+48765848,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1703,1492,0.0,3,-0.7,40,-28.0,"Alasfour, Zaid",,1755.0,False,KUW,0.0,1,-0.18,40,-7.2
+48765848,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1703,1492,0.0,3,-0.7,40,-28.0,Nithinkrish,,1630.0,False,IND,0.0,1,-0.31,40,-12.4

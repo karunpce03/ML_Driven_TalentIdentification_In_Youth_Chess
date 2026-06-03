@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33382212,2024-12-01,0,2024 Texas Winter FIDE - Championship,"Irving, TX USA",2024-11-15,2024-11-17,1738,1729,2.0,5,-0.45,40,-18.0,"Vuyyuru, Shriyan",,1898.0,False,USA,0.0,1,-0.28,40,-11.2
+33382212,2024-12-01,0,2024 Texas Winter FIDE - Championship,"Irving, TX USA",2024-11-15,2024-11-17,1738,1729,2.0,5,-0.45,40,-18.0,"Zhang, Lawrence",,1589.0,False,USA,1.0,1,0.31,40,12.4
+33382212,2024-12-01,0,2024 Texas Winter FIDE - Championship,"Irving, TX USA",2024-11-15,2024-11-17,1738,1729,2.0,5,-0.45,40,-18.0,"Zhou, Huanzhi",,1838.0,False,USA,0.0,1,-0.35,40,-14.0
+33382212,2024-12-01,0,2024 Texas Winter FIDE - Championship,"Irving, TX USA",2024-11-15,2024-11-17,1738,1729,2.0,5,-0.45,40,-18.0,"Roy, Aanya",,1750.0,False,USA,0.5,1,0.03,40,1.2
+33382212,2024-12-01,0,2024 Texas Winter FIDE - Championship,"Irving, TX USA",2024-11-15,2024-11-17,1738,1729,2.0,5,-0.45,40,-18.0,"Banerjee, Evan",,1615.0,False,CAN,0.5,1,-0.16,40,-6.4

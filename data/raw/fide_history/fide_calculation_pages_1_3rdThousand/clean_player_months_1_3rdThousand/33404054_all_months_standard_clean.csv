@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33404054,2024-06-01,0,50th Tripura State Senior Open  Fide Rating  Chess  Selection Championship-2024,Agartala IND,2024-05-23,2024-05-26,,,1.5,5,0.0,1357,,"Sky, Debnath",,1571.0,False,IND,0.0,1,0.0,,0.0
+33404054,2024-06-01,0,50th Tripura State Senior Open  Fide Rating  Chess  Selection Championship-2024,Agartala IND,2024-05-23,2024-05-26,,,1.5,5,0.0,1357,,"Sushil, Chakraborty",,1510.0,False,IND,0.5,1,0.0,,0.0
+33404054,2024-06-01,0,50th Tripura State Senior Open  Fide Rating  Chess  Selection Championship-2024,Agartala IND,2024-05-23,2024-05-26,,,1.5,5,0.0,1357,,"Datta, Magnus",,1476.0,False,IND,0.5,1,0.0,,0.0
+33404054,2024-06-01,0,50th Tripura State Senior Open  Fide Rating  Chess  Selection Championship-2024,Agartala IND,2024-05-23,2024-05-26,,,1.5,5,0.0,1357,,"Krishi, Kumar Murasingh",,1471.0,False,IND,0.5,1,0.0,,0.0
+33404054,2024-06-01,0,50th Tripura State Senior Open  Fide Rating  Chess  Selection Championship-2024,Agartala IND,2024-05-23,2024-05-26,,,1.5,5,0.0,1357,,"Debajit, Dey",,1500.0,False,IND,0.0,1,0.0,,0.0
+33404054,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1781.0,1488.0,0.0,3,-0.48,40,-19.2,"Robert, Runremmawia",,1758.0,False,IND,0.0,1,-0.17,40.0,-6.8
+33404054,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1781.0,1488.0,0.0,3,-0.48,40,-19.2,"Dibya, Jyoti Sarkar",,1696.0,False,IND,0.0,1,-0.23,40.0,-9.2
+33404054,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1781.0,1488.0,0.0,3,-0.48,40,-19.2,"Dupit, Tabu",,1888.0,True,IND,0.0,1,-0.08,40.0,-3.2
+33404054,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1783.0,1488.0,0.5,2,0.19,40,7.6,"Himanshu, Moudgil",,1736.0,False,IND,0.5,1,0.31,40.0,12.4
+33404054,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1783.0,1488.0,0.5,2,0.19,40,7.6,"Shubham, Kumar",,1830.0,False,IND,0.0,1,-0.12,40.0,-4.8
+33404054,2025-03-01,0,1st T-RERA International Open FIDE Rating Chess Tournament,Agartala IND,2025-01-30,2025-02-03,1642.0,1469.0,0.0,1,-0.27,40,-10.8,"Arnav, Verma",,1642.0,False,IND,0.0,1,-0.27,40.0,-10.8

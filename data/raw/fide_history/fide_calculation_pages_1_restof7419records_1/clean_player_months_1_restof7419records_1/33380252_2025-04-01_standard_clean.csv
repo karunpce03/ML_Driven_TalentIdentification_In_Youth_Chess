@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33380252,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open B (1600-2200),CANNES FRA,2025-02-24,2025-03-02,1787,1836,5.0,9,-0.07,40,-2.8,"Rossini, Marco",,1608.0,False,FRA,1.0,1,0.21,40,8.4
+33380252,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open B (1600-2200),CANNES FRA,2025-02-24,2025-03-02,1787,1836,5.0,9,-0.07,40,-2.8,"Kandic, Milan",f,1976.0,False,SRB,0.0,1,-0.31,40,-12.4
+33380252,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open B (1600-2200),CANNES FRA,2025-02-24,2025-03-02,1787,1836,5.0,9,-0.07,40,-2.8,"Casimir, Sarah",,1677.0,False,FRA,0.0,1,-0.71,40,-28.4
+33380252,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open B (1600-2200),CANNES FRA,2025-02-24,2025-03-02,1787,1836,5.0,9,-0.07,40,-2.8,"Haerdi, Heinz",,1740.0,False,SUI,0.0,1,-0.63,40,-25.2
+33380252,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open B (1600-2200),CANNES FRA,2025-02-24,2025-03-02,1787,1836,5.0,9,-0.07,40,-2.8,"Rosenfeld, Imre",,1727.0,False,FRA,1.0,1,0.35,40,14.0
+33380252,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open B (1600-2200),CANNES FRA,2025-02-24,2025-03-02,1787,1836,5.0,9,-0.07,40,-2.8,"De Lagontrie, Jean",,1764.0,False,FRA,1.0,1,0.4,40,16.0
+33380252,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open B (1600-2200),CANNES FRA,2025-02-24,2025-03-02,1787,1836,5.0,9,-0.07,40,-2.8,"Carrolaggi, Xavier",,1700.0,False,FRA,1.0,1,0.32,40,12.8
+33380252,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open B (1600-2200),CANNES FRA,2025-02-24,2025-03-02,1787,1836,5.0,9,-0.07,40,-2.8,"Souquet, Amedee",,1938.0,False,FRA,1.0,1,0.64,40,25.6
+33380252,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open B (1600-2200),CANNES FRA,2025-02-24,2025-03-02,1787,1836,5.0,9,-0.07,40,-2.8,"Middelkoop, Erik",,1952.0,False,NED,0.0,1,-0.34,40,-13.6

@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33493154,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1704,1513,2.5,6,0.97,40,38.8,"Shrivastava, Kushagra",,1764.0,False,IND,0.0,1,-0.19,40,-7.6
+33493154,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1704,1513,2.5,6,0.97,40,38.8,"Dhruv, Gupta",,1694.0,False,IND,0.5,1,0.24,40,9.6
+33493154,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1704,1513,2.5,6,0.97,40,38.8,"Devarsh, Kinra",,1718.0,False,IND,0.5,1,0.26,40,10.4
+33493154,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1704,1513,2.5,6,0.97,40,38.8,"Tripathi, Ajay Narayan",,1686.0,False,IND,0.5,1,0.23,40,9.2
+33493154,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1704,1513,2.5,6,0.97,40,38.8,"Hindol, Ghosh",,1650.0,False,IND,1.0,1,0.68,40,27.2
+33493154,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1704,1513,2.5,6,0.97,40,38.8,"Shreyas, Mishra",,1709.0,False,IND,0.0,1,-0.25,40,-10.0

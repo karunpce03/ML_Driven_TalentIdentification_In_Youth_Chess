@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33404909,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1678,1429,2.0,6,0.8,40,32.0,"Oishik, Mondal",,1829,True,IND,0.0,1,-0.08,40,-3.2
+33404909,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1678,1429,2.0,6,0.8,40,32.0,"Rohit, Roy Chaudhary",,1711,False,IND,0.0,1,-0.16,40,-6.4
+33404909,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1678,1429,2.0,6,0.8,40,32.0,"Divyanshu, Joshi",,1668,False,IND,1.0,1,0.8,40,32.0
+33404909,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1678,1429,2.0,6,0.8,40,32.0,"Supratim, Bhadra",,1584,False,IND,0.0,1,-0.29,40,-11.6
+33404909,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1678,1429,2.0,6,0.8,40,32.0,"Vaibhav, Gautam",,1674,False,IND,0.0,1,-0.2,40,-8.0
+33404909,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1678,1429,2.0,6,0.8,40,32.0,"Chaubey, Bharat",,1603,False,IND,1.0,1,0.73,40,29.2

@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25168649,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2148,1925,4.0,9,1.7,35,59.5,"Ren, Yibai",,1795.0,False,CHN,1.0,1,0.32,35,11.2
+25168649,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2148,1925,4.0,9,1.7,35,59.5,"Chia, Yu Zhe Ashton",f,2252.0,False,SGP,0.0,1,-0.13,35,-4.55
+25168649,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2148,1925,4.0,9,1.7,35,59.5,"Gomes, Mary Ann",wg,2294.0,False,IND,1.0,1,0.9,35,31.5
+25168649,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2148,1925,4.0,9,1.7,35,59.5,"Novita, Anjas",m,2325.0,True,INA,0.0,1,-0.08,35,-2.8
+25168649,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2148,1925,4.0,9,1.7,35,59.5,"Wei, Yuyang",,2135.0,False,CHN,0.5,1,0.27,35,9.45
+25168649,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2148,1925,4.0,9,1.7,35,59.5,"Gunawan, Ronny",m,2227.0,False,INA,0.0,1,-0.15,35,-5.25
+25168649,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2148,1925,4.0,9,1.7,35,59.5,"Levitan, Caleb Levi",f,2265.0,False,RSA,0.5,1,0.38,35,13.3
+25168649,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2148,1925,4.0,9,1.7,35,59.5,"Bach, Ngoc Thuy Duong",wm,2240.0,False,VIE,0.0,1,-0.14,35,-4.9
+25168649,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2148,1925,4.0,9,1.7,35,59.5,"Yeo, Klaus Lucas",,1800.0,False,SGP,1.0,1,0.33,35,11.55
+25168649,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1803,1944,7.5,11,0.03,35,1.05,"Chakresh, Ganesan",,1603.0,False,IND,1.0,1,0.12,35,4.2
+25168649,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1803,1944,7.5,11,0.03,35,1.05,"Sourasis, Saha",,1714.0,False,IND,1.0,1,0.21,35,7.35
+25168649,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1803,1944,7.5,11,0.03,35,1.05,"Pratiyush, Kumar",,1810.0,False,IND,0.0,1,-0.68,35,-23.8
+25168649,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1803,1944,7.5,11,0.03,35,1.05,"Kiruthik, Murugun M",,1700.0,False,IND,1.0,1,0.2,35,7.0
+25168649,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1803,1944,7.5,11,0.03,35,1.05,"Alaukik, Sinha",,1797.0,False,IND,1.0,1,0.3,35,10.5
+25168649,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1803,1944,7.5,11,0.03,35,1.05,"Raman, Siddhardh B",,1829.0,False,IND,0.5,1,-0.16,35,-5.6
+25168649,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1803,1944,7.5,11,0.03,35,1.05,"Amartya, Saumitra Gupta",,1811.0,False,IND,1.0,1,0.32,35,11.2
+25168649,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1803,1944,7.5,11,0.03,35,1.05,"Parambrata, Sarkar",,1850.0,False,IND,0.5,1,-0.13,35,-4.55
+25168649,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1803,1944,7.5,11,0.03,35,1.05,"Mehul, Sondhi",,1923.0,False,IND,0.5,1,-0.03,35,-1.05
+25168649,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1803,1944,7.5,11,0.03,35,1.05,"Mridav, M",,1861.0,False,IND,1.0,1,0.39,35,13.65
+25168649,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1803,1944,7.5,11,0.03,35,1.05,"Aadik, Theophane Lenin",,1937.0,False,IND,0.0,1,-0.51,35,-17.85

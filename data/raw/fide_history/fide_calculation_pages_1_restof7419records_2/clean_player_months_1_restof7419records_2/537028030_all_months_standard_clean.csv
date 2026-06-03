@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+537028030,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,,,1.5,5,0.0,1346,,"Varchas, Krishna Jayaraman",,1604.0,False,IND,0.0,1,0.0,,0.0
+537028030,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,,,1.5,5,0.0,1346,,"Jhanvi, Venkatesh",,1464.0,False,IND,0.0,1,0.0,,0.0
+537028030,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,,,1.5,5,0.0,1346,,"Sabarish, K",,1403.0,False,IND,0.5,1,0.0,,0.0
+537028030,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,,,1.5,5,0.0,1346,,"Aashirwad, Viswanathan Anand",,1518.0,False,IND,1.0,1,0.0,,0.0
+537028030,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,,,1.5,5,0.0,1346,,"Aadhityaa, S R",,1486.0,False,IND,0.0,1,0.0,,0.0
+537028030,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1649.0,1480.0,0.0,1,-0.28,40,-11.2,"Pranav, Mukunth P",,1649.0,False,IND,0.0,1,-0.28,40.0,-11.2

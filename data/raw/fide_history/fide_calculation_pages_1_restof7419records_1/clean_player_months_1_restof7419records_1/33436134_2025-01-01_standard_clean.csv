@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33436134,2025-01-01,0,Evans Efteraar 2024 - 3 Round 7-9,Vejle DEN,2024-10-31,2024-12-05,1603,1562,2.0,2,1.1,40,44.0,"Kristiansen, Mads Dam",,1450.0,False,DEN,1.0,1,0.35,40,14.0
+33436134,2025-01-01,0,Evans Efteraar 2024 - 3 Round 7-9,Vejle DEN,2024-10-31,2024-12-05,1603,1562,2.0,2,1.1,40,44.0,"Larsen, Jonas Bogh",,1755.0,False,DEN,1.0,1,0.75,40,30.0
+33436134,2025-01-01,0,Fredericia Skakforenings Klubmesterskab 2024-25 Round 1-4,Fredericia DEN,2024-11-18,2024-12-09,2013,1779,2.5,3,1.87,40,74.8,"Jakobsen, Jonas Nybo",,1962.0,False,DEN,0.5,1,0.24,40,9.6
+33436134,2025-01-01,0,Fredericia Skakforenings Klubmesterskab 2024-25 Round 1-4,Fredericia DEN,2024-11-18,2024-12-09,2013,1779,2.5,3,1.87,40,74.8,"Jakobsen, Niels Nybo",,2043.0,False,DEN,1.0,1,0.82,40,32.8
+33436134,2025-01-01,0,Fredericia Skakforenings Klubmesterskab 2024-25 Round 1-4,Fredericia DEN,2024-11-18,2024-12-09,2013,1779,2.5,3,1.87,40,74.8,"Hye, Allan",,2034.0,False,DEN,1.0,1,0.81,40,32.4
+33436134,2025-01-01,0,3HK Team 2024-2025 December,Various DEN,2024-12-02,2024-12-08,1789,1803,1.0,1,0.48,40,19.2,"Fyhn, Buster Hulthin",,1789.0,False,DEN,1.0,1,0.48,40,19.2

@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88140261,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1612,1587,4.5,7,1.22,40,48.8,"Bhogal, Vedanth Reddy",,1465.0,False,IND,1.0,1,0.33,40,13.2
+88140261,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1612,1587,4.5,7,1.22,40,48.8,"Nagasri, Saikanth",,1705.0,False,IND,1.0,1,0.66,40,26.4
+88140261,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1612,1587,4.5,7,1.22,40,48.8,"Apurv, Shekhar Desmukh",,1724.0,False,IND,0.0,1,-0.32,40,-12.8
+88140261,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1612,1587,4.5,7,1.22,40,48.8,"Arul, Narottam Shinde",,1489.0,False,IND,0.5,1,-0.13,40,-5.2
+88140261,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1612,1587,4.5,7,1.22,40,48.8,"Stuti, Pradeep",,1693.0,False,IND,1.0,1,0.64,40,25.6
+88140261,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1612,1587,4.5,7,1.22,40,48.8,"Krishna, Kumar",,1707.0,False,IND,0.0,1,-0.34,40,-13.6
+88140261,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1612,1587,4.5,7,1.22,40,48.8,"Kale, Shivam",,1500.0,False,IND,1.0,1,0.38,40,15.2

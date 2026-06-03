@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531032672,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1586,1534,1.5,5,-0.78,40,-31.2,"Arun, Rathee",,1934.0,True,IND,0.0,1,-0.08,40,-3.2
+531032672,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1586,1534,1.5,5,-0.78,40,-31.2,"Atharv, Singh",,1414.0,False,IND,0.5,1,-0.16,40,-6.4
+531032672,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1586,1534,1.5,5,-0.78,40,-31.2,"Sarfraz, Khan",,1415.0,False,IND,1.0,1,0.34,40,13.6
+531032672,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1586,1534,1.5,5,-0.78,40,-31.2,"Parth, Gupta",,1722.0,False,IND,0.0,1,-0.26,40,-10.4
+531032672,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1586,1534,1.5,5,-0.78,40,-31.2,"Tejpal, Singh",,1444.0,False,IND,0.0,1,-0.62,40,-24.8
+531032672,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1604,1534,0.0,2,-0.84,40,-33.6,"Imtiaz, Ali",,1792.0,False,IND,0.0,1,-0.18,40,-7.2
+531032672,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1604,1534,0.0,2,-0.84,40,-33.6,"Vivaan, Agarwal",,1416.0,False,IND,0.0,1,-0.66,40,-26.4

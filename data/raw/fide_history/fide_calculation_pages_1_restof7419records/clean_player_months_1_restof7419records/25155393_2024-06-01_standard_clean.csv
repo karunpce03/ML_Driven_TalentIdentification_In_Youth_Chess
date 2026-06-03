@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25155393,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1693,1504,1.5,5,0.11,40,4.4,"Oishik, Mondal",,1708,False,IND,0.5,1,0.26,40,10.4
+25155393,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1693,1504,1.5,5,0.11,40,4.4,"Arpan, Das",,1904,True,IND,0.0,1,-0.08,40,-3.2
+25155393,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1693,1504,1.5,5,0.11,40,4.4,"Sinjan, Roy",,1731,False,IND,0.0,1,-0.21,40,-8.4
+25155393,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1693,1504,1.5,5,0.11,40,4.4,"Sumoy, Chattopadhyay",,1418,False,IND,1.0,1,0.38,40,15.2
+25155393,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1693,1504,1.5,5,0.11,40,4.4,"Shresth, Mahapatra",,1702,False,IND,0.0,1,-0.24,40,-9.6

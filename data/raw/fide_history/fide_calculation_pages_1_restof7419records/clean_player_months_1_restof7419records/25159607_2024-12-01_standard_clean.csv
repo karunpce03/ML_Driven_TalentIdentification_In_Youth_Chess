@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25159607,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1799,1692,5.0,11,0.85,40,34.0,"Sriram, Adarsh Uppala",,2092,True,IND,0.0,1,-0.08,40,-3.2
+25159607,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1799,1692,5.0,11,0.85,40,34.0,"Aarush, Reddy V",,1503,False,IND,1.0,1,0.25,40,10.0
+25159607,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1799,1692,5.0,11,0.85,40,34.0,"Akilan, M S",,1416,False,IND,1.0,1,0.17,40,6.8
+25159607,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1799,1692,5.0,11,0.85,40,34.0,"Majji, Ram Charan Teja",,1829,False,IND,0.5,1,0.18,40,7.2
+25159607,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1799,1692,5.0,11,0.85,40,34.0,"Mitul, K H",,1853,False,IND,1.0,1,0.71,40,28.4
+25159607,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1799,1692,5.0,11,0.85,40,34.0,"Arul, Prakash N",,2092,True,IND,0.0,1,-0.08,40,-3.2
+25159607,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1799,1692,5.0,11,0.85,40,34.0,"Anecx, Kanjiravila B C",,1807,False,IND,0.0,1,-0.34,40,-13.6
+25159607,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1799,1692,5.0,11,0.85,40,34.0,"Christy, George",,1883,False,IND,0.5,1,0.25,40,10.0
+25159607,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1799,1692,5.0,11,0.85,40,34.0,"Vihaan, Dumir",,1980,False,IND,0.5,1,0.34,40,13.6
+25159607,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1799,1692,5.0,11,0.85,40,34.0,"Abhinav, Anand",,1807,False,IND,0.5,1,0.16,40,6.4
+25159607,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1799,1692,5.0,11,0.85,40,34.0,"Abhineeth, Bhat",,1530,False,IND,0.0,1,-0.71,40,-28.4

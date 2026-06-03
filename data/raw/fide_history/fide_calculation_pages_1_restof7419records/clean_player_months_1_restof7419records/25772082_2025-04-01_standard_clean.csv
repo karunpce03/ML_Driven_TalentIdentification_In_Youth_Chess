@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25772082,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1552,1563,3.0,5,0.42,40,16.8,"Hitarth, Pratim Buragohain",,1713.0,False,IND,0.0,1,-0.3,40,-12.0
+25772082,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1552,1563,3.0,5,0.42,40,16.8,"Yathrish, N",,1437.0,False,IND,1.0,1,0.33,40,13.2
+25772082,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1552,1563,3.0,5,0.42,40,16.8,"Supritom, Boruah",,1757.0,False,IND,0.0,1,-0.25,40,-10.0
+25772082,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1552,1563,3.0,5,0.42,40,16.8,"Aryan, Sarkar",,1410.0,False,IND,1.0,1,0.3,40,12.0
+25772082,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1552,1563,3.0,5,0.42,40,16.8,"Deboshma, Talukdar",,1445.0,False,IND,1.0,1,0.34,40,13.6

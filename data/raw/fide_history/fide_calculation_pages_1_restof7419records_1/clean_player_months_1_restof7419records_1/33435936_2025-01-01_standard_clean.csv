@@ -1,0 +1,27 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33435936,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,1999,1804,3.0,9,0.64,26,16.64,"Lochte, Thomas",,1929.0,False,GER,0.5,1,0.17,26,4.42
+33435936,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,1999,1804,3.0,9,0.64,26,16.64,"O Carroll, Jeremy",c,1954.0,False,AUS,0.0,1,-0.3,26,-7.8
+33435936,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,1999,1804,3.0,9,0.64,26,16.64,"Tay, Shi Hao",,2038.0,False,SGP,1.0,1,0.79,26,20.54
+33435936,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,1999,1804,3.0,9,0.64,26,16.64,"Chu, Jiamin",,2128.0,False,CHN,0.0,1,-0.13,26,-3.38
+33435936,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,1999,1804,3.0,9,0.64,26,16.64,"Ashwath, Kaushik",c,1979.0,False,SGP,1.0,1,0.73,26,18.98
+33435936,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,1999,1804,3.0,9,0.64,26,16.64,"Gomes, Mary Ann",wg,2204.0,True,IND,0.0,1,-0.08,26,-2.08
+33435936,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,1999,1804,3.0,9,0.64,26,16.64,"Chang, Ethan",,1975.0,False,AUS,0.0,1,-0.27,26,-7.02
+33435936,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,1999,1804,3.0,9,0.64,26,16.64,"Rice, Leah",,1925.0,False,SGP,0.0,1,-0.34,26,-8.84
+33435936,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,1999,1804,3.0,9,0.64,26,16.64,"Bonnet, Gabriel Misa Jean",,1855.0,False,SGP,0.5,1,0.07,26,1.82
+33435936,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1737,1681,6.0,9,2.2,26,57.2,"Aaditya, Yatish Shukla",,1452.0,False,IND,1.0,1,0.21,26,5.46
+33435936,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1737,1681,6.0,9,2.2,26,57.2,"Swain, Arin Anwesh",,1784.0,False,IND,1.0,1,0.64,26,16.64
+33435936,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1737,1681,6.0,9,2.2,26,57.2,"Rabindra, Kumar Ojha",,1791.0,False,IND,0.5,1,0.15,26,3.9
+33435936,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1737,1681,6.0,9,2.2,26,57.2,"Kadav, Omkar",,1835.0,False,IND,0.0,1,-0.29,26,-7.54
+33435936,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1737,1681,6.0,9,2.2,26,57.2,"Anvita, Sathi",,1556.0,False,IND,1.0,1,0.33,26,8.58
+33435936,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1737,1681,6.0,9,2.2,26,57.2,"Satyam, Prakash",,1813.0,False,IND,0.0,1,-0.32,26,-8.32
+33435936,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1737,1681,6.0,9,2.2,26,57.2,"Sanket, Sagar Dash",,1817.0,False,IND,1.0,1,0.68,26,17.68
+33435936,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1737,1681,6.0,9,2.2,26,57.2,"Shubham, Kumar",,1830.0,False,IND,0.5,1,0.2,26,5.2
+33435936,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1737,1681,6.0,9,2.2,26,57.2,"Nayak, Satya Sundar",,1755.0,False,IND,1.0,1,0.6,26,15.6
+33435936,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1560,1681,5.5,8,0.25,26,6.5,"Yashansh, Kumar Lakhara",,1607.0,False,IND,1.0,1,0.4,26,10.4
+33435936,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1560,1681,5.5,8,0.25,26,6.5,"Avyaan, Ajay Singh",,1502.0,False,IND,1.0,1,0.27,26,7.02
+33435936,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1560,1681,5.5,8,0.25,26,6.5,"Saikat, Nath",,1867.0,False,IND,0.0,1,-0.26,26,-6.76
+33435936,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1560,1681,5.5,8,0.25,26,6.5,"Shankar, Swaraj",,1555.0,False,IND,0.0,1,-0.67,26,-17.42
+33435936,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1560,1681,5.5,8,0.25,26,6.5,"Aaradhya, Sharma",,1503.0,False,IND,0.5,1,-0.23,26,-5.98
+33435936,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1560,1681,5.5,8,0.25,26,6.5,"Abhiwadan, Bhaduka",,1427.0,False,IND,1.0,1,0.19,26,4.94
+33435936,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1560,1681,5.5,8,0.25,26,6.5,"Simrat, Gill",,1532.0,False,IND,1.0,1,0.3,26,7.8
+33435936,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1560,1681,5.5,8,0.25,26,6.5,"Bhavya, Kumar Moolchandani",,1489.0,False,IND,1.0,1,0.25,26,6.5

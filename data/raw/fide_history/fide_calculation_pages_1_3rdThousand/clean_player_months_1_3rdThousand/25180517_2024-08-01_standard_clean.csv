@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25180517,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1577,1400,3.0,4,1.83,40,73.2,"Kanishka, S",,1800,True,IND,0.0,1,-0.08,40,-3.2
+25180517,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1577,1400,3.0,4,1.83,40,73.2,"Vanshika, M",,1463,False,IND,1.0,1,0.59,40,23.6
+25180517,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1577,1400,3.0,4,1.83,40,73.2,"Mahendar, O",,1453,False,IND,1.0,1,0.57,40,22.8
+25180517,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1577,1400,3.0,4,1.83,40,73.2,"Srivatsan, R",,1593,False,IND,1.0,1,0.75,40,30.0

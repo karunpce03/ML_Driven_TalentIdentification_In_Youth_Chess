@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25155040,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1520,1498,2.0,4,0.13,40,5.2,"Sumoy, Chattopadhyay",,1636.0,False,IND,0.5,1,0.19,40,7.6
+25155040,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1520,1498,2.0,4,0.13,40,5.2,"Diptarup, Mitra",,1614.0,False,IND,0.0,1,-0.34,40,-13.6
+25155040,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1520,1498,2.0,4,0.13,40,5.2,"Ishan, Dutta",,1430.0,False,IND,0.5,1,-0.09,40,-3.6
+25155040,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1520,1498,2.0,4,0.13,40,5.2,"Eishita, Lahiry",,1401.0,False,IND,1.0,1,0.37,40,14.8

@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33438803,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1790,1585,2.5,7,0.81,40,32.4,"Gharibyan, Mane",,1896.0,False,ARM,0.0,1,-0.14,40,-5.6
+33438803,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1790,1585,2.5,7,0.81,40,32.4,"Hamdan Edrees, Alhamed",,1772.0,False,UAE,0.0,1,-0.26,40,-10.4
+33438803,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1790,1585,2.5,7,0.81,40,32.4,"Matyukh, Mark Y",,1734.0,False,RUS,0.5,1,0.2,40,8.0
+33438803,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1790,1585,2.5,7,0.81,40,32.4,"Aisha, Mohamed Al Muaini",,1695.0,False,UAE,0.5,1,0.15,40,6.0
+33438803,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1790,1585,2.5,7,0.81,40,32.4,"Abhinav, Benny",,1805.0,False,IND,0.0,1,-0.22,40,-8.8
+33438803,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1790,1585,2.5,7,0.81,40,32.4,"Almaamari , Zainab Darwish",wc,1765.0,False,UAE,1.0,1,0.74,40,29.6
+33438803,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1790,1585,2.5,7,0.81,40,32.4,"Karam, Mark",,1865.0,False,LBN,0.5,1,0.34,40,13.6
+33438803,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1598,1585,2.0,5,-0.41,40,-16.4,"Kavya, Vijay Khachane",,1419.0,False,IND,0.0,1,-0.72,40,-28.8
+33438803,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1598,1585,2.0,5,-0.41,40,-16.4,"Al Qassabi, Layan",,1445.0,False,QAT,1.0,1,0.31,40,12.4
+33438803,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1598,1585,2.0,5,-0.41,40,-16.4,"Navaneet, Sreekanth",,1760.0,False,IND,0.5,1,0.23,40,9.2
+33438803,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1598,1585,2.0,5,-0.41,40,-16.4,"Vaibhav, Krishnan K P",,1683.0,False,IND,0.0,1,-0.37,40,-14.8
+33438803,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1598,1585,2.0,5,-0.41,40,-16.4,"Yu, Leonard Dongchi",,1684.0,False,USA,0.5,1,0.14,40,5.6

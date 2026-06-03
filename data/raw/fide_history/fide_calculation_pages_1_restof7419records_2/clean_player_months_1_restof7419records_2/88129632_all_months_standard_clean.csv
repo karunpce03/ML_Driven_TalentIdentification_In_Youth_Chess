@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88129632,2024-09-01,0,"UIn Sports : 2nd International Below 1800 FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-08-16,2024-08-18,,,0.0,3,0.0,638,,"Anay, Samir Uplap",,1471.0,False,IND,0.0,1,0.0,,0.0
+88129632,2024-09-01,0,"UIn Sports : 2nd International Below 1800 FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-08-16,2024-08-18,,,0.0,3,0.0,638,,"Falke, Ganesh",,1407.0,False,IND,0.0,1,0.0,,0.0
+88129632,2024-09-01,0,"UIn Sports : 2nd International Below 1800 FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-08-16,2024-08-18,,,0.0,3,0.0,638,,"Aadarsh, Mishra",,1437.0,False,IND,0.0,1,0.0,,0.0
+88129632,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,,,2.0,6,0.0,1361,,"Prajna, Meel",,1411.0,False,IND,1.0,1,0.0,,0.0
+88129632,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,,,2.0,6,0.0,1361,,"Palaash, Suyog Mapara",,1520.0,False,IND,0.0,1,0.0,,0.0
+88129632,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,,,2.0,6,0.0,1361,,"Jiana, Dharamsey",,1485.0,False,IND,1.0,1,0.0,,0.0
+88129632,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,,,2.0,6,0.0,1361,,"Patel, Shubh",,1544.0,False,IND,0.0,1,0.0,,0.0
+88129632,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,,,2.0,6,0.0,1361,,"Patodekar, Samarth",,1496.0,False,IND,0.0,1,0.0,,0.0
+88129632,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,,,2.0,6,0.0,1361,,"Nova, Ayer Juyal",,1457.0,False,IND,0.0,1,0.0,,0.0
+88129632,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1600.0,1477.0,3.0,6,0.86,40,34.4,"Kulkarni, Guruprasad",,1718.0,False,IND,0.0,1,-0.2,40.0,-8.0
+88129632,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1600.0,1477.0,3.0,6,0.86,40,34.4,"Elesh, Tripathi",,1846.0,False,IND,0.0,1,-0.1,40.0,-4.0
+88129632,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1600.0,1477.0,3.0,6,0.86,40,34.4,"Aashvi, Ankit Agarwal",,1422.0,False,IND,1.0,1,0.42,40.0,16.8
+88129632,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1600.0,1477.0,3.0,6,0.86,40,34.4,"Kaveer, Deobhankar",,1430.0,False,IND,1.0,1,0.43,40.0,17.2
+88129632,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1600.0,1477.0,3.0,6,0.86,40,34.4,"Jani, Harsh",,1564.0,False,IND,1.0,1,0.62,40.0,24.8
+88129632,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1600.0,1477.0,3.0,6,0.86,40,34.4,"Nirvaan, Nirav Shah",,1620.0,False,IND,0.0,1,-0.31,40.0,-12.4
+88129632,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,1575.0,1511.0,0.0,3,-1.26,40,-50.4,"Mysha, Perwez",,1725.0,False,IND,0.0,1,-0.23,40.0,-9.2
+88129632,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,1575.0,1511.0,0.0,3,-1.26,40,-50.4,"Kaveer, Deobhankar",,1441.0,False,IND,0.0,1,-0.6,40.0,-24.0
+88129632,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,1575.0,1511.0,0.0,3,-1.26,40,-50.4,"Kagwade, Kaveesh",,1558.0,False,IND,0.0,1,-0.43,40.0,-17.2

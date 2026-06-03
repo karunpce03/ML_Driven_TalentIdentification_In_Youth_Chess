@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33493391,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1646,1475,2.0,7,0.05,40,2.0,"Gawade, Milind",,1738.0,False,IND,0.0,1,-0.18,40,-7.2
+33493391,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1646,1475,2.0,7,0.05,40,2.0,"Vikas, Saini",,1626.0,False,IND,0.0,1,-0.3,40,-12.0
+33493391,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1646,1475,2.0,7,0.05,40,2.0,"Borse, Pankaj",,1686.0,False,IND,0.0,1,-0.23,40,-9.2
+33493391,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1646,1475,2.0,7,0.05,40,2.0,"Purushotham, Joshi",,1593.0,False,IND,0.5,1,0.16,40,6.4
+33493391,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1646,1475,2.0,7,0.05,40,2.0,"Anil, Verma",,1633.0,False,IND,0.5,1,0.21,40,8.4
+33493391,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1646,1475,2.0,7,0.05,40,2.0,"Jakar, Akhilesh",,1662.0,False,IND,1.0,1,0.74,40,29.6
+33493391,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1646,1475,2.0,7,0.05,40,2.0,"Aditya, Sana",,1584.0,False,IND,0.0,1,-0.35,40,-14.0
+33493391,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1756,1477,1.0,4,0.32,40,12.8,"Vishal, Sharma",,1770.0,False,IND,0.0,1,-0.15,40,-6.0
+33493391,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1756,1477,1.0,4,0.32,40,12.8,"Shiv, Priya Bhardwaj",,1731.0,False,IND,0.5,1,0.31,40,12.4
+33493391,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1756,1477,1.0,4,0.32,40,12.8,"Menhajul, Hoda",,1677.0,False,IND,0.5,1,0.26,40,10.4
+33493391,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1756,1477,1.0,4,0.32,40,12.8,"Shubham, Kumar",,1847.0,False,IND,0.0,1,-0.1,40,-4.0
+33493391,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1688,1490,1.0,4,-0.06,40,-2.4,"Srivastava, Y.p.",,1890.0,True,IND,0.5,1,0.42,40,16.8
+33493391,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1688,1490,1.0,4,-0.06,40,-2.4,"Nilesh, Kumar",,1616.0,False,IND,0.5,1,0.17,40,6.8
+33493391,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1688,1490,1.0,4,-0.06,40,-2.4,"Devansh, Keshri",,1595.0,False,IND,0.0,1,-0.36,40,-14.4
+33493391,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1688,1490,1.0,4,-0.06,40,-2.4,"Tanmay, Kashyap",,1649.0,False,IND,0.0,1,-0.29,40,-11.6
+33493391,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1725,1488,1.0,4,0.13,40,5.2,"Subhayan, Kundu",m,1888.0,True,IND,0.0,1,-0.08,40,-3.2
+33493391,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1725,1488,1.0,4,0.13,40,5.2,"Ratul, Majumder",,1659.0,False,IND,0.5,1,0.23,40,9.2
+33493391,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1725,1488,1.0,4,0.13,40,5.2,"Priyam, Ghosh",,1629.0,False,IND,0.0,1,-0.31,40,-12.4
+33493391,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1725,1488,1.0,4,0.13,40,5.2,"Dileep, Tripathi",,1722.0,False,IND,0.5,1,0.29,40,11.6

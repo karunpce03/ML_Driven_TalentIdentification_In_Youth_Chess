@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25922491,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2343,2216,3.5,9,0.51,40,20.4,"Sorensen, Hampus",m,2415.0,False,SWE,0.0,1,-0.24,40,-9.6
+25922491,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2343,2216,3.5,9,0.51,40,20.4,"Dingertz, Erik",,2095.0,False,SWE,1.0,1,0.34,40,13.6
+25922491,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2343,2216,3.5,9,0.51,40,20.4,"Wartiovaara, Oliver",f,2340.0,False,FIN,1.0,1,0.67,40,26.8
+25922491,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2343,2216,3.5,9,0.51,40,20.4,"Sari, Yasin",f,2343.0,False,TUR,0.0,1,-0.33,40,-13.2
+25922491,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2343,2216,3.5,9,0.51,40,20.4,"Ostlund, Joar",c,2339.0,False,SWE,1.0,1,0.67,40,26.8
+25922491,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2343,2216,3.5,9,0.51,40,20.4,"Ippolito, Dean",m,2343.0,False,USA,0.0,1,-0.33,40,-13.2
+25922491,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2343,2216,3.5,9,0.51,40,20.4,"Dotzer, Lukas",f,2425.0,False,AUT,0.0,1,-0.23,40,-9.2
+25922491,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2343,2216,3.5,9,0.51,40,20.4,"Durak, Can",f,2446.0,False,TUR,0.5,1,0.29,40,11.6
+25922491,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2343,2216,3.5,9,0.51,40,20.4,"Bottazzi, Ulysse",f,2339.0,False,FRA,0.0,1,-0.33,40,-13.2

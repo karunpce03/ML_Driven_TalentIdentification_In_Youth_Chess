@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25683640,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2162,1949,4.5,11,1.6,40,64.0,"Anuj, Shrivatri",m,2349,True,IND,0.0,1,-0.08,40,-3.2
+25683640,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2162,1949,4.5,11,1.6,40,64.0,"Srihari, L R",m,2349,True,IND,0.0,1,-0.08,40,-3.2
+25683640,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2162,1949,4.5,11,1.6,40,64.0,"Boricha, Yohan",,1811,False,IND,1.0,1,0.31,40,12.4
+25683640,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2162,1949,4.5,11,1.6,40,64.0,"Bharadia, Yash",c,2100,False,IND,1.0,1,0.7,40,28.0
+25683640,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2162,1949,4.5,11,1.6,40,64.0,"Shahil, Dey",m,2332,False,IND,1.0,1,0.91,40,36.4
+25683640,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2162,1949,4.5,11,1.6,40,64.0,"Panda, Sambit",m,2349,True,IND,0.0,1,-0.08,40,-3.2
+25683640,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2162,1949,4.5,11,1.6,40,64.0,"Lopez Rayo, Santiago",f,2277,False,COL,0.0,1,-0.13,40,-5.2
+25683640,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2162,1949,4.5,11,1.6,40,64.0,"Talgatov, Nazar",,2108,False,KAZ,0.0,1,-0.29,40,-11.6
+25683640,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2162,1949,4.5,11,1.6,40,64.0,"Mukund, Hemant Agarwal",,2196,False,IND,0.0,1,-0.19,40,-7.6
+25683640,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2162,1949,4.5,11,1.6,40,64.0,"Insara, S D Nadev",,1874,False,SRI,1.0,1,0.4,40,16.0
+25683640,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2162,1949,4.5,11,1.6,40,64.0,"Kartik, Kumar Singh",,2042,False,IND,0.5,1,0.13,40,5.2

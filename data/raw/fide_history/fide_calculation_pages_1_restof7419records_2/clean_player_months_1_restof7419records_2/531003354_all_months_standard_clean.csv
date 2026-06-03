@@ -1,0 +1,22 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531003354,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,,,0.5,5,0.0,1111,,"Sinha, Keshav",,1452.0,False,IND,0.0,1,0.0,,0.0
+531003354,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,,,0.5,5,0.0,1111,,"Iyer, Abhinav",,1578.0,False,FID,0.0,1,0.0,,0.0
+531003354,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,,,0.5,5,0.0,1111,,"Arnit, Gupta",,1468.0,False,IND,0.0,1,0.0,,0.0
+531003354,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,,,0.5,5,0.0,1111,,"Dhairya, Sehgal",,1439.0,False,IND,0.5,1,0.0,,0.0
+531003354,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,,,0.5,5,0.0,1111,,"Dev, Pratap",,1449.0,False,IND,0.0,1,0.0,,0.0
+531003354,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,,,0.0,4,0.0,689,,"Aayat, Bazaz",,1452.0,False,IND,0.0,1,0.0,,0.0
+531003354,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,,,0.0,4,0.0,689,,"Viraj, Suneja",,1450.0,False,IND,0.0,1,0.0,,0.0
+531003354,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,,,0.0,4,0.0,689,,"Tia, Bedi",,1449.0,False,IND,0.0,1,0.0,,0.0
+531003354,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,,,0.0,4,0.0,689,,"Soumay, Patiyal",,1606.0,False,IND,0.0,1,0.0,,0.0
+531003354,2025-01-01,0,2nd Kingdom of Chess International Below 1800 FIDE Rated Chess Tournament 2024,Udaipur IND,2024-12-21,2024-12-23,,,3.0,8,0.0,1428,,"Sharma, Pramod Kumar",,1504.0,False,IND,0.5,1,0.0,,0.0
+531003354,2025-01-01,0,2nd Kingdom of Chess International Below 1800 FIDE Rated Chess Tournament 2024,Udaipur IND,2024-12-21,2024-12-23,,,3.0,8,0.0,1428,,"Awasthi, Pawan",,1783.0,False,NEP,0.0,1,0.0,,0.0
+531003354,2025-01-01,0,2nd Kingdom of Chess International Below 1800 FIDE Rated Chess Tournament 2024,Udaipur IND,2024-12-21,2024-12-23,,,3.0,8,0.0,1428,,"Avish, Vishal Shinde",,1419.0,False,IND,0.0,1,0.0,,0.0
+531003354,2025-01-01,0,2nd Kingdom of Chess International Below 1800 FIDE Rated Chess Tournament 2024,Udaipur IND,2024-12-21,2024-12-23,,,3.0,8,0.0,1428,,"Kripa, Shankar Sharma",,1467.0,False,IND,0.0,1,0.0,,0.0
+531003354,2025-01-01,0,2nd Kingdom of Chess International Below 1800 FIDE Rated Chess Tournament 2024,Udaipur IND,2024-12-21,2024-12-23,,,3.0,8,0.0,1428,,"Ramavtar, Vashishth",,1529.0,False,IND,1.0,1,0.0,,0.0
+531003354,2025-01-01,0,2nd Kingdom of Chess International Below 1800 FIDE Rated Chess Tournament 2024,Udaipur IND,2024-12-21,2024-12-23,,,3.0,8,0.0,1428,,"Bhavya, Bhavik Modi",,1453.0,False,IND,0.5,1,0.0,,0.0
+531003354,2025-01-01,0,2nd Kingdom of Chess International Below 1800 FIDE Rated Chess Tournament 2024,Udaipur IND,2024-12-21,2024-12-23,,,3.0,8,0.0,1428,,"Jain, Saumya",,1448.0,False,IND,1.0,1,0.0,,0.0
+531003354,2025-01-01,0,2nd Kingdom of Chess International Below 1800 FIDE Rated Chess Tournament 2024,Udaipur IND,2024-12-21,2024-12-23,,,3.0,8,0.0,1428,,"Navdeep, Singh",,1517.0,False,IND,0.0,1,0.0,,0.0
+531003354,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1565.0,1500.0,1.0,4,-0.68,40,-27.2,"Mathur, Raj",,1674.0,False,IND,0.0,1,-0.27,40.0,-10.8
+531003354,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1565.0,1500.0,1.0,4,-0.68,40,-27.2,"Achyut, Kapoor",,1740.0,False,IND,0.0,1,-0.2,40.0,-8.0
+531003354,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1565.0,1500.0,1.0,4,-0.68,40,-27.2,Hitansh,,1441.0,False,IND,0.0,1,-0.58,40.0,-23.2
+531003354,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1565.0,1500.0,1.0,4,-0.68,40,-27.2,"Manisha, Yadav",,1405.0,False,IND,1.0,1,0.37,40.0,14.8

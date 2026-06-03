@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531020763,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,,,0.0,4,0.0,721,,"Thirumalaivasan, R",,1615,False,IND,0.0,1,0.0,,0.0
+531020763,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,,,0.0,4,0.0,721,,"Ahmed, Nafees M",,1481,False,IND,0.0,1,0.0,,0.0
+531020763,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,,,0.0,4,0.0,721,,"George, Daniel",,1474,False,IND,0.0,1,0.0,,0.0
+531020763,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,,,0.0,4,0.0,721,,"Brindha, S",,1512,False,IND,0.0,1,0.0,,0.0

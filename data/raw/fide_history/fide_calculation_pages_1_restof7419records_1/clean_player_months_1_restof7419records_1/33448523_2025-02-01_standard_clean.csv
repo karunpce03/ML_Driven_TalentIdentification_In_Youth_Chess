@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33448523,2025-02-01,0,SHEPHALI MEMORIAL INTERNATIONAL FIDE RATING CHESS TOURNAMENT 2025,SILCHAR IND,2025-01-10,2025-01-15,1626,1472,1.0,3,0.05,40,2.0,"Abhay, Chetty",,1715.0,False,IND,0.0,1,-0.2,40,-8.0
+33448523,2025-02-01,0,SHEPHALI MEMORIAL INTERNATIONAL FIDE RATING CHESS TOURNAMENT 2025,SILCHAR IND,2025-01-10,2025-01-15,1626,1472,1.0,3,0.05,40,2.0,"Sagnik, Kandar",,1416.0,False,IND,1.0,1,0.42,40,16.8
+33448523,2025-02-01,0,SHEPHALI MEMORIAL INTERNATIONAL FIDE RATING CHESS TOURNAMENT 2025,SILCHAR IND,2025-01-10,2025-01-15,1626,1472,1.0,3,0.05,40,2.0,"Surajit, Das",,1747.0,False,IND,0.0,1,-0.17,40,-6.8
+33448523,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1606,1472,0.5,4,-0.78,40,-31.2,"Aahwan, Paul",,1662.0,False,IND,0.0,1,-0.25,40,-10.0
+33448523,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1606,1472,0.5,4,-0.78,40,-31.2,"Ballyr, Sinha",,1581.0,False,IND,0.0,1,-0.35,40,-14.0
+33448523,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1606,1472,0.5,4,-0.78,40,-31.2,"Adarsh, Debnath",,1563.0,False,IND,0.5,1,0.12,40,4.8
+33448523,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1606,1472,0.5,4,-0.78,40,-31.2,"Subrata, Nandy Roy",,1618.0,False,IND,0.0,1,-0.3,40,-12.0

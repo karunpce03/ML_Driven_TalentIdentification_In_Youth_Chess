@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+146241798,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1696,1471,2.5,5,1.41,40,56.4,"Akhil, Vijayakumar",,1719.0,False,IND,1.0,1,0.81,40,32.4
+146241798,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1696,1471,2.5,5,1.41,40,56.4,"Mohammed, Fizan Liyagathali",,1643.0,False,IND,1.0,1,0.73,40,29.2
+146241798,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1696,1471,2.5,5,1.41,40,56.4,"Benedict, Tojan",,1630.0,False,IND,0.0,1,-0.29,40,-11.6
+146241798,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1696,1471,2.5,5,1.41,40,56.4,"Kaushika, Sridharan",,1733.0,False,IND,0.5,1,0.32,40,12.8
+146241798,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1696,1471,2.5,5,1.41,40,56.4,"Kuzma, Ostap",,1753.0,False,UKR,0.0,1,-0.16,40,-6.4
+146241798,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1622,1493,1.5,4,0.06,40,2.4,"Shashish, Subbiah",,1893.0,True,IND,0.0,1,-0.08,40,-3.2
+146241798,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1622,1493,1.5,4,0.06,40,2.4,"Berik, Dinmukhammed",,1421.0,False,KAZ,0.5,1,-0.1,40,-4.0
+146241798,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1622,1493,1.5,4,0.06,40,2.4,"Qiao, Haobo",,1486.0,False,CHN,1.0,1,0.49,40,19.6
+146241798,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1622,1493,1.5,4,0.06,40,2.4,"Izaan, Shafeek",,1688.0,False,IND,0.0,1,-0.25,40,-10.0

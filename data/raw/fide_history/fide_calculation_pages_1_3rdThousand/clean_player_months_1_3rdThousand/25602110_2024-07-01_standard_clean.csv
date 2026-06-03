@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25602110,2024-07-01,0,III Chess Festival Cesis 2023 - Classic,Cesis LAT,2024-06-17,2024-06-20,2219,1870,5.5,8,4.55,40,182.0,"Domalchuk-Jonasson, Aleksandr",f,2270,True,ISL,1.0,1,0.92,40,36.8
+25602110,2024-07-01,0,III Chess Festival Cesis 2023 - Classic,Cesis LAT,2024-06-17,2024-06-20,2219,1870,5.5,8,4.55,40,182.0,"Liloni, Francesco Mattia",,2203,False,ITA,1.0,1,0.88,40,35.2
+25602110,2024-07-01,0,III Chess Festival Cesis 2023 - Classic,Cesis LAT,2024-06-17,2024-06-20,2219,1870,5.5,8,4.55,40,182.0,"Legky, Nikolay A",g,2270,True,FRA,0.5,1,0.42,40,16.8
+25602110,2024-07-01,0,III Chess Festival Cesis 2023 - Classic,Cesis LAT,2024-06-17,2024-06-20,2219,1870,5.5,8,4.55,40,182.0,"Heimisson, Hilmir Freyr",m,2270,True,ISL,0.0,1,-0.08,40,-3.2
+25602110,2024-07-01,0,III Chess Festival Cesis 2023 - Classic,Cesis LAT,2024-06-17,2024-06-20,2219,1870,5.5,8,4.55,40,182.0,"Toniolo, Samuel",,2054,False,ITA,1.0,1,0.74,40,29.6
+25602110,2024-07-01,0,III Chess Festival Cesis 2023 - Classic,Cesis LAT,2024-06-17,2024-06-20,2219,1870,5.5,8,4.55,40,182.0,"Kantans, Toms",g,2270,True,LAT,1.0,1,0.92,40,36.8
+25602110,2024-07-01,0,III Chess Festival Cesis 2023 - Classic,Cesis LAT,2024-06-17,2024-06-20,2219,1870,5.5,8,4.55,40,182.0,"Lanka, Zigurds",g,2270,True,LAT,0.5,1,0.42,40,16.8
+25602110,2024-07-01,0,III Chess Festival Cesis 2023 - Classic,Cesis LAT,2024-06-17,2024-06-20,2219,1870,5.5,8,4.55,40,182.0,"Vingris, Mikelis",,2142,False,LAT,0.5,1,0.33,40,13.2

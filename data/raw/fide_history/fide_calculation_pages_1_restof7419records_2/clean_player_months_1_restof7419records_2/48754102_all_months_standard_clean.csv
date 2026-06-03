@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48754102,2024-08-01,0,All India Below 1600 Narendraji Firodia Chashak Classical FIDE Rating Chess Tournament,Ahmednagar IND,2024-07-19,2024-07-21,1511.0,1402.0,0.0,2,-0.7,40,-28.0,"Manas, Anand Poojary",,1503.0,False,IND,0.0,1,-0.36,40.0,-14.4
+48754102,2024-08-01,0,All India Below 1600 Narendraji Firodia Chashak Classical FIDE Rating Chess Tournament,Ahmednagar IND,2024-07-19,2024-07-21,1511.0,1402.0,0.0,2,-0.7,40,-28.0,"Waghle, Bhumika",,1518.0,False,IND,0.0,1,-0.34,40.0,-13.6
+48754102,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,9,0.0,1443,,"Ayush, S Jagtap",,1450.0,False,IND,0.0,1,0.0,,0.0
+48754102,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,9,0.0,1443,,"Adrush, Karmakar",,1437.0,False,IND,0.0,1,0.0,,0.0
+48754102,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,9,0.0,1443,,"Yuven, Gaurav Jhaveri",,1400.0,False,IND,1.0,1,0.0,,0.0
+48754102,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,9,0.0,1443,,"Lakshith, Gutti",,1446.0,False,IND,1.0,1,0.0,,0.0
+48754102,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,9,0.0,1443,,"Hrudesh, Panigrahi",,1464.0,False,IND,0.5,1,0.0,,0.0
+48754102,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,9,0.0,1443,,"Rudra, Chintan Tiwary",,1463.0,False,IND,0.0,1,0.0,,0.0
+48754102,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,9,0.0,1443,,"Nischith, Gurukar K",,1440.0,False,IND,0.5,1,0.0,,0.0
+48754102,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,9,0.0,1443,,"Kavish, Saxena",,1444.0,False,IND,1.0,1,0.0,,0.0
+48754102,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,9,0.0,1443,,"Mansh, Krunal Ukani",,1443.0,False,IND,0.5,1,0.0,,0.0

@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33398950,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1581,1877,6.0,9,-1.6,38,-60.8,"Akshat, Kaushik",,1477,True,IND,1.0,1,0.08,38,3.04
+33398950,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1581,1877,6.0,9,-1.6,38,-60.8,"Suryaansh, Bansal",,1524,False,IND,1.0,1,0.11,38,4.18
+33398950,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1581,1877,6.0,9,-1.6,38,-60.8,"Kavyansh, Jain",,1621,False,IND,0.5,1,-0.31,38,-11.78
+33398950,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1581,1877,6.0,9,-1.6,38,-60.8,"Ishaan, Bhatnagar",,1615,False,IND,1.0,1,0.18,38,6.84
+33398950,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1581,1877,6.0,9,-1.6,38,-60.8,"Aadarsh, Saraswat",,1661,False,IND,0.5,1,-0.28,38,-10.64
+33398950,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1581,1877,6.0,9,-1.6,38,-60.8,"Abhyudaya, Matta",,1642,False,IND,0.0,1,-0.79,38,-30.02
+33398950,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1581,1877,6.0,9,-1.6,38,-60.8,"Kinshuk, Tyagi",,1542,False,IND,0.5,1,-0.38,38,-14.44
+33398950,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1581,1877,6.0,9,-1.6,38,-60.8,"Amit, Mishra",,1548,False,IND,1.0,1,0.12,38,4.56
+33398950,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1581,1877,6.0,9,-1.6,38,-60.8,"Bhavya, Arora",,1603,False,IND,0.5,1,-0.33,38,-12.54
+33398950,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1682,1877,8.0,9,1.38,38,52.44,"Kovidh, Kocherla",,1477,True,IND,1.0,1,0.08,38,3.04
+33398950,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1682,1877,8.0,9,1.38,38,52.44,"Ishaan, Agarwal",,1522,False,IND,1.0,1,0.11,38,4.18
+33398950,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1682,1877,8.0,9,1.38,38,52.44,"Caleb, Vihaan John",,1631,False,IND,1.0,1,0.19,38,7.22
+33398950,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1682,1877,8.0,9,1.38,38,52.44,"Ishaan, Kandi",,1665,False,IND,1.0,1,0.23,38,8.74
+33398950,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1682,1877,8.0,9,1.38,38,52.44,"Rishen, Jilowa",,1774,False,IND,0.5,1,-0.14,38,-5.32
+33398950,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1682,1877,8.0,9,1.38,38,52.44,"Arav, Vinod",,1700,False,IND,1.0,1,0.27,38,10.26
+33398950,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1682,1877,8.0,9,1.38,38,52.44,"Narendra, Agarwal",,1856,False,IND,1.0,1,0.47,38,17.86
+33398950,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1682,1877,8.0,9,1.38,38,52.44,"Nidhish, Shyamal",,1768,False,IND,0.5,1,-0.15,38,-5.7
+33398950,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1682,1877,8.0,9,1.38,38,52.44,"Venkata, Naga Karthik Malladi",,1743,False,IND,1.0,1,0.32,38,12.16

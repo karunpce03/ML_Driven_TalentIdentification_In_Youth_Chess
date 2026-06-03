@@ -1,0 +1,40 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25753274,2024-05-01,0,KCFAP Standard 60 Tournaments April 2024 6th Edition,Singapore SGP,2024-04-06,2024-04-27,1604,1540,1.5,4,-0.16,40,-6.4,"Sung, Tze Shyan Evin",,1751.0,False,SGP,0.0,1,-0.23,40,-9.2
+25753274,2024-05-01,0,KCFAP Standard 60 Tournaments April 2024 6th Edition,Singapore SGP,2024-04-06,2024-04-27,1604,1540,1.5,4,-0.16,40,-6.4,"Lean, Boon Cheng Richard",,1618.0,False,SGP,0.5,1,0.11,40,4.4
+25753274,2024-05-01,0,KCFAP Standard 60 Tournaments April 2024 6th Edition,Singapore SGP,2024-04-06,2024-04-27,1604,1540,1.5,4,-0.16,40,-6.4,"Chew, Clement",,1460.0,False,SGP,1.0,1,0.39,40,15.6
+25753274,2024-05-01,0,KCFAP Standard 60 Tournaments April 2024 6th Edition,Singapore SGP,2024-04-06,2024-04-27,1604,1540,1.5,4,-0.16,40,-6.4,"Chit, Ye Thu",,1587.0,False,MYA,0.0,1,-0.43,40,-17.2
+25753274,2024-05-01,0,KCFAP Standard 60 Tournaments April 2024 7th Edition,Singapore SGP,2024-04-07,2024-04-28,1480,1540,2.0,3,0.25,40,10.0,"Chew, Cedric",,1482.0,False,SGP,0.0,1,-0.58,40,-23.2
+25753274,2024-05-01,0,KCFAP Standard 60 Tournaments April 2024 7th Edition,Singapore SGP,2024-04-07,2024-04-28,1480,1540,2.0,3,0.25,40,10.0,"Sophie, Judith Supatra",,1467.0,False,SGP,1.0,1,0.4,40,16.0
+25753274,2024-05-01,0,KCFAP Standard 60 Tournaments April 2024 7th Edition,Singapore SGP,2024-04-07,2024-04-28,1480,1540,2.0,3,0.25,40,10.0,"Velmurugan Priyasudharsana, Ishaa",,1491.0,False,IND,1.0,1,0.43,40,17.2
+25753274,2024-06-01,0,Pfingst-Open Milbertshofen 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-19,2024-05-24,1854,1544,3.0,8,1.8,40,72.0,"Huber, Andreas",,1800.0,False,GER,1.0,1,0.81,40,32.4
+25753274,2024-06-01,0,Pfingst-Open Milbertshofen 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-19,2024-05-24,1854,1544,3.0,8,1.8,40,72.0,"Bauer, Werner",,1896.0,False,GER,1.0,1,0.89,40,35.6
+25753274,2024-06-01,0,Pfingst-Open Milbertshofen 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-19,2024-05-24,1854,1544,3.0,8,1.8,40,72.0,"Martelli, Tommaso",,1944.0,True,ITA,0.0,1,-0.08,40,-3.2
+25753274,2024-06-01,0,Pfingst-Open Milbertshofen 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-19,2024-05-24,1854,1544,3.0,8,1.8,40,72.0,"Maier, Maximilian",,1929.0,False,GER,0.0,1,-0.09,40,-3.6
+25753274,2024-06-01,0,Pfingst-Open Milbertshofen 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-19,2024-05-24,1854,1544,3.0,8,1.8,40,72.0,"Tsilighiris, Joerg",,1797.0,False,GER,0.5,1,0.31,40,12.4
+25753274,2024-06-01,0,Pfingst-Open Milbertshofen 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-19,2024-05-24,1854,1544,3.0,8,1.8,40,72.0,"Sindermann, Peter",,1944.0,True,GER,0.0,1,-0.08,40,-3.2
+25753274,2024-06-01,0,Pfingst-Open Milbertshofen 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-19,2024-05-24,1854,1544,3.0,8,1.8,40,72.0,"Bodling, Florian",,1822.0,False,GER,0.0,1,-0.17,40,-6.8
+25753274,2024-06-01,0,Pfingst-Open Milbertshofen 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-19,2024-05-24,1854,1544,3.0,8,1.8,40,72.0,"Goerzen, Lina",,1703.0,False,GER,0.5,1,0.21,40,8.4
+25753274,2024-07-01,0,Muenchner Open B 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-26,2024-06-02,1831,1544,4.0,7,2.86,40,114.4,"Pils, Martina",,1765.0,False,GER,0.5,1,0.28,40,11.2
+25753274,2024-07-01,0,Muenchner Open B 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-26,2024-06-02,1831,1544,4.0,7,2.86,40,114.4,"Janeba, Emil",,1759.0,False,GER,1.0,1,0.77,40,30.8
+25753274,2024-07-01,0,Muenchner Open B 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-26,2024-06-02,1831,1544,4.0,7,2.86,40,114.4,"Kebbedies, Frank",,1887.0,False,GER,0.5,1,0.38,40,15.2
+25753274,2024-07-01,0,Muenchner Open B 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-26,2024-06-02,1831,1544,4.0,7,2.86,40,114.4,"Kuersten, Susanne",,1842.0,False,GER,0.5,1,0.35,40,14.0
+25753274,2024-07-01,0,Muenchner Open B 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-26,2024-06-02,1831,1544,4.0,7,2.86,40,114.4,"Fabregas, Oliver",,1876.0,False,GER,0.5,1,0.38,40,15.2
+25753274,2024-07-01,0,Muenchner Open B 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-26,2024-06-02,1831,1544,4.0,7,2.86,40,114.4,"Lackinger, Juergen",,1866.0,False,GER,0.5,1,0.37,40,14.8
+25753274,2024-07-01,0,Muenchner Open B 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-26,2024-06-02,1831,1544,4.0,7,2.86,40,114.4,"Goeritz, Lucas",,1820.0,False,GER,0.5,1,0.33,40,13.2
+25753274,2024-11-01,0,First Saturday October U2250,Budapest HUN,2024-10-05,2024-10-15,1893,1730,4.5,9,1.77,40,70.8,"Ahmed, Walijah",wc,1930.0,False,BAN,0.0,1,-0.24,40,-9.6
+25753274,2024-11-01,0,First Saturday October U2250,Budapest HUN,2024-10-05,2024-10-15,1893,1730,4.5,9,1.77,40,70.8,"Alsemail, Mohammed Fahad M",,1874.0,False,KSA,1.0,1,0.69,40,27.6
+25753274,2024-11-01,0,First Saturday October U2250,Budapest HUN,2024-10-05,2024-10-15,1893,1730,4.5,9,1.77,40,70.8,"Nagy, Ervin Dr.",m,2130.0,True,HUN,0.5,1,0.42,40,16.8
+25753274,2024-11-01,0,First Saturday October U2250,Budapest HUN,2024-10-05,2024-10-15,1893,1730,4.5,9,1.77,40,70.8,"Yu, Zechen",,1972.0,False,CHN,0.0,1,-0.2,40,-8.0
+25753274,2024-11-01,0,First Saturday October U2250,Budapest HUN,2024-10-05,2024-10-15,1893,1730,4.5,9,1.77,40,70.8,"Mayer, Istvan",f,1777.0,False,HUN,1.0,1,0.57,40,22.8
+25753274,2024-11-01,0,First Saturday October U2250,Budapest HUN,2024-10-05,2024-10-15,1893,1730,4.5,9,1.77,40,70.8,"Cooke, Eric",,1934.0,False,USA,0.0,1,-0.24,40,-9.6
+25753274,2024-11-01,0,First Saturday October U2250,Budapest HUN,2024-10-05,2024-10-15,1893,1730,4.5,9,1.77,40,70.8,"Bacsi, Andras",,1759.0,False,HUN,1.0,1,0.54,40,21.6
+25753274,2024-11-01,0,First Saturday October U2250,Budapest HUN,2024-10-05,2024-10-15,1893,1730,4.5,9,1.77,40,70.8,"Kahn, Evarth Dr.",m,1981.0,False,HUN,0.5,1,0.31,40,12.4
+25753274,2024-11-01,0,First Saturday October U2250,Budapest HUN,2024-10-05,2024-10-15,1893,1730,4.5,9,1.77,40,70.8,"Csermely, Zoltan",,1676.0,False,HUN,0.5,1,-0.08,40,-3.2
+25753274,2024-11-01,0,Vezerkepzo Harvest U2300,Budapest HUN,2024-10-14,2024-10-19,1861,1730,4.5,8,1.72,40,68.8,"Szalanczi, Emil",m,1880.0,False,HUN,0.0,1,-0.3,40,-12.0
+25753274,2024-11-01,0,Vezerkepzo Harvest U2300,Budapest HUN,2024-10-14,2024-10-19,1861,1730,4.5,8,1.72,40,68.8,"Szabo, Bela",,1666.0,False,HUN,1.0,1,0.41,40,16.4
+25753274,2024-11-01,0,Vezerkepzo Harvest U2300,Budapest HUN,2024-10-14,2024-10-19,1861,1730,4.5,8,1.72,40,68.8,"Csermely, Zoltan",,1676.0,False,HUN,1.0,1,0.42,40,16.8
+25753274,2024-11-01,0,Vezerkepzo Harvest U2300,Budapest HUN,2024-10-14,2024-10-19,1861,1730,4.5,8,1.72,40,68.8,"Agarwal, Amaya",,1688.0,False,ENG,1.0,1,0.44,40,17.6
+25753274,2024-11-01,0,Vezerkepzo Harvest U2300,Budapest HUN,2024-10-14,2024-10-19,1861,1730,4.5,8,1.72,40,68.8,"Farago, Sandor",m,2041.0,False,HUN,0.5,1,0.36,40,14.4
+25753274,2024-11-01,0,Vezerkepzo Harvest U2300,Budapest HUN,2024-10-14,2024-10-19,1861,1730,4.5,8,1.72,40,68.8,"Kahn, Evarth Dr.",m,1981.0,False,HUN,0.0,1,-0.19,40,-7.6
+25753274,2024-11-01,0,Vezerkepzo Harvest U2300,Budapest HUN,2024-10-14,2024-10-19,1861,1730,4.5,8,1.72,40,68.8,"Kozma, Edit",wf,1861.0,False,HUN,1.0,1,0.68,40,27.2
+25753274,2024-11-01,0,Vezerkepzo Harvest U2300,Budapest HUN,2024-10-14,2024-10-19,1861,1730,4.5,8,1.72,40,68.8,"Levay, Sorin",f,2096.0,False,ROU,0.0,1,-0.1,40,-4.0

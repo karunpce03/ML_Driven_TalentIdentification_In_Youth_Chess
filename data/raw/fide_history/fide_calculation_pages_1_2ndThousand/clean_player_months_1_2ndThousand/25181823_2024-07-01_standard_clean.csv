@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25181823,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1661,1939,6.5,8,-0.09,40,-3.6,"Khishore, Riddhish V",,1539.0,True,IND,1.0,1,0.08,40,3.2
+25181823,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1661,1939,6.5,8,-0.09,40,-3.6,"Kavuthick, Ram B",,1539.0,True,IND,1.0,1,0.08,40,3.2
+25181823,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1661,1939,6.5,8,-0.09,40,-3.6,"Omkar, Paldhe",,1642.0,False,IND,1.0,1,0.15,40,6.0
+25181823,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1661,1939,6.5,8,-0.09,40,-3.6,"Samaksh, Ashok",,1694.0,False,IND,0.5,1,-0.3,40,-12.0
+25181823,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1661,1939,6.5,8,-0.09,40,-3.6,"Kamalesh, I",,1674.0,False,IND,1.0,1,0.18,40,7.2
+25181823,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1661,1939,6.5,8,-0.09,40,-3.6,"Safal, Fazil",,1810.0,False,IND,0.0,1,-0.67,40,-26.8
+25181823,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1661,1939,6.5,8,-0.09,40,-3.6,"Sayooj, S",,1660.0,False,IND,1.0,1,0.16,40,6.4
+25181823,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1661,1939,6.5,8,-0.09,40,-3.6,"Arush, A",,1729.0,False,IND,1.0,1,0.23,40,9.2
+25181823,2024-07-01,0,26th Asian Youth Chess Championship U12 group,Almaty KAZ,2024-06-12,2024-06-19,1792,1957,7.0,9,0.69,40,27.6,"Nguyen, Le Nguyen",,1673.0,False,VIE,0.0,1,-0.84,40,-33.6
+25181823,2024-07-01,0,26th Asian Youth Chess Championship U12 group,Almaty KAZ,2024-06-12,2024-06-19,1792,1957,7.0,9,0.69,40,27.6,"Khaled, Seyam",,1624.0,False,JOR,1.0,1,0.12,40,4.8
+25181823,2024-07-01,0,26th Asian Youth Chess Championship U12 group,Almaty KAZ,2024-06-12,2024-06-19,1792,1957,7.0,9,0.69,40,27.6,"Akhmetov, Alan K",,1652.0,False,KAZ,1.0,1,0.14,40,5.6
+25181823,2024-07-01,0,26th Asian Youth Chess Championship U12 group,Almaty KAZ,2024-06-12,2024-06-19,1792,1957,7.0,9,0.69,40,27.6,"Batbaatar, Baatar",,1724.0,False,MGL,1.0,1,0.21,40,8.4
+25181823,2024-07-01,0,26th Asian Youth Chess Championship U12 group,Almaty KAZ,2024-06-12,2024-06-19,1792,1957,7.0,9,0.69,40,27.6,"Sanches-Shananin, Adrian",,1863.0,False,FID,1.0,1,0.37,40,14.8
+25181823,2024-07-01,0,26th Asian Youth Chess Championship U12 group,Almaty KAZ,2024-06-12,2024-06-19,1792,1957,7.0,9,0.69,40,27.6,"Qu, Haoming",,1877.0,False,CHN,1.0,1,0.39,40,15.6
+25181823,2024-07-01,0,26th Asian Youth Chess Championship U12 group,Almaty KAZ,2024-06-12,2024-06-19,1792,1957,7.0,9,0.69,40,27.6,"Kakavand, Ramtin",c,2059.0,False,IRI,0.0,1,-0.36,40,-14.4
+25181823,2024-07-01,0,26th Asian Youth Chess Championship U12 group,Almaty KAZ,2024-06-12,2024-06-19,1792,1957,7.0,9,0.69,40,27.6,"Primbetov, Nurassyl",,1806.0,False,KAZ,1.0,1,0.3,40,12.0
+25181823,2024-07-01,0,26th Asian Youth Chess Championship U12 group,Almaty KAZ,2024-06-12,2024-06-19,1792,1957,7.0,9,0.69,40,27.6,"Aadik, Theophane Lenin",,1852.0,False,IND,1.0,1,0.36,40,14.4

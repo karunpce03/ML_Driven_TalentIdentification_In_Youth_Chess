@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429040965,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1591.0,1404.0,0.0,4,-1.11,40,-44.4,"Ayan, Pal",,1804.0,True,IND,0.0,1,-0.08,40.0,-3.2
+429040965,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1591.0,1404.0,0.0,4,-1.11,40,-44.4,"Snehasish, Das",,1581.0,False,IND,0.0,1,-0.27,40.0,-10.8
+429040965,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1591.0,1404.0,0.0,4,-1.11,40,-44.4,"Pragyan, Puzari",,1481.0,False,IND,0.0,1,-0.39,40.0,-15.6
+429040965,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1591.0,1404.0,0.0,4,-1.11,40,-44.4,"Ameya, Gupta",,1498.0,False,IND,0.0,1,-0.37,40.0,-14.8
+429040965,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1774.0,1404.0,0.0,1,-0.1,40,-4.0,"Pran, Govinda Parashar Kashyap",,1774.0,False,IND,0.0,1,-0.1,40.0,-4.0
+429040965,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,,,2.0,6,0.0,1353,,"Anish, Goswami",,1503.0,False,IND,0.5,1,0.0,,0.0
+429040965,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,,,2.0,6,0.0,1353,,"Manasvi, Acharya",,1548.0,False,IND,0.5,1,0.0,,0.0
+429040965,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,,,2.0,6,0.0,1353,,"Anshu, Kinkar Goswami",,1455.0,False,IND,0.5,1,0.0,,0.0
+429040965,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,,,2.0,6,0.0,1353,,"Adit, Gupta",,1466.0,False,IND,0.0,1,0.0,,0.0
+429040965,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,,,2.0,6,0.0,1353,,"Ishan, Baruah",,1416.0,False,IND,0.0,1,0.0,,0.0
+429040965,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,,,2.0,6,0.0,1353,,"Monishankar, Bayan",,1479.0,False,IND,0.5,1,0.0,,0.0

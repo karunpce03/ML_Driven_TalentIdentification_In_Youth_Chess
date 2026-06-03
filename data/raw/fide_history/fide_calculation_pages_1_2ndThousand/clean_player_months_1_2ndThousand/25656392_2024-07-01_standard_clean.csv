@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25656392,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1833,1828,4.0,7,0.51,40,20.4,"Li, Tommy",,1524.0,False,USA,1.0,1,0.14,40,5.6
+25656392,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1833,1828,4.0,7,0.51,40,20.4,"Deviprasath, Sharvesh R",f,2228.0,True,USA,0.0,1,-0.08,40,-3.2
+25656392,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1833,1828,4.0,7,0.51,40,20.4,"Kanaparthi, Pardhu Sai",,1548.0,False,USA,1.0,1,0.16,40,6.4
+25656392,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1833,1828,4.0,7,0.51,40,20.4,"Kumar, Asha",,1944.0,False,USA,0.5,1,0.16,40,6.4
+25656392,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1833,1828,4.0,7,0.51,40,20.4,"Chandran, Harish",,1830.0,False,USA,0.0,1,-0.5,40,-20.0
+25656392,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1833,1828,4.0,7,0.51,40,20.4,"Maddipati, Srihas Sai Sarvesh",,1758.0,False,USA,1.0,1,0.4,40,16.0
+25656392,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1833,1828,4.0,7,0.51,40,20.4,"Zhang, Andrew H",,2001.0,False,USA,0.5,1,0.23,40,9.2
+25656392,2024-07-01,0,2024 150K Universal Open - 2000-2199,"North Richland Hills, TX USA",2024-06-20,2024-06-23,1883,1828,3.0,5,0.87,40,34.8,"Elliott, Alexander Mclaughlin",,1893.0,False,USA,0.5,1,0.09,40,3.6
+25656392,2024-07-01,0,2024 150K Universal Open - 2000-2199,"North Richland Hills, TX USA",2024-06-20,2024-06-23,1883,1828,3.0,5,0.87,40,34.8,"Cole, Christopher",,1801.0,False,USA,1.0,1,0.46,40,18.4
+25656392,2024-07-01,0,2024 150K Universal Open - 2000-2199,"North Richland Hills, TX USA",2024-06-20,2024-06-23,1883,1828,3.0,5,0.87,40,34.8,"Creger V, Leo",,1941.0,False,USA,0.0,1,-0.35,40,-14.0
+25656392,2024-07-01,0,2024 150K Universal Open - 2000-2199,"North Richland Hills, TX USA",2024-06-20,2024-06-23,1883,1828,3.0,5,0.87,40,34.8,"Barnes, Maxwell Hampton",,1901.0,False,USA,0.5,1,0.1,40,4.0
+25656392,2024-07-01,0,2024 150K Universal Open - 2000-2199,"North Richland Hills, TX USA",2024-06-20,2024-06-23,1883,1828,3.0,5,0.87,40,34.8,"Mysore, Abhinav Naveen",,1877.0,False,USA,1.0,1,0.57,40,22.8

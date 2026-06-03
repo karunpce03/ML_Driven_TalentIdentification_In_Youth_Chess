@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88187128,2024-09-01,0,2024 City of Adelaide Championship Rounds 3-6,Adelaide AUS,2024-07-30,2024-08-27,1690,1668,2.0,4,0.12,40,4.8,"Nguyen, Duc Hung",,1664.0,False,AUS,0.5,1,-0.01,40,-0.4
+88187128,2024-09-01,0,2024 City of Adelaide Championship Rounds 3-6,Adelaide AUS,2024-07-30,2024-08-27,1690,1668,2.0,4,0.12,40,4.8,"Cinco, Dino",,1718.0,False,AUS,1.0,1,0.57,40,22.8
+88187128,2024-09-01,0,2024 City of Adelaide Championship Rounds 3-6,Adelaide AUS,2024-07-30,2024-08-27,1690,1668,2.0,4,0.12,40,4.8,"Pattison, Hamish",,1807.0,False,AUS,0.0,1,-0.31,40,-12.4
+88187128,2024-09-01,0,2024 City of Adelaide Championship Rounds 3-6,Adelaide AUS,2024-07-30,2024-08-27,1690,1668,2.0,4,0.12,40,4.8,"Zafari, Seyed Ilia",,1572.0,False,AUS,0.5,1,-0.13,40,-5.2

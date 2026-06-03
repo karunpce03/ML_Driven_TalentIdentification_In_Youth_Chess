@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25903713,2024-12-01,0,FIDE WORLD AMATEUR Open U2000,Rhodes GRE,2024-10-27,2024-11-04,1919,1763,6.0,9,3.32,40,132.8,"Amgalanbaatar, Ravdanlkhumbuu",,1916.0,False,MGL,0.0,1,-0.3,40,-12.0
+25903713,2024-12-01,0,FIDE WORLD AMATEUR Open U2000,Rhodes GRE,2024-10-27,2024-11-04,1919,1763,6.0,9,3.32,40,132.8,"Hoareau, Hugues",,1876.0,False,FRA,1.0,1,0.65,40,26.0
+25903713,2024-12-01,0,FIDE WORLD AMATEUR Open U2000,Rhodes GRE,2024-10-27,2024-11-04,1919,1763,6.0,9,3.32,40,132.8,"Zielinski, Olgierd",,1926.0,False,POL,0.5,1,0.22,40,8.8
+25903713,2024-12-01,0,FIDE WORLD AMATEUR Open U2000,Rhodes GRE,2024-10-27,2024-11-04,1919,1763,6.0,9,3.32,40,132.8,"Kazakis, Mattheos Konstantinos",,1900.0,False,GRE,1.0,1,0.68,40,27.2
+25903713,2024-12-01,0,FIDE WORLD AMATEUR Open U2000,Rhodes GRE,2024-10-27,2024-11-04,1919,1763,6.0,9,3.32,40,132.8,"Tqavadze, Giorgi",,1995.0,False,GEO,1.0,1,0.79,40,31.6
+25903713,2024-12-01,0,FIDE WORLD AMATEUR Open U2000,Rhodes GRE,2024-10-27,2024-11-04,1919,1763,6.0,9,3.32,40,132.8,"Paricharak, Shardul",,1929.0,False,AHO,1.0,1,0.72,40,28.8
+25903713,2024-12-01,0,FIDE WORLD AMATEUR Open U2000,Rhodes GRE,2024-10-27,2024-11-04,1919,1763,6.0,9,3.32,40,132.8,"Danzanjunai, Ganbat",,1997.0,False,MGL,1.0,1,0.79,40,31.6
+25903713,2024-12-01,0,FIDE WORLD AMATEUR Open U2000,Rhodes GRE,2024-10-27,2024-11-04,1919,1763,6.0,9,3.32,40,132.8,"Ahmadzadeh Razavi, Seyed Shaahin",,1933.0,False,GER,0.0,1,-0.28,40,-11.2
+25903713,2024-12-01,0,FIDE WORLD AMATEUR Open U2000,Rhodes GRE,2024-10-27,2024-11-04,1919,1763,6.0,9,3.32,40,132.8,"Sharma, Pankaj",c,1799.0,False,IND,0.5,1,0.05,40,2.0

@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33405352,2025-04-01,0,2025 Eastside Open,"Bellevue, WA USA",2025-03-01,2025-03-02,1967,1688,2.0,4,1.29,40,51.6,"Kona, Vidip Kumar",,2088,True,USA,0.5,1,0.42,40,16.8
+33405352,2025-04-01,0,2025 Eastside Open,"Bellevue, WA USA",2025-03-01,2025-03-02,1967,1688,2.0,4,1.29,40,51.6,"Zhu, Jamie Zhongyun",,1924,False,USA,0.5,1,0.3,40,12.0
+33405352,2025-04-01,0,2025 Eastside Open,"Bellevue, WA USA",2025-03-01,2025-03-02,1967,1688,2.0,4,1.29,40,51.6,"Patankar, Vijay",,1831,False,USA,1.0,1,0.69,40,27.6
+33405352,2025-04-01,0,2025 Eastside Open,"Bellevue, WA USA",2025-03-01,2025-03-02,1967,1688,2.0,4,1.29,40,51.6,"Wan, Bertrand",,2024,False,USA,0.0,1,-0.12,40,-4.8

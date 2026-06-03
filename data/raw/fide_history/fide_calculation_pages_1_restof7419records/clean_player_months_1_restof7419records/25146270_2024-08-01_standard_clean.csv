@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25146270,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1793,1838,4.5,7,0.61,40,24.4,"Kazimzade, Mahammad",,1594.0,False,AZE,1.0,1,0.2,40,8.0
+25146270,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1793,1838,4.5,7,0.61,40,24.4,"Xia, Joshua",,2060.0,False,USA,0.0,1,-0.22,40,-8.8
+25146270,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1793,1838,4.5,7,0.61,40,24.4,"Aljamaat, Khaled",,1644.0,False,QAT,1.0,1,0.25,40,10.0
+25146270,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1793,1838,4.5,7,0.61,40,24.4,"Shen, Houlin",,1583.0,False,CHN,1.0,1,0.19,40,7.6
+25146270,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1793,1838,4.5,7,0.61,40,24.4,"Shogdzhiev, Roman",c,2060.0,False,FID,0.5,1,0.28,40,11.2
+25146270,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1793,1838,4.5,7,0.61,40,24.4,"Yu, Zechen",,1889.0,False,CHN,0.0,1,-0.43,40,-17.2
+25146270,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1793,1838,4.5,7,0.61,40,24.4,"Akramov, Khasan",,1718.0,False,UZB,1.0,1,0.34,40,13.6
+25146270,2024-08-01,0,FIDE WORLD CUP U10 Open (Stage-II),Batumi GEO,2024-07-01,2024-07-02,1816,1838,2.0,2,0.94,40,37.6,"Mrozowski, Nikodem",,1816.0,False,POL,1.0,1,0.47,40,18.8
+25146270,2024-08-01,0,FIDE WORLD CUP U10 Open (Stage-II),Batumi GEO,2024-07-01,2024-07-02,1816,1838,2.0,2,0.94,40,37.6,"Mrozowski, Nikodem",,1816.0,False,POL,1.0,1,0.47,40,18.8

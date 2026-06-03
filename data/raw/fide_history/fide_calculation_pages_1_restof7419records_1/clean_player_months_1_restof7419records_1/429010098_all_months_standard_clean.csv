@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429010098,2024-06-01,0,Rajasthan State U-17 FIDE Rating Selection Chess Championship-2024,Udaipur IND,2024-05-24,2024-05-26,,,1.0,3,0.0,1335,,"Aarush, Mathur",,1462.0,False,IND,0.0,1,0.0,,0.0
+429010098,2024-06-01,0,Rajasthan State U-17 FIDE Rating Selection Chess Championship-2024,Udaipur IND,2024-05-24,2024-05-26,,,1.0,3,0.0,1335,,"Priya, Sankhla",,1413.0,False,IND,0.0,1,0.0,,0.0
+429010098,2024-06-01,0,Rajasthan State U-17 FIDE Rating Selection Chess Championship-2024,Udaipur IND,2024-05-24,2024-05-26,,,1.0,3,0.0,1335,,"Vivaan, Bihari Vyas",,1504.0,False,IND,1.0,1,0.0,,0.0
+429010098,2024-10-01,0,37th National Under-7 Girls Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,3.0,5,0.0,1485,,"Arshitha, S",,1418.0,False,IND,0.0,1,0.0,,0.0
+429010098,2024-10-01,0,37th National Under-7 Girls Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,3.0,5,0.0,1485,,"Arisapu, Vedhaanshi",,1452.0,False,IND,1.0,1,0.0,,0.0
+429010098,2024-10-01,0,37th National Under-7 Girls Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,3.0,5,0.0,1485,,"Jiaana, Garg",,1468.0,False,IND,1.0,1,0.0,,0.0
+429010098,2024-10-01,0,37th National Under-7 Girls Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,3.0,5,0.0,1485,,"Eishita, Lahiry",,1401.0,False,IND,1.0,1,0.0,,0.0
+429010098,2024-10-01,0,37th National Under-7 Girls Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,3.0,5,0.0,1485,,"Arpitangshi, Bhattacharya",,1587.0,False,IND,0.0,1,0.0,,0.0
+429010098,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1709.0,1531.0,0.0,2,-0.54,40,-21.6,"Saxena, Arpit",,1707.0,False,IND,0.0,1,-0.27,40.0,-10.8
+429010098,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1709.0,1531.0,0.0,2,-0.54,40,-21.6,"Borate, Tanvi",,1710.0,False,IND,0.0,1,-0.27,40.0,-10.8
+429010098,2025-01-01,0,2nd Kingdom of Chess International Below 1800 FIDE Rated Chess Tournament 2024,Udaipur IND,2024-12-21,2024-12-23,1542.0,1509.0,0.0,2,-0.91,40,-36.4,"Shikhar, Karn",,1651.0,False,IND,0.0,1,-0.31,40.0,-12.4
+429010098,2025-01-01,0,2nd Kingdom of Chess International Below 1800 FIDE Rated Chess Tournament 2024,Udaipur IND,2024-12-21,2024-12-23,1542.0,1509.0,0.0,2,-0.91,40,-36.4,Bajrang,,1433.0,False,IND,0.0,1,-0.6,40.0,-24.0

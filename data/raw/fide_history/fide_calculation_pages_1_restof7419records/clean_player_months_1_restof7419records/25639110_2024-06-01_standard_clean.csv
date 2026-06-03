@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25639110,2024-06-01,0,SixDays Budapest May 2024 GM B,Budapest HUN,2024-05-16,2024-05-21,2399,2372,4.5,9,0.32,20,6.4,"Krishnan, Ritvik",f,2296.0,False,IND,0.5,1,-0.1,20,-2.0
+25639110,2024-06-01,0,SixDays Budapest May 2024 GM B,Budapest HUN,2024-05-16,2024-05-21,2399,2372,4.5,9,0.32,20,6.4,"Lamard, Guillaume",m,2500.0,False,FRA,0.5,1,0.17,20,3.4
+25639110,2024-06-01,0,SixDays Budapest May 2024 GM B,Budapest HUN,2024-05-16,2024-05-21,2399,2372,4.5,9,0.32,20,6.4,"Jinan, Jomon",,2380.0,False,IND,0.0,1,-0.49,20,-9.8
+25639110,2024-06-01,0,SixDays Budapest May 2024 GM B,Budapest HUN,2024-05-16,2024-05-21,2399,2372,4.5,9,0.32,20,6.4,"Horvath, Adam",g,2447.0,False,HUN,1.0,1,0.6,20,12.0
+25639110,2024-06-01,0,SixDays Budapest May 2024 GM B,Budapest HUN,2024-05-16,2024-05-21,2399,2372,4.5,9,0.32,20,6.4,"Lu, Maximillian",m,2372.0,False,USA,0.5,1,0.0,20,0.0
+25639110,2024-06-01,0,SixDays Budapest May 2024 GM B,Budapest HUN,2024-05-16,2024-05-21,2399,2372,4.5,9,0.32,20,6.4,"Fodor, Tamas Jr.",g,2486.0,False,HUN,1.0,1,0.66,20,13.2
+25639110,2024-06-01,0,SixDays Budapest May 2024 GM B,Budapest HUN,2024-05-16,2024-05-21,2399,2372,4.5,9,0.32,20,6.4,"Kuru, Atilla",f,2312.0,False,TUR,0.5,1,-0.08,20,-1.6
+25639110,2024-06-01,0,SixDays Budapest May 2024 GM B,Budapest HUN,2024-05-16,2024-05-21,2399,2372,4.5,9,0.32,20,6.4,"Stefansson, Vignir Vatnar",g,2462.0,False,ISL,0.0,1,-0.38,20,-7.6
+25639110,2024-06-01,0,SixDays Budapest May 2024 GM B,Budapest HUN,2024-05-16,2024-05-21,2399,2372,4.5,9,0.32,20,6.4,"Palczert, Matyas",f,2332.0,False,HUN,0.5,1,-0.06,20,-1.2

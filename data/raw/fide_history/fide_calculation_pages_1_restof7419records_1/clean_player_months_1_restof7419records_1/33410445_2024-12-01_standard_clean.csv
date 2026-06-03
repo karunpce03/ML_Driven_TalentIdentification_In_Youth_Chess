@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33410445,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1652,1582,3.5,6,1.05,40,42.0,"Ramakrishna, Marella",,1435.0,False,IND,1.0,1,0.3,40,12.0
+33410445,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1652,1582,3.5,6,1.05,40,42.0,"Perumallu, K.",,1743.0,False,IND,0.5,1,0.21,40,8.4
+33410445,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1652,1582,3.5,6,1.05,40,42.0,"Sethu, Madhav Upadhyayula",,1731.0,False,IND,1.0,1,0.7,40,28.0
+33410445,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1652,1582,3.5,6,1.05,40,42.0,"Kabnurakar, Sharvari",,1710.0,False,IND,0.5,1,0.17,40,6.8
+33410445,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1652,1582,3.5,6,1.05,40,42.0,"Pavan, C",,1632.0,False,IND,0.5,1,0.07,40,2.8
+33410445,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1652,1582,3.5,6,1.05,40,42.0,"Aole, Sangharsh",,1658.0,False,IND,0.0,1,-0.4,40,-16.0
+33410445,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1608,1582,2.5,6,-0.32,40,-12.8,"Abhinav, V",,1732.0,False,IND,0.0,1,-0.3,40,-12.0
+33410445,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1608,1582,2.5,6,-0.32,40,-12.8,"Janvi, Mallya",,1438.0,False,IND,1.0,1,0.31,40,12.4
+33410445,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1608,1582,2.5,6,-0.32,40,-12.8,"Aneesh, Adiga",,1825.0,False,IND,0.0,1,-0.2,40,-8.0
+33410445,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1608,1582,2.5,6,-0.32,40,-12.8,"Samarth, Ranjan Sahu",,1485.0,False,IND,0.5,1,-0.13,40,-5.2
+33410445,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1608,1582,2.5,6,-0.32,40,-12.8,"Aryan, Karade",,1442.0,False,IND,1.0,1,0.31,40,12.4
+33410445,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1608,1582,2.5,6,-0.32,40,-12.8,"Jeevaa, A S",,1724.0,False,IND,0.0,1,-0.31,40,-12.4

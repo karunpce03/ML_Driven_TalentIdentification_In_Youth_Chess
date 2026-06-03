@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531033571,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1667,1486,2.0,5,0.66,40,26.4,"Shreyaskar, Tanti",,1773.0,False,IND,0.0,1,-0.16,40,-6.4
+531033571,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1667,1486,2.0,5,0.66,40,26.4,"Chiraranjan, Bhuyan",,1662.0,False,IND,0.0,1,-0.27,40,-10.8
+531033571,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1667,1486,2.0,5,0.66,40,26.4,"Atul, Chetia",,1593.0,False,IND,1.0,1,0.65,40,26.0
+531033571,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1667,1486,2.0,5,0.66,40,26.4,"Paramarth, Mitra",,1695.0,False,IND,0.0,1,-0.23,40,-9.2
+531033571,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1667,1486,2.0,5,0.66,40,26.4,"Junmoni, Gogoi",,1613.0,False,IND,1.0,1,0.67,40,26.8

@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25738020,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1835,1557,3.0,4,2.31,40,92.4,"Napone, Emerson",,1930.0,False,PHI,0.0,1,-0.1,40,-4.0
+25738020,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1835,1557,3.0,4,2.31,40,92.4,"Al Makhamari, Ahmed",,1765.0,False,OMA,1.0,1,0.77,40,30.8
+25738020,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1835,1557,3.0,4,2.31,40,92.4,"Medhat, Magdy",,1875.0,False,EGY,1.0,1,0.87,40,34.8
+25738020,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1835,1557,3.0,4,2.31,40,92.4,"Al Jabri, Rashid",,1771.0,False,OMA,1.0,1,0.77,40,30.8

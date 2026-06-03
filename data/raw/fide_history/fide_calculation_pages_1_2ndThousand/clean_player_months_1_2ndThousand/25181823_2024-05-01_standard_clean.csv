@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25181823,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1802,1882,7.5,10,1.42,40,56.8,"Chetana, Gopalakrishnan",,1489.0,False,IND,1.0,1,0.08,40,3.2
+25181823,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1802,1882,7.5,10,1.42,40,56.8,"Balaram, U",,1609.0,False,IND,1.0,1,0.17,40,6.8
+25181823,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1802,1882,7.5,10,1.42,40,56.8,"Rajith, V.",,1695.0,False,IND,1.0,1,0.26,40,10.4
+25181823,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1802,1882,7.5,10,1.42,40,56.8,"Samuel, Stephen Noble S",,1727.0,False,IND,0.5,1,-0.21,40,-8.4
+25181823,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1802,1882,7.5,10,1.42,40,56.8,"Santosh, Hariharan",,1676.0,False,IND,1.0,1,0.24,40,9.6
+25181823,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1802,1882,7.5,10,1.42,40,56.8,"Dhanush, Ragav N S",,1914.0,False,IND,0.5,1,0.04,40,1.6
+25181823,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1802,1882,7.5,10,1.42,40,56.8,"Lokesh, N.",,2236.0,False,IND,0.0,1,-0.11,40,-4.4
+25181823,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1802,1882,7.5,10,1.42,40,56.8,"Amith, A",,1717.0,False,IND,1.0,1,0.28,40,11.2
+25181823,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1802,1882,7.5,10,1.42,40,56.8,"Niranjan, J Warrier",,1704.0,False,IND,1.0,1,0.27,40,10.8
+25181823,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1802,1882,7.5,10,1.42,40,56.8,"Palit, Somak",m,2250.0,False,IND,0.5,1,0.4,40,16.0

@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33423415,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1527,1655,5.5,8,0.12,40,4.8,"Palo, Samad",,1442.0,False,IND,1.0,1,0.23,40,9.2
+33423415,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1527,1655,5.5,8,0.12,40,4.8,"Shuvayu, Datta",,1504.0,False,IND,1.0,1,0.3,40,12.0
+33423415,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1527,1655,5.5,8,0.12,40,4.8,"Muna, Sabar",,1540.0,False,IND,1.0,1,0.34,40,13.6
+33423415,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1527,1655,5.5,8,0.12,40,4.8,"Jena, Binayak",,1575.0,False,IND,1.0,1,0.39,40,15.6
+33423415,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1527,1655,5.5,8,0.12,40,4.8,"Srivardhan, Reddy Devareddy",,1593.0,False,IND,0.0,1,-0.59,40,-23.6
+33423415,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1527,1655,5.5,8,0.12,40,4.8,"Arohan, Dey",,1524.0,False,IND,0.5,1,-0.18,40,-7.2
+33423415,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1527,1655,5.5,8,0.12,40,4.8,"Riyana, Khatun",,1531.0,False,IND,0.0,1,-0.67,40,-26.8
+33423415,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1527,1655,5.5,8,0.12,40,4.8,"Dutta, Alok Kumar",,1506.0,False,IND,1.0,1,0.3,40,12.0

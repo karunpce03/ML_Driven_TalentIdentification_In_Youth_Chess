@@ -1,0 +1,24 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531060420,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,,,1.0,3,0.0,1422,,"Nehasanvi, Chitalangi",,1515.0,False,IND,1.0,1,0.0,,0.0
+531060420,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,,,1.0,3,0.0,1422,,"Aravinda, B R",,1636.0,False,IND,0.0,1,0.0,,0.0
+531060420,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,,,1.0,3,0.0,1422,,"Kurella, Dinesh Sai",,1490.0,False,IND,0.0,1,0.0,,0.0
+531060420,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,,,1.5,5,0.0,1317,,"Pamidi, Jaswanth",,1466.0,False,IND,0.0,1,0.0,,0.0
+531060420,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,,,1.5,5,0.0,1317,,"Nitish, K R",,1454.0,False,IND,0.5,1,0.0,,0.0
+531060420,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,,,1.5,5,0.0,1317,,"Hyma, Sanvitha Srikaghollapu",,1449.0,False,IND,1.0,1,0.0,,0.0
+531060420,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,,,1.5,5,0.0,1317,,"Harshit, Bihani",,1512.0,False,IND,0.0,1,0.0,,0.0
+531060420,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,,,1.5,5,0.0,1317,,"Sridar, D V",,1447.0,False,IND,0.0,1,0.0,,0.0
+531060420,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1597.0,1447.0,1.5,5,-0.06,40,-2.4,"Suman, Saideep",,1771.0,False,IND,0.0,1,-0.13,40.0,-5.2
+531060420,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1597.0,1447.0,1.5,5,-0.06,40,-2.4,"Nagireddypalli, Dikshit",,1608.0,False,IND,0.0,1,-0.29,40.0,-11.6
+531060420,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1597.0,1447.0,1.5,5,-0.06,40,-2.4,"Luv, Agrawal",,1545.0,False,IND,0.5,1,0.13,40.0,5.2
+531060420,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1597.0,1447.0,1.5,5,-0.06,40,-2.4,"Shourya, Gupta",,1531.0,False,IND,0.0,1,-0.38,40.0,-15.2
+531060420,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1597.0,1447.0,1.5,5,-0.06,40,-2.4,Vishvanath,,1529.0,False,IND,1.0,1,0.61,40.0,24.4
+531060420,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1804.0,1447.0,0.0,1,-0.11,40,-4.4,"Abhay, Chetty",,1804.0,False,IND,0.0,1,-0.11,40.0,-4.4
+531060420,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1596.0,1440.0,0.0,3,-0.91,40,-36.4,"Mohammed, Shamil A",,1716.0,False,IND,0.0,1,-0.17,40.0,-6.8
+531060420,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1596.0,1440.0,0.0,3,-0.91,40,-36.4,"Vidur, Murali",,1570.0,False,IND,0.0,1,-0.32,40.0,-12.8
+531060420,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1596.0,1440.0,0.0,3,-0.91,40,-36.4,"Sharjeel, Hassan Shaik",,1501.0,False,IND,0.0,1,-0.42,40.0,-16.8
+531060420,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1431.0,1404.0,2.5,6,-0.27,40,-10.8,"Dhanabairav, S",,1411.0,False,IND,1.0,1,0.51,40.0,20.4
+531060420,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1431.0,1404.0,2.5,6,-0.27,40,-10.8,"Hartejpal, Singh",,1468.0,False,IND,0.0,1,-0.41,40.0,-16.4
+531060420,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1431.0,1404.0,2.5,6,-0.27,40,-10.8,"Praneeth, Kilana",,1417.0,False,IND,1.0,1,0.52,40.0,20.8
+531060420,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1431.0,1404.0,2.5,6,-0.27,40,-10.8,"Imadabattini, Joel",,1481.0,False,IND,0.0,1,-0.39,40.0,-15.6
+531060420,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1431.0,1404.0,2.5,6,-0.27,40,-10.8,"Mokshith, Gannamani",,1405.0,False,IND,0.0,1,-0.5,40.0,-20.0
+531060420,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1431.0,1404.0,2.5,6,-0.27,40,-10.8,"Ishan, Krishna Kakarala",,1402.0,False,IND,0.5,1,0.0,40.0,0.0

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25940783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2322,2392,6.0,9,0.68,10,6.8,"Pattnayak, Nilsu",,2154.0,False,IND,0.5,1,-0.3,10,-3.0
+25940783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2322,2392,6.0,9,0.68,10,6.8,"Abdulrahman Mohammad, Al Taher",f,2175.0,False,UAE,0.0,1,-0.78,10,-7.8
+25940783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2322,2392,6.0,9,0.68,10,6.8,"Stevanic, David",f,2312.0,False,SLO,0.5,1,-0.11,10,-1.1
+25940783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2322,2392,6.0,9,0.68,10,6.8,"Suleimen, Ergali",f,2334.0,False,KAZ,1.0,1,0.42,10,4.2
+25940783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2322,2392,6.0,9,0.68,10,6.8,"Chen, Yining",f wc,2266.0,False,CHN,0.5,1,-0.17,10,-1.7
+25940783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2322,2392,6.0,9,0.68,10,6.8,"Aquino, Jethro Dino",f,2316.0,False,PHI,0.5,1,-0.1,10,-1.0
+25940783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2322,2392,6.0,9,0.68,10,6.8,"Aziz, Husain",m,2326.0,False,QAT,1.0,1,0.41,10,4.1
+25940783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2322,2392,6.0,9,0.68,10,6.8,"Szpar, Milosz",m,2483.0,False,POL,1.0,1,0.62,10,6.2
+25940783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2322,2392,6.0,9,0.68,10,6.8,"Dai, Changren",g,2532.0,False,CHN,1.0,1,0.69,10,6.9

@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25611607,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1624,1756,5.5,8,0.13,40,5.2,"Afsar, Rahaman",,1511.0,False,IND,1.0,1,0.2,40,8.0
+25611607,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1624,1756,5.5,8,0.13,40,5.2,"Hariharan, J",,1595.0,False,IND,1.0,1,0.29,40,11.6
+25611607,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1624,1756,5.5,8,0.13,40,5.2,"Anilkumar, O.t.",,1927.0,False,IND,0.0,1,-0.27,40,-10.8
+25611607,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1624,1756,5.5,8,0.13,40,5.2,"Ar, Saisharvesh",,1579.0,False,IND,1.0,1,0.27,40,10.8
+25611607,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1624,1756,5.5,8,0.13,40,5.2,"Diya, Jain",,1581.0,False,IND,0.5,1,-0.23,40,-9.2
+25611607,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1624,1756,5.5,8,0.13,40,5.2,"Aravindh, S",,1633.0,False,IND,0.0,1,-0.67,40,-26.8
+25611607,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1624,1756,5.5,8,0.13,40,5.2,"Bathina, Mokshatra Sri Abhiram",,1556.0,False,IND,1.0,1,0.24,40,9.6
+25611607,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1624,1756,5.5,8,0.13,40,5.2,"Brijesh, Poola",,1608.0,False,IND,1.0,1,0.3,40,12.0
+25611607,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2057,1761,6.0,11,4.17,40,166.8,"Sulyok, Eszter",,2100.0,False,HUN,0.5,1,0.38,40,15.2
+25611607,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2057,1761,6.0,11,4.17,40,166.8,"Kirtadze, Anastasia",wf,2142.0,False,GEO,1.0,1,0.91,40,36.4
+25611607,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2057,1761,6.0,11,4.17,40,166.8,"Akshaya, Sathi",,1832.0,False,IND,1.0,1,0.6,40,24.0
+25611607,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2057,1761,6.0,11,4.17,40,166.8,"Kaldarova, Ayaulym",wf,2100.0,False,KAZ,1.0,1,0.88,40,35.2
+25611607,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2057,1761,6.0,11,4.17,40,166.8,"Mkrtchyan, Mariam",wm,2161.0,True,ARM,0.5,1,0.42,40,16.8
+25611607,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2057,1761,6.0,11,4.17,40,166.8,"Balabayeva, Xeniya",wm,2161.0,True,KAZ,0.5,1,0.42,40,16.8
+25611607,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2057,1761,6.0,11,4.17,40,166.8,"Krasteva, Beloslava",f wg,2161.0,True,BUL,0.0,1,-0.08,40,-3.2
+25611607,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2057,1761,6.0,11,4.17,40,166.8,"Gunawardhana, Devindya Oshini",wf,1980.0,False,SRI,0.0,1,-0.22,40,-8.8
+25611607,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2057,1761,6.0,11,4.17,40,166.8,"Gasparyan, Milena",,1909.0,False,ARM,0.5,1,0.2,40,8.0
+25611607,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2057,1761,6.0,11,4.17,40,166.8,"Cassi, Elisa",wf,2028.0,False,ITA,1.0,1,0.82,40,32.8
+25611607,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2057,1761,6.0,11,4.17,40,166.8,"Swara, Lakshmi S Nair",wc,2051.0,False,IND,0.0,1,-0.16,40,-6.4

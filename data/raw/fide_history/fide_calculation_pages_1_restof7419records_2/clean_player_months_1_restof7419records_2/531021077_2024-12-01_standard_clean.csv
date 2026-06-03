@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531021077,2024-12-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY BELOW 1700 FIDE RATING TOURNAMENT,Kollam IND,2024-11-08,2024-11-10,1411,1524,1.5,4,-1.11,40,-44.4,"Niranjan, Naik",,1418.0,False,IND,0.5,1,-0.14,40,-5.6
+531021077,2024-12-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY BELOW 1700 FIDE RATING TOURNAMENT,Kollam IND,2024-11-08,2024-11-10,1411,1524,1.5,4,-1.11,40,-44.4,"Bhavesh, Roshan V",,1406.0,False,IND,0.5,1,-0.16,40,-6.4
+531021077,2024-12-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY BELOW 1700 FIDE RATING TOURNAMENT,Kollam IND,2024-11-08,2024-11-10,1411,1524,1.5,4,-1.11,40,-44.4,"Shachin, Dhandalvar A",,1415.0,False,IND,0.0,1,-0.65,40,-26.0
+531021077,2024-12-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY BELOW 1700 FIDE RATING TOURNAMENT,Kollam IND,2024-11-08,2024-11-10,1411,1524,1.5,4,-1.11,40,-44.4,"Juan, Dominic",,1403.0,False,IND,0.5,1,-0.16,40,-6.4

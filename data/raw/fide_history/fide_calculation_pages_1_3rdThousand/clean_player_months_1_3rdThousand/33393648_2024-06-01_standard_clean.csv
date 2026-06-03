@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33393648,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1716,1811,3.5,5,0.39,40,15.6,"Aron, S P",,1576.0,False,IND,1.0,1,0.21,40,8.4
+33393648,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1716,1811,3.5,5,0.39,40,15.6,"Aditya, Dileepraj",,1698.0,False,IND,1.0,1,0.35,40,14.0
+33393648,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1716,1811,3.5,5,0.39,40,15.6,"Sidharth, Mohan",,1681.0,False,IND,0.5,1,-0.18,40,-7.2
+33393648,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1716,1811,3.5,5,0.39,40,15.6,"Sharsha, Backer",,1994.0,False,IND,0.0,1,-0.26,40,-10.4
+33393648,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1716,1811,3.5,5,0.39,40,15.6,"Jos, Paul Davis",,1632.0,False,IND,1.0,1,0.27,40,10.8

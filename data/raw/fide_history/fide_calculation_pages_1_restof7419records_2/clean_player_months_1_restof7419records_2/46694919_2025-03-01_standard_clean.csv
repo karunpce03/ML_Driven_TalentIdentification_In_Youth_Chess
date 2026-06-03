@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+46694919,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2283,2470,6.5,9,-0.11,10,-1.1,"Hofmann, Lorenz",,2139.0,False,GER,1.0,1,0.12,10,1.2
+46694919,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2283,2470,6.5,9,-0.11,10,-1.1,"Leitgeb, Julian",f,2289.0,False,AUT,0.0,1,-0.74,10,-7.4
+46694919,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2283,2470,6.5,9,-0.11,10,-1.1,"Salonika, Saina",wm,2134.0,False,IND,1.0,1,0.12,10,1.2
+46694919,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2283,2470,6.5,9,-0.11,10,-1.1,"Balabayeva, Xeniya",wg,2264.0,False,KAZ,1.0,1,0.24,10,2.4
+46694919,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2283,2470,6.5,9,-0.11,10,-1.1,"Karolczuk, Iwo",f,2358.0,False,POL,1.0,1,0.35,10,3.5
+46694919,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2283,2470,6.5,9,-0.11,10,-1.1,"Pyrih, Roman",f,2414.0,False,UKR,0.5,1,-0.08,10,-0.8
+46694919,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2283,2470,6.5,9,-0.11,10,-1.1,"Manish, Anto Cristiano F",m,2356.0,False,IND,0.5,1,-0.16,10,-1.6
+46694919,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2283,2470,6.5,9,-0.11,10,-1.1,"Aakash Sharadchandra, Dalvi",f,2290.0,False,IND,0.5,1,-0.24,10,-2.4
+46694919,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2283,2470,6.5,9,-0.11,10,-1.1,"Deshpande, Aniruddha",f,2301.0,False,IND,1.0,1,0.28,10,2.8

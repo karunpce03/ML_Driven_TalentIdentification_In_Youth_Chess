@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+46672940,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2231,2245,4.5,9,-0.09,20,-1.8,"Kao, Jamison Edrich",c,2125.0,False,HKG,0.0,1,-0.66,20,-13.2
+46672940,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2231,2245,4.5,9,-0.09,20,-1.8,"Md, Imran",f,2337.0,False,IND,1.0,1,0.63,20,12.6
+46672940,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2231,2245,4.5,9,-0.09,20,-1.8,"Fodor, Balazs",,2240.0,False,HUN,0.5,1,-0.01,20,-0.2
+46672940,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2231,2245,4.5,9,-0.09,20,-1.8,"Nemeth, Zalan",f,2211.0,False,IRL,0.0,1,-0.55,20,-11.0
+46672940,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2231,2245,4.5,9,-0.09,20,-1.8,"To, Nhat Minh",m,2300.0,False,HUN,1.0,1,0.58,20,11.6
+46672940,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2231,2245,4.5,9,-0.09,20,-1.8,"Gatineau, Yovann",m,2400.0,False,FRA,0.5,1,0.21,20,4.2
+46672940,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2231,2245,4.5,9,-0.09,20,-1.8,"Nanditha, V",wc,1903.0,False,IND,1.0,1,0.12,20,2.4
+46672940,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2231,2245,4.5,9,-0.09,20,-1.8,"Kalosha, Zhiulien Oleksii",f,2232.0,False,UKR,0.0,1,-0.52,20,-10.4
+46672940,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2231,2245,4.5,9,-0.09,20,-1.8,"Horvath, David",m,2327.0,False,HUN,0.5,1,0.11,20,2.2
+46672940,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2319,2245,5.0,9,1.36,20,27.2,"Lien, Sebastian",,1911.0,False,NOR,1.0,1,0.12,20,2.4
+46672940,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2319,2245,5.0,9,1.36,20,27.2,"Wallace, John Paul",m,2373.0,False,NOR,0.0,1,-0.33,20,-6.6
+46672940,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2319,2245,5.0,9,1.36,20,27.2,"Vijayakumar, Rishi",,2172.0,False,SCO,0.5,1,-0.1,20,-2.0
+46672940,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2319,2245,5.0,9,1.36,20,27.2,"Sherman, Raem",f,2390.0,False,ISR,1.0,1,0.69,20,13.8
+46672940,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2319,2245,5.0,9,1.36,20,27.2,"Sasikiran, Krishnan",g,2571.0,False,IND,0.5,1,0.37,20,7.4
+46672940,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2319,2245,5.0,9,1.36,20,27.2,"Aizenberg, Benny",f,2423.0,False,ISR,0.0,1,-0.27,20,-5.4
+46672940,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2319,2245,5.0,9,1.36,20,27.2,"Sian, Shadi",,2182.0,False,NOR,1.0,1,0.41,20,8.2
+46672940,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2319,2245,5.0,9,1.36,20,27.2,"Blomqvist, Erik",g,2483.0,False,SWE,0.5,1,0.3,20,6.0
+46672940,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2319,2245,5.0,9,1.36,20,27.2,"Sidhant, Mohapatra",m,2369.0,False,IND,0.5,1,0.17,20,3.4

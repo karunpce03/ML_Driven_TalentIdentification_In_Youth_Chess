@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48754234,2024-07-01,0,WB State U-17 Girls Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1500,1409,0.0,3,-1.13,40,-45.2,"Megha, Patra",,1500.0,False,IND,0.0,1,-0.38,40,-15.2
+48754234,2024-07-01,0,WB State U-17 Girls Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1500,1409,0.0,3,-1.13,40,-45.2,"Suchismita, Sen",,1521.0,False,IND,0.0,1,-0.35,40,-14.0
+48754234,2024-07-01,0,WB State U-17 Girls Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1500,1409,0.0,3,-1.13,40,-45.2,"Aditri, Bag",,1478.0,False,IND,0.0,1,-0.4,40,-16.0

@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88132129,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1614,1401,2.5,6,1.04,40,41.6,"Amartya, Kumar",,1724,False,IND,0.5,1,0.37,40,14.8
+88132129,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1614,1401,2.5,6,1.04,40,41.6,"Barisch, Florian",,1801,True,GER,0.0,1,-0.08,40,-3.2
+88132129,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1614,1401,2.5,6,1.04,40,41.6,"Kashvy, Sabharwal",,1536,False,IND,0.0,1,-0.32,40,-12.8
+88132129,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1614,1401,2.5,6,1.04,40,41.6,"Aniket, Bakshi",,1590,False,IND,0.0,1,-0.25,40,-10.0
+88132129,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1614,1401,2.5,6,1.04,40,41.6,"Toshi, Janoti",,1524,False,IND,1.0,1,0.67,40,26.8
+88132129,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1614,1401,2.5,6,1.04,40,41.6,"Surender, Kumar",,1509,False,IND,1.0,1,0.65,40,26.0

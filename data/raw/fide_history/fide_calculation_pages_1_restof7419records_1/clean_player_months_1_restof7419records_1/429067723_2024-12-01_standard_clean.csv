@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429067723,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1713,1492,0.0,3,-0.66,40,-26.4,"Ayaan, Trikha",,1696.0,False,IND,0.0,1,-0.24,40,-9.6
+429067723,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1713,1492,0.0,3,-0.66,40,-26.4,"Pazhany, Kaushal Kohli",,1683.0,False,IND,0.0,1,-0.25,40,-10.0
+429067723,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1713,1492,0.0,3,-0.66,40,-26.4,"Karjee, Manindra",,1761.0,False,IND,0.0,1,-0.17,40,-6.8

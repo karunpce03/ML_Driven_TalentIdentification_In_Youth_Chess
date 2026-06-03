@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+146241798,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1619,1434,0.0,3,-0.78,40,-31.2,"Vaibhav, Krishnan K P",,1683.0,False,IND,0.0,1,-0.19,40,-7.6
+146241798,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1619,1434,0.0,3,-0.78,40,-31.2,"Mithran, Krishnakumar",,1589.0,False,IND,0.0,1,-0.29,40,-11.6
+146241798,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1619,1434,0.0,3,-0.78,40,-31.2,"Hala, Gamal Amin",,1586.0,False,UAE,0.0,1,-0.3,40,-12.0

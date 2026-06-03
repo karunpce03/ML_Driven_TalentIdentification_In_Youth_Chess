@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33465398,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1618,1447,0.5,5,-0.97,40,-38.8,"Yashwant, B",,1847.0,True,IND,0.0,1,-0.08,40,-3.2
+33465398,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1618,1447,0.5,5,-0.97,40,-38.8,"Pragalathan, J",,1597.0,False,IND,0.0,1,-0.3,40,-12.0
+33465398,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1618,1447,0.5,5,-0.97,40,-38.8,"Rohith, S",,1530.0,False,IND,0.0,1,-0.39,40,-15.6
+33465398,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1618,1447,0.5,5,-0.97,40,-38.8,"Dharanidharan, M",,1573.0,False,IND,0.0,1,-0.33,40,-13.2
+33465398,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1618,1447,0.5,5,-0.97,40,-38.8,"Viswanathan, B S",,1543.0,False,IND,0.5,1,0.13,40,5.2
+33465398,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1550,1447,1.0,3,-0.08,40,-3.2,"Prabakaran, S",,1596.0,False,IND,0.0,1,-0.3,40,-12.0
+33465398,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1550,1447,1.0,3,-0.08,40,-3.2,"Athavan, A",,1531.0,False,IND,0.0,1,-0.38,40,-15.2
+33465398,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1550,1447,1.0,3,-0.08,40,-3.2,"Jegath, Prabhu G",,1522.0,False,IND,1.0,1,0.6,40,24.0

@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429065151,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1587.0,1404.0,0.0,4,-1.1,40,-44.0,"Aahil, Patra",,1768.0,False,IND,0.0,1,-0.1,40.0,-4.0
+429065151,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1587.0,1404.0,0.0,4,-1.1,40,-44.0,"Dishita, Dey",,1576.0,False,IND,0.0,1,-0.27,40.0,-10.8
+429065151,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1587.0,1404.0,0.0,4,-1.1,40,-44.0,"Aryan, Dey",,1528.0,False,IND,0.0,1,-0.33,40.0,-13.2
+429065151,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1587.0,1404.0,0.0,4,-1.1,40,-44.0,"Shakya, Kundu",,1474.0,False,IND,0.0,1,-0.4,40.0,-16.0
+429065151,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,,,5.5,9,0.0,1532,,"Anant, Aditi",,1486.0,False,CYP,1.0,1,0.0,,0.0
+429065151,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,,,5.5,9,0.0,1532,,"Riyana, Khatun",,1531.0,False,IND,0.5,1,0.0,,0.0
+429065151,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,,,5.5,9,0.0,1532,,"Dhirendra, Kumar Das",,1541.0,False,IND,0.0,1,0.0,,0.0
+429065151,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,,,5.5,9,0.0,1532,,"Agnibha, Koley",,1462.0,False,IND,0.5,1,0.0,,0.0
+429065151,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,,,5.5,9,0.0,1532,,"Devendra, Chanchani",,1477.0,False,IND,1.0,1,0.0,,0.0
+429065151,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,,,5.5,9,0.0,1532,,"Shuvayu, Datta",,1504.0,False,IND,0.0,1,0.0,,0.0
+429065151,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,,,5.5,9,0.0,1532,,"Rani, Puja",,1478.0,False,IND,0.5,1,0.0,,0.0
+429065151,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,,,5.5,9,0.0,1532,,"Surya, Mitra Sen",,1473.0,False,IND,1.0,1,0.0,,0.0
+429065151,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,,,5.5,9,0.0,1532,,"Shobith, Agarwal",,1472.0,False,IND,1.0,1,0.0,,0.0

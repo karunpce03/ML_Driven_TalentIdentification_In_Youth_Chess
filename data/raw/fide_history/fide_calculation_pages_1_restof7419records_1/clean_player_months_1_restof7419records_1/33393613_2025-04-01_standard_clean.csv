@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33393613,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2056,1864,4.0,9,1.58,40,63.2,"Vihaan, Dumir",,2014.0,False,IND,0.5,1,0.2,40,8.0
+33393613,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2056,1864,4.0,9,1.58,40,63.2,"Marcos, Marvin",,1958.0,False,PHI,0.5,1,0.13,40,5.2
+33393613,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2056,1864,4.0,9,1.58,40,63.2,"Vivaan, Rana",,2009.0,False,IND,0.0,1,-0.31,40,-12.4
+33393613,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2056,1864,4.0,9,1.58,40,63.2,"Aryan, Mehta",,1960.0,False,IND,1.0,1,0.63,40,25.2
+33393613,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2056,1864,4.0,9,1.58,40,63.2,"Abuazizah, Raji",,2183.0,False,PLE,0.0,1,-0.13,40,-5.2
+33393613,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2056,1864,4.0,9,1.58,40,63.2,"Ali, Abdulaziz",,1958.0,False,UAE,1.0,1,0.63,40,25.2
+33393613,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2056,1864,4.0,9,1.58,40,63.2,"Halwani, Talal.",,2236.0,False,SYR,0.0,1,-0.1,40,-4.0
+33393613,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2056,1864,4.0,9,1.58,40,63.2,"Al-Blooshi, Hamad Essa",c,1968.0,False,UAE,1.0,1,0.64,40,25.6
+33393613,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2056,1864,4.0,9,1.58,40,63.2,"Sultan, Ibrahim",m,2214.0,False,UAE,0.0,1,-0.11,40,-4.4

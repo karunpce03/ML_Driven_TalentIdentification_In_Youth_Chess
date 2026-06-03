@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366196292,2024-07-01,0,Budapest Spring Festival B (1800- 2200),Budapest HUN,2024-05-23,2024-05-31,1925,1754,3.5,8,1.27,40,50.8,"Vargyas, Zoltan",,1940.0,False,HUN,0.0,1,-0.26,40,-10.4
+366196292,2024-07-01,0,Budapest Spring Festival B (1800- 2200),Budapest HUN,2024-05-23,2024-05-31,1925,1754,3.5,8,1.27,40,50.8,"Harkanyi, Adam",,1888.0,False,HUN,0.5,1,0.18,40,7.2
+366196292,2024-07-01,0,Budapest Spring Festival B (1800- 2200),Budapest HUN,2024-05-23,2024-05-31,1925,1754,3.5,8,1.27,40,50.8,"Hegedus, Bernat",,1846.0,False,HUN,1.0,1,0.63,40,25.2
+366196292,2024-07-01,0,Budapest Spring Festival B (1800- 2200),Budapest HUN,2024-05-23,2024-05-31,1925,1754,3.5,8,1.27,40,50.8,"Hollmann, Thomas",,1922.0,False,GER,1.0,1,0.72,40,28.8
+366196292,2024-07-01,0,Budapest Spring Festival B (1800- 2200),Budapest HUN,2024-05-23,2024-05-31,1925,1754,3.5,8,1.27,40,50.8,"Andreeva, Elena",,1971.0,False,HUN,0.0,1,-0.22,40,-8.8
+366196292,2024-07-01,0,Budapest Spring Festival B (1800- 2200),Budapest HUN,2024-05-23,2024-05-31,1925,1754,3.5,8,1.27,40,50.8,"Hideg, Istvan Benjamin",,1859.0,False,HUN,1.0,1,0.64,40,25.6
+366196292,2024-07-01,0,Budapest Spring Festival B (1800- 2200),Budapest HUN,2024-05-23,2024-05-31,1925,1754,3.5,8,1.27,40,50.8,"Petervari, Szabolcs",,1983.0,False,HUN,0.0,1,-0.21,40,-8.4
+366196292,2024-07-01,0,Budapest Spring Festival B (1800- 2200),Budapest HUN,2024-05-23,2024-05-31,1925,1754,3.5,8,1.27,40,50.8,"Mezei, Csaba",,1988.0,False,HUN,0.0,1,-0.21,40,-8.4
+366196292,2024-07-01,0,SixDays Budapest June U2250,Budapest HUN,2024-06-03,2024-06-08,1941,1754,4.0,9,1.5,40,60.0,"Hart, Alexander",,1949.0,False,SWE,1.0,1,0.75,40,30.0
+366196292,2024-07-01,0,SixDays Budapest June U2250,Budapest HUN,2024-06-03,2024-06-08,1941,1754,4.0,9,1.5,40,60.0,"Dani, Tamas",,2013.0,False,HUN,0.0,1,-0.18,40,-7.2
+366196292,2024-07-01,0,SixDays Budapest June U2250,Budapest HUN,2024-06-03,2024-06-08,1941,1754,4.0,9,1.5,40,60.0,"Arka, Ram Mahankali",,1543.0,False,IND,0.5,1,-0.27,40,-10.8
+366196292,2024-07-01,0,SixDays Budapest June U2250,Budapest HUN,2024-06-03,2024-06-08,1941,1754,4.0,9,1.5,40,60.0,"Orso, Miklos",m,2154.0,True,HUN,0.0,1,-0.08,40,-3.2
+366196292,2024-07-01,0,SixDays Budapest June U2250,Budapest HUN,2024-06-03,2024-06-08,1941,1754,4.0,9,1.5,40,60.0,"Keerti, Shree Reddy",wf,1908.0,False,IND,0.0,1,-0.29,40,-11.6
+366196292,2024-07-01,0,SixDays Budapest June U2250,Budapest HUN,2024-06-03,2024-06-08,1941,1754,4.0,9,1.5,40,60.0,"Machin Arbelo, Pedro Alexis",,1926.0,False,ESP,0.5,1,0.23,40,9.2
+366196292,2024-07-01,0,SixDays Budapest June U2250,Budapest HUN,2024-06-03,2024-06-08,1941,1754,4.0,9,1.5,40,60.0,"Chekanov, Timur",,1927.0,False,FID,1.0,1,0.73,40,29.2
+366196292,2024-07-01,0,SixDays Budapest June U2250,Budapest HUN,2024-06-03,2024-06-08,1941,1754,4.0,9,1.5,40,60.0,"Kormos, Adam",,2154.0,True,HUN,0.5,1,0.42,40,16.8
+366196292,2024-07-01,0,SixDays Budapest June U2250,Budapest HUN,2024-06-03,2024-06-08,1941,1754,4.0,9,1.5,40,60.0,"He, Canzhou",,1893.0,False,CHN,0.5,1,0.19,40,7.6

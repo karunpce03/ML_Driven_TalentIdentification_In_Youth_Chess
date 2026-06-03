@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25788485,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1683,1475,2.0,7,0.31,40,12.4,"Mrithyunjay, Mahadevan",c,1867.0,False,IND,0.0,1,-0.08,40,-3.2
+25788485,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1683,1475,2.0,7,0.31,40,12.4,"Kavin, E",,1697.0,False,IND,0.0,1,-0.22,40,-8.8
+25788485,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1683,1475,2.0,7,0.31,40,12.4,"Paresh, S",,1671.0,False,IND,1.0,1,0.75,40,30.0
+25788485,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1683,1475,2.0,7,0.31,40,12.4,"Meiyappan, M",,1660.0,False,IND,0.0,1,-0.26,40,-10.4
+25788485,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1683,1475,2.0,7,0.31,40,12.4,"Iniyan, K",,1612.0,False,IND,0.5,1,0.18,40,7.2
+25788485,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1683,1475,2.0,7,0.31,40,12.4,"Harun, B S",,1622.0,False,IND,0.5,1,0.2,40,8.0
+25788485,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1683,1475,2.0,7,0.31,40,12.4,"Atm, Aravindalochanan",,1655.0,False,IND,0.0,1,-0.26,40,-10.4
+25788485,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1591,1441,1.0,3,0.06,40,2.4,"Sourav, Suresh",,1707.0,False,IND,0.0,1,-0.18,40,-7.2
+25788485,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1591,1441,1.0,3,0.06,40,2.4,"Balaram, U",,1618.0,False,IND,0.0,1,-0.27,40,-10.8
+25788485,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1591,1441,1.0,3,0.06,40,2.4,"Siddharth, S S",,1447.0,False,IND,1.0,1,0.51,40,20.4

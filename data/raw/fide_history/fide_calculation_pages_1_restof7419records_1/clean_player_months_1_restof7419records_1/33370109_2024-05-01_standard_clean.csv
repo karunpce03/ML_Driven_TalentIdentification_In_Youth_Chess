@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33370109,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1932,2016,4.0,9,-1.58,40,-63.2,"Mahir, Taneja",,1718,False,IND,0.5,1,-0.35,40,-14.0
+33370109,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1932,2016,4.0,9,-1.58,40,-63.2,"Sudhakar, Prem Dutt",,1816,False,IND,1.0,1,0.24,40,9.6
+33370109,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1932,2016,4.0,9,-1.58,40,-63.2,"Dinesh, Kumar Jaganathan",,1852,False,IND,0.0,1,-0.72,40,-28.8
+33370109,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1932,2016,4.0,9,-1.58,40,-63.2,"Yohan, Yadav Tarala",,1746,False,IND,1.0,1,0.17,40,6.8
+33370109,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1932,2016,4.0,9,-1.58,40,-63.2,"Neelash, Saha",m,2416,True,IND,0.0,1,-0.08,40,-3.2
+33370109,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1932,2016,4.0,9,-1.58,40,-63.2,"Gusain, Himal",m,2416,True,IND,0.0,1,-0.08,40,-3.2
+33370109,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1932,2016,4.0,9,-1.58,40,-63.2,"Aayush, Bhojak",,1693,False,IND,1.0,1,0.13,40,5.2
+33370109,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1932,2016,4.0,9,-1.58,40,-63.2,"Devansh, Singh",,1815,False,IND,0.5,1,-0.26,40,-10.4
+33370109,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1932,2016,4.0,9,-1.58,40,-63.2,"Gaikwad, Manas",,1918,False,IND,0.0,1,-0.63,40,-25.2

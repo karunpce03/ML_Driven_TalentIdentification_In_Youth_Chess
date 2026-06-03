@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33423377,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1639,1454,0.0,3,-0.78,40,-31.2,"Rahul, Wahane",,1618.0,False,IND,0.0,1,-0.28,40,-11.2
+33423377,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1639,1454,0.0,3,-0.78,40,-31.2,"Sayam, Vishvesh",,1659.0,False,IND,0.0,1,-0.24,40,-9.6
+33423377,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1639,1454,0.0,3,-0.78,40,-31.2,"Pimparkar, Anay",,1640.0,False,IND,0.0,1,-0.26,40,-10.4

@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48703052,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1708,1437,2.0,6,0.94,40,37.6,"Dibya, Jyoti Sarkar",,1696.0,False,IND,0.0,1,-0.18,40,-7.2
+48703052,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1708,1437,2.0,6,0.94,40,37.6,"Lohit, Gogoi",,1656.0,False,IND,1.0,1,0.78,40,31.2
+48703052,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1708,1437,2.0,6,0.94,40,37.6,"Raluk, Dui",,1728.0,False,IND,0.0,1,-0.15,40,-6.0
+48703052,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1708,1437,2.0,6,0.94,40,37.6,"Karu, Julai Londa",,1833.0,False,IND,0.5,1,0.42,40,16.8
+48703052,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1708,1437,2.0,6,0.94,40,37.6,"Pradip, Kumar Debnath",,1624.0,False,IND,0.0,1,-0.26,40,-10.4
+48703052,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1708,1437,2.0,6,0.94,40,37.6,"Vanrammawia, Ngente",,1710.0,False,IND,0.5,1,0.33,40,13.2

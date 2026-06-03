@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88152901,2024-06-01,0,UP State U-11 Chess Championship-2024-25 (Open),Bijnor IND,2024-05-16,2024-05-18,,,1.5,4,0.0,1377,,"Ojas, Rathi",,1507,False,IND,0.0,1,0.0,,0.0
+88152901,2024-06-01,0,UP State U-11 Chess Championship-2024-25 (Open),Bijnor IND,2024-05-16,2024-05-18,,,1.5,4,0.0,1377,,"Agraarth, Mishra",,1429,False,IND,1.0,1,0.0,,0.0
+88152901,2024-06-01,0,UP State U-11 Chess Championship-2024-25 (Open),Bijnor IND,2024-05-16,2024-05-18,,,1.5,4,0.0,1377,,"Abhiram, Dixit",,1433,False,IND,0.0,1,0.0,,0.0
+88152901,2024-06-01,0,UP State U-11 Chess Championship-2024-25 (Open),Bijnor IND,2024-05-16,2024-05-18,,,1.5,4,0.0,1377,,"Atharva, Tyagi",,1485,False,IND,0.5,1,0.0,,0.0
+88152901,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,,,0.0,3,0.0,751,,"Pranjal, Verma",,1653,False,IND,0.0,1,0.0,,0.0
+88152901,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,,,0.0,3,0.0,751,,"Vidhi, Angelina",,1597,False,IND,0.0,1,0.0,,0.0
+88152901,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,,,0.0,3,0.0,751,,"Rudra, Pratap Srivastava",,1404,False,IND,0.0,1,0.0,,0.0
+88152901,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1668.0,1402.0,1.0,3,0.43,40,17.2,"Wazeer Ahmad, Khan",m,1623,False,IND,0.0,1,-0.22,40.0,-8.8
+88152901,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1668.0,1402.0,1.0,3,0.43,40,17.2,"Chaturvedi, G.s.",,1802,True,IND,1.0,1,0.92,40.0,36.8
+88152901,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1668.0,1402.0,1.0,3,0.43,40,17.2,"Shrivastava, Aditi",,1580,False,IND,0.0,1,-0.27,40.0,-10.8
+88152901,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1777.0,1419.0,0.0,2,-0.22,40,-8.8,"Daksh, Goyal",,1819,True,IND,0.0,1,-0.08,40.0,-3.2
+88152901,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1777.0,1419.0,0.0,2,-0.22,40,-8.8,"Krishnaav, Hazarika",,1734,False,IND,0.0,1,-0.14,40.0,-5.6

@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25109405,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1907,1560,2.0,8,1.08,40,43.2,"Miller, James",,1960.0,True,ENG,0.0,1,-0.08,40,-3.2
+25109405,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1907,1560,2.0,8,1.08,40,43.2,"Gnanasekar, Jai Adithya",,1859.0,False,SGP,0.0,1,-0.15,40,-6.0
+25109405,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1907,1560,2.0,8,1.08,40,43.2,"Nisban, Cyrus",c,1879.0,False,SGP,1.0,1,0.87,40,34.8
+25109405,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1907,1560,2.0,8,1.08,40,43.2,"Macaspac, Arthur",,1960.0,True,USA,0.5,1,0.42,40,16.8
+25109405,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1907,1560,2.0,8,1.08,40,43.2,"Kavin, Vijayakumar",,1960.0,True,IND,0.0,1,-0.08,40,-3.2
+25109405,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1907,1560,2.0,8,1.08,40,43.2,"Rajesh, Vasanthakumar",,1908.0,False,IND,0.0,1,-0.11,40,-4.4
+25109405,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1907,1560,2.0,8,1.08,40,43.2,"Wismeijer, Jeroen",,1873.0,False,NED,0.5,1,0.36,40,14.4
+25109405,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1907,1560,2.0,8,1.08,40,43.2,"Nodon, Jeremi",,1858.0,False,JPN,0.0,1,-0.15,40,-6.0
+25109405,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1639,1603,1.0,4,-0.83,40,-33.2,"Goutham, Ramesh",,1866.0,False,IND,0.0,1,-0.18,40,-7.2
+25109405,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1639,1603,1.0,4,-0.83,40,-33.2,"Rudra, Shakti Madan",,1426.0,False,IND,1.0,1,0.27,40,10.8
+25109405,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1639,1603,1.0,4,-0.83,40,-33.2,"Rudra, Kavia",,1768.0,False,IND,0.0,1,-0.28,40,-11.2
+25109405,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1639,1603,1.0,4,-0.83,40,-33.2,"Sahil, Mahajan",,1497.0,False,IND,0.0,1,-0.64,40,-25.6

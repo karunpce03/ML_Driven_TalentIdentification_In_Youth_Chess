@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25125150,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1578,1614,4.0,6,0.69,40,27.6,"Lalan, P",,1443.0,False,IND,1.0,1,0.27,40,10.8
+25125150,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1578,1614,4.0,6,0.69,40,27.6,"Prashanth, J Naik",,1837.0,False,IND,0.0,1,-0.22,40,-8.8
+25125150,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1578,1614,4.0,6,0.69,40,27.6,"Angelo, Paul",,1459.0,False,IND,1.0,1,0.29,40,11.6
+25125150,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1578,1614,4.0,6,0.69,40,27.6,"Bethapudi, Kiran",,1475.0,False,IND,1.0,1,0.31,40,12.4
+25125150,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1578,1614,4.0,6,0.69,40,27.6,"Praveen, K B",,1771.0,False,IND,0.0,1,-0.29,40,-11.6
+25125150,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1578,1614,4.0,6,0.69,40,27.6,"Rithick, Rakshan",,1485.0,False,IND,1.0,1,0.33,40,13.2

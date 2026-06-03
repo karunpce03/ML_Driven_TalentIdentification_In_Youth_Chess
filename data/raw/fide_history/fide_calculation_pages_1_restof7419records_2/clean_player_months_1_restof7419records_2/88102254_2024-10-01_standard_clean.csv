@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88102254,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1583,1451,1.5,4,0.18,40,7.2,"Alali, Tammam.",,1687.0,False,SYR,0.0,1,-0.2,40,-8.0
+88102254,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1583,1451,1.5,4,0.18,40,7.2,"Sinno , Abdul Salam",,1594.0,False,LBN,1.0,1,0.69,40,27.6
+88102254,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1583,1451,1.5,4,0.18,40,7.2,"Aamer Saeed, Alyileili",,1640.0,False,UAE,0.5,1,0.25,40,10.0
+88102254,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1583,1451,1.5,4,0.18,40,7.2,"Rivera, Ariel",,1411.0,False,PHI,0.0,1,-0.56,40,-22.4

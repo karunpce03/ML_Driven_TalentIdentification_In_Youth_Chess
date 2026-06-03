@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33401683,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1717,1437,0.5,3,-0.04,40,-1.6,"Aakash, K P",,1837,True,IND,0.0,1,-0.08,40,-3.2
+33401683,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1717,1437,0.5,3,-0.04,40,-1.6,"Kavin, E",,1744,False,IND,0.0,1,-0.14,40,-5.6
+33401683,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1717,1437,0.5,3,-0.04,40,-1.6,"Darshan, B",,1570,False,IND,0.5,1,0.18,40,7.2

@@ -1,0 +1,24 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33495050,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,4,0.0,767,,"Arush, A",,1691.0,False,IND,0.0,1,0.0,,0.0
+33495050,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,4,0.0,767,,"Johan, Sunil",,1557.0,False,IND,0.0,1,0.0,,0.0
+33495050,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,4,0.0,767,,"Antony, Simethy",,1535.0,False,IND,0.0,1,0.0,,0.0
+33495050,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,4,0.0,767,,"Nalan, Arumugam S",,1485.0,False,IND,0.0,1,0.0,,0.0
+33495050,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,0.0,2,0.0,866,,"Aadinath, Harilal",,1782.0,False,IND,0.0,1,0.0,,0.0
+33495050,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,0.0,2,0.0,866,,"Shivnarayanan, S",,1549.0,False,IND,0.0,1,0.0,,0.0
+33495050,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,,,2.0,6,0.0,1409,,"Abhishek, J R",,1662.0,False,IND,0.0,1,0.0,,0.0
+33495050,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,,,2.0,6,0.0,1409,,"Prateeksha, R M",,1428.0,False,IND,1.0,1,0.0,,0.0
+33495050,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,,,2.0,6,0.0,1409,,"Sageesh, Gopi",,1553.0,False,IND,0.0,1,0.0,,0.0
+33495050,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,,,2.0,6,0.0,1409,,"Stephin, Joy",,1532.0,False,IND,0.0,1,0.0,,0.0
+33495050,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,,,2.0,6,0.0,1409,,"Benny, Thomas",,1549.0,False,IND,0.0,1,0.0,,0.0
+33495050,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,,,2.0,6,0.0,1409,,"Harshana, Sri S",,1478.0,False,IND,1.0,1,0.0,,0.0
+33495050,2024-12-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY BELOW 1700 FIDE RATING TOURNAMENT,Kollam IND,2024-11-08,2024-11-10,1520.0,1513.0,0.5,2,-0.49,40,-19.6,"Jose, Praison Doss C",,1428.0,False,IND,0.5,1,-0.12,40.0,-4.8
+33495050,2024-12-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY BELOW 1700 FIDE RATING TOURNAMENT,Kollam IND,2024-11-08,2024-11-10,1520.0,1513.0,0.5,2,-0.49,40,-19.6,"Kevin, Savio",,1611.0,False,IND,0.0,1,-0.37,40.0,-14.8
+33495050,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1675.0,1493.0,3.5,9,1.13,40,45.2,"Abhinav, Anand",,1762.0,False,IND,0.5,1,0.33,40.0,13.2
+33495050,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1675.0,1493.0,3.5,9,1.13,40,45.2,"Jahnvi, Ashok",,1760.0,False,IND,0.0,1,-0.18,40.0,-7.2
+33495050,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1675.0,1493.0,3.5,9,1.13,40,45.2,"Bruhathi, Kondisetti",,1660.0,False,IND,0.5,1,0.22,40.0,8.8
+33495050,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1675.0,1493.0,3.5,9,1.13,40,45.2,"Subash, Anand",,1642.0,False,IND,1.0,1,0.7,40.0,28.0
+33495050,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1675.0,1493.0,3.5,9,1.13,40,45.2,"Guhan, Nelamangala Harsha",,1682.0,False,IND,0.0,1,-0.25,40.0,-10.0
+33495050,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1675.0,1493.0,3.5,9,1.13,40,45.2,"Vinod, S",,1631.0,False,IND,0.0,1,-0.31,40.0,-12.4
+33495050,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1675.0,1493.0,3.5,9,1.13,40,45.2,"Praneeshwar, Madhavan",,1666.0,False,IND,1.0,1,0.73,40.0,29.2
+33495050,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1675.0,1493.0,3.5,9,1.13,40,45.2,"Balaram, U",,1640.0,False,IND,0.0,1,-0.3,40.0,-12.0
+33495050,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1675.0,1493.0,3.5,9,1.13,40,45.2,"Krithin, Durai D",,1631.0,False,IND,0.5,1,0.19,40.0,7.6

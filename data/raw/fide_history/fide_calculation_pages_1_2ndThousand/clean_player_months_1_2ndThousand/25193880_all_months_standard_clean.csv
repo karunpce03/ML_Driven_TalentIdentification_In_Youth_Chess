@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25193880,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1615,1481,0.5,4,-0.78,40,-31.2,"Vishwajit, S",,1669.0,False,IND,0.0,1,-0.26,40,-10.4
+25193880,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1615,1481,0.5,4,-0.78,40,-31.2,"Punith, Neeli",,1600.0,False,IND,0.0,1,-0.34,40,-13.6
+25193880,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1615,1481,0.5,4,-0.78,40,-31.2,"Pavan, C Rao",,1581.0,False,IND,0.0,1,-0.36,40,-14.4
+25193880,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1615,1481,0.5,4,-0.78,40,-31.2,"Pranav, P G",,1611.0,False,IND,0.5,1,0.18,40,7.2
+25193880,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1607,1450,1.0,5,-0.46,40,-18.4,"Anay, Banka",,1591.0,False,IND,1.0,1,0.69,40,27.6
+25193880,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1607,1450,1.0,5,-0.46,40,-18.4,"Abishek, K",,1619.0,False,IND,0.0,1,-0.28,40,-11.2
+25193880,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1607,1450,1.0,5,-0.46,40,-18.4,"Vinay, Kumar M V",,1581.0,False,IND,0.0,1,-0.32,40,-12.8
+25193880,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1607,1450,1.0,5,-0.46,40,-18.4,"Ishaan, Bhansali",,1600.0,False,IND,0.0,1,-0.3,40,-12.0
+25193880,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1607,1450,1.0,5,-0.46,40,-18.4,"Dinakar, B R",,1642.0,False,IND,0.0,1,-0.25,40,-10.0

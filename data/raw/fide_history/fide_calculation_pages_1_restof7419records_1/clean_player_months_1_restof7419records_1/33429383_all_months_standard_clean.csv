@@ -1,0 +1,52 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33429383,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1472,1625,2.5,4,-0.31,40,-12.4,"Abdelrahman, Mohamed Al Hammadi",,1456.0,False,UAE,1.0,1,0.28,40,11.2
+33429383,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1472,1625,2.5,4,-0.31,40,-12.4,"Chakresh, Ganesan",,1451.0,False,IND,0.5,1,-0.23,40,-9.2
+33429383,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1472,1625,2.5,4,-0.31,40,-12.4,"Hamad, Shuaib Al Kaff",,1533.0,False,UAE,0.0,1,-0.63,40,-25.2
+33429383,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1472,1625,2.5,4,-0.31,40,-12.4,"Humaid Abdulla, Alzahmi",,1446.0,False,UAE,1.0,1,0.27,40,10.8
+33429383,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1465,1625,3.0,3,0.87,40,34.8,"Al Wardi, Saif",,1429.0,False,OMA,1.0,1,0.25,40,10.0
+33429383,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1465,1625,3.0,3,0.87,40,34.8,"Al Harrasi, Osama Muntaser",,1473.0,False,OMA,1.0,1,0.3,40,12.0
+33429383,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1465,1625,3.0,3,0.87,40,34.8,"Al Yahmedi, Abdul Rahman",,1492.0,False,OMA,1.0,1,0.32,40,12.8
+33429383,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1690,1625,2.5,7,-0.48,40,-19.2,"Rashed Abubaker, Alhemeiri",,1860.0,False,UAE,0.5,1,0.29,40,11.6
+33429383,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1690,1625,2.5,7,-0.48,40,-19.2,"Bashirli, Saadat",wc,1803.0,False,AZE,0.0,1,-0.27,40,-10.8
+33429383,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1690,1625,2.5,7,-0.48,40,-19.2,"Abdelrahman, Mohamed Al Hammadi",,1444.0,False,UAE,1.0,1,0.26,40,10.4
+33429383,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1690,1625,2.5,7,-0.48,40,-19.2,"Al Jabri, Rashid",,1850.0,False,OMA,0.0,1,-0.22,40,-8.8
+33429383,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1690,1625,2.5,7,-0.48,40,-19.2,"Fares, Ali",,1547.0,False,LBN,1.0,1,0.39,40,15.6
+33429383,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1690,1625,2.5,7,-0.48,40,-19.2,"Al Saidi, Mohammed Khalfan",,1891.0,False,OMA,0.0,1,-0.18,40,-7.2
+33429383,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1690,1625,2.5,7,-0.48,40,-19.2,"Khalifa, Saeed Al Zarooni",,1435.0,False,UAE,0.0,1,-0.75,40,-30.0
+33429383,2024-08-01,0,Dhofar International Chess Classic Champinship 2024,Salalah OMA,2024-07-25,2024-07-28,1791,1628,2.0,5,0.57,40,22.8,"Al Amri, Mohammed A",,1825.0,False,OMA,0.0,1,-0.25,40,-10.0
+33429383,2024-08-01,0,Dhofar International Chess Classic Champinship 2024,Salalah OMA,2024-07-25,2024-07-28,1791,1628,2.0,5,0.57,40,22.8,"Al Mashli, Thabit",,1787.0,False,OMA,1.0,1,0.71,40,28.4
+33429383,2024-08-01,0,Dhofar International Chess Classic Champinship 2024,Salalah OMA,2024-07-25,2024-07-28,1791,1628,2.0,5,0.57,40,22.8,"Al Amari, Mohammed",,1805.0,False,OMA,0.0,1,-0.27,40,-10.8
+33429383,2024-08-01,0,Dhofar International Chess Classic Champinship 2024,Salalah OMA,2024-07-25,2024-07-28,1791,1628,2.0,5,0.57,40,22.8,"Shamas, Salim Ahmed",,1758.0,False,OMA,1.0,1,0.68,40,27.2
+33429383,2024-08-01,0,Dhofar International Chess Classic Champinship 2024,Salalah OMA,2024-07-25,2024-07-28,1791,1628,2.0,5,0.57,40,22.8,"Al-Qudaimi, Abdullah",,1781.0,False,YEM,0.0,1,-0.3,40,-12.0
+33429383,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1722,1651,3.0,5,0.92,40,36.8,"Napone, Emerson",,1930.0,False,PHI,0.0,1,-0.16,40,-6.4
+33429383,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1722,1651,3.0,5,0.92,40,36.8,"Thamizh, Thalavam R",,1457.0,False,IND,1.0,1,0.25,40,10.0
+33429383,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1722,1651,3.0,5,0.92,40,36.8,"Stuthi, Nayak",,1450.0,False,IND,1.0,1,0.24,40,9.6
+33429383,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1722,1651,3.0,5,0.92,40,36.8,"Fathi Tavani, Farhoud",,1880.0,False,IRI,0.0,1,-0.21,40,-8.4
+33429383,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1722,1651,3.0,5,0.92,40,36.8,"Aly, Talal",,1893.0,False,EGY,1.0,1,0.8,40,32.0
+33429383,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1743,1651,4.0,8,0.95,40,38.0,"Al Mashikhi, Mohammed Alyan",c,1916.0,False,OMA,0.5,1,0.32,40,12.8
+33429383,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1743,1651,4.0,8,0.95,40,38.0,"Al-Kuwari, Hamad",c,1736.0,False,QAT,0.5,1,0.12,40,4.8
+33429383,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1743,1651,4.0,8,0.95,40,38.0,"Mohammed, Jasim Dhadan",,1869.0,False,IRQ,1.0,1,0.78,40,31.2
+33429383,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1743,1651,4.0,8,0.95,40,38.0,"Al Kathiri, Mana",c,1853.0,False,OMA,0.0,1,-0.24,40,-9.6
+33429383,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1743,1651,4.0,8,0.95,40,38.0,"Al-Qudaimi, Abdullah",,1814.0,False,YEM,0.0,1,-0.28,40,-11.2
+33429383,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1743,1651,4.0,8,0.95,40,38.0,"Al Kindi, Said",,1436.0,False,OMA,1.0,1,0.23,40,9.2
+33429383,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1743,1651,4.0,8,0.95,40,38.0,"Kiani, Rahil",,1815.0,False,IRI,0.0,1,-0.28,40,-11.2
+33429383,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1743,1651,4.0,8,0.95,40,38.0,"Mustafa, Hassan Hamed",,1502.0,False,IRQ,1.0,1,0.3,40,12.0
+33429383,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1828,1688,3.0,5,1.3,40,52.0,"Ahmad, Al Romaithi",,1971.0,False,UAE,0.5,1,0.34,40,13.6
+33429383,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1828,1688,3.0,5,1.3,40,52.0,"Siddharth, Sanjoy",,1783.0,False,IND,1.0,1,0.63,40,25.2
+33429383,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1828,1688,3.0,5,1.3,40,52.0,"Storey, Charles H",f,2088.0,True,ENG,0.0,1,-0.08,40,-3.2
+33429383,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1828,1688,3.0,5,1.3,40,52.0,"Goel, Vivan",,1493.0,False,IND,1.0,1,0.25,40,10.0
+33429383,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1828,1688,3.0,5,1.3,40,52.0,"Vidur, Rajagopal",,1806.0,False,IND,0.5,1,0.16,40,6.4
+33429383,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1650,1688,2.5,3,0.84,40,33.6,"Al Sawafi, Abdulrhman",,1534.0,False,OMA,1.0,1,0.29,40,11.6
+33429383,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1650,1688,2.5,3,0.84,40,33.6,"Shybi, Binoj",,1782.0,False,IND,0.5,1,0.13,40,5.2
+33429383,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1650,1688,2.5,3,0.84,40,33.6,"Dahveed, Sibi Kurisinkal",,1633.0,False,IND,1.0,1,0.42,40,16.8
+33429383,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1760,1688,2.5,5,0.47,40,18.8,"Aly, Talal",,1858.0,False,EGY,1.0,1,0.72,40,28.8
+33429383,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1760,1688,2.5,5,0.47,40,18.8,"Sinan, Shafeek",,1734.0,False,IND,0.5,1,0.06,40,2.4
+33429383,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1760,1688,2.5,5,0.47,40,18.8,"Al Mamari, Imran",,1688.0,False,OMA,0.0,1,-0.5,40,-20.0
+33429383,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1760,1688,2.5,5,0.47,40,18.8,"Medhat, Magdy",,1858.0,False,EGY,0.0,1,-0.28,40,-11.2
+33429383,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1760,1688,2.5,5,0.47,40,18.8,"Al Habsi, Sultan Mohamed",,1663.0,False,OMA,1.0,1,0.47,40,18.8
+33429383,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1646,1812,5.0,6,0.81,40,32.4,"Dahveed, Sibi Kurisinkal",,1493.0,False,IND,1.0,1,0.13,40,5.2
+33429383,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1646,1812,5.0,6,0.81,40,32.4,"Shashini, S",,1473.0,False,IND,1.0,1,0.12,40,4.8
+33429383,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1646,1812,5.0,6,0.81,40,32.4,"Allam, Emad Hamdy",,2044.0,False,EGY,0.0,1,-0.21,40,-8.4
+33429383,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1646,1812,5.0,6,0.81,40,32.4,"Al Abri, Almoatasim",,1572.0,False,OMA,1.0,1,0.2,40,8.0
+33429383,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1646,1812,5.0,6,0.81,40,32.4,"Muhammad, Zaahir Naduvilaparambil",,1625.0,False,IND,1.0,1,0.26,40,10.4
+33429383,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1646,1812,5.0,6,0.81,40,32.4,"Al Balushi, Said",,1667.0,False,OMA,1.0,1,0.31,40,12.4

@@ -1,0 +1,52 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25792059,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1976,2200,8.0,11,-0.28,40,-11.2,Abeer,,1800.0,True,IND,1.0,1,0.08,40,3.2
+25792059,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1976,2200,8.0,11,-0.28,40,-11.2,"Shreyas, Raj",,1800.0,True,IND,1.0,1,0.08,40,3.2
+25792059,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1976,2200,8.0,11,-0.28,40,-11.2,"Anirudh, R",,1845.0,False,IND,0.5,1,-0.39,40,-15.6
+25792059,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1976,2200,8.0,11,-0.28,40,-11.2,"Monil, Maroo",,1800.0,True,IND,1.0,1,0.08,40,3.2
+25792059,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1976,2200,8.0,11,-0.28,40,-11.2,"Borkhetariya, Devarsh M",,1914.0,False,IND,0.5,1,-0.34,40,-13.6
+25792059,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1976,2200,8.0,11,-0.28,40,-11.2,"Swastik, Singhal",,1912.0,False,IND,1.0,1,0.16,40,6.4
+25792059,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1976,2200,8.0,11,-0.28,40,-11.2,"Nandish, V S",,2185.0,False,IND,1.0,1,0.48,40,19.2
+25792059,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1976,2200,8.0,11,-0.28,40,-11.2,"Jaiveer, Mahendru",f,2214.0,False,IND,1.0,1,0.52,40,20.8
+25792059,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1976,2200,8.0,11,-0.28,40,-11.2,"Sriram, Adarsh Uppala",,2114.0,False,IND,0.0,1,-0.62,40,-24.8
+25792059,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1976,2200,8.0,11,-0.28,40,-11.2,"Mrithyunjay, Mahadevan",c,2018.0,False,IND,0.5,1,-0.24,40,-9.6
+25792059,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1976,2200,8.0,11,-0.28,40,-11.2,"Mukund, Hemant Agarwal",,2132.0,False,IND,0.5,1,-0.09,40,-3.6
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Lavyaajyoti, Routray",,1789.0,True,IND,0.5,1,-0.42,40,-16.8
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Abhinav, Anand",,1794.0,False,IND,1.0,1,0.08,40,3.2
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Vijay, Kumar",,1885.0,False,IND,1.0,1,0.14,40,5.6
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Gupta, Abhijeet",g,2583.0,False,IND,1.0,1,0.92,40,36.8
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Ajay, Karthikeyan",m,2401.0,False,IND,0.5,1,0.27,40,10.8
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Vignesh, N R",g,2526.0,False,IND,0.5,1,0.38,40,15.2
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Iniyan, Pa",g,2547.0,False,IND,0.5,1,0.4,40,16.0
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Soumick, Bandopadhyay",,1857.0,False,IND,0.5,1,-0.38,40,-15.2
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Mhamane, Sourabh",,1884.0,False,IND,1.0,1,0.14,40,5.6
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Das, Sayantan",g,2491.0,False,IND,0.5,1,0.35,40,14.0
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Deepan, Chakkravarthy J.",g,2423.0,False,IND,0.5,1,0.29,40,11.6
+25792059,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2388,2276,4.5,9,1.36,36,48.96,"Mammadzada, Gunay",m wg,2421.0,False,AZE,0.5,1,0.19,36,6.84
+25792059,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2388,2276,4.5,9,1.36,36,48.96,"Ahmad, Khagan",f,2403.0,False,AZE,0.5,1,0.17,36,6.12
+25792059,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2388,2276,4.5,9,1.36,36,48.96,"Klukin, Kirill",m,2413.0,False,FID,0.5,1,0.18,36,6.48
+25792059,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2388,2276,4.5,9,1.36,36,48.96,"Sahib, Singh",f,2438.0,False,IND,0.5,1,0.21,36,7.56
+25792059,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2388,2276,4.5,9,1.36,36,48.96,"Nazari, Arad",m,2401.0,False,IRI,0.0,1,-0.33,36,-11.88
+25792059,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2388,2276,4.5,9,1.36,36,48.96,"Omonov, Asrorjon",f,2360.0,False,UZB,0.0,1,-0.38,36,-13.68
+25792059,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2388,2276,4.5,9,1.36,36,48.96,"Baradaran Tamadon, Arian",f,2334.0,False,IRI,1.0,1,0.58,36,20.88
+25792059,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2388,2276,4.5,9,1.36,36,48.96,"Aradhya, Garg",f,2365.0,False,IND,0.5,1,0.12,36,4.32
+25792059,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2388,2276,4.5,9,1.36,36,48.96,"Dixit, Nikhil",f,2361.0,False,IND,1.0,1,0.62,36,22.32
+25792059,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2319,2276,7.0,10,2.76,36,99.36,"Tamhankar, Siddhant",,1933.0,False,IND,1.0,1,0.12,36,4.32
+25792059,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2319,2276,7.0,10,2.76,36,99.36,"Singgih, Diajeng Theresa",wm,1876.0,True,INA,1.0,1,0.08,36,2.88
+25792059,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2319,2276,7.0,10,2.76,36,99.36,"Deepan, Chakkravarthy J.",g,2408.0,False,IND,1.0,1,0.68,36,24.48
+25792059,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2319,2276,7.0,10,2.76,36,99.36,"Iniyan, Pa",g,2513.0,False,IND,1.0,1,0.8,36,28.8
+25792059,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2319,2276,7.0,10,2.76,36,99.36,"Fedorov, Alexei",g,2385.0,False,BLR,0.5,1,0.15,36,5.4
+25792059,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2319,2276,7.0,10,2.76,36,99.36,"Shyaam, Nikhil P",g,2445.0,False,IND,0.5,1,0.22,36,7.92
+25792059,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2319,2276,7.0,10,2.76,36,99.36,"Md, Imran",f,2430.0,False,IND,0.5,1,0.21,36,7.56
+25792059,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2319,2276,7.0,10,2.76,36,99.36,"Panda, Sambit",m,2381.0,False,IND,1.0,1,0.64,36,23.04
+25792059,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2319,2276,7.0,10,2.76,36,99.36,"Nguyen, Quoc Hy",f,2373.0,False,VIE,0.0,1,-0.37,36,-13.32
+25792059,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2319,2276,7.0,10,2.76,36,99.36,"Rios Gomez, Cristhian Camilo",g,2448.0,False,COL,0.5,1,0.23,36,8.28
+25792059,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2192,2276,7.0,10,0.96,10,9.6,"Esshan, Wadhawan",,2019.0,False,IND,1.0,1,0.18,10,1.8
+25792059,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2192,2276,7.0,10,0.96,10,9.6,"Ashwin, Sairam",,1980.0,False,IND,1.0,1,0.15,10,1.5
+25792059,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2192,2276,7.0,10,0.96,10,9.6,"Srihari, L R",m,2484.0,False,IND,0.0,1,-0.23,10,-2.3
+25792059,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2192,2276,7.0,10,0.96,10,9.6,"Jaidambareesh, N R",,2070.0,False,IND,1.0,1,0.24,10,2.4
+25792059,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2192,2276,7.0,10,0.96,10,9.6,"Aswath, S",f,2491.0,False,IND,0.5,1,0.27,10,2.7
+25792059,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2192,2276,7.0,10,0.96,10,9.6,Lasya.g,wf,2039.0,False,IND,1.0,1,0.2,10,2.0
+25792059,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2192,2276,7.0,10,0.96,10,9.6,"Raahul, V S",m,2378.0,False,IND,0.0,1,-0.36,10,-3.6
+25792059,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2192,2276,7.0,10,0.96,10,9.6,"Varun, V",,2176.0,False,IND,0.5,1,-0.14,10,-1.4
+25792059,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2192,2276,7.0,10,0.96,10,9.6,"Kalyani, Sirin",wf,2080.0,False,IND,1.0,1,0.25,10,2.5
+25792059,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2192,2276,7.0,10,0.96,10,9.6,"Shirliyev, Allayar",,2207.0,False,TKM,1.0,1,0.4,10,4.0

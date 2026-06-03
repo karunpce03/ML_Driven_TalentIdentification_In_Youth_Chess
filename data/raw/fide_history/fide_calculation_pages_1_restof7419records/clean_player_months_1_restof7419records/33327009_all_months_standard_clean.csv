@@ -1,0 +1,41 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33327009,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1591,1581,6.5,9,1.99,40,79.6,"Kartikeya, Tammabattula",,1433.0,False,IND,1.0,1,0.3,40,12.0
+33327009,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1591,1581,6.5,9,1.99,40,79.6,"Bharat, Kumar Reddy Poluri",,1981.0,True,IND,0.0,1,-0.08,40,-3.2
+33327009,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1591,1581,6.5,9,1.99,40,79.6,"Jaswant, Kadali",,1426.0,False,IND,1.0,1,0.29,40,11.6
+33327009,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1591,1581,6.5,9,1.99,40,79.6,"Jayaditya, Chepuri",,1457.0,False,IND,1.0,1,0.33,40,13.2
+33327009,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1591,1581,6.5,9,1.99,40,79.6,"Druvesh, Dondapati",,1776.0,False,IND,0.0,1,-0.25,40,-10.0
+33327009,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1591,1581,6.5,9,1.99,40,79.6,"Nehasanvi, Chitalangi",,1468.0,False,IND,1.0,1,0.35,40,14.0
+33327009,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1591,1581,6.5,9,1.99,40,79.6,"Arka, Ram Mahankali",,1445.0,False,IND,1.0,1,0.32,40,12.8
+33327009,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1591,1581,6.5,9,1.99,40,79.6,"Nidhish, Shyamal",,1677.0,False,IND,0.5,1,0.13,40,5.2
+33327009,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1591,1581,6.5,9,1.99,40,79.6,"Kandi, Ravi",,1656.0,False,IND,1.0,1,0.6,40,24.0
+33327009,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1593,1661,4.5,7,0.37,40,14.8,"Ushnish, Pan",,1528.0,False,IND,0.5,1,-0.18,40,-7.2
+33327009,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1593,1661,4.5,7,0.37,40,14.8,"Sasi, Hasini Chintala",,1505.0,False,IND,0.5,1,-0.21,40,-8.4
+33327009,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1593,1661,4.5,7,0.37,40,14.8,"Aarush, Singhai",,1475.0,False,IND,1.0,1,0.26,40,10.4
+33327009,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1593,1661,4.5,7,0.37,40,14.8,"Madhavakrishnan, R",,1796.0,False,IND,0.0,1,-0.32,40,-12.8
+33327009,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1593,1661,4.5,7,0.37,40,14.8,"Sravan, Kumar Gorli",,1526.0,False,IND,1.0,1,0.32,40,12.8
+33327009,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1593,1661,4.5,7,0.37,40,14.8,"Rishi, Pallagani",,1538.0,False,IND,1.0,1,0.33,40,13.2
+33327009,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1593,1661,4.5,7,0.37,40,14.8,"Rohith, N",,1783.0,False,IND,0.5,1,0.17,40,6.8
+33327009,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1632,1661,5.0,8,0.69,40,27.6,"Aishwarya, N",,1484.0,False,IND,1.0,1,0.27,40,10.8
+33327009,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1632,1661,5.0,8,0.69,40,27.6,"Annipindi, Vamsi",,1506.0,False,IND,1.0,1,0.29,40,11.6
+33327009,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1632,1661,5.0,8,0.69,40,27.6,"Shanmukha, Pulli",,1749.0,False,IND,1.0,1,0.62,40,24.8
+33327009,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1632,1661,5.0,8,0.69,40,27.6,"Samarateja, K",,1744.0,False,IND,0.5,1,0.11,40,4.4
+33327009,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1632,1661,5.0,8,0.69,40,27.6,"Surya, Alakanti",,1699.0,False,IND,0.0,1,-0.45,40,-18.0
+33327009,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1632,1661,5.0,8,0.69,40,27.6,"Stipadha, Karthik Kumar Chary",,1550.0,False,IND,1.0,1,0.35,40,14.0
+33327009,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1632,1661,5.0,8,0.69,40,27.6,"Abhishek, Sonu",,1732.0,False,IND,0.0,1,-0.4,40,-16.0
+33327009,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1632,1661,5.0,8,0.69,40,27.6,"Rishi, Pallagani",,1590.0,False,IND,0.5,1,-0.1,40,-4.0
+33327009,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1701,1703,3.5,7,-0.11,40,-4.4,"Neelash, Saha",m,2103.0,True,IND,0.0,1,-0.08,40,-3.2
+33327009,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1701,1703,3.5,7,-0.11,40,-4.4,"Sasi, Hasini Chintala",,1451.0,False,IND,1.0,1,0.19,40,7.6
+33327009,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1701,1703,3.5,7,-0.11,40,-4.4,"Afreed, T Khan",,1885.0,False,IND,0.0,1,-0.26,40,-10.4
+33327009,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1701,1703,3.5,7,-0.11,40,-4.4,"Ushnish, Pan",,1534.0,False,IND,1.0,1,0.28,40,11.2
+33327009,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1701,1703,3.5,7,-0.11,40,-4.4,"Andabatla, Satvik",,1801.0,False,IND,0.0,1,-0.37,40,-14.8
+33327009,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1701,1703,3.5,7,-0.11,40,-4.4,"Anvit, Srivastava",,1541.0,False,IND,1.0,1,0.29,40,11.6
+33327009,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1701,1703,3.5,7,-0.11,40,-4.4,"Yagneswar, Reddy M V S",,1589.0,False,IND,0.5,1,-0.16,40,-6.4
+33327009,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1627,1699,7.5,9,2.19,40,87.6,"Nidyush, Anand",,1416.0,False,IND,1.0,1,0.16,40,6.4
+33327009,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1627,1699,7.5,9,2.19,40,87.6,"Dhairya, Sharma",,1496.0,False,IND,1.0,1,0.24,40,9.6
+33327009,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1627,1699,7.5,9,2.19,40,87.6,"Hemanth, Eswar G",,1555.0,False,IND,1.0,1,0.31,40,12.4
+33327009,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1627,1699,7.5,9,2.19,40,87.6,"Yatharth, Patel",,1578.0,False,IND,1.0,1,0.34,40,13.6
+33327009,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1627,1699,7.5,9,2.19,40,87.6,"Rajkumar, D",,1570.0,False,IND,1.0,1,0.33,40,13.2
+33327009,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1627,1699,7.5,9,2.19,40,87.6,Raghunandan,,1724.0,False,IND,0.5,1,0.03,40,1.2
+33327009,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1627,1699,7.5,9,2.19,40,87.6,"Mani, Bharathy",,1789.0,False,IND,1.0,1,0.62,40,24.8
+33327009,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1627,1699,7.5,9,2.19,40,87.6,"Samith, Reddy I",,1799.0,False,IND,0.5,1,0.14,40,5.6
+33327009,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1627,1699,7.5,9,2.19,40,87.6,"Mohammed, Shamil A",,1716.0,False,IND,0.5,1,0.02,40,0.8

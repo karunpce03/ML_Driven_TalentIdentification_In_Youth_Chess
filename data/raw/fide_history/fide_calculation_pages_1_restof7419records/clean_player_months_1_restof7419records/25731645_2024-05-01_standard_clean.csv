@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25731645,2024-05-01,0,Chess Track 4th Standard Rating Chess Tournament 2024,Dhakla BAN,2024-04-19,2024-04-20,1831,1682,4.5,6,2.61,40,104.4,"Abdul, Momin",,1905.0,False,BAN,0.0,1,-0.22,40,-8.8
+25731645,2024-05-01,0,Chess Track 4th Standard Rating Chess Tournament 2024,Dhakla BAN,2024-04-19,2024-04-20,1831,1682,4.5,6,2.61,40,104.4,"Rajasree, Majumder",,1458.0,False,BAN,1.0,1,0.22,40,8.8
+25731645,2024-05-01,0,Chess Track 4th Standard Rating Chess Tournament 2024,Dhakla BAN,2024-04-19,2024-04-20,1831,1682,4.5,6,2.61,40,104.4,"Md Sultan , Ahmed Sajib",,1945.0,False,BAN,1.0,1,0.82,40,32.8
+25731645,2024-05-01,0,Chess Track 4th Standard Rating Chess Tournament 2024,Dhakla BAN,2024-04-19,2024-04-20,1831,1682,4.5,6,2.61,40,104.4,"Chowdhury, Sohel",c,1992.0,False,BAN,1.0,1,0.86,40,34.4
+25731645,2024-05-01,0,Chess Track 4th Standard Rating Chess Tournament 2024,Dhakla BAN,2024-04-19,2024-04-20,1831,1682,4.5,6,2.61,40,104.4,"Md., Hasan",,1812.0,False,BAN,1.0,1,0.68,40,27.2
+25731645,2024-05-01,0,Chess Track 4th Standard Rating Chess Tournament 2024,Dhakla BAN,2024-04-19,2024-04-20,1831,1682,4.5,6,2.61,40,104.4,"Sarwar, Hossain Ullash",,1875.0,False,BAN,0.5,1,0.25,40,10.0

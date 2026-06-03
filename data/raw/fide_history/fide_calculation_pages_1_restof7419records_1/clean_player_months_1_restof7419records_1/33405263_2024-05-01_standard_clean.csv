@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33405263,2024-05-01,0,5th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-06,2024-04-07,1649,1572,3.0,5,0.99,40,39.6,"Nabatlao, Jason",,1671.0,False,PHI,0.0,1,-0.36,40,-14.4
+33405263,2024-05-01,0,5th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-06,2024-04-07,1649,1572,3.0,5,0.99,40,39.6,"Khadija, Shamlan Alnuaimi",,1425.0,False,UAE,1.0,1,0.3,40,12.0
+33405263,2024-05-01,0,5th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-06,2024-04-07,1649,1572,3.0,5,0.99,40,39.6,"Alviz, Joshua Ezekiel",,1659.0,False,PHI,0.5,1,0.12,40,4.8
+33405263,2024-05-01,0,5th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-06,2024-04-07,1649,1572,3.0,5,0.99,40,39.6,"Mokhtar, Omar.",,1646.0,False,SYR,1.0,1,0.6,40,24.0
+33405263,2024-05-01,0,5th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-06,2024-04-07,1649,1572,3.0,5,0.99,40,39.6,"German, Santiago",,1842.0,False,PHI,0.5,1,0.33,40,13.2

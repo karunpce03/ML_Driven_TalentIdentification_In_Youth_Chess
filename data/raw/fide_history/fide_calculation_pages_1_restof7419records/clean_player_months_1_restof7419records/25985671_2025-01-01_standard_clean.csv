@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25985671,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1596,1753,5.5,9,-0.83,35,-29.05,"Lucero, Corazon",,1486.0,False,PHI,1.0,1,0.18,35,6.3
+25985671,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1596,1753,5.5,9,-0.83,35,-29.05,"Abogado, Anthony",,1570.0,False,PHI,1.0,1,0.26,35,9.1
+25985671,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1596,1753,5.5,9,-0.83,35,-29.05,"Soo, Cheng Hao",,1624.0,False,SGP,0.5,1,-0.17,35,-5.95
+25985671,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1596,1753,5.5,9,-0.83,35,-29.05,"Fan, Li Feng",,1601.0,False,MAS,0.5,1,-0.2,35,-7.0
+25985671,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1596,1753,5.5,9,-0.83,35,-29.05,"Ho, Ray Ee",,1588.0,False,SGP,0.5,1,-0.22,35,-7.7
+25985671,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1596,1753,5.5,9,-0.83,35,-29.05,"Velmurugan Priyasudharsana, Ishaa",,1539.0,False,IND,1.0,1,0.23,35,8.05
+25985671,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1596,1753,5.5,9,-0.83,35,-29.05,"Chan, Daniel Yun Jie",,1663.0,False,SGP,1.0,1,0.38,35,13.3
+25985671,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1596,1753,5.5,9,-0.83,35,-29.05,"Lim, Kian Guan",,1671.0,False,MAS,0.0,1,-0.61,35,-21.35
+25985671,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1596,1753,5.5,9,-0.83,35,-29.05,"Poovendtiran, Thamil Chelvan",,1618.0,False,MAS,0.0,1,-0.68,35,-23.8
+25985671,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1783,1779,6.0,11,0.59,35,20.65,"Soham, Pranav Nagrecha",,1503.0,False,IND,1.0,1,0.17,35,5.95
+25985671,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1783,1779,6.0,11,0.59,35,20.65,"Rudra, Kandpal",,1555.0,False,IND,1.0,1,0.22,35,7.7
+25985671,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1783,1779,6.0,11,0.59,35,20.65,"Sanyam, Srivastava",,1909.0,False,IND,1.0,1,0.68,35,23.8
+25985671,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1783,1779,6.0,11,0.59,35,20.65,"Aadik, Theophane Lenin",,1937.0,False,IND,0.5,1,0.21,35,7.35
+25985671,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1783,1779,6.0,11,0.59,35,20.65,"Jagajit, Sinha",,1908.0,False,IND,1.0,1,0.67,35,23.45
+25985671,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1783,1779,6.0,11,0.59,35,20.65,"Puneet, Verma",,2029.0,False,IND,0.0,1,-0.19,35,-6.65
+25985671,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1783,1779,6.0,11,0.59,35,20.65,"Gokul, G",,1902.0,False,IND,0.5,1,0.17,35,5.95
+25985671,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1783,1779,6.0,11,0.59,35,20.65,"Atiksh, Thakur",,1878.0,False,IND,0.0,1,-0.36,35,-12.6
+25985671,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1783,1779,6.0,11,0.59,35,20.65,"Sharvin, Puneet Badave",,1663.0,False,IND,0.5,1,-0.16,35,-5.6
+25985671,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1783,1779,6.0,11,0.59,35,20.65,"Ruhaan, Mathur",,1668.0,False,IND,0.5,1,-0.15,35,-5.25
+25985671,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1783,1779,6.0,11,0.59,35,20.65,"Naitik, Jain",,1656.0,False,IND,0.0,1,-0.67,35,-23.45

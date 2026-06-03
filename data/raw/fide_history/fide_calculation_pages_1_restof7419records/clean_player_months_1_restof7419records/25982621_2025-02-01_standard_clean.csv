@@ -1,0 +1,2 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25982621,2025-02-01,0,1ST SIPAJHAR INTERNATIONAL FIDE RATING CHESS TOURNAMENT 2025,Sipajhar IND,2025-01-02,2025-01-07,1545,1436,1.0,1,0.65,40,26.0,"Pranab, Jyoti Kalita",,1545.0,False,IND,1.0,1,0.65,40,26.0

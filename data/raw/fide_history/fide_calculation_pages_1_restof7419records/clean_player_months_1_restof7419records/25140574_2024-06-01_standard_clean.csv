@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25140574,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1628,1556,1.5,4,-0.11,40,-4.4,"Bushkar, Chembatheyil Muhammad",,1482.0,False,IND,1.0,1,0.4,40,16.0
+25140574,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1628,1556,1.5,4,-0.11,40,-4.4,"Sai, Hridhay S",,1649.0,False,IND,0.0,1,-0.37,40,-14.8
+25140574,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1628,1556,1.5,4,-0.11,40,-4.4,"Khalid, Habib",,1641.0,False,PAK,0.5,1,0.12,40,4.8
+25140574,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1628,1556,1.5,4,-0.11,40,-4.4,"Humaidan Mohamed, Alzaabi",,1739.0,False,UAE,0.0,1,-0.26,40,-10.4

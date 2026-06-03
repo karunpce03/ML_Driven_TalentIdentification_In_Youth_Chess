@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33361061,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1735,1783,2.5,5,-0.33,40,-13.2,"Shashish, Subbiah",,2008.0,False,IND,0.5,1,0.28,40,11.2
+33361061,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1735,1783,2.5,5,-0.33,40,-13.2,"Izaan, Shafeek",,1688.0,False,IND,0.0,1,-0.63,40,-25.2
+33361061,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1735,1783,2.5,5,-0.33,40,-13.2,"Aditi, Arun",,1705.0,False,IND,1.0,1,0.39,40,15.6
+33361061,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1735,1783,2.5,5,-0.33,40,-13.2,"Sinan, Shafeek",,1734.0,False,IND,0.0,1,-0.57,40,-22.8
+33361061,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1735,1783,2.5,5,-0.33,40,-13.2,"Ilaan, Shafeek",,1542.0,False,IND,1.0,1,0.2,40,8.0

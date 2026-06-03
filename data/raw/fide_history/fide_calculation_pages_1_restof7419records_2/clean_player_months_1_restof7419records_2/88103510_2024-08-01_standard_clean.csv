@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88103510,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1603,1495,1.0,3,-0.08,40,-3.2,"Gokul, G",,1712.0,False,IND,0.0,1,-0.22,40,-8.8
+88103510,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1603,1495,1.0,3,-0.08,40,-3.2,"Nitin, Kumar P",,1693.0,False,IND,0.0,1,-0.24,40,-9.6
+88103510,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1603,1495,1.0,3,-0.08,40,-3.2,"Navajith, Bose Jeyaraman",,1405.0,False,IND,1.0,1,0.38,40,15.2

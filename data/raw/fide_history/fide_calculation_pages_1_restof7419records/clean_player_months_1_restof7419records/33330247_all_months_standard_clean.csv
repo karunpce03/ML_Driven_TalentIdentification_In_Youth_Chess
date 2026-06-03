@@ -1,0 +1,48 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33330247,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1810,1641,2.0,5,0.51,40,20.4,"Asudani, Ruhani Raj",,1707.0,False,IND,0.5,1,0.09,40,3.6
+33330247,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1810,1641,2.0,5,0.51,40,20.4,"Akankhya, Kabi",,1710.0,False,IND,0.5,1,0.1,40,4.0
+33330247,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1810,1641,2.0,5,0.51,40,20.4,"Rebecca, Jesumarian",,1873.0,False,IND,0.5,1,0.29,40,11.6
+33330247,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1810,1641,2.0,5,0.51,40,20.4,"Soumya, Swaminathan",m wg,2041.0,True,IND,0.0,1,-0.08,40,-3.2
+33330247,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1810,1641,2.0,5,0.51,40,20.4,"Bindu, Saritha K.",wf,1719.0,False,IND,0.5,1,0.11,40,4.4
+33330247,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1629,1661,4.0,8,-0.45,40,-18.0,"Ayaan, Hashmi",,1489.0,False,IND,1.0,1,0.27,40,10.8
+33330247,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1629,1661,4.0,8,-0.45,40,-18.0,"Bhosale, Shriraj",,2032.0,False,IND,0.0,1,-0.1,40,-4.0
+33330247,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1629,1661,4.0,8,-0.45,40,-18.0,"Chirag, Sureka",,1522.0,False,IND,1.0,1,0.31,40,12.4
+33330247,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1629,1661,4.0,8,-0.45,40,-18.0,"Daksh, Singh",,1563.0,False,IND,0.0,1,-0.63,40,-25.2
+33330247,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1629,1661,4.0,8,-0.45,40,-18.0,"Biswa, Prakash Parida",,1512.0,False,IND,1.0,1,0.3,40,12.0
+33330247,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1629,1661,4.0,8,-0.45,40,-18.0,"Rhishav, Mondal",,1538.0,False,IND,1.0,1,0.33,40,13.2
+33330247,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1629,1661,4.0,8,-0.45,40,-18.0,"Chaudhari, Ashish",,1838.0,False,IND,0.0,1,-0.27,40,-10.8
+33330247,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1629,1661,4.0,8,-0.45,40,-18.0,"Arnav, Goyal",,1541.0,False,IND,0.0,1,-0.66,40,-26.4
+33330247,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1734,1643,4.0,8,0.95,40,38.0,"Sunny, Bedi",,1875.0,False,IND,1.0,1,0.79,40,31.6
+33330247,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1734,1643,4.0,8,0.95,40,38.0,"Gada, Om",,1794.0,False,IND,0.5,1,0.2,40,8.0
+33330247,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1734,1643,4.0,8,0.95,40,38.0,"Aamuktha, Guntaka",,1833.0,False,IND,0.5,1,0.25,40,10.0
+33330247,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1734,1643,4.0,8,0.95,40,38.0,"Arghya, Sen",,1811.0,False,IND,0.0,1,-0.28,40,-11.2
+33330247,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1734,1643,4.0,8,0.95,40,38.0,"Shourya, Paul",,1804.0,False,IND,0.0,1,-0.29,40,-11.6
+33330247,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1734,1643,4.0,8,0.95,40,38.0,"Ujjwal, Raj Srivasatav",,1490.0,False,IND,1.0,1,0.3,40,12.0
+33330247,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1734,1643,4.0,8,0.95,40,38.0,"Monil, Maroo",,1782.0,False,IND,0.0,1,-0.31,40,-12.4
+33330247,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1734,1643,4.0,8,0.95,40,38.0,"Shubham, Ravindrabhai Kanani",,1486.0,False,IND,1.0,1,0.29,40,11.6
+33330247,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1681,7.0,10,0.72,40,28.8,"Aaditri, A Maheshwari",,1467.0,False,IND,1.0,1,0.23,40,9.2
+33330247,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1681,7.0,10,0.72,40,28.8,"Thashvi, M",,1515.0,False,IND,0.5,1,-0.22,40,-8.8
+33330247,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1681,7.0,10,0.72,40,28.8,"Aarohi, Mathur",,1503.0,False,IND,1.0,1,0.27,40,10.8
+33330247,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1681,7.0,10,0.72,40,28.8,"Anvita, Sathi",,1533.0,False,IND,1.0,1,0.3,40,12.0
+33330247,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1681,7.0,10,0.72,40,28.8,"Dheekshika, G",,1573.0,False,IND,1.0,1,0.35,40,14.0
+33330247,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1681,7.0,10,0.72,40,28.8,"Dishita, Dey",,1548.0,False,IND,0.5,1,-0.18,40,-7.2
+33330247,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1681,7.0,10,0.72,40,28.8,"Aadya, Ranganath",,1705.0,False,IND,0.5,1,0.03,40,1.2
+33330247,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1681,7.0,10,0.72,40,28.8,"Divi, Bijesh",,1831.0,False,IND,0.0,1,-0.3,40,-12.0
+33330247,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1681,7.0,10,0.72,40,28.8,"Pooja, Shree R",,1619.0,False,IND,0.5,1,-0.09,40,-3.6
+33330247,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1681,7.0,10,0.72,40,28.8,"Bruhathi, Kondisetti",,1554.0,False,IND,1.0,1,0.33,40,13.2
+33330247,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1659,1710,5.5,8,0.98,40,39.2,"Sinha, Pari",,1410.0,False,IND,1.0,1,0.15,40,6.0
+33330247,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1659,1710,5.5,8,0.98,40,39.2,"Manish, Kumar Singh",,1511.0,False,IND,1.0,1,0.24,40,9.6
+33330247,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1659,1710,5.5,8,0.98,40,39.2,"Srivastava, Y.p.",,1903.0,False,IND,0.0,1,-0.25,40,-10.0
+33330247,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1659,1710,5.5,8,0.98,40,39.2,"Avyay, Sharma",,1532.0,False,IND,0.5,1,-0.23,40,-9.2
+33330247,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1659,1710,5.5,8,0.98,40,39.2,"Shahid, Husain",,1498.0,False,IND,1.0,1,0.23,40,9.2
+33330247,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1659,1710,5.5,8,0.98,40,39.2,"Arpita, Singh",,1545.0,False,IND,1.0,1,0.28,40,11.2
+33330247,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1659,1710,5.5,8,0.98,40,39.2,"Piyush, Kumar",,1857.0,False,IND,0.5,1,0.2,40,8.0
+33330247,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1659,1710,5.5,8,0.98,40,39.2,"Thapa, Krishna",c,2017.0,False,NEP,0.5,1,0.36,40,14.4
+33330247,2025-04-01,0,National Amateur Chess Championship Below 2300 (Women),Gaya IND,2025-03-25,2025-03-29,1743,1749,4.0,8,0.01,40,0.4,"Singh, Neha",,1840.0,False,IND,1.0,1,0.62,40,24.8
+33330247,2025-04-01,0,National Amateur Chess Championship Below 2300 (Women),Gaya IND,2025-03-25,2025-03-29,1743,1749,4.0,8,0.01,40,0.4,"Bristy, Mukherjee",wf,1985.0,False,IND,0.0,1,-0.2,40,-8.0
+33330247,2025-04-01,0,National Amateur Chess Championship Below 2300 (Women),Gaya IND,2025-03-25,2025-03-29,1743,1749,4.0,8,0.01,40,0.4,"Theephigaa, K P",,1790.0,False,IND,0.0,1,-0.44,40,-17.6
+33330247,2025-04-01,0,National Amateur Chess Championship Below 2300 (Women),Gaya IND,2025-03-25,2025-03-29,1743,1749,4.0,8,0.01,40,0.4,"Sinha, Pari",,1412.0,False,IND,0.5,1,-0.38,40,-15.2
+33330247,2025-04-01,0,National Amateur Chess Championship Below 2300 (Women),Gaya IND,2025-03-25,2025-03-29,1743,1749,4.0,8,0.01,40,0.4,"Deepthaashri, Ravi Ganesh",,1488.0,False,IND,1.0,1,0.18,40,7.2
+33330247,2025-04-01,0,National Amateur Chess Championship Below 2300 (Women),Gaya IND,2025-03-25,2025-03-29,1743,1749,4.0,8,0.01,40,0.4,"Bhillva, Nilaya Kondari Eswara Kr",wc,1724.0,False,IND,1.0,1,0.47,40,18.8
+33330247,2025-04-01,0,National Amateur Chess Championship Below 2300 (Women),Gaya IND,2025-03-25,2025-03-29,1743,1749,4.0,8,0.01,40,0.4,"Nivedita, V C",,1952.0,False,IND,0.0,1,-0.24,40,-9.6
+33330247,2025-04-01,0,National Amateur Chess Championship Below 2300 (Women),Gaya IND,2025-03-25,2025-03-29,1743,1749,4.0,8,0.01,40,0.4,"Lakshanaa, R",,1749.0,False,IND,0.5,1,0.0,40,0.0

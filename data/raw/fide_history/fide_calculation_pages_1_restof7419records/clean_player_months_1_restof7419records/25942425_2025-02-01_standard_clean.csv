@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25942425,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1804,1732,3.5,7,0.54,40,21.6,"Amirinasab, Abolfazl",,2101.0,False,IRI,0.0,1,-0.1,40,-4.0
+25942425,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1804,1732,3.5,7,0.54,40,21.6,"Jaberi, Valeed",,1503.0,False,TUR,1.0,1,0.21,40,8.4
+25942425,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1804,1732,3.5,7,0.54,40,21.6,"Mirzaei, Saleh",,1960.0,False,IRI,0.5,1,0.29,40,11.6
+25942425,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1804,1732,3.5,7,0.54,40,21.6,"Al Mashikhi, Mohammed Alyan",c,1916.0,False,OMA,0.5,1,0.24,40,9.6
+25942425,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1804,1732,3.5,7,0.54,40,21.6,"Nyland, Thomas",,2019.0,False,NOR,0.5,1,0.34,40,13.6
+25942425,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1804,1732,3.5,7,0.54,40,21.6,"Al Aisaee, Anat",,1608.0,False,OMA,0.0,1,-0.67,40,-26.8
+25942425,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1804,1732,3.5,7,0.54,40,21.6,"Benigni, Stefano",,1521.0,False,ITA,1.0,1,0.23,40,9.2

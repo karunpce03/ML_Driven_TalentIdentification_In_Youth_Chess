@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25166913,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1746,1553,1.0,5,-0.33,40,-13.2,"Prakash, Ram",f,1942.0,False,IND,0.0,1,-0.09,40,-3.6
+25166913,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1746,1553,1.0,5,-0.33,40,-13.2,"Hariom, Gurjar",,1641.0,False,IND,0.0,1,-0.38,40,-15.2
+25166913,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1746,1553,1.0,5,-0.33,40,-13.2,"Kakade, Atul",,1706.0,False,IND,1.0,1,0.7,40,28.0
+25166913,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1746,1553,1.0,5,-0.33,40,-13.2,"Devansh, Rathore",,1680.0,False,IND,0.0,1,-0.33,40,-13.2
+25166913,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1746,1553,1.0,5,-0.33,40,-13.2,"Soni, Vivan",,1761.0,False,IND,0.0,1,-0.23,40,-9.2

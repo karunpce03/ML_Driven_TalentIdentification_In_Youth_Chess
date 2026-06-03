@@ -1,0 +1,17 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33434107,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1478,1556,5.5,9,0.05,40,2.0,"Hitesh, Vayugundla",,1448.0,False,IND,0.0,1,-0.65,40,-26.0
+33434107,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1478,1556,5.5,9,0.05,40,2.0,"Paramesh, C K S",,1581.0,False,IND,0.0,1,-0.47,40,-18.8
+33434107,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1478,1556,5.5,9,0.05,40,2.0,"Padmesh, C K S",,1444.0,False,IND,0.5,1,-0.15,40,-6.0
+33434107,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1478,1556,5.5,9,0.05,40,2.0,"Aharnish, Nanda",,1423.0,False,IND,1.0,1,0.32,40,12.8
+33434107,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1478,1556,5.5,9,0.05,40,2.0,"Riddhiman, Datta",,1465.0,False,IND,0.5,1,-0.12,40,-4.8
+33434107,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1478,1556,5.5,9,0.05,40,2.0,"Jevyn, Joe",,1444.0,False,IND,1.0,1,0.35,40,14.0
+33434107,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1478,1556,5.5,9,0.05,40,2.0,"Hrudesh, Panigrahi",,1464.0,False,IND,1.0,1,0.37,40,14.8
+33434107,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1478,1556,5.5,9,0.05,40,2.0,"Viraj, Karthik",,1438.0,False,IND,1.0,1,0.34,40,13.6
+33434107,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1478,1556,5.5,9,0.05,40,2.0,"Varchas, Krishna Jayaraman",,1596.0,False,IND,0.5,1,0.06,40,2.4
+33434107,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,1653,1556,3.5,7,0.87,40,34.8,"Amrute, Ketan",,1670.0,False,IND,1.0,1,0.66,40,26.4
+33434107,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,1653,1556,3.5,7,0.87,40,34.8,"Ruhaan, Mathur",,1733.0,False,IND,1.0,1,0.73,40,29.2
+33434107,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,1653,1556,3.5,7,0.87,40,34.8,"Aditya, Shardul Kadam",,1766.0,False,IND,0.0,1,-0.23,40,-9.2
+33434107,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,1653,1556,3.5,7,0.87,40,34.8,"Arjun, Singh",,1651.0,False,IND,0.0,1,-0.37,40,-14.8
+33434107,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,1653,1556,3.5,7,0.87,40,34.8,"Tanisshi, Agarwaal",,1465.0,False,IND,1.0,1,0.38,40,15.2
+33434107,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,1653,1556,3.5,7,0.87,40,34.8,"Soneji, Janhavi",,1824.0,False,IND,0.0,1,-0.17,40,-6.8
+33434107,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,1653,1556,3.5,7,0.87,40,34.8,"Patro, Arnab",,1464.0,False,IND,0.5,1,-0.13,40,-5.2

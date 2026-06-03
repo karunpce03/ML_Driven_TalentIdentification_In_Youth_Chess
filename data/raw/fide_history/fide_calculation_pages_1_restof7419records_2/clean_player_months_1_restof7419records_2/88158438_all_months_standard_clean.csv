@@ -1,0 +1,22 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88158438,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,1.5,5,0.0,1428,,"Advik, Srinivasan",,1645.0,False,IND,0.0,1,0.0,,0.0
+88158438,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,1.5,5,0.0,1428,,"Ajbali, Ghaleyah",wc,1530.0,False,KUW,1.0,1,0.0,,0.0
+88158438,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,1.5,5,0.0,1428,,"Taksh, Agrawal",,1609.0,False,IND,0.0,1,0.0,,0.0
+88158438,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,1.5,5,0.0,1428,,"Alhasan, Zainah",,1522.0,False,KUW,0.0,1,0.0,,0.0
+88158438,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,1.5,5,0.0,1428,,"Alonaizi, Abdullah",,1581.0,False,KUW,0.5,1,0.0,,0.0
+88158438,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1720.0,1539.0,1.0,3,0.11,40,4.4,"Mithilesh, Ranjithkumar",,1939.0,True,IND,0.0,1,-0.08,40.0,-3.2
+88158438,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1720.0,1539.0,1.0,3,0.11,40,4.4,"Vaibhav, Vishaan Nandakumar",,1657.0,False,IND,1.0,1,0.66,40.0,26.4
+88158438,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1720.0,1539.0,1.0,3,0.11,40,4.4,"Santhosh, Kumar S",,1564.0,False,IND,0.0,1,-0.47,40.0,-18.8
+88158438,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1706.0,1543.0,1.0,5,-0.6,40,-24.0,"Saad, Amer Mohamed",,1926.0,False,EGY,0.0,1,-0.09,40.0,-3.6
+88158438,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1706.0,1543.0,1.0,5,-0.6,40,-24.0,"Youssef Ahmed, Youssef",,1887.0,False,EGY,0.0,1,-0.12,40.0,-4.8
+88158438,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1706.0,1543.0,1.0,5,-0.6,40,-24.0,"Mohsen, Hussain",,1459.0,False,EGY,1.0,1,0.38,40.0,15.2
+88158438,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1706.0,1543.0,1.0,5,-0.6,40,-24.0,"Adel, Joseph",,1542.0,False,IND,0.0,1,-0.5,40.0,-20.0
+88158438,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1706.0,1543.0,1.0,5,-0.6,40,-24.0,"Khalid, Lodhi",,1716.0,False,PAK,0.0,1,-0.27,40.0,-10.8
+88158438,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1655.0,1519.0,0.5,4,-0.84,40,-33.6,"Humaidan Mohamed, Alzaabi",,1850.0,False,UAE,0.0,1,-0.12,40.0,-4.8
+88158438,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1655.0,1519.0,0.5,4,-0.84,40,-33.6,"Madi, Faisal",,1606.0,False,KUW,0.5,1,0.12,40.0,4.8
+88158438,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1655.0,1519.0,0.5,4,-0.84,40,-33.6,"Abdulla, Ateeq Alremaeithi",,1726.0,False,UAE,0.0,1,-0.23,40.0,-9.2
+88158438,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1655.0,1519.0,0.5,4,-0.84,40,-33.6,"Shamma, Khalfan Alsuwaidi",,1439.0,False,UAE,0.0,1,-0.61,40.0,-24.4
+88158438,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1604.0,1485.0,0.5,4,-0.87,40,-34.8,"Almanaseer, Talal",,1594.0,False,KUW,0.5,1,0.15,40.0,6.0
+88158438,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1604.0,1485.0,0.5,4,-0.87,40,-34.8,"Mohnish, Balamurugan",,1652.0,False,IND,0.0,1,-0.28,40.0,-11.2
+88158438,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1604.0,1485.0,0.5,4,-0.87,40,-34.8,"Nishaanth, Vidyasagar",,1660.0,False,IND,0.0,1,-0.27,40.0,-10.8
+88158438,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1604.0,1485.0,0.5,4,-0.87,40,-34.8,"Shrhi, Harini Anandkannan",,1508.0,False,IND,0.0,1,-0.47,40.0,-18.8

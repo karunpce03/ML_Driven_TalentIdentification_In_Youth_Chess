@@ -1,0 +1,39 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48785865,2024-06-01,0,22nd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-05-02,2024-05-23,1609,1424,2.0,5,0.65,40,26.0,"Dhruvi, Shrikant Panigrahi",,1612.0,False,IND,0.0,1,-0.26,40,-10.4
+48785865,2024-06-01,0,22nd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-05-02,2024-05-23,1609,1424,2.0,5,0.65,40,26.0,"Ali, Sayed Hashim",,1535.0,False,BRN,1.0,1,0.65,40,26.0
+48785865,2024-06-01,0,22nd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-05-02,2024-05-23,1609,1424,2.0,5,0.65,40,26.0,"Tissir, Hamza",,1517.0,False,MAR,0.0,1,-0.37,40,-14.8
+48785865,2024-06-01,0,22nd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-05-02,2024-05-23,1609,1424,2.0,5,0.65,40,26.0,"Taher, Mohamed",,1762.0,False,BRN,0.0,1,-0.12,40,-4.8
+48785865,2024-06-01,0,22nd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-05-02,2024-05-23,1609,1424,2.0,5,0.65,40,26.0,"Youssef, Mohamed",,1620.0,False,MAR,1.0,1,0.75,40,30.0
+48785865,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1633,1424,4.0,6,2.45,40,98.0,"Taher, Mohamed",,1762.0,False,BRN,1.0,1,0.88,40,35.2
+48785865,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1633,1424,4.0,6,2.45,40,98.0,"Gabriel, Vivek Joseph",,1529.0,False,IND,1.0,1,0.64,40,25.6
+48785865,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1633,1424,4.0,6,2.45,40,98.0,"Navaneet, Sreekanth",,1732.0,False,IND,0.0,1,-0.14,40,-5.6
+48785865,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1633,1424,4.0,6,2.45,40,98.0,"Palaash, Suyog Mapara",,1501.0,False,IND,0.0,1,-0.39,40,-15.6
+48785865,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1633,1424,4.0,6,2.45,40,98.0,"Sanjana, Selvaraj",,1451.0,False,IND,1.0,1,0.54,40,21.6
+48785865,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1633,1424,4.0,6,2.45,40,98.0,"Pranav, Bobby Sekhar",,1824.0,True,IND,1.0,1,0.92,40,36.8
+48785865,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1543,1450,4.5,6,2.21,40,88.4,"Youssef, Mohamed",,1547.0,False,MAR,1.0,1,0.63,40,25.2
+48785865,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1543,1450,4.5,6,2.21,40,88.4,"Gabriel, Vivek Joseph",,1552.0,False,IND,0.5,1,0.14,40,5.6
+48785865,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1543,1450,4.5,6,2.21,40,88.4,"Tissir, Maryam",,1419.0,False,MAR,1.0,1,0.46,40,18.4
+48785865,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1543,1450,4.5,6,2.21,40,88.4,"Kanushi, Kishore",,1502.0,False,IND,1.0,1,0.57,40,22.8
+48785865,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1543,1450,4.5,6,2.21,40,88.4,"Taher, Mohamed",,1743.0,False,BRN,0.0,1,-0.15,40,-6.0
+48785865,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1543,1450,4.5,6,2.21,40,88.4,"Binzaiman, Ayman",,1495.0,False,BRN,1.0,1,0.56,40,22.4
+48785865,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1549,1450,4.0,6,1.76,40,70.4,"Kanushi, Kishore",,1502.0,False,IND,1.0,1,0.57,40,22.8
+48785865,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1549,1450,4.0,6,1.76,40,70.4,"Nirvaan, Ashish Modi",,1523.0,False,IND,0.0,1,-0.4,40,-16.0
+48785865,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1549,1450,4.0,6,1.76,40,70.4,"Yaqoob, Wafa",,1460.0,False,BRN,1.0,1,0.51,40,20.4
+48785865,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1549,1450,4.0,6,1.76,40,70.4,"Nyrav, Gopalakrishnan",,1513.0,False,IND,1.0,1,0.59,40,23.6
+48785865,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1549,1450,4.0,6,1.76,40,70.4,"Taher, Mohamed",,1743.0,False,BRN,0.0,1,-0.15,40,-6.0
+48785865,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,1549,1450,4.0,6,1.76,40,70.4,"Gabriel, Vivek Joseph",,1552.0,False,IND,1.0,1,0.64,40,25.6
+48785865,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1552,1706,3.5,8,-2.05,40,-82.0,"Al-Mansouri, Fahad",,1488.0,False,QAT,0.5,1,-0.28,40,-11.2
+48785865,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1552,1706,3.5,8,-2.05,40,-82.0,"Dev, Darshan Thanikachalam",,1467.0,False,IND,1.0,1,0.2,40,8.0
+48785865,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1552,1706,3.5,8,-2.05,40,-82.0,"Marcos, Marvin",,1967.0,False,PHI,0.0,1,-0.18,40,-7.2
+48785865,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1552,1706,3.5,8,-2.05,40,-82.0,"Al Qassabi, Layan",,1445.0,False,QAT,1.0,1,0.18,40,7.2
+48785865,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1552,1706,3.5,8,-2.05,40,-82.0,"Tang, Xinzhi",,1626.0,False,CHN,0.0,1,-0.61,40,-24.4
+48785865,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1552,1706,3.5,8,-2.05,40,-82.0,"Singh, Myra",,1538.0,False,IND,0.0,1,-0.72,40,-28.8
+48785865,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1552,1706,3.5,8,-2.05,40,-82.0,"Sulaiman, Yousef",,1403.0,False,KUW,1.0,1,0.14,40,5.6
+48785865,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1552,1706,3.5,8,-2.05,40,-82.0,"Maurya, Vaidya",,1482.0,False,IND,0.0,1,-0.78,40,-31.2
+48785865,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1587,1706,4.0,7,-0.66,40,-26.4,"Abdulazizov, Asadbek",,1458.0,False,UZB,1.0,1,0.19,40,7.6
+48785865,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1587,1706,4.0,7,-0.66,40,-26.4,"Bagwe, Gaurang",f,2106.0,True,IND,0.0,1,-0.08,40,-3.2
+48785865,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1587,1706,4.0,7,-0.66,40,-26.4,"Yerseit, Alim",,1495.0,False,KAZ,1.0,1,0.23,40,9.2
+48785865,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1587,1706,4.0,7,-0.66,40,-26.4,"Melkumyan, Gagik",,1518.0,False,ARM,0.0,1,-0.74,40,-29.6
+48785865,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1587,1706,4.0,7,-0.66,40,-26.4,"Dhrupad, Lohidas",,1497.0,False,IND,0.0,1,-0.77,40,-30.8
+48785865,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1587,1706,4.0,7,-0.66,40,-26.4,"Mekki, Mohamed Mekki",,1493.0,False,SUD,1.0,1,0.23,40,9.2
+48785865,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1587,1706,4.0,7,-0.66,40,-26.4,"Tissir, Hamza",,1541.0,False,BRN,1.0,1,0.28,40,11.2

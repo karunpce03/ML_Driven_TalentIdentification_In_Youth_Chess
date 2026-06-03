@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33356017,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1805,1694,4.5,10,0.86,40,34.4,"Santu, Mondal",,1986.0,False,IND,0.0,1,-0.15,40,-6.0
+33356017,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1805,1694,4.5,10,0.86,40,34.4,"Samyak, Dharewa",,1991.0,False,IND,0.0,1,-0.15,40,-6.0
+33356017,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1805,1694,4.5,10,0.86,40,34.4,"Krishnan, Kundan",,1568.0,False,IND,1.0,1,0.33,40,13.2
+33356017,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1805,1694,4.5,10,0.86,40,34.4,"Arghya, Sen",,1804.0,False,IND,0.0,1,-0.35,40,-14.0
+33356017,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1805,1694,4.5,10,0.86,40,34.4,"Amrutansu, Bhatta",,1505.0,False,IND,1.0,1,0.25,40,10.0
+33356017,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1805,1694,4.5,10,0.86,40,34.4,"Shubham, Shukla",,1835.0,False,IND,1.0,1,0.69,40,27.6
+33356017,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1805,1694,4.5,10,0.86,40,34.4,"Prakash, Ram",f,1998.0,False,IND,0.0,1,-0.14,40,-5.6
+33356017,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1805,1694,4.5,10,0.86,40,34.4,"Siddhant, Nath Jha",,1765.0,False,IND,0.5,1,0.1,40,4.0
+33356017,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1805,1694,4.5,10,0.86,40,34.4,"Ekaaksha, Partap Singh Negi",,1791.0,False,IND,1.0,1,0.63,40,25.2
+33356017,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1805,1694,4.5,10,0.86,40,34.4,"Albin, Sajan",,1805.0,False,IND,0.0,1,-0.35,40,-14.0

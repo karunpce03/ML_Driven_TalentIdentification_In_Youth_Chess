@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33357188,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1546,1549,2.0,6,-1.07,40,-42.8,"Vandan, Alankar Sawai",,1812.0,False,IND,0.0,1,-0.18,40,-7.2
+33357188,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1546,1549,2.0,6,-1.07,40,-42.8,"Yash, Gupta",,1418.0,False,IND,0.0,1,-0.68,40,-27.2
+33357188,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1546,1549,2.0,6,-1.07,40,-42.8,"Manoj, Kumar Kohli",,1437.0,False,IND,0.0,1,-0.65,40,-26.0
+33357188,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1546,1549,2.0,6,-1.07,40,-42.8,"Vinat, Aggarwal",,1451.0,False,IND,1.0,1,0.37,40,14.8
+33357188,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1546,1549,2.0,6,-1.07,40,-42.8,"Panya, Goel",,1465.0,False,IND,1.0,1,0.38,40,15.2
+33357188,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1546,1549,2.0,6,-1.07,40,-42.8,"Mohan, Naithani",,1694.0,False,IND,0.0,1,-0.31,40,-12.4

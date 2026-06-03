@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88187128,2024-10-01,0,2024 City of Adelaide Championship Rounds 7-9,Adelaide AUS,2024-09-03,2024-09-17,1795,1673,1.0,3,-0.06,40,-2.4,"Juszczynski, Mathew",,1602.0,False,AUS,1.0,1,0.4,40,16.0
+88187128,2024-10-01,0,2024 City of Adelaide Championship Rounds 7-9,Adelaide AUS,2024-09-03,2024-09-17,1795,1673,1.0,3,-0.06,40,-2.4,"Almutawa, Ayman",,1842.0,False,AUS,0.0,1,-0.28,40,-11.2
+88187128,2024-10-01,0,2024 City of Adelaide Championship Rounds 7-9,Adelaide AUS,2024-09-03,2024-09-17,1795,1673,1.0,3,-0.06,40,-2.4,"Foster, James C",,1940.0,False,ENG,0.0,1,-0.18,40,-7.2

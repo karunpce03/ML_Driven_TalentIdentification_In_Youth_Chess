@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88155374,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1544,1515,2.5,5,0.09,40,3.6,"Prakhar, Tripathi",,1915,True,IND,0.0,1,-0.08,40,-3.2
+88155374,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1544,1515,2.5,5,0.09,40,3.6,"Sarthak, Samadhiya",,1455,False,IND,1.0,1,0.42,40,16.8
+88155374,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1544,1515,2.5,5,0.09,40,3.6,"Japesh, Chaudhary",,1402,False,IND,0.5,1,-0.15,40,-6.0
+88155374,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1544,1515,2.5,5,0.09,40,3.6,"Aarav, Agarwal",,1541,False,IND,0.0,1,-0.46,40,-18.4
+88155374,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1544,1515,2.5,5,0.09,40,3.6,"Shivansh, Sharma",,1409,False,IND,1.0,1,0.36,40,14.4

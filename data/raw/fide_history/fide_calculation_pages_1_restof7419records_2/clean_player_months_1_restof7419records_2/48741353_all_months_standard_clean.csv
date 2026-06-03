@@ -1,0 +1,16 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48741353,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.0,4,0.0,1402,,"Venkatesh, Das",,1802.0,False,IND,0.5,1,0.0,,0.0
+48741353,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.0,4,0.0,1402,,"Raghav, Chhaparia",,1555.0,False,IND,0.5,1,0.0,,0.0
+48741353,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.0,4,0.0,1402,,"Ankit, Debnath",,1554.0,False,IND,0.0,1,0.0,,0.0
+48741353,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.0,4,0.0,1402,,"Aayan, Gupta",,1469.0,False,IND,0.0,1,0.0,,0.0
+48741353,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,1.5,6,0.0,1383,,"Ishan, Das",,1747.0,False,IND,0.0,1,0.0,,0.0
+48741353,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,1.5,6,0.0,1383,,"Purnayush, Phukan",,1539.0,False,IND,1.0,1,0.0,,0.0
+48741353,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,1.5,6,0.0,1383,,"Hridika, Das",,1569.0,False,IND,0.0,1,0.0,,0.0
+48741353,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,1.5,6,0.0,1383,,"Monodeep, Dhar",,1527.0,False,IND,0.0,1,0.0,,0.0
+48741353,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,1.5,6,0.0,1383,,"Aryan, Mishra",,1542.0,False,IND,0.5,1,0.0,,0.0
+48741353,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,1.5,6,0.0,1383,,"Dipnalisha, Borah",,1530.0,False,IND,0.0,1,0.0,,0.0
+48741353,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1676.0,1462.0,0.5,3,-0.25,40,-10.0,"Ayan, Pal",,1862.0,True,IND,0.0,1,-0.08,40.0,-3.2
+48741353,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1676.0,1462.0,0.5,3,-0.25,40,-10.0,"Rudrasish, Som",,1617.0,False,IND,0.0,1,-0.29,40.0,-11.6
+48741353,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1676.0,1462.0,0.5,3,-0.25,40,-10.0,"Spandan, Debnath",,1550.0,False,IND,0.5,1,0.12,40.0,4.8
+48741353,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1437.0,1452.0,0.0,1,-0.52,40,-20.8,"Moksith, Pradhan",,1437.0,False,IND,0.0,1,-0.52,40.0,-20.8
+48741353,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1791.0,1452.0,0.0,1,-0.12,40,-4.8,"Aatreya, Saha",,1791.0,False,IND,0.0,1,-0.12,40.0,-4.8

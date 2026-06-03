@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48718610,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1714,1523,0.0,3,-0.77,40,-30.8,"Piyush, Kumar",,1809.0,False,IND,0.0,1,-0.16,40,-6.4
+48718610,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1714,1523,0.0,3,-0.77,40,-30.8,"Mandloi, Mukesh",,1669.0,False,IND,0.0,1,-0.3,40,-12.0
+48718610,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,1714,1523,0.0,3,-0.77,40,-30.8,"Elesh, Tripathi",,1664.0,False,IND,0.0,1,-0.31,40,-12.4
+48718610,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1715,1492,0.5,4,-0.39,40,-15.6,"Salil, Kumar D.",,1784.0,False,IND,0.0,1,-0.15,40,-6.0
+48718610,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1715,1492,0.5,4,-0.39,40,-15.6,"Swarnava, Roy",,1684.0,False,IND,0.0,1,-0.25,40,-10.0
+48718610,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1715,1492,0.5,4,-0.39,40,-15.6,"Ayush, Saxena",,1770.0,False,IND,0.0,1,-0.17,40,-6.8
+48718610,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1715,1492,0.5,4,-0.39,40,-15.6,"Rishi, Kumar Pandey",,1622.0,False,IND,0.5,1,0.18,40,7.2
+48718610,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1607,1476,0.0,2,-0.66,40,-26.4,"Shivay, Singh",,1673.0,False,IND,0.0,1,-0.25,40,-10.0
+48718610,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1607,1476,0.0,2,-0.66,40,-26.4,"Aarav, Agarwal",,1541.0,False,IND,0.0,1,-0.41,40,-16.4

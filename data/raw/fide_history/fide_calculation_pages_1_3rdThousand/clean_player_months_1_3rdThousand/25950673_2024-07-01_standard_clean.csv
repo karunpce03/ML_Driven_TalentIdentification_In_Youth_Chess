@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25950673,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2070,1936,4.0,11,0.1,40,4.0,"Domalchuk-Jonasson, Aleksandr",f,2336,True,ISL,0.0,1,-0.08,40,-3.2
+25950673,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2070,1936,4.0,11,0.1,40,4.0,"De Silva, L M S T",m,2336,True,SRI,0.0,1,-0.08,40,-3.2
+25950673,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2070,1936,4.0,11,0.1,40,4.0,"Makwana, Devam",,1820,False,IND,1.0,1,0.34,40,13.6
+25950673,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2070,1936,4.0,11,0.1,40,4.0,"Radojicic, Aleksandar M",,2088,False,SRB,0.5,1,0.2,40,8.0
+25950673,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2070,1936,4.0,11,0.1,40,4.0,"Fecker, Noah",f,2336,True,SUI,0.0,1,-0.08,40,-3.2
+25950673,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2070,1936,4.0,11,0.1,40,4.0,"Eugen, Mehul Shah",,1744,False,IND,1.0,1,0.25,40,10.0
+25950673,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2070,1936,4.0,11,0.1,40,4.0,"Bharadia, Yash",c,2100,False,IND,0.0,1,-0.28,40,-11.2
+25950673,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2070,1936,4.0,11,0.1,40,4.0,"Nainys, Zanas",,2152,False,LTU,0.0,1,-0.22,40,-8.8
+25950673,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2070,1936,4.0,11,0.1,40,4.0,"Piyush, Kumar",,1795,False,IND,1.0,1,0.31,40,12.4
+25950673,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2070,1936,4.0,11,0.1,40,4.0,"Kalyani, Sirin",wf,2163,False,IND,0.0,1,-0.21,40,-8.4
+25950673,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2070,1936,4.0,11,0.1,40,4.0,"Jyotshnav, Talukdar",,1898,False,IND,0.5,1,-0.05,40,-2.0

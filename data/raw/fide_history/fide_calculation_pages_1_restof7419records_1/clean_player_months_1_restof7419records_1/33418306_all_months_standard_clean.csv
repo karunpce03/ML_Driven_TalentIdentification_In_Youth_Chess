@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33418306,2024-05-01,0,April Classic Chess Tournament 2024,Kuwait KUW,2024-04-18,2024-04-25,1700,1515,2.0,4,0.89,40,35.6,"Ezhil, Aadhav Kaladharan",,1758.0,False,IND,0.0,1,-0.2,40,-8.0
+33418306,2024-05-01,0,April Classic Chess Tournament 2024,Kuwait KUW,2024-04-18,2024-04-25,1700,1515,2.0,4,0.89,40,35.6,"Khalid, Lodhi",,1746.0,False,PAK,1.0,1,0.79,40,31.6
+33418306,2024-05-01,0,April Classic Chess Tournament 2024,Kuwait KUW,2024-04-18,2024-04-25,1700,1515,2.0,4,0.89,40,35.6,"Jinay, Ankitbhai Shah",,1473.0,False,IND,1.0,1,0.44,40,17.6
+33418306,2024-05-01,0,April Classic Chess Tournament 2024,Kuwait KUW,2024-04-18,2024-04-25,1700,1515,2.0,4,0.89,40,35.6,"Mithilesh, Ranjithkumar",,1822.0,False,IND,0.0,1,-0.14,40,-5.6
+33418306,2024-09-01,0,2024 Austin Chess Club Summer Open - Reserve,"Austin, TX USA",2024-08-16,2024-08-18,1673,1551,0.0,2,-0.67,40,-26.8,"Davis, Charles R",,1690.0,False,USA,0.0,1,-0.31,40,-12.4
+33418306,2024-09-01,0,2024 Austin Chess Club Summer Open - Reserve,"Austin, TX USA",2024-08-16,2024-08-18,1673,1551,0.0,2,-0.67,40,-26.8,"Borse, Tanvi",,1655.0,False,USA,0.0,1,-0.36,40,-14.4

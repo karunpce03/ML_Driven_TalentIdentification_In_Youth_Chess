@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33423415,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1697,1524,1.5,5,0.09,40,3.6,"Ghadge, Harsh",,1849.0,False,IND,0.0,1,-0.13,40,-5.2
+33423415,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1697,1524,1.5,5,0.09,40,3.6,"Sayam, Vishvesh",,1620.0,False,IND,0.0,1,-0.37,40,-14.8
+33423415,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1697,1524,1.5,5,0.09,40,3.6,"Jaiswal, Prince",,1701.0,False,IND,1.0,1,0.73,40,29.2
+33423415,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1697,1524,1.5,5,0.09,40,3.6,"Vishwajeet, Abhijit Jadhav",,1638.0,False,IND,0.0,1,-0.34,40,-13.6
+33423415,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1697,1524,1.5,5,0.09,40,3.6,"Ayya, Ayush Umesh",,1675.0,False,IND,0.5,1,0.2,40,8.0

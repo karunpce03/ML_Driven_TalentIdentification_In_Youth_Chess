@@ -1,0 +1,27 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25974050,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2116,1992,3.5,8,0.66,26,17.16,"Mihajlov, Sebastian",m,2373.0,False,CRC,0.0,1,-0.09,26,-2.34
+25974050,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2116,1992,3.5,8,0.66,26,17.16,"Lindh, Fredrik",f,2256.0,False,SWE,0.0,1,-0.18,26,-4.68
+25974050,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2116,1992,3.5,8,0.66,26,17.16,"Avetisyan, Ani",,1840.0,False,ARM,0.0,1,-0.7,26,-18.2
+25974050,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2116,1992,3.5,8,0.66,26,17.16,"Gandrud, Vegar Koi",f,2293.0,False,NOR,0.0,1,-0.15,26,-3.9
+25974050,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2116,1992,3.5,8,0.66,26,17.16,"Bech, Havard Eriksen",,1951.0,False,NOR,1.0,1,0.44,26,11.44
+25974050,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2116,1992,3.5,8,0.66,26,17.16,"Valcu, Lavinia",,2070.0,False,SWE,0.5,1,0.11,26,2.86
+25974050,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2116,1992,3.5,8,0.66,26,17.16,"Amundsen, Ask",,2069.0,False,NOR,1.0,1,0.61,26,15.86
+25974050,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2116,1992,3.5,8,0.66,26,17.16,"Sian, Shadi",,2076.0,False,NOR,1.0,1,0.62,26,16.12
+25974050,2024-05-01,0,Open Menorca 2024,Menorca ESP,2024-04-02,2024-04-07,2028,2110,4.0,9,-1.55,26,-40.3,"Avila Pavas, Santiago",g,2500.0,False,COL,0.0,1,-0.09,26,-2.34
+25974050,2024-05-01,0,Open Menorca 2024,Menorca ESP,2024-04-02,2024-04-07,2028,2110,4.0,9,-1.55,26,-40.3,"Yang, Sung-Jui",,1891.0,False,TPE,0.5,1,-0.28,26,-7.28
+25974050,2024-05-01,0,Open Menorca 2024,Menorca ESP,2024-04-02,2024-04-07,2028,2110,4.0,9,-1.55,26,-40.3,"Camps Abadia, Arnau",,1923.0,False,ESP,0.5,1,-0.24,26,-6.24
+25974050,2024-05-01,0,Open Menorca 2024,Menorca ESP,2024-04-02,2024-04-07,2028,2110,4.0,9,-1.55,26,-40.3,"Nguyen, Khoi",,1932.0,False,BEL,0.5,1,-0.23,26,-5.98
+25974050,2024-05-01,0,Open Menorca 2024,Menorca ESP,2024-04-02,2024-04-07,2028,2110,4.0,9,-1.55,26,-40.3,"McCusker, Andrew",,1921.0,False,SCO,0.5,1,-0.25,26,-6.5
+25974050,2024-05-01,0,Open Menorca 2024,Menorca ESP,2024-04-02,2024-04-07,2028,2110,4.0,9,-1.55,26,-40.3,"Ha, Yihan",,1865.0,False,CHN,0.0,1,-0.8,26,-20.8
+25974050,2024-05-01,0,Open Menorca 2024,Menorca ESP,2024-04-02,2024-04-07,2028,2110,4.0,9,-1.55,26,-40.3,"Huguet, Sergio",f,1963.0,False,HON,1.0,1,0.3,26,7.8
+25974050,2024-05-01,0,Open Menorca 2024,Menorca ESP,2024-04-02,2024-04-07,2028,2110,4.0,9,-1.55,26,-40.3,"Maria, Lia-Alexandra",wc,1924.0,False,ROU,1.0,1,0.26,26,6.76
+25974050,2024-05-01,0,Open Menorca 2024,Menorca ESP,2024-04-02,2024-04-07,2028,2110,4.0,9,-1.55,26,-40.3,"Dushyant, Sharma",m,2331.0,False,IND,0.0,1,-0.22,26,-5.72
+25974050,2024-05-01,0,RUDAR XXIII - IM ROUND ROBIN,Pozarevac SRB,2024-04-10,2024-04-17,2287,2110,4.0,9,1.43,26,37.18,"Zlatkov, Anton",,2205.0,False,MKD,0.0,1,-0.37,26,-9.62
+25974050,2024-05-01,0,RUDAR XXIII - IM ROUND ROBIN,Pozarevac SRB,2024-04-10,2024-04-17,2287,2110,4.0,9,1.43,26,37.18,"Ilincic, Zlatko",g,2262.0,False,SRB,0.5,1,0.2,26,5.2
+25974050,2024-05-01,0,RUDAR XXIII - IM ROUND ROBIN,Pozarevac SRB,2024-04-10,2024-04-17,2287,2110,4.0,9,1.43,26,37.18,"Mayank, Chakraborty",c,2386.0,False,IND,0.0,1,-0.17,26,-4.42
+25974050,2024-05-01,0,RUDAR XXIII - IM ROUND ROBIN,Pozarevac SRB,2024-04-10,2024-04-17,2287,2110,4.0,9,1.43,26,37.18,"Hesham, Abdelrahman",g,2366.0,False,FID,1.0,1,0.81,26,21.06
+25974050,2024-05-01,0,RUDAR XXIII - IM ROUND ROBIN,Pozarevac SRB,2024-04-10,2024-04-17,2287,2110,4.0,9,1.43,26,37.18,"Tregubenko, Nikolay",,2097.0,False,FID,1.0,1,0.48,26,12.48
+25974050,2024-05-01,0,RUDAR XXIII - IM ROUND ROBIN,Pozarevac SRB,2024-04-10,2024-04-17,2287,2110,4.0,9,1.43,26,37.18,"Kotronias, Vasilios",g,2461.0,False,GRE,0.0,1,-0.11,26,-2.86
+25974050,2024-05-01,0,RUDAR XXIII - IM ROUND ROBIN,Pozarevac SRB,2024-04-10,2024-04-17,2287,2110,4.0,9,1.43,26,37.18,"Garv, Rai",,2241.0,False,IND,0.5,1,0.18,26,4.68
+25974050,2024-05-01,0,RUDAR XXIII - IM ROUND ROBIN,Pozarevac SRB,2024-04-10,2024-04-17,2287,2110,4.0,9,1.43,26,37.18,"Isanzhulov, Arystan",m,2408.0,False,KAZ,0.5,1,0.35,26,9.1
+25974050,2024-05-01,0,RUDAR XXIII - IM ROUND ROBIN,Pozarevac SRB,2024-04-10,2024-04-17,2287,2110,4.0,9,1.43,26,37.18,"Sai, Mahati Alapati",wf,2154.0,False,IND,0.5,1,0.06,26,1.56

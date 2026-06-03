@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33474575,2024-05-01,0,2024 North Island Championships,Wellington NZL,2024-03-29,2024-04-01,,,1.5,5,0.0,1509,,"Brockway, Andrew",,1697,False,NZL,0.0,1,0.0,,0.0
+33474575,2024-05-01,0,2024 North Island Championships,Wellington NZL,2024-03-29,2024-04-01,,,1.5,5,0.0,1509,,"Gu, Marcus Zhenbo",,1468,False,NZL,1.0,1,0.0,,0.0
+33474575,2024-05-01,0,2024 North Island Championships,Wellington NZL,2024-03-29,2024-04-01,,,1.5,5,0.0,1509,,"Lau, Great Boyou",,1654,False,NZL,0.5,1,0.0,,0.0
+33474575,2024-05-01,0,2024 North Island Championships,Wellington NZL,2024-03-29,2024-04-01,,,1.5,5,0.0,1509,,"Cummings, Nick",,1899,False,NZL,0.0,1,0.0,,0.0
+33474575,2024-05-01,0,2024 North Island Championships,Wellington NZL,2024-03-29,2024-04-01,,,1.5,5,0.0,1509,,"Mayer, Uri",,1570,False,ISR,0.0,1,0.0,,0.0

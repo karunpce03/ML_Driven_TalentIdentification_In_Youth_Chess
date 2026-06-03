@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25789457,2025-01-01,0,IM Fantastico Winter 2024,Senta SRB,2024-12-16,2024-12-21,2299,2224,4.5,9,0.89,40,35.6,"Orujov, Farid",f,2295.0,False,AZE,0.5,1,0.1,40,4.0
+25789457,2025-01-01,0,IM Fantastico Winter 2024,Senta SRB,2024-12-16,2024-12-21,2299,2224,4.5,9,0.89,40,35.6,"Milosevic, Milos",m,2323.0,False,SRB,0.5,1,0.14,40,5.6
+25789457,2025-01-01,0,IM Fantastico Winter 2024,Senta SRB,2024-12-16,2024-12-21,2299,2224,4.5,9,0.89,40,35.6,"Remecki, Sinisa",f,2234.0,False,SRB,1.0,1,0.51,40,20.4
+25789457,2025-01-01,0,IM Fantastico Winter 2024,Senta SRB,2024-12-16,2024-12-21,2299,2224,4.5,9,0.89,40,35.6,"Sadovsky, Artem",m,2276.0,False,FID,1.0,1,0.57,40,22.8
+25789457,2025-01-01,0,IM Fantastico Winter 2024,Senta SRB,2024-12-16,2024-12-21,2299,2224,4.5,9,0.89,40,35.6,"Gusev, Mikhail",c,2131.0,False,SRB,0.0,1,-0.63,40,-25.2
+25789457,2025-01-01,0,IM Fantastico Winter 2024,Senta SRB,2024-12-16,2024-12-21,2299,2224,4.5,9,0.89,40,35.6,"Lejlic, Samir",m,2326.0,False,SWE,0.5,1,0.14,40,5.6
+25789457,2025-01-01,0,IM Fantastico Winter 2024,Senta SRB,2024-12-16,2024-12-21,2299,2224,4.5,9,0.89,40,35.6,"Kosic, Dragan",g,2393.0,False,MNE,0.5,1,0.22,40,8.8
+25789457,2025-01-01,0,IM Fantastico Winter 2024,Senta SRB,2024-12-16,2024-12-21,2299,2224,4.5,9,0.89,40,35.6,"Zabotin, Alexander",m,2448.0,False,RUS,0.5,1,0.28,40,11.2
+25789457,2025-01-01,0,IM Fantastico Winter 2024,Senta SRB,2024-12-16,2024-12-21,2299,2224,4.5,9,0.89,40,35.6,"Djokic, Mihailo",f,2269.0,False,SRB,0.0,1,-0.44,40,-17.6

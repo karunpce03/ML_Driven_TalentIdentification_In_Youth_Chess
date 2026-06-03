@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33370109,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2227,2121,6.0,11,2.09,40,83.6,"Johansson, David Natael",,1721,True,ARG,1.0,1,0.08,40,3.2
+33370109,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2227,2121,6.0,11,2.09,40,83.6,"Sapenov, Daniyal",f,2311,False,KAZ,0.5,1,0.25,40,10.0
+33370109,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2227,2121,6.0,11,2.09,40,83.6,"Tabuenca Mendataurigoitia, Daniel",f,2408,False,ESP,0.5,1,0.34,40,13.6
+33370109,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2227,2121,6.0,11,2.09,40,83.6,"Klaska, Philipp Leon",,2281,False,GER,1.0,1,0.71,40,28.4
+33370109,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2227,2121,6.0,11,2.09,40,83.6,"Suleimen, Ergali",f,2333,False,KAZ,0.5,1,0.27,40,10.8
+33370109,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2227,2121,6.0,11,2.09,40,83.6,"Badacsonyi, Stanley",c,2322,False,ENG,0.5,1,0.26,40,10.4
+33370109,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2227,2121,6.0,11,2.09,40,83.6,"Lopez Rayo, Santiago",f,2248,False,COL,0.0,1,-0.33,40,-13.2
+33370109,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2227,2121,6.0,11,2.09,40,83.6,"Fiskaaen, Martin Holten",c,2259,False,NOR,1.0,1,0.69,40,27.6
+33370109,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2227,2121,6.0,11,2.09,40,83.6,"Assylov, Miras",f,2300,False,KAZ,1.0,1,0.73,40,29.2
+33370109,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2227,2121,6.0,11,2.09,40,83.6,"Petukhov, Alan",,2232,False,KAZ,0.0,1,-0.35,40,-14.0
+33370109,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2227,2121,6.0,11,2.09,40,83.6,"Sauer, Tim",,2081,False,GER,0.0,1,-0.56,40,-22.4

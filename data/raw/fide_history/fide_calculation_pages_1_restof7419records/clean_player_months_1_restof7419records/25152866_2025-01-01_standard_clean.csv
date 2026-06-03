@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25152866,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1881,1726,3.0,9,0.35,40,14.0,"Nidhish, Shyamal",,1848.0,False,IND,0.5,1,0.17,40,6.8
+25152866,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1881,1726,3.0,9,0.35,40,14.0,"Gada, Om",,1837.0,False,IND,0.0,1,-0.35,40,-14.0
+25152866,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1881,1726,3.0,9,0.35,40,14.0,"Thakur, Aarit",,1886.0,False,IND,1.0,1,0.71,40,28.4
+25152866,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1881,1726,3.0,9,0.35,40,14.0,"Andalamala, Hemal Varshan",,1882.0,False,IND,0.5,1,0.21,40,8.4
+25152866,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1881,1726,3.0,9,0.35,40,14.0,"Goutham, Ramesh",,1945.0,False,IND,0.0,1,-0.22,40,-8.8
+25152866,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1881,1726,3.0,9,0.35,40,14.0,"Karthik, Gopal G",,1864.0,False,IND,0.0,1,-0.31,40,-12.4
+25152866,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1881,1726,3.0,9,0.35,40,14.0,"Pournami, S",,1818.0,False,IND,0.0,1,-0.37,40,-14.8
+25152866,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1881,1726,3.0,9,0.35,40,14.0,"Parveen, Tanima",wf,1899.0,False,BAN,0.5,1,0.23,40,9.2
+25152866,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1881,1726,3.0,9,0.35,40,14.0,"Daiwik, Jain",,1948.0,False,IND,0.5,1,0.28,40,11.2

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Bhagyashree, Patil",wf,1903,False,IND,0.0,1,-0.09,40,-3.6
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Marium, Fatima",,1914,True,IND,1.0,1,0.92,40,36.8
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Janani, P",,1777,False,IND,0.0,1,-0.18,40,-7.2
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Sahana, Shainsha",,1785,False,IND,0.0,1,-0.17,40,-6.8
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Penmetsa, Lakshmi Harshini",,1451,False,IND,1.0,1,0.41,40,16.4
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Amulya, Guruprasad",wc,1785,False,IND,0.0,1,-0.17,40,-6.8
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Natesan, Prashaanthi",,1472,False,IND,0.0,1,-0.56,40,-22.4
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Dharunekaa, J",,1448,False,IND,1.0,1,0.41,40,16.4
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Arya, G Mallar",,1780,False,IND,0.0,1,-0.18,40,-7.2
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Leela, Maheswari B",,1441,False,IND,1.0,1,0.4,40,16.0

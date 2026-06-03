@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33426546,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1548,1703,4.5,8,-1.11,40,-44.4,"S, Harihara Subramanian",,1504.0,False,IND,1.0,1,0.24,40,9.6
+33426546,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1548,1703,4.5,8,-1.11,40,-44.4,"Rayan, Merchant",,1508.0,False,IND,0.5,1,-0.25,40,-10.0
+33426546,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1548,1703,4.5,8,-1.11,40,-44.4,"Prabhu, Arjun",,1537.0,False,IND,0.5,1,-0.22,40,-8.8
+33426546,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1548,1703,4.5,8,-1.11,40,-44.4,"Amber, Gangwal",,1516.0,False,IND,1.0,1,0.26,40,10.4
+33426546,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1548,1703,4.5,8,-1.11,40,-44.4,"Kriti, Mayur Patel",wc,1761.0,False,IND,0.0,1,-0.42,40,-16.8
+33426546,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1548,1703,4.5,8,-1.11,40,-44.4,"Yadav, Rishabh",,1510.0,False,IND,1.0,1,0.25,40,10.0
+33426546,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1548,1703,4.5,8,-1.11,40,-44.4,"Sejpal, Kavyan",,1561.0,False,IND,0.0,1,-0.69,40,-27.6
+33426546,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1548,1703,4.5,8,-1.11,40,-44.4,"Hitansh, Kunal Gohil",,1486.0,False,IND,0.5,1,-0.28,40,-11.2

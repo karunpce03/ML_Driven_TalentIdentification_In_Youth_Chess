@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33397368,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1770,1468,0.0,1,-0.15,40,-6.0,"Krishika, Garg",,1770.0,False,IND,0.0,1,-0.15,40,-6.0
+33397368,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1729,1462,1.5,6,0.39,40,15.6,"Advik, Singh Chauhan",,1836.0,False,IND,0.0,1,-0.1,40,-4.0
+33397368,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1729,1462,1.5,6,0.39,40,15.6,"Ankit, Das",,1798.0,False,IND,0.0,1,-0.12,40,-4.8
+33397368,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1729,1462,1.5,6,0.39,40,15.6,"Rishaan, Jain",,1649.0,False,IND,0.0,1,-0.26,40,-10.4
+33397368,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1729,1462,1.5,6,0.39,40,15.6,"Nirvaan, Nirav Shah",,1676.0,False,IND,0.5,1,0.27,40,10.8
+33397368,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1729,1462,1.5,6,0.39,40,15.6,"Aadwik, Abhinav Krishna",,1667.0,False,IND,0.0,1,-0.24,40,-9.6
+33397368,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1729,1462,1.5,6,0.39,40,15.6,"Ashva, Shanmugam",,1749.0,False,IND,1.0,1,0.84,40,33.6
+33397368,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1555,1478,0.5,2,-0.32,40,-12.8,"Buxy, Rajanikant",,1693.0,False,IND,0.0,1,-0.23,40,-9.2
+33397368,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1555,1478,0.5,2,-0.32,40,-12.8,"Himanshu, Garg",,1416.0,False,IND,0.5,1,-0.09,40,-3.6

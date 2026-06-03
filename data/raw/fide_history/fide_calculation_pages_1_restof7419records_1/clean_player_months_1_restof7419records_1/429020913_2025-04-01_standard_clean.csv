@@ -1,0 +1,16 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429020913,2025-04-01,0,PILSEN OPEN 2025 C - FIDE open,Plzen CZE,2025-03-15,2025-03-22,1735,1457,2.5,7,1.23,40,49.2,"Morselli, Stefano",,1857,True,ITA,0.0,1,-0.08,40,-3.2
+429020913,2025-04-01,0,PILSEN OPEN 2025 C - FIDE open,Plzen CZE,2025-03-15,2025-03-22,1735,1457,2.5,7,1.23,40,49.2,"McNamara, Jj",,1762,False,IRL,0.0,1,-0.14,40,-5.6
+429020913,2025-04-01,0,PILSEN OPEN 2025 C - FIDE open,Plzen CZE,2025-03-15,2025-03-22,1735,1457,2.5,7,1.23,40,49.2,"Hellmann, Thomas",,1753,False,GER,0.5,1,0.35,40,14.0
+429020913,2025-04-01,0,PILSEN OPEN 2025 C - FIDE open,Plzen CZE,2025-03-15,2025-03-22,1735,1457,2.5,7,1.23,40,49.2,"Bartos, Pavel",,1764,False,CZE,0.0,1,-0.14,40,-5.6
+429020913,2025-04-01,0,PILSEN OPEN 2025 C - FIDE open,Plzen CZE,2025-03-15,2025-03-22,1735,1457,2.5,7,1.23,40,49.2,"Soutner, Jaroslav",,1743,False,CZE,0.5,1,0.34,40,13.6
+429020913,2025-04-01,0,PILSEN OPEN 2025 C - FIDE open,Plzen CZE,2025-03-15,2025-03-22,1735,1457,2.5,7,1.23,40,49.2,"Klimes, Martin",,1462,False,CZE,1.0,1,0.51,40,20.4
+429020913,2025-04-01,0,PILSEN OPEN 2025 C - FIDE open,Plzen CZE,2025-03-15,2025-03-22,1735,1457,2.5,7,1.23,40,49.2,"Hadac, Pavel",,1805,False,CZE,0.5,1,0.39,40,15.6
+429020913,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen B-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,1795,1457,3.0,8,2.02,40,80.8,"Stiller, Bjoern",,1826,False,GER,0.5,1,0.4,40,16.0
+429020913,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen B-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,1795,1457,3.0,8,2.02,40,80.8,"Specht, Guenter",,1778,False,GER,0.5,1,0.37,40,14.8
+429020913,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen B-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,1795,1457,3.0,8,2.02,40,80.8,"Wilmes, Frank",,1856,False,GER,0.5,1,0.42,40,16.8
+429020913,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen B-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,1795,1457,3.0,8,2.02,40,80.8,"Schaedler, Mathias",,1857,True,GER,0.0,1,-0.08,40,-3.2
+429020913,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen B-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,1795,1457,3.0,8,2.02,40,80.8,"Haugg, Gerhard",,1800,False,GER,0.0,1,-0.12,40,-4.8
+429020913,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen B-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,1795,1457,3.0,8,2.02,40,80.8,"Keymling, Detlev Juergen, Dr.",,1759,False,GER,0.0,1,-0.15,40,-6.0
+429020913,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen B-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,1795,1457,3.0,8,2.02,40,80.8,"Natterer, Winfried",,1728,False,GER,0.5,1,0.33,40,13.2
+429020913,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen B-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,1795,1457,3.0,8,2.02,40,80.8,"Steinhart, Matthias",,1753,False,GER,1.0,1,0.85,40,34.0

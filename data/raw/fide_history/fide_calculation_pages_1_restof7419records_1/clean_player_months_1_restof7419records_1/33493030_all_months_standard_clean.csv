@@ -1,0 +1,84 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33493030,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1757,1608,5.0,8,2.34,40,93.6,"Soham, Roy",,1872.0,False,IND,0.5,1,0.32,40,12.8
+33493030,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1757,1608,5.0,8,2.34,40,93.6,"Sharsha, Backer",,1974.0,False,IND,0.0,1,-0.1,40,-4.0
+33493030,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1757,1608,5.0,8,2.34,40,93.6,"Jai, Sankar Subramanian",,2008.0,True,IND,0.0,1,-0.08,40,-3.2
+33493030,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1757,1608,5.0,8,2.34,40,93.6,"Harshitha, B J",,1470.0,False,IND,1.0,1,0.31,40,12.4
+33493030,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1757,1608,5.0,8,2.34,40,93.6,"Joy, Lazar M.a.",,1787.0,False,IND,0.5,1,0.23,40,9.2
+33493030,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1757,1608,5.0,8,2.34,40,93.6,"Ashmit, Anand",,1481.0,False,IND,1.0,1,0.33,40,13.2
+33493030,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1757,1608,5.0,8,2.34,40,93.6,"Suresh, Kolavapalli",,1732.0,False,IND,1.0,1,0.67,40,26.8
+33493030,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1757,1608,5.0,8,2.34,40,93.6,"Pranav, A J",,1729.0,False,IND,1.0,1,0.66,40,26.4
+33493030,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1659,1702,5.5,9,0.49,40,19.6,"Avish, Vishal Shinde",,1453.0,False,IND,1.0,1,0.19,40,7.6
+33493030,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1659,1702,5.5,9,0.49,40,19.6,"Shougata, Chowdhury",,1526.0,False,IND,1.0,1,0.27,40,10.8
+33493030,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1659,1702,5.5,9,0.49,40,19.6,"Aadik, Theophane Lenin",,1876.0,False,IND,0.0,1,-0.27,40,-10.8
+33493030,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1659,1702,5.5,9,0.49,40,19.6,"Aaryavrat, Rasiket Naik Desai",,1557.0,False,IND,1.0,1,0.31,40,12.4
+33493030,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1659,1702,5.5,9,0.49,40,19.6,"Harshit, Ranjan Sahu",,1947.0,False,IND,0.0,1,-0.2,40,-8.0
+33493030,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1659,1702,5.5,9,0.49,40,19.6,"Undale, Shravni",,1582.0,False,IND,0.5,1,-0.16,40,-6.4
+33493030,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1659,1702,5.5,9,0.49,40,19.6,"Tyagi, Raghubar Dayal",,1583.0,False,IND,1.0,1,0.34,40,13.6
+33493030,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1659,1702,5.5,9,0.49,40,19.6,"Aditya, Shardul Kadam",,1566.0,False,IND,1.0,1,0.32,40,12.8
+33493030,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1659,1702,5.5,9,0.49,40,19.6,"Surada, Yashaswi Satya Gangadhar",,1844.0,False,IND,0.0,1,-0.31,40,-12.4
+33493030,2024-08-01,0,FIDE WORLD CUP U08 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1588,1722,4.0,6,0.04,40,1.6,"Novikov, Vladimir Dm",,1458.0,False,FID,1.0,1,0.18,40,7.2
+33493030,2024-08-01,0,FIDE WORLD CUP U08 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1588,1722,4.0,6,0.04,40,1.6,"Sattwik, Swain",,1567.0,False,IND,0.0,1,-0.71,40,-28.4
+33493030,2024-08-01,0,FIDE WORLD CUP U08 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1588,1722,4.0,6,0.04,40,1.6,"Protopopescu, Luca",,1896.0,False,FRA,1.0,1,0.73,40,29.2
+33493030,2024-08-01,0,FIDE WORLD CUP U08 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1588,1722,4.0,6,0.04,40,1.6,"Sivan, Leeor",,1461.0,False,ISR,1.0,1,0.18,40,7.2
+33493030,2024-08-01,0,FIDE WORLD CUP U08 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1588,1722,4.0,6,0.04,40,1.6,"Ulan, Rizat",,1733.0,False,KAZ,0.0,1,-0.48,40,-19.2
+33493030,2024-08-01,0,FIDE WORLD CUP U08 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1588,1722,4.0,6,0.04,40,1.6,"Ambartsumyan, Roman Vlad",,1413.0,False,FID,1.0,1,0.14,40,5.6
+33493030,2024-08-01,0,FIDE WORLD CUP U08 Open (Stage-II),Batumi GEO,2024-07-01,2024-07-02,1753,1722,1.5,2,0.58,40,23.2,"Mani, Sarbartho",,1753.0,False,IND,1.0,1,0.54,40,21.6
+33493030,2024-08-01,0,FIDE WORLD CUP U08 Open (Stage-II),Batumi GEO,2024-07-01,2024-07-02,1753,1722,1.5,2,0.58,40,23.2,"Mani, Sarbartho",,1753.0,False,IND,0.5,1,0.04,40,1.6
+33493030,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1649,1722,7.0,8,2.25,40,90.0,"Nani, Babu Bandaru",,1501.0,False,IND,1.0,1,0.22,40,8.8
+33493030,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1649,1722,7.0,8,2.25,40,90.0,"Kesava, Bhuvanagiri",,1557.0,False,IND,1.0,1,0.28,40,11.2
+33493030,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1649,1722,7.0,8,2.25,40,90.0,"Subba, Raju S.",,1621.0,False,IND,1.0,1,0.36,40,14.4
+33493030,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1649,1722,7.0,8,2.25,40,90.0,"Arnav, Krishna Sripadam",,1529.0,False,IND,1.0,1,0.25,40,10.0
+33493030,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1649,1722,7.0,8,2.25,40,90.0,"Karjee, Manindra",,1751.0,False,IND,1.0,1,0.54,40,21.6
+33493030,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1649,1722,7.0,8,2.25,40,90.0,"Suresh, Duvvala",,1791.0,False,IND,1.0,1,0.6,40,24.0
+33493030,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1649,1722,7.0,8,2.25,40,90.0,"Kesavan, G",,1721.0,False,IND,0.5,1,0.0,40,0.0
+33493030,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1649,1722,7.0,8,2.25,40,90.0,"Shanmukha, Pulli",,1722.0,False,IND,0.5,1,0.0,40,0.0
+33493030,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1676,1837,6.0,9,-0.29,40,-11.6,"Vonti, Sri Guruvarshini",,1443.0,False,IND,1.0,1,0.08,40,3.2
+33493030,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1676,1837,6.0,9,-0.29,40,-11.6,"Aylore, Hari Suryanarayana",,1565.0,False,IND,1.0,1,0.17,40,6.8
+33493030,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1676,1837,6.0,9,-0.29,40,-11.6,"Nookala, Nikhil Sriram",,1659.0,False,IND,0.0,1,-0.73,40,-29.2
+33493030,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1676,1837,6.0,9,-0.29,40,-11.6,"Komalla, Manyu Sai",,1549.0,False,IND,1.0,1,0.16,40,6.4
+33493030,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1676,1837,6.0,9,-0.29,40,-11.6,"Sahejdeep, Kaur",,1670.0,False,IND,0.5,1,-0.22,40,-8.8
+33493030,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1676,1837,6.0,9,-0.29,40,-11.6,"Ehaan, Shaikh",,1686.0,False,IND,1.0,1,0.3,40,12.0
+33493030,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1676,1837,6.0,9,-0.29,40,-11.6,"Sundar, Divij P",,1706.0,False,IND,0.5,1,-0.18,40,-7.2
+33493030,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1676,1837,6.0,9,-0.29,40,-11.6,"Surya, Alakanti",,1699.0,False,IND,1.0,1,0.31,40,12.4
+33493030,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1676,1837,6.0,9,-0.29,40,-11.6,"Sham, R",,2103.0,False,IND,0.0,1,-0.18,40,-7.2
+33493030,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1651,1825,7.5,11,-0.32,36,-11.52,"Dhruvansh, Sethi",,1456.0,False,IND,0.5,1,-0.4,36,-14.4
+33493030,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1651,1825,7.5,11,-0.32,36,-11.52,"Soham, Mittal",,1446.0,False,IND,1.0,1,0.09,36,3.24
+33493030,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1651,1825,7.5,11,-0.32,36,-11.52,"Krishnaav, Hazarika",,1568.0,False,IND,0.5,1,-0.32,36,-11.52
+33493030,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1651,1825,7.5,11,-0.32,36,-11.52,"Anvit, Srivastava",,1541.0,False,IND,1.0,1,0.16,36,5.76
+33493030,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1651,1825,7.5,11,-0.32,36,-11.52,"Annipindi, Vamsi",,1636.0,False,IND,1.0,1,0.25,36,9.0
+33493030,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1651,1825,7.5,11,-0.32,36,-11.52,"Jai, Prakash Vanum",,1680.0,False,IND,1.0,1,0.31,36,11.16
+33493030,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1651,1825,7.5,11,-0.32,36,-11.52,"Rishen, Jilowa",,1714.0,False,IND,1.0,1,0.35,36,12.6
+33493030,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1651,1825,7.5,11,-0.32,36,-11.52,"Rahul, Ramakrishnan",,1900.0,False,IND,0.0,1,-0.4,36,-14.4
+33493030,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1651,1825,7.5,11,-0.32,36,-11.52,"Sattwik, Swain",,1718.0,False,IND,0.5,1,-0.15,36,-5.4
+33493030,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1651,1825,7.5,11,-0.32,36,-11.52,"Indrajit, Majumdar",,1718.0,False,IND,1.0,1,0.35,36,12.6
+33493030,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1651,1825,7.5,11,-0.32,36,-11.52,"Daniel, Ajish",,1781.0,False,IND,0.0,1,-0.56,36,-20.16
+33493030,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1586,1825,5.5,8,-0.82,36,-29.52,"Manas, Arunsritej Devabhakthuni",,1449.0,False,IND,1.0,1,0.09,36,3.24
+33493030,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1586,1825,5.5,8,-0.82,36,-29.52,"Pranavaaditya, Ginjupally",,1473.0,False,IND,1.0,1,0.11,36,3.96
+33493030,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1586,1825,5.5,8,-0.82,36,-29.52,"Jalawadi, Nandika",,1576.0,False,IND,1.0,1,0.19,36,6.84
+33493030,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1586,1825,5.5,8,-0.82,36,-29.52,"Kartikeya, Chunchu",,1647.0,False,IND,0.5,1,-0.23,36,-8.28
+33493030,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1586,1825,5.5,8,-0.82,36,-29.52,"Kanoje, Alok",,1650.0,False,IND,0.0,1,-0.73,36,-26.28
+33493030,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1586,1825,5.5,8,-0.82,36,-29.52,"Vivaan, Bhattacharya",,1631.0,False,IND,1.0,1,0.25,36,9.0
+33493030,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1586,1825,5.5,8,-0.82,36,-29.52,"Aadithya, R",,1647.0,False,IND,0.0,1,-0.73,36,-26.28
+33493030,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1586,1825,5.5,8,-0.82,36,-29.52,"Mahendar, B",,1617.0,False,IND,1.0,1,0.23,36,8.28
+33493030,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U8 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1702,1784,9.0,11,2.37,40,94.8,"Mankovich, Yoav",,1489.0,False,ISR,1.0,1,0.15,40,6.0
+33493030,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U8 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1702,1784,9.0,11,2.37,40,94.8,"Movsisyan, Samvel",,1606.0,False,ARM,1.0,1,0.27,40,10.8
+33493030,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U8 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1702,1784,9.0,11,2.37,40,94.8,"Zhu, Daniel",,1656.0,False,CAN,1.0,1,0.33,40,13.2
+33493030,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U8 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1702,1784,9.0,11,2.37,40,94.8,"Cardas, Serghei",,1626.0,False,MDA,1.0,1,0.29,40,11.6
+33493030,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U8 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1702,1784,9.0,11,2.37,40,94.8,"Demchenko, Timofei",,1967.0,False,ESP,0.0,1,-0.26,40,-10.4
+33493030,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U8 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1702,1784,9.0,11,2.37,40,94.8,"Kavish, Palaniappan K",,1589.0,False,IND,0.0,1,-0.75,40,-30.0
+33493030,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U8 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1702,1784,9.0,11,2.37,40,94.8,"Stankowski, Wiktor",,1641.0,False,POL,1.0,1,0.31,40,12.4
+33493030,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U8 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1702,1784,9.0,11,2.37,40,94.8,"Nurshin, Nurali",,1611.0,False,KAZ,1.0,1,0.27,40,10.8
+33493030,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U8 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1702,1784,9.0,11,2.37,40,94.8,"Xu, Zhihan (samuel)",,1878.0,False,CAN,1.0,1,0.63,40,25.2
+33493030,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U8 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1702,1784,9.0,11,2.37,40,94.8,"Ulan, Rizat",,1783.0,False,KAZ,1.0,1,0.5,40,20.0
+33493030,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U8 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1702,1784,9.0,11,2.37,40,94.8,"Li, Aiden Linyuan",,1877.0,False,USA,1.0,1,0.63,40,25.2
+33493030,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551,1879,9.0,11,-0.46,40,-18.4,"Kavish, Agrawal",,1479.0,True,IND,1.0,1,0.08,40,3.2
+33493030,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551,1879,9.0,11,-0.46,40,-18.4,"Pandey, Vihan",,1494.0,False,IND,1.0,1,0.09,40,3.6
+33493030,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551,1879,9.0,11,-0.46,40,-18.4,"Ansh, Kabra",,1515.0,False,IND,0.0,1,-0.9,40,-36.0
+33493030,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551,1879,9.0,11,-0.46,40,-18.4,"Saketh, Jijesh",,1479.0,True,IND,0.0,1,-0.92,40,-36.8
+33493030,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551,1879,9.0,11,-0.46,40,-18.4,"Keerthan, Ayyam K",,1479.0,True,IND,1.0,1,0.08,40,3.2
+33493030,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551,1879,9.0,11,-0.46,40,-18.4,"Darsheel, Suteri",,1479.0,True,IND,1.0,1,0.08,40,3.2
+33493030,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551,1879,9.0,11,-0.46,40,-18.4,"Priyansh, Jigarkumar Jariwala",,1482.0,False,IND,1.0,1,0.08,40,3.2
+33493030,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551,1879,9.0,11,-0.46,40,-18.4,"Vihaan, Tari",,1554.0,False,IND,1.0,1,0.13,40,5.2
+33493030,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551,1879,9.0,11,-0.46,40,-18.4,"Shreyan, Thipparthi",,1624.0,False,IND,1.0,1,0.19,40,7.6
+33493030,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551,1879,9.0,11,-0.46,40,-18.4,"Muhammad, Shayan Noushad Ibrahim",,1714.0,False,IND,1.0,1,0.28,40,11.2
+33493030,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551,1879,9.0,11,-0.46,40,-18.4,"Ayaan, Phutane",,1766.0,False,IND,1.0,1,0.35,40,14.0

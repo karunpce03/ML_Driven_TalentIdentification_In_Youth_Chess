@@ -1,0 +1,22 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25741152,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1877,1787,4.5,10,0.66,33,21.78,"Dhinesh, K A",,1651.0,False,IND,1.0,1,0.32,33,10.56
+25741152,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1877,1787,4.5,10,0.66,33,21.78,"Yohan, Yadav Tarala",,2001.0,False,IND,0.5,1,0.27,33,8.91
+25741152,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1877,1787,4.5,10,0.66,33,21.78,"Chatterjee, K.k.",c,1960.0,False,IND,0.0,1,-0.27,33,-8.91
+25741152,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1877,1787,4.5,10,0.66,33,21.78,"Prashanth, J Naik",,1963.0,False,IND,1.0,1,0.73,33,24.09
+25741152,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1877,1787,4.5,10,0.66,33,21.78,"Goutham, Ramesh",,1945.0,False,IND,0.0,1,-0.29,33,-9.57
+25741152,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1877,1787,4.5,10,0.66,33,21.78,"Khadanga, Omm Aditya",,1926.0,False,IND,0.5,1,0.19,33,6.27
+25741152,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1877,1787,4.5,10,0.66,33,21.78,"Shourya, Paul",,1940.0,False,IND,0.0,1,-0.3,33,-9.9
+25741152,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1877,1787,4.5,10,0.66,33,21.78,"Chitrak, Naha",,1720.0,False,IND,0.0,1,-0.59,33,-19.47
+25741152,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1877,1787,4.5,10,0.66,33,21.78,"Koli, Aditya",,1622.0,False,IND,1.0,1,0.28,33,9.24
+25741152,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1877,1787,4.5,10,0.66,33,21.78,"Rahman, Yehya",m,2046.0,False,EGY,0.5,1,0.32,33,10.56
+25741152,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1670,1787,7.0,11,-0.17,33,-5.61,"Sayee, Atreyi Mohapatra",,1508.0,False,IND,1.0,1,0.16,33,5.28
+25741152,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1670,1787,7.0,11,-0.17,33,-5.61,"Arpita, Singh",,1577.0,False,IND,1.0,1,0.23,33,7.59
+25741152,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1670,1787,7.0,11,-0.17,33,-5.61,"Dishita, Dey",,1666.0,False,IND,0.0,1,-0.66,33,-21.78
+25741152,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1670,1787,7.0,11,-0.17,33,-5.61,"Srinika, Ghosh",,1558.0,False,IND,0.5,1,-0.29,33,-9.57
+25741152,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1670,1787,7.0,11,-0.17,33,-5.61,"Shravani, Nankar",,1571.0,False,IND,1.0,1,0.22,33,7.26
+25741152,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1670,1787,7.0,11,-0.17,33,-5.61,"Anandhi, P",,1717.0,False,IND,1.0,1,0.4,33,13.2
+25741152,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1670,1787,7.0,11,-0.17,33,-5.61,"Rudra, Rajeev",,1747.0,False,IND,0.5,1,-0.06,33,-1.98
+25741152,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1670,1787,7.0,11,-0.17,33,-5.61,"Aahna, Gulati",,1746.0,False,IND,1.0,1,0.44,33,14.52
+25741152,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1670,1787,7.0,11,-0.17,33,-5.61,"Aditri, Shome",,1716.0,False,IND,0.0,1,-0.6,33,-19.8
+25741152,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1670,1787,7.0,11,-0.17,33,-5.61,"Sri, Darshini T",,1784.0,False,IND,1.0,1,0.5,33,16.5
+25741152,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1670,1787,7.0,11,-0.17,33,-5.61,"Arhashirsha, Biswas",,1782.0,False,IND,0.0,1,-0.51,33,-16.83

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33326150,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1769,1830,6.5,10,0.67,40,26.8,"Moditha, Reddy Velugoti",,1480.0,False,IND,1.0,1,0.11,40,4.4
+33326150,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1769,1830,6.5,10,0.67,40,26.8,"Velugoti, Yathin Reddy",,1606.0,False,IND,1.0,1,0.22,40,8.8
+33326150,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1769,1830,6.5,10,0.67,40,26.8,"Harshil, Mishra",,1604.0,False,IND,1.0,1,0.21,40,8.4
+33326150,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1769,1830,6.5,10,0.67,40,26.8,"Sangma, Rahul",m,2171.0,False,IND,0.5,1,0.38,40,15.2
+33326150,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1769,1830,6.5,10,0.67,40,26.8,"Prudhvi, Kumar V",,2139.0,False,IND,1.0,1,0.86,40,34.4
+33326150,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1769,1830,6.5,10,0.67,40,26.8,"Nikhil, M",,1954.0,False,IND,0.0,1,-0.33,40,-13.2
+33326150,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1769,1830,6.5,10,0.67,40,26.8,"Kabnurakar, Rushikesh",,1723.0,False,IND,0.0,1,-0.65,40,-26.0
+33326150,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1769,1830,6.5,10,0.67,40,26.8,"Sanchith, Sundararam K",,1664.0,False,IND,1.0,1,0.28,40,11.2
+33326150,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1769,1830,6.5,10,0.67,40,26.8,"Atharva, Kale",,1697.0,False,IND,0.0,1,-0.68,40,-27.2
+33326150,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1769,1830,6.5,10,0.67,40,26.8,"Siddhi, Rao",,1653.0,False,IND,1.0,1,0.27,40,10.8

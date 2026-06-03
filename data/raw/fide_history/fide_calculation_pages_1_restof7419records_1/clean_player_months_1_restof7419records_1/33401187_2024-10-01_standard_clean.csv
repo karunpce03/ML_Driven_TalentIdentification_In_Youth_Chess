@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33401187,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1667,1509,2.0,6,0.24,40,9.6,"Surya, Alakanti",,1699.0,False,IND,0.0,1,-0.25,40,-10.0
+33401187,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1667,1509,2.0,6,0.24,40,9.6,"Sanikommu, Jaideep Reddy",,1645.0,False,IND,1.0,1,0.68,40,27.2
+33401187,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1667,1509,2.0,6,0.24,40,9.6,"Ritesh, Maddukuri",,1720.0,False,IND,0.0,1,-0.23,40,-9.2
+33401187,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1667,1509,2.0,6,0.24,40,9.6,"Anagani, Sasank",,1615.0,False,IND,0.5,1,0.14,40,5.6
+33401187,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1667,1509,2.0,6,0.24,40,9.6,"Ehaan, Shaikh",,1686.0,False,IND,0.5,1,0.23,40,9.2
+33401187,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1667,1509,2.0,6,0.24,40,9.6,"Aravinda, B R",,1636.0,False,IND,0.0,1,-0.33,40,-13.2

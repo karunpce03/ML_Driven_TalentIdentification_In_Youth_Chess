@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429099706,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,4,0.0,648,,"Ayyappan, S",,1520,False,IND,0.0,1,0.0,,0.0
+429099706,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,4,0.0,648,,"Dev, Narayan",,1409,False,IND,0.0,1,0.0,,0.0
+429099706,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,4,0.0,648,,"Sasikumar, P K",,1452,False,IND,0.0,1,0.0,,0.0
+429099706,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,4,0.0,648,,"Dipu, Jacob",,1412,False,IND,0.0,1,0.0,,0.0
+429099706,2024-12-01,0,TACA OPEN CHESS CHAMPIONSHIP 2024,DAR ES SALAAM TAN,2024-10-26,2024-10-27,,,1.0,3,0.0,1547,,"Veer, Gandhi",,1808,False,TAN,0.0,1,0.0,,0.0
+429099706,2024-12-01,0,TACA OPEN CHESS CHAMPIONSHIP 2024,DAR ES SALAAM TAN,2024-10-26,2024-10-27,,,1.0,3,0.0,1547,,"Prisha, Chheda",,1687,False,TAN,0.0,1,0.0,,0.0
+429099706,2024-12-01,0,TACA OPEN CHESS CHAMPIONSHIP 2024,DAR ES SALAAM TAN,2024-10-26,2024-10-27,,,1.0,3,0.0,1547,,"Ebrahim, Zahabiyah",,1520,False,TAN,1.0,1,0.0,,0.0
+429099706,2025-01-01,0,4th JORDAN OPEN 2024,MOROGORO-TANZANIA TAN,2024-12-14,2024-12-15,,,0.0,1,0.0,613,,"Czernichowski, Konrad",,1413,False,POL,0.0,1,0.0,,0.0
+429099706,2025-02-01,0,East Africa Juniors Chess Championship 2025 - Youth Category.,Mombasa KEN,2025-01-10,2025-01-12,,,1.5,3,0.0,1523,,"Emmanuel, Atukirize",,1425,False,UGA,0.0,1,0.0,,0.0
+429099706,2025-02-01,0,East Africa Juniors Chess Championship 2025 - Youth Category.,Mombasa KEN,2025-01-10,2025-01-12,,,1.5,3,0.0,1523,,"Onyango, Shirlyn Gathoni",,1554,False,KEN,1.0,1,0.0,,0.0
+429099706,2025-02-01,0,East Africa Juniors Chess Championship 2025 - Youth Category.,Mombasa KEN,2025-01-10,2025-01-12,,,1.5,3,0.0,1523,,"Agnes, Mary",,1591,False,KEN,0.5,1,0.0,,0.0

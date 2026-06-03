@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33422362,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1814,2026,3.0,5,-0.84,40,-33.6,"Drishtee, Ghosh",,1730.0,False,IND,1.0,1,0.15,40,6.0
+33422362,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1814,2026,3.0,5,-0.84,40,-33.6,"Sahil, Bheron",,1839.0,False,IND,0.0,1,-0.74,40,-29.6
+33422362,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1814,2026,3.0,5,-0.84,40,-33.6,"Kingshuk, Debnath",,1800.0,False,IND,1.0,1,0.21,40,8.4
+33422362,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1814,2026,3.0,5,-0.84,40,-33.6,"Ahaz, E U",,1854.0,False,IND,0.5,1,-0.23,40,-9.2
+33422362,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1814,2026,3.0,5,-0.84,40,-33.6,"Gavi, Siddayya",,1847.0,False,IND,0.5,1,-0.23,40,-9.2

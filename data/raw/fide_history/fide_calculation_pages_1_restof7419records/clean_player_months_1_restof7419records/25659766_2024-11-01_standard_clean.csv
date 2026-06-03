@@ -1,0 +1,28 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25659766,2024-11-01,0,SixDays Budapest September 2024 GM C,Budapest HUN,2024-09-24,2024-09-29,2388,2431,6.5,9,1.51,10,15.1,"Grebennikov, Nikolai A.",,2220.0,False,FID,1.0,1,0.23,10,2.3
+25659766,2024-11-01,0,SixDays Budapest September 2024 GM C,Budapest HUN,2024-09-24,2024-09-29,2388,2431,6.5,9,1.51,10,15.1,"Gatineau, Yovann",m,2400.0,False,FRA,1.0,1,0.46,10,4.6
+25659766,2024-11-01,0,SixDays Budapest September 2024 GM C,Budapest HUN,2024-09-24,2024-09-29,2388,2431,6.5,9,1.51,10,15.1,"Gretarsson, Helgi Ass",g,2450.0,False,ISL,0.5,1,0.03,10,0.3
+25659766,2024-11-01,0,SixDays Budapest September 2024 GM C,Budapest HUN,2024-09-24,2024-09-29,2388,2431,6.5,9,1.51,10,15.1,"Grover, Sahaj",g,2496.0,False,IND,1.0,1,0.59,10,5.9
+25659766,2024-11-01,0,SixDays Budapest September 2024 GM C,Budapest HUN,2024-09-24,2024-09-29,2388,2431,6.5,9,1.51,10,15.1,"Palczert, Matyas",f,2345.0,False,HUN,0.0,1,-0.62,10,-6.2
+25659766,2024-11-01,0,SixDays Budapest September 2024 GM C,Budapest HUN,2024-09-24,2024-09-29,2388,2431,6.5,9,1.51,10,15.1,"Sardana, Rishi",m,2477.0,False,AUS,1.0,1,0.56,10,5.6
+25659766,2024-11-01,0,SixDays Budapest September 2024 GM C,Budapest HUN,2024-09-24,2024-09-29,2388,2431,6.5,9,1.51,10,15.1,"Susilodinata, Andrean",f,2393.0,False,INA,1.0,1,0.45,10,4.5
+25659766,2024-11-01,0,SixDays Budapest September 2024 GM C,Budapest HUN,2024-09-24,2024-09-29,2388,2431,6.5,9,1.51,10,15.1,"Aczel, Gergely",g,2460.0,False,HUN,0.5,1,0.04,10,0.4
+25659766,2024-11-01,0,SixDays Budapest September 2024 GM C,Budapest HUN,2024-09-24,2024-09-29,2388,2431,6.5,9,1.51,10,15.1,"Zia, Tahsin Tajwar",f,2255.0,False,BAN,0.5,1,-0.23,10,-2.3
+25659766,2024-11-01,0,SixDays Budapest Two Years 2024 GM A,Budapest HUN,2024-09-30,2024-10-05,2383,2431,6.0,9,0.93,10,9.3,"Berczes, David",g,2400.0,False,HUN,1.0,1,0.46,10,4.6
+25659766,2024-11-01,0,SixDays Budapest Two Years 2024 GM A,Budapest HUN,2024-09-30,2024-10-05,2383,2431,6.0,9,0.93,10,9.3,"Jablonicky, Martin",f,2421.0,False,SVK,1.0,1,0.49,10,4.9
+25659766,2024-11-01,0,SixDays Budapest Two Years 2024 GM A,Budapest HUN,2024-09-30,2024-10-05,2383,2431,6.0,9,0.93,10,9.3,"Coenen, Michael",f,2339.0,False,GER,0.5,1,-0.13,10,-1.3
+25659766,2024-11-01,0,SixDays Budapest Two Years 2024 GM A,Budapest HUN,2024-09-30,2024-10-05,2383,2431,6.0,9,0.93,10,9.3,"Manon, Reja Neer",f,2417.0,False,BAN,0.5,1,-0.02,10,-0.2
+25659766,2024-11-01,0,SixDays Budapest Two Years 2024 GM A,Budapest HUN,2024-09-30,2024-10-05,2383,2431,6.0,9,0.93,10,9.3,"Pasztor, Balazs",f,2402.0,False,HUN,0.0,1,-0.54,10,-5.4
+25659766,2024-11-01,0,SixDays Budapest Two Years 2024 GM A,Budapest HUN,2024-09-30,2024-10-05,2383,2431,6.0,9,0.93,10,9.3,"Krishnan, Ritvik",f,2206.0,False,IND,1.0,1,0.22,10,2.2
+25659766,2024-11-01,0,SixDays Budapest Two Years 2024 GM A,Budapest HUN,2024-09-30,2024-10-05,2383,2431,6.0,9,0.93,10,9.3,"Plat, Vojtech",g,2483.0,False,CZE,0.5,1,0.07,10,0.7
+25659766,2024-11-01,0,SixDays Budapest Two Years 2024 GM A,Budapest HUN,2024-09-30,2024-10-05,2383,2431,6.0,9,0.93,10,9.3,"Neverov, Valeriy",g,2412.0,False,UKR,0.5,1,-0.03,10,-0.3
+25659766,2024-11-01,0,SixDays Budapest Two Years 2024 GM A,Budapest HUN,2024-09-30,2024-10-05,2383,2431,6.0,9,0.93,10,9.3,"Panda, Sambit",m,2367.0,False,IND,1.0,1,0.41,10,4.1
+25659766,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,2088,2452,7.5,9,-0.47,10,-4.7,"Baba, S.d.",,2052.0,True,IND,1.0,1,0.08,10,0.8
+25659766,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,2088,2452,7.5,9,-0.47,10,-4.7,"Yitish, Kumar Gangwani",,2052.0,True,IND,1.0,1,0.08,10,0.8
+25659766,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,2088,2452,7.5,9,-0.47,10,-4.7,"Kesavan, G",,2052.0,True,IND,1.0,1,0.08,10,0.8
+25659766,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,2088,2452,7.5,9,-0.47,10,-4.7,"Chudasama, Ankit",,2052.0,True,IND,1.0,1,0.08,10,0.8
+25659766,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,2088,2452,7.5,9,-0.47,10,-4.7,"Mhamane, Sourabh",,2052.0,True,IND,0.0,1,-0.92,10,-9.2
+25659766,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,2088,2452,7.5,9,-0.47,10,-4.7,"Mehta, Naitik R",,2052.0,True,IND,1.0,1,0.08,10,0.8
+25659766,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,2088,2452,7.5,9,-0.47,10,-4.7,"Goutham, Ramesh",,2052.0,True,IND,1.0,1,0.08,10,0.8
+25659766,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,2088,2452,7.5,9,-0.47,10,-4.7,"Dishank, Sachin Bajaj",,2052.0,True,IND,1.0,1,0.08,10,0.8
+25659766,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,2088,2452,7.5,9,-0.47,10,-4.7,"Shahil, Dey",m,2375.0,False,IND,0.5,1,-0.11,10,-1.1

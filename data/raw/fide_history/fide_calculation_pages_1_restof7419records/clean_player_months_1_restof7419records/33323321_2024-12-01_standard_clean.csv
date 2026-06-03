@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33323321,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1574,1470,3.0,6,0.84,40,33.6,"Vidhan, Singh Patel",,1402.0,False,IND,1.0,1,0.41,40,16.4
+33323321,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1574,1470,3.0,6,0.84,40,33.6,"Arindam, Shukla",,1634.0,False,IND,0.0,1,-0.28,40,-11.2
+33323321,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1574,1470,3.0,6,0.84,40,33.6,"Radhya, Malhotra",,1601.0,False,IND,0.0,1,-0.32,40,-12.8
+33323321,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1574,1470,3.0,6,0.84,40,33.6,"Udaiveer, Singh",,1578.0,False,IND,1.0,1,0.65,40,26.0
+33323321,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1574,1470,3.0,6,0.84,40,33.6,"Anurag, Singh",,1615.0,False,IND,0.5,1,0.19,40,7.6
+33323321,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1574,1470,3.0,6,0.84,40,33.6,"Darsh, Ilwadi",,1611.0,False,IND,0.5,1,0.19,40,7.6

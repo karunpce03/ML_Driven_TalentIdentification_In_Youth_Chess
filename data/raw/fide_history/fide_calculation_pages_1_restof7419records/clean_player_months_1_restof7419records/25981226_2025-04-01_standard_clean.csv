@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25981226,2025-04-01,0,London Chess League FIDE Weekender Mar 2025 - Open,London ENG,2025-03-14,2025-03-16,1893,1868,1.5,4,-0.39,40,-15.6,"Stojanas, Justinas",,2106.0,False,LTU,0.0,1,-0.2,40,-8.0
+25981226,2025-04-01,0,London Chess League FIDE Weekender Mar 2025 - Open,London ENG,2025-03-14,2025-03-16,1893,1868,1.5,4,-0.39,40,-15.6,"Li, Harvey",,1805.0,False,ENG,0.5,1,-0.09,40,-3.6
+25981226,2025-04-01,0,London Chess League FIDE Weekender Mar 2025 - Open,London ENG,2025-03-14,2025-03-16,1893,1868,1.5,4,-0.39,40,-15.6,"Brown, John",,1687.0,False,ENG,1.0,1,0.26,40,10.4
+25981226,2025-04-01,0,London Chess League FIDE Weekender Mar 2025 - Open,London ENG,2025-03-14,2025-03-16,1893,1868,1.5,4,-0.39,40,-15.6,"Wang, Luoke",,1974.0,False,ENG,0.0,1,-0.36,40,-14.4

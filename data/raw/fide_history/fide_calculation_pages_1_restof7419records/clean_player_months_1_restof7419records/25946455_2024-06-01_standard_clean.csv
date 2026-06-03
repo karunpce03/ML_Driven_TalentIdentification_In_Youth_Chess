@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25946455,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1535,1614,5.5,9,0.04,38,1.52,"Surya, Alagappan",,1455.0,False,IND,0.0,1,-0.71,38,-26.98
+25946455,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1535,1614,5.5,9,0.04,38,1.52,"Dhiren, Makhija",,1425.0,False,IND,1.0,1,0.25,38,9.5
+25946455,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1535,1614,5.5,9,0.04,38,1.52,"Akhilesh, Harsha Kamath",,1483.0,False,IND,1.0,1,0.32,38,12.16
+25946455,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1535,1614,5.5,9,0.04,38,1.52,"Harshith, Ram B",,1474.0,False,IND,1.0,1,0.31,38,11.78
+25946455,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1535,1614,5.5,9,0.04,38,1.52,"Aneesh, Adiga",,1764.0,False,IND,0.5,1,0.2,38,7.6
+25946455,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1535,1614,5.5,9,0.04,38,1.52,"Pratitee, Bordoloi",,1731.0,False,IND,0.0,1,-0.34,38,-12.92
+25946455,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1535,1614,5.5,9,0.04,38,1.52,"Aashish, Avinash",,1503.0,False,IND,0.5,1,-0.15,38,-5.7
+25946455,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1535,1614,5.5,9,0.04,38,1.52,"Tushar, Agarwalla",,1498.0,False,IND,0.5,1,-0.16,38,-6.08
+25946455,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1535,1614,5.5,9,0.04,38,1.52,"Ramaprasad, Kodlekere",,1482.0,False,IND,1.0,1,0.32,38,12.16
+25946455,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1622,1614,0.5,3,-1.05,38,-39.9,"Augustin, A",,1969.0,False,IND,0.0,1,-0.11,38,-4.18
+25946455,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1622,1614,0.5,3,-1.05,38,-39.9,"Yash, Dnyanesh Chaware",,1456.0,False,IND,0.5,1,-0.21,38,-7.98
+25946455,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1622,1614,0.5,3,-1.05,38,-39.9,"Mirtyunjya, Kumar",,1442.0,False,IND,0.0,1,-0.73,38,-27.74
+25946455,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1704,1614,2.0,6,-0.33,38,-12.54,"Aarush, Rajesh",,1818.0,False,IND,0.0,1,-0.24,38,-9.12
+25946455,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1704,1614,2.0,6,-0.33,38,-12.54,"Ajay, Kumar",,1465.0,False,IND,1.0,1,0.3,38,11.4
+25946455,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1704,1614,2.0,6,-0.33,38,-12.54,"Joshi, Abhijeet",,1827.0,False,IND,1.0,1,0.77,38,29.26
+25946455,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1704,1614,2.0,6,-0.33,38,-12.54,"Swastik, Suvam Patnaik",,1756.0,False,IND,0.0,1,-0.31,38,-11.78
+25946455,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1704,1614,2.0,6,-0.33,38,-12.54,"Guru, Prakash",,1845.0,False,IND,0.0,1,-0.21,38,-7.98
+25946455,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1704,1614,2.0,6,-0.33,38,-12.54,"Inoday, Mitra",,1512.0,False,IND,0.0,1,-0.64,38,-24.32

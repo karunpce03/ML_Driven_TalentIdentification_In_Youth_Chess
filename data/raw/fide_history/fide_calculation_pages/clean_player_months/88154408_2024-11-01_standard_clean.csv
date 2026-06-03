@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88154408,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1549,1450,1.0,4,-0.49,40,-19.6,"Daou , Kenan",,1652.0,False,LBN,0.0,1,-0.24,40,-9.6
+88154408,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1549,1450,1.0,4,-0.49,40,-19.6,"Berik, Dinmukhammed",,1620.0,False,KAZ,1.0,1,0.72,40,28.8
+88154408,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1549,1450,1.0,4,-0.49,40,-19.6,"Manlla Hasan, Ahmad",,1517.0,False,FID,0.0,1,-0.41,40,-16.4
+88154408,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1549,1450,1.0,4,-0.49,40,-19.6,"Deshmukh, Omm",,1405.0,False,IND,0.0,1,-0.56,40,-22.4

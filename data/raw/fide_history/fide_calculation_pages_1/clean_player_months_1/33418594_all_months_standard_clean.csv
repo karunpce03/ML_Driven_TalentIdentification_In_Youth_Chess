@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33418594,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1579.0,1405.0,0.5,5,-0.95,40,-38.0,"Manasa, K.",,1805,True,IND,0.0,1,-0.08,40.0,-3.2
+33418594,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1579.0,1405.0,0.5,5,-0.95,40,-38.0,"Ruthvik, Srikanth",,1539,False,IND,0.0,1,-0.32,40.0,-12.8
+33418594,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1579.0,1405.0,0.5,5,-0.95,40,-38.0,"Shlok, Vinay Kulkarni",,1524,False,IND,0.0,1,-0.34,40.0,-13.6
+33418594,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1579.0,1405.0,0.5,5,-0.95,40,-38.0,"Aasapu, Mohith Praneel",,1522,False,IND,0.5,1,0.16,40.0,6.4
+33418594,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1579.0,1405.0,0.5,5,-0.95,40,-38.0,"Aashish, Avinash",,1503,False,IND,0.0,1,-0.37,40.0,-14.8
+33418594,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,1.0,5,0.0,1236,,"Rakesh, Gowda G C",,1538,False,IND,0.0,1,0.0,,0.0
+33418594,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,1.0,5,0.0,1236,,"Samarth, Mudhol",,1470,False,IND,0.0,1,0.0,,0.0
+33418594,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,1.0,5,0.0,1236,,"Yathrish, N",,1434,False,IND,0.0,1,0.0,,0.0
+33418594,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,1.0,5,0.0,1236,,"Darsh, Chandra",,1447,False,IND,0.0,1,0.0,,0.0
+33418594,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,,,1.0,5,0.0,1236,,"Hiyan, Chopra",,1489,False,IND,1.0,1,0.0,,0.0

@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48737356,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1492,1404,0.5,4,-1.02,40,-40.8,"Kevin, Savio",,1537.0,False,IND,0.0,1,-0.32,40,-12.8
+48737356,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1492,1404,0.5,4,-1.02,40,-40.8,"Ajin, P R",,1492.0,False,IND,0.5,1,0.12,40,4.8
+48737356,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1492,1404,0.5,4,-1.02,40,-40.8,"Hari, Prasath D",,1464.0,False,IND,0.0,1,-0.42,40,-16.8
+48737356,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1492,1404,0.5,4,-1.02,40,-40.8,"Gunaa, G",,1476.0,False,IND,0.0,1,-0.4,40,-16.0
+48737356,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1678,1404,0.0,3,-0.54,40,-21.6,"Shashish, Subbiah",,1804.0,True,IND,0.0,1,-0.08,40,-3.2
+48737356,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1678,1404,0.0,3,-0.54,40,-21.6,"Rohith, P",,1635.0,False,IND,0.0,1,-0.21,40,-8.4
+48737356,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1678,1404,0.0,3,-0.54,40,-21.6,"Samhith, M",,1595.0,False,IND,0.0,1,-0.25,40,-10.0

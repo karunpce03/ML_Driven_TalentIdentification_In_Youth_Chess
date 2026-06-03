@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88191966,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1645,1455,3.0,6,1.39,40,55.6,"Sangbit, Ghosh",,1629.0,False,IND,0.0,1,-0.27,40,-10.8
+88191966,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1645,1455,3.0,6,1.39,40,55.6,"Ayushi, Roy",,1544.0,False,IND,0.5,1,0.12,40,4.8
+88191966,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1645,1455,3.0,6,1.39,40,55.6,"Sridipto, Bhattacharya",,1542.0,False,IND,1.0,1,0.62,40,24.8
+88191966,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1645,1455,3.0,6,1.39,40,55.6,"Khushal, Bagri",,1596.0,False,IND,1.0,1,0.69,40,27.6
+88191966,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1645,1455,3.0,6,1.39,40,55.6,"Parambrata, Sarkar",,1855.0,True,IND,0.0,1,-0.08,40,-3.2
+88191966,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1645,1455,3.0,6,1.39,40,55.6,"Paramarth, Mitra",,1705.0,False,IND,0.5,1,0.31,40,12.4
+88191966,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1615,1455,0.0,2,-0.58,40,-23.2,"Swapnabha, Neogi",,1673.0,False,IND,0.0,1,-0.22,40,-8.8
+88191966,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1615,1455,0.0,2,-0.58,40,-23.2,"Shrihaan, Barman",,1556.0,False,IND,0.0,1,-0.36,40,-14.4

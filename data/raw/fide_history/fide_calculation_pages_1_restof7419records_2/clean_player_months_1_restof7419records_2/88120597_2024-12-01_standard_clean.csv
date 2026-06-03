@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88120597,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1680,1489,2.0,5,0.72,40,28.8,"Pazhany, Kaushal Kohli",,1683.0,False,IND,0.0,1,-0.25,40,-10.0
+88120597,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1680,1489,2.0,5,0.72,40,28.8,"Advik, Singh Chauhan",,1769.0,False,IND,0.5,1,0.34,40,13.6
+88120597,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1680,1489,2.0,5,0.72,40,28.8,"Badhwar, Daksh",,1594.0,False,USA,0.5,1,0.14,40,5.6
+88120597,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1680,1489,2.0,5,0.72,40,28.8,"Rahul, Suri",,1688.0,False,IND,0.5,1,0.26,40,10.4
+88120597,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1680,1489,2.0,5,0.72,40,28.8,"Divyanshu, Joshi",,1668.0,False,IND,0.5,1,0.23,40,9.2

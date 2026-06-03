@@ -1,0 +1,17 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25683900,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2235,2147,4.0,8,0.89,40,35.6,"Yoo, Eugene",c,2273.0,False,USA,0.5,1,0.17,40,6.8
+25683900,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2235,2147,4.0,8,0.89,40,35.6,"Ladron De Guevara Pinto, Paolo",m,2376.0,False,ESP,0.5,1,0.29,40,11.6
+25683900,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2235,2147,4.0,8,0.89,40,35.6,"Calvo Simon, Jorge",,2210.0,False,ESP,0.5,1,0.09,40,3.6
+25683900,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2235,2147,4.0,8,0.89,40,35.6,"Pagan, Jonathan",,2041.0,False,USA,0.5,1,-0.14,40,-5.6
+25683900,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2235,2147,4.0,8,0.89,40,35.6,"Khamrakulov, Ibragim S.",g,2412.0,False,ESP,0.5,1,0.32,40,12.8
+25683900,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2235,2147,4.0,8,0.89,40,35.6,"Arcos Facio, Mateo",f,2098.0,False,URU,1.0,1,0.43,40,17.2
+25683900,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2235,2147,4.0,8,0.89,40,35.6,"Martin Duque, Jesus",m,2346.0,False,ESP,0.5,1,0.26,40,10.4
+25683900,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2235,2147,4.0,8,0.89,40,35.6,"Boulahfa, Hicham",,2126.0,False,NED,0.0,1,-0.53,40,-21.2
+25683900,2024-07-01,0,S: 36 th International Chess Tournament Open Pula 2024,Pula CRO,2024-06-16,2024-06-24,2071,2147,5.5,8,0.78,40,31.2,"Osswald, Michael",,1829.0,False,GER,1.0,1,0.13,40,5.2
+25683900,2024-07-01,0,S: 36 th International Chess Tournament Open Pula 2024,Pula CRO,2024-06-16,2024-06-24,2071,2147,5.5,8,0.78,40,31.2,"Benci, Jozef",,1930.0,False,SVK,1.0,1,0.22,40,8.8
+25683900,2024-07-01,0,S: 36 th International Chess Tournament Open Pula 2024,Pula CRO,2024-06-16,2024-06-24,2071,2147,5.5,8,0.78,40,31.2,"Hadzovic, Amir",f,2309.0,False,BIH,0.5,1,0.21,40,8.4
+25683900,2024-07-01,0,S: 36 th International Chess Tournament Open Pula 2024,Pula CRO,2024-06-16,2024-06-24,2071,2147,5.5,8,0.78,40,31.2,"Ng, Jun Fung Isaac",,1963.0,False,MAS,1.0,1,0.26,40,10.4
+25683900,2024-07-01,0,S: 36 th International Chess Tournament Open Pula 2024,Pula CRO,2024-06-16,2024-06-24,2071,2147,5.5,8,0.78,40,31.2,"Jablonicky, Martin",f,2380.0,False,SVK,0.0,1,-0.21,40,-8.4
+25683900,2024-07-01,0,S: 36 th International Chess Tournament Open Pula 2024,Pula CRO,2024-06-16,2024-06-24,2071,2147,5.5,8,0.78,40,31.2,"Nesterenko, Kyrylo",,2036.0,False,UKR,0.5,1,-0.15,40,-6.0
+25683900,2024-07-01,0,S: 36 th International Chess Tournament Open Pula 2024,Pula CRO,2024-06-16,2024-06-24,2071,2147,5.5,8,0.78,40,31.2,"Heyl, Thomas",,1870.0,False,GER,1.0,1,0.17,40,6.8
+25683900,2024-07-01,0,S: 36 th International Chess Tournament Open Pula 2024,Pula CRO,2024-06-16,2024-06-24,2071,2147,5.5,8,0.78,40,31.2,"Karlusic, Luka",,2254.0,False,CRO,0.5,1,0.15,40,6.0

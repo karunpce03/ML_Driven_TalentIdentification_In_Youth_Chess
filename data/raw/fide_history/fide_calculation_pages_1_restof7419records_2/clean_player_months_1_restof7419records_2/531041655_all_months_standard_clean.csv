@@ -1,0 +1,24 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531041655,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,,,0.0,3,0.0,722,,"Hardev, Sahai",,1512.0,False,IND,0.0,1,0.0,,0.0
+531041655,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,,,0.0,3,0.0,722,,"Rudra, Pratap Srivastava",,1404.0,False,IND,0.0,1,0.0,,0.0
+531041655,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,,,0.0,3,0.0,722,,"Singhal, Keshav",,1651.0,False,IND,0.0,1,0.0,,0.0
+531041655,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,,,2.0,7,0.0,1299,,"Goransh, Goyal",,1527.0,False,IND,0.0,1,0.0,,0.0
+531041655,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,,,2.0,7,0.0,1299,,"Daksh, Arora",,1429.0,False,IND,0.5,1,0.0,,0.0
+531041655,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,,,2.0,7,0.0,1299,,"Snehansu, Chakraborty",,1434.0,False,IND,0.0,1,0.0,,0.0
+531041655,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,,,2.0,7,0.0,1299,,"Madke, Ishika",,1438.0,False,IND,0.0,1,0.0,,0.0
+531041655,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,,,2.0,7,0.0,1299,,"Chirag, Aggarwal",,1401.0,False,IND,0.5,1,0.0,,0.0
+531041655,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,,,2.0,7,0.0,1299,,"Praveen, Kumar Jelia",,1404.0,False,IND,0.5,1,0.0,,0.0
+531041655,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,,,2.0,7,0.0,1299,,"Arun, Kumar Sharma",,1569.0,False,IND,0.5,1,0.0,,0.0
+531041655,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1535.0,1409.0,2.0,4,0.67,40,26.8,"Vinayak, Tripathi",,1567.0,False,IND,1.0,1,0.71,40.0,28.4
+531041655,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1535.0,1409.0,2.0,4,0.67,40,26.8,"Shashwat, Singh",,1511.0,False,IND,0.0,1,-0.36,40.0,-14.4
+531041655,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1535.0,1409.0,2.0,4,0.67,40,26.8,"Apratim, Shukla",,1571.0,False,IND,0.0,1,-0.29,40.0,-11.6
+531041655,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1535.0,1409.0,2.0,4,0.67,40,26.8,"Rishant, Srivastava",,1489.0,False,IND,1.0,1,0.61,40.0,24.4
+531041655,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1529.0,1409.0,0.5,3,-0.54,40,-21.6,"Aarav, Gupta",,1648.0,False,IND,0.0,1,-0.2,40.0,-8.0
+531041655,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1529.0,1409.0,0.5,3,-0.54,40,-21.6,"Chaudhary, Parv",,1484.0,False,IND,0.0,1,-0.4,40.0,-16.0
+531041655,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1529.0,1409.0,0.5,3,-0.54,40,-21.6,"Harshit, Kushwaha",,1455.0,False,IND,0.5,1,0.06,40.0,2.4
+531041655,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1654.0,1409.0,2.5,6,1.2,40,48.0,"Pranav, Rastogi",,1681.0,False,IND,0.5,1,0.33,40.0,13.2
+531041655,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1654.0,1409.0,2.5,6,1.2,40,48.0,"Aditya, Raj",,1460.0,False,IND,1.0,1,0.57,40.0,22.8
+531041655,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1654.0,1409.0,2.5,6,1.2,40,48.0,"Md, Hasnain Siddiqui",,1714.0,False,IND,0.0,1,-0.14,40.0,-5.6
+531041655,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1654.0,1409.0,2.5,6,1.2,40,48.0,"Ayush, Saxena",,1747.0,False,IND,1.0,1,0.88,40.0,35.2
+531041655,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1654.0,1409.0,2.5,6,1.2,40,48.0,"Prakhar, Tripathi",,1809.0,True,IND,0.0,1,-0.08,40.0,-3.2
+531041655,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1654.0,1409.0,2.5,6,1.2,40,48.0,"Sarvagya, Bharadwaj",,1515.0,False,IND,0.0,1,-0.36,40.0,-14.4

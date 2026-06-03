@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33454710,2024-12-01,0,24th Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-11-11,2024-11-27,1747,1673,4.0,5,1.88,40,75.2,"Tissir, Mohamed",m,2073,True,MAR,0.0,1,-0.08,40,-3.2
+33454710,2024-12-01,0,24th Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-11-11,2024-11-27,1747,1673,4.0,5,1.88,40,75.2,"Husain, Sabt",,1551,False,BRN,1.0,1,0.33,40,13.2
+33454710,2024-12-01,0,24th Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-11-11,2024-11-27,1747,1673,4.0,5,1.88,40,75.2,"Abdulraqeb, Saleh Gaber",,1552,False,YEM,1.0,1,0.34,40,13.6
+33454710,2024-12-01,0,24th Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-11-11,2024-11-27,1747,1673,4.0,5,1.88,40,75.2,"Alem, Ali Hussain",,1792,False,KSA,1.0,1,0.66,40,26.4
+33454710,2024-12-01,0,24th Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-11-11,2024-11-27,1747,1673,4.0,5,1.88,40,75.2,"Taqi, Mohamed",,1766,False,BRN,1.0,1,0.63,40,25.2

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25134930,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1666,1461,2.0,5,0.75,40,30.0,"Shani, Kumar Soni",,1616,False,IND,0.0,1,-0.29,40,-11.6
+25134930,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1666,1461,2.0,5,0.75,40,30.0,"Svar, Srivastava",,1597,False,IND,1.0,1,0.68,40,27.2
+25134930,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1666,1461,2.0,5,0.75,40,30.0,"Aditya, Pant",,1632,False,IND,1.0,1,0.73,40,29.2
+25134930,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1666,1461,2.0,5,0.75,40,30.0,"Srivastava, Rajesh K.",,1861,True,IND,0.0,1,-0.08,40,-3.2
+25134930,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1666,1461,2.0,5,0.75,40,30.0,"Karthik, S",,1623,False,IND,0.0,1,-0.29,40,-11.6

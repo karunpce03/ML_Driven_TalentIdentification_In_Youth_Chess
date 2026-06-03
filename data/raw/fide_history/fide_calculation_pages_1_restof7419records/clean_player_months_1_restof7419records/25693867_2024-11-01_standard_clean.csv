@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25693867,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1646,1484,0.0,3,-0.86,40,-34.4,"Prajeesh, B U",,1700.0,False,IND,0.0,1,-0.22,40,-8.8
+25693867,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1646,1484,0.0,3,-0.86,40,-34.4,"Siddarth, S J",,1629.0,False,IND,0.0,1,-0.31,40,-12.4
+25693867,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1646,1484,0.0,3,-0.86,40,-34.4,"Vivek, Ramanathan V",,1610.0,False,IND,0.0,1,-0.33,40,-13.2

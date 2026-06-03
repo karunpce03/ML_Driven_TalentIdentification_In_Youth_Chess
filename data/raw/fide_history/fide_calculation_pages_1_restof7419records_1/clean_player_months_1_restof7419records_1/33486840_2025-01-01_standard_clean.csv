@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33486840,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1790,1512,2.5,5,1.64,40,65.6,"Zayed, Ali Al-Hamed",,1912.0,True,UAE,0.0,1,-0.08,40,-3.2
+33486840,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1790,1512,2.5,5,1.64,40,65.6,"Aryan, Goyal",,1737.0,False,IND,0.0,1,-0.22,40,-8.8
+33486840,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1790,1512,2.5,5,1.64,40,65.6,"Mosallam, Mohammad",,1753.0,False,UAE,1.0,1,0.8,40,32.0
+33486840,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1790,1512,2.5,5,1.64,40,65.6,"Akramov, Khusan",,1759.0,False,UZB,0.5,1,0.31,40,12.4
+33486840,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1790,1512,2.5,5,1.64,40,65.6,"Al Mamari, Ali Abdullah",,1789.0,False,OMA,1.0,1,0.83,40,33.2
+33486840,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1643,1512,1.5,7,-0.81,40,-32.4,"Sa, Kannan",,1795.0,False,IND,0.0,1,-0.16,40,-6.4
+33486840,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1643,1512,1.5,7,-0.81,40,-32.4,"Rathees, Rooban R",,1666.0,False,IND,0.5,1,0.21,40,8.4
+33486840,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1643,1512,1.5,7,-0.81,40,-32.4,"Surendiraa, A Sathish",,1688.0,False,IND,0.5,1,0.23,40,9.2
+33486840,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1643,1512,1.5,7,-0.81,40,-32.4,"Bruhathi, Kondisetti",,1660.0,False,IND,0.0,1,-0.3,40,-12.0
+33486840,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1643,1512,1.5,7,-0.81,40,-32.4,"Durga, Prasad K",,1644.0,False,IND,0.0,1,-0.32,40,-12.8
+33486840,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1643,1512,1.5,7,-0.81,40,-32.4,"Ansh, Abishek Nair",,1401.0,False,IND,0.5,1,-0.15,40,-6.0
+33486840,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1643,1512,1.5,7,-0.81,40,-32.4,"Manoj, Guru R",,1646.0,False,IND,0.0,1,-0.32,40,-12.8

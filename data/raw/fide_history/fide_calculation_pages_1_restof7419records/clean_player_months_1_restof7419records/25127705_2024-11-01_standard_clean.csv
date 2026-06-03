@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25127705,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1641,1512,3.0,5,1.31,40,52.4,"Alhasan, Hasan",,1815.0,False,KUW,0.0,1,-0.14,40,-5.6
+25127705,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1641,1512,3.0,5,1.31,40,52.4,"Alsubiei, Mohammad",,1599.0,False,KUW,1.0,1,0.62,40,24.8
+25127705,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1641,1512,3.0,5,1.31,40,52.4,"Amerian, Mohsen",,1494.0,False,IRI,0.0,1,-0.53,40,-21.2
+25127705,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1641,1512,3.0,5,1.31,40,52.4,"Sathvika, Umashankar",,1590.0,False,IND,1.0,1,0.61,40,24.4
+25127705,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1641,1512,3.0,5,1.31,40,52.4,"Fathy Maher, Ahmed",,1705.0,False,EGY,1.0,1,0.75,40,30.0

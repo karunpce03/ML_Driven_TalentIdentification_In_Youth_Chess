@@ -1,0 +1,41 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25683900,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2235,2147,4.0,8,0.89,40,35.6,"Yoo, Eugene",c,2273.0,False,USA,0.5,1,0.17,40,6.8
+25683900,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2235,2147,4.0,8,0.89,40,35.6,"Ladron De Guevara Pinto, Paolo",m,2376.0,False,ESP,0.5,1,0.29,40,11.6
+25683900,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2235,2147,4.0,8,0.89,40,35.6,"Calvo Simon, Jorge",,2210.0,False,ESP,0.5,1,0.09,40,3.6
+25683900,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2235,2147,4.0,8,0.89,40,35.6,"Pagan, Jonathan",,2041.0,False,USA,0.5,1,-0.14,40,-5.6
+25683900,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2235,2147,4.0,8,0.89,40,35.6,"Khamrakulov, Ibragim S.",g,2412.0,False,ESP,0.5,1,0.32,40,12.8
+25683900,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2235,2147,4.0,8,0.89,40,35.6,"Arcos Facio, Mateo",f,2098.0,False,URU,1.0,1,0.43,40,17.2
+25683900,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2235,2147,4.0,8,0.89,40,35.6,"Martin Duque, Jesus",m,2346.0,False,ESP,0.5,1,0.26,40,10.4
+25683900,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2235,2147,4.0,8,0.89,40,35.6,"Boulahfa, Hicham",,2126.0,False,NED,0.0,1,-0.53,40,-21.2
+25683900,2024-07-01,0,S: 36 th International Chess Tournament Open Pula 2024,Pula CRO,2024-06-16,2024-06-24,2071,2147,5.5,8,0.78,40,31.2,"Osswald, Michael",,1829.0,False,GER,1.0,1,0.13,40,5.2
+25683900,2024-07-01,0,S: 36 th International Chess Tournament Open Pula 2024,Pula CRO,2024-06-16,2024-06-24,2071,2147,5.5,8,0.78,40,31.2,"Benci, Jozef",,1930.0,False,SVK,1.0,1,0.22,40,8.8
+25683900,2024-07-01,0,S: 36 th International Chess Tournament Open Pula 2024,Pula CRO,2024-06-16,2024-06-24,2071,2147,5.5,8,0.78,40,31.2,"Hadzovic, Amir",f,2309.0,False,BIH,0.5,1,0.21,40,8.4
+25683900,2024-07-01,0,S: 36 th International Chess Tournament Open Pula 2024,Pula CRO,2024-06-16,2024-06-24,2071,2147,5.5,8,0.78,40,31.2,"Ng, Jun Fung Isaac",,1963.0,False,MAS,1.0,1,0.26,40,10.4
+25683900,2024-07-01,0,S: 36 th International Chess Tournament Open Pula 2024,Pula CRO,2024-06-16,2024-06-24,2071,2147,5.5,8,0.78,40,31.2,"Jablonicky, Martin",f,2380.0,False,SVK,0.0,1,-0.21,40,-8.4
+25683900,2024-07-01,0,S: 36 th International Chess Tournament Open Pula 2024,Pula CRO,2024-06-16,2024-06-24,2071,2147,5.5,8,0.78,40,31.2,"Nesterenko, Kyrylo",,2036.0,False,UKR,0.5,1,-0.15,40,-6.0
+25683900,2024-07-01,0,S: 36 th International Chess Tournament Open Pula 2024,Pula CRO,2024-06-16,2024-06-24,2071,2147,5.5,8,0.78,40,31.2,"Heyl, Thomas",,1870.0,False,GER,1.0,1,0.17,40,6.8
+25683900,2024-07-01,0,S: 36 th International Chess Tournament Open Pula 2024,Pula CRO,2024-06-16,2024-06-24,2071,2147,5.5,8,0.78,40,31.2,"Karlusic, Luka",,2254.0,False,CRO,0.5,1,0.15,40,6.0
+25683900,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2093,2147,7.0,9,1.91,40,76.4,"Garcia Comas, Pau",,1812.0,False,ESP,1.0,1,0.12,40,4.8
+25683900,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2093,2147,7.0,9,1.91,40,76.4,"Buldo Polls, Joan",,1911.0,False,ESP,1.0,1,0.2,40,8.0
+25683900,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2093,2147,7.0,9,1.91,40,76.4,"Riera Morilla, Elisabeth",,1948.0,False,ESP,0.5,1,-0.26,40,-10.4
+25683900,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2093,2147,7.0,9,1.91,40,76.4,"Singh, Siddharth",,2050.0,False,USA,1.0,1,0.37,40,14.8
+25683900,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2093,2147,7.0,9,1.91,40,76.4,"Pomes Marcet, Joan",m,2221.0,False,ESP,0.5,1,0.1,40,4.0
+25683900,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2093,2147,7.0,9,1.91,40,76.4,"Torres Teruel, Joan",,1931.0,False,ESP,1.0,1,0.22,40,8.8
+25683900,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2093,2147,7.0,9,1.91,40,76.4,"Munoz, Miguel",g,2364.0,False,PER,0.5,1,0.28,40,11.2
+25683900,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2093,2147,7.0,9,1.91,40,76.4,"Funes Ostos, Aitor",,2197.0,False,ESP,1.0,1,0.57,40,22.8
+25683900,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2093,2147,7.0,9,1.91,40,76.4,"Kaustuv, Kundu",m,2403.0,False,IND,0.5,1,0.31,40,12.4
+25683900,2024-08-01,0,V Open Internacional Valencia Cuna del Ajedrez,Valencia ESP,2024-07-06,2024-07-14,2175,2214,3.5,6,0.31,40,12.4,"Gil Cabo, Carlos",,1814.0,True,ESP,1.0,1,0.08,40,3.2
+25683900,2024-08-01,0,V Open Internacional Valencia Cuna del Ajedrez,Valencia ESP,2024-07-06,2024-07-14,2175,2214,3.5,6,0.31,40,12.4,"Ceres, Dragos",m,2473.0,False,MDA,0.5,1,0.32,40,12.8
+25683900,2024-08-01,0,V Open Internacional Valencia Cuna del Ajedrez,Valencia ESP,2024-07-06,2024-07-14,2175,2214,3.5,6,0.31,40,12.4,"Robledo Sanchez, Saul",,2017.0,False,ESP,1.0,1,0.25,40,10.0
+25683900,2024-08-01,0,V Open Internacional Valencia Cuna del Ajedrez,Valencia ESP,2024-07-06,2024-07-14,2175,2214,3.5,6,0.31,40,12.4,"Cruz Lledo, Pablo",m,2386.0,False,ESP,0.0,1,-0.27,40,-10.8
+25683900,2024-08-01,0,V Open Internacional Valencia Cuna del Ajedrez,Valencia ESP,2024-07-06,2024-07-14,2175,2214,3.5,6,0.31,40,12.4,"Bukharkov, Stepan",,1982.0,False,FID,1.0,1,0.21,40,8.4
+25683900,2024-08-01,0,V Open Internacional Valencia Cuna del Ajedrez,Valencia ESP,2024-07-06,2024-07-14,2175,2214,3.5,6,0.31,40,12.4,"Ilinca, Felix-Antonio",f,2379.0,False,ROU,0.0,1,-0.28,40,-11.2
+25683900,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1963,2303,6.5,9,-1.21,20,-24.2,"Al Kasbi, Hamid",,1903.0,True,OMA,1.0,1,0.08,20,1.6
+25683900,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1963,2303,6.5,9,-1.21,20,-24.2,"Bait Said, Manaf Salim",,1903.0,True,OMA,1.0,1,0.08,20,1.6
+25683900,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1963,2303,6.5,9,-1.21,20,-24.2,"Sharma, Taksh",,1903.0,True,IND,0.5,1,-0.42,20,-8.4
+25683900,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1963,2303,6.5,9,-1.21,20,-24.2,"Al Saidi, Mohammed Khalfan",,1903.0,True,OMA,0.5,1,-0.42,20,-8.4
+25683900,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1963,2303,6.5,9,-1.21,20,-24.2,"Baardeh, Tahmoores",,1903.0,True,IRI,0.5,1,-0.42,20,-8.4
+25683900,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1963,2303,6.5,9,-1.21,20,-24.2,"Ali, Farhad Ali",,1903.0,True,IRQ,1.0,1,0.08,20,1.6
+25683900,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1963,2303,6.5,9,-1.21,20,-24.2,"Medhat, Magdy",,1903.0,True,EGY,1.0,1,0.08,20,1.6
+25683900,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1963,2303,6.5,9,-1.21,20,-24.2,"Poormosavi, Seyed Kian",m,2381.0,False,IRI,0.0,1,-0.39,20,-7.8
+25683900,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1963,2303,6.5,9,-1.21,20,-24.2,"Ababneh, Ghayth",,1965.0,False,JOR,1.0,1,0.12,20,2.4

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48700215,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1717,1622,4.5,5,2.56,40,102.4,"Goel, Vivan",,1471.0,False,IND,1.0,1,0.3,40,12.0
+48700215,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1717,1622,4.5,5,2.56,40,102.4,"Marcos, Marvin",,1959.0,False,PHI,1.0,1,0.88,40,35.2
+48700215,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1717,1622,4.5,5,2.56,40,102.4,"Sampreet, Sudheer",,1620.0,False,IND,1.0,1,0.5,40,20.0
+48700215,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1717,1622,4.5,5,2.56,40,102.4,"Orazayev, Nurel",,1808.0,False,KAZ,0.5,1,0.24,40,9.6
+48700215,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1717,1622,4.5,5,2.56,40,102.4,"Yeshwant, Saravanan",,1726.0,False,IND,1.0,1,0.64,40,25.6
+48700215,2024-05-01,0,5th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-06,2024-04-07,1745,1622,2.5,4,1.08,40,43.2,"Marcos, Marvin",,1959.0,False,PHI,0.0,1,-0.12,40,-4.8
+48700215,2024-05-01,0,5th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-06,2024-04-07,1745,1622,2.5,4,1.08,40,43.2,"Smirnov, Artem A.",,1446.0,False,FID,1.0,1,0.27,40,10.8
+48700215,2024-05-01,0,5th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-06,2024-04-07,1745,1622,2.5,4,1.08,40,43.2,"Tecirli, Musa",,1819.0,False,TUR,1.0,1,0.75,40,30.0
+48700215,2024-05-01,0,5th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-06,2024-04-07,1745,1622,2.5,4,1.08,40,43.2,"Shashish, Subbiah",,1754.0,False,IND,0.5,1,0.18,40,7.2

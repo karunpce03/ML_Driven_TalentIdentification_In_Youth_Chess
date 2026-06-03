@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25969269,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2145,2029,3.0,9,-0.17,40,-6.8,"Colmenares, Aurelio",f,2331.0,False,SUI,0.0,1,-0.15,40,-6.0
+25969269,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2145,2029,3.0,9,-0.17,40,-6.8,"Krishnan, Ritvik",f,2206.0,False,IND,0.0,1,-0.27,40,-10.8
+25969269,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2145,2029,3.0,9,-0.17,40,-6.8,"Beaudoire, Gregoire",,1961.0,False,FRA,0.5,1,-0.09,40,-3.6
+25969269,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2145,2029,3.0,9,-0.17,40,-6.8,"Sharvaanica, A S",wc,1914.0,False,IND,1.0,1,0.34,40,13.6
+25969269,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2145,2029,3.0,9,-0.17,40,-6.8,"Fraile, Lucas",,2152.0,False,FRA,0.5,1,0.17,40,6.8
+25969269,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2145,2029,3.0,9,-0.17,40,-6.8,"Orfila, Kristofer",,2223.0,False,FRA,0.5,1,0.25,40,10.0
+25969269,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2145,2029,3.0,9,-0.17,40,-6.8,"Kishore, Kumar Jagana",,2168.0,False,IND,0.5,1,0.19,40,7.6
+25969269,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2145,2029,3.0,9,-0.17,40,-6.8,"Garrigue, Julian",,2195.0,False,FRA,0.0,1,-0.28,40,-11.2
+25969269,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2145,2029,3.0,9,-0.17,40,-6.8,"Schmid, Pablo",,2157.0,False,SUI,0.0,1,-0.33,40,-13.2

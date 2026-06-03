@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88122085,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1640,1538,0.5,4,-0.98,40,-39.2,"Ojasya, Saxena",,1690.0,False,IND,0.0,1,-0.3,40,-12.0
+88122085,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1640,1538,0.5,4,-0.98,40,-39.2,"Aabhas, Kumar Srivastava",,1647.0,False,IND,0.5,1,0.15,40,6.0
+88122085,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1640,1538,0.5,4,-0.98,40,-39.2,"Dileep, Tripathi",,1770.0,False,IND,0.0,1,-0.21,40,-8.4
+88122085,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1640,1538,0.5,4,-0.98,40,-39.2,"Shubham, Srivastava",,1453.0,False,IND,0.0,1,-0.62,40,-24.8

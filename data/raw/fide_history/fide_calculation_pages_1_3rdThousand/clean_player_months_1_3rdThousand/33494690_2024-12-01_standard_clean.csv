@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33494690,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1701,1894,7.0,9,0.47,40,18.8,"Prakhar, Saxena",,1494,True,IND,1.0,1,0.08,40,3.2
+33494690,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1701,1894,7.0,9,0.47,40,18.8,"Nemank, Yadav",,1540,False,IND,1.0,1,0.11,40,4.4
+33494690,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1701,1894,7.0,9,0.47,40,18.8,"Sidhant, Rana",,1619,False,IND,1.0,1,0.17,40,6.8
+33494690,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1701,1894,7.0,9,0.47,40,18.8,"Manav, Kumar",,1697,False,IND,0.5,1,-0.25,40,-10.0
+33494690,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1701,1894,7.0,9,0.47,40,18.8,"Shreyas, Mishra",,1709,False,IND,0.5,1,-0.24,40,-9.6
+33494690,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1701,1894,7.0,9,0.47,40,18.8,"Tripathi, Ajay Narayan",,1686,False,IND,1.0,1,0.23,40,9.2
+33494690,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1701,1894,7.0,9,0.47,40,18.8,"Gaurav, Sharma",,1664,False,IND,1.0,1,0.21,40,8.4
+33494690,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1701,1894,7.0,9,0.47,40,18.8,"Kishan, Kumar",,1958,False,IND,0.5,1,0.09,40,3.6
+33494690,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1701,1894,7.0,9,0.47,40,18.8,"Mrityunjay, Kumar",,1942,False,IND,0.5,1,0.07,40,2.8

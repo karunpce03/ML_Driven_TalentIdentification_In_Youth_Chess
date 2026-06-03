@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33416125,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1630,1480,0.0,4,-1.2,40,-48.0,"Aarav, Manche",,1682.0,False,IND,0.0,1,-0.24,40,-9.6
+33416125,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1630,1480,0.0,4,-1.2,40,-48.0,"Pranav, P G",,1611.0,False,IND,0.0,1,-0.32,40,-12.8
+33416125,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1630,1480,0.0,4,-1.2,40,-48.0,"Anshul, Panicker",,1615.0,False,IND,0.0,1,-0.32,40,-12.8
+33416125,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1630,1480,0.0,4,-1.2,40,-48.0,"Badri, V Baradwaj",,1611.0,False,IND,0.0,1,-0.32,40,-12.8
+33416125,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1710,1432,1.0,4,0.28,40,11.2,"Devnath, Bijesh",,1832.0,True,IND,0.0,1,-0.08,40,-3.2
+33416125,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1710,1432,1.0,4,0.28,40,11.2,"Narayan, C.a.",,1747.0,False,IND,0.0,1,-0.14,40,-5.6
+33416125,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1710,1432,1.0,4,0.28,40,11.2,"Hiyan, Chopra",,1539.0,False,IND,1.0,1,0.65,40,26.0
+33416125,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1710,1432,1.0,4,0.28,40,11.2,"Atharv, Venkatesh",,1723.0,False,IND,0.0,1,-0.15,40,-6.0
+33416125,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1581,1443,2.5,6,0.61,40,24.4,"Hari, K Annamalai",,1592.0,False,IND,1.0,1,0.7,40,28.0
+33416125,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1581,1443,2.5,6,0.61,40,24.4,"Raposo, Maxwell",,1612.0,False,IND,0.0,1,-0.28,40,-11.2
+33416125,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1581,1443,2.5,6,0.61,40,24.4,"Aneesh, S C",,1570.0,False,IND,0.5,1,0.17,40,6.8
+33416125,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1581,1443,2.5,6,0.61,40,24.4,"Syam, Sudhakar Rao R",,1577.0,False,IND,0.0,1,-0.32,40,-12.8
+33416125,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1581,1443,2.5,6,0.61,40,24.4,"Uttam, Surya Sai Naidu Burada",,1583.0,False,IND,1.0,1,0.69,40,27.6
+33416125,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1581,1443,2.5,6,0.61,40,24.4,"Umesh, K M",,1553.0,False,IND,0.0,1,-0.35,40,-14.0

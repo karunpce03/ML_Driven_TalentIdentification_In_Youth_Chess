@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25639110,2024-10-01,0,26th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-08-30,2024-09-05,2283,2412,7.0,9,0.94,10,9.4,"Manik, Mikulas",g,2320.0,False,SVK,1.0,1,0.37,10,3.7
+25639110,2024-10-01,0,26th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-08-30,2024-09-05,2283,2412,7.0,9,0.94,10,9.4,"Daakshin, Arun",f,2290.0,False,IND,1.0,1,0.33,10,3.3
+25639110,2024-10-01,0,26th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-08-30,2024-09-05,2283,2412,7.0,9,0.94,10,9.4,"Harshad, S",f,2275.0,False,IND,0.5,1,-0.18,10,-1.8
+25639110,2024-10-01,0,26th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-08-30,2024-09-05,2283,2412,7.0,9,0.94,10,9.4,"Pawar, Harshit",f,2284.0,False,IND,1.0,1,0.33,10,3.3
+25639110,2024-10-01,0,26th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-08-30,2024-09-05,2283,2412,7.0,9,0.94,10,9.4,"Rohit, S",f,2311.0,False,IND,1.0,1,0.36,10,3.6
+25639110,2024-10-01,0,26th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-08-30,2024-09-05,2283,2412,7.0,9,0.94,10,9.4,"Gochelashvili, David",m,2230.0,False,RUS,0.5,1,-0.24,10,-2.4
+25639110,2024-10-01,0,26th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-08-30,2024-09-05,2283,2412,7.0,9,0.94,10,9.4,"Annageldyev, Orazly",g,2271.0,False,TKM,1.0,1,0.31,10,3.1
+25639110,2024-10-01,0,26th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-08-30,2024-09-05,2283,2412,7.0,9,0.94,10,9.4,"Vahidov, Tair",g,2345.0,False,UZB,0.5,1,-0.09,10,-0.9
+25639110,2024-10-01,0,26th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-08-30,2024-09-05,2283,2412,7.0,9,0.94,10,9.4,"Lokesh, N.",,2222.0,False,IND,0.5,1,-0.25,10,-2.5

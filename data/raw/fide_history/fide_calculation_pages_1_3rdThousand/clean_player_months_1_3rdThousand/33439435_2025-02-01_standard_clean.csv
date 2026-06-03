@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33439435,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1728,1460,0.0,3,-0.52,40,-20.8,"Pranav, Mukunth P",,1718.0,False,IND,0.0,1,-0.18,40,-7.2
+33439435,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1728,1460,0.0,3,-0.52,40,-20.8,"Talla, Nischal",,1767.0,False,IND,0.0,1,-0.14,40,-5.6
+33439435,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1728,1460,0.0,3,-0.52,40,-20.8,"Harsha, Vardhan Kattepogu",,1699.0,False,IND,0.0,1,-0.2,40,-8.0

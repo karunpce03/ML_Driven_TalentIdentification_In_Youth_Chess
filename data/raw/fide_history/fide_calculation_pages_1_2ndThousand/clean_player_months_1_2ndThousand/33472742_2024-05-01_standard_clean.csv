@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33472742,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1621,1482,1.0,3,0.04,40,1.6,"Anirban, Mondal",,1641.0,False,IND,0.5,1,0.21,40,8.4
+33472742,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1621,1482,1.0,3,0.04,40,1.6,"Dhiman, Mitra",,1720.0,False,IND,0.0,1,-0.2,40,-8.0
+33472742,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1621,1482,1.0,3,0.04,40,1.6,"Gurjas, Singh Bagga",,1503.0,False,IND,0.5,1,0.03,40,1.2
+33472742,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1666,1482,2.5,7,0.66,40,26.4,"Ujaan, Bhattacharya",,1681.0,False,IND,0.0,1,-0.24,40,-9.6
+33472742,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1666,1482,2.5,7,0.66,40,26.4,"Aharsi, Ghosh",,1648.0,False,IND,0.5,1,0.22,40,8.8
+33472742,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1666,1482,2.5,7,0.66,40,26.4,"Pratish, Raj",,1624.0,False,IND,1.0,1,0.69,40,27.6
+33472742,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1666,1482,2.5,7,0.66,40,26.4,"Aryaman, Ganguly",,1701.0,False,IND,0.0,1,-0.22,40,-8.8
+33472742,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1666,1482,2.5,7,0.66,40,26.4,"Tejas, Shandilya",,1583.0,False,IND,1.0,1,0.64,40,25.6
+33472742,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1666,1482,2.5,7,0.66,40,26.4,"Manna, Chiranjit",,1753.0,False,IND,0.0,1,-0.17,40,-6.8
+33472742,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1666,1482,2.5,7,0.66,40,26.4,"Maitreyi, Mondal",,1669.0,False,IND,0.0,1,-0.26,40,-10.4

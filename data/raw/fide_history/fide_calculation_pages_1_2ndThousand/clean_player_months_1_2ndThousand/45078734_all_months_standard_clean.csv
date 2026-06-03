@@ -1,0 +1,77 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45078734,2024-07-01,0,EtVaS 50 years - VIII ShakkiNet International,Helsinki FIN,2024-06-10,2024-06-18,2235,2216,3.5,9,-0.76,40,-30.4,"Lahdelma, Henri",f,2343.0,False,FIN,0.0,1,-0.33,40,-13.2
+45078734,2024-07-01,0,EtVaS 50 years - VIII ShakkiNet International,Helsinki FIN,2024-06-10,2024-06-18,2235,2216,3.5,9,-0.76,40,-30.4,"Yrjola, Jouni",g,2302.0,False,FIN,0.5,1,0.12,40,4.8
+45078734,2024-07-01,0,EtVaS 50 years - VIII ShakkiNet International,Helsinki FIN,2024-06-10,2024-06-18,2235,2216,3.5,9,-0.76,40,-30.4,"Srinath, Rao S.v.",m,2278.0,False,IND,0.5,1,0.09,40,3.6
+45078734,2024-07-01,0,EtVaS 50 years - VIII ShakkiNet International,Helsinki FIN,2024-06-10,2024-06-18,2235,2216,3.5,9,-0.76,40,-30.4,"Valkama, Eero",f,2276.0,False,FIN,0.5,1,0.08,40,3.2
+45078734,2024-07-01,0,EtVaS 50 years - VIII ShakkiNet International,Helsinki FIN,2024-06-10,2024-06-18,2235,2216,3.5,9,-0.76,40,-30.4,"Nandhidhaa, P V",wg,2344.0,False,IND,0.0,1,-0.33,40,-13.2
+45078734,2024-07-01,0,EtVaS 50 years - VIII ShakkiNet International,Helsinki FIN,2024-06-10,2024-06-18,2235,2216,3.5,9,-0.76,40,-30.4,"Sivanandan, Bodhana",wf,2110.0,False,ENG,0.5,1,-0.14,40,-5.6
+45078734,2024-07-01,0,EtVaS 50 years - VIII ShakkiNet International,Helsinki FIN,2024-06-10,2024-06-18,2235,2216,3.5,9,-0.76,40,-30.4,"Luukkonen, Tommi",f,2237.0,False,FIN,0.0,1,-0.47,40,-18.8
+45078734,2024-07-01,0,EtVaS 50 years - VIII ShakkiNet International,Helsinki FIN,2024-06-10,2024-06-18,2235,2216,3.5,9,-0.76,40,-30.4,"Tripathi, Pratyush",,2058.0,False,SWE,1.0,1,0.29,40,11.6
+45078734,2024-07-01,0,EtVaS 50 years - VIII ShakkiNet International,Helsinki FIN,2024-06-10,2024-06-18,2235,2216,3.5,9,-0.76,40,-30.4,"Aravindhan, Achyuth",,2168.0,False,NED,0.5,1,-0.07,40,-2.8
+45078734,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2286,2216,3.0,9,-0.66,38,-25.08,"Turski, Bartlomiej",f,2334.0,False,POL,0.5,1,0.16,38,6.08
+45078734,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2286,2216,3.0,9,-0.66,38,-25.08,"Mikrut, Dariusz",m,2309.0,False,POL,0.5,1,0.13,38,4.94
+45078734,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2286,2216,3.0,9,-0.66,38,-25.08,"Petrovic, Aleksa",f,2303.0,False,SRB,0.0,1,-0.38,38,-14.44
+45078734,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2286,2216,3.0,9,-0.66,38,-25.08,"Cieslak, Patryk",f,2358.0,False,POL,0.5,1,0.19,38,7.22
+45078734,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2286,2216,3.0,9,-0.66,38,-25.08,"Chojnacki, Krzysztof",m,2311.0,False,POL,0.5,1,0.13,38,4.94
+45078734,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2286,2216,3.0,9,-0.66,38,-25.08,"Alexiadis, Hristos",f,2378.0,False,GRE,0.0,1,-0.29,38,-11.02
+45078734,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2286,2216,3.0,9,-0.66,38,-25.08,"Phatak, Aanjaneya",,2189.0,False,IND,0.0,1,-0.54,38,-20.52
+45078734,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2286,2216,3.0,9,-0.66,38,-25.08,"Pycinski, Wladyslaw",,2244.0,False,POL,0.0,1,-0.46,38,-17.48
+45078734,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2286,2216,3.0,9,-0.66,38,-25.08,"Aamodt, Peder Marcus",,2145.0,False,NOR,1.0,1,0.4,38,15.2
+45078734,2024-08-01,0,8th Batumi Municipality Cup (Open A),Batumi GEO,2024-07-05,2024-07-13,2159,2186,3.5,9,-1.31,38,-49.78,"Bagaturov, Giorgi",g,2390.0,False,GEO,0.0,1,-0.24,38,-9.12
+45078734,2024-08-01,0,8th Batumi Municipality Cup (Open A),Batumi GEO,2024-07-05,2024-07-13,2159,2186,3.5,9,-1.31,38,-49.78,"Lazhevskaya, Zhanni",wf,1953.0,False,FID,0.0,1,-0.79,38,-30.02
+45078734,2024-08-01,0,8th Batumi Municipality Cup (Open A),Batumi GEO,2024-07-05,2024-07-13,2159,2186,3.5,9,-1.31,38,-49.78,"Kobak, Polina",wf,1995.0,False,ARM,0.0,1,-0.75,38,-28.5
+45078734,2024-08-01,0,8th Batumi Municipality Cup (Open A),Batumi GEO,2024-07-05,2024-07-13,2159,2186,3.5,9,-1.31,38,-49.78,"Olde, Margareth",wm,2198.0,False,EST,0.5,1,0.02,38,0.76
+45078734,2024-08-01,0,8th Batumi Municipality Cup (Open A),Batumi GEO,2024-07-05,2024-07-13,2159,2186,3.5,9,-1.31,38,-49.78,"Cosman, Andreea-Marioara",wf,2179.0,False,ROU,0.5,1,-0.01,38,-0.38
+45078734,2024-08-01,0,8th Batumi Municipality Cup (Open A),Batumi GEO,2024-07-05,2024-07-13,2159,2186,3.5,9,-1.31,38,-49.78,"Mikadze, Miranda",wg,2174.0,False,GEO,1.0,1,0.48,38,18.24
+45078734,2024-08-01,0,8th Batumi Municipality Cup (Open A),Batumi GEO,2024-07-05,2024-07-13,2159,2186,3.5,9,-1.31,38,-49.78,"Nemsadze, Daviti",f,2083.0,False,GEO,0.5,1,-0.14,38,-5.32
+45078734,2024-08-01,0,8th Batumi Municipality Cup (Open A),Batumi GEO,2024-07-05,2024-07-13,2159,2186,3.5,9,-1.31,38,-49.78,"Kiladze, Luka",f,2173.0,False,GEO,0.5,1,-0.02,38,-0.76
+45078734,2024-08-01,0,8th Batumi Municipality Cup (Open A),Batumi GEO,2024-07-05,2024-07-13,2159,2186,3.5,9,-1.31,38,-49.78,"Hayrapetyan, Edgar",f,2288.0,False,ARM,0.5,1,0.14,38,5.32
+45078734,2024-09-01,0,First Saturday IM August 2024,Budapest HUN,2024-08-03,2024-08-10,2275,2111,3.5,9,0.92,40,36.8,"Krizsany, Laszlo",m,2325.0,False,HUN,0.5,1,0.27,40,10.8
+45078734,2024-09-01,0,First Saturday IM August 2024,Budapest HUN,2024-08-03,2024-08-10,2275,2111,3.5,9,0.92,40,36.8,"Padhye, Rohan",,2276.0,False,USA,0.0,1,-0.28,40,-11.2
+45078734,2024-09-01,0,First Saturday IM August 2024,Budapest HUN,2024-08-03,2024-08-10,2275,2111,3.5,9,0.92,40,36.8,"Seres, Lajos",g,2322.0,False,HUN,0.5,1,0.27,40,10.8
+45078734,2024-09-01,0,First Saturday IM August 2024,Budapest HUN,2024-08-03,2024-08-10,2275,2111,3.5,9,0.92,40,36.8,"Midy, Robin",c,2155.0,False,FRA,0.5,1,0.06,40,2.4
+45078734,2024-09-01,0,First Saturday IM August 2024,Budapest HUN,2024-08-03,2024-08-10,2275,2111,3.5,9,0.92,40,36.8,"Strebkovs, Andrejs",,2278.0,False,LAT,0.5,1,0.22,40,8.8
+45078734,2024-09-01,0,First Saturday IM August 2024,Budapest HUN,2024-08-03,2024-08-10,2275,2111,3.5,9,0.92,40,36.8,"Adharsh, K",,2268.0,False,IND,1.0,1,0.71,40,28.4
+45078734,2024-09-01,0,First Saturday IM August 2024,Budapest HUN,2024-08-03,2024-08-10,2275,2111,3.5,9,0.92,40,36.8,"Zherebtsova, Alexandra",f wf,2246.0,False,MNE,0.5,1,0.18,40,7.2
+45078734,2024-09-01,0,First Saturday IM August 2024,Budapest HUN,2024-08-03,2024-08-10,2275,2111,3.5,9,0.92,40,36.8,"Shoshin, Kirill",f,2269.0,False,FID,0.0,1,-0.29,40,-11.6
+45078734,2024-09-01,0,First Saturday IM August 2024,Budapest HUN,2024-08-03,2024-08-10,2275,2111,3.5,9,0.92,40,36.8,"Lucas, Arthur",m,2332.0,False,FRA,0.0,1,-0.22,40,-8.8
+45078734,2024-09-01,0,FE 3 Bella Italia - A,Lignano Sabbiadoro ITA,2024-08-17,2024-08-23,2159,2111,3.5,8,-0.1,40,-4.0,"Omelja, Artem",g,2434.0,False,UKR,0.0,1,-0.13,40,-5.2
+45078734,2024-09-01,0,FE 3 Bella Italia - A,Lignano Sabbiadoro ITA,2024-08-17,2024-08-23,2159,2111,3.5,8,-0.1,40,-4.0,"Liloni, Francesco Mattia",,2008.0,False,ITA,0.5,1,-0.14,40,-5.6
+45078734,2024-09-01,0,FE 3 Bella Italia - A,Lignano Sabbiadoro ITA,2024-08-17,2024-08-23,2159,2111,3.5,8,-0.1,40,-4.0,"Greco, Edoardo",,1984.0,False,ITA,1.0,1,0.33,40,13.2
+45078734,2024-09-01,0,FE 3 Bella Italia - A,Lignano Sabbiadoro ITA,2024-08-17,2024-08-23,2159,2111,3.5,8,-0.1,40,-4.0,"Shoshin, Kirill",f,2269.0,False,FID,0.5,1,0.21,40,8.4
+45078734,2024-09-01,0,FE 3 Bella Italia - A,Lignano Sabbiadoro ITA,2024-08-17,2024-08-23,2159,2111,3.5,8,-0.1,40,-4.0,"Lacambra, Gem Elijah",,1958.0,False,ITA,1.0,1,0.3,40,12.0
+45078734,2024-09-01,0,FE 3 Bella Italia - A,Lignano Sabbiadoro ITA,2024-08-17,2024-08-23,2159,2111,3.5,8,-0.1,40,-4.0,"Arpita, Mukherjee",wm,2210.0,False,IND,0.5,1,0.14,40,5.6
+45078734,2024-09-01,0,FE 3 Bella Italia - A,Lignano Sabbiadoro ITA,2024-08-17,2024-08-23,2159,2111,3.5,8,-0.1,40,-4.0,"Kaustuv, Kundu",m,2419.0,False,IND,0.0,1,-0.14,40,-5.6
+45078734,2024-09-01,0,FE 3 Bella Italia - A,Lignano Sabbiadoro ITA,2024-08-17,2024-08-23,2159,2111,3.5,8,-0.1,40,-4.0,"Rubinshtein, Kamilla",,1987.0,False,ITA,0.0,1,-0.67,40,-26.8
+45078734,2024-10-01,0,Vezerkepzo GM Kluger Gyula Memorial 2024,Budapest HUN,2024-08-28,2024-09-05,2407,2111,2.0,9,0.56,40,22.4,"Sai, Krishna G V",m,2402.0,False,CAN,0.5,1,0.35,40,14.0
+45078734,2024-10-01,0,Vezerkepzo GM Kluger Gyula Memorial 2024,Budapest HUN,2024-08-28,2024-09-05,2407,2111,2.0,9,0.56,40,22.4,"Xie, Felix",f,2326.0,False,NZL,0.5,1,0.27,40,10.8
+45078734,2024-10-01,0,Vezerkepzo GM Kluger Gyula Memorial 2024,Budapest HUN,2024-08-28,2024-09-05,2407,2111,2.0,9,0.56,40,22.4,"Papp, Levente",f,2362.0,False,HUN,0.0,1,-0.19,40,-7.6
+45078734,2024-10-01,0,Vezerkepzo GM Kluger Gyula Memorial 2024,Budapest HUN,2024-08-28,2024-09-05,2407,2111,2.0,9,0.56,40,22.4,"Cardoso Cardoso, Jose Gabriel",g,2507.0,False,COL,0.0,1,-0.08,40,-3.2
+45078734,2024-10-01,0,Vezerkepzo GM Kluger Gyula Memorial 2024,Budapest HUN,2024-08-28,2024-09-05,2407,2111,2.0,9,0.56,40,22.4,"Garcia Pantoja, Roberto",g,2511.0,True,COL,0.0,1,-0.08,40,-3.2
+45078734,2024-10-01,0,Vezerkepzo GM Kluger Gyula Memorial 2024,Budapest HUN,2024-08-28,2024-09-05,2407,2111,2.0,9,0.56,40,22.4,"Csiki, Endre",f,2280.0,False,HUN,0.5,1,0.22,40,8.8
+45078734,2024-10-01,0,Vezerkepzo GM Kluger Gyula Memorial 2024,Budapest HUN,2024-08-28,2024-09-05,2407,2111,2.0,9,0.56,40,22.4,"Sathvik, Adiga",f,2365.0,False,IND,0.0,1,-0.19,40,-7.6
+45078734,2024-10-01,0,Vezerkepzo GM Kluger Gyula Memorial 2024,Budapest HUN,2024-08-28,2024-09-05,2407,2111,2.0,9,0.56,40,22.4,"Fodor, Tamas Jr.",g,2501.0,False,HUN,0.5,1,0.41,40,16.4
+45078734,2024-10-01,0,Vezerkepzo GM Kluger Gyula Memorial 2024,Budapest HUN,2024-08-28,2024-09-05,2407,2111,2.0,9,0.56,40,22.4,"Posthuma, Joshua",m,2412.0,False,USA,0.0,1,-0.15,40,-6.0
+45078734,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1858,2166,6.0,9,-1.63,40,-65.2,"Ananthan, Krishnan",,1766.0,True,IND,1.0,1,0.08,40,3.2
+45078734,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1858,2166,6.0,9,-1.63,40,-65.2,"Shubhankar, Bamalia",,1766.0,True,IND,1.0,1,0.08,40,3.2
+45078734,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1858,2166,6.0,9,-1.63,40,-65.2,"Lukesh, A",,1842.0,False,IND,0.5,1,-0.37,40,-14.8
+45078734,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1858,2166,6.0,9,-1.63,40,-65.2,"Prasanna, Karthick M",,1883.0,False,IND,0.5,1,-0.34,40,-13.6
+45078734,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1858,2166,6.0,9,-1.63,40,-65.2,"Jagrut, Anand Devadiga",,1766.0,True,IND,0.5,1,-0.42,40,-16.8
+45078734,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1858,2166,6.0,9,-1.63,40,-65.2,"Kadam, Arnav",,1972.0,False,IND,1.0,1,0.25,40,10.0
+45078734,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1858,2166,6.0,9,-1.63,40,-65.2,"Naga, Sai Sarthak Karanam",,2009.0,False,IND,0.5,1,-0.21,40,-8.4
+45078734,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1858,2166,6.0,9,-1.63,40,-65.2,"Rithwik, Reddy Upparigudam",,1782.0,False,IND,0.5,1,-0.41,40,-16.4
+45078734,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1858,2166,6.0,9,-1.63,40,-65.2,"Sri, Charan Sandipagu",,1935.0,False,IND,0.5,1,-0.29,40,-11.6
+45078734,2025-04-01,0,Stein am Rhein Open 2025,Stein am Rhein SUI,2025-03-14,2025-03-16,1993,2101,3.5,5,0.27,40,10.8,"Steiner, Mario",,1795.0,False,SUI,1.0,1,0.14,40,5.6
+45078734,2025-04-01,0,Stein am Rhein Open 2025,Stein am Rhein SUI,2025-03-14,2025-03-16,1993,2101,3.5,5,0.27,40,10.8,"Bernet, David",,1829.0,False,SUI,1.0,1,0.17,40,6.8
+45078734,2025-04-01,0,Stein am Rhein Open 2025,Stein am Rhein SUI,2025-03-14,2025-03-16,1993,2101,3.5,5,0.27,40,10.8,"Krivoborodov, Egor",g,2501.0,True,GER,0.0,1,-0.08,40,-3.2
+45078734,2025-04-01,0,Stein am Rhein Open 2025,Stein am Rhein SUI,2025-03-14,2025-03-16,1993,2101,3.5,5,0.27,40,10.8,"Guntaka, Aayansh",,1866.0,False,USA,1.0,1,0.21,40,8.4
+45078734,2025-04-01,0,Stein am Rhein Open 2025,Stein am Rhein SUI,2025-03-14,2025-03-16,1993,2101,3.5,5,0.27,40,10.8,"Bueble, Joschua",,1974.0,False,GER,0.5,1,-0.17,40,-6.8
+45078734,2025-04-01,0,FIDE World School Chess Championships 2025 - O17,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1978,2101,6.0,9,0.21,40,8.4,"Gigov, Mario",,1742.0,False,SRB,1.0,1,0.1,40,4.0
+45078734,2025-04-01,0,FIDE World School Chess Championships 2025 - O17,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1978,2101,6.0,9,0.21,40,8.4,"Kanacki, Vuk",,1956.0,False,SRB,1.0,1,0.31,40,12.4
+45078734,2025-04-01,0,FIDE World School Chess Championships 2025 - O17,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1978,2101,6.0,9,0.21,40,8.4,"Bogdanov, Artyom",f,2373.0,False,KAZ,0.0,1,-0.17,40,-6.8
+45078734,2025-04-01,0,FIDE World School Chess Championships 2025 - O17,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1978,2101,6.0,9,0.21,40,8.4,"Andjelkovic, Aleksandar M",,1930.0,False,SRB,0.0,1,-0.73,40,-29.2
+45078734,2025-04-01,0,FIDE World School Chess Championships 2025 - O17,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1978,2101,6.0,9,0.21,40,8.4,"Adilbekuly, Altair",,1701.0,True,KAZ,1.0,1,0.08,40,3.2
+45078734,2025-04-01,0,FIDE World School Chess Championships 2025 - O17,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1978,2101,6.0,9,0.21,40,8.4,"Milanovic, Marko",f,2271.0,False,SRB,0.5,1,0.22,40,8.8
+45078734,2025-04-01,0,FIDE World School Chess Championships 2025 - O17,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1978,2101,6.0,9,0.21,40,8.4,"Rustamov, Bekzod",,1829.0,False,UZB,1.0,1,0.17,40,6.8
+45078734,2025-04-01,0,FIDE World School Chess Championships 2025 - O17,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1978,2101,6.0,9,0.21,40,8.4,"Brankovic, Uros",,1966.0,False,SRB,1.0,1,0.32,40,12.8
+45078734,2025-04-01,0,FIDE World School Chess Championships 2025 - O17,Vrnjacka Banja SRB,2025-03-20,2025-03-28,1978,2101,6.0,9,0.21,40,8.4,"Elmirzaev, Khondamir",,2036.0,False,UZB,0.5,1,-0.09,40,-3.6

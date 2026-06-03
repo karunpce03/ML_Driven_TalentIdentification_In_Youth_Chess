@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429021626,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1532,1409,1.0,4,-0.33,40,-13.2,"Ansh, Kabra",,1525.0,False,IND,0.0,1,-0.34,40,-13.6
+429021626,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1532,1409,1.0,4,-0.33,40,-13.2,"Divam, Talwar",,1565.0,False,IND,1.0,1,0.71,40,28.4
+429021626,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1532,1409,1.0,4,-0.33,40,-13.2,"Abhiram, Dixit",,1530.0,False,IND,0.0,1,-0.34,40,-13.6
+429021626,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1532,1409,1.0,4,-0.33,40,-13.2,"Avichal, Tripathi",,1509.0,False,IND,0.0,1,-0.36,40,-14.4
+429021626,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1586,1409,2.0,5,0.64,40,25.6,"Aditya, Saxena",,1584.0,False,IND,1.0,1,0.73,40,29.2
+429021626,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1586,1409,2.0,5,0.64,40,25.6,"Lakshya, Nigam",,1652.0,False,IND,0.0,1,-0.2,40,-8.0
+429021626,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1586,1409,2.0,5,0.64,40,25.6,"Rishant, Srivastava",,1489.0,False,IND,1.0,1,0.61,40,24.4
+429021626,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1586,1409,2.0,5,0.64,40,25.6,"Chinmay, Vajpayee",,1539.0,False,IND,0.0,1,-0.32,40,-12.8
+429021626,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1586,1409,2.0,5,0.64,40,25.6,"Vardan, Srivastava",,1667.0,False,IND,0.0,1,-0.18,40,-7.2

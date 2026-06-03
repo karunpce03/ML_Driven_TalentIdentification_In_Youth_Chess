@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366098157,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1711,1539,4.0,8,1.75,40,70.0,"Lim, Sherng Yu",,1711.0,False,SGP,0.0,1,-0.27,40,-10.8
+366098157,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1711,1539,4.0,8,1.75,40,70.0,"Marcos Herrero, Francisco",,1883.0,False,ESP,1.0,1,0.88,40,35.2
+366098157,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1711,1539,4.0,8,1.75,40,70.0,"Le, Hong Phuc",,1624.0,False,VIE,1.0,1,0.62,40,24.8
+366098157,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1711,1539,4.0,8,1.75,40,70.0,"Gan, Wei En Justin",,1665.0,False,SGP,0.5,1,0.17,40,6.8
+366098157,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1711,1539,4.0,8,1.75,40,70.0,"Prajeesh, B U",,1753.0,False,IND,0.0,1,-0.23,40,-9.2
+366098157,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1711,1539,4.0,8,1.75,40,70.0,"Lee, Kam Fai",,1685.0,False,SGP,1.0,1,0.7,40,28.0
+366098157,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1711,1539,4.0,8,1.75,40,70.0,Surya,,1733.0,False,IND,0.0,1,-0.25,40,-10.0
+366098157,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1711,1539,4.0,8,1.75,40,70.0,"Mohd Afif, Muhd Danish Arif",,1636.0,False,MAS,0.5,1,0.13,40,5.2

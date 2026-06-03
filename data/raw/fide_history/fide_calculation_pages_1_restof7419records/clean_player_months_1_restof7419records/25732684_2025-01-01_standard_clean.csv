@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25732684,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1636,1471,3.0,9,0.44,40,17.6,"Mudil, Dharewa",,1723.0,False,IND,0.5,1,0.31,40,12.4
+25732684,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1636,1471,3.0,9,0.44,40,17.6,"Arindam, Shukla",,1694.0,False,IND,0.5,1,0.28,40,11.2
+25732684,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1636,1471,3.0,9,0.44,40,17.6,"Khushal, Bagri",,1625.0,False,IND,0.5,1,0.21,40,8.4
+25732684,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1636,1471,3.0,9,0.44,40,17.6,"Om, Dayanand Ramgude",,1700.0,False,IND,0.0,1,-0.21,40,-8.4
+25732684,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1636,1471,3.0,9,0.44,40,17.6,"Lakshya, Nigam",,1603.0,False,IND,0.0,1,-0.32,40,-12.8
+25732684,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1636,1471,3.0,9,0.44,40,17.6,"Maulik, Chawla",,1562.0,False,IND,1.0,1,0.62,40,24.8
+25732684,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1636,1471,3.0,9,0.44,40,17.6,"Arnab, Nandy",,1587.0,False,IND,0.0,1,-0.34,40,-13.6
+25732684,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1636,1471,3.0,9,0.44,40,17.6,"Kartik, Sikriwal",,1617.0,False,IND,0.5,1,0.2,40,8.0
+25732684,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1636,1471,3.0,9,0.44,40,17.6,"Avighna, Das",,1611.0,False,IND,0.0,1,-0.31,40,-12.4

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25911791,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1662,1619,5.0,10,0.36,40,14.4,"Tanish, Ragavan S",,2019,True,IND,0.0,1,-0.08,40,-3.2
+25911791,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1662,1619,5.0,10,0.36,40,14.4,"Vijayakumar, Vidvath Bharadwaj",,1490,False,IND,0.0,1,-0.67,40,-26.8
+25911791,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1662,1619,5.0,10,0.36,40,14.4,"Anurag, Bhadra",,1411,False,IND,1.0,1,0.23,40,9.2
+25911791,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1662,1619,5.0,10,0.36,40,14.4,"Vivaan, Roy",,1508,False,IND,1.0,1,0.35,40,14.0
+25911791,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1662,1619,5.0,10,0.36,40,14.4,"Andalamala, Hemal Varshan",,1882,False,IND,0.0,1,-0.18,40,-7.2
+25911791,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1662,1619,5.0,10,0.36,40,14.4,"Anish, Goswami",,1503,False,IND,1.0,1,0.34,40,13.6
+25911791,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1662,1619,5.0,10,0.36,40,14.4,"Daiwik, Jain",,1948,False,IND,0.0,1,-0.12,40,-4.8
+25911791,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1662,1619,5.0,10,0.36,40,14.4,"Arya, Sengupta",,1517,False,IND,1.0,1,0.36,40,14.4
+25911791,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1662,1619,5.0,10,0.36,40,14.4,"Ramanuj, Mishra",,1781,False,IND,0.0,1,-0.29,40,-11.6
+25911791,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1662,1619,5.0,10,0.36,40,14.4,"Chittesh, Pandeeshwaran",,1562,False,IND,1.0,1,0.42,40,16.8

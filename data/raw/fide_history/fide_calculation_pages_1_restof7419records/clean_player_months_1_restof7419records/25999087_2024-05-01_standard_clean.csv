@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25999087,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2237,1911,4.0,9,2.77,40,110.8,"Sammed Jaykumar, Shete",m,2311,True,IND,1.0,1,0.92,40,36.8
+25999087,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2237,1911,4.0,9,2.77,40,110.8,"Rajarishi, Karthi",c,2213,False,IND,0.5,1,0.35,40,14.0
+25999087,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2237,1911,4.0,9,2.77,40,110.8,"Wagh, Suyog",f,2250,False,IND,0.5,1,0.38,40,15.2
+25999087,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2237,1911,4.0,9,2.77,40,110.8,"Enkhtuul, Altan-Ulzii",wg,2233,False,MGL,1.0,1,0.87,40,34.8
+25999087,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2237,1911,4.0,9,2.77,40,110.8,"Sek, Konstantin",,2311,True,FID,0.5,1,0.42,40,16.8
+25999087,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2237,1911,4.0,9,2.77,40,110.8,"Amilal, Munkhdalai",m,2311,True,MGL,0.5,1,0.42,40,16.8
+25999087,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2237,1911,4.0,9,2.77,40,110.8,"Lye, Lik Zang",f,2286,False,MAS,0.0,1,-0.09,40,-3.6
+25999087,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2237,1911,4.0,9,2.77,40,110.8,"Rahman, Md. Taibur",f,2166,False,BAN,0.0,1,-0.19,40,-7.6
+25999087,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2237,1911,4.0,9,2.77,40,110.8,"Teerapabpaisit, Wisuwat",f,2051,False,THA,0.0,1,-0.31,40,-12.4

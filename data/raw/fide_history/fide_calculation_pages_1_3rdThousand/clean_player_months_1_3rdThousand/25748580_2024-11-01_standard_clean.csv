@@ -1,0 +1,47 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25748580,2024-11-01,0,29th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-09-23,2024-09-29,2262,2337,6.5,9,1.1,20,22.0,"Gochelashvili, David",m,2279.0,False,RUS,1.0,1,0.42,20,8.4
+25748580,2024-11-01,0,29th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-09-23,2024-09-29,2262,2337,6.5,9,1.1,20,22.0,"Aakash, G",c,2278.0,False,IND,1.0,1,0.42,20,8.4
+25748580,2024-11-01,0,29th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-09-23,2024-09-29,2262,2337,6.5,9,1.1,20,22.0,"Gireman, Ja",c,2199.0,False,IND,1.0,1,0.31,20,6.2
+25748580,2024-11-01,0,29th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-09-23,2024-09-29,2262,2337,6.5,9,1.1,20,22.0,"Reyan, Md.",c,2291.0,False,IND,1.0,1,0.44,20,8.8
+25748580,2024-11-01,0,29th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-09-23,2024-09-29,2262,2337,6.5,9,1.1,20,22.0,"Podolchenko, Evgeniy",g,2338.0,False,BLR,0.5,1,0.0,20,0.0
+25748580,2024-11-01,0,29th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-09-23,2024-09-29,2262,2337,6.5,9,1.1,20,22.0,"Tologon Tegin, Semetei",m,2337.0,False,KGZ,0.0,1,-0.5,20,-10.0
+25748580,2024-11-01,0,29th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-09-23,2024-09-29,2262,2337,6.5,9,1.1,20,22.0,"Annageldyev, Orazly",g,2105.0,False,TKM,1.0,1,0.21,20,4.2
+25748580,2024-11-01,0,29th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-09-23,2024-09-29,2262,2337,6.5,9,1.1,20,22.0,"Manik, Mikulas",g,2316.0,False,SVK,0.5,1,-0.03,20,-0.6
+25748580,2024-11-01,0,29th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Coimbatore,Coimbatore IND,2024-09-23,2024-09-29,2262,2337,6.5,9,1.1,20,22.0,"Nandish, V S",,2212.0,False,IND,0.5,1,-0.17,20,-3.4
+25748580,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2224,2337,6.0,9,0.27,20,5.4,"Horvath, David",m,2327.0,False,HUN,0.5,1,-0.01,20,-0.2
+25748580,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2224,2337,6.0,9,0.27,20,5.4,"Bhagat, Kush",f,2245.0,False,IND,0.0,1,-0.63,20,-12.6
+25748580,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2224,2337,6.0,9,0.27,20,5.4,"Kao, Jamison Edrich",c,2125.0,False,HKG,1.0,1,0.23,20,4.6
+25748580,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2224,2337,6.0,9,0.27,20,5.4,"Fodor, Balazs",,2240.0,False,HUN,1.0,1,0.37,20,7.4
+25748580,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2224,2337,6.0,9,0.27,20,5.4,"Nemeth, Zalan",f,2211.0,False,IRL,0.5,1,-0.17,20,-3.4
+25748580,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2224,2337,6.0,9,0.27,20,5.4,"To, Nhat Minh",m,2300.0,False,HUN,0.5,1,-0.05,20,-1.0
+25748580,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2224,2337,6.0,9,0.27,20,5.4,"Gatineau, Yovann",m,2400.0,False,FRA,0.5,1,0.09,20,1.8
+25748580,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2224,2337,6.0,9,0.27,20,5.4,"Nanditha, V",wc,1937.0,True,IND,1.0,1,0.08,20,1.6
+25748580,2024-11-01,0,SixDays Budapest Two Years Jubilee 2024 IMB,Budapest HUN,2024-09-30,2024-10-05,2224,2337,6.0,9,0.27,20,5.4,"Kalosha, Zhiulien Oleksii",f,2232.0,False,UKR,1.0,1,0.36,20,7.2
+25748580,2024-11-01,0,First Saturday 2024 October GM,Budapest HUN,2024-10-05,2024-10-12,2394,2391,4.0,9,-0.47,20,-9.4,"Egresi, Mate",f,2363.0,False,HUN,1.0,1,0.46,20,9.2
+25748580,2024-11-01,0,First Saturday 2024 October GM,Budapest HUN,2024-10-05,2024-10-12,2394,2391,4.0,9,-0.47,20,-9.4,"Wagh, Suyog",f,2341.0,False,IND,0.5,1,-0.07,20,-1.4
+25748580,2024-11-01,0,First Saturday 2024 October GM,Budapest HUN,2024-10-05,2024-10-12,2394,2391,4.0,9,-0.47,20,-9.4,"Mohammad Fahad, Rahman",m,2431.0,False,BAN,0.0,1,-0.44,20,-8.8
+25748580,2024-11-01,0,First Saturday 2024 October GM,Budapest HUN,2024-10-05,2024-10-12,2394,2391,4.0,9,-0.47,20,-9.4,"Manon, Reja Neer",f,2419.0,False,BAN,0.0,1,-0.46,20,-9.2
+25748580,2024-11-01,0,First Saturday 2024 October GM,Budapest HUN,2024-10-05,2024-10-12,2394,2391,4.0,9,-0.47,20,-9.4,"Sriansh, Das",,2336.0,False,IND,0.5,1,-0.08,20,-1.6
+25748580,2024-11-01,0,First Saturday 2024 October GM,Budapest HUN,2024-10-05,2024-10-12,2394,2391,4.0,9,-0.47,20,-9.4,"Panesar, Vedant",f,2420.0,False,IND,0.5,1,0.04,20,0.8
+25748580,2024-11-01,0,First Saturday 2024 October GM,Budapest HUN,2024-10-05,2024-10-12,2394,2391,4.0,9,-0.47,20,-9.4,"Neverov, Valeriy",g,2423.0,False,UKR,0.5,1,0.04,20,0.8
+25748580,2024-11-01,0,First Saturday 2024 October GM,Budapest HUN,2024-10-05,2024-10-12,2394,2391,4.0,9,-0.47,20,-9.4,"Kovalev, Andrei",g,2412.0,False,BLR,0.5,1,0.03,20,0.6
+25748580,2024-11-01,0,First Saturday 2024 October GM,Budapest HUN,2024-10-05,2024-10-12,2394,2391,4.0,9,-0.47,20,-9.4,"Berczes, David",g,2400.0,False,HUN,0.5,1,0.01,20,0.2
+25748580,2024-11-01,0,Vezerkepzo Harvest 2024 GM,Budapest HUN,2024-10-14,2024-10-19,2384,2391,4.0,9,-0.6,20,-12.0,"Lohia, Sohum",f,2388.0,False,ENG,0.5,1,0.0,20,0.0
+25748580,2024-11-01,0,Vezerkepzo Harvest 2024 GM,Budapest HUN,2024-10-14,2024-10-19,2384,2391,4.0,9,-0.6,20,-12.0,"Panesar, Vedant",f,2420.0,False,IND,0.0,1,-0.46,20,-9.2
+25748580,2024-11-01,0,Vezerkepzo Harvest 2024 GM,Budapest HUN,2024-10-14,2024-10-19,2384,2391,4.0,9,-0.6,20,-12.0,"Galyas, Miklos",g,2394.0,False,HUN,1.0,1,0.5,20,10.0
+25748580,2024-11-01,0,Vezerkepzo Harvest 2024 GM,Budapest HUN,2024-10-14,2024-10-19,2384,2391,4.0,9,-0.6,20,-12.0,"Savitha, Shri B",wg,2348.0,False,IND,0.5,1,-0.06,20,-1.2
+25748580,2024-11-01,0,Vezerkepzo Harvest 2024 GM,Budapest HUN,2024-10-14,2024-10-19,2384,2391,4.0,9,-0.6,20,-12.0,"Priansh, Das",,2317.0,False,IND,0.5,1,-0.1,20,-2.0
+25748580,2024-11-01,0,Vezerkepzo Harvest 2024 GM,Budapest HUN,2024-10-14,2024-10-19,2384,2391,4.0,9,-0.6,20,-12.0,"Neverov, Valeriy",g,2423.0,False,UKR,0.0,1,-0.46,20,-9.2
+25748580,2024-11-01,0,Vezerkepzo Harvest 2024 GM,Budapest HUN,2024-10-14,2024-10-19,2384,2391,4.0,9,-0.6,20,-12.0,"Juhasz, Agoston",f,2414.0,False,HUN,0.5,1,0.03,20,0.6
+25748580,2024-11-01,0,Vezerkepzo Harvest 2024 GM,Budapest HUN,2024-10-14,2024-10-19,2384,2391,4.0,9,-0.6,20,-12.0,"Kovalev, Andrei",g,2412.0,False,BLR,0.0,1,-0.47,20,-9.4
+25748580,2024-11-01,0,Vezerkepzo Harvest 2024 GM,Budapest HUN,2024-10-14,2024-10-19,2384,2391,4.0,9,-0.6,20,-12.0,"Sriansh, Das",,2336.0,False,IND,1.0,1,0.42,20,8.4
+25748580,2024-11-01,0,Vezerkepzo October 2024 IM,Budapest HUN,2024-10-20,2024-10-27,2297,2391,5.5,10,-0.76,20,-15.2,"Jakab, Attila",m,2234.0,False,HUN,1.0,1,0.29,20,5.8
+25748580,2024-11-01,0,Vezerkepzo October 2024 IM,Budapest HUN,2024-10-20,2024-10-27,2297,2391,5.5,10,-0.76,20,-15.2,"Pang, Ethan",c,2233.0,False,ENG,0.0,1,-0.71,20,-14.2
+25748580,2024-11-01,0,Vezerkepzo October 2024 IM,Budapest HUN,2024-10-20,2024-10-27,2297,2391,5.5,10,-0.76,20,-15.2,"Czebe, Attila",g,2299.0,False,HUN,1.0,1,0.37,20,7.4
+25748580,2024-11-01,0,Vezerkepzo October 2024 IM,Budapest HUN,2024-10-20,2024-10-27,2297,2391,5.5,10,-0.76,20,-15.2,"Pacher, Milan",g,2309.0,False,SVK,0.5,1,-0.11,20,-2.2
+25748580,2024-11-01,0,Vezerkepzo October 2024 IM,Budapest HUN,2024-10-20,2024-10-27,2297,2391,5.5,10,-0.76,20,-15.2,"Bokros, Albert",m,2409.0,False,HUN,0.5,1,0.03,20,0.6
+25748580,2024-11-01,0,Vezerkepzo October 2024 IM,Budapest HUN,2024-10-20,2024-10-27,2297,2391,5.5,10,-0.76,20,-15.2,"Jakab, Attila",m,2234.0,False,HUN,0.0,1,-0.71,20,-14.2
+25748580,2024-11-01,0,Vezerkepzo October 2024 IM,Budapest HUN,2024-10-20,2024-10-27,2297,2391,5.5,10,-0.76,20,-15.2,"Pang, Ethan",c,2233.0,False,ENG,1.0,1,0.29,20,5.8
+25748580,2024-11-01,0,Vezerkepzo October 2024 IM,Budapest HUN,2024-10-20,2024-10-27,2297,2391,5.5,10,-0.76,20,-15.2,"Czebe, Attila",g,2299.0,False,HUN,0.5,1,-0.13,20,-2.6
+25748580,2024-11-01,0,Vezerkepzo October 2024 IM,Budapest HUN,2024-10-20,2024-10-27,2297,2391,5.5,10,-0.76,20,-15.2,"Pacher, Milan",g,2309.0,False,SVK,0.5,1,-0.11,20,-2.2
+25748580,2024-11-01,0,Vezerkepzo October 2024 IM,Budapest HUN,2024-10-20,2024-10-27,2297,2391,5.5,10,-0.76,20,-15.2,"Bokros, Albert",m,2409.0,False,HUN,0.5,1,0.03,20,0.6

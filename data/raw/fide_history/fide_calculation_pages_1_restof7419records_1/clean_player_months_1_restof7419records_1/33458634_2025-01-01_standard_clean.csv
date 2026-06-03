@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33458634,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2216,1938,4.5,9,2.81,40,112.4,"Deepan, Chakkravarthy J.",g,2338,True,IND,0.0,1,-0.08,40,-3.2
+33458634,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2216,1938,4.5,9,2.81,40,112.4,"Fang, Kun",wc,1825,False,SGP,1.0,1,0.35,40,14.0
+33458634,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2216,1938,4.5,9,2.81,40,112.4,"De Guzman, Ricardo",m,2255,False,PHI,1.0,1,0.87,40,34.8
+33458634,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2216,1938,4.5,9,2.81,40,112.4,"Budhidharma, Nayaka",m,2276,False,INA,0.0,1,-0.12,40,-4.8
+33458634,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2216,1938,4.5,9,2.81,40,112.4,"Zia, Tahsin Tajwar",f,2294,False,BAN,1.0,1,0.89,40,35.6
+33458634,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2216,1938,4.5,9,2.81,40,112.4,"Apoorv, Kamble",f,2290,False,IND,0.5,1,0.39,40,15.6
+33458634,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2216,1938,4.5,9,2.81,40,112.4,"Canino, Ruelle",wf,2264,False,PHI,0.5,1,0.37,40,14.8
+33458634,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2216,1938,4.5,9,2.81,40,112.4,"Asuela, Ellan",f,2236,False,PHI,0.0,1,-0.15,40,-6.0
+33458634,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2216,1938,4.5,9,2.81,40,112.4,"Gueci, Tea",wm,2167,False,ITA,0.5,1,0.29,40,11.6

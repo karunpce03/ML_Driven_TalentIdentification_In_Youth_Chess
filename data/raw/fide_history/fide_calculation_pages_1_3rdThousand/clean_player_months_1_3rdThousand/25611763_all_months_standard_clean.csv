@@ -1,0 +1,31 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25611763,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1433,1540,2.5,4,-0.09,40,-3.6,"Aarush, Y M",,1427.0,False,IND,0.5,1,-0.15,40,-6.0
+25611763,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1433,1540,2.5,4,-0.09,40,-3.6,"Harsith, V",,1453.0,False,IND,1.0,1,0.38,40,15.2
+25611763,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1433,1540,2.5,4,-0.09,40,-3.6,"Sajeev, R R",,1441.0,False,IND,0.0,1,-0.64,40,-25.6
+25611763,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1433,1540,2.5,4,-0.09,40,-3.6,"Goutam, S",,1409.0,False,IND,1.0,1,0.32,40,12.8
+25611763,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1741,1536,0.0,2,-0.48,40,-19.2,"Sidharth, Sreekumar",,1732.0,False,IND,0.0,1,-0.25,40,-10.0
+25611763,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1741,1536,0.0,2,-0.48,40,-19.2,"Shanmathi, Sree S",,1750.0,False,IND,0.0,1,-0.23,40,-9.2
+25611763,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1747,1517,4.0,10,1.8,40,72.0,"Saranya, Devi Narahari",,1831.0,False,IND,0.0,1,-0.14,40,-5.6
+25611763,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1747,1517,4.0,10,1.8,40,72.0,"Disha, U A",,1662.0,False,IND,1.0,1,0.69,40,27.6
+25611763,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1747,1517,4.0,10,1.8,40,72.0,"Lakshanaa, R",,1752.0,False,IND,1.0,1,0.79,40,31.6
+25611763,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1747,1517,4.0,10,1.8,40,72.0,"Femil, Chelladurai",,1868.0,False,IND,0.0,1,-0.11,40,-4.4
+25611763,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1747,1517,4.0,10,1.8,40,72.0,"Sinthia, Sarkar",,1722.0,False,IND,1.0,1,0.76,40,30.4
+25611763,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1747,1517,4.0,10,1.8,40,72.0,"Gorli, Nyna",,1865.0,False,IND,0.0,1,-0.11,40,-4.4
+25611763,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1747,1517,4.0,10,1.8,40,72.0,"Tanya, Verma",,1694.0,False,IND,0.0,1,-0.27,40,-10.8
+25611763,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1747,1517,4.0,10,1.8,40,72.0,"Sevitha, Viju M",,1652.0,False,IND,1.0,1,0.68,40,27.2
+25611763,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1747,1517,4.0,10,1.8,40,72.0,"Khuanna, Kapoor",,1682.0,False,IND,0.0,1,-0.28,40,-11.2
+25611763,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1747,1517,4.0,10,1.8,40,72.0,"Falak, Joni Naik",,1745.0,False,IND,0.0,1,-0.21,40,-8.4
+25611763,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard G17,Bangkok THA,2024-12-03,2024-12-09,1758,1589,1.0,6,-0.72,40,-28.8,"Ospanova, Adelya",,1842.0,False,KAZ,1.0,1,0.81,40,32.4
+25611763,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard G17,Bangkok THA,2024-12-03,2024-12-09,1758,1589,1.0,6,-0.72,40,-28.8,"Vo, Dinh Khai My",,1794.0,False,VIE,0.0,1,-0.24,40,-9.6
+25611763,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard G17,Bangkok THA,2024-12-03,2024-12-09,1758,1589,1.0,6,-0.72,40,-28.8,"Radhika, Sharma",,1642.0,False,IND,0.0,1,-0.43,40,-17.2
+25611763,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard G17,Bangkok THA,2024-12-03,2024-12-09,1758,1589,1.0,6,-0.72,40,-28.8,"Sindhusree, K",,1869.0,False,IND,0.0,1,-0.16,40,-6.4
+25611763,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard G17,Bangkok THA,2024-12-03,2024-12-09,1758,1589,1.0,6,-0.72,40,-28.8,"Kaliakhmet, Eldana",,1675.0,False,KAZ,0.0,1,-0.38,40,-15.2
+25611763,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard G17,Bangkok THA,2024-12-03,2024-12-09,1758,1589,1.0,6,-0.72,40,-28.8,"Syahirah, Quinsha Adinda",,1726.0,False,INA,0.0,1,-0.32,40,-12.8
+25611763,2025-02-01,0,U 17 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1645,1560,4.5,8,1.32,40,52.8,"Sahana, Shainsha",,1703.0,False,IND,1.0,1,0.69,40,27.6
+25611763,2025-02-01,0,U 17 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1645,1560,4.5,8,1.32,40,52.8,"Padmini, Panigrahi",,1553.0,False,IND,0.0,1,-0.51,40,-20.4
+25611763,2025-02-01,0,U 17 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1645,1560,4.5,8,1.32,40,52.8,"Sananda, R",,1746.0,False,IND,0.0,1,-0.26,40,-10.4
+25611763,2025-02-01,0,U 17 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1645,1560,4.5,8,1.32,40,52.8,"Pallavi, Banothu",,1402.0,False,IND,1.0,1,0.29,40,11.6
+25611763,2025-02-01,0,U 17 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1645,1560,4.5,8,1.32,40,52.8,"Kanak, Dubey",,1592.0,False,IND,1.0,1,0.54,40,21.6
+25611763,2025-02-01,0,U 17 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1645,1560,4.5,8,1.32,40,52.8,"Behera, Snehayukta",,1622.0,False,IND,0.0,1,-0.41,40,-16.4
+25611763,2025-02-01,0,U 17 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1645,1560,4.5,8,1.32,40,52.8,"Sandhana, D",,1608.0,False,IND,1.0,1,0.57,40,22.8
+25611763,2025-02-01,0,U 17 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1645,1560,4.5,8,1.32,40,52.8,"Ananya, Raman",,1936.0,False,IND,0.5,1,0.41,40,16.4

@@ -1,0 +1,45 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33481440,2024-07-01,0,CASPL 2nd FIDE Rated Standard Tournament 2024,Singapore SGP,2024-06-15,2024-06-16,,,0.0,2,0.0,684,,"Aw, Kai Le Andrew",,1512.0,False,SGP,0.0,1,0.0,,0.0
+33481440,2024-07-01,0,CASPL 2nd FIDE Rated Standard Tournament 2024,Singapore SGP,2024-06-15,2024-06-16,,,0.0,2,0.0,684,,"Oh, Kang Le Clifford",,1455.0,False,SGP,0.0,1,0.0,,0.0
+33481440,2024-07-01,0,1st Singapore Management University Chess Classic 2024,Singapore SGP,2024-06-18,2024-06-22,,,1.0,4,0.0,1412,,"Vijay, Rege",,1829.0,False,SGP,0.0,1,0.0,,0.0
+33481440,2024-07-01,0,1st Singapore Management University Chess Classic 2024,Singapore SGP,2024-06-18,2024-06-22,,,1.0,4,0.0,1412,,"Lim, Shi Han Magnus",,1500.0,False,SGP,0.0,1,0.0,,0.0
+33481440,2024-07-01,0,1st Singapore Management University Chess Classic 2024,Singapore SGP,2024-06-18,2024-06-22,,,1.0,4,0.0,1412,,"Poon, Zhi Xin",,1511.0,False,SGP,1.0,1,0.0,,0.0
+33481440,2024-07-01,0,1st Singapore Management University Chess Classic 2024,Singapore SGP,2024-06-18,2024-06-22,,,1.0,4,0.0,1412,,"Chung, Fredric Alexander",,1580.0,False,PHI,0.0,1,0.0,,0.0
+33481440,2024-11-01,0,SCF Training Tournament Q4 2024,Singapore SGP,2024-09-28,2024-09-29,,,2.5,4,0.0,1534,,"Ng, Yu Cheng Rigel",,1554.0,False,SGP,0.5,1,0.0,,0.0
+33481440,2024-11-01,0,SCF Training Tournament Q4 2024,Singapore SGP,2024-09-28,2024-09-29,,,2.5,4,0.0,1534,,"Ohng, Wei Zhe Quilliam",,1509.0,False,SGP,1.0,1,0.0,,0.0
+33481440,2024-11-01,0,SCF Training Tournament Q4 2024,Singapore SGP,2024-09-28,2024-09-29,,,2.5,4,0.0,1534,,"Daniel, Thomas John",,1517.0,False,SGP,0.0,1,0.0,,0.0
+33481440,2024-11-01,0,SCF Training Tournament Q4 2024,Singapore SGP,2024-09-28,2024-09-29,,,2.5,4,0.0,1534,,"Wong, Wan Qi",,1474.0,False,SGP,1.0,1,0.0,,0.0
+33481440,2024-12-01,0,1st MISI (U2200) Pontian Chess Championship 2024,"Pontian, Johor MAS",2024-10-31,2024-11-03,1641.0,1571.0,0.5,6,-1.96,40,-78.4,"Sreekarthika, Velmurugan",wc,1804.0,False,SGP,0.0,1,-0.21,40.0,-8.4
+33481440,2024-12-01,0,1st MISI (U2200) Pontian Chess Championship 2024,"Pontian, Johor MAS",2024-10-31,2024-11-03,1641.0,1571.0,0.5,6,-1.96,40,-78.4,"Mohd Faris, Ibroh Nawwaarah",,1560.0,False,MAS,0.0,1,-0.52,40.0,-20.8
+33481440,2024-12-01,0,1st MISI (U2200) Pontian Chess Championship 2024,"Pontian, Johor MAS",2024-10-31,2024-11-03,1641.0,1571.0,0.5,6,-1.96,40,-78.4,"Halomoan, Marco Matheus",,1688.0,False,INA,0.0,1,-0.34,40.0,-13.6
+33481440,2024-12-01,0,1st MISI (U2200) Pontian Chess Championship 2024,"Pontian, Johor MAS",2024-10-31,2024-11-03,1641.0,1571.0,0.5,6,-1.96,40,-78.4,"Lee, San Seng",,1660.0,False,MAS,0.5,1,0.12,40.0,4.8
+33481440,2024-12-01,0,1st MISI (U2200) Pontian Chess Championship 2024,"Pontian, Johor MAS",2024-10-31,2024-11-03,1641.0,1571.0,0.5,6,-1.96,40,-78.4,"Goh, Keng Hing",,1620.0,False,MAS,0.0,1,-0.43,40.0,-17.2
+33481440,2024-12-01,0,1st MISI (U2200) Pontian Chess Championship 2024,"Pontian, Johor MAS",2024-10-31,2024-11-03,1641.0,1571.0,0.5,6,-1.96,40,-78.4,"Beh, Yap Long Roger",,1511.0,False,MAS,0.0,1,-0.58,40.0,-23.2
+33481440,2024-12-01,0,CASPL 3rd FIDE Rated Standard Chess Championships Open 2024,Singapore SGP,2024-11-16,2024-11-17,1541.0,1571.0,1.5,3,-0.12,40,-4.8,"Gozali, Isaac",,1621.0,False,SGP,0.0,1,-0.43,40.0,-17.2
+33481440,2024-12-01,0,CASPL 3rd FIDE Rated Standard Chess Championships Open 2024,Singapore SGP,2024-11-16,2024-11-17,1541.0,1571.0,1.5,3,-0.12,40,-4.8,"Oh, Kang Le Clifford",,1437.0,False,SGP,1.0,1,0.32,40.0,12.8
+33481440,2024-12-01,0,CASPL 3rd FIDE Rated Standard Chess Championships Open 2024,Singapore SGP,2024-11-16,2024-11-17,1541.0,1571.0,1.5,3,-0.12,40,-4.8,"Cheng, Aiden",,1565.0,False,USA,0.5,1,-0.01,40.0,-0.4
+33481440,2024-12-01,0,Singapore National Age Group Chess Championships U12,Singapore SGP,2024-11-24,2024-11-28,1474.0,1571.0,2.0,3,0.1,40,4.0,"Lim, Dao Xun Kayden",,1432.0,False,SGP,0.5,1,-0.19,40.0,-7.6
+33481440,2024-12-01,0,Singapore National Age Group Chess Championships U12,Singapore SGP,2024-11-24,2024-11-28,1474.0,1571.0,2.0,3,0.1,40,4.0,"Rice, Lana",,1467.0,False,SGP,1.0,1,0.36,40.0,14.4
+33481440,2024-12-01,0,Singapore National Age Group Chess Championships U12,Singapore SGP,2024-11-24,2024-11-28,1474.0,1571.0,2.0,3,0.1,40,4.0,"Kwan, Alexander",,1522.0,False,SGP,0.5,1,-0.07,40.0,-2.8
+33481440,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1747.0,1571.0,2.0,6,0.37,40,14.8,"Kuo, Huazhen Nicholas",,1732.0,False,SGP,0.0,1,-0.29,40.0,-11.6
+33481440,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1747.0,1571.0,2.0,6,0.37,40,14.8,"Usman, Mark Gabriel",,1839.0,False,PHI,0.5,1,0.33,40.0,13.2
+33481440,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1747.0,1571.0,2.0,6,0.37,40,14.8,"Vujasin, Nikola",,1695.0,False,AUS,0.5,1,0.17,40.0,6.8
+33481440,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1747.0,1571.0,2.0,6,0.37,40,14.8,"Loh, Weng Fook",,1713.0,False,SGP,0.5,1,0.19,40.0,7.6
+33481440,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1747.0,1571.0,2.0,6,0.37,40,14.8,"Zalucka, Emilia",,1756.0,False,POL,0.5,1,0.24,40.0,9.6
+33481440,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1747.0,1571.0,2.0,6,0.37,40,14.8,"Wagner, Alexander",,1749.0,False,FID,0.0,1,-0.27,40.0,-10.8
+33481440,2025-02-01,0,Go Checkmate 12th FIDE rated Standard Chess Tournament,Singapore SGP,2025-01-18,2025-01-19,1578.0,1507.0,1.0,3,-0.21,40,-8.4,"Law, Dominic",,1622.0,False,SGP,0.0,1,-0.34,40.0,-13.6
+33481440,2025-02-01,0,Go Checkmate 12th FIDE rated Standard Chess Tournament,Singapore SGP,2025-01-18,2025-01-19,1578.0,1507.0,1.0,3,-0.21,40,-8.4,"Wang, Mi Ya Mia",,1472.0,False,SGP,1.0,1,0.45,40.0,18.0
+33481440,2025-02-01,0,Go Checkmate 12th FIDE rated Standard Chess Tournament,Singapore SGP,2025-01-18,2025-01-19,1578.0,1507.0,1.0,3,-0.21,40,-8.4,"Agarwal, Madhav",,1640.0,False,SGP,0.0,1,-0.32,40.0,-12.8
+33481440,2025-03-01,0,Go Checkmate 15th FIDE Rated Standard Chess Tournament 2025,Singapore SGP,2025-01-29,2025-01-30,1600.0,1507.0,1.0,3,-0.12,40,-4.8,"Naresh, Kumar",,1625.0,False,IND,0.0,1,-0.34,40.0,-13.6
+33481440,2025-03-01,0,Go Checkmate 15th FIDE Rated Standard Chess Tournament 2025,Singapore SGP,2025-01-29,2025-01-30,1600.0,1507.0,1.0,3,-0.12,40,-4.8,"Akhila, Anand",,1519.0,False,FID,1.0,1,0.52,40.0,20.8
+33481440,2025-03-01,0,Go Checkmate 15th FIDE Rated Standard Chess Tournament 2025,Singapore SGP,2025-01-29,2025-01-30,1600.0,1507.0,1.0,3,-0.12,40,-4.8,"Timothy, Gerard Lopez",,1655.0,False,SGP,0.0,1,-0.3,40.0,-12.0
+33481440,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1641.0,1499.0,3.0,6,1.14,40,45.6,"Agung, Rinaldi Santoso",,1645.0,False,INA,1.0,1,0.7,40.0,28.0
+33481440,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1641.0,1499.0,3.0,6,1.14,40,45.6,"Mithun, Pranav",,1653.0,False,IND,0.0,1,-0.29,40.0,-11.6
+33481440,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1641.0,1499.0,3.0,6,1.14,40,45.6,"Velmurugan Priyasudharsana, Ishaa",,1599.0,False,IND,0.0,1,-0.36,40.0,-14.4
+33481440,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1641.0,1499.0,3.0,6,1.14,40,45.6,"Law, Dominic",,1670.0,False,SGP,1.0,1,0.73,40.0,29.2
+33481440,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1641.0,1499.0,3.0,6,1.14,40,45.6,"Chan, Jing Fong Joash",,1732.0,False,SGP,0.0,1,-0.21,40.0,-8.4
+33481440,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1641.0,1499.0,3.0,6,1.14,40,45.6,"Singh, Shivam",,1549.0,False,SGP,1.0,1,0.57,40.0,22.8
+33481440,2025-04-01,0,2025 Q1 SCF Training Tournament,Singapore SGP,2025-03-01,2025-03-02,1606.0,1540.0,2.0,4,0.35,40,14.0,"Chong, Yong Qian",,1616.0,False,SGP,0.0,1,-0.4,40.0,-16.0
+33481440,2025-04-01,0,2025 Q1 SCF Training Tournament,Singapore SGP,2025-03-01,2025-03-02,1606.0,1540.0,2.0,4,0.35,40,14.0,"Lim, Shi Han Magnus",,1568.0,False,SGP,1.0,1,0.54,40.0,21.6
+33481440,2025-04-01,0,2025 Q1 SCF Training Tournament,Singapore SGP,2025-03-01,2025-03-02,1606.0,1540.0,2.0,4,0.35,40,14.0,"Wee, Yu Heng Lucas John",,1682.0,False,SGP,0.0,1,-0.31,40.0,-12.4
+33481440,2025-04-01,0,2025 Q1 SCF Training Tournament,Singapore SGP,2025-03-01,2025-03-02,1606.0,1540.0,2.0,4,0.35,40,14.0,"Yap, Ding Xuan",,1557.0,False,SGP,1.0,1,0.52,40.0,20.8

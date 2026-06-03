@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429009650,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1587,1616,5.0,7,1.14,40,45.6,"Dheeran, Y P",,1422.0,False,IND,1.0,1,0.25,40,10.0
+429009650,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1587,1616,5.0,7,1.14,40,45.6,"Dhanush, Ragav N S",,1994.0,False,IND,0.0,1,-0.09,40,-3.6
+429009650,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1587,1616,5.0,7,1.14,40,45.6,"Akilan, M S",,1449.0,False,IND,1.0,1,0.28,40,11.2
+429009650,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1587,1616,5.0,7,1.14,40,45.6,"Kavin, Hanush Ram S",,1483.0,False,IND,1.0,1,0.32,40,12.8
+429009650,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1587,1616,5.0,7,1.14,40,45.6,"Sunil Dev, S",,1771.0,False,IND,0.0,1,-0.29,40,-11.6
+429009650,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1587,1616,5.0,7,1.14,40,45.6,"Arjun, J P",,1492.0,False,IND,1.0,1,0.33,40,13.2
+429009650,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1587,1616,5.0,7,1.14,40,45.6,"Godson, Jares",,1500.0,False,IND,1.0,1,0.34,40,13.6

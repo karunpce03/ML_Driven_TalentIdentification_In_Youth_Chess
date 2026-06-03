@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48788538,2025-03-01,0,CCC Tuesday Night Action 116,"Charlotte, NC USA",2025-02-04,2025-02-25,1701,1583,1.5,3,0.46,40,18.4,"Vinodh Kumar, Trishona",,1728.0,False,USA,0.5,1,0.19,40,7.6
+48788538,2025-03-01,0,CCC Tuesday Night Action 116,"Charlotte, NC USA",2025-02-04,2025-02-25,1701,1583,1.5,3,0.46,40,18.4,"Jagga, Rohit",,1768.0,False,USA,0.0,1,-0.26,40,-10.4
+48788538,2025-03-01,0,CCC Tuesday Night Action 116,"Charlotte, NC USA",2025-02-04,2025-02-25,1701,1583,1.5,3,0.46,40,18.4,"Karki, Shreyas",,1606.0,False,USA,1.0,1,0.53,40,21.2

@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33397937,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1569,1834,4.5,7,-1.12,40,-44.8,"Nyrav, Gopalakrishnan",,1437,False,IND,1.0,1,0.08,40,3.2
+33397937,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1569,1834,4.5,7,-1.12,40,-44.8,"Kanushi, Kishore",,1502,False,IND,1.0,1,0.12,40,4.8
+33397937,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1569,1834,4.5,7,-1.12,40,-44.8,"Dhruvi, Shrikant Panigrahi",,1612,False,IND,1.0,1,0.22,40,8.8
+33397937,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1569,1834,4.5,7,-1.12,40,-44.8,"Navaneet, Sreekanth",,1732,False,IND,1.0,1,0.36,40,14.4
+33397937,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1569,1834,4.5,7,-1.12,40,-44.8,"Palaash, Suyog Mapara",,1501,False,IND,0.5,1,-0.38,40,-15.2
+33397937,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1569,1834,4.5,7,-1.12,40,-44.8,"Taher, Mohamed",,1762,False,BRN,0.0,1,-0.6,40,-24.0
+33397937,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1569,1834,4.5,7,-1.12,40,-44.8,"Mikael, Vivek Joseph",,1434,True,IND,0.0,1,-0.92,40,-36.8

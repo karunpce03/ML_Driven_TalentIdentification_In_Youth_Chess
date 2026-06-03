@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25770624,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2322,2182,4.0,8,1.46,40,58.4,"Seretakis, Nikolas",,2004.0,False,GRE,1.0,1,0.27,40,10.8
+25770624,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2322,2182,4.0,8,1.46,40,58.4,"Sofronie, Iulian",m,2360.0,False,ROU,0.5,1,0.23,40,9.2
+25770624,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2322,2182,4.0,8,1.46,40,58.4,"Kalogridis, Antonios",f,2391.0,False,GRE,1.0,1,0.77,40,30.8
+25770624,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2322,2182,4.0,8,1.46,40,58.4,"Padmini, Rout",m,2348.0,False,IND,0.5,1,0.22,40,8.8
+25770624,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2322,2182,4.0,8,1.46,40,58.4,"Kanakaris, Georgios",m,2402.0,False,GRE,0.5,1,0.28,40,11.2
+25770624,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2322,2182,4.0,8,1.46,40,58.4,"Krallis, Christos",f,2348.0,False,GRE,0.0,1,-0.28,40,-11.2
+25770624,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2322,2182,4.0,8,1.46,40,58.4,"Kuru, Atilla",f,2372.0,False,TUR,0.5,1,0.25,40,10.0
+25770624,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2322,2182,4.0,8,1.46,40,58.4,"Stefanou, Dimitrios",f,2347.0,False,GRE,0.0,1,-0.28,40,-11.2
+25770624,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2390,2224,3.5,9,0.94,40,37.6,"Senthil, Maran K",f,2411.0,False,IND,0.5,1,0.24,40,9.6
+25770624,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2390,2224,3.5,9,0.94,40,37.6,"Darini, Pouria",g,2399.0,False,IRI,1.0,1,0.73,40,29.2
+25770624,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2390,2224,3.5,9,0.94,40,37.6,"Chanda, Sandipan",g,2488.0,False,IND,0.0,1,-0.18,40,-7.2
+25770624,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2390,2224,3.5,9,0.94,40,37.6,"Audi, Ameya",m,2407.0,False,IND,0.5,1,0.24,40,9.6
+25770624,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2390,2224,3.5,9,0.94,40,37.6,"Hari, Madhavan N B",m,2386.0,False,IND,0.0,1,-0.29,40,-11.6
+25770624,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2390,2224,3.5,9,0.94,40,37.6,"Vantika, Agrawal",m wg,2362.0,False,IND,0.0,1,-0.31,40,-12.4
+25770624,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2390,2224,3.5,9,0.94,40,37.6,"Mammadova, Narmin",wm,2327.0,False,AZE,1.0,1,0.64,40,25.6
+25770624,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2390,2224,3.5,9,0.94,40,37.6,"Zhai, Mo",wg,2359.0,False,CHN,0.0,1,-0.32,40,-12.8
+25770624,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2390,2224,3.5,9,0.94,40,37.6,"Namitbir, Singh Walia",f,2367.0,False,IND,0.5,1,0.19,40,7.6

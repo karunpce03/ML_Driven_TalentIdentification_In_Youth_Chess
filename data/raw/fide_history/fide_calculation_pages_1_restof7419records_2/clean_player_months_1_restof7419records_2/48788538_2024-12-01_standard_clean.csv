@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48788538,2024-12-01,0,Charlotte CC Tuesday Night Action 113,"Charlotte, NC USA",2024-11-05,2024-11-26,1679,1580,0.0,3,-1.1,40,-44.0,"Rajagopal, Akshay",,1681.0,False,USA,0.0,1,-0.36,40,-14.4
+48788538,2024-12-01,0,Charlotte CC Tuesday Night Action 113,"Charlotte, NC USA",2024-11-05,2024-11-26,1679,1580,0.0,3,-1.1,40,-44.0,"Pineda-Bermudez, Mario",,1616.0,False,USA,0.0,1,-0.45,40,-18.0
+48788538,2024-12-01,0,Charlotte CC Tuesday Night Action 113,"Charlotte, NC USA",2024-11-05,2024-11-26,1679,1580,0.0,3,-1.1,40,-44.0,"Petersen, Sidney",,1740.0,False,USA,0.0,1,-0.29,40,-11.6

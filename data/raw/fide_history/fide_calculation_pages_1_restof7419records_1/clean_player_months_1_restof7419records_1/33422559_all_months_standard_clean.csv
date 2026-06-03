@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33422559,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1679,1494,0.0,1,-0.26,40,-10.4,"Shriram, Kailas Mhasane",,1679.0,False,IND,0.0,1,-0.26,40,-10.4
+33422559,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1410,1484,0.0,1,-0.6,40,-24.0,"Kivishyashree, K",,1410.0,False,IND,0.0,1,-0.6,40,-24.0

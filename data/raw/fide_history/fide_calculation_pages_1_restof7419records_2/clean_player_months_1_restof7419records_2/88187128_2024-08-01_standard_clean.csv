@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88187128,2024-08-01,0,2024 Phoenix Cup,Adelaide AUS,2024-06-29,2024-06-30,,,4.0,5,0.0,1624,,"Jindal, Tarush",,1692,False,AUS,0.5,1,0.0,,0.0
+88187128,2024-08-01,0,2024 Phoenix Cup,Adelaide AUS,2024-06-29,2024-06-30,,,4.0,5,0.0,1624,,"Chen, Cindy",,1518,False,AUS,1.0,1,0.0,,0.0
+88187128,2024-08-01,0,2024 Phoenix Cup,Adelaide AUS,2024-06-29,2024-06-30,,,4.0,5,0.0,1624,,"Schiavone, Isaac",,1525,False,AUS,1.0,1,0.0,,0.0
+88187128,2024-08-01,0,2024 Phoenix Cup,Adelaide AUS,2024-06-29,2024-06-30,,,4.0,5,0.0,1624,,"Lavrentiadis, Gabriel",,1540,False,AUS,1.0,1,0.0,,0.0
+88187128,2024-08-01,0,2024 Phoenix Cup,Adelaide AUS,2024-06-29,2024-06-30,,,4.0,5,0.0,1624,,"Chen, Charlotte",,1544,False,AUS,0.5,1,0.0,,0.0
+88187128,2024-08-01,0,2024 SA Checkmate FIDE Challengers,Adelaide AUS,2024-07-13,2024-07-14,,,2.0,4,0.0,1476,,"Cirami, Oliver",,1517,False,AUS,0.0,1,0.0,,0.0
+88187128,2024-08-01,0,2024 SA Checkmate FIDE Challengers,Adelaide AUS,2024-07-13,2024-07-14,,,2.0,4,0.0,1476,,"Xiang, Tony",,1410,False,AUS,1.0,1,0.0,,0.0
+88187128,2024-08-01,0,2024 SA Checkmate FIDE Challengers,Adelaide AUS,2024-07-13,2024-07-14,,,2.0,4,0.0,1476,,"Parikh, Pradyun",,1551,False,AUS,1.0,1,0.0,,0.0
+88187128,2024-08-01,0,2024 SA Checkmate FIDE Challengers,Adelaide AUS,2024-07-13,2024-07-14,,,2.0,4,0.0,1476,,"Caruso, Connor",,1426,False,AUS,0.0,1,0.0,,0.0
+88187128,2024-08-01,0,2024 City of Adelaide Championship Rounds 1-2,Adelaide AUS,2024-07-16,2024-07-23,,,1.0,1,0.0,1768,,"Newbold, Charles",,1748,False,AUS,1.0,1,0.0,,0.0

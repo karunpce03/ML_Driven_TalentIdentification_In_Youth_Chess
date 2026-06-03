@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33389616,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1920,1615,4.5,9,3.16,40,126.4,"Krisha, Tamhant Jain",,1835,False,IND,0.5,1,0.28,40,11.2
+33389616,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1920,1615,4.5,9,3.16,40,126.4,"Arakelyan, Manvel",,2015,True,ARM,1.0,1,0.92,40,36.8
+33389616,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1920,1615,4.5,9,3.16,40,126.4,"Abuazizah, Raji",,1896,False,PLE,1.0,1,0.84,40,33.6
+33389616,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1920,1615,4.5,9,3.16,40,126.4,"Sasikumar, Anusweud",,1925,False,IND,0.0,1,-0.14,40,-5.6
+33389616,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1920,1615,4.5,9,3.16,40,126.4,"Delloro, Noli",,1884,False,PHI,1.0,1,0.83,40,33.2
+33389616,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1920,1615,4.5,9,3.16,40,126.4,"Redor, Menandro",,2015,True,PHI,0.0,1,-0.08,40,-3.2
+33389616,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1920,1615,4.5,9,3.16,40,126.4,"Abdulrahim, Salem",,1824,False,UAE,1.0,1,0.77,40,30.8
+33389616,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1920,1615,4.5,9,3.16,40,126.4,"Nadir, Samir",f,2015,True,SUD,0.0,1,-0.08,40,-3.2
+33389616,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1920,1615,4.5,9,3.16,40,126.4,"Tisado, Janmyl Dilan",,1875,False,PHI,0.0,1,-0.18,40,-7.2

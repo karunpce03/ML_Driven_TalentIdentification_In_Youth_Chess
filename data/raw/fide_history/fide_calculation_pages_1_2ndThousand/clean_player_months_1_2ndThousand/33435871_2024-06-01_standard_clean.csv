@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33435871,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1613,1747,5.0,8,-0.43,40,-17.2,"Anirudh, Nautiyal",,1459,False,IND,0.5,1,-0.34,40,-13.6
+33435871,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1613,1747,5.0,8,-0.43,40,-17.2,"Khayalvizhi, Kamesh",,1456,False,IND,1.0,1,0.15,40,6.0
+33435871,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1613,1747,5.0,8,-0.43,40,-17.2,"Arhaan, Agrawal",,1523,False,IND,0.5,1,-0.28,40,-11.2
+33435871,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1613,1747,5.0,8,-0.43,40,-17.2,"Rawat, Rakesh Singh",,1527,False,IND,1.0,1,0.22,40,8.8
+33435871,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1613,1747,5.0,8,-0.43,40,-17.2,Divyansh,,1624,False,IND,1.0,1,0.33,40,13.2
+33435871,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1613,1747,5.0,8,-0.43,40,-17.2,"Aaryan, Varshney",f,2147,True,IND,0.0,1,-0.08,40,-3.2
+33435871,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1613,1747,5.0,8,-0.43,40,-17.2,"Saransh, Dabas",,1557,False,IND,1.0,1,0.25,40,10.0
+33435871,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1613,1747,5.0,8,-0.43,40,-17.2,"Abhyudaya, Matta",,1612,False,IND,0.0,1,-0.68,40,-27.2

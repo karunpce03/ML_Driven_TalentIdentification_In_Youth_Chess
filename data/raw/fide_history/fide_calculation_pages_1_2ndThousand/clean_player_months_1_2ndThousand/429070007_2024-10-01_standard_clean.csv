@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429070007,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1536,1439,2.5,5,0.65,40,26.0,"Yuvan, Saini",,1523.0,False,IND,1.0,1,0.62,40,24.8
+429070007,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1536,1439,2.5,5,0.65,40,26.0,"Ayansh, Singh",,1644.0,False,IND,0.0,1,-0.24,40,-9.6
+429070007,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1536,1439,2.5,5,0.65,40,26.0,"Shivay, Singh",,1540.0,False,IND,0.5,1,0.14,40,5.6
+429070007,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1536,1439,2.5,5,0.65,40,26.0,"Annepu, Sashank",,1513.0,False,IND,1.0,1,0.6,40,24.0
+429070007,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1536,1439,2.5,5,0.65,40,26.0,"Tejas, Tiwari",,1462.0,False,IND,0.0,1,-0.47,40,-18.8

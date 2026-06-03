@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33474346,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1604,1436,0.0,4,-1.14,40,-45.6,"Kathan, Khurana",,1733.0,False,IND,0.0,1,-0.15,40,-6.0
+33474346,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1604,1436,0.0,4,-1.14,40,-45.6,"Pasbola, Samvid",,1572.0,False,IND,0.0,1,-0.32,40,-12.8
+33474346,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1604,1436,0.0,4,-1.14,40,-45.6,"Veer, Kumar",,1528.0,False,IND,0.0,1,-0.37,40,-14.8
+33474346,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1604,1436,0.0,4,-1.14,40,-45.6,"Ved, Neeraj Phaur",,1584.0,False,IND,0.0,1,-0.3,40,-12.0
+33474346,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1578,1436,1.0,5,-0.56,40,-22.4,"Agharkar, Shriyans",,1612.0,False,IND,0.0,1,-0.27,40,-10.8
+33474346,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1578,1436,1.0,5,-0.56,40,-22.4,"Sunil, Vaidya",,1578.0,False,IND,0.5,1,0.19,40,7.6
+33474346,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1578,1436,1.0,5,-0.56,40,-22.4,"Gogri, Vedaant",,1547.0,False,IND,0.5,1,0.15,40,6.0
+33474346,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1578,1436,1.0,5,-0.56,40,-22.4,"Parv, H Hakani",,1631.0,False,IND,0.0,1,-0.25,40,-10.0
+33474346,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1578,1436,1.0,5,-0.56,40,-22.4,"Tejas, Sharma",,1521.0,False,IND,0.0,1,-0.38,40,-15.2

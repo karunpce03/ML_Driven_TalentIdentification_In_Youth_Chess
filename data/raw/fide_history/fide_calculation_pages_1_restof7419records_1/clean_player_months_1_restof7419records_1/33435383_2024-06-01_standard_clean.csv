@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33435383,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1594,1454,2.0,6,0.1,40,4.0,"Daksh, M",,1605.0,False,IND,1.0,1,0.7,40,28.0
+33435383,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1594,1454,2.0,6,0.1,40,4.0,"Vakeesh, S",,1701.0,False,IND,0.0,1,-0.19,40,-7.6
+33435383,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1594,1454,2.0,6,0.1,40,4.0,"Mogneeshwar, J K U",,1545.0,False,IND,1.0,1,0.62,40,24.8
+33435383,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1594,1454,2.0,6,0.1,40,4.0,"Gurupranav, P",,1630.0,False,IND,0.0,1,-0.27,40,-10.8
+33435383,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1594,1454,2.0,6,0.1,40,4.0,"Sahana, S",,1537.0,False,IND,0.0,1,-0.39,40,-15.6
+33435383,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1594,1454,2.0,6,0.1,40,4.0,"Sundar, Guhan",,1548.0,False,IND,0.0,1,-0.37,40,-14.8

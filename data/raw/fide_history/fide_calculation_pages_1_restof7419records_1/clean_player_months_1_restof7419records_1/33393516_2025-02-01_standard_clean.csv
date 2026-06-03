@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33393516,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1637,1422,0.0,1,-0.23,40,-9.2,"Tvesha, Ashish Jain",,1637.0,False,IND,0.0,1,-0.23,40,-9.2
+33393516,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1616,1419,1.0,3,0.2,40,8.0,"Shybi, Binoj",,1782.0,False,IND,0.0,1,-0.1,40,-4.0
+33393516,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1616,1419,1.0,3,0.2,40,8.0,"Al Aisaee, Anat",,1594.0,False,OMA,0.0,1,-0.27,40,-10.8
+33393516,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1616,1419,1.0,3,0.2,40,8.0,"Tiana, Zandrea Tino",,1472.0,False,IND,1.0,1,0.57,40,22.8

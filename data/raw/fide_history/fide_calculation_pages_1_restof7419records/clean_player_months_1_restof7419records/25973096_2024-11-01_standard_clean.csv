@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25973096,2024-11-01,0,FE 3 Isola del sole - A,Grado ITA,2024-09-26,2024-10-03,2182,1964,3.5,8,1.41,40,56.4,"Sukovic, Andrej",f,2320,False,MNE,0.0,1,-0.11,40,-4.4
+25973096,2024-11-01,0,FE 3 Isola del sole - A,Grado ITA,2024-09-26,2024-10-03,2182,1964,3.5,8,1.41,40,56.4,"Diermair, Andreas",g,2364,True,AUT,0.0,1,-0.08,40,-3.2
+25973096,2024-11-01,0,FE 3 Isola del sole - A,Grado ITA,2024-09-26,2024-10-03,2182,1964,3.5,8,1.41,40,56.4,"Lumachi, Gabriele",f,2364,True,ITA,0.0,1,-0.08,40,-3.2
+25973096,2024-11-01,0,FE 3 Isola del sole - A,Grado ITA,2024-09-26,2024-10-03,2182,1964,3.5,8,1.41,40,56.4,"Abarca Gonzalez, Damaris",wf,1991,False,CHI,1.0,1,0.54,40,21.6
+25973096,2024-11-01,0,FE 3 Isola del sole - A,Grado ITA,2024-09-26,2024-10-03,2182,1964,3.5,8,1.41,40,56.4,"Frescura, Davide",,1951,False,ITA,1.0,1,0.48,40,19.2
+25973096,2024-11-01,0,FE 3 Isola del sole - A,Grado ITA,2024-09-26,2024-10-03,2182,1964,3.5,8,1.41,40,56.4,"Belli, Giorgio",f,2168,False,ITA,0.5,1,0.26,40,10.4
+25973096,2024-11-01,0,FE 3 Isola del sole - A,Grado ITA,2024-09-26,2024-10-03,2182,1964,3.5,8,1.41,40,56.4,"Drasko, Milan",g,2335,False,MNE,0.0,1,-0.1,40,-4.0
+25973096,2024-11-01,0,FE 3 Isola del sole - A,Grado ITA,2024-09-26,2024-10-03,2182,1964,3.5,8,1.41,40,56.4,"Maione, Melissa",,1962,False,ITA,1.0,1,0.5,40,20.0

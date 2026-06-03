@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25771280,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2003,1833,5.5,11,2.3,40,92.0,"Kirtadze, Anastasia",wf,2142.0,False,GEO,1.0,1,0.86,40,34.4
+25771280,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2003,1833,5.5,11,2.3,40,92.0,"Barwinska, Ewa",wc,2106.0,False,POL,1.0,1,0.83,40,33.2
+25771280,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2003,1833,5.5,11,2.3,40,92.0,"Allahverdiyeva, Ayan",wm,2133.0,False,AZE,0.0,1,-0.15,40,-6.0
+25771280,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2003,1833,5.5,11,2.3,40,92.0,"Striskova, Lucia",,2023.0,False,SVK,0.0,1,-0.25,40,-10.0
+25771280,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2003,1833,5.5,11,2.3,40,92.0,"Khairmode, Dhanashree",,1929.0,False,IND,1.0,1,0.63,40,25.2
+25771280,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2003,1833,5.5,11,2.3,40,92.0,"Sneha, Halder",,1958.0,False,IND,0.0,1,-0.33,40,-13.2
+25771280,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2003,1833,5.5,11,2.3,40,92.0,"Sulyok, Eszter",,2100.0,False,HUN,0.0,1,-0.18,40,-7.2
+25771280,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2003,1833,5.5,11,2.3,40,92.0,"Natura, Bethi",,1697.0,False,IND,1.0,1,0.32,40,12.8
+25771280,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2003,1833,5.5,11,2.3,40,92.0,"Mrittika, Mallick",,2076.0,False,IND,1.0,1,0.8,40,32.0
+25771280,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2003,1833,5.5,11,2.3,40,92.0,"Shohradova, Lala",wf,2000.0,False,TKM,0.0,1,-0.28,40,-11.2
+25771280,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2003,1833,5.5,11,2.3,40,92.0,"Padmini, S",,1872.0,False,IND,0.5,1,0.05,40,2.0

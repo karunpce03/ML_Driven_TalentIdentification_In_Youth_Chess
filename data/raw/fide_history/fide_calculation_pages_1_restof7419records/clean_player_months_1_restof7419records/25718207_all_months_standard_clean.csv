@@ -1,0 +1,99 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25718207,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2023,1852,4.5,9,1.9,40,76.0,"Lundberg, Bjorn",,2206.0,False,SWE,0.0,1,-0.11,40,-4.4
+25718207,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2023,1852,4.5,9,1.9,40,76.0,"Wang, Zijian",,2121.0,False,CHN,0.0,1,-0.17,40,-6.8
+25718207,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2023,1852,4.5,9,1.9,40,76.0,"Larsen, Hans Haagen",,1719.0,False,DEN,1.0,1,0.32,40,12.8
+25718207,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2023,1852,4.5,9,1.9,40,76.0,"Diez, Allan",,2069.0,False,PHI,1.0,1,0.78,40,31.2
+25718207,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2023,1852,4.5,9,1.9,40,76.0,"Muhammed, Shuaau",f,2060.0,False,MDV,0.0,1,-0.23,40,-9.2
+25718207,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2023,1852,4.5,9,1.9,40,76.0,"Lozano, Arvie",,1965.0,False,PHI,1.0,1,0.65,40,26.0
+25718207,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2023,1852,4.5,9,1.9,40,76.0,"Patil, Harshal",,2094.0,False,IND,0.0,1,-0.2,40,-8.0
+25718207,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2023,1852,4.5,9,1.9,40,76.0,"Shen, Ree Herng",,1961.0,False,MAS,1.0,1,0.65,40,26.0
+25718207,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2023,1852,4.5,9,1.9,40,76.0,"Mendoza, Shania Mae",wf,2008.0,False,PHI,0.5,1,0.21,40,8.4
+25718207,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1660,1928,6.5,8,-0.02,40,-0.8,"Fawzan, Aalee A",,1528.0,True,IND,1.0,1,0.08,40,3.2
+25718207,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1660,1928,6.5,8,-0.02,40,-0.8,"Kiruthik, Murugun M",,1603.0,False,IND,1.0,1,0.13,40,5.2
+25718207,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1660,1928,6.5,8,-0.02,40,-0.8,"Harikrishna, C",,1624.0,False,IND,1.0,1,0.14,40,5.6
+25718207,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1660,1928,6.5,8,-0.02,40,-0.8,"Nijesh, R",,1741.0,False,IND,0.5,1,-0.24,40,-9.6
+25718207,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1660,1928,6.5,8,-0.02,40,-0.8,"Revlin, Ram R H",,1647.0,False,IND,0.5,1,-0.34,40,-13.6
+25718207,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1660,1928,6.5,8,-0.02,40,-0.8,"Dhevarsh, Sagar V P",,1658.0,False,IND,0.5,1,-0.33,40,-13.2
+25718207,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1660,1928,6.5,8,-0.02,40,-0.8,"Sachiel, Parthiban",,1622.0,False,IND,1.0,1,0.14,40,5.6
+25718207,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1660,1928,6.5,8,-0.02,40,-0.8,"Shashveen, A K",,1854.0,False,IND,1.0,1,0.4,40,16.0
+25718207,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2308,1927,4.5,8,3.76,40,150.4,"Kreken, Eivind Grunt",f,2325.0,False,NOR,0.5,1,0.42,40,16.8
+25718207,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2308,1927,4.5,8,3.76,40,150.4,"Othman, A. Moussa",f,2241.0,False,UAE,1.0,1,0.86,40,34.4
+25718207,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2308,1927,4.5,8,3.76,40,150.4,"Havelka, Josef",f,2327.0,True,CZE,1.0,1,0.92,40,36.8
+25718207,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2308,1927,4.5,8,3.76,40,150.4,"Peyrer, Konstantin",m,2327.0,True,AUT,0.0,1,-0.08,40,-3.2
+25718207,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2308,1927,4.5,8,3.76,40,150.4,"Freisler, Pavel",m,2261.0,False,CZE,0.5,1,0.38,40,15.2
+25718207,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2308,1927,4.5,8,3.76,40,150.4,"Smolik, Jachym",f,2327.0,True,CZE,1.0,1,0.92,40,36.8
+25718207,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2308,1927,4.5,8,3.76,40,150.4,"Mikes, Jan",,2327.0,True,CZE,0.0,1,-0.08,40,-3.2
+25718207,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2308,1927,4.5,8,3.76,40,150.4,"Plischki, Sebastian",m,2327.0,True,GER,0.5,1,0.42,40,16.8
+25718207,2024-08-01,0,Znojemska Rotunda Open 2024,Znojmo CZE,2024-06-22,2024-06-30,2080,1927,5.5,8,2.73,40,109.2,"Vejlupek, Pavel",,1713.0,False,CZE,1.0,1,0.23,40,9.2
+25718207,2024-08-01,0,Znojemska Rotunda Open 2024,Znojmo CZE,2024-06-22,2024-06-30,2080,1927,5.5,8,2.73,40,109.2,"Borkovec, Ondrej",,1708.0,False,CZE,1.0,1,0.22,40,8.8
+25718207,2024-08-01,0,Znojemska Rotunda Open 2024,Znojmo CZE,2024-06-22,2024-06-30,2080,1927,5.5,8,2.73,40,109.2,"Vyskocil, Neklan",m,2288.0,False,CZE,1.0,1,0.9,40,36.0
+25718207,2024-08-01,0,Znojemska Rotunda Open 2024,Znojmo CZE,2024-06-22,2024-06-30,2080,1927,5.5,8,2.73,40,109.2,"Luc, Martin",,1822.0,False,CZE,0.5,1,-0.14,40,-5.6
+25718207,2024-08-01,0,Znojemska Rotunda Open 2024,Znojmo CZE,2024-06-22,2024-06-30,2080,1927,5.5,8,2.73,40,109.2,"Sanket, Chakravarty",m,2327.0,True,IND,0.5,1,0.42,40,16.8
+25718207,2024-08-01,0,Znojemska Rotunda Open 2024,Znojmo CZE,2024-06-22,2024-06-30,2080,1927,5.5,8,2.73,40,109.2,"Bures, Jaroslav",m,2327.0,True,CZE,0.0,1,-0.08,40,-3.2
+25718207,2024-08-01,0,Znojemska Rotunda Open 2024,Znojmo CZE,2024-06-22,2024-06-30,2080,1927,5.5,8,2.73,40,109.2,"Manik, Mikulas",g,2327.0,True,SVK,0.5,1,0.42,40,16.8
+25718207,2024-08-01,0,Znojemska Rotunda Open 2024,Znojmo CZE,2024-06-22,2024-06-30,2080,1927,5.5,8,2.73,40,109.2,"Molik, Zdenek",,2131.0,False,CZE,1.0,1,0.76,40,30.4
+25718207,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2216,2077,5.0,9,2.04,40,81.6,"Kushagra, Mohan",m,2367.0,False,IND,0.0,1,-0.16,40,-6.4
+25718207,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2216,2077,5.0,9,2.04,40,81.6,"Yilmaz, Baver",c,2280.0,False,TUR,0.5,1,0.26,40,10.4
+25718207,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2216,2077,5.0,9,2.04,40,81.6,"Petricenco, Ana",wf,1876.0,False,MDA,1.0,1,0.24,40,9.6
+25718207,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2216,2077,5.0,9,2.04,40,81.6,"Apoorv, Kamble",f,2269.0,False,IND,0.0,1,-0.25,40,-10.0
+25718207,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2216,2077,5.0,9,2.04,40,81.6,"Sakmak, Kutay",,1993.0,False,TUR,1.0,1,0.38,40,15.2
+25718207,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2216,2077,5.0,9,2.04,40,81.6,"Ristic, Luka",f,2318.0,False,SRB,1.0,1,0.8,40,32.0
+25718207,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2216,2077,5.0,9,2.04,40,81.6,"Arnav, Maheshwari",,2328.0,False,IND,0.5,1,0.31,40,12.4
+25718207,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2216,2077,5.0,9,2.04,40,81.6,"Filip, Andrei",f,2325.0,False,ROU,0.0,1,-0.19,40,-7.6
+25718207,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2216,2077,5.0,9,2.04,40,81.6,"Sahin, Sarp",c,2187.0,False,TUR,1.0,1,0.65,40,26.0
+25718207,2024-09-01,0,Open Doprastav 2024 Memorial Ernesta Noveho Bratislavske sachove leto,Bratislava SVK,2024-07-29,2024-08-02,2019,2077,6.5,9,1.35,25,33.75,"Osvald, David",,1752.0,False,SVK,1.0,1,0.13,25,3.25
+25718207,2024-09-01,0,Open Doprastav 2024 Memorial Ernesta Noveho Bratislavske sachove leto,Bratislava SVK,2024-07-29,2024-08-02,2019,2077,6.5,9,1.35,25,33.75,"Tomcaniova, Lucia",,1901.0,False,SVK,1.0,1,0.27,25,6.75
+25718207,2024-09-01,0,Open Doprastav 2024 Memorial Ernesta Noveho Bratislavske sachove leto,Bratislava SVK,2024-07-29,2024-08-02,2019,2077,6.5,9,1.35,25,33.75,"Turcan, Richard",f,2374.0,False,SVK,0.0,1,-0.15,25,-3.75
+25718207,2024-09-01,0,Open Doprastav 2024 Memorial Ernesta Noveho Bratislavske sachove leto,Bratislava SVK,2024-07-29,2024-08-02,2019,2077,6.5,9,1.35,25,33.75,"Savchuk, Yuriy",,1888.0,False,GER,1.0,1,0.25,25,6.25
+25718207,2024-09-01,0,Open Doprastav 2024 Memorial Ernesta Noveho Bratislavske sachove leto,Bratislava SVK,2024-07-29,2024-08-02,2019,2077,6.5,9,1.35,25,33.75,"Sklars, Tomas",,1927.0,False,SVK,1.0,1,0.3,25,7.5
+25718207,2024-09-01,0,Open Doprastav 2024 Memorial Ernesta Noveho Bratislavske sachove leto,Bratislava SVK,2024-07-29,2024-08-02,2019,2077,6.5,9,1.35,25,33.75,"Vadila, Ondrej",,2225.0,False,SVK,0.5,1,0.2,25,5.0
+25718207,2024-09-01,0,Open Doprastav 2024 Memorial Ernesta Noveho Bratislavske sachove leto,Bratislava SVK,2024-07-29,2024-08-02,2019,2077,6.5,9,1.35,25,33.75,"Mrozowski, Patryk",,2176.0,False,POL,0.5,1,0.14,25,3.5
+25718207,2024-09-01,0,Open Doprastav 2024 Memorial Ernesta Noveho Bratislavske sachove leto,Bratislava SVK,2024-07-29,2024-08-02,2019,2077,6.5,9,1.35,25,33.75,"Borzsei, Andras",,2068.0,False,HUN,0.5,1,-0.01,25,-0.25
+25718207,2024-09-01,0,Open Doprastav 2024 Memorial Ernesta Noveho Bratislavske sachove leto,Bratislava SVK,2024-07-29,2024-08-02,2019,2077,6.5,9,1.35,25,33.75,"Park, Inchan",,1856.0,False,KOR,1.0,1,0.22,25,5.5
+25718207,2024-09-01,0,First Saturday IM August 2024,Budapest HUN,2024-08-03,2024-08-10,2257,2268,4.0,9,-0.62,25,-15.5,"Lucas, Arthur",m,2332.0,False,FRA,0.0,1,-0.41,25,-10.25
+25718207,2024-09-01,0,First Saturday IM August 2024,Budapest HUN,2024-08-03,2024-08-10,2257,2268,4.0,9,-0.62,25,-15.5,"Krizsany, Laszlo",m,2325.0,False,HUN,0.5,1,0.08,25,2.0
+25718207,2024-09-01,0,First Saturday IM August 2024,Budapest HUN,2024-08-03,2024-08-10,2257,2268,4.0,9,-0.62,25,-15.5,"Padhye, Rohan",,2276.0,False,USA,1.0,1,0.51,25,12.75
+25718207,2024-09-01,0,First Saturday IM August 2024,Budapest HUN,2024-08-03,2024-08-10,2257,2268,4.0,9,-0.62,25,-15.5,"Seres, Lajos",g,2322.0,False,HUN,0.0,1,-0.42,25,-10.5
+25718207,2024-09-01,0,First Saturday IM August 2024,Budapest HUN,2024-08-03,2024-08-10,2257,2268,4.0,9,-0.62,25,-15.5,"Midy, Robin",c,2155.0,False,FRA,0.5,1,-0.15,25,-3.75
+25718207,2024-09-01,0,First Saturday IM August 2024,Budapest HUN,2024-08-03,2024-08-10,2257,2268,4.0,9,-0.62,25,-15.5,"Adithya, A Chullikkad",c,2111.0,False,IND,0.0,1,-0.71,25,-17.75
+25718207,2024-09-01,0,First Saturday IM August 2024,Budapest HUN,2024-08-03,2024-08-10,2257,2268,4.0,9,-0.62,25,-15.5,"Strebkovs, Andrejs",,2278.0,False,LAT,0.5,1,0.01,25,0.25
+25718207,2024-09-01,0,First Saturday IM August 2024,Budapest HUN,2024-08-03,2024-08-10,2257,2268,4.0,9,-0.62,25,-15.5,"Zherebtsova, Alexandra",f wf,2246.0,False,MNE,0.5,1,-0.03,25,-0.75
+25718207,2024-09-01,0,First Saturday IM August 2024,Budapest HUN,2024-08-03,2024-08-10,2257,2268,4.0,9,-0.62,25,-15.5,"Shoshin, Kirill",f,2269.0,False,FID,1.0,1,0.5,25,12.5
+25718207,2024-09-01,0,25th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-22,2024-08-28,2266,2268,2.5,9,-2.04,25,-51.0,"Uuriintuya, Uurtsaikh",wg,2212.0,False,MGL,0.0,1,-0.58,25,-14.5
+25718207,2024-09-01,0,25th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-22,2024-08-28,2266,2268,2.5,9,-2.04,25,-51.0,"Manik, Mikulas",g,2320.0,False,SVK,0.5,1,0.07,25,1.75
+25718207,2024-09-01,0,25th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-22,2024-08-28,2266,2268,2.5,9,-2.04,25,-51.0,"Annageldyev, Orazly",g,2271.0,False,TKM,0.5,1,0.0,25,0.0
+25718207,2024-09-01,0,25th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-22,2024-08-28,2266,2268,2.5,9,-2.04,25,-51.0,"Harshad, S",f,2275.0,False,IND,0.5,1,0.01,25,0.25
+25718207,2024-09-01,0,25th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-22,2024-08-28,2266,2268,2.5,9,-2.04,25,-51.0,"Gochelashvili, David",m,2230.0,False,RUS,0.0,1,-0.55,25,-13.75
+25718207,2024-09-01,0,25th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-22,2024-08-28,2266,2268,2.5,9,-2.04,25,-51.0,"Jaiveer, Mahendru",f,2220.0,False,IND,0.0,1,-0.57,25,-14.25
+25718207,2024-09-01,0,25th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-22,2024-08-28,2266,2268,2.5,9,-2.04,25,-51.0,"Sriram, Adarsh Uppala",,2195.0,False,IND,0.5,1,-0.1,25,-2.5
+25718207,2024-09-01,0,25th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-22,2024-08-28,2266,2268,2.5,9,-2.04,25,-51.0,"Daakshin, Arun",f,2290.0,False,IND,0.0,1,-0.47,25,-11.75
+25718207,2024-09-01,0,25th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-22,2024-08-28,2266,2268,2.5,9,-2.04,25,-51.0,"Slizhevsky, Alexander",m,2381.0,False,RUS,0.5,1,0.15,25,3.75
+25718207,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2351,2235,4.5,10,1.03,35,36.05,"Tabuenca Mendataurigoitia, Daniel",f,2412.0,False,ESP,1.0,1,0.73,35,25.55
+25718207,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2351,2235,4.5,10,1.03,35,36.05,"Stribuk, Artiom",m,2435.0,False,FID,1.0,1,0.76,35,26.6
+25718207,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2351,2235,4.5,10,1.03,35,36.05,"Lopez Martinez, Josep Manuel",g,2455.0,False,ESP,0.0,1,-0.22,35,-7.7
+25718207,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2351,2235,4.5,10,1.03,35,36.05,"Dotzer, Lukas",f,2418.0,False,AUT,0.0,1,-0.26,35,-9.1
+25718207,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2351,2235,4.5,10,1.03,35,36.05,"Munoz, Miguel",g,2336.0,False,PER,0.5,1,0.14,35,4.9
+25718207,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2351,2235,4.5,10,1.03,35,36.05,"Uber Gracia, Hugo",c,2327.0,False,ESP,0.5,1,0.13,35,4.55
+25718207,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2351,2235,4.5,10,1.03,35,36.05,"Salinas Tomas, Daniel",c,2360.0,False,ESP,0.0,1,-0.33,35,-11.55
+25718207,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2351,2235,4.5,10,1.03,35,36.05,"Gual Pascual, Antonio",m,2318.0,False,ESP,1.0,1,0.61,35,21.35
+25718207,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2351,2235,4.5,10,1.03,35,36.05,"Kenneskog, Theodor",f,2275.0,False,SWE,0.0,1,-0.44,35,-15.4
+25718207,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2351,2235,4.5,10,1.03,35,36.05,"Vijayakumar, Rishi",,2172.0,False,SCO,0.5,1,-0.09,35,-3.15
+25718207,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2169,2235,5.5,10,-0.38,35,-13.3,"Stevens, Christian",,1945.0,False,FRA,1.0,1,0.16,35,5.6
+25718207,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2169,2235,5.5,10,-0.38,35,-13.3,"Maurizzi, Marc Andria",g,2576.0,False,FRA,0.0,1,-0.12,35,-4.2
+25718207,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2169,2235,5.5,10,-0.38,35,-13.3,"Herzwurm, Robert",,2016.0,False,GER,1.0,1,0.22,35,7.7
+25718207,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2169,2235,5.5,10,-0.38,35,-13.3,"Fernandez Vazquez, Jorge",,1974.0,False,ESP,1.0,1,0.18,35,6.3
+25718207,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2169,2235,5.5,10,-0.38,35,-13.3,"Gormally, Daniel W",g,2424.0,False,ENG,0.0,1,-0.25,35,-8.75
+25718207,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2169,2235,5.5,10,-0.38,35,-13.3,"Garmendia Vega, Gabriel",c,2017.0,False,CHI,1.0,1,0.22,35,7.7
+25718207,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2169,2235,5.5,10,-0.38,35,-13.3,"Lopez Martinez, Josep Manuel",g,2455.0,False,ESP,0.0,1,-0.22,35,-7.7
+25718207,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2169,2235,5.5,10,-0.38,35,-13.3,"Srijak, Sengupta",,2112.0,False,IND,0.5,1,-0.17,35,-5.95
+25718207,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2169,2235,5.5,10,-0.38,35,-13.3,"Mizzi, Jack",c,2097.0,False,MLT,0.0,1,-0.69,35,-24.15
+25718207,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2169,2235,5.5,10,-0.38,35,-13.3,"Yonemitsu, Kohei",,2076.0,False,JPN,1.0,1,0.29,35,10.15
+25718207,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2274,2235,5.5,9,1.47,40,58.8,"Beber, Anja",,1998.0,False,SLO,1.0,1,0.2,40,8.0
+25718207,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2274,2235,5.5,9,1.47,40,58.8,"Zamengo, Fulvio",f,2348.0,False,ITA,0.0,1,-0.35,40,-14.0
+25718207,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2274,2235,5.5,9,1.47,40,58.8,"Mazzini, Mauro",,2069.0,False,ITA,1.0,1,0.28,40,11.2
+25718207,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2274,2235,5.5,9,1.47,40,58.8,"Hovhannisyan, Mher",g,2397.0,False,BEL,0.5,1,0.21,40,8.4
+25718207,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2274,2235,5.5,9,1.47,40,58.8,"Gkoumas, Georgios",m,2449.0,False,GRE,0.5,1,0.27,40,10.8
+25718207,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2274,2235,5.5,9,1.47,40,58.8,"Lekic, Dusan",m,2287.0,False,MNE,1.0,1,0.57,40,22.8
+25718207,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2274,2235,5.5,9,1.47,40,58.8,"Cina , Vittorio",f,2325.0,False,ITA,0.5,1,0.12,40,4.8
+25718207,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2274,2235,5.5,9,1.47,40,58.8,"Knudsen, Simon",f,2295.0,False,GER,0.0,1,-0.42,40,-16.8
+25718207,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2274,2235,5.5,9,1.47,40,58.8,"Javornik, Nik",c,2300.0,False,SLO,1.0,1,0.59,40,23.6

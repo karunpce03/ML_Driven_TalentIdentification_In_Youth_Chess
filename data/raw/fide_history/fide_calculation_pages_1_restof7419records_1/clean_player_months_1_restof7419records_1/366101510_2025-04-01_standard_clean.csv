@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366101510,2025-04-01,0,2025 CCC Grand Prix Leg 2 Premier,"Calgary, Alberta CAN",2025-02-18,2025-03-18,1871,1809,3.5,5,1.41,40,56.4,"Zhang, Felix",,1546.0,False,CAN,1.0,1,0.18,40,7.2
+366101510,2025-04-01,0,2025 CCC Grand Prix Leg 2 Premier,"Calgary, Alberta CAN",2025-02-18,2025-03-18,1871,1809,3.5,5,1.41,40,56.4,"Cacho, Belly",,1807.0,False,CAN,1.0,1,0.5,40,20.0
+366101510,2025-04-01,0,2025 CCC Grand Prix Leg 2 Premier,"Calgary, Alberta CAN",2025-02-18,2025-03-18,1871,1809,3.5,5,1.41,40,56.4,"Companyo Pagerols, Josep Maria",,2043.0,False,ESP,0.0,1,-0.21,40,-8.4
+366101510,2025-04-01,0,2025 CCC Grand Prix Leg 2 Premier,"Calgary, Alberta CAN",2025-02-18,2025-03-18,1871,1809,3.5,5,1.41,40,56.4,"Alpuri, Aaqil Ahmed",,2038.0,False,CAN,1.0,1,0.79,40,31.6
+366101510,2025-04-01,0,2025 CCC Grand Prix Leg 2 Premier,"Calgary, Alberta CAN",2025-02-18,2025-03-18,1871,1809,3.5,5,1.41,40,56.4,"Soberov, Emil",c,1920.0,False,CAN,0.5,1,0.15,40,6.0

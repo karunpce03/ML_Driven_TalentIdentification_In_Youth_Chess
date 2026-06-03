@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25903713,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1958,1896,6.5,9,2.54,40,101.6,"Al Hadidi, Mahmood",,1496,True,OMA,1.0,1,0.08,40,3.2
+25903713,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1958,1896,6.5,9,2.54,40,101.6,"Baharlouei, Rasta",,1639,False,IRI,1.0,1,0.18,40,7.2
+25903713,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1958,1896,6.5,9,2.54,40,101.6,"Mosadeghpour, Masoud",g,2296,True,IRI,0.0,1,-0.08,40,-3.2
+25903713,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1958,1896,6.5,9,2.54,40,101.6,"Hussein, Siddig Mohamed",,1703,False,SUD,1.0,1,0.25,40,10.0
+25903713,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1958,1896,6.5,9,2.54,40,101.6,"Al Mamari, Said Ahmed",,1707,False,OMA,1.0,1,0.25,40,10.0
+25903713,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1958,1896,6.5,9,2.54,40,101.6,"Barsov, Alexei",g,2296,True,UZB,0.5,1,0.42,40,16.8
+25903713,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1958,1896,6.5,9,2.54,40,101.6,"Aziz, Husain",m,2296,True,QAT,0.5,1,0.42,40,16.8
+25903713,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1958,1896,6.5,9,2.54,40,101.6,"Wafa, Shahenda",wg,2103,False,EGY,1.0,1,0.77,40,30.8
+25903713,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1958,1896,6.5,9,2.54,40,101.6,"Poormosavi, Seyed Kanan",,2090,False,IRI,0.5,1,0.25,40,10.0

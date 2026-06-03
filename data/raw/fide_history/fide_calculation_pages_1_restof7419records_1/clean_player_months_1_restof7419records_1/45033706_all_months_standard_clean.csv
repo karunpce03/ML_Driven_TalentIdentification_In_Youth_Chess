@@ -1,0 +1,22 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45033706,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1770,1860,7.5,10,1.34,33,44.22,"Nabarun, Kalita",,1460.0,True,IND,1.0,1,0.08,33,2.64
+45033706,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1770,1860,7.5,10,1.34,33,44.22,"Prakash, Nath",,1567.0,False,IND,1.0,1,0.15,33,4.95
+45033706,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1770,1860,7.5,10,1.34,33,44.22,"Ankit, Das",,1692.0,False,IND,1.0,1,0.28,33,9.24
+45033706,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1770,1860,7.5,10,1.34,33,44.22,"Sagnik, Halder",,1789.0,False,IND,1.0,1,0.4,33,13.2
+45033706,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1770,1860,7.5,10,1.34,33,44.22,"Srijit, Paul",m,2260.0,True,IND,0.0,1,-0.08,33,-2.64
+45033706,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1770,1860,7.5,10,1.34,33,44.22,"Rituraj, Borgohain",,1779.0,False,IND,1.0,1,0.39,33,12.87
+45033706,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1770,1860,7.5,10,1.34,33,44.22,"Anup, Shankar R",,1941.0,False,IND,0.0,1,-0.39,33,-12.87
+45033706,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1770,1860,7.5,10,1.34,33,44.22,"Karnav, P Deka",,1671.0,False,IND,0.5,1,-0.25,33,-8.25
+45033706,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1770,1860,7.5,10,1.34,33,44.22,"Abhirup, Saikia",,1718.0,False,IND,1.0,1,0.31,33,10.23
+45033706,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1770,1860,7.5,10,1.34,33,44.22,"Subhajit, Dhar",,1822.0,False,IND,1.0,1,0.45,33,14.85
+45033706,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1800,1860,7.5,11,1.17,33,38.61,"Dishant, Bansal",,1478.0,False,IND,1.0,1,0.09,33,2.97
+45033706,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1800,1860,7.5,11,1.17,33,38.61,"Arhan, Jain",,1740.0,False,IND,1.0,1,0.34,33,11.22
+45033706,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1800,1860,7.5,11,1.17,33,38.61,"Monil, Maroo",,1729.0,False,IND,0.0,1,-0.68,33,-22.44
+45033706,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1800,1860,7.5,11,1.17,33,38.61,"Raj, Kapoor",,1745.0,False,IND,1.0,1,0.34,33,11.22
+45033706,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1800,1860,7.5,11,1.17,33,38.61,"Keshav, Arora",,1727.0,False,IND,1.0,1,0.32,33,10.56
+45033706,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1800,1860,7.5,11,1.17,33,38.61,"Arshpreet, Singh",,1970.0,False,IND,1.0,1,0.65,33,21.45
+45033706,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1800,1860,7.5,11,1.17,33,38.61,"Swarna, Nihal",,2013.0,False,IND,0.0,1,-0.3,33,-9.9
+45033706,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1800,1860,7.5,11,1.17,33,38.61,"Daksh, Goyal",,2094.0,False,IND,0.0,1,-0.21,33,-6.93
+45033706,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1800,1860,7.5,11,1.17,33,38.61,"Tanna, Krish Alpeshbhai",,1759.0,False,IND,0.5,1,-0.14,33,-4.62
+45033706,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1800,1860,7.5,11,1.17,33,38.61,"Dhruv, Singh Bisht",,1757.0,False,IND,1.0,1,0.36,33,11.88
+45033706,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1800,1860,7.5,11,1.17,33,38.61,"Utkrisht, Tuli",,1789.0,False,IND,1.0,1,0.4,33,13.2

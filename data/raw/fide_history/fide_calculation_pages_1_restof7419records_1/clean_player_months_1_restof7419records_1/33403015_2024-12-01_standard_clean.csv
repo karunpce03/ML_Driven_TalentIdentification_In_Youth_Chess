@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33403015,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1742,1558,4.5,7,2.49,40,99.6,"Swain, Ashirwad",,1958,True,IND,0.0,1,-0.08,40,-3.2
+33403015,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1742,1558,4.5,7,2.49,40,99.6,"Shaurya, Gupta",,1406,False,IND,1.0,1,0.3,40,12.0
+33403015,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1742,1558,4.5,7,2.49,40,99.6,"Ashutosh, Jamwal",,1685,False,IND,1.0,1,0.67,40,26.8
+33403015,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1742,1558,4.5,7,2.49,40,99.6,"Sharma, Avinash",,1730,False,IND,1.0,1,0.73,40,29.2
+33403015,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1742,1558,4.5,7,2.49,40,99.6,"Soni, Atharv",,1958,True,IND,0.0,1,-0.08,40,-3.2
+33403015,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1742,1558,4.5,7,2.49,40,99.6,"Dhruv, Gupta",,1694,False,IND,1.0,1,0.68,40,27.2
+33403015,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1742,1558,4.5,7,2.49,40,99.6,"Aishani, Pathak",,1766,False,IND,0.5,1,0.27,40,10.8

@@ -1,0 +1,46 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33342520,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1727,1649,4.5,8,1.19,40,47.6,"Deepak, Laksshana",wc,1889.0,False,CAN,1.0,1,0.8,40,32.0
+33342520,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1727,1649,4.5,8,1.19,40,47.6,"Gade, Sharanya",,1794.0,False,IND,0.0,1,-0.31,40,-12.4
+33342520,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1727,1649,4.5,8,1.19,40,47.6,"Sharnarthi, Viresh",,2049.0,True,IND,0.0,1,-0.08,40,-3.2
+33342520,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1727,1649,4.5,8,1.19,40,47.6,"Manya, Abhishek Drolia",,1510.0,False,IND,1.0,1,0.31,40,12.4
+33342520,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1727,1649,4.5,8,1.19,40,47.6,"Sahejdeep, Kaur",,1527.0,False,IND,1.0,1,0.33,40,13.2
+33342520,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1727,1649,4.5,8,1.19,40,47.6,"Swastik, Suvam Patnaik",,1756.0,False,IND,0.0,1,-0.35,40,-14.0
+33342520,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1727,1649,4.5,8,1.19,40,47.6,"Arya, Amol Bagayatkar",,1537.0,False,IND,1.0,1,0.35,40,14.0
+33342520,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1727,1649,4.5,8,1.19,40,47.6,"Nihaan, Pohane",,1751.0,False,IND,0.5,1,0.14,40,5.6
+33342520,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1659,1697,3.5,6,0.18,40,7.2,"Aishik, Satya Chatterjee",,1472.0,False,IND,1.0,1,0.22,40,8.8
+33342520,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1659,1697,3.5,6,0.18,40,7.2,"Parambrata, Sarkar",,1815.0,False,IND,0.0,1,-0.34,40,-13.6
+33342520,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1659,1697,3.5,6,0.18,40,7.2,"Sharanyak, Das",,1555.0,False,IND,1.0,1,0.31,40,12.4
+33342520,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1659,1697,3.5,6,0.18,40,7.2,"Agnivo, Chakraborty",,1960.0,False,IND,0.0,1,-0.18,40,-7.2
+33342520,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1659,1697,3.5,6,0.18,40,7.2,"Chirodeep, Ghosh",,1554.0,False,IND,1.0,1,0.31,40,12.4
+33342520,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1659,1697,3.5,6,0.18,40,7.2,"Abir, Mitra",,1597.0,False,IND,0.5,1,-0.14,40,-5.6
+33342520,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1739,1704,3.5,6,0.77,40,30.8,"Mayhul, Munshi",,1547.0,False,IND,1.0,1,0.29,40,11.6
+33342520,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1739,1704,3.5,6,0.77,40,30.8,"Chirodeep, Ghosh",,1558.0,False,IND,1.0,1,0.3,40,12.0
+33342520,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1739,1704,3.5,6,0.77,40,30.8,"Niladri, Banerjee",,1820.0,False,IND,1.0,1,0.66,40,26.4
+33342520,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1739,1704,3.5,6,0.77,40,30.8,"Bivor, Adak",,1932.0,False,IND,0.0,1,-0.21,40,-8.4
+33342520,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1739,1704,3.5,6,0.77,40,30.8,"Ankit, Das",,1740.0,False,IND,0.5,1,0.05,40,2.0
+33342520,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1739,1704,3.5,6,0.77,40,30.8,"Soumalya, Mondol",,1837.0,False,IND,0.0,1,-0.32,40,-12.8
+33342520,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1498,1735,3.5,6,-1.25,40,-50.0,"Dhritiman, Majumdar",,1459.0,False,IND,0.0,1,-0.83,40,-33.2
+33342520,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1498,1735,3.5,6,-1.25,40,-50.0,"Kriday, Narayan Roy",,1460.0,False,IND,1.0,1,0.17,40,6.8
+33342520,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1498,1735,3.5,6,-1.25,40,-50.0,"Naiyayike, Biswas",,1534.0,False,IND,1.0,1,0.24,40,9.6
+33342520,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1498,1735,3.5,6,-1.25,40,-50.0,"Sharanyak, Das",,1584.0,False,IND,0.5,1,-0.2,40,-8.0
+33342520,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1498,1735,3.5,6,-1.25,40,-50.0,"Somarjya, Sarkar",,1546.0,False,IND,0.0,1,-0.75,40,-30.0
+33342520,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1498,1735,3.5,6,-1.25,40,-50.0,"Anuj, Roy Chowdhury",,1403.0,False,IND,1.0,1,0.12,40,4.8
+33342520,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1721,1685,7.0,11,1.84,40,73.6,"Reyan, Md.",c,2085.0,True,IND,0.0,1,-0.08,40,-3.2
+33342520,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1721,1685,7.0,11,1.84,40,73.6,"Aum, Kashyap",,1502.0,False,IND,1.0,1,0.26,40,10.4
+33342520,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1721,1685,7.0,11,1.84,40,73.6,"Nimay, Agrawal",c,2059.0,False,IND,0.0,1,-0.1,40,-4.0
+33342520,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1721,1685,7.0,11,1.84,40,73.6,"Vivaan, Balani",,1544.0,False,IND,0.0,1,-0.69,40,-27.6
+33342520,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1721,1685,7.0,11,1.84,40,73.6,"Linith, Amar S",,1478.0,False,IND,1.0,1,0.23,40,9.2
+33342520,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1721,1685,7.0,11,1.84,40,73.6,"Aakash, K",,1541.0,False,IND,1.0,1,0.31,40,12.4
+33342520,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1721,1685,7.0,11,1.84,40,73.6,"Harshith, Ram B",,1471.0,False,IND,1.0,1,0.23,40,9.2
+33342520,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1721,1685,7.0,11,1.84,40,73.6,"Vatsal, Singla",,1803.0,False,IND,0.5,1,0.16,40,6.4
+33342520,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1721,1685,7.0,11,1.84,40,73.6,"Kathir, Kaman T",,1769.0,False,IND,1.0,1,0.62,40,24.8
+33342520,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1721,1685,7.0,11,1.84,40,73.6,"Shreyas, Raj",,1821.0,False,IND,0.5,1,0.18,40,7.2
+33342520,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1721,1685,7.0,11,1.84,40,73.6,"Nikhil, T L",,1855.0,False,IND,1.0,1,0.72,40,28.8
+33342520,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1561,1759,6.0,8,-0.02,40,-0.8,"Aditya, Kumar Jha",,1427.0,False,IND,1.0,1,0.12,40,4.8
+33342520,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1561,1759,6.0,8,-0.02,40,-0.8,"Prem, Kumar",,1559.0,False,IND,0.5,1,-0.26,40,-10.4
+33342520,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1561,1759,6.0,8,-0.02,40,-0.8,"Avyay, Sharma",,1525.0,False,IND,1.0,1,0.21,40,8.4
+33342520,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1561,1759,6.0,8,-0.02,40,-0.8,"Bhadra, Anibrata",,1552.0,False,IND,0.5,1,-0.27,40,-10.8
+33342520,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1561,1759,6.0,8,-0.02,40,-0.8,"Piyush, Kumar Mishra",,1578.0,False,IND,0.5,1,-0.24,40,-9.6
+33342520,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1561,1759,6.0,8,-0.02,40,-0.8,"Ravisankar, Prasad",,1591.0,False,IND,1.0,1,0.28,40,11.2
+33342520,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1561,1759,6.0,8,-0.02,40,-0.8,"Suravi, Bhattacharya",,1633.0,False,IND,0.5,1,-0.17,40,-6.8
+33342520,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1561,1759,6.0,8,-0.02,40,-0.8,"Debopriyo, Dutta",,1620.0,False,IND,1.0,1,0.31,40,12.4

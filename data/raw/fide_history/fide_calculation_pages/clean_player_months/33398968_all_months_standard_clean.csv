@@ -1,0 +1,63 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33398968,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1569,1585,5.0,8,0.81,40,32.4,"Vasanth, R",,1476.0,False,IND,1.0,1,0.35,40,14.0
+33398968,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1569,1585,5.0,8,0.81,40,32.4,"K., Dhinesh Babu",,1743.0,False,IND,0.0,1,-0.29,40,-11.6
+33398968,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1569,1585,5.0,8,0.81,40,32.4,"Harsith, V",,1453.0,False,IND,1.0,1,0.32,40,12.8
+33398968,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1569,1585,5.0,8,0.81,40,32.4,"Sajeev, R R",,1441.0,False,IND,1.0,1,0.31,40,12.4
+33398968,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1569,1585,5.0,8,0.81,40,32.4,"Bhuvanesh, G",,1695.0,False,IND,0.0,1,-0.35,40,-14.0
+33398968,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1569,1585,5.0,8,0.81,40,32.4,"Harikrishnan, P M",,1483.0,False,IND,1.0,1,0.36,40,14.4
+33398968,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1569,1585,5.0,8,0.81,40,32.4,"Unas, K.a.",,1771.0,False,IND,0.0,1,-0.26,40,-10.4
+33398968,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1569,1585,5.0,8,0.81,40,32.4,"Saketh, Kunnummalkattil",,1490.0,False,IND,1.0,1,0.37,40,14.8
+33398968,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1666,1617,5.0,7,1.85,40,74.0,"Thennarasu, K",,1455.0,False,IND,1.0,1,0.29,40,11.6
+33398968,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1666,1617,5.0,7,1.85,40,74.0,"Abdallah, M Nisthar",,1838.0,False,IND,0.0,1,-0.22,40,-8.8
+33398968,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1666,1617,5.0,7,1.85,40,74.0,"Harinarayan, A",,1455.0,False,IND,1.0,1,0.29,40,11.6
+33398968,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1666,1617,5.0,7,1.85,40,74.0,"Varada, S",,1508.0,False,IND,1.0,1,0.35,40,14.0
+33398968,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1666,1617,5.0,7,1.85,40,74.0,"Lakshith, B Salian",,1704.0,False,IND,0.5,1,0.12,40,4.8
+33398968,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1666,1617,5.0,7,1.85,40,74.0,"Adrij, Bhattacharyya",,1689.0,False,IND,0.5,1,0.1,40,4.0
+33398968,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1666,1617,5.0,7,1.85,40,74.0,"Srinivasa Rao, M.",f,2013.0,False,IND,1.0,1,0.92,40,36.8
+33398968,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1777,1691,5.5,8,2.24,40,89.6,"Aman, B Judwin",,1465.0,False,IND,1.0,1,0.21,40,8.4
+33398968,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1777,1691,5.5,8,2.24,40,89.6,"Dhanush, Ragav N S",,1988.0,False,IND,1.0,1,0.85,40,34.0
+33398968,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1777,1691,5.5,8,2.24,40,89.6,"Sidharth, Sreekumar",,1820.0,False,IND,0.0,1,-0.33,40,-13.2
+33398968,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1777,1691,5.5,8,2.24,40,89.6,"Jolly, V P",,1489.0,False,IND,1.0,1,0.24,40,9.6
+33398968,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1777,1691,5.5,8,2.24,40,89.6,"Arul, Anandh S P K",,1975.0,False,IND,0.0,1,-0.16,40,-6.4
+33398968,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1777,1691,5.5,8,2.24,40,89.6,"Abdul, Nazer K",,1454.0,False,IND,1.0,1,0.2,40,8.0
+33398968,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1777,1691,5.5,8,2.24,40,89.6,"Sailesh, R",,2072.0,False,IND,1.0,1,0.91,40,36.4
+33398968,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1777,1691,5.5,8,2.24,40,89.6,"Sreekumar, P.",,1953.0,False,IND,0.5,1,0.32,40,12.8
+33398968,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1739,1781,8.5,11,2.36,40,94.4,"Vivaan, Srivastava",,1450.0,False,IND,1.0,1,0.12,40,4.8
+33398968,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1739,1781,8.5,11,2.36,40,94.4,"Adriel, Job",,1543.0,False,IND,1.0,1,0.2,40,8.0
+33398968,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1739,1781,8.5,11,2.36,40,94.4,"Vasireddy, Arjun",,1595.0,False,IND,1.0,1,0.26,40,10.4
+33398968,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1739,1781,8.5,11,2.36,40,94.4,"Sathvik, Gulakaram",,1636.0,False,IND,1.0,1,0.31,40,12.4
+33398968,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1739,1781,8.5,11,2.36,40,94.4,"Aarav, A",c,2181.0,True,IND,1.0,1,0.92,40,36.8
+33398968,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1739,1781,8.5,11,2.36,40,94.4,"Joshi, Aditya Shripad",,1873.0,False,IND,0.5,1,0.13,40,5.2
+33398968,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1739,1781,8.5,11,2.36,40,94.4,"Aditya, Shardul Kadam",,1686.0,False,IND,0.5,1,-0.13,40,-5.2
+33398968,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1739,1781,8.5,11,2.36,40,94.4,"Samarth, Jain",,1827.0,False,IND,0.0,1,-0.44,40,-17.6
+33398968,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1739,1781,8.5,11,2.36,40,94.4,"Anish, Ramkumar",,1680.0,False,IND,1.0,1,0.36,40,14.4
+33398968,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1739,1781,8.5,11,2.36,40,94.4,"Andalamala, Hemal Varshan",,1832.0,False,IND,0.5,1,0.07,40,2.8
+33398968,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1739,1781,8.5,11,2.36,40,94.4,"Divith, Reddy Adulla",,1825.0,False,IND,1.0,1,0.56,40,22.4
+33398968,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1921,1875,5.0,9,0.97,36,34.92,"Majumder, Shrayan",,2159.0,False,IND,0.5,1,0.34,36,12.24
+33398968,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1921,1875,5.0,9,0.97,36,34.92,"Harshit, Ranjan Sahu",,2208.0,False,IND,0.0,1,-0.12,36,-4.32
+33398968,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1921,1875,5.0,9,0.97,36,34.92,"Sinjan, Roy",,1734.0,False,IND,1.0,1,0.31,36,11.16
+33398968,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1921,1875,5.0,9,0.97,36,34.92,"Mhamane, Sourabh",,2018.0,False,IND,0.0,1,-0.31,36,-11.16
+33398968,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1921,1875,5.0,9,0.97,36,34.92,"Rudra, Rajeev",,1747.0,False,IND,1.0,1,0.33,36,11.88
+33398968,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1921,1875,5.0,9,0.97,36,34.92,"Paramarth, Mitra",,1669.0,False,IND,1.0,1,0.24,36,8.64
+33398968,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1921,1875,5.0,9,0.97,36,34.92,"Yohan, Yadav Tarala",,2001.0,False,IND,0.0,1,-0.33,36,-11.88
+33398968,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1921,1875,5.0,9,0.97,36,34.92,"Goddeti, Hima Tejaswini",,1751.0,False,IND,1.0,1,0.33,36,11.88
+33398968,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1921,1875,5.0,9,0.97,36,34.92,"Nimay, Agrawal",c,2005.0,False,IND,0.5,1,0.18,36,6.48
+33398968,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1657,1875,5.5,10,-2.24,36,-80.64,"Mohamed, Abuthalif",,1549.0,False,IND,1.0,1,0.13,36,4.68
+33398968,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1657,1875,5.5,10,-2.24,36,-80.64,"Abhinav, Raj V S",,1659.0,False,IND,1.0,1,0.22,36,7.92
+33398968,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1657,1875,5.5,10,-2.24,36,-80.64,"Shashank, K",,1726.0,False,IND,0.0,1,-0.7,36,-25.2
+33398968,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1657,1875,5.5,10,-2.24,36,-80.64,"Onkar, Paldhe",,1649.0,False,IND,1.0,1,0.21,36,7.56
+33398968,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1657,1875,5.5,10,-2.24,36,-80.64,"Pranavasri, S",,1707.0,False,IND,0.0,1,-0.72,36,-25.92
+33398968,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1657,1875,5.5,10,-2.24,36,-80.64,"Anirudh, Satish",,1652.0,False,IND,1.0,1,0.22,36,7.92
+33398968,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1657,1875,5.5,10,-2.24,36,-80.64,"Sarath, Kumar Murugesan",,1700.0,False,IND,0.0,1,-0.73,36,-26.28
+33398968,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1657,1875,5.5,10,-2.24,36,-80.64,"Ajin, P R",,1643.0,False,IND,0.5,1,-0.29,36,-10.44
+33398968,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1657,1875,5.5,10,-2.24,36,-80.64,"Stuti, Pradeep",,1649.0,False,IND,0.5,1,-0.29,36,-10.44
+33398968,2025-01-01,0,Athens of the East 4th International Open FIDE Rated Chess Tournament- 2024 (Below -2000),Madurai IND,2024-12-24,2024-12-27,1657,1875,5.5,10,-2.24,36,-80.64,"Balaram, U",,1640.0,False,IND,0.5,1,-0.29,36,-10.44
+33398968,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1690,1829,6.5,9,0.51,40,20.4,"Sarvesh, G",,1437.0,False,IND,1.0,1,0.08,40,3.2
+33398968,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1690,1829,6.5,9,0.51,40,20.4,"Golamari, Lokasai Hanshith Reddy",,1514.0,False,IND,1.0,1,0.14,40,5.6
+33398968,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1690,1829,6.5,9,0.51,40,20.4,"Dev, Dharshan S",,1632.0,False,IND,0.5,1,-0.25,40,-10.0
+33398968,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1690,1829,6.5,9,0.51,40,20.4,"Sudarshan, Balaji",,1625.0,False,IND,1.0,1,0.24,40,9.6
+33398968,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1690,1829,6.5,9,0.51,40,20.4,"Adhyayan, Banerjee",,1749.0,False,IND,1.0,1,0.39,40,15.6
+33398968,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1690,1829,6.5,9,0.51,40,20.4,"Shashveen, A K",,1943.0,False,IND,0.5,1,0.16,40,6.4
+33398968,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1690,1829,6.5,9,0.51,40,20.4,"Samanth, Nataraj Naidu",,1712.0,False,IND,1.0,1,0.34,40,13.6
+33398968,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1690,1829,6.5,9,0.51,40,20.4,"Samarth, Sreeni Warrier",,1832.0,False,IND,0.0,1,-0.5,40,-20.0
+33398968,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1690,1829,6.5,9,0.51,40,20.4,"Maras, Sahejveer Singh",,1764.0,False,IND,0.5,1,-0.09,40,-3.6

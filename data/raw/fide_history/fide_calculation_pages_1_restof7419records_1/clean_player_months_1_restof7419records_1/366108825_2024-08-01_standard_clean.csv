@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366108825,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN B",Paracin SRB,2024-07-03,2024-07-11,1780,1730,2.5,6,-0.08,40,-3.2,"Ucoluk, Umut",,1871.0,False,TUR,1.0,1,0.69,40,27.6
+366108825,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN B",Paracin SRB,2024-07-03,2024-07-11,1780,1730,2.5,6,-0.08,40,-3.2,"Lukic, Sasa",,1905.0,False,SRB,0.0,1,-0.27,40,-10.8
+366108825,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN B",Paracin SRB,2024-07-03,2024-07-11,1780,1730,2.5,6,-0.08,40,-3.2,"Velikov, Nikola",,1958.0,False,BUL,0.0,1,-0.21,40,-8.4
+366108825,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN B",Paracin SRB,2024-07-03,2024-07-11,1780,1730,2.5,6,-0.08,40,-3.2,"Selenge, Lkhaasuren",,1527.0,False,MGL,0.5,1,-0.26,40,-10.4
+366108825,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN B",Paracin SRB,2024-07-03,2024-07-11,1780,1730,2.5,6,-0.08,40,-3.2,"Milovanovic, Srboljub",,1968.0,False,SRB,0.0,1,-0.2,40,-8.0
+366108825,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN B",Paracin SRB,2024-07-03,2024-07-11,1780,1730,2.5,6,-0.08,40,-3.2,"Ozer, Kayra",,1453.0,False,TUR,1.0,1,0.17,40,6.8
+366108825,2024-08-01,0,SERBIA OPEN 2024 - Challengers,Beograd SRB,2024-07-12,2024-07-17,1831,1730,4.0,8,1.03,40,41.2,"Zubic, Aleksandar",,1959.0,False,SRB,0.0,1,-0.21,40,-8.4
+366108825,2024-08-01,0,SERBIA OPEN 2024 - Challengers,Beograd SRB,2024-07-12,2024-07-17,1831,1730,4.0,8,1.03,40,41.2,"Mimic, Sofija",,1912.0,False,BIH,0.0,1,-0.26,40,-10.4
+366108825,2024-08-01,0,SERBIA OPEN 2024 - Challengers,Beograd SRB,2024-07-12,2024-07-17,1831,1730,4.0,8,1.03,40,41.2,"Tenuun, Tseesuren",,1588.0,False,MGL,1.0,1,0.31,40,12.4
+366108825,2024-08-01,0,SERBIA OPEN 2024 - Challengers,Beograd SRB,2024-07-12,2024-07-17,1831,1730,4.0,8,1.03,40,41.2,"Orshonova, Elena",wf,1992.0,False,SRB,0.0,1,-0.18,40,-7.2
+366108825,2024-08-01,0,SERBIA OPEN 2024 - Challengers,Beograd SRB,2024-07-12,2024-07-17,1831,1730,4.0,8,1.03,40,41.2,"Babic, Una",,1615.0,False,SRB,1.0,1,0.34,40,13.6
+366108825,2024-08-01,0,SERBIA OPEN 2024 - Challengers,Beograd SRB,2024-07-12,2024-07-17,1831,1730,4.0,8,1.03,40,41.2,"Petrova, Maria",,1838.0,False,BUL,1.0,1,0.65,40,26.0
+366108825,2024-08-01,0,SERBIA OPEN 2024 - Challengers,Beograd SRB,2024-07-12,2024-07-17,1831,1730,4.0,8,1.03,40,41.2,"Kopestynski, Michal",,1854.0,False,POL,0.0,1,-0.33,40,-13.2
+366108825,2024-08-01,0,SERBIA OPEN 2024 - Challengers,Beograd SRB,2024-07-12,2024-07-17,1831,1730,4.0,8,1.03,40,41.2,"Lu, Di",,1888.0,False,CHN,1.0,1,0.71,40,28.4

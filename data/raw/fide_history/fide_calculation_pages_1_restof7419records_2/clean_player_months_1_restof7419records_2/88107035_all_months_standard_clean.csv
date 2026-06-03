@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88107035,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,,,1.0,2,0.0,1488,,"Saji, C C",,1415,False,IND,0.0,1,0.0,,0.0
+88107035,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,,,1.0,2,0.0,1488,,"Sabarinath, Vinodh",,1561,False,IND,1.0,1,0.0,,0.0
+88107035,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,,,0.0,2,0.0,642,,"Kapilnithin, B M",,1443,False,IND,0.0,1,0.0,,0.0
+88107035,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,,,0.0,2,0.0,642,,"Hari, Raghavendran",,1440,False,IND,0.0,1,0.0,,0.0
+88107035,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,,,1.0,3,0.0,1358,,"Bavasudhan, T S",,1471,False,IND,1.0,1,0.0,,0.0
+88107035,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,,,1.0,3,0.0,1358,,"Kavin, Prakash",,1541,False,IND,0.0,1,0.0,,0.0
+88107035,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,,,1.0,3,0.0,1358,,"Dishi, Makhija",,1438,False,IND,0.0,1,0.0,,0.0
+88107035,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1605.0,1420.0,1.0,4,-0.13,40,-5.2,"Ramakrishnan, M R",,1820,True,IND,0.0,1,-0.08,40.0,-3.2
+88107035,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1605.0,1420.0,1.0,4,-0.13,40,-5.2,"Varchas, Krishna Jayaraman",,1604,False,IND,0.0,1,-0.26,40.0,-10.4
+88107035,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1605.0,1420.0,1.0,4,-0.13,40,-5.2,"Takkshanth, Anand",,1591,False,IND,0.0,1,-0.27,40.0,-10.8
+88107035,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1605.0,1420.0,1.0,4,-0.13,40,-5.2,"Sabarish, K",,1403,False,IND,1.0,1,0.48,40.0,19.2

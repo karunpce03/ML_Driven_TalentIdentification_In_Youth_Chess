@@ -1,0 +1,30 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48765848,2024-05-01,0,April Classic Chess Tournament 2024,Kuwait KUW,2024-04-18,2024-04-25,1589,1473,1.0,3,-0.11,40,-4.4,"Mithilesh, Ranjithkumar",,1822.0,False,IND,0.0,1,-0.11,40,-4.4
+48765848,2024-05-01,0,April Classic Chess Tournament 2024,Kuwait KUW,2024-04-18,2024-04-25,1589,1473,1.0,3,-0.11,40,-4.4,"Safar, Hussain",,1431.0,False,KUW,1.0,1,0.44,40,17.6
+48765848,2024-05-01,0,April Classic Chess Tournament 2024,Kuwait KUW,2024-04-18,2024-04-25,1589,1473,1.0,3,-0.11,40,-4.4,"Avantika, Maneesh",,1515.0,False,IND,0.0,1,-0.44,40,-17.6
+48765848,2024-07-01,0,Tata Steel - 4th All India Specially Abled Chess Tournament-2024,Jamshedpur IND,2024-06-25,2024-06-28,1455,1469,1.5,3,-0.07,40,-2.8,"Dushyant, Pal",,1422.0,False,IND,0.0,1,-0.57,40,-22.8
+48765848,2024-07-01,0,Tata Steel - 4th All India Specially Abled Chess Tournament-2024,Jamshedpur IND,2024-06-25,2024-06-28,1455,1469,1.5,3,-0.07,40,-2.8,"Mehta, Charvi",,1484.0,False,IND,0.5,1,0.02,40,0.8
+48765848,2024-07-01,0,Tata Steel - 4th All India Specially Abled Chess Tournament-2024,Jamshedpur IND,2024-06-25,2024-06-28,1455,1469,1.5,3,-0.07,40,-2.8,"Venkatesan, J",,1458.0,False,IND,1.0,1,0.48,40,19.2
+48765848,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1756,1466,2.5,7,1.23,40,49.2,"Zakharova, Evgeniya",,1866.0,True,FID,0.0,1,-0.08,40,-3.2
+48765848,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1756,1466,2.5,7,1.23,40,49.2,"Gerasimova, Svetlana",wf,1866.0,True,FID,0.0,1,-0.08,40,-3.2
+48765848,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1756,1466,2.5,7,1.23,40,49.2,"Shchukina, Ekaterina",,1663.0,False,FID,1.0,1,0.75,40,30.0
+48765848,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1756,1466,2.5,7,1.23,40,49.2,"Roehrig, Uwe",,1806.0,False,GER,1.0,1,0.88,40,35.2
+48765848,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1756,1466,2.5,7,1.23,40,49.2,"Markov, Ilja",,1848.0,False,FID,0.5,1,0.41,40,16.4
+48765848,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1756,1466,2.5,7,1.23,40,49.2,"Khlypovka, Lada",,1790.0,False,FID,0.0,1,-0.13,40,-5.2
+48765848,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1756,1466,2.5,7,1.23,40,49.2,"Melkonyan, Mayis",,1450.0,False,ARM,0.0,1,-0.52,40,-20.8
+48765848,2024-09-01,0,August Classic Chess Tournament,Kuwait KUW,2024-08-01,2024-08-09,1678,1515,0.0,2,-0.57,40,-22.8,"Khalaf, Ali",,1703.0,False,KUW,0.0,1,-0.26,40,-10.4
+48765848,2024-09-01,0,August Classic Chess Tournament,Kuwait KUW,2024-08-01,2024-08-09,1678,1515,0.0,2,-0.57,40,-22.8,"Alruwayeh, Talal",,1653.0,False,KUW,0.0,1,-0.31,40,-12.4
+48765848,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1703,1492,0.0,3,-0.7,40,-28.0,"Nishaanth, Vidyasagar",,1725.0,False,IND,0.0,1,-0.21,40,-8.4
+48765848,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1703,1492,0.0,3,-0.7,40,-28.0,"Alasfour, Zaid",,1755.0,False,KUW,0.0,1,-0.18,40,-7.2
+48765848,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1703,1492,0.0,3,-0.7,40,-28.0,Nithinkrish,,1630.0,False,IND,0.0,1,-0.31,40,-12.4
+48765848,2024-12-01,0,Asian Chess Championship for Players with Disabilities 2024 - Juniors,Bishkek KGZ,2024-11-11,2024-11-17,1700,1464,1.5,4,0.6,40,24.0,"Rakhatbekov, Tilegen",,1771.0,False,KGZ,0.0,1,-0.14,40,-5.6
+48765848,2024-12-01,0,Asian Chess Championship for Players with Disabilities 2024 - Juniors,Bishkek KGZ,2024-11-11,2024-11-17,1700,1464,1.5,4,0.6,40,24.0,"Pisnov, Dmitriy",,1676.0,False,FID,1.0,1,0.77,40,30.8
+48765848,2024-12-01,0,Asian Chess Championship for Players with Disabilities 2024 - Juniors,Bishkek KGZ,2024-11-11,2024-11-17,1700,1464,1.5,4,0.6,40,24.0,"Usmanov, Dias",,1505.0,False,KAZ,0.5,1,0.06,40,2.4
+48765848,2024-12-01,0,Asian Chess Championship for Players with Disabilities 2024 - Juniors,Bishkek KGZ,2024-11-11,2024-11-17,1700,1464,1.5,4,0.6,40,24.0,"Bogdan, David",,1846.0,False,FID,0.0,1,-0.09,40,-3.6
+48765848,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1593,1488,2.5,7,-0.04,40,-1.6,"Jai, Khalish S",,1685.0,False,IND,0.0,1,-0.25,40,-10.0
+48765848,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1593,1488,2.5,7,-0.04,40,-1.6,"Qutaiba, Sadeq Yair Almajbool",,1703.0,False,IRQ,0.0,1,-0.23,40,-9.2
+48765848,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1593,1488,2.5,7,-0.04,40,-1.6,"Sulaiman, Hussain",,1414.0,False,KUW,1.0,1,0.4,40,16.0
+48765848,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1593,1488,2.5,7,-0.04,40,-1.6,"Mohnish, Balamurugan",,1640.0,False,IND,0.0,1,-0.3,40,-12.0
+48765848,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1593,1488,2.5,7,-0.04,40,-1.6,"Taksh, Agrawal",,1625.0,False,IND,1.0,1,0.68,40,27.2
+48765848,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1593,1488,2.5,7,-0.04,40,-1.6,"Alhasan, Zainah",,1522.0,False,KUW,0.5,1,0.05,40,2.0
+48765848,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1593,1488,2.5,7,-0.04,40,-1.6,"Adriel, Job",,1565.0,False,IND,0.0,1,-0.39,40,-15.6

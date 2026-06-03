@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25185047,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1756,1496,3.0,7,1.66,40,66.4,"Haikam, Mengise",,1747,False,IND,0.5,1,0.31,40,12.4
+25185047,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1756,1496,3.0,7,1.66,40,66.4,"Subrata, Nandy Roy",,1657,False,IND,1.0,1,0.71,40,28.4
+25185047,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1756,1496,3.0,7,1.66,40,66.4,"Ayush, Saha",,1731,False,IND,0.5,1,0.29,40,11.6
+25185047,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1756,1496,3.0,7,1.66,40,66.4,"Rajbeer, Ahmed",,1685,False,IND,0.0,1,-0.25,40,-10.0
+25185047,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1756,1496,3.0,7,1.66,40,66.4,"Lalruattluanga, Pautu",,1735,False,IND,0.5,1,0.3,40,12.0
+25185047,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1756,1496,3.0,7,1.66,40,66.4,"Lalmalsawma, B",,1839,False,IND,0.5,1,0.38,40,15.2
+25185047,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1756,1496,3.0,7,1.66,40,66.4,"Dupit, Tabu",,1896,True,IND,0.0,1,-0.08,40,-3.2

@@ -1,0 +1,37 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25907824,2024-07-01,0,UP State U-13 Chess Championship-2024-25 (Open),Bijnor IND,2024-06-07,2024-06-09,1523,1450,0.0,1,-0.4,40,-16.0,"Soumik, Chattopadhyaya",,1523.0,False,IND,0.0,1,-0.4,40,-16.0
+25907824,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1590,1450,2.0,6,0.08,40,3.2,"Harshit, Singh",,1776.0,False,IND,0.0,1,-0.13,40,-5.2
+25907824,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1590,1450,2.0,6,0.08,40,3.2,"Dinesh, Sinha",,1581.0,False,IND,0.0,1,-0.32,40,-12.8
+25907824,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1590,1450,2.0,6,0.08,40,3.2,"Yasar, Abdullah",,1560.0,False,IND,0.0,1,-0.35,40,-14.0
+25907824,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1590,1450,2.0,6,0.08,40,3.2,"Abhinav, K Sharma",,1550.0,False,IND,0.5,1,0.14,40,5.6
+25907824,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1590,1450,2.0,6,0.08,40,3.2,"Viyom, Bansal",,1522.0,False,IND,0.5,1,0.1,40,4.0
+25907824,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1590,1450,2.0,6,0.08,40,3.2,"Jitendra, Sharma",,1549.0,False,IND,1.0,1,0.64,40,25.6
+25907824,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1688,1437,1.0,5,0.0,40,0.0,"Sresth, Yadav",,1673.0,False,IND,0.5,1,0.3,40,12.0
+25907824,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1688,1437,1.0,5,0.0,40,0.0,"Ramanuj, Mishra",,1836.0,False,IND,0.0,1,-0.08,40,-3.2
+25907824,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1688,1437,1.0,5,0.0,40,0.0,"Maaz, Iqubal",,1734.0,False,IND,0.0,1,-0.15,40,-6.0
+25907824,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1688,1437,1.0,5,0.0,40,0.0,"Barolia, Arihan",,1545.0,False,IND,0.5,1,0.15,40,6.0
+25907824,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1688,1437,1.0,5,0.0,40,0.0,"Pranjal, Verma",,1653.0,False,IND,0.0,1,-0.22,40,-8.8
+25907824,2024-08-01,0,UP State U-15 Chess Championship-2024-25 (Open),Ballia IND,2024-07-10,2024-07-12,1761,1437,0.0,3,-0.4,40,-16.0,"Shreyash, Singh",,1837.0,True,IND,0.0,1,-0.08,40,-3.2
+25907824,2024-08-01,0,UP State U-15 Chess Championship-2024-25 (Open),Ballia IND,2024-07-10,2024-07-12,1761,1437,0.0,3,-0.4,40,-16.0,"Maaz, Iqubal",,1734.0,False,IND,0.0,1,-0.15,40,-6.0
+25907824,2024-08-01,0,UP State U-15 Chess Championship-2024-25 (Open),Ballia IND,2024-07-10,2024-07-12,1761,1437,0.0,3,-0.4,40,-16.0,"Ojasya, Saxena",,1711.0,False,IND,0.0,1,-0.17,40,-6.8
+25907824,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1628,1421,3.0,9,0.86,40,34.4,"Dayal, Samar",,1719.0,False,ENG,0.0,1,-0.15,40,-6.0
+25907824,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1628,1421,3.0,9,0.86,40,34.4,"Pranjal, Verma",,1597.0,False,IND,1.0,1,0.73,40,29.2
+25907824,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1628,1421,3.0,9,0.86,40,34.4,"Alakxya, Das",,1621.0,False,IND,1.0,1,0.76,40,30.4
+25907824,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1628,1421,3.0,9,0.86,40,34.4,"Merryston, David Scanny",,1713.0,False,IND,0.0,1,-0.15,40,-6.0
+25907824,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1628,1421,3.0,9,0.86,40,34.4,"Rishi, Kumar Pandey",,1622.0,False,IND,0.5,1,0.26,40,10.4
+25907824,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1628,1421,3.0,9,0.86,40,34.4,"Sananda, R",,1628.0,False,IND,0.5,1,0.27,40,10.8
+25907824,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1628,1421,3.0,9,0.86,40,34.4,"Sastry, P L",,1617.0,False,IND,0.0,1,-0.25,40,-10.0
+25907824,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1628,1421,3.0,9,0.86,40,34.4,"Akkshat, N",,1580.0,False,IND,0.0,1,-0.29,40,-11.6
+25907824,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1628,1421,3.0,9,0.86,40,34.4,"Sanjib Kumar, Mohanta",,1551.0,False,IND,0.0,1,-0.32,40,-12.8
+25907824,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1597,1421,3.5,8,1.33,40,53.2,"Ayaan, Trikha",,1663.0,False,IND,0.5,1,0.3,40,12.0
+25907824,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1597,1421,3.5,8,1.33,40,53.2,"Binu, Sebastian",,1610.0,False,IND,1.0,1,0.75,40,30.0
+25907824,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1597,1421,3.5,8,1.33,40,53.2,"Amit, Kr. Damele",,1624.0,False,IND,0.5,1,0.26,40,10.4
+25907824,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1597,1421,3.5,8,1.33,40,53.2,"Arun, Pratap Singh",,1599.0,False,IND,0.0,1,-0.27,40,-10.8
+25907824,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1597,1421,3.5,8,1.33,40,53.2,"Rakshit, Batra",,1562.0,False,IND,0.0,1,-0.31,40,-12.4
+25907824,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1597,1421,3.5,8,1.33,40,53.2,"Sathyaraj, G",,1596.0,False,IND,0.0,1,-0.27,40,-10.8
+25907824,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1597,1421,3.5,8,1.33,40,53.2,"Singh, Surypratap",,1580.0,False,IND,1.0,1,0.71,40,28.4
+25907824,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1597,1421,3.5,8,1.33,40,53.2,"Shaleen, Mittal",,1542.0,False,IND,0.5,1,0.16,40,6.4
+25907824,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1535,1509,2.5,4,0.51,40,20.4,"Shreyas, Raj",,1909.0,True,IND,0.0,1,-0.08,40,-3.2
+25907824,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1535,1509,2.5,4,0.51,40,20.4,"Shubh, Srivastava",,1420.0,False,IND,0.5,1,-0.12,40,-4.8
+25907824,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1535,1509,2.5,4,0.51,40,20.4,"Arjun, Sharma",,1409.0,False,IND,1.0,1,0.36,40,14.4
+25907824,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1535,1509,2.5,4,0.51,40,20.4,"Japesh, Chaudhary",,1402.0,False,IND,1.0,1,0.35,40,14.0

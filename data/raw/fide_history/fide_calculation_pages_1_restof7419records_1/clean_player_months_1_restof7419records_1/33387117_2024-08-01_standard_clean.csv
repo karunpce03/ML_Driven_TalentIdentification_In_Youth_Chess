@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33387117,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1708,1454,1.0,5,0.01,40,0.4,"Sudhanshu, Ranjan",,1854,True,IND,0.0,1,-0.08,40,-3.2
+33387117,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1708,1454,1.0,5,0.01,40,0.4,"Sushant, Tiwari",,1684,False,IND,0.0,1,-0.21,40,-8.4
+33387117,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1708,1454,1.0,5,0.01,40,0.4,"Abhyudaya, Matta",,1699,False,IND,1.0,1,0.8,40,32.0
+33387117,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1708,1454,1.0,5,0.01,40,0.4,"Abhishek, Kumar Mishra",,1580,False,IND,0.0,1,-0.33,40,-13.2
+33387117,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1708,1454,1.0,5,0.01,40,0.4,"Amartya, Kumar",,1724,False,IND,0.0,1,-0.17,40,-6.8

@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33490643,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1681,1668,5.5,8,1.53,40,61.2,"Lokesh, Potaliya",,1492.0,False,IND,1.0,1,0.27,40,10.8
+33490643,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1681,1668,5.5,8,1.53,40,61.2,"Badrinath, S.",,2033.0,False,IND,0.0,1,-0.1,40,-4.0
+33490643,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1681,1668,5.5,8,1.53,40,61.2,"Arhaan, Agrawal",,1523.0,False,IND,1.0,1,0.31,40,12.4
+33490643,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1681,1668,5.5,8,1.53,40,61.2,"Arnav, Goyal",,1541.0,False,IND,0.5,1,-0.17,40,-6.8
+33490643,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1681,1668,5.5,8,1.53,40,61.2,"Aarav, Agarwal",,1562.0,False,IND,0.5,1,-0.14,40,-5.6
+33490643,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1681,1668,5.5,8,1.53,40,61.2,"Siyaram, Kumawat",,1543.0,False,IND,1.0,1,0.33,40,13.2
+33490643,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1681,1668,5.5,8,1.53,40,61.2,"Gopal, Rathod",,1892.0,False,IND,0.5,1,0.28,40,11.2
+33490643,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1681,1668,5.5,8,1.53,40,61.2,"Sahil, Bheron",,1858.0,False,IND,1.0,1,0.75,40,30.0

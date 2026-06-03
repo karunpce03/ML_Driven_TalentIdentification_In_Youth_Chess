@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25966987,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2095,2041,9.0,11,4.18,40,167.2,"Aarav, Manche",,1664,False,IND,1.0,1,0.09,40,3.6
+25966987,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2095,2041,9.0,11,4.18,40,167.2,"Aadinath, Harilal",,1796,False,IND,1.0,1,0.2,40,8.0
+25966987,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2095,2041,9.0,11,4.18,40,167.2,"Lalitaditaayyanar, Boominathan",,1884,False,IND,1.0,1,0.29,40,11.6
+25966987,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2095,2041,9.0,11,4.18,40,167.2,"Ghadge, Harsh",,1919,False,IND,1.0,1,0.33,40,13.2
+25966987,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2095,2041,9.0,11,4.18,40,167.2,"Ilamparthi, A R",m,2441,True,IND,1.0,1,0.92,40,36.8
+25966987,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2095,2041,9.0,11,4.18,40,167.2,"Aakash, G",c,2320,False,IND,1.0,1,0.84,40,33.6
+25966987,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2095,2041,9.0,11,4.18,40,167.2,"Vaz, Ethan",m,2370,False,IND,0.5,1,0.38,40,15.2
+25966987,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2095,2041,9.0,11,4.18,40,167.2,"Arshpreet, Singh",,2039,False,IND,1.0,1,0.5,40,20.0
+25966987,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2095,2041,9.0,11,4.18,40,167.2,"Madhvendra, Pratap Sharma",c,2201,False,IND,0.5,1,0.21,40,8.4
+25966987,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2095,2041,9.0,11,4.18,40,167.2,"Jaiveer, Mahendru",f,2273,False,IND,0.0,1,-0.21,40,-8.4
+25966987,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2095,2041,9.0,11,4.18,40,167.2,"Kalyani, Sirin",wf,2133,False,IND,1.0,1,0.63,40,25.2

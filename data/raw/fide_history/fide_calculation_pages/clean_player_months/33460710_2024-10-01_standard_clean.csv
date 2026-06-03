@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33460710,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1722,1449,1.0,3,0.46,40,18.4,"Sravyasree, Bheemarasetty",,1849.0,True,IND,1.0,1,0.92,40,36.8
+33460710,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1722,1449,1.0,3,0.46,40,18.4,"Ehaan, Shaikh",,1686.0,False,IND,0.0,1,-0.2,40,-8.0
+33460710,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1722,1449,1.0,3,0.46,40,18.4,"Rashmika, Maringanti",,1632.0,False,IND,0.0,1,-0.26,40,-10.4
+33460710,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1542,1449,1.0,5,-0.88,40,-35.2,"Sathvik, Gulakaram",,1618.0,False,IND,0.0,1,-0.28,40,-11.2
+33460710,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1542,1449,1.0,5,-0.88,40,-35.2,"Bolla, Deepak",,1582.0,False,IND,0.0,1,-0.32,40,-12.8
+33460710,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1542,1449,1.0,5,-0.88,40,-35.2,"Anvit, Srivastava",,1547.0,False,IND,0.0,1,-0.37,40,-14.8
+33460710,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1542,1449,1.0,5,-0.88,40,-35.2,"Turupu, Haveesh Reddy",,1404.0,False,IND,1.0,1,0.44,40,17.6
+33460710,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1542,1449,1.0,5,-0.88,40,-35.2,"Sri, Shiva Tejo Karthikeya K",,1558.0,False,IND,0.0,1,-0.35,40,-14.0

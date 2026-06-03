@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33368783,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1927,1783,4.5,9,1.63,40,65.2,"Arellano, Bryle",,2023.0,False,PHI,0.5,1,0.3,40,12.0
+33368783,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1927,1783,4.5,9,1.63,40,65.2,"Sureka, Akshat",,2141.0,False,IND,0.0,1,-0.1,40,-4.0
+33368783,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1927,1783,4.5,9,1.63,40,65.2,"Ahmad, Al Romaithi",,1944.0,False,UAE,1.0,1,0.71,40,28.4
+33368783,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1927,1783,4.5,9,1.63,40,65.2,"Krishay, Jain",,1918.0,False,IND,0.0,1,-0.32,40,-12.8
+33368783,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1927,1783,4.5,9,1.63,40,65.2,"Arvind, Ramnath Iyer",,1886.0,False,IND,0.0,1,-0.36,40,-14.4
+33368783,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1927,1783,4.5,9,1.63,40,65.2,"Al Awad, Naser",,1666.0,False,KSA,1.0,1,0.34,40,13.6
+33368783,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1927,1783,4.5,9,1.63,40,65.2,"Muratova, Saltanat",,1860.0,False,KAZ,1.0,1,0.61,40,24.4
+33368783,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1927,1783,4.5,9,1.63,40,65.2,"Abucejo, Armel N",,1937.0,False,PHI,1.0,1,0.71,40,28.4
+33368783,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1927,1783,4.5,9,1.63,40,65.2,"Bobomurodova, Maftuna",wm,1966.0,False,UZB,0.0,1,-0.26,40,-10.4

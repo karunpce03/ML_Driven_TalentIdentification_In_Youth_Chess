@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33330956,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1687.0,1449.0,0.0,3,-0.67,40,-26.8,"Mitra, Swapan",,1849.0,True,IND,0.0,1,-0.08,40.0,-3.2
+33330956,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1687.0,1449.0,0.0,3,-0.67,40,-26.8,"Sunetra, Dey",,1654.0,False,IND,0.0,1,-0.24,40.0,-9.6
+33330956,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1687.0,1449.0,0.0,3,-0.67,40,-26.8,"Tanmay, Talin Behera",,1558.0,False,IND,0.0,1,-0.35,40.0,-14.0
+33330956,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1534.0,1422.0,1.0,6,-1.11,40,-44.4,"Dakhsha, Rudra",,1652.0,False,IND,0.0,1,-0.21,40.0,-8.4
+33330956,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1534.0,1422.0,1.0,6,-1.11,40,-44.4,"Dina, Patel",,1498.0,False,IND,0.5,1,0.1,40.0,4.0
+33330956,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1534.0,1422.0,1.0,6,-1.11,40,-44.4,"Aligi, Riya Hemal",,1479.0,False,IND,0.0,1,-0.42,40.0,-16.8
+33330956,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1534.0,1422.0,1.0,6,-1.11,40,-44.4,"Shradha, Smaranika Nanda",,1602.0,False,IND,0.0,1,-0.26,40.0,-10.4
+33330956,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1534.0,1422.0,1.0,6,-1.11,40,-44.4,"Krittika, Pyne",,1501.0,False,IND,0.5,1,0.11,40.0,4.4
+33330956,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1534.0,1422.0,1.0,6,-1.11,40,-44.4,"Ahana, Dalbera",,1474.0,False,IND,0.0,1,-0.43,40.0,-17.2
+33330956,2025-02-01,0,PMZDS INTERNATIONAL OPEN FIDE RATING CHESS TOURNAMENT-2025,Purba Medinipur IND,2025-01-07,2025-01-12,,,1.0,4,0.0,1433,,"Mudil, Dharewa",,1747.0,False,IND,0.5,1,0.0,,0.0
+33330956,2025-02-01,0,PMZDS INTERNATIONAL OPEN FIDE RATING CHESS TOURNAMENT-2025,Purba Medinipur IND,2025-01-07,2025-01-12,,,1.0,4,0.0,1433,,"Manoranjan, Kapat",,1731.0,False,IND,0.0,1,0.0,,0.0
+33330956,2025-02-01,0,PMZDS INTERNATIONAL OPEN FIDE RATING CHESS TOURNAMENT-2025,Purba Medinipur IND,2025-01-07,2025-01-12,,,1.0,4,0.0,1433,,"Shreyas, Ghosal",,1532.0,False,IND,0.0,1,0.0,,0.0
+33330956,2025-02-01,0,PMZDS INTERNATIONAL OPEN FIDE RATING CHESS TOURNAMENT-2025,Purba Medinipur IND,2025-01-07,2025-01-12,,,1.0,4,0.0,1433,,"Swarnava, Bhattacharya",,1492.0,False,IND,0.5,1,0.0,,0.0
+33330956,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,,,2.0,7,0.0,1393,,"Rituraj, Tamuli",,1768.0,False,IND,0.0,1,0.0,,0.0
+33330956,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,,,2.0,7,0.0,1393,,"Ashutosh, Buragohain",,1542.0,False,IND,0.0,1,0.0,,0.0
+33330956,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,,,2.0,7,0.0,1393,,"Doley, R.p.",,1516.0,False,IND,1.0,1,0.0,,0.0
+33330956,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,,,2.0,7,0.0,1393,,"Syed, Shabaz Farhan",,1538.0,False,IND,0.5,1,0.0,,0.0
+33330956,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,,,2.0,7,0.0,1393,,"Baishnavi, Limboo",,1518.0,False,IND,0.0,1,0.0,,0.0
+33330956,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,,,2.0,7,0.0,1393,,"Anurag, Hazarika",,1515.0,False,IND,0.5,1,0.0,,0.0
+33330956,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,,,2.0,7,0.0,1393,,"Subramanian, T.v.",,1457.0,False,IND,0.0,1,0.0,,0.0

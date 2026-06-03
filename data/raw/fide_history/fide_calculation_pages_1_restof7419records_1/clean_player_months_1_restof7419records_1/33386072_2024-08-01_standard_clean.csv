@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33386072,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1655,1500,1.5,5,0.02,40,0.8,"Diproneel, Barman",,1695.0,False,IND,0.0,1,-0.25,40,-10.0
+33386072,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1655,1500,1.5,5,0.02,40,0.8,"Subham, Bhattacharjee",,1634.0,False,IND,0.0,1,-0.32,40,-12.8
+33386072,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1655,1500,1.5,5,0.02,40,0.8,"Arshiya, Inayat Laskar",,1669.0,False,IND,1.0,1,0.72,40,28.8
+33386072,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1655,1500,1.5,5,0.02,40,0.8,"Subhradeep, Roy",,1584.0,False,IND,0.5,1,0.12,40,4.8
+33386072,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1655,1500,1.5,5,0.02,40,0.8,"Nihad, Islam Hazarika",,1691.0,False,IND,0.0,1,-0.25,40,-10.0
+33386072,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1674,1500,1.5,5,0.11,40,4.4,"Rintu, Brahma",,1830.0,False,IND,0.0,1,-0.12,40,-4.8
+33386072,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1674,1500,1.5,5,0.11,40,4.4,"Anuj, Boro",,1634.0,False,IND,0.5,1,0.18,40,7.2
+33386072,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1674,1500,1.5,5,0.11,40,4.4,"Hiranya, Das",,1627.0,False,IND,1.0,1,0.67,40,26.8
+33386072,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1674,1500,1.5,5,0.11,40,4.4,"Hitarth, Pratim Buragohain",,1617.0,False,IND,0.0,1,-0.34,40,-13.6
+33386072,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1674,1500,1.5,5,0.11,40,4.4,"Adipto, Nath",,1664.0,False,IND,0.0,1,-0.28,40,-11.2

@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33423920,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1652,1481,3.0,7,1.0,40,40.0,"Pandya, Raj",,1629.0,False,IND,1.0,1,0.7,40,28.0
+33423920,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1652,1481,3.0,7,1.0,40,40.0,"Darsh, Shetty",,1830.0,False,IND,1.0,1,0.89,40,35.6
+33423920,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1652,1481,3.0,7,1.0,40,40.0,"Ishaan, A Tendolkar",,1733.0,False,IND,0.0,1,-0.19,40,-7.6
+33423920,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1652,1481,3.0,7,1.0,40,40.0,"Agarwal, Raaghav",,1605.0,False,IND,0.5,1,0.17,40,6.8
+33423920,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1652,1481,3.0,7,1.0,40,40.0,"Shraddha, Naresh Padvekar",,1610.0,False,IND,0.0,1,-0.33,40,-13.2
+33423920,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1652,1481,3.0,7,1.0,40,40.0,"Sparsh, Ajay Patil",,1567.0,False,IND,0.5,1,0.12,40,4.8
+33423920,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1652,1481,3.0,7,1.0,40,40.0,"Arnav, Ashish Thatte",,1587.0,False,IND,0.0,1,-0.36,40,-14.4

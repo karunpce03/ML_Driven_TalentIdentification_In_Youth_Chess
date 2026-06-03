@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531020100,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1625,1608,2.5,6,-0.38,40,-15.2,"Kriti, Mayur Patel",wc,1781.0,False,IND,0.5,1,0.23,40,9.2
+531020100,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1625,1608,2.5,6,-0.38,40,-15.2,"Arnav, Dhamija",,1817.0,False,IND,0.0,1,-0.23,40,-9.2
+531020100,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1625,1608,2.5,6,-0.38,40,-15.2,"Soham, Mittal",,1450.0,False,IND,1.0,1,0.29,40,11.6
+531020100,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1625,1608,2.5,6,-0.38,40,-15.2,"Gajendra, Singh",,1820.0,False,IND,0.0,1,-0.23,40,-9.2
+531020100,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1625,1608,2.5,6,-0.38,40,-15.2,"Daksh, Surana",,1473.0,False,IND,0.0,1,-0.68,40,-27.2
+531020100,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1625,1608,2.5,6,-0.38,40,-15.2,"Kunal, Kalra",,1409.0,False,IND,1.0,1,0.24,40,9.6

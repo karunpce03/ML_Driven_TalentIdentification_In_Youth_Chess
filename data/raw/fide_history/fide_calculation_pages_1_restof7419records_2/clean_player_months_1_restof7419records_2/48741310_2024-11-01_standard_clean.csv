@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48741310,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1409,1400,1.0,1,0.51,40,20.4,"Diptanshu, Saha",,1409.0,False,IND,1.0,1,0.51,40,20.4
+48741310,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1532,1400,0.0,4,-1.29,40,-51.6,"Alapan, Guin",,1548.0,False,IND,0.0,1,-0.3,40,-12.0
+48741310,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1532,1400,0.0,4,-1.29,40,-51.6,"Rudradeep, Ghosh",,1552.0,False,IND,0.0,1,-0.3,40,-12.0
+48741310,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1532,1400,0.0,4,-1.29,40,-51.6,"Eishaanav, Chakraborty",,1496.0,False,IND,0.0,1,-0.37,40,-14.8
+48741310,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1532,1400,0.0,4,-1.29,40,-51.6,"Abhirup, Mukherjee",,1533.0,False,IND,0.0,1,-0.32,40,-12.8

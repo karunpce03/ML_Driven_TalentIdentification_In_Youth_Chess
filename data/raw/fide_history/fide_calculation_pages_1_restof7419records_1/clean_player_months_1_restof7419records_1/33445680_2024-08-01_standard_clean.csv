@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33445680,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1580,1522,1.5,4,-0.2,40,-8.0,"Mahendar, O",,1453.0,False,IND,0.5,1,-0.1,40,-4.0
+33445680,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1580,1522,1.5,4,-0.2,40,-8.0,"Balaji, P",,1680.0,False,IND,0.0,1,-0.29,40,-11.6
+33445680,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1580,1522,1.5,4,-0.2,40,-8.0,"Nikiilesh, A U",,1535.0,False,IND,0.0,1,-0.48,40,-19.2
+33445680,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1580,1522,1.5,4,-0.2,40,-8.0,"Lokesh, K",,1651.0,False,IND,1.0,1,0.67,40,26.8

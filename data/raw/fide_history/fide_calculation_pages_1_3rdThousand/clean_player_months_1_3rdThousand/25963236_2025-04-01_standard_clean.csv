@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25963236,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1706,1784,5.0,7,0.74,40,29.6,"Pon, Perumal S",,1481,False,IND,1.0,1,0.14,40,5.6
+25963236,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1706,1784,5.0,7,0.74,40,29.6,"Gowtham, K P",,1570,False,IND,1.0,1,0.23,40,9.2
+25963236,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1706,1784,5.0,7,0.74,40,29.6,"Prashanth, J Naik",,1962,False,IND,0.0,1,-0.27,40,-10.8
+25963236,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1706,1784,5.0,7,0.74,40,29.6,"Harish, Sivakumar",,1566,False,IND,1.0,1,0.22,40,8.8
+25963236,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1706,1784,5.0,7,0.74,40,29.6,"Balu, Karthick",,1638,False,IND,1.0,1,0.3,40,12.0
+25963236,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1706,1784,5.0,7,0.74,40,29.6,"Vignesh, B",,2184,True,IND,0.0,1,-0.08,40,-3.2
+25963236,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1706,1784,5.0,7,0.74,40,29.6,"Aji, Shree A",,1543,False,IND,1.0,1,0.2,40,8.0

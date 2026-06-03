@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25112210,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1650,1448,4.5,8,2.49,40,99.6,"Sahil, Bheron",,1848,True,IND,0.5,1,0.42,40,16.8
+25112210,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1650,1448,4.5,8,2.49,40,99.6,"Sajid, Khan",,1741,False,IND,0.5,1,0.35,40,14.0
+25112210,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1650,1448,4.5,8,2.49,40,99.6,"Pranav, Rastogi",,1682,False,IND,1.0,1,0.79,40,31.6
+25112210,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1650,1448,4.5,8,2.49,40,99.6,"Harsh, Aggarwal",,1647,False,IND,1.0,1,0.76,40,30.4
+25112210,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1650,1448,4.5,8,2.49,40,99.6,"Chirag, Arora",,1580,False,IND,0.0,1,-0.32,40,-12.8
+25112210,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1650,1448,4.5,8,2.49,40,99.6,"Kartik, Khetwal",,1587,False,IND,1.0,1,0.69,40,27.6
+25112210,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1650,1448,4.5,8,2.49,40,99.6,"Abhishek, Kumar Mishra",,1580,False,IND,0.0,1,-0.32,40,-12.8
+25112210,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1650,1448,4.5,8,2.49,40,99.6,"Jayant, Srivastava",,1532,False,IND,0.5,1,0.12,40,4.8

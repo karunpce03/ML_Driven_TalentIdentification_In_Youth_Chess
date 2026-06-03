@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25755838,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1646,1629,3.0,5,0.51,40,20.4,"Rithik, Saran S S",,1420.0,False,IND,1.0,1,0.23,40,9.2
+25755838,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1646,1629,3.0,5,0.51,40,20.4,"Vijay, Karthick S",,1506.0,False,IND,1.0,1,0.33,40,13.2
+25755838,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1646,1629,3.0,5,0.51,40,20.4,"Raghav, V",,2006.0,False,IND,0.0,1,-0.09,40,-3.6
+25755838,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1646,1629,3.0,5,0.51,40,20.4,"Pondhiya, S",,1418.0,False,IND,1.0,1,0.23,40,9.2
+25755838,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1646,1629,3.0,5,0.51,40,20.4,"Tarun, V",,1881.0,False,IND,0.0,1,-0.19,40,-7.6

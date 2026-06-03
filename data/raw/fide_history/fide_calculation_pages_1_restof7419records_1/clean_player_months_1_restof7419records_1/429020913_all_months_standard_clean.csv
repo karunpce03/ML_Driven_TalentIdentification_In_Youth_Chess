@@ -1,0 +1,32 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429020913,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1791,1481,0.5,2,0.21,40,8.4,"Ramana, Babu B.",,1859.0,False,IND,0.5,1,0.41,40,16.4
+429020913,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1791,1481,0.5,2,0.21,40,8.4,"Pratitee, Bordoloi",,1723.0,False,IND,0.0,1,-0.2,40,-8.0
+429020913,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1648,1489,0.0,2,-0.58,40,-23.2,"Arpita, Patankar",,1661.0,False,IND,0.0,1,-0.27,40,-10.8
+429020913,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1648,1489,0.0,2,-0.58,40,-23.2,"Kavyansh, Jain",,1634.0,False,IND,0.0,1,-0.31,40,-12.4
+429020913,2024-08-01,0,SERBIA OPEN 2024 - Amateurs,Beograd SRB,2024-07-12,2024-07-17,1672,1466,0.0,1,-0.24,40,-9.6,"Milovanovic, Jana",,1672.0,False,SRB,0.0,1,-0.24,40,-9.6
+429020913,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1679,1466,0.0,5,-1.23,40,-49.2,"Lu, Di",,1866.0,True,CHN,0.0,1,-0.08,40,-3.2
+429020913,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1679,1466,0.0,5,-1.23,40,-49.2,"Triantaphylidis, Alexandros I",,1735.0,False,GRE,0.0,1,-0.17,40,-6.8
+429020913,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1679,1466,0.0,5,-1.23,40,-49.2,"Mijalcic, Nikola",,1663.0,False,SRB,0.0,1,-0.25,40,-10.0
+429020913,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1679,1466,0.0,5,-1.23,40,-49.2,"Khangai, Batsaikhan",,1561.0,False,MGL,0.0,1,-0.37,40,-14.8
+429020913,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1679,1466,0.0,5,-1.23,40,-49.2,"Aaryaveer, Agarwal",,1568.0,False,IND,0.0,1,-0.36,40,-14.4
+429020913,2025-02-01,0,Chessfestival Groningen 2024 Open C,Groningen NED,2024-12-21,2024-12-30,1641,1407,2.5,6,1.25,40,50.0,"Mousa, Besher",,1635.0,False,NED,0.5,1,0.29,40,11.6
+429020913,2025-02-01,0,Chessfestival Groningen 2024 Open C,Groningen NED,2024-12-21,2024-12-30,1641,1407,2.5,6,1.25,40,50.0,"Hardeman, Imara",,1620.0,False,NED,0.5,1,0.27,40,10.8
+429020913,2025-02-01,0,Chessfestival Groningen 2024 Open C,Groningen NED,2024-12-21,2024-12-30,1641,1407,2.5,6,1.25,40,50.0,"Pribylla, Amelia",,1690.0,False,BEL,0.0,1,-0.16,40,-6.4
+429020913,2025-02-01,0,Chessfestival Groningen 2024 Open C,Groningen NED,2024-12-21,2024-12-30,1641,1407,2.5,6,1.25,40,50.0,"In `t Veen, Leonard",,1628.0,False,NED,0.0,1,-0.22,40,-8.8
+429020913,2025-02-01,0,Chessfestival Groningen 2024 Open C,Groningen NED,2024-12-21,2024-12-30,1641,1407,2.5,6,1.25,40,50.0,"Oord, Jan",,1671.0,False,NED,1.0,1,0.82,40,32.8
+429020913,2025-02-01,0,Chessfestival Groningen 2024 Open C,Groningen NED,2024-12-21,2024-12-30,1641,1407,2.5,6,1.25,40,50.0,"Sommer, Hugo",,1604.0,False,NED,0.5,1,0.25,40,10.0
+429020913,2025-04-01,0,PILSEN OPEN 2025 C - FIDE open,Plzen CZE,2025-03-15,2025-03-22,1735,1457,2.5,7,1.23,40,49.2,"Morselli, Stefano",,1857.0,True,ITA,0.0,1,-0.08,40,-3.2
+429020913,2025-04-01,0,PILSEN OPEN 2025 C - FIDE open,Plzen CZE,2025-03-15,2025-03-22,1735,1457,2.5,7,1.23,40,49.2,"McNamara, Jj",,1762.0,False,IRL,0.0,1,-0.14,40,-5.6
+429020913,2025-04-01,0,PILSEN OPEN 2025 C - FIDE open,Plzen CZE,2025-03-15,2025-03-22,1735,1457,2.5,7,1.23,40,49.2,"Hellmann, Thomas",,1753.0,False,GER,0.5,1,0.35,40,14.0
+429020913,2025-04-01,0,PILSEN OPEN 2025 C - FIDE open,Plzen CZE,2025-03-15,2025-03-22,1735,1457,2.5,7,1.23,40,49.2,"Bartos, Pavel",,1764.0,False,CZE,0.0,1,-0.14,40,-5.6
+429020913,2025-04-01,0,PILSEN OPEN 2025 C - FIDE open,Plzen CZE,2025-03-15,2025-03-22,1735,1457,2.5,7,1.23,40,49.2,"Soutner, Jaroslav",,1743.0,False,CZE,0.5,1,0.34,40,13.6
+429020913,2025-04-01,0,PILSEN OPEN 2025 C - FIDE open,Plzen CZE,2025-03-15,2025-03-22,1735,1457,2.5,7,1.23,40,49.2,"Klimes, Martin",,1462.0,False,CZE,1.0,1,0.51,40,20.4
+429020913,2025-04-01,0,PILSEN OPEN 2025 C - FIDE open,Plzen CZE,2025-03-15,2025-03-22,1735,1457,2.5,7,1.23,40,49.2,"Hadac, Pavel",,1805.0,False,CZE,0.5,1,0.39,40,15.6
+429020913,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen B-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,1795,1457,3.0,8,2.02,40,80.8,"Stiller, Bjoern",,1826.0,False,GER,0.5,1,0.4,40,16.0
+429020913,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen B-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,1795,1457,3.0,8,2.02,40,80.8,"Specht, Guenter",,1778.0,False,GER,0.5,1,0.37,40,14.8
+429020913,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen B-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,1795,1457,3.0,8,2.02,40,80.8,"Wilmes, Frank",,1856.0,False,GER,0.5,1,0.42,40,16.8
+429020913,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen B-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,1795,1457,3.0,8,2.02,40,80.8,"Schaedler, Mathias",,1857.0,True,GER,0.0,1,-0.08,40,-3.2
+429020913,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen B-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,1795,1457,3.0,8,2.02,40,80.8,"Haugg, Gerhard",,1800.0,False,GER,0.0,1,-0.12,40,-4.8
+429020913,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen B-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,1795,1457,3.0,8,2.02,40,80.8,"Keymling, Detlev Juergen, Dr.",,1759.0,False,GER,0.0,1,-0.15,40,-6.0
+429020913,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen B-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,1795,1457,3.0,8,2.02,40,80.8,"Natterer, Winfried",,1728.0,False,GER,0.5,1,0.33,40,13.2
+429020913,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen B-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,1795,1457,3.0,8,2.02,40,80.8,"Steinhart, Matthias",,1753.0,False,GER,1.0,1,0.85,40,34.0

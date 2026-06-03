@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33376999,2024-05-01,0,UAE League Chess Championship - U18 Girls,Emirates UAE,2024-02-10,2024-03-10,1490,1338,2.0,3,0.87,38,33.06,"Amna, Sami Ali",,1143.0,False,UAE,1.0,1,0.25,38,9.5
+33376999,2024-05-01,0,UAE League Chess Championship - U18 Girls,Emirates UAE,2024-02-10,2024-03-10,1490,1338,2.0,3,0.87,38,33.06,"Rouda Essa, Alserkal",wc,1880.0,False,UAE,0.0,1,-0.03,38,-1.14
+33376999,2024-05-01,0,UAE League Chess Championship - U18 Girls,Emirates UAE,2024-02-10,2024-03-10,1490,1338,2.0,3,0.87,38,33.06,"Latifah, Darmaki",,1446.0,False,UAE,1.0,1,0.65,38,24.7
+33376999,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1592,1603,3.0,7,-0.61,38,-23.18,"Iniyan, R S",,1738.0,False,IND,0.0,1,-0.32,38,-12.16
+33376999,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1592,1603,3.0,7,-0.61,38,-23.18,"Vijayakumar, Vidvath Bharadwaj",,1472.0,False,IND,1.0,1,0.32,38,12.16
+33376999,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1592,1603,3.0,7,-0.61,38,-23.18,"Kavin, Oviyan R",,1738.0,False,IND,0.0,1,-0.32,38,-12.16
+33376999,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1592,1603,3.0,7,-0.61,38,-23.18,"Leah, R Joseph",,1501.0,False,IND,1.0,1,0.36,38,13.68
+33376999,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1592,1603,3.0,7,-0.61,38,-23.18,"Sai, Sree Rohit K",,1482.0,False,IND,1.0,1,0.34,38,12.92
+33376999,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1592,1603,3.0,7,-0.61,38,-23.18,Krishna,,1755.0,False,IND,0.0,1,-0.3,38,-11.4
+33376999,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1592,1603,3.0,7,-0.61,38,-23.18,"Fida, Fathima M",,1458.0,False,IND,0.0,1,-0.69,38,-26.22
+33376999,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1650,1603,4.5,8,0.97,38,36.86,"Ramesh, M M",,1453.0,False,IND,1.0,1,0.3,38,11.4
+33376999,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1650,1603,4.5,8,0.97,38,36.86,"Prawin, K",,1807.0,False,IND,0.0,1,-0.24,38,-9.12
+33376999,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1650,1603,4.5,8,0.97,38,36.86,"Rohith, S Navneet",,1456.0,False,IND,1.0,1,0.3,38,11.4
+33376999,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1650,1603,4.5,8,0.97,38,36.86,"Saketh, Kunnummalkattil",,1490.0,False,IND,1.0,1,0.35,38,13.3
+33376999,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1650,1603,4.5,8,0.97,38,36.86,"Ahaz, E U",,1806.0,False,IND,0.5,1,0.26,38,9.88
+33376999,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1650,1603,4.5,8,0.97,38,36.86,"Mohanan, U.c.",,1715.0,False,IND,0.5,1,0.15,38,5.7
+33376999,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1650,1603,4.5,8,0.97,38,36.86,"Chinnadurai, T.",,1779.0,False,IND,0.5,1,0.23,38,8.74
+33376999,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1650,1603,4.5,8,0.97,38,36.86,"Shreyas, K Patil",,1691.0,False,IND,0.0,1,-0.38,38,-14.44

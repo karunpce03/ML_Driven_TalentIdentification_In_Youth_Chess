@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429018960,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1701,1620,1.5,4,-0.2,40,-8.0,"Khalifah, Khaled",c,2020,True,UAE,0.0,1,-0.08,40,-3.2
+429018960,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1701,1620,1.5,4,-0.2,40,-8.0,"Hafiz, Manaf",,1455,False,IND,1.0,1,0.28,40,11.2
+429018960,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1701,1620,1.5,4,-0.2,40,-8.0,"Sameir, Ramez",,1879,False,EGY,0.0,1,-0.18,40,-7.2
+429018960,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1701,1620,1.5,4,-0.2,40,-8.0,"Samyak, Chourasia",,1450,False,IND,0.5,1,-0.22,40,-8.8

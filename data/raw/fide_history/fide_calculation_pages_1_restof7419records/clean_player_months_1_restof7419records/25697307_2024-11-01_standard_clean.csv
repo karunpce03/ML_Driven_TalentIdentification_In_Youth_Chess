@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25697307,2024-11-01,0,WE 2 Piacenza chess festival - A,Piacenza ITA,2024-09-27,2024-09-29,2081,2196,2.5,5,-0.75,40,-30.0,"Ceccarini, Marco",,2010.0,False,ITA,1.0,1,0.26,40,10.4
+25697307,2024-11-01,0,WE 2 Piacenza chess festival - A,Piacenza ITA,2024-09-27,2024-09-29,2081,2196,2.5,5,-0.75,40,-30.0,"Glek, Igor",g,2402.0,False,BEL,0.0,1,-0.24,40,-9.6
+25697307,2024-11-01,0,WE 2 Piacenza chess festival - A,Piacenza ITA,2024-09-27,2024-09-29,2081,2196,2.5,5,-0.75,40,-30.0,"Bonade, Massimo",,2013.0,False,ITA,0.5,1,-0.24,40,-9.6
+25697307,2024-11-01,0,WE 2 Piacenza chess festival - A,Piacenza ITA,2024-09-27,2024-09-29,2081,2196,2.5,5,-0.75,40,-30.0,"Vetokhina, Sofia",wc,1966.0,False,RUS,0.0,1,-0.79,40,-31.6
+25697307,2024-11-01,0,WE 2 Piacenza chess festival - A,Piacenza ITA,2024-09-27,2024-09-29,2081,2196,2.5,5,-0.75,40,-30.0,"Tramalloni, Luca",,2012.0,False,ITA,1.0,1,0.26,40,10.4

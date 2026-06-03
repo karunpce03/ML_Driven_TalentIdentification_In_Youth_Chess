@@ -1,0 +1,16 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429002460,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,,,0.0,1,0.0,787,,"Saud, Bader Huwair Alzarooni",,1587.0,False,UAE,0.0,1,0.0,,0.0
+429002460,2024-06-01,0,7th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-05-18,2024-05-19,,,1.5,3,0.0,1484,,"Rustamov, Azamat",,1602.0,False,UZB,0.0,1,0.0,,0.0
+429002460,2024-06-01,0,7th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-05-18,2024-05-19,,,1.5,3,0.0,1484,,"Barut, Emir",,1433.0,False,TUR,0.5,1,0.0,,0.0
+429002460,2024-06-01,0,7th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-05-18,2024-05-19,,,1.5,3,0.0,1484,,"Smirnov, Artem A.",,1417.0,False,FID,1.0,1,0.0,,0.0
+429002460,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,,,0.0,3,0.0,810,,"Andria, Bhattacharya",,1607.0,False,IND,0.0,1,0.0,,0.0
+429002460,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,,,0.0,3,0.0,810,,"Abdulla, Ateeq Alremaeithi",,1618.0,False,UAE,0.0,1,0.0,,0.0
+429002460,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,,,0.0,3,0.0,810,,"Mhanna, Jean",,1604.0,False,LBN,0.0,1,0.0,,0.0
+429002460,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1606.0,1469.0,0.0,2,-0.63,40,-25.2,"Kamran, Fardad",,1620.0,False,PAK,0.0,1,-0.3,40.0,-12.0
+429002460,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1606.0,1469.0,0.0,2,-0.63,40,-25.2,"Ratheesh, Gnanadoss",,1591.0,False,IND,0.0,1,-0.33,40.0,-13.2
+429002460,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1659.0,1444.0,1.0,3,0.33,40,13.2,"Sultan Jabir, Alzarooni",,1644.0,False,UAE,1.0,1,0.76,40.0,30.4
+429002460,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1659.0,1444.0,1.0,3,0.33,40,13.2,"Saud, Bader Huwair Alzarooni",,1642.0,False,UAE,0.0,1,-0.24,40.0,-9.6
+429002460,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1659.0,1444.0,1.0,3,0.33,40,13.2,"Adhvaidh, Naveen",,1692.0,False,IND,0.0,1,-0.19,40.0,-7.6
+429002460,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1857.0,1457.0,0.0,1,-0.08,40,-3.2,"Khalifah, Khaled",c,1857.0,True,UAE,0.0,1,-0.08,40.0,-3.2
+429002460,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1634.0,1454.0,0.0,2,-0.54,40,-21.6,"Raihan, Bin Anzar",,1697.0,False,IND,0.0,1,-0.2,40.0,-8.0
+429002460,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1634.0,1454.0,0.0,2,-0.54,40,-21.6,"Zain, Ali Shaheen",,1570.0,False,IND,0.0,1,-0.34,40.0,-13.6

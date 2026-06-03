@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33398992,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1958,1801,4.0,9,1.03,40,41.2,"Sahoo, Utkal Ranjan",,2201,True,IND,0.0,1,-0.08,40,-3.2
+33398992,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1958,1801,4.0,9,1.03,40,41.2,"Arnav, Beakta",,1447,False,IND,1.0,1,0.11,40,4.4
+33398992,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1958,1801,4.0,9,1.03,40,41.2,"Jani, Kushal R",f,2201,True,IND,0.5,1,0.42,40,16.8
+33398992,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1958,1801,4.0,9,1.03,40,41.2,"Challa, Saharsha",,2096,False,IND,0.5,1,0.35,40,14.0
+33398992,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1958,1801,4.0,9,1.03,40,41.2,"Vittanala, Shanmuk Saish",,1725,False,IND,0.5,1,-0.1,40,-4.0
+33398992,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1958,1801,4.0,9,1.03,40,41.2,"Mrityunjay, Kumar",,1976,False,IND,1.0,1,0.73,40,29.2
+33398992,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1958,1801,4.0,9,1.03,40,41.2,"Majumder, Shrayan",,2138,False,IND,0.0,1,-0.12,40,-4.8
+33398992,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1958,1801,4.0,9,1.03,40,41.2,"Aatman, Raval",,1667,False,IND,0.5,1,-0.18,40,-7.2
+33398992,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1958,1801,4.0,9,1.03,40,41.2,"Sharma, Dinesh K.",m,2167,False,IND,0.0,1,-0.1,40,-4.0

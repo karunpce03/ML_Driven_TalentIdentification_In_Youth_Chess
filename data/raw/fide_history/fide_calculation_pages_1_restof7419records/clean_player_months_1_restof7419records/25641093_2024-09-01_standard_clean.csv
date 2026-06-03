@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25641093,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1925,1648,5.5,11,3.61,40,144.4,"Chukka, Vineel Radha Karthik",,1938,False,IND,1.0,1,0.84,40,33.6
+25641093,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1925,1648,5.5,11,3.61,40,144.4,"Andalamala, Hemal Varshan",,1977,False,IND,0.5,1,0.38,40,15.2
+25641093,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1925,1648,5.5,11,3.61,40,144.4,"Sparsh, Khandelwal",,1968,False,IND,0.5,1,0.37,40,14.8
+25641093,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1925,1648,5.5,11,3.61,40,144.4,"Sheikh, Idu",,1933,False,IND,0.0,1,-0.16,40,-6.4
+25641093,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1925,1648,5.5,11,3.61,40,144.4,"Salunke, Siddhant",,1830,False,IND,1.0,1,0.74,40,29.6
+25641093,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1925,1648,5.5,11,3.61,40,144.4,"Saparya, Ghosh",wf,1925,False,IND,1.0,1,0.83,40,33.2
+25641093,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1925,1648,5.5,11,3.61,40,144.4,"Daksh, Goyal",,2048,True,IND,0.0,1,-0.08,40,-3.2
+25641093,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1925,1648,5.5,11,3.61,40,144.4,"Dubey, Sanchay",,1917,False,IND,0.5,1,0.33,40,13.2
+25641093,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1925,1648,5.5,11,3.61,40,144.4,"Mayukh, Majumder",,1904,False,IND,0.0,1,-0.19,40,-7.6
+25641093,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1925,1648,5.5,11,3.61,40,144.4,"Bhavya, Gupta",,1819,False,IND,1.0,1,0.73,40,29.2
+25641093,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1925,1648,5.5,11,3.61,40,144.4,"Arul, Anandh S P K",,1913,False,IND,0.0,1,-0.18,40,-7.2

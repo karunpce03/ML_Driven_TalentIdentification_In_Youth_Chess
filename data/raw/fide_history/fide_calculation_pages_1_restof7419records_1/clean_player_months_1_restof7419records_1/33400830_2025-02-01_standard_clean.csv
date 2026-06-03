@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33400830,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1908,1959,3.5,6,0.12,40,4.8,"Wu, Zekai Bryson",,1654.0,False,USA,1.0,1,0.14,40,5.6
+33400830,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1908,1959,3.5,6,0.12,40,4.8,"Beegala, Keshav",,1759.0,False,USA,1.0,1,0.24,40,9.6
+33400830,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1908,1959,3.5,6,0.12,40,4.8,"Guo, Felix",,1991.0,False,USA,0.0,1,-0.46,40,-18.4
+33400830,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1908,1959,3.5,6,0.12,40,4.8,"Wang, Ted",,2004.0,False,USA,0.0,1,-0.44,40,-17.6
+33400830,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1908,1959,3.5,6,0.12,40,4.8,"Sarangi, Shreyan",,1839.0,False,USA,1.0,1,0.34,40,13.6
+33400830,2025-02-01,0,34th Annual North American Open - U2300,"Las Vegas, NV USA",2024-12-26,2024-12-29,1908,1959,3.5,6,0.12,40,4.8,"Estrada, Julian",m,2199.0,False,MEX,0.5,1,0.3,40,12.0
+33400830,2025-02-01,0,2025 Austin Winter Open - Championship,"Austin, TX USA",2025-01-03,2025-01-05,2020,1969,2.0,4,0.16,40,6.4,"Santhosh, Pranav",,1804.0,False,USA,1.0,1,0.28,40,11.2
+33400830,2025-02-01,0,2025 Austin Winter Open - Championship,"Austin, TX USA",2025-01-03,2025-01-05,2020,1969,2.0,4,0.16,40,6.4,"Mista, Aleksander",g,2369.0,True,POL,0.0,1,-0.08,40,-3.2
+33400830,2025-02-01,0,2025 Austin Winter Open - Championship,"Austin, TX USA",2025-01-03,2025-01-05,2020,1969,2.0,4,0.16,40,6.4,"Roy, Aanya",,1762.0,False,USA,1.0,1,0.23,40,9.2
+33400830,2025-02-01,0,2025 Austin Winter Open - Championship,"Austin, TX USA",2025-01-03,2025-01-05,2020,1969,2.0,4,0.16,40,6.4,"Li, Rachael",wf,2145.0,False,USA,0.0,1,-0.27,40,-10.8

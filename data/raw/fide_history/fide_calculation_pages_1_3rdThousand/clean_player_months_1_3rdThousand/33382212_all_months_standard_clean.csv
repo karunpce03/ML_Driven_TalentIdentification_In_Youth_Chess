@@ -1,0 +1,50 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33382212,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1634,1604,4.5,8,0.72,40,28.8,"Ishvi, Aggarwal",wc,1960.0,False,IND,0.0,1,-0.11,40,-4.4
+33382212,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1634,1604,4.5,8,0.72,40,28.8,"Ayaan, Arora",,1444.0,False,IND,1.0,1,0.29,40,11.6
+33382212,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1634,1604,4.5,8,0.72,40,28.8,"Vedant, Mittal",,1439.0,False,IND,1.0,1,0.28,40,11.2
+33382212,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1634,1604,4.5,8,0.72,40,28.8,"Shubh, Singh Saini",,1772.0,False,IND,0.5,1,0.22,40,8.8
+33382212,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1634,1604,4.5,8,0.72,40,28.8,"Sahil, Bheron",,1773.0,False,IND,0.0,1,-0.28,40,-11.2
+33382212,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1634,1604,4.5,8,0.72,40,28.8,"Aarush, Mathur",,1478.0,False,IND,1.0,1,0.33,40,13.2
+33382212,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1634,1604,4.5,8,0.72,40,28.8,"Shubh, Atha",,1723.0,False,IND,0.0,1,-0.34,40,-13.6
+33382212,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1634,1604,4.5,8,0.72,40,28.8,"Subramanian, T.v.",,1481.0,False,IND,1.0,1,0.33,40,13.2
+33382212,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1482,1633,5.0,8,-0.61,40,-24.4,"Ravi, Shreyansh",,1461.0,False,IND,0.0,1,-0.73,40,-29.2
+33382212,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1482,1633,5.0,8,-0.61,40,-24.4,"Divya, Bengani",,1433.0,False,IND,1.0,1,0.24,40,9.6
+33382212,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1482,1633,5.0,8,-0.61,40,-24.4,"Akshat, Goverdhan Virkunvar",,1492.0,False,IND,1.0,1,0.31,40,12.4
+33382212,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1482,1633,5.0,8,-0.61,40,-24.4,"Sri, Sai Vedaansh P",,1497.0,False,IND,0.5,1,-0.18,40,-7.2
+33382212,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1482,1633,5.0,8,-0.61,40,-24.4,"Likethaksh, Peruka",,1444.0,False,IND,0.5,1,-0.25,40,-10.0
+33382212,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1482,1633,5.0,8,-0.61,40,-24.4,"Timmaraju, Venkata Sathvik",,1504.0,False,IND,0.5,1,-0.17,40,-6.8
+33382212,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1482,1633,5.0,8,-0.61,40,-24.4,"Bodda, Sri Jayya Mohan",,1507.0,False,IND,0.5,1,-0.17,40,-6.8
+33382212,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1482,1633,5.0,8,-0.61,40,-24.4,"Rishi, Pallagani",,1516.0,False,IND,1.0,1,0.34,40,13.6
+33382212,2024-10-01,0,Texas CC 2024 Fall FIDE - Championship,"Irving, TX USA",2024-09-06,2024-09-08,1845,1609,2.5,5,1.45,40,58.0,"Fernandez, Jorge",,1799.0,False,USA,0.5,1,0.25,40,10.0
+33382212,2024-10-01,0,Texas CC 2024 Fall FIDE - Championship,"Irving, TX USA",2024-09-06,2024-09-08,1845,1609,2.5,5,1.45,40,58.0,"Singi, Advay",,1923.0,False,USA,1.0,1,0.86,40,34.4
+33382212,2024-10-01,0,Texas CC 2024 Fall FIDE - Championship,"Irving, TX USA",2024-09-06,2024-09-08,1845,1609,2.5,5,1.45,40,58.0,"Vuyyuru, Shriyan",,1901.0,False,USA,0.0,1,-0.15,40,-6.0
+33382212,2024-10-01,0,Texas CC 2024 Fall FIDE - Championship,"Irving, TX USA",2024-09-06,2024-09-08,1845,1609,2.5,5,1.45,40,58.0,"Roy, Pallabi",,1853.0,False,IND,0.5,1,0.3,40,12.0
+33382212,2024-10-01,0,Texas CC 2024 Fall FIDE - Championship,"Irving, TX USA",2024-09-06,2024-09-08,1845,1609,2.5,5,1.45,40,58.0,"Kolli, Rishi",,1748.0,False,USA,0.5,1,0.19,40,7.6
+33382212,2024-11-01,0,Coppell CC 2024 FIDE Fall Classical - Championship,"Coppell, TX USA",2024-09-27,2024-09-29,1792,1609,2.5,5,1.15,40,46.0,"Kolli, Rishi",,1748.0,False,USA,0.5,1,0.19,40,7.6
+33382212,2024-11-01,0,Coppell CC 2024 FIDE Fall Classical - Championship,"Coppell, TX USA",2024-09-27,2024-09-29,1792,1609,2.5,5,1.15,40,46.0,"Lad, Neil",,1931.0,False,USA,0.0,1,-0.13,40,-5.2
+33382212,2024-11-01,0,Coppell CC 2024 FIDE Fall Classical - Championship,"Coppell, TX USA",2024-09-27,2024-09-29,1792,1609,2.5,5,1.15,40,46.0,"Tendulkar, Ojas",,1699.0,False,USA,1.0,1,0.62,40,24.8
+33382212,2024-11-01,0,Coppell CC 2024 FIDE Fall Classical - Championship,"Coppell, TX USA",2024-09-27,2024-09-29,1792,1609,2.5,5,1.15,40,46.0,"Bhangale, Likhit",,1803.0,False,USA,0.0,1,-0.25,40,-10.0
+33382212,2024-11-01,0,Coppell CC 2024 FIDE Fall Classical - Championship,"Coppell, TX USA",2024-09-27,2024-09-29,1792,1609,2.5,5,1.15,40,46.0,"Chetlapalli, Vishnu",,1779.0,False,USA,1.0,1,0.72,40,28.8
+33382212,2024-11-01,0,Coppell CC FIDE Classical October 2024 - Championship,"Coppell, TX USA",2024-10-25,2024-10-27,1741,1667,2.0,4,0.39,40,15.6,"Gu, Samuel",,1853.0,False,USA,0.0,1,-0.26,40,-10.4
+33382212,2024-11-01,0,Coppell CC FIDE Classical October 2024 - Championship,"Coppell, TX USA",2024-10-25,2024-10-27,1741,1667,2.0,4,0.39,40,15.6,"Banerjee, Evan",,1609.0,False,CAN,1.0,1,0.42,40,16.8
+33382212,2024-11-01,0,Coppell CC FIDE Classical October 2024 - Championship,"Coppell, TX USA",2024-10-25,2024-10-27,1741,1667,2.0,4,0.39,40,15.6,"Chandra, Maurya",,1704.0,False,USA,0.0,1,-0.45,40,-18.0
+33382212,2024-11-01,0,Coppell CC FIDE Classical October 2024 - Championship,"Coppell, TX USA",2024-10-25,2024-10-27,1741,1667,2.0,4,0.39,40,15.6,"Dinesan, Thanuj",,1799.0,False,USA,1.0,1,0.68,40,27.2
+33382212,2024-12-01,0,2024 Texas Winter FIDE - Championship,"Irving, TX USA",2024-11-15,2024-11-17,1738,1729,2.0,5,-0.45,40,-18.0,"Vuyyuru, Shriyan",,1898.0,False,USA,0.0,1,-0.28,40,-11.2
+33382212,2024-12-01,0,2024 Texas Winter FIDE - Championship,"Irving, TX USA",2024-11-15,2024-11-17,1738,1729,2.0,5,-0.45,40,-18.0,"Zhang, Lawrence",,1589.0,False,USA,1.0,1,0.31,40,12.4
+33382212,2024-12-01,0,2024 Texas Winter FIDE - Championship,"Irving, TX USA",2024-11-15,2024-11-17,1738,1729,2.0,5,-0.45,40,-18.0,"Zhou, Huanzhi",,1838.0,False,USA,0.0,1,-0.35,40,-14.0
+33382212,2024-12-01,0,2024 Texas Winter FIDE - Championship,"Irving, TX USA",2024-11-15,2024-11-17,1738,1729,2.0,5,-0.45,40,-18.0,"Roy, Aanya",,1750.0,False,USA,0.5,1,0.03,40,1.2
+33382212,2024-12-01,0,2024 Texas Winter FIDE - Championship,"Irving, TX USA",2024-11-15,2024-11-17,1738,1729,2.0,5,-0.45,40,-18.0,"Banerjee, Evan",,1615.0,False,CAN,0.5,1,-0.16,40,-6.4
+33382212,2025-01-01,0,4th Annual Forester Open,"Coppell, TX USA",2024-11-29,2024-12-01,1795,1729,3.0,5,0.94,40,37.6,"Lad, Neil",,1920.0,False,USA,0.5,1,0.25,40,10.0
+33382212,2025-01-01,0,4th Annual Forester Open,"Coppell, TX USA",2024-11-29,2024-12-01,1795,1729,3.0,5,0.94,40,37.6,"Yuan, Owen",,1815.0,False,USA,0.5,1,0.12,40,4.8
+33382212,2025-01-01,0,4th Annual Forester Open,"Coppell, TX USA",2024-11-29,2024-12-01,1795,1729,3.0,5,0.94,40,37.6,"Zhang, Lawrence",,1589.0,False,USA,1.0,1,0.31,40,12.4
+33382212,2025-01-01,0,4th Annual Forester Open,"Coppell, TX USA",2024-11-29,2024-12-01,1795,1729,3.0,5,0.94,40,37.6,"Bhangale, Likhit",,1811.0,False,USA,0.5,1,0.11,40,4.4
+33382212,2025-01-01,0,4th Annual Forester Open,"Coppell, TX USA",2024-11-29,2024-12-01,1795,1729,3.0,5,0.94,40,37.6,"Potluri, Supreetha",wf,1838.0,False,IND,0.5,1,0.15,40,6.0
+33382212,2025-02-01,0,January 2025 Coppell CC FIDE Classical - Championship,"Coppell, TX USA",2025-01-24,2025-01-26,1711,1749,3.0,5,0.27,40,10.8,"Suresh, Kawin Sayi",,1581.0,False,USA,0.5,1,-0.22,40,-8.8
+33382212,2025-02-01,0,January 2025 Coppell CC FIDE Classical - Championship,"Coppell, TX USA",2025-01-24,2025-01-26,1711,1749,3.0,5,0.27,40,10.8,"Ganesan, Vikash",,1539.0,False,USA,1.0,1,0.23,40,9.2
+33382212,2025-02-01,0,January 2025 Coppell CC FIDE Classical - Championship,"Coppell, TX USA",2025-01-24,2025-01-26,1711,1749,3.0,5,0.27,40,10.8,"Mysore, Abhinav Naveen",,1782.0,False,USA,0.5,1,0.05,40,2.0
+33382212,2025-02-01,0,January 2025 Coppell CC FIDE Classical - Championship,"Coppell, TX USA",2025-01-24,2025-01-26,1711,1749,3.0,5,0.27,40,10.8,"Deering, Ryan",,1860.0,False,USA,0.5,1,0.15,40,6.0
+33382212,2025-02-01,0,January 2025 Coppell CC FIDE Classical - Championship,"Coppell, TX USA",2025-01-24,2025-01-26,1711,1749,3.0,5,0.27,40,10.8,"Chandra, Maurya",,1791.0,False,USA,0.5,1,0.06,40,2.4
+33382212,2025-03-01,0,16th annual Southwest Class Championships - Class A,"Irving, TX USA",2025-02-14,2025-02-17,1743,1760,2.5,4,0.41,40,16.4,"Lee, Sebastian",,1740.0,False,USA,0.5,1,-0.03,40,-1.2
+33382212,2025-03-01,0,16th annual Southwest Class Championships - Class A,"Irving, TX USA",2025-02-14,2025-02-17,1743,1760,2.5,4,0.41,40,16.4,"Hakim, Navid Ahmad",,1845.0,False,USA,0.5,1,0.12,40,4.8
+33382212,2025-03-01,0,16th annual Southwest Class Championships - Class A,"Irving, TX USA",2025-02-14,2025-02-17,1743,1760,2.5,4,0.41,40,16.4,"Dumitru, Eric Alexander",,1649.0,False,USA,0.5,1,-0.15,40,-6.0
+33382212,2025-03-01,0,16th annual Southwest Class Championships - Class A,"Irving, TX USA",2025-02-14,2025-02-17,1743,1760,2.5,4,0.41,40,16.4,"Namala, Dhanvi",,1736.0,False,USA,1.0,1,0.47,40,18.8

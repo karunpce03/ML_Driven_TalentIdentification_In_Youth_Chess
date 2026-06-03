@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531027270,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,1.5,5,0.0,1313,,"Shankar, Ramakrishnan",,1560.0,False,IND,0.0,1,0.0,,0.0
+531027270,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,1.5,5,0.0,1313,,"Parikshith, Pradeepkumar",,1409.0,False,IND,0.0,1,0.0,,0.0
+531027270,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,1.5,5,0.0,1313,,"Kanishka, Sree V",,1404.0,False,IND,1.0,1,0.0,,0.0
+531027270,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,1.5,5,0.0,1313,,"Sadhana, S N",,1485.0,False,IND,0.5,1,0.0,,0.0
+531027270,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,1.5,5,0.0,1313,,"Sri, Ram N",,1452.0,False,IND,0.0,1,0.0,,0.0
+531027270,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1648.0,1457.0,0.0,2,-0.61,40,-24.4,"Tarun, V",,1857.0,True,IND,0.0,1,-0.08,40.0,-3.2
+531027270,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1648.0,1457.0,0.0,2,-0.61,40,-24.4,"Malarvili, Thirumaran",,1439.0,False,IND,0.0,1,-0.53,40.0,-21.2
+531027270,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1627.0,1433.0,0.0,3,-0.75,40,-30.0,"Advaith, U P",,1627.0,False,IND,0.0,1,-0.25,40.0,-10.0
+531027270,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1627.0,1433.0,0.0,3,-0.75,40,-30.0,"Shivaghuru, P",,1587.0,False,IND,0.0,1,-0.29,40.0,-11.6
+531027270,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1627.0,1433.0,0.0,3,-0.75,40,-30.0,"Caris, Jeshurun A",,1666.0,False,IND,0.0,1,-0.21,40.0,-8.4

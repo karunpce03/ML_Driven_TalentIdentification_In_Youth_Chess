@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33434670,2025-03-01,0,26. NordWest-Cup A-Turnier,Bad Zwischenahn GER,2025-01-30,2025-02-02,1986,1835,1.5,6,-0.31,40,-12.4,"Heinemann, Ernst",,2065.0,False,GER,0.5,1,0.29,40,11.6
+33434670,2025-03-01,0,26. NordWest-Cup A-Turnier,Bad Zwischenahn GER,2025-01-30,2025-02-02,1986,1835,1.5,6,-0.31,40,-12.4,"Tunka, Philipp",,2025.0,False,GER,0.0,1,-0.25,40,-10.0
+33434670,2025-03-01,0,26. NordWest-Cup A-Turnier,Bad Zwischenahn GER,2025-01-30,2025-02-02,1986,1835,1.5,6,-0.31,40,-12.4,"Pirtac, Alexandru",,2004.0,False,DEN,0.0,1,-0.28,40,-11.2
+33434670,2025-03-01,0,26. NordWest-Cup A-Turnier,Bad Zwischenahn GER,2025-01-30,2025-02-02,1986,1835,1.5,6,-0.31,40,-12.4,"Hans, Julian",,1964.0,False,GER,0.5,1,0.17,40,6.8
+33434670,2025-03-01,0,26. NordWest-Cup A-Turnier,Bad Zwischenahn GER,2025-01-30,2025-02-02,1986,1835,1.5,6,-0.31,40,-12.4,"Pallapies, Kilian",,1884.0,False,GER,0.5,1,0.07,40,2.8
+33434670,2025-03-01,0,26. NordWest-Cup A-Turnier,Bad Zwischenahn GER,2025-01-30,2025-02-02,1986,1835,1.5,6,-0.31,40,-12.4,"Harringer, Manfred",,1975.0,False,GER,0.0,1,-0.31,40,-12.4
+33434670,2025-03-01,0,Wellness Chess Tour GP2 Harkany Hotel Kager 2025,Harkany HUN,2025-02-06,2025-02-09,1749,1859,3.0,4,0.5,40,20.0,"Kovacs, Janos",,1499.0,False,HUN,1.0,1,0.1,40,4.0
+33434670,2025-03-01,0,Wellness Chess Tour GP2 Harkany Hotel Kager 2025,Harkany HUN,2025-02-06,2025-02-09,1749,1859,3.0,4,0.5,40,20.0,"Horvat, David",,2084.0,False,CRO,0.0,1,-0.22,40,-8.8
+33434670,2025-03-01,0,Wellness Chess Tour GP2 Harkany Hotel Kager 2025,Harkany HUN,2025-02-06,2025-02-09,1749,1859,3.0,4,0.5,40,20.0,"Husajina, Nikola",,1814.0,False,CRO,1.0,1,0.44,40,17.6
+33434670,2025-03-01,0,Wellness Chess Tour GP2 Harkany Hotel Kager 2025,Harkany HUN,2025-02-06,2025-02-09,1749,1859,3.0,4,0.5,40,20.0,"Yasar, Mehmet Ali",,1597.0,False,TUR,1.0,1,0.18,40,7.2

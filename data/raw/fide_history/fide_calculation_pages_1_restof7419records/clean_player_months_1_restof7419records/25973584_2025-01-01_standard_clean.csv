@@ -1,0 +1,22 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25973584,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1794,1948,4.0,10,-3.04,33,-100.32,"Aronyak, Ghosh",c,2348,True,IND,0.0,1,-0.08,33,-2.64
+25973584,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1794,1948,4.0,10,-3.04,33,-100.32,"Suman, Saideep",,1773,False,IND,1.0,1,0.27,33,8.91
+25973584,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1794,1948,4.0,10,-3.04,33,-100.32,"Venkatesh, Das",,1792,False,IND,0.0,1,-0.71,33,-23.43
+25973584,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1794,1948,4.0,10,-3.04,33,-100.32,"Piyush, Narsikar",,1750,False,IND,0.0,1,-0.76,33,-25.08
+25973584,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1794,1948,4.0,10,-3.04,33,-100.32,"Debi, Prasad Nayak",,1729,False,IND,1.0,1,0.22,33,7.26
+25973584,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1794,1948,4.0,10,-3.04,33,-100.32,"Neelabhro, Bandyopadhyay",,1733,False,IND,0.0,1,-0.77,33,-25.41
+25973584,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1794,1948,4.0,10,-3.04,33,-100.32,"Chitrak, Naha",,1720,False,IND,0.0,1,-0.79,33,-26.07
+25973584,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1794,1948,4.0,10,-3.04,33,-100.32,"Dakhsha, Rudra",,1652,False,IND,1.0,1,0.15,33,4.95
+25973584,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1794,1948,4.0,10,-3.04,33,-100.32,"Dahale, Rajas",,1720,False,IND,0.5,1,-0.29,33,-9.57
+25973584,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1794,1948,4.0,10,-3.04,33,-100.32,"Vedant, Yogesh Kale",,1726,False,IND,0.5,1,-0.28,33,-9.24
+25973584,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1648,1948,6.0,11,-3.35,33,-110.55,"Tejas, Shandilya",,1607,False,IND,1.0,1,0.12,33,3.96
+25973584,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1648,1948,6.0,11,-3.35,33,-110.55,"Armaan, Singh Bakshi",,1711,False,IND,0.5,1,-0.3,33,-9.9
+25973584,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1648,1948,6.0,11,-3.35,33,-110.55,"Nivaan, Raghavendra",,1712,False,IND,0.0,1,-0.8,33,-26.4
+25973584,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1648,1948,6.0,11,-3.35,33,-110.55,"Dev, Dharshan S",,1629,False,IND,0.5,1,-0.37,33,-12.21
+25973584,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1648,1948,6.0,11,-3.35,33,-110.55,"Siddharth, Samaddar",,1548,True,IND,1.0,1,0.08,33,2.64
+25973584,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1648,1948,6.0,11,-3.35,33,-110.55,"Bhanushali, Neemay",,1710,False,IND,0.0,1,-0.8,33,-26.4
+25973584,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1648,1948,6.0,11,-3.35,33,-110.55,"Shreesuday, Behera",,1619,False,IND,1.0,1,0.12,33,3.96
+25973584,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1648,1948,6.0,11,-3.35,33,-110.55,"Om, Dayanand Ramgude",,1700,False,IND,0.5,1,-0.31,33,-10.23
+25973584,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1648,1948,6.0,11,-3.35,33,-110.55,"Navaneel, Chhatui",,1685,False,IND,0.0,1,-0.82,33,-27.06
+25973584,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1648,1948,6.0,11,-3.35,33,-110.55,"Sudarshan, Balaji",,1608,False,IND,0.5,1,-0.38,33,-12.54
+25973584,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1648,1948,6.0,11,-3.35,33,-110.55,"Lakshya, Nigam",,1603,False,IND,1.0,1,0.11,33,3.63

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88126455,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,,,2.0,5,0.0,1408,,"Al Wardi, Saif",,1429,False,OMA,0.0,1,0.0,,0.0
+88126455,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,,,2.0,5,0.0,1408,,"Al Bulushi, Omar",,1446,False,OMA,0.0,1,0.0,,0.0
+88126455,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,,,2.0,5,0.0,1408,,"Al Ghafri, Fathima",,1416,False,OMA,1.0,1,0.0,,0.0
+88126455,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,,,2.0,5,0.0,1408,,"Al Hinai, Mazin",,1482,False,OMA,1.0,1,0.0,,0.0
+88126455,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,,,2.0,5,0.0,1408,,"Izaan, Shafeek",,1625,False,FID,0.0,1,0.0,,0.0

@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33394830,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2060,1959,4.0,9,0.31,36,11.16,"Arya, G Mallar",,1829.0,False,IND,1.0,1,0.32,36,11.52
+33394830,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2060,1959,4.0,9,0.31,36,11.16,"Lane, Gary W",m,2273.0,False,AUS,0.0,1,-0.14,36,-5.04
+33394830,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2060,1959,4.0,9,0.31,36,11.16,"Arfan, Aditya Bagus",m,2359.0,True,INA,0.0,1,-0.08,36,-2.88
+33394830,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2060,1959,4.0,9,0.31,36,11.16,"Attwood, James",,1849.0,False,AUS,0.5,1,-0.15,36,-5.4
+33394830,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2060,1959,4.0,9,0.31,36,11.16,"Nitin, S.",m,2341.0,False,IND,0.0,1,-0.09,36,-3.24
+33394830,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2060,1959,4.0,9,0.31,36,11.16,"Van Ree, Thailo",,1856.0,False,NED,0.0,1,-0.64,36,-23.04
+33394830,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2060,1959,4.0,9,0.31,36,11.16,"Fang, Kun",wc,1825.0,False,SGP,1.0,1,0.32,36,11.52
+33394830,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2060,1959,4.0,9,0.31,36,11.16,"Kyaw, Zay Ya",,1846.0,False,MYA,1.0,1,0.35,36,12.6
+33394830,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2060,1959,4.0,9,0.31,36,11.16,"Laylo, Darwin",g,2359.0,True,PHI,0.5,1,0.42,36,15.12
+33394830,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2145,1959,4.5,10,1.61,36,57.96,"Tologon Tegin, Semetei",m,2358.0,False,KGZ,0.5,1,0.42,36,15.12
+33394830,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2145,1959,4.5,10,1.61,36,57.96,"Sourath, Biswas",f,2293.0,False,IND,1.0,1,0.88,36,31.68
+33394830,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2145,1959,4.5,10,1.61,36,57.96,"Ajay, Santhosh Parvathareddy",f,2299.0,False,IND,0.0,1,-0.12,36,-4.32
+33394830,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2145,1959,4.5,10,1.61,36,57.96,"Harshit, Ranjan Sahu",,2208.0,False,IND,0.0,1,-0.19,36,-6.84
+33394830,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2145,1959,4.5,10,1.61,36,57.96,"Dere, Pushkar",,2229.0,False,IND,0.0,1,-0.17,36,-6.12
+33394830,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2145,1959,4.5,10,1.61,36,57.96,"Chinnam, Vyshnavi",wc,1803.0,False,IND,1.0,1,0.29,36,10.44
+33394830,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2145,1959,4.5,10,1.61,36,57.96,"Nithin, Babu",,2282.0,False,IND,0.0,1,-0.13,36,-4.68
+33394830,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2145,1959,4.5,10,1.61,36,57.96,"Sri, Akhil Prasad",,1896.0,False,IND,1.0,1,0.41,36,14.76
+33394830,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2145,1959,4.5,10,1.61,36,57.96,"Deboushnik, De",,1927.0,False,IND,0.5,1,-0.04,36,-1.44
+33394830,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2145,1959,4.5,10,1.61,36,57.96,"Majumder, Shrayan",,2159.0,False,IND,0.5,1,0.26,36,9.36

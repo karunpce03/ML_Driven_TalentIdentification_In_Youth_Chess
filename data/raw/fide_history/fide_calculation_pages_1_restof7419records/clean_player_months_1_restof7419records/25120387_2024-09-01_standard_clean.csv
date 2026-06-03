@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25120387,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,1814,5.0,10,0.06,40,2.4,"Gupta, Abhijeet",g,2214,True,IND,0.0,1,-0.08,40,-3.2
+25120387,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,1814,5.0,10,0.06,40,2.4,"Tamchi, Kache",,1681,False,IND,1.0,1,0.32,40,12.8
+25120387,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,1814,5.0,10,0.06,40,2.4,"Rosh, Jain",f,2131,False,IND,0.0,1,-0.13,40,-5.2
+25120387,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,1814,5.0,10,0.06,40,2.4,"Jatinder, Kapoor",,1717,False,IND,0.0,1,-0.63,40,-25.2
+25120387,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,1814,5.0,10,0.06,40,2.4,"Raj, Prakhar",,1629,False,IND,1.0,1,0.26,40,10.4
+25120387,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,1814,5.0,10,0.06,40,2.4,"Arbaz, Shekh",,1734,False,IND,1.0,1,0.39,40,15.6
+25120387,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,1814,5.0,10,0.06,40,2.4,"Rishit, Sharma",,1745,False,IND,1.0,1,0.4,40,16.0
+25120387,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,1814,5.0,10,0.06,40,2.4,"Sangma, Rahul",m,2162,False,IND,0.0,1,-0.11,40,-4.4
+25120387,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,1814,5.0,10,0.06,40,2.4,"Abel, M S",,1708,False,IND,0.5,1,-0.14,40,-5.6
+25120387,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1837,1814,5.0,10,0.06,40,2.4,"Bhargava, Susanth Saketh M",,1647,False,IND,0.5,1,-0.22,40,-8.8

@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48769231,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1601,1494,0.0,2,-0.71,40,-28.4,"Arjun, Singh",,1638.0,False,IND,0.0,1,-0.31,40,-12.4
+48769231,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1601,1494,0.0,2,-0.71,40,-28.4,"Jani, Harsh",,1564.0,False,IND,0.0,1,-0.4,40,-16.0

@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25129899,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1599,1408,0.0,3,-0.82,40,-32.8,"Ayush, Das",,1764.0,False,IND,0.0,1,-0.11,40,-4.4
+25129899,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1599,1408,0.0,3,-0.82,40,-32.8,"Projeet, Datta",,1567.0,False,IND,0.0,1,-0.29,40,-11.6
+25129899,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1599,1408,0.0,3,-0.82,40,-32.8,"Subhajit, Roy",,1466.0,False,IND,0.0,1,-0.42,40,-16.8

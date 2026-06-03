@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88110419,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,,,0.5,7,0.0,1232,,"Mishra, Kamad",,1812.0,False,IND,0.0,1,0.0,,0.0
+88110419,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,,,0.5,7,0.0,1232,,"Akshit, Kukkar",,1722.0,False,IND,0.0,1,0.0,,0.0
+88110419,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,,,0.5,7,0.0,1232,,"Gajendra, Singh",,1798.0,False,IND,0.0,1,0.0,,0.0
+88110419,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,,,0.5,7,0.0,1232,,"Ayushmaan, Saini",,1648.0,False,IND,0.0,1,0.0,,0.0
+88110419,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,,,0.5,7,0.0,1232,,"Pratyush, Fulara",,1581.0,False,IND,0.0,1,0.0,,0.0
+88110419,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,,,0.5,7,0.0,1232,,"Mardav, Bhaikta",,1474.0,False,IND,0.5,1,0.0,,0.0
+88110419,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,,,0.5,7,0.0,1232,,"Dushyant, Singh",,1542.0,False,IND,0.0,1,0.0,,0.0
+88110419,2024-10-01,0,U-19 selection State Fide Rated Chess Championship,Shimla IND,2024-08-31,2024-09-02,1471.0,1456.0,0.0,1,-0.48,40,-19.2,"Palak, Thakur",,1471.0,False,IND,0.0,1,-0.48,40.0,-19.2

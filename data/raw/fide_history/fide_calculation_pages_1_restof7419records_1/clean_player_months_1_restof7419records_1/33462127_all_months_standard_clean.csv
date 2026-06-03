@@ -1,0 +1,29 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33462127,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1508,1501,0.0,4,-1.99,40,-79.6,"Mridav, M",,1751.0,False,IND,0.0,1,-0.19,40,-7.6
+33462127,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1508,1501,0.0,4,-1.99,40,-79.6,"Sanoosh, B Shibu",,1426.0,False,IND,0.0,1,-0.6,40,-24.0
+33462127,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1508,1501,0.0,4,-1.99,40,-79.6,"Rohith, K Jayan",,1421.0,False,IND,0.0,1,-0.61,40,-24.4
+33462127,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1508,1501,0.0,4,-1.99,40,-79.6,"Thirunavukarasu, T",,1433.0,False,IND,0.0,1,-0.59,40,-23.6
+33462127,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1510,1421,2.5,5,0.6,40,24.0,"Adarsh, K S",,1546.0,False,IND,0.0,1,-0.33,40,-13.2
+33462127,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1510,1421,2.5,5,0.6,40,24.0,"Vaishnav, Nair",,1408.0,False,IND,1.0,1,0.48,40,19.2
+33462127,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1510,1421,2.5,5,0.6,40,24.0,"Sandhana, D",,1523.0,False,IND,1.0,1,0.64,40,25.6
+33462127,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1510,1421,2.5,5,0.6,40,24.0,"Rohith, Jacob",,1565.0,False,IND,0.0,1,-0.31,40,-12.4
+33462127,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1510,1421,2.5,5,0.6,40,24.0,"Natarajan, S",,1507.0,False,IND,0.5,1,0.12,40,4.8
+33462127,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1582,1421,3.5,7,1.45,40,58.0,"Mohanan, U.c.",,1716.0,False,IND,0.0,1,-0.15,40,-6.0
+33462127,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1582,1421,3.5,7,1.45,40,58.0,"Aarav, Ajith",,1606.0,False,IND,0.0,1,-0.26,40,-10.4
+33462127,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1582,1421,3.5,7,1.45,40,58.0,"Benny, Thomas",,1549.0,False,IND,1.0,1,0.67,40,26.8
+33462127,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1582,1421,3.5,7,1.45,40,58.0,"Rithika, Sunil",,1526.0,False,IND,0.0,1,-0.36,40,-14.4
+33462127,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1582,1421,3.5,7,1.45,40,58.0,"Sidarth, Sudharshan",,1566.0,False,IND,0.5,1,0.19,40,7.6
+33462127,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1582,1421,3.5,7,1.45,40,58.0,"Rajeev Kumar, K",,1561.0,False,IND,1.0,1,0.69,40,27.6
+33462127,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1582,1421,3.5,7,1.45,40,58.0,"Vineesh, P S",,1549.0,False,IND,1.0,1,0.67,40,26.8
+33462127,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1660,1503,1.5,4,0.32,40,12.8,"Yash, Bijlani",,1761.0,False,IND,0.0,1,-0.18,40,-7.2
+33462127,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1660,1503,1.5,4,0.32,40,12.8,"Dhivakaran, M",,1632.0,False,IND,0.0,1,-0.33,40,-13.2
+33462127,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1660,1503,1.5,4,0.32,40,12.8,"Darshan, R",,1627.0,False,IND,1.0,1,0.67,40,26.8
+33462127,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1660,1503,1.5,4,0.32,40,12.8,"Avinash, Baliarsingh",,1620.0,False,IND,0.5,1,0.16,40,6.4
+33462127,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1531,1516,4.0,8,0.1,40,4.0,"Mantik, Iyer",,1415.0,False,IND,1.0,1,0.36,40,14.4
+33462127,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1531,1516,4.0,8,0.1,40,4.0,"Krithik, Muthukumar",,1765.0,False,IND,0.0,1,-0.19,40,-7.6
+33462127,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1531,1516,4.0,8,0.1,40,4.0,"Paramesh, C K S",,1581.0,False,IND,0.5,1,0.09,40,3.6
+33462127,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1531,1516,4.0,8,0.1,40,4.0,"Aharnish, Nanda",,1423.0,False,IND,1.0,1,0.37,40,14.8
+33462127,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1531,1516,4.0,8,0.1,40,4.0,"Ahilaan, Baishya",,1460.0,False,IND,0.5,1,-0.08,40,-3.2
+33462127,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1531,1516,4.0,8,0.1,40,4.0,"Garvit, Jain",,1686.0,False,IND,0.0,1,-0.28,40,-11.2
+33462127,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1531,1516,4.0,8,0.1,40,4.0,"Viraj, Karthik",,1438.0,False,IND,0.0,1,-0.61,40,-24.4
+33462127,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1531,1516,4.0,8,0.1,40,4.0,"Vidyuth, V",,1476.0,False,IND,1.0,1,0.44,40,17.6

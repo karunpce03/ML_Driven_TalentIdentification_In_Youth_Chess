@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33369097,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1597,1453,0.0,4,-1.24,40,-49.6,"Kumbhar, Kartik",,1620.0,False,IND,0.0,1,-0.28,40,-11.2
+33369097,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1597,1453,0.0,4,-1.24,40,-49.6,"Vivek, Ashok Jadhav",,1598.0,False,IND,0.0,1,-0.31,40,-12.4
+33369097,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1597,1453,0.0,4,-1.24,40,-49.6,"Tiwari, O P",,1555.0,False,IND,0.0,1,-0.36,40,-14.4
+33369097,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1597,1453,0.0,4,-1.24,40,-49.6,"Muthe, Dhruv",,1614.0,False,IND,0.0,1,-0.29,40,-11.6

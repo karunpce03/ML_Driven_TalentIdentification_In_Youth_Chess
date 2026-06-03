@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25922491,2025-04-01,0,RADNICKICHESS IM Round Robin February 2025,Beograd SRB,2025-02-22,2025-03-02,2249,2236,6.0,9,1.7,20,34.0,"Zmijanac, Dusko",f,1984.0,False,SRB,1.0,1,0.19,20,3.8
+25922491,2025-04-01,0,RADNICKICHESS IM Round Robin February 2025,Beograd SRB,2025-02-22,2025-03-02,2249,2236,6.0,9,1.7,20,34.0,"Ghazaryan, Narek E.",,2149.0,False,ARM,0.0,1,-0.62,20,-12.4
+25922491,2025-04-01,0,RADNICKICHESS IM Round Robin February 2025,Beograd SRB,2025-02-22,2025-03-02,2249,2236,6.0,9,1.7,20,34.0,"Khodko, Yurii N.",f,2354.0,False,RUS,1.0,1,0.66,20,13.2
+25922491,2025-04-01,0,RADNICKICHESS IM Round Robin February 2025,Beograd SRB,2025-02-22,2025-03-02,2249,2236,6.0,9,1.7,20,34.0,"Todorovic, Goran M",g,2280.0,False,SRB,1.0,1,0.56,20,11.2
+25922491,2025-04-01,0,RADNICKICHESS IM Round Robin February 2025,Beograd SRB,2025-02-22,2025-03-02,2249,2236,6.0,9,1.7,20,34.0,"Milosevic, Milos",m,2336.0,False,SRB,0.5,1,0.14,20,2.8
+25922491,2025-04-01,0,RADNICKICHESS IM Round Robin February 2025,Beograd SRB,2025-02-22,2025-03-02,2249,2236,6.0,9,1.7,20,34.0,"Damljanovic, Branko",g,2374.0,False,SRB,0.5,1,0.19,20,3.8
+25922491,2025-04-01,0,RADNICKICHESS IM Round Robin February 2025,Beograd SRB,2025-02-22,2025-03-02,2249,2236,6.0,9,1.7,20,34.0,"Petrovic, Aleksa",f,2288.0,False,SRB,0.5,1,0.07,20,1.4
+25922491,2025-04-01,0,RADNICKICHESS IM Round Robin February 2025,Beograd SRB,2025-02-22,2025-03-02,2249,2236,6.0,9,1.7,20,34.0,"Arakelyan, Manvel",c,2282.0,False,ARM,0.5,1,0.06,20,1.2
+25922491,2025-04-01,0,RADNICKICHESS IM Round Robin February 2025,Beograd SRB,2025-02-22,2025-03-02,2249,2236,6.0,9,1.7,20,34.0,"Phatak, Aanjaneya",,2197.0,False,IND,1.0,1,0.45,20,9.0

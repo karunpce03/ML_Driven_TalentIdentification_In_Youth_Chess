@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429019761,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1628,1476,1.5,5,0.0,40,0.0,"Rishabh, Pradhan",,1716.0,False,IND,0.0,1,-0.2,40,-8.0
+429019761,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1628,1476,1.5,5,0.0,40,0.0,"Kanav, Bansal",,1640.0,False,IND,0.0,1,-0.28,40,-11.2
+429019761,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1628,1476,1.5,5,0.0,40,0.0,"Niroshan, Thanikachalam",,1579.0,False,IND,0.0,1,-0.36,40,-14.4
+429019761,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1628,1476,1.5,5,0.0,40,0.0,"Vivaan, Chawla",,1577.0,False,IND,0.5,1,0.14,40,5.6
+429019761,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1628,1476,1.5,5,0.0,40,0.0,"Bagdia, Shourya",,1628.0,False,IND,1.0,1,0.7,40,28.0

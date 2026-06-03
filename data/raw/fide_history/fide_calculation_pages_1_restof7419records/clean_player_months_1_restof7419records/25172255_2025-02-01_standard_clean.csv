@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25172255,2025-02-01,0,January 2025 Coppell CC FIDE Classical - U1800,"Coppell, TX USA",2025-01-24,2025-01-26,1590,1473,2.5,4,1.12,40,44.8,"Ganesh, Kaira Ananya",,1641.0,False,USA,0.5,1,0.22,40,8.8
+25172255,2025-02-01,0,January 2025 Coppell CC FIDE Classical - U1800,"Coppell, TX USA",2025-01-24,2025-01-26,1590,1473,2.5,4,1.12,40,44.8,"Dmello, Royce",,1682.0,False,USA,1.0,1,0.77,40,30.8
+25172255,2025-02-01,0,January 2025 Coppell CC FIDE Classical - U1800,"Coppell, TX USA",2025-01-24,2025-01-26,1590,1473,2.5,4,1.12,40,44.8,"Das, Abhinav",,1557.0,False,USA,0.0,1,-0.38,40,-15.2
+25172255,2025-02-01,0,January 2025 Coppell CC FIDE Classical - U1800,"Coppell, TX USA",2025-01-24,2025-01-26,1590,1473,2.5,4,1.12,40,44.8,"Prabakar, Anish Karthick Sangili",,1480.0,False,USA,1.0,1,0.51,40,20.4

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429010233,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1752,1572,0.0,5,-1.48,40,-59.2,"Bindu, Saritha K.",wf,1725.0,False,IND,0.0,1,-0.3,40,-12.0
+429010233,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1752,1572,0.0,5,-1.48,40,-59.2,"Tirtha, Shah",,1411.0,False,IND,0.0,1,-0.71,40,-28.4
+429010233,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1752,1572,0.0,5,-1.48,40,-59.2,"Niharika, Challa",,1972.0,True,IND,0.0,1,-0.08,40,-3.2
+429010233,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1752,1572,0.0,5,-1.48,40,-59.2,"Nanditha, V",wc,1904.0,False,IND,0.0,1,-0.12,40,-4.8
+429010233,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1752,1572,0.0,5,-1.48,40,-59.2,"Archita, Agrawal",,1748.0,False,IND,0.0,1,-0.27,40,-10.8
+429010233,2025-04-01,0,National Amateur Chess Championship Below 2300 (Women),Gaya IND,2025-03-25,2025-03-29,1696,1572,1.0,6,-1.09,40,-43.6,"Sravyasree, Bheemarasetty",,1828.0,False,IND,0.0,1,-0.19,40,-7.6
+429010233,2025-04-01,0,National Amateur Chess Championship Below 2300 (Women),Gaya IND,2025-03-25,2025-03-29,1696,1572,1.0,6,-1.09,40,-43.6,"Pradiksha, P S",,1789.0,False,IND,0.0,1,-0.22,40,-8.8
+429010233,2025-04-01,0,National Amateur Chess Championship Below 2300 (Women),Gaya IND,2025-03-25,2025-03-29,1696,1572,1.0,6,-1.09,40,-43.6,"Asudani, Ruhani Raj",,1666.0,False,IND,0.0,1,-0.37,40,-14.8
+429010233,2025-04-01,0,National Amateur Chess Championship Below 2300 (Women),Gaya IND,2025-03-25,2025-03-29,1696,1572,1.0,6,-1.09,40,-43.6,"Jagadale, Ishwari",,1853.0,False,IND,0.0,1,-0.16,40,-6.4
+429010233,2025-04-01,0,National Amateur Chess Championship Below 2300 (Women),Gaya IND,2025-03-25,2025-03-29,1696,1572,1.0,6,-1.09,40,-43.6,"Pallavi, Samir Dey",,1549.0,False,IND,0.0,1,-0.53,40,-21.2
+429010233,2025-04-01,0,National Amateur Chess Championship Below 2300 (Women),Gaya IND,2025-03-25,2025-03-29,1696,1572,1.0,6,-1.09,40,-43.6,"Deepthaashri, Ravi Ganesh",,1488.0,False,IND,1.0,1,0.38,40,15.2

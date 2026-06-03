@@ -1,0 +1,34 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33427810,2024-05-01,0,2nd Lt Diloo Dhar Memorial FIDE Rating Chess Tournament-2024,Silchar IND,2024-04-01,2024-04-06,1572,1429,1.5,5,-0.07,40,-2.8,"Arghadeep, Roy",,1592.0,False,IND,0.5,1,0.22,40,8.8
+33427810,2024-05-01,0,2nd Lt Diloo Dhar Memorial FIDE Rating Chess Tournament-2024,Silchar IND,2024-04-01,2024-04-06,1572,1429,1.5,5,-0.07,40,-2.8,"Swarup, Das",,1467.0,False,IND,1.0,1,0.55,40,22.0
+33427810,2024-05-01,0,2nd Lt Diloo Dhar Memorial FIDE Rating Chess Tournament-2024,Silchar IND,2024-04-01,2024-04-06,1572,1429,1.5,5,-0.07,40,-2.8,"Elangbam, Shashikanta Singh",,1695.0,False,IND,0.0,1,-0.18,40,-7.2
+33427810,2024-05-01,0,2nd Lt Diloo Dhar Memorial FIDE Rating Chess Tournament-2024,Silchar IND,2024-04-01,2024-04-06,1572,1429,1.5,5,-0.07,40,-2.8,"Santanu, Borah",,1544.0,False,IND,0.0,1,-0.34,40,-13.6
+33427810,2024-05-01,0,2nd Lt Diloo Dhar Memorial FIDE Rating Chess Tournament-2024,Silchar IND,2024-04-01,2024-04-06,1572,1429,1.5,5,-0.07,40,-2.8,"Anirban, Das",,1561.0,False,IND,0.0,1,-0.32,40,-12.8
+33427810,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1649,1426,1.0,4,0.06,40,2.4,"Debashish, Das",,1498.0,False,IND,1.0,1,0.6,40,24.0
+33427810,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1649,1426,1.0,4,0.06,40,2.4,"Ranit, Maity",,1791.0,False,IND,0.0,1,-0.1,40,-4.0
+33427810,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1649,1426,1.0,4,0.06,40,2.4,"Das, Monaj",,1693.0,False,IND,0.0,1,-0.18,40,-7.2
+33427810,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1649,1426,1.0,4,0.06,40,2.4,"Abhinava, Nath",,1613.0,False,IND,0.0,1,-0.26,40,-10.4
+33427810,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1700,1428,1.5,5,0.52,40,20.8,"Abinash, P Gogoi",,1726.0,False,IND,0.5,1,0.35,40,14.0
+33427810,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1700,1428,1.5,5,0.52,40,20.8,"Dharmeswar, Pegu",,1828.0,True,IND,0.0,1,-0.08,40,-3.2
+33427810,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1700,1428,1.5,5,0.52,40,20.8,"Syed, Mehdi",,1448.0,False,IND,1.0,1,0.53,40,21.2
+33427810,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1700,1428,1.5,5,0.52,40,20.8,"Lohit, Gogoi",,1672.0,False,IND,0.0,1,-0.2,40,-8.0
+33427810,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1700,1428,1.5,5,0.52,40,20.8,"Nirab, Jyoti Bordoloi",,1827.0,False,IND,0.0,1,-0.08,40,-3.2
+33427810,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1682,1449,4.5,8,2.84,40,113.6,"Hage, Lasa Nado",,1711.0,False,IND,1.0,1,0.82,40,32.8
+33427810,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1682,1449,4.5,8,2.84,40,113.6,"Ayush, Saha",,1731.0,False,IND,0.5,1,0.34,40,13.6
+33427810,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1682,1449,4.5,8,2.84,40,113.6,"Talin, Nimpu",,1695.0,False,IND,0.0,1,-0.19,40,-7.6
+33427810,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1682,1449,4.5,8,2.84,40,113.6,"Tapu, Kaji",,1679.0,False,IND,0.5,1,0.29,40,11.6
+33427810,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1682,1449,4.5,8,2.84,40,113.6,"Silseng, N Marak",,1697.0,False,IND,0.5,1,0.31,40,12.4
+33427810,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1682,1449,4.5,8,2.84,40,113.6,"Subrata, Nandy Roy",,1657.0,False,IND,1.0,1,0.77,40,30.8
+33427810,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1682,1449,4.5,8,2.84,40,113.6,"Konsam, Jiban Singh",,1669.0,False,IND,0.5,1,0.28,40,11.2
+33427810,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1682,1449,4.5,8,2.84,40,113.6,"Abhinava, Nath",,1616.0,False,IND,0.5,1,0.22,40,8.8
+33427810,2025-02-01,0,SHEPHALI MEMORIAL INTERNATIONAL FIDE RATING CHESS TOURNAMENT 2025,SILCHAR IND,2025-01-10,2025-01-15,1586,1563,1.0,4,-0.89,40,-35.6,"Surajit, Das",,1747.0,False,IND,0.5,1,0.24,40,9.6
+33427810,2025-02-01,0,SHEPHALI MEMORIAL INTERNATIONAL FIDE RATING CHESS TOURNAMENT 2025,SILCHAR IND,2025-01-10,2025-01-15,1586,1563,1.0,4,-0.89,40,-35.6,"Abhay, Chetty",,1715.0,False,IND,0.0,1,-0.3,40,-12.0
+33427810,2025-02-01,0,SHEPHALI MEMORIAL INTERNATIONAL FIDE RATING CHESS TOURNAMENT 2025,SILCHAR IND,2025-01-10,2025-01-15,1586,1563,1.0,4,-0.89,40,-35.6,"Radharanjan, Chakravarty",,1448.0,False,IND,0.0,1,-0.66,40,-26.4
+33427810,2025-02-01,0,SHEPHALI MEMORIAL INTERNATIONAL FIDE RATING CHESS TOURNAMENT 2025,SILCHAR IND,2025-01-10,2025-01-15,1586,1563,1.0,4,-0.89,40,-35.6,"Samanaway, Pal",,1435.0,False,IND,0.5,1,-0.17,40,-6.8
+33427810,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1656,1563,3.0,7,0.32,40,12.8,"Iftikar, Alom Mazumdar",,1896.0,False,IND,0.0,1,-0.12,40,-4.8
+33427810,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1656,1563,3.0,7,0.32,40,12.8,"Abhay, Chetty",,1715.0,False,IND,0.5,1,0.2,40,8.0
+33427810,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1656,1563,3.0,7,0.32,40,12.8,"Dawngliana, M S",,1685.0,False,IND,1.0,1,0.67,40,26.8
+33427810,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1656,1563,3.0,7,0.32,40,12.8,"Dhanuka, Aman",,1663.0,False,IND,0.0,1,-0.36,40,-14.4
+33427810,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1656,1563,3.0,7,0.32,40,12.8,"Anirban, Das",,1472.0,False,IND,0.5,1,-0.12,40,-4.8
+33427810,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1656,1563,3.0,7,0.32,40,12.8,"Icicang, Haikam",,1491.0,False,IND,1.0,1,0.4,40,16.0
+33427810,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1656,1563,3.0,7,0.32,40,12.8,"Sujay Kumar, Dam",,1671.0,False,IND,0.0,1,-0.35,40,-14.0

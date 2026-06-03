@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+66607663,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2100,1942,4.0,8,1.36,40,54.4,"Das, Sayantan",g,2342,True,IND,0.0,1,-0.08,40,-3.2
+66607663,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2100,1942,4.0,8,1.36,40,54.4,"Haraldsson, Oskar",,1815,False,ISL,1.0,1,0.33,40,13.2
+66607663,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2100,1942,4.0,8,1.36,40,54.4,"Laohawirapap, Prin",m,2342,True,THA,0.5,1,0.42,40,16.8
+66607663,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2100,1942,4.0,8,1.36,40,54.4,"Arpita, Mukherjee",wm,2221,False,IND,0.5,1,0.34,40,13.6
+66607663,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2100,1942,4.0,8,1.36,40,54.4,"Drummond, Matthew",,2194,False,AUS,0.0,1,-0.19,40,-7.6
+66607663,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2100,1942,4.0,8,1.36,40,54.4,"Umer, S.m",,1840,False,IND,1.0,1,0.36,40,14.4
+66607663,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2100,1942,4.0,8,1.36,40,54.4,"Lundberg, Bjorn",,2206,False,SWE,0.0,1,-0.18,40,-7.2
+66607663,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2100,1942,4.0,8,1.36,40,54.4,"Sebastian, Mhage Gerriahlou",,1842,False,PHI,1.0,1,0.36,40,14.4

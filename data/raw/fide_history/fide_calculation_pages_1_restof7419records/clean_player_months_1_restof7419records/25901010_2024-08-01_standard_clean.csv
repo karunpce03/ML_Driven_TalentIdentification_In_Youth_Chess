@@ -1,0 +1,27 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25901010,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2129,2032,3.5,8,0.36,26,9.36,"Popovic, Milan S",f,2374.0,False,SRB,0.0,1,-0.12,26,-3.12
+25901010,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2129,2032,3.5,8,0.36,26,9.36,"Leskur, Dejan",m,2227.0,False,SRB,0.5,1,0.25,26,6.5
+25901010,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2129,2032,3.5,8,0.36,26,9.36,"Pranav, Pradeep Nair",,1818.0,False,IND,1.0,1,0.23,26,5.98
+25901010,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2129,2032,3.5,8,0.36,26,9.36,"Ivanov, Mikhail M",g,2248.0,False,SRB,0.0,1,-0.22,26,-5.72
+25901010,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2129,2032,3.5,8,0.36,26,9.36,"Prieb, Robert",c,2137.0,False,GER,1.0,1,0.64,26,16.64
+25901010,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2129,2032,3.5,8,0.36,26,9.36,"Rupesh, Reddy Y",,1807.0,False,IND,0.5,1,-0.28,26,-7.28
+25901010,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2129,2032,3.5,8,0.36,26,9.36,"Kalinin, Alexander",g,2432.0,True,RUS,0.0,1,-0.08,26,-2.08
+25901010,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2129,2032,3.5,8,0.36,26,9.36,"Ashvath, Mittal",,1986.0,False,IND,0.5,1,-0.06,26,-1.56
+25901010,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2142,2020,2.5,9,-0.64,26,-16.64,"Ristic, Luka",f,2318.0,False,SRB,0.5,1,0.35,26,9.1
+25901010,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2142,2020,2.5,9,-0.64,26,-16.64,"Alok, Sinha",,2245.0,False,IND,0.0,1,-0.22,26,-5.72
+25901010,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2142,2020,2.5,9,-0.64,26,-16.64,"Khuslen, Erdenebayar",wf,2139.0,False,MGL,1.0,1,0.66,26,17.16
+25901010,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2142,2020,2.5,9,-0.64,26,-16.64,"Akhmedov, David",,2263.0,False,FID,0.0,1,-0.2,26,-5.2
+25901010,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2142,2020,2.5,9,-0.64,26,-16.64,"Pogorelskikh, Sofia",wm,2216.0,False,SRB,0.5,1,0.25,26,6.5
+25901010,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2142,2020,2.5,9,-0.64,26,-16.64,"Vershinin, Igor",,2092.0,False,RUS,0.0,1,-0.4,26,-10.4
+25901010,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2142,2020,2.5,9,-0.64,26,-16.64,"Sahin, Sarp",c,2187.0,False,TUR,0.0,1,-0.28,26,-7.28
+25901010,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2142,2020,2.5,9,-0.64,26,-16.64,"Enkhbolor, Nyamdavaa",wf,1908.0,False,MGL,0.0,1,-0.65,26,-16.9
+25901010,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2142,2020,2.5,9,-0.64,26,-16.64,"Milovic, Ilija",,1912.0,False,MNE,0.5,1,-0.15,26,-3.9
+25901010,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1727,2020,6.0,9,-1.56,26,-40.56,"Sambhav, Setiya",,1622.0,False,IND,0.5,1,-0.42,26,-10.92
+25901010,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1727,2020,6.0,9,-1.56,26,-40.56,"Pratiyush, Kumar",,1620.0,True,IND,1.0,1,0.08,26,2.08
+25901010,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1727,2020,6.0,9,-1.56,26,-40.56,"Puneet, Verma",,1684.0,False,IND,0.0,1,-0.88,26,-22.88
+25901010,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1727,2020,6.0,9,-1.56,26,-40.56,"Aabhas, Kumar Srivastava",,1642.0,False,IND,1.0,1,0.09,26,2.34
+25901010,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1727,2020,6.0,9,-1.56,26,-40.56,"Aditri, Shome",,1741.0,False,IND,1.0,1,0.16,26,4.16
+25901010,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1727,2020,6.0,9,-1.56,26,-40.56,"Shreyas, Raj",,1793.0,False,IND,0.5,1,-0.29,26,-7.54
+25901010,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1727,2020,6.0,9,-1.56,26,-40.56,"Mann, Akbari",,1828.0,False,IND,1.0,1,0.25,26,6.5
+25901010,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1727,2020,6.0,9,-1.56,26,-40.56,"Tijil, Singh",,1831.0,False,IND,0.5,1,-0.25,26,-6.5
+25901010,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1727,2020,6.0,9,-1.56,26,-40.56,"Parth, Belwal",,1783.0,False,IND,0.5,1,-0.3,26,-7.8

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48788775,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,1.5,5,0.0,1351,,"Srithar, T",,1610.0,False,IND,0.0,1,0.0,,0.0
+48788775,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,1.5,5,0.0,1351,,"Paarventhan, M D",,1496.0,False,IND,0.0,1,0.0,,0.0
+48788775,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,1.5,5,0.0,1351,,"Sidharthan, V",,1431.0,False,IND,1.0,1,0.0,,0.0
+48788775,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,1.5,5,0.0,1351,,"Shivaghuru, P",,1490.0,False,IND,0.0,1,0.0,,0.0
+48788775,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,,,1.5,5,0.0,1351,,"Kreshanth, K L",,1471.0,False,IND,0.5,1,0.0,,0.0
+48788775,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1610.0,1483.0,0.5,4,-0.86,40,-34.4,"Akshay, A R",,1764.0,False,IND,0.0,1,-0.16,40.0,-6.4
+48788775,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1610.0,1483.0,0.5,4,-0.86,40,-34.4,"Muthukumar, M",,1616.0,False,IND,0.0,1,-0.32,40.0,-12.8
+48788775,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1610.0,1483.0,0.5,4,-0.86,40,-34.4,"Sharveshwaran, K",,1442.0,False,IND,0.5,1,-0.06,40.0,-2.4
+48788775,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1610.0,1483.0,0.5,4,-0.86,40,-34.4,"Lokesh, Varmaa K",,1617.0,False,IND,0.0,1,-0.32,40.0,-12.8

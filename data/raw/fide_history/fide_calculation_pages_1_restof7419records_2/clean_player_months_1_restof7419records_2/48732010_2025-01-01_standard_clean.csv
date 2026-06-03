@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48732010,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,1573,1536,2.0,4,0.21,40,8.4,"Ryan, S V",,1628.0,False,IND,0.5,1,0.13,40,5.2
+48732010,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,1573,1536,2.0,4,0.21,40,8.4,"Sajan, C.t.",,1599.0,False,IND,0.5,1,0.09,40,3.6
+48732010,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,1573,1536,2.0,4,0.21,40,8.4,"Umer, Muhthar P S",,1645.0,False,IND,0.0,1,-0.35,40,-14.0
+48732010,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,1573,1536,2.0,4,0.21,40,8.4,"Asil, Yasheen T",,1420.0,False,IND,1.0,1,0.34,40,13.6

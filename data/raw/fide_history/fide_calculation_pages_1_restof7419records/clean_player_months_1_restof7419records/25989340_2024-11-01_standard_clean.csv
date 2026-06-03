@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25989340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1894,1844,6.5,11,1.56,35,54.6,"Charanjeet, Kaur",,1483.0,False,IND,1.0,1,0.1,35,3.5
+25989340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1894,1844,6.5,11,1.56,35,54.6,"Priyanka, Nutakki",wg,2244.0,True,IND,0.0,1,-0.08,35,-2.8
+25989340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1894,1844,6.5,11,1.56,35,54.6,"Khuanna, Kapoor",,1689.0,False,IND,1.0,1,0.29,35,10.15
+25989340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1894,1844,6.5,11,1.56,35,54.6,"Sahithya, G",,1618.0,False,IND,1.0,1,0.21,35,7.35
+25989340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1894,1844,6.5,11,1.56,35,54.6,"Kiran, Manisha Mohanty",wg,2031.0,False,IND,0.5,1,0.24,35,8.4
+25989340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1894,1844,6.5,11,1.56,35,54.6,"Swati, Ghate",wg,2023.0,False,IND,0.0,1,-0.27,35,-9.45
+25989340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1894,1844,6.5,11,1.56,35,54.6,"Shivamshika, G",,1712.0,False,IND,1.0,1,0.32,35,11.2
+25989340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1894,1844,6.5,11,1.56,35,54.6,"Srija, Seshadri",wg,2244.0,True,IND,0.0,1,-0.08,35,-2.8
+25989340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1894,1844,6.5,11,1.56,35,54.6,"Sananda, R",,1658.0,False,IND,1.0,1,0.26,35,9.1
+25989340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1894,1844,6.5,11,1.56,35,54.6,"Nimmy, A.g.",wf,2101.0,False,IND,1.0,1,0.82,35,28.7
+25989340,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1894,1844,6.5,11,1.56,35,54.6,"Mrudul, Dehankar",wm,2036.0,False,IND,0.0,1,-0.25,35,-8.75
+25989340,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1697,1844,6.0,9,-0.1,35,-3.5,"Goriparthi, Mohan Gangadhara Rao",,1471.0,False,IND,1.0,1,0.1,35,3.5
+25989340,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1697,1844,6.0,9,-0.1,35,-3.5,"Vispute, Mayur",,1630.0,False,IND,1.0,1,0.23,35,8.05
+25989340,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1697,1844,6.0,9,-0.1,35,-3.5,"Kandalam, Teja",,1612.0,False,IND,1.0,1,0.21,35,7.35
+25989340,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1697,1844,6.0,9,-0.1,35,-3.5,"Ramnathan, Balasubramaniam",m,1964.0,False,IND,0.5,1,0.16,35,5.6
+25989340,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1697,1844,6.0,9,-0.1,35,-3.5,"Alluri, Bhaskara Ratna Shanmukha",,2001.0,False,IND,0.0,1,-0.29,35,-10.15
+25989340,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1697,1844,6.0,9,-0.1,35,-3.5,"Rashmika, Maringanti",,1627.0,False,IND,0.5,1,-0.28,35,-9.8
+25989340,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1697,1844,6.0,9,-0.1,35,-3.5,"Khedkar, Prasad",,1686.0,False,IND,0.0,1,-0.71,35,-24.85
+25989340,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1697,1844,6.0,9,-0.1,35,-3.5,"Manickavelu., A",,1606.0,False,IND,1.0,1,0.2,35,7.0
+25989340,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,1697,1844,6.0,9,-0.1,35,-3.5,"Ragavan, Samarth Rajesh",,1675.0,False,USA,1.0,1,0.28,35,9.8

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33336989,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1683,1521,2.0,10,-0.98,40,-39.2,"Soumick, Bandopadhyay",,1857.0,False,IND,0.0,1,-0.12,40,-4.8
+33336989,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1683,1521,2.0,10,-0.98,40,-39.2,"Narayan, Joshi",,1746.0,False,IND,0.0,1,-0.22,40,-8.8
+33336989,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1683,1521,2.0,10,-0.98,40,-39.2,"Chhotani, Sunil",,1683.0,False,IND,0.0,1,-0.29,40,-11.6
+33336989,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1683,1521,2.0,10,-0.98,40,-39.2,"Rajveer, Patil",,1722.0,False,IND,0.5,1,0.26,40,10.4
+33336989,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1683,1521,2.0,10,-0.98,40,-39.2,Shreyas,,1714.0,False,IND,0.0,1,-0.25,40,-10.0
+33336989,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1683,1521,2.0,10,-0.98,40,-39.2,"Nabam, Nikum",,1613.0,False,IND,0.0,1,-0.37,40,-14.8
+33336989,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1683,1521,2.0,10,-0.98,40,-39.2,"Thomas, Remsangzuala",,1691.0,False,IND,0.5,1,0.22,40,8.8
+33336989,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1683,1521,2.0,10,-0.98,40,-39.2,"Prem, Kumar",,1407.0,False,IND,1.0,1,0.34,40,13.6
+33336989,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1683,1521,2.0,10,-0.98,40,-39.2,"Prabhukocharekar, P K",,1782.0,False,IND,0.0,1,-0.18,40,-7.2
+33336989,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1683,1521,2.0,10,-0.98,40,-39.2,"Pratham, Nayyar",,1614.0,False,IND,0.0,1,-0.37,40,-14.8

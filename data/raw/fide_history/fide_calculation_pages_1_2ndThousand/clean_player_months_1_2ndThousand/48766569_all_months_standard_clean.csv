@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48766569,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.0,5,0.0,1256,,"Abir, Mitra",,1597.0,False,IND,0.0,1,0.0,,0.0
+48766569,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.0,5,0.0,1256,,"Swayam, Ojha",,1432.0,False,IND,1.0,1,0.0,,0.0
+48766569,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.0,5,0.0,1256,,"Inoday, Mitra",,1495.0,False,IND,0.0,1,0.0,,0.0
+48766569,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.0,5,0.0,1256,,"Vineet, Mahapatra",,1447.0,False,IND,0.0,1,0.0,,0.0
+48766569,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.0,5,0.0,1256,,"Tamoghna, Mukherjee",,1508.0,False,IND,0.0,1,0.0,,0.0
+48766569,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1545.0,1425.0,0.0,1,-0.34,40,-13.6,"Arnab, Nandy",,1545.0,False,IND,0.0,1,-0.34,40.0,-13.6

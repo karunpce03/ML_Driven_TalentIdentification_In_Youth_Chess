@@ -1,0 +1,46 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25624849,2024-05-01,0,Southend Masters 2024,Southend ENG,2024-03-28,2024-04-01,2343,2150,3.5,8,1.41,40,56.4,"Hollan, Martin",f,2347.0,False,CZE,0.0,1,-0.25,40,-10.0
+25624849,2024-05-01,0,Southend Masters 2024,Southend ENG,2024-03-28,2024-04-01,2343,2150,3.5,8,1.41,40,56.4,"Agdelen, Huseyin Can",f,2408.0,False,TUR,1.0,1,0.82,40,32.8
+25624849,2024-05-01,0,Southend Masters 2024,Southend ENG,2024-03-28,2024-04-01,2343,2150,3.5,8,1.41,40,56.4,"Lalic, Bogdan",g,2354.0,False,CRO,0.5,1,0.26,40,10.4
+25624849,2024-05-01,0,Southend Masters 2024,Southend ENG,2024-03-28,2024-04-01,2343,2150,3.5,8,1.41,40,56.4,"Fernandez, Daniel Howard",g,2532.0,False,ENG,0.0,1,-0.09,40,-3.6
+25624849,2024-05-01,0,Southend Masters 2024,Southend ENG,2024-03-28,2024-04-01,2343,2150,3.5,8,1.41,40,56.4,"Jackson, James P",m,2371.0,False,ENG,0.0,1,-0.22,40,-8.8
+25624849,2024-05-01,0,Southend Masters 2024,Southend ENG,2024-03-28,2024-04-01,2343,2150,3.5,8,1.41,40,56.4,"Bezuidenhout, Roland",f,2273.0,False,RSA,1.0,1,0.67,40,26.8
+25624849,2024-05-01,0,Southend Masters 2024,Southend ENG,2024-03-28,2024-04-01,2343,2150,3.5,8,1.41,40,56.4,"Haydon, David L",f,2241.0,False,ENG,0.5,1,0.12,40,4.8
+25624849,2024-05-01,0,Southend Masters 2024,Southend ENG,2024-03-28,2024-04-01,2343,2150,3.5,8,1.41,40,56.4,"Gallagher, Daniel Gh",,2219.0,False,ENG,0.5,1,0.1,40,4.0
+25624849,2024-05-01,0,Beckenham FIDE Rated Club Championship Round 9 - 10 April,Beckenham ENG,2024-04-10,2024-04-10,1962,2124,1.5,2,0.07,40,2.8,"Baltrunas, Evaldas",,1984.0,False,ENG,0.5,1,-0.19,40,-7.6
+25624849,2024-05-01,0,Beckenham FIDE Rated Club Championship Round 9 - 10 April,Beckenham ENG,2024-04-10,2024-04-10,1962,2124,1.5,2,0.07,40,2.8,"Smith, Mark P",,1939.0,False,ENG,1.0,1,0.26,40,10.4
+25624849,2024-07-01,0,Mitcham International GM and IM - IM Group,Mitcham ENG,2024-05-27,2024-05-31,2239,2183,3.5,9,-0.34,40,-13.6,"Lalic, Bogdan",g,2358.0,False,CRO,0.0,1,-0.27,40,-10.8
+25624849,2024-07-01,0,Mitcham International GM and IM - IM Group,Mitcham ENG,2024-05-27,2024-05-31,2239,2183,3.5,9,-0.34,40,-13.6,"Radovanovic, Jovica",f,2222.0,False,SRB,0.0,1,-0.45,40,-18.0
+25624849,2024-07-01,0,Mitcham International GM and IM - IM Group,Mitcham ENG,2024-05-27,2024-05-31,2239,2183,3.5,9,-0.34,40,-13.6,"Buckley, Graeme N",m,2334.0,False,ENG,0.0,1,-0.3,40,-12.0
+25624849,2024-07-01,0,Mitcham International GM and IM - IM Group,Mitcham ENG,2024-05-27,2024-05-31,2239,2183,3.5,9,-0.34,40,-13.6,"Brewer, Callum D",,2155.0,False,ENG,0.5,1,-0.04,40,-1.6
+25624849,2024-07-01,0,Mitcham International GM and IM - IM Group,Mitcham ENG,2024-05-27,2024-05-31,2239,2183,3.5,9,-0.34,40,-13.6,"Dunnington, Angus J",m,2294.0,False,SCO,1.0,1,0.65,40,26.0
+25624849,2024-07-01,0,Mitcham International GM and IM - IM Group,Mitcham ENG,2024-05-27,2024-05-31,2239,2183,3.5,9,-0.34,40,-13.6,"Hobson, Kenneth",c,2189.0,False,ENG,0.5,1,0.01,40,0.4
+25624849,2024-07-01,0,Mitcham International GM and IM - IM Group,Mitcham ENG,2024-05-27,2024-05-31,2239,2183,3.5,9,-0.34,40,-13.6,"Southcott-Moyers, Indy",,2163.0,False,ENG,0.5,1,-0.03,40,-1.2
+25624849,2024-07-01,0,Mitcham International GM and IM - IM Group,Mitcham ENG,2024-05-27,2024-05-31,2239,2183,3.5,9,-0.34,40,-13.6,"Wall, Gavin",m,2281.0,False,IRL,0.5,1,0.13,40,5.2
+25624849,2024-07-01,0,Mitcham International GM and IM - IM Group,Mitcham ENG,2024-05-27,2024-05-31,2239,2183,3.5,9,-0.34,40,-13.6,"Lalic, Peter D",c,2156.0,False,ENG,0.5,1,-0.04,40,-1.6
+25624849,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2297,2169,3.5,8,0.84,40,33.6,"Kaustuv, Kundu",m,2403.0,False,IND,0.0,1,-0.21,40,-8.4
+25624849,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2297,2169,3.5,8,0.84,40,33.6,"Petrosyan, Armen",f,2347.0,False,FRA,0.0,1,-0.27,40,-10.8
+25624849,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2297,2169,3.5,8,0.84,40,33.6,"Gertosio, Franck",f,2235.0,False,FRA,0.5,1,0.09,40,3.6
+25624849,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2297,2169,3.5,8,0.84,40,33.6,"Breuil, Tristan",f,2273.0,False,FRA,0.5,1,0.14,40,5.6
+25624849,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2297,2169,3.5,8,0.84,40,33.6,"Bottazzi, Ulysse",f,2270.0,False,FRA,1.0,1,0.64,40,25.6
+25624849,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2297,2169,3.5,8,0.84,40,33.6,"Ajay Krishna, S",m,2364.0,False,IND,0.0,1,-0.25,40,-10.0
+25624849,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2297,2169,3.5,8,0.84,40,33.6,"Malassagne, Raphael",f,2242.0,False,FRA,0.5,1,0.1,40,4.0
+25624849,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2297,2169,3.5,8,0.84,40,33.6,"Nayak, Rajesh",c,2245.0,False,IND,1.0,1,0.6,40,24.0
+25624849,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2105,2169,3.5,9,-1.87,38,-71.06,"Kelires, Andreas",g,2516.0,False,GRE,0.0,1,-0.11,38,-4.18
+25624849,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2105,2169,3.5,9,-1.87,38,-71.06,"Sahin, Burak Doga",,2059.0,False,TUR,0.0,1,-0.65,38,-24.7
+25624849,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2105,2169,3.5,9,-1.87,38,-71.06,"Syrkiewicz, Michal",,2086.0,False,POL,0.5,1,-0.11,38,-4.18
+25624849,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2105,2169,3.5,9,-1.87,38,-71.06,"Potluri, Saye Srreezza",,2060.0,False,IND,1.0,1,0.35,38,13.3
+25624849,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2105,2169,3.5,9,-1.87,38,-71.06,"Demirtas, Alper",,2076.0,False,TUR,0.0,1,-0.63,38,-23.94
+25624849,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2105,2169,3.5,9,-1.87,38,-71.06,"Seretakis, Nikolas",,2004.0,False,GRE,1.0,1,0.28,38,10.64
+25624849,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2105,2169,3.5,9,-1.87,38,-71.06,"Skaperdas, Kostantinos",,2060.0,False,GRE,1.0,1,0.35,38,13.3
+25624849,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2105,2169,3.5,9,-1.87,38,-71.06,"Saksham, Wadhwa",,2036.0,False,IND,0.0,1,-0.68,38,-25.84
+25624849,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2105,2169,3.5,9,-1.87,38,-71.06,"Karademir, Bugra",,2044.0,False,TUR,0.0,1,-0.67,38,-25.46
+25624849,2024-09-01,0,Northumbria Masters IM Round Robin 2024,Darlington ENG,2024-08-22,2024-08-26,2242,2203,3.0,9,-1.01,38,-38.38,"Hollan, Petr",f,2249.0,False,CZE,0.5,1,0.06,38,2.28
+25624849,2024-09-01,0,Northumbria Masters IM Round Robin 2024,Darlington ENG,2024-08-22,2024-08-26,2242,2203,3.0,9,-1.01,38,-38.38,"Shearsby, Jude",,2164.0,False,ENG,0.5,1,-0.05,38,-1.9
+25624849,2024-09-01,0,Northumbria Masters IM Round Robin 2024,Darlington ENG,2024-08-22,2024-08-26,2242,2203,3.0,9,-1.01,38,-38.38,"Wall, Gavin",m,2258.0,False,IRL,0.0,1,-0.42,38,-15.96
+25624849,2024-09-01,0,Northumbria Masters IM Round Robin 2024,Darlington ENG,2024-08-22,2024-08-26,2242,2203,3.0,9,-1.01,38,-38.38,"Collin, Moritz Valentin",f,2234.0,False,SUI,1.0,1,0.54,38,20.52
+25624849,2024-09-01,0,Northumbria Masters IM Round Robin 2024,Darlington ENG,2024-08-22,2024-08-26,2242,2203,3.0,9,-1.01,38,-38.38,"Dunnington, Angus J",m,2256.0,False,SCO,0.5,1,0.07,38,2.66
+25624849,2024-09-01,0,Northumbria Masters IM Round Robin 2024,Darlington ENG,2024-08-22,2024-08-26,2242,2203,3.0,9,-1.01,38,-38.38,"Urh, Zala",wm,2256.0,False,SLO,0.0,1,-0.43,38,-16.34
+25624849,2024-09-01,0,Northumbria Masters IM Round Robin 2024,Darlington ENG,2024-08-22,2024-08-26,2242,2203,3.0,9,-1.01,38,-38.38,"Large, Peter G",m,2336.0,False,ENG,0.0,1,-0.32,38,-12.16
+25624849,2024-09-01,0,Northumbria Masters IM Round Robin 2024,Darlington ENG,2024-08-22,2024-08-26,2242,2203,3.0,9,-1.01,38,-38.38,"Moreby, James",f,2236.0,False,ENG,0.0,1,-0.45,38,-17.1
+25624849,2024-09-01,0,Northumbria Masters IM Round Robin 2024,Darlington ENG,2024-08-22,2024-08-26,2242,2203,3.0,9,-1.01,38,-38.38,"Burnett, Andrew",f,2193.0,False,SCO,0.5,1,-0.01,38,-0.38

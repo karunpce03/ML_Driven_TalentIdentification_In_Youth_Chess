@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25151096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1600,1467,2.5,5,0.85,40,34.0,"Mikael, Vivek Joseph",,1706.0,False,IND,0.0,1,-0.2,40,-8.0
+25151096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1600,1467,2.5,5,0.85,40,34.0,"Tulyaganova, Fazilat",,1402.0,False,UZB,1.0,1,0.41,40,16.4
+25151096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1600,1467,2.5,5,0.85,40,34.0,"Obado, Sean Adrich",,1601.0,False,PHI,0.5,1,0.18,40,7.2
+25151096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1600,1467,2.5,5,0.85,40,34.0,"Aljundi, Ammar",,1592.0,False,SYR,0.0,1,-0.33,40,-13.2
+25151096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1600,1467,2.5,5,0.85,40,34.0,"Pitts, Daniel",,1700.0,False,ENG,1.0,1,0.79,40,31.6
+25151096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1682,1467,0.0,4,-0.92,40,-36.8,"Pranav, Ganesh Prabhu",,1719.0,False,IND,0.0,1,-0.19,40,-7.6
+25151096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1682,1467,0.0,4,-0.92,40,-36.8,"Anvit, Sreejith",,1665.0,False,IND,0.0,1,-0.24,40,-9.6
+25151096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1682,1467,0.0,4,-0.92,40,-36.8,"Srinjay, Shrinivas Shankar",,1604.0,False,IND,0.0,1,-0.32,40,-12.8
+25151096,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1682,1467,0.0,4,-0.92,40,-36.8,"Fares, Qanair",,1738.0,False,JOR,0.0,1,-0.17,40,-6.8

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25999087,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1937,2183,9.0,11,0.38,40,15.2,"Aarush, Bhat",,1783,True,IND,1.0,1,0.08,40,3.2
+25999087,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1937,2183,9.0,11,0.38,40,15.2,"Ayaan, Trikha",,1783,True,IND,1.0,1,0.08,40,3.2
+25999087,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1937,2183,9.0,11,0.38,40,15.2,"Aarit, Kapil",,1831,False,IND,1.0,1,0.11,40,4.4
+25999087,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1937,2183,9.0,11,0.38,40,15.2,"Ritesh, Maddukuri",,1833,False,IND,1.0,1,0.11,40,4.4
+25999087,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1937,2183,9.0,11,0.38,40,15.2,"Jval, Saurin Patel",,2002,False,IND,0.5,1,-0.24,40,-9.6
+25999087,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1937,2183,9.0,11,0.38,40,15.2,"Chinmay, Kowshik",,1959,False,IND,1.0,1,0.22,40,8.8
+25999087,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1937,2183,9.0,11,0.38,40,15.2,"Rosh, Jain",f,2076,False,IND,1.0,1,0.35,40,14.0
+25999087,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1937,2183,9.0,11,0.38,40,15.2,"Sherla, Prathamesh",c,2208,False,IND,0.5,1,0.03,40,1.2
+25999087,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1937,2183,9.0,11,0.38,40,15.2,"Adhiraj, Mitra",,1913,False,IND,1.0,1,0.17,40,6.8
+25999087,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1937,2183,9.0,11,0.38,40,15.2,"Pranav, Sai Ram R S",,1858,False,IND,0.0,1,-0.87,40,-34.8
+25999087,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1937,2183,9.0,11,0.38,40,15.2,"Advik, Amit Agrawal",,2064,False,IND,1.0,1,0.34,40,13.6

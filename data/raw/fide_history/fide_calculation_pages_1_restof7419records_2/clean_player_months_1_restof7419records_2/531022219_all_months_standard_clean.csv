@@ -1,0 +1,22 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531022219,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,,,0.0,2,0.0,773,,"Mohit, Ambwani",,1670.0,False,IND,0.0,1,0.0,,0.0
+531022219,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,,,0.0,2,0.0,773,,"Aarnav, Rawat",,1476.0,False,IND,0.0,1,0.0,,0.0
+531022219,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,,,2.0,6,0.0,1417,,"Vairaj, Sogerwal",,1620.0,False,IND,0.0,1,0.0,,0.0
+531022219,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,,,2.0,6,0.0,1417,,"Gourav, Bansal",,1512.0,False,IND,1.0,1,0.0,,0.0
+531022219,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,,,2.0,6,0.0,1417,,"Goransh, Goyal",,1517.0,False,IND,0.0,1,0.0,,0.0
+531022219,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,,,2.0,6,0.0,1417,,"Yaashbhav, Kumar",,1524.0,False,IND,0.5,1,0.0,,0.0
+531022219,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,,,2.0,6,0.0,1417,,"Vir, Kapur",,1603.0,False,IND,0.0,1,0.0,,0.0
+531022219,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,,,2.0,6,0.0,1417,,"Daksh, Gautam",,1477.0,False,IND,0.5,1,0.0,,0.0
+531022219,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1801.0,1520.0,0.0,1,-0.16,40,-6.4,"Srijon, Saha",,1801.0,False,IND,0.0,1,-0.16,40.0,-6.4
+531022219,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1685.0,1514.0,0.0,4,-1.19,40,-47.6,"Spandan, Srivastava",,1772.0,False,IND,0.0,1,-0.18,40.0,-7.2
+531022219,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1685.0,1514.0,0.0,4,-1.19,40,-47.6,"Akshat, Negi",,1861.0,False,IND,0.0,1,-0.11,40.0,-4.4
+531022219,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1685.0,1514.0,0.0,4,-1.19,40,-47.6,"Ujaan, Bhattacharya",,1704.0,False,IND,0.0,1,-0.25,40.0,-10.0
+531022219,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1685.0,1514.0,0.0,4,-1.19,40,-47.6,"Hrishit, Shukla",,1404.0,False,IND,0.0,1,-0.65,40.0,-26.0
+531022219,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1680.0,1514.0,1.0,4,-0.12,40,-4.8,"Kathan, Khurana",,1709.0,False,IND,0.0,1,-0.25,40.0,-10.0
+531022219,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1680.0,1514.0,1.0,4,-0.12,40,-4.8,"Akshat, Kumar Lakhara",,1677.0,False,IND,0.5,1,0.22,40.0,8.8
+531022219,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1680.0,1514.0,1.0,4,-0.12,40,-4.8,"Rohit, Sharma",,1653.0,False,IND,0.5,1,0.19,40.0,7.6
+531022219,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1680.0,1514.0,1.0,4,-0.12,40,-4.8,"Rahul, Suri",,1682.0,False,IND,0.0,1,-0.28,40.0,-11.2
+531022219,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1779.0,1514.0,1.0,4,0.26,40,10.4,"Rohith, N",,1780.0,False,IND,0.5,1,0.32,40.0,12.8
+531022219,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1779.0,1514.0,1.0,4,0.26,40,10.4,"Gopal, Krishna Maheshwari",,1890.0,False,IND,0.0,1,-0.09,40.0,-3.6
+531022219,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1779.0,1514.0,1.0,4,0.26,40,10.4,"C,r, Ritvik",,1728.0,False,IND,0.5,1,0.27,40.0,10.8
+531022219,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1779.0,1514.0,1.0,4,0.26,40,10.4,"Rishabh, Pradhan",,1716.0,False,IND,0.0,1,-0.24,40.0,-9.6

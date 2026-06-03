@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429049636,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1455,1643,1.0,3,-1.24,40,-49.6,"Goel, Vivan",,1471.0,False,IND,0.0,1,-0.73,40,-29.2
+429049636,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1455,1643,1.0,3,-1.24,40,-49.6,"Humaid Abdulla, Alzahmi",,1432.0,False,UAE,1.0,1,0.23,40,9.2
+429049636,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1455,1643,1.0,3,-1.24,40,-49.6,"Shaurya, Gupta (19-07-2012)",,1462.0,False,IND,0.0,1,-0.74,40,-29.6

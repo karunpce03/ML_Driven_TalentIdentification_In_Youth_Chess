@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48716880,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1466,1583,2.5,3,0.53,40,21.2,"Nikshith, P",,1533.0,False,IND,0.5,1,-0.07,40,-2.8
+48716880,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1466,1583,2.5,3,0.53,40,21.2,"Ayushi, Dinesh",,1426.0,False,IND,1.0,1,0.29,40,11.6
+48716880,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1466,1583,2.5,3,0.53,40,21.2,"Abhinav, Subramaniam",,1439.0,False,IND,1.0,1,0.31,40,12.4

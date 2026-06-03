@@ -1,0 +1,93 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33367060,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1557,1610,5.5,9,0.36,40,14.4,"Aditya, Savalkar",,1848.0,False,IND,0.0,1,-0.2,40,-8.0
+33367060,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1557,1610,5.5,9,0.36,40,14.4,"Iniyan, Gopinathen",,1451.0,False,IND,0.0,1,-0.71,40,-28.4
+33367060,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1557,1610,5.5,9,0.36,40,14.4,"Sai, Keerthi Vasan R",,1430.0,False,IND,1.0,1,0.26,40,10.4
+33367060,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1557,1610,5.5,9,0.36,40,14.4,"Samarth, Ranjan Sahu",,1476.0,False,IND,1.0,1,0.32,40,12.8
+33367060,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1557,1610,5.5,9,0.36,40,14.4,"Dinesh, Reddy Konda",,1414.0,False,IND,0.0,1,-0.75,40,-30.0
+33367060,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1557,1610,5.5,9,0.36,40,14.4,"Shashini, Puvi",,1491.0,False,IND,1.0,1,0.34,40,13.6
+33367060,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1557,1610,5.5,9,0.36,40,14.4,"Daksh, M",,1474.0,False,IND,1.0,1,0.32,40,12.8
+33367060,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1557,1610,5.5,9,0.36,40,14.4,Aryagopal,,1719.0,False,IND,0.5,1,0.15,40,6.0
+33367060,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1557,1610,5.5,9,0.36,40,14.4,"Sinthia, Sarkar",,1708.0,False,IND,1.0,1,0.63,40,25.2
+33367060,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1580,1610,6.0,9,1.11,40,44.4,"Kota, Phanisri Aadya",,1401.0,False,IND,1.0,1,0.23,40,9.2
+33367060,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1580,1610,6.0,9,1.11,40,44.4,"Vihaan, Karthikeya N",,1839.0,False,IND,0.0,1,-0.21,40,-8.4
+33367060,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1580,1610,6.0,9,1.11,40,44.4,"Satya, Vikaram Sahi Chitrada",,1438.0,False,IND,1.0,1,0.27,40,10.8
+33367060,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1580,1610,6.0,9,1.11,40,44.4,"Hyder, Ali Mohammed",,1479.0,False,IND,1.0,1,0.32,40,12.8
+33367060,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1580,1610,6.0,9,1.11,40,44.4,"Kolla, Bhaavan",,1825.0,False,IND,0.0,1,-0.23,40,-9.2
+33367060,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1580,1610,6.0,9,1.11,40,44.4,"Katta, Venkata Nagadurga Prasad",,1450.0,False,IND,1.0,1,0.29,40,11.6
+33367060,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1580,1610,6.0,9,1.11,40,44.4,"Rama Mohan Rao, N",,1524.0,False,IND,1.0,1,0.38,40,15.2
+33367060,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1580,1610,6.0,9,1.11,40,44.4,"Majji, Ram Charan Teja",,1766.0,False,IND,0.0,1,-0.29,40,-11.6
+33367060,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1580,1610,6.0,9,1.11,40,44.4,"Kagitha, Jahnavi",,1501.0,False,IND,1.0,1,0.35,40,14.0
+33367060,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1540,1624,4.5,8,-0.39,40,-15.6,"Akshaya, Narahari",,1465.0,False,IND,0.5,1,-0.21,40,-8.4
+33367060,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1540,1624,4.5,8,-0.39,40,-15.6,"Ayaanraj, Kottapally",,1467.0,False,IND,0.0,1,-0.71,40,-28.4
+33367060,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1540,1624,4.5,8,-0.39,40,-15.6,"Mangalapalli, Vidyadhar",,1448.0,False,IND,1.0,1,0.27,40,10.8
+33367060,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1540,1624,4.5,8,-0.39,40,-15.6,"Asma, Maryam Begum",,1496.0,False,IND,1.0,1,0.33,40,13.2
+33367060,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1540,1624,4.5,8,-0.39,40,-15.6,"Shourya, Gupta",,1485.0,False,IND,1.0,1,0.31,40,12.4
+33367060,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1540,1624,4.5,8,-0.39,40,-15.6,"Debayan, Ray",,1737.0,False,IND,0.5,1,0.15,40,6.0
+33367060,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1540,1624,4.5,8,-0.39,40,-15.6,"Srikara, Darbha",,1731.0,False,IND,0.0,1,-0.35,40,-14.0
+33367060,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1540,1624,4.5,8,-0.39,40,-15.6,"Aarush, Singhai",,1492.0,False,IND,0.5,1,-0.18,40,-7.2
+33367060,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1479,1653,2.5,4,-0.41,40,-16.4,"Chatarajupalli, Durga Naga Malles",,1479.0,False,IND,0.5,1,-0.23,40,-9.2
+33367060,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1479,1653,2.5,4,-0.41,40,-16.4,"Siva, Koteswarao T",,1447.0,False,IND,1.0,1,0.24,40,9.6
+33367060,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1479,1653,2.5,4,-0.41,40,-16.4,"Akhil, Bhuvanesh Reddy P",,1526.0,False,IND,0.0,1,-0.67,40,-26.8
+33367060,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1479,1653,2.5,4,-0.41,40,-16.4,"Charith, Sai Alahari",,1462.0,False,IND,1.0,1,0.25,40,10.0
+33367060,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1721,1653,3.5,8,0.21,40,8.4,"Silva, Winston Joseph R",,1934.0,False,PHI,0.0,1,-0.16,40,-6.4
+33367060,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1721,1653,3.5,8,0.21,40,8.4,"Lim, Beng Seng Ronald",,1404.0,False,SGP,1.0,1,0.19,40,7.6
+33367060,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1721,1653,3.5,8,0.21,40,8.4,"Chay, Joon Hoong",,1800.0,False,MAS,0.0,1,-0.3,40,-12.0
+33367060,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1721,1653,3.5,8,0.21,40,8.4,"Penot, Matthieu",,1766.0,False,FID,0.5,1,0.15,40,6.0
+33367060,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1721,1653,3.5,8,0.21,40,8.4,"Sivanesan Paranam, Jaishivan",,1704.0,False,MAS,0.0,1,-0.43,40,-17.2
+33367060,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1721,1653,3.5,8,0.21,40,8.4,"Jeeradit, Metha",,1582.0,False,THA,1.0,1,0.4,40,16.0
+33367060,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1721,1653,3.5,8,0.21,40,8.4,"Chernokulskaya, Alina",,1873.0,False,FID,1.0,1,0.78,40,31.2
+33367060,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1721,1653,3.5,8,0.21,40,8.4,"Chan, Kok Leong",,1708.0,False,MAS,0.0,1,-0.42,40,-16.8
+33367060,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1617,1645,3.5,11,-2.45,40,-98.0,"Arnav, Agrawal",,1935.0,False,IND,0.0,1,-0.16,40,-6.4
+33367060,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1617,1645,3.5,11,-2.45,40,-98.0,"Oishik, Mondal",,1799.0,False,IND,0.0,1,-0.29,40,-11.6
+33367060,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1617,1645,3.5,11,-2.45,40,-98.0,"Sourabh, Kochar",,1515.0,False,IND,0.0,1,-0.68,40,-27.2
+33367060,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1617,1645,3.5,11,-2.45,40,-98.0,"Simar, Singh Dhody",,1492.0,False,IND,0.0,1,-0.7,40,-28.0
+33367060,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1617,1645,3.5,11,-2.45,40,-98.0,"Devansh, Gupta",,1517.0,False,IND,1.0,1,0.33,40,13.2
+33367060,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1617,1645,3.5,11,-2.45,40,-98.0,"Zothanhlira, Royte",,1564.0,False,IND,1.0,1,0.39,40,15.6
+33367060,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1617,1645,3.5,11,-2.45,40,-98.0,"Shubham, Shukla",,1835.0,False,IND,0.0,1,-0.25,40,-10.0
+33367060,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1617,1645,3.5,11,-2.45,40,-98.0,"Arz, Bhatia",,1482.0,False,IND,0.5,1,-0.22,40,-8.8
+33367060,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1617,1645,3.5,11,-2.45,40,-98.0,"Soham, Pranav Nagrecha",,1474.0,False,IND,1.0,1,0.27,40,10.8
+33367060,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1617,1645,3.5,11,-2.45,40,-98.0,"Sameer, Choudhary",,1728.0,False,IND,0.0,1,-0.39,40,-15.6
+33367060,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1617,1645,3.5,11,-2.45,40,-98.0,"Nishant, Bharadwaj",,1449.0,False,IND,0.0,1,-0.75,40,-30.0
+33367060,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1816,1547,0.5,3,-0.1,40,-4.0,"Mithilesh, Ranjithkumar",,1947.0,True,IND,0.0,1,-0.08,40,-3.2
+33367060,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1816,1547,0.5,3,-0.1,40,-4.0,"Advik, Srinivasan",,1617.0,False,IND,0.5,1,0.1,40,4.0
+33367060,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1816,1547,0.5,3,-0.1,40,-4.0,"Saksham, Upadhyay",,1885.0,False,IND,0.0,1,-0.12,40,-4.8
+33367060,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1636,1543,6.0,10,2.11,40,84.4,"Samyakta, Gupta",,1435.0,False,IND,1.0,1,0.35,40,14.0
+33367060,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1636,1543,6.0,10,2.11,40,84.4,"Pavithra, R V",,1915.0,False,IND,0.0,1,-0.1,40,-4.0
+33367060,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1636,1543,6.0,10,2.11,40,84.4,"Tanishka, Ramasubramanian",,1450.0,False,IND,1.0,1,0.37,40,14.8
+33367060,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1636,1543,6.0,10,2.11,40,84.4,"Lakshita, Sanjeev Chaudhary",,1457.0,False,IND,1.0,1,0.38,40,15.2
+33367060,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1636,1543,6.0,10,2.11,40,84.4,"Pal, Vedika",,1733.0,False,IND,1.0,1,0.75,40,30.0
+33367060,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1636,1543,6.0,10,2.11,40,84.4,"Aadya, Ranganath",,1705.0,False,IND,0.0,1,-0.29,40,-11.6
+33367060,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1636,1543,6.0,10,2.11,40,84.4,"Rajanya, Mondal",,1643.0,False,IND,1.0,1,0.64,40,25.6
+33367060,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1636,1543,6.0,10,2.11,40,84.4,"Waghle, Bhumika",,1618.0,False,IND,1.0,1,0.6,40,24.0
+33367060,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1636,1543,6.0,10,2.11,40,84.4,"Aadya, Gowda",,1613.0,False,IND,0.0,1,-0.4,40,-16.0
+33367060,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1636,1543,6.0,10,2.11,40,84.4,"Samhita, Pungavanam",,1795.0,False,IND,0.0,1,-0.19,40,-7.6
+33367060,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1739,1543,3.0,5,1.76,40,70.4,"Alrefae, Ahmad",,1730.0,False,KUW,1.0,1,0.74,40,29.6
+33367060,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1739,1543,3.0,5,1.76,40,70.4,"Qabazard, Mohamed",,1684.0,False,KUW,0.0,1,-0.31,40,-12.4
+33367060,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1739,1543,3.0,5,1.76,40,70.4,"Ezhil, Aadhav Kaladharan",,1778.0,False,IND,1.0,1,0.79,40,31.6
+33367060,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1739,1543,3.0,5,1.76,40,70.4,"Nishaanth, Vidyasagar",,1725.0,False,IND,1.0,1,0.74,40,29.6
+33367060,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1739,1543,3.0,5,1.76,40,70.4,"Rosebert, Abera",,1780.0,False,PHI,0.0,1,-0.2,40,-8.0
+33367060,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1578,1698,6.5,11,-0.75,40,-30.0,"Kocherha, Yelizavieta",,1523.0,False,UKR,1.0,1,0.27,40,10.8
+33367060,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1578,1698,6.5,11,-0.75,40,-30.0,"Zhumambayeva, Aliya",,1608.0,False,KAZ,0.0,1,-0.62,40,-24.8
+33367060,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1578,1698,6.5,11,-0.75,40,-30.0,"Poliak, Margarita",,1514.0,False,KGZ,1.0,1,0.26,40,10.4
+33367060,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1578,1698,6.5,11,-0.75,40,-30.0,"Xin, Lisa J.",,1600.0,False,FAI,1.0,1,0.37,40,14.8
+33367060,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1578,1698,6.5,11,-0.75,40,-30.0,"Pooja, Shree R",,1606.0,False,IND,0.0,1,-0.63,40,-25.2
+33367060,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1578,1698,6.5,11,-0.75,40,-30.0,"Wang, Mi Ya Mia",,1551.0,False,SGP,1.0,1,0.3,40,12.0
+33367060,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1578,1698,6.5,11,-0.75,40,-30.0,"Shtepa, Liubov",,1615.0,False,CAN,0.0,1,-0.61,40,-24.4
+33367060,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1578,1698,6.5,11,-0.75,40,-30.0,"Norkulova, Malika",,1480.0,False,UZB,0.5,1,-0.28,40,-11.2
+33367060,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1578,1698,6.5,11,-0.75,40,-30.0,"Artemenko, Isabella",,1637.0,False,GER,1.0,1,0.42,40,16.8
+33367060,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1578,1698,6.5,11,-0.75,40,-30.0,"Rekhviashvili, Mariam",,1610.0,False,GEO,0.0,1,-0.62,40,-24.8
+33367060,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1578,1698,6.5,11,-0.75,40,-30.0,"Malcheva, Niya",,1617.0,False,BUL,1.0,1,0.39,40,15.6
+33367060,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1695,1668,6.0,8,2.28,40,91.2,"Sumesh, Suresh",,1624.0,False,IND,1.0,1,0.44,40,17.6
+33367060,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1695,1668,6.0,8,2.28,40,91.2,"Vishwesh, Sivanantham",,1728.0,False,IND,1.0,1,0.58,40,23.2
+33367060,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1695,1668,6.0,8,2.28,40,91.2,"Krithik, Muthukumar",,1849.0,False,IND,0.0,1,-0.26,40,-10.4
+33367060,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1695,1668,6.0,8,2.28,40,91.2,"Qutaiba, Sadeq Yair Almajbool",,1703.0,False,IRQ,1.0,1,0.55,40,22.0
+33367060,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1695,1668,6.0,8,2.28,40,91.2,"Vishwanath, Jeyaraman",,1750.0,False,IND,0.5,1,0.11,40,4.4
+33367060,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1695,1668,6.0,8,2.28,40,91.2,"Khalaf, Ali",,1663.0,False,KUW,0.5,1,-0.01,40,-0.4
+33367060,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1695,1668,6.0,8,2.28,40,91.2,"Ali, Ahamed Mezhir",,1605.0,False,IRQ,1.0,1,0.41,40,16.4
+33367060,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1695,1668,6.0,8,2.28,40,91.2,"Mohnish, Balamurugan",,1640.0,False,IND,1.0,1,0.46,40,18.4
+33367060,2025-02-01,0,Big Rook Chinese New Year Chess 2025 - Standard Open,Bangkok THA,2025-01-26,2025-01-29,1873,1668,3.0,6,1.4,40,56.0,"Buakird, Apichit",,1928.0,False,THA,1.0,1,0.82,40,32.8
+33367060,2025-02-01,0,Big Rook Chinese New Year Chess 2025 - Standard Open,Bangkok THA,2025-01-26,2025-01-29,1873,1668,3.0,6,1.4,40,56.0,"Ko, Ko Ohn",f,2050.0,False,MYA,0.5,1,0.41,40,16.4
+33367060,2025-02-01,0,Big Rook Chinese New Year Chess 2025 - Standard Open,Bangkok THA,2025-01-26,2025-01-29,1873,1668,3.0,6,1.4,40,56.0,"Gutsulyak, Nikolay",,1825.0,False,FID,0.0,1,-0.29,40,-11.6
+33367060,2025-02-01,0,Big Rook Chinese New Year Chess 2025 - Standard Open,Bangkok THA,2025-01-26,2025-01-29,1873,1668,3.0,6,1.4,40,56.0,"Wiwatanadate, Poompong",f,2068.0,True,THA,0.5,1,0.42,40,16.8
+33367060,2025-02-01,0,Big Rook Chinese New Year Chess 2025 - Standard Open,Bangkok THA,2025-01-26,2025-01-29,1873,1668,3.0,6,1.4,40,56.0,"Chongstitwattana, Cholapat",,1574.0,False,THA,1.0,1,0.37,40,14.8
+33367060,2025-02-01,0,Big Rook Chinese New Year Chess 2025 - Standard Open,Bangkok THA,2025-01-26,2025-01-29,1873,1668,3.0,6,1.4,40,56.0,"Cairel Adrin, Rumi Arjuna Malique",,1793.0,False,MAS,0.0,1,-0.33,40,-13.2

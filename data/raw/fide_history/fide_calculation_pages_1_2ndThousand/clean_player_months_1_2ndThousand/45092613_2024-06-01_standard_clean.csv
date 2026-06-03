@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45092613,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1815,1896,7.0,9,1.64,40,65.6,"Ajay, Arvind S",,1496,True,IND,1.0,1,0.08,40,3.2
+45092613,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1815,1896,7.0,9,1.64,40,65.6,"Yashmith, Ram Chaikam",,1569,False,KEN,1.0,1,0.13,40,5.2
+45092613,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1815,1896,7.0,9,1.64,40,65.6,"Adhyayan, Banerjee",,1665,False,IND,1.0,1,0.21,40,8.4
+45092613,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1815,1896,7.0,9,1.64,40,65.6,"Rohith, N",,1751,False,IND,1.0,1,0.31,40,12.4
+45092613,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1815,1896,7.0,9,1.64,40,65.6,"Thanga, Manickam M",,1783,False,IND,1.0,1,0.35,40,14.0
+45092613,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1815,1896,7.0,9,1.64,40,65.6,"Md, Imran",f,2171,False,IND,0.5,1,0.33,40,13.2
+45092613,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1815,1896,7.0,9,1.64,40,65.6,"Aarit, Kapil",,1813,False,IND,1.0,1,0.39,40,15.6
+45092613,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1815,1896,7.0,9,1.64,40,65.6,"Srujan, Keerthan Solletti",,1882,False,IND,0.5,1,-0.02,40,-0.8
+45092613,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1815,1896,7.0,9,1.64,40,65.6,"Kushal, O",,2201,False,IND,0.0,1,-0.14,40,-5.6

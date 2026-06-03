@@ -1,0 +1,35 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25702475,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1904,1671,3.5,9,1.45,38,55.1,"Budai, Akos",,2024.0,False,HUN,0.5,1,0.39,38,14.82
+25702475,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1904,1671,3.5,9,1.45,38,55.1,"Urhegyi, Marton",f,2071.0,True,HUN,0.0,1,-0.08,38,-3.04
+25702475,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1904,1671,3.5,9,1.45,38,55.1,"Nadhazi, Imre",,1936.0,False,HUN,1.0,1,0.82,38,31.16
+25702475,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1904,1671,3.5,9,1.45,38,55.1,"Iniyan, R S",,1814.0,False,IND,0.0,1,-0.31,38,-11.78
+25702475,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1904,1671,3.5,9,1.45,38,55.1,"Herpai, Jozsef Matyas",c,2011.0,False,HUN,0.0,1,-0.12,38,-4.56
+25702475,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1904,1671,3.5,9,1.45,38,55.1,"Kahn, Evarth Dr.",m,1957.0,False,HUN,0.5,1,0.34,38,12.92
+25702475,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1904,1671,3.5,9,1.45,38,55.1,"Szarvas, Nora",,1870.0,False,HUN,0.0,1,-0.24,38,-9.12
+25702475,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1904,1671,3.5,9,1.45,38,55.1,"Sai, Tanishka T",,1707.0,False,IND,1.0,1,0.55,38,20.9
+25702475,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,1904,1671,3.5,9,1.45,38,55.1,"Szabo, Bela",,1745.0,False,HUN,0.5,1,0.1,38,3.8
+25702475,2024-08-01,0,17th International tournament of Paleochora 2024 - A,Chania GRE,2024-07-20,2024-07-27,1807,1671,2.5,9,-0.41,38,-15.58,"Lafkidis, Apostolos",,1978.0,False,GRE,0.0,1,-0.14,38,-5.32
+25702475,2024-08-01,0,17th International tournament of Paleochora 2024 - A,Chania GRE,2024-07-20,2024-07-27,1807,1671,2.5,9,-0.41,38,-15.58,"Alvermann, Christian",,1860.0,False,GER,0.0,1,-0.25,38,-9.5
+25702475,2024-08-01,0,17th International tournament of Paleochora 2024 - A,Chania GRE,2024-07-20,2024-07-27,1807,1671,2.5,9,-0.41,38,-15.58,"Jacobsen, Trond",,1781.0,False,NOR,0.5,1,0.15,38,5.7
+25702475,2024-08-01,0,17th International tournament of Paleochora 2024 - A,Chania GRE,2024-07-20,2024-07-27,1807,1671,2.5,9,-0.41,38,-15.58,"Chompas, Vasileios",,1871.0,False,GRE,0.0,1,-0.24,38,-9.12
+25702475,2024-08-01,0,17th International tournament of Paleochora 2024 - A,Chania GRE,2024-07-20,2024-07-27,1807,1671,2.5,9,-0.41,38,-15.58,"Dallis, Ioannis",,1713.0,False,GRE,1.0,1,0.56,38,21.28
+25702475,2024-08-01,0,17th International tournament of Paleochora 2024 - A,Chania GRE,2024-07-20,2024-07-27,1807,1671,2.5,9,-0.41,38,-15.58,"Mercurio, Joe M",,1807.0,False,USA,0.0,1,-0.32,38,-12.16
+25702475,2024-08-01,0,17th International tournament of Paleochora 2024 - A,Chania GRE,2024-07-20,2024-07-27,1807,1671,2.5,9,-0.41,38,-15.58,"Temetzian, Immanouel",,1852.0,False,GRE,0.0,1,-0.26,38,-9.88
+25702475,2024-08-01,0,17th International tournament of Paleochora 2024 - A,Chania GRE,2024-07-20,2024-07-27,1807,1671,2.5,9,-0.41,38,-15.58,"Kazantzoglou, Nikolaos",,1677.0,False,GRE,1.0,1,0.51,38,19.38
+25702475,2024-08-01,0,17th International tournament of Paleochora 2024 - A,Chania GRE,2024-07-20,2024-07-27,1807,1671,2.5,9,-0.41,38,-15.58,"Konstantinides, Savvas",,1728.0,False,CYP,0.0,1,-0.42,38,-15.96
+25702475,2024-09-01,0,Leca Chess Open 2024,Leca da Palmeira POR,2024-07-31,2024-08-06,1757,1671,4.0,9,0.46,40,18.4,"Duque, Raquel Dos Santos",,1892.0,False,POR,0.0,1,-0.22,40,-8.8
+25702475,2024-09-01,0,Leca Chess Open 2024,Leca da Palmeira POR,2024-07-31,2024-08-06,1757,1671,4.0,9,0.46,40,18.4,"Diniz, Pedro",,1516.0,False,BRA,1.0,1,0.29,40,11.6
+25702475,2024-09-01,0,Leca Chess Open 2024,Leca da Palmeira POR,2024-07-31,2024-08-06,1757,1671,4.0,9,0.46,40,18.4,"Rocha, Miguel Feio Guimaraes",,1836.0,False,POR,0.5,1,0.22,40,8.8
+25702475,2024-09-01,0,Leca Chess Open 2024,Leca da Palmeira POR,2024-07-31,2024-08-06,1757,1671,4.0,9,0.46,40,18.4,"Silva, Firmino",,1905.0,False,POR,0.0,1,-0.21,40,-8.4
+25702475,2024-09-01,0,Leca Chess Open 2024,Leca da Palmeira POR,2024-07-31,2024-08-06,1757,1671,4.0,9,0.46,40,18.4,"Cabete, Manuel",,1893.0,False,POR,0.0,1,-0.22,40,-8.8
+25702475,2024-09-01,0,Leca Chess Open 2024,Leca da Palmeira POR,2024-07-31,2024-08-06,1757,1671,4.0,9,0.46,40,18.4,"Raposeiro, Vasco",,1522.0,False,POR,1.0,1,0.3,40,12.0
+25702475,2024-09-01,0,Leca Chess Open 2024,Leca da Palmeira POR,2024-07-31,2024-08-06,1757,1671,4.0,9,0.46,40,18.4,"Goncalves, Diogo Figueiredo",,1939.0,False,POR,0.0,1,-0.17,40,-6.8
+25702475,2024-09-01,0,Leca Chess Open 2024,Leca da Palmeira POR,2024-07-31,2024-08-06,1757,1671,4.0,9,0.46,40,18.4,"Almeida, Tomas Ccm",,1483.0,False,POR,1.0,1,0.26,40,10.4
+25702475,2024-09-01,0,Leca Chess Open 2024,Leca da Palmeira POR,2024-07-31,2024-08-06,1757,1671,4.0,9,0.46,40,18.4,"Crespo Garrido, Vicente",,1828.0,False,ESP,0.5,1,0.21,40,8.4
+25702475,2025-02-01,0,16th annual Golden State Open - U2100,"Berkeley, CA USA",2025-01-17,2025-01-20,1820,1729,3.5,7,0.87,40,34.8,"Watson, Farid Mark",,1869.0,False,USA,1.0,1,0.69,40,27.6
+25702475,2025-02-01,0,16th annual Golden State Open - U2100,"Berkeley, CA USA",2025-01-17,2025-01-20,1820,1729,3.5,7,0.87,40,34.8,"Kini, Deepak M",,1823.0,False,USA,0.5,1,0.13,40,5.2
+25702475,2025-02-01,0,16th annual Golden State Open - U2100,"Berkeley, CA USA",2025-01-17,2025-01-20,1820,1729,3.5,7,0.87,40,34.8,"Ho, Michael S",,1710.0,False,USA,1.0,1,0.47,40,18.8
+25702475,2025-02-01,0,16th annual Golden State Open - U2100,"Berkeley, CA USA",2025-01-17,2025-01-20,1820,1729,3.5,7,0.87,40,34.8,"Shettigar Nagabhushan, Jathin",,1854.0,False,IND,0.0,1,-0.33,40,-13.2
+25702475,2025-02-01,0,16th annual Golden State Open - U2100,"Berkeley, CA USA",2025-01-17,2025-01-20,1820,1729,3.5,7,0.87,40,34.8,"Tia, Mr. Rudy Goce",,1791.0,False,PNG,1.0,1,0.59,40,23.6
+25702475,2025-02-01,0,16th annual Golden State Open - U2100,"Berkeley, CA USA",2025-01-17,2025-01-20,1820,1729,3.5,7,0.87,40,34.8,"Nguyen, Alex",,1884.0,False,USA,0.0,1,-0.29,40,-11.6
+25702475,2025-02-01,0,16th annual Golden State Open - U2100,"Berkeley, CA USA",2025-01-17,2025-01-20,1820,1729,3.5,7,0.87,40,34.8,"Marvin, Hayes Alexander",,1806.0,False,USA,0.0,1,-0.39,40,-15.6

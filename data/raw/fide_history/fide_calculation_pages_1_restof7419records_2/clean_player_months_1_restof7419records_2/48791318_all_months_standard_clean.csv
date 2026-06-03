@@ -1,0 +1,40 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48791318,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,,,1.5,5,0.0,1324,,"Suresh, Kumar S",,1527.0,False,IND,0.0,1,0.0,,0.0
+48791318,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,,,1.5,5,0.0,1324,,"Hevak, V",,1492.0,False,IND,1.0,1,0.0,,0.0
+48791318,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,,,1.5,5,0.0,1324,,"Sharon, Rachel Aby",,1512.0,False,IND,0.0,1,0.0,,0.0
+48791318,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,,,1.5,5,0.0,1324,,"Mohamed, Thaufiq R",,1420.0,False,IND,0.0,1,0.0,,0.0
+48791318,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,,,1.5,5,0.0,1324,,"Shrinidhi, B",,1415.0,False,IND,0.5,1,0.0,,0.0
+48791318,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,,,1.5,6,0.0,1246,,"Hari, Prasath D",,1464.0,False,IND,0.0,1,0.0,,0.0
+48791318,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,,,1.5,6,0.0,1246,,"Alwin, D",,1438.0,False,IND,0.5,1,0.0,,0.0
+48791318,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,,,1.5,6,0.0,1246,,"Ineyan, M R",,1463.0,False,IND,0.0,1,0.0,,0.0
+48791318,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,,,1.5,6,0.0,1246,,"Darsan, S",,1425.0,False,IND,0.5,1,0.0,,0.0
+48791318,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,,,1.5,6,0.0,1246,,"Hari, Charan Karthikeyan",,1423.0,False,IND,0.5,1,0.0,,0.0
+48791318,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,,,1.5,6,0.0,1246,,"Yuvan, M",,1422.0,False,IND,0.0,1,0.0,,0.0
+48791318,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,3.5,7,0.0,1486,,"Sharvesh, S",,1486.0,False,IND,0.5,1,0.0,,0.0
+48791318,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,3.5,7,0.0,1486,,"Shravan, Karthik J",,1536.0,False,IND,0.5,1,0.0,,0.0
+48791318,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,3.5,7,0.0,1486,,"Shivapradhan, M",,1460.0,False,IND,0.0,1,0.0,,0.0
+48791318,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,3.5,7,0.0,1486,,"Nandhakishor, S",,1451.0,False,IND,1.0,1,0.0,,0.0
+48791318,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,3.5,7,0.0,1486,,"Giridhar, V P",,1500.0,False,IND,0.5,1,0.0,,0.0
+48791318,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,3.5,7,0.0,1486,,"Maanas, C V",,1486.0,False,IND,0.5,1,0.0,,0.0
+48791318,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,3.5,7,0.0,1486,,"Gurusharan, P",,1483.0,False,IND,0.5,1,0.0,,0.0
+48791318,2024-09-01,0,Chess Capital 2nd International Below 1700 Rating Chess Tournament-2024,Chennai IND,2024-08-09,2024-08-11,1625.0,1437.0,0.5,5,-0.78,40,-31.2,"Karthick, Bala G",,1673.0,False,IND,0.0,1,-0.2,40.0,-8.0
+48791318,2024-09-01,0,Chess Capital 2nd International Below 1700 Rating Chess Tournament-2024,Chennai IND,2024-08-09,2024-08-11,1625.0,1437.0,0.5,5,-0.78,40,-31.2,"Inban, R",,1647.0,False,IND,0.5,1,0.27,40.0,10.8
+48791318,2024-09-01,0,Chess Capital 2nd International Below 1700 Rating Chess Tournament-2024,Chennai IND,2024-08-09,2024-08-11,1625.0,1437.0,0.5,5,-0.78,40,-31.2,"Danapathy, S",,1644.0,False,IND,0.0,1,-0.23,40.0,-9.2
+48791318,2024-09-01,0,Chess Capital 2nd International Below 1700 Rating Chess Tournament-2024,Chennai IND,2024-08-09,2024-08-11,1625.0,1437.0,0.5,5,-0.78,40,-31.2,"Narayanan, S",,1537.0,False,IND,0.0,1,-0.36,40.0,-14.4
+48791318,2024-09-01,0,Chess Capital 2nd International Below 1700 Rating Chess Tournament-2024,Chennai IND,2024-08-09,2024-08-11,1625.0,1437.0,0.5,5,-0.78,40,-31.2,"Aravindan, S",,1623.0,False,IND,0.0,1,-0.26,40.0,-10.4
+48791318,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1640.0,1437.0,0.0,2,-0.48,40,-19.2,"Santhosh, V L",,1637.0,False,IND,0.0,1,-0.24,40.0,-9.6
+48791318,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1640.0,1437.0,0.0,2,-0.48,40,-19.2,"Arixander, Johny",,1643.0,False,IND,0.0,1,-0.24,40.0,-9.6
+48791318,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,,,1.0,4,0.0,1487,,"Prabakaran, S",,1798.0,False,IND,0.5,1,0.0,,0.0
+48791318,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,,,1.0,4,0.0,1487,,"Shashveen, A K",,1898.0,False,IND,0.0,1,0.0,,0.0
+48791318,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,,,1.0,4,0.0,1487,,"Srinandhan, A",,1521.0,False,IND,0.0,1,0.0,,0.0
+48791318,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,,,1.0,4,0.0,1487,,"Thanshika, G",,1501.0,False,IND,0.5,1,0.0,,0.0
+48791318,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,3.0,10,0.0,1434,,"Arindam, Shukla",,1694.0,False,IND,0.5,1,0.0,,0.0
+48791318,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,3.0,10,0.0,1434,,"Ryan, Dominic",,1727.0,False,IND,0.0,1,0.0,,0.0
+48791318,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,3.0,10,0.0,1434,,"Aditya, Baksi",,1504.0,False,IND,0.5,1,0.0,,0.0
+48791318,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,3.0,10,0.0,1434,,"Heet, Baldawa",,1616.0,False,IND,0.0,1,0.0,,0.0
+48791318,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,3.0,10,0.0,1434,,"Virat, J S",,1519.0,False,IND,1.0,1,0.0,,0.0
+48791318,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,3.0,10,0.0,1434,,"Souparno, Bhattacharyya",,1605.0,False,IND,0.0,1,0.0,,0.0
+48791318,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,3.0,10,0.0,1434,,"Arya, Sengupta",,1517.0,False,IND,0.0,1,0.0,,0.0
+48791318,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,3.0,10,0.0,1434,,"Akshay, Prathab",,1563.0,False,IND,0.5,1,0.0,,0.0
+48791318,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,3.0,10,0.0,1434,,"Archit, Roy",,1522.0,False,IND,0.0,1,0.0,,0.0
+48791318,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,3.0,10,0.0,1434,,"Duvvuri, Venkata Naga Aditya",,1567.0,False,IND,0.5,1,0.0,,0.0

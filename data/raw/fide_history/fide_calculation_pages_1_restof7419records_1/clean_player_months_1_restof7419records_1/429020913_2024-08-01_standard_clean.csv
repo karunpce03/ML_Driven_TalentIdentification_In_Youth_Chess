@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429020913,2024-08-01,0,SERBIA OPEN 2024 - Amateurs,Beograd SRB,2024-07-12,2024-07-17,1672,1466,0.0,1,-0.24,40,-9.6,"Milovanovic, Jana",,1672.0,False,SRB,0.0,1,-0.24,40,-9.6
+429020913,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1679,1466,0.0,5,-1.23,40,-49.2,"Lu, Di",,1866.0,True,CHN,0.0,1,-0.08,40,-3.2
+429020913,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1679,1466,0.0,5,-1.23,40,-49.2,"Triantaphylidis, Alexandros I",,1735.0,False,GRE,0.0,1,-0.17,40,-6.8
+429020913,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1679,1466,0.0,5,-1.23,40,-49.2,"Mijalcic, Nikola",,1663.0,False,SRB,0.0,1,-0.25,40,-10.0
+429020913,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1679,1466,0.0,5,-1.23,40,-49.2,"Khangai, Batsaikhan",,1561.0,False,MGL,0.0,1,-0.37,40,-14.8
+429020913,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1679,1466,0.0,5,-1.23,40,-49.2,"Aaryaveer, Agarwal",,1568.0,False,IND,0.0,1,-0.36,40,-14.4

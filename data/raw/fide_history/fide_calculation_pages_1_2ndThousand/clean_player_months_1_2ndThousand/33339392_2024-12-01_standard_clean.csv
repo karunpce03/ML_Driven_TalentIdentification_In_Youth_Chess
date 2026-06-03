@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33339392,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1716,1493,1.0,5,-0.21,40,-8.4,"Karan, J P",,1893,True,IND,0.0,1,-0.08,40,-3.2
+33339392,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1716,1493,1.0,5,-0.21,40,-8.4,"Ram, Kumar G M",,1836,False,IND,0.0,1,-0.12,40,-4.8
+33339392,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1716,1493,1.0,5,-0.21,40,-8.4,"Ivan, George E",,1671,False,IND,0.0,1,-0.27,40,-10.8
+33339392,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1716,1493,1.0,5,-0.21,40,-8.4,"Aranyak, Dey",,1532,False,IND,1.0,1,0.55,40,22.0
+33339392,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1716,1493,1.0,5,-0.21,40,-8.4,"Vinoo, Varshan N",,1649,False,IND,0.0,1,-0.29,40,-11.6

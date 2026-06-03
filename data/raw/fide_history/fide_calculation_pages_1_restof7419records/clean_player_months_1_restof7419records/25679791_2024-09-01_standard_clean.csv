@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25679791,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2012,2114,6.0,11,-1.06,40,-42.4,"Siddhant, Nath Jha",,1765,False,IND,1.0,1,0.11,40,4.4
+25679791,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2012,2114,6.0,11,-1.06,40,-42.4,"Yashad, Bambeshwar",,1873,False,IND,1.0,1,0.2,40,8.0
+25679791,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2012,2114,6.0,11,-1.06,40,-42.4,"Sahil, Bheron",,1839,False,IND,1.0,1,0.17,40,6.8
+25679791,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2012,2114,6.0,11,-1.06,40,-42.4,"Aronyak, Ghosh",c,2514,True,IND,0.0,1,-0.08,40,-3.2
+25679791,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2012,2114,6.0,11,-1.06,40,-42.4,"Soni, Atharv",,1932,False,IND,0.5,1,-0.24,40,-9.6
+25679791,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2012,2114,6.0,11,-1.06,40,-42.4,"Marium, Fatima",,1918,False,IND,1.0,1,0.25,40,10.0
+25679791,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2012,2114,6.0,11,-1.06,40,-42.4,"Visakh, N R",g,2514,True,IND,0.0,1,-0.08,40,-3.2
+25679791,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2012,2114,6.0,11,-1.06,40,-42.4,"Yohan, Yadav Tarala",,1954,False,IND,0.5,1,-0.21,40,-8.4
+25679791,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2012,2114,6.0,11,-1.06,40,-42.4,"Chukka, Vineel Radha Karthik",,1938,False,IND,1.0,1,0.27,40,10.8
+25679791,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2012,2114,6.0,11,-1.06,40,-42.4,"Samyak, Dharewa",,1991,False,IND,0.0,1,-0.67,40,-26.8
+25679791,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2012,2114,6.0,11,-1.06,40,-42.4,"Utkrisht, Tuli",,1892,False,IND,0.0,1,-0.78,40,-31.2

@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25112333,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1516,1626,5.5,7,0.98,40,39.2,"Arin, Amogh Bhatavadekar",,1410.0,False,IND,1.0,1,0.22,40,8.8
+25112333,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1516,1626,5.5,7,0.98,40,39.2,"Neev, Nirav Bafna",,1524.0,False,IND,1.0,1,0.36,40,14.4
+25112333,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1516,1626,5.5,7,0.98,40,39.2,"Shaurya, Kaushal Shah",,1458.0,False,IND,0.5,1,-0.22,40,-8.8
+25112333,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1516,1626,5.5,7,0.98,40,39.2,"Shreeya, Vijay Joshi",,1435.0,False,IND,1.0,1,0.25,40,10.0
+25112333,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1516,1626,5.5,7,0.98,40,39.2,"Kadam, Nikhil",,1762.0,False,IND,0.5,1,0.18,40,7.2
+25112333,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1516,1626,5.5,7,0.98,40,39.2,"Ghule, Anay",,1529.0,False,IND,0.5,1,-0.13,40,-5.2
+25112333,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1516,1626,5.5,7,0.98,40,39.2,"Om, Haresh Murdeshwar",,1496.0,False,IND,1.0,1,0.32,40,12.8

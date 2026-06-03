@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25611356,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2056,1904,6.0,9,3.22,38,122.36,"Febrero Perez, Lluis",,1561.0,False,ESP,1.0,1,0.12,38,4.56
+25611356,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2056,1904,6.0,9,3.22,38,122.36,"Herman Gamazo, Isaac",,2129.0,False,ESP,1.0,1,0.78,38,29.64
+25611356,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2056,1904,6.0,9,3.22,38,122.36,"Sanchez Aguilar, Arnau",,2151.0,False,ESP,1.0,1,0.81,38,30.78
+25611356,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2056,1904,6.0,9,3.22,38,122.36,"Narciso Dublan, Marc",g,2304.0,True,ESP,0.0,1,-0.08,38,-3.04
+25611356,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2056,1904,6.0,9,3.22,38,122.36,"Anguera Staina, Maxim",,2128.0,False,ESP,0.0,1,-0.22,38,-8.36
+25611356,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2056,1904,6.0,9,3.22,38,122.36,"Molina Morena, Antonio",,2089.0,False,ESP,0.5,1,0.24,38,9.12
+25611356,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2056,1904,6.0,9,3.22,38,122.36,"Singh, Siddharth",,2050.0,False,USA,0.5,1,0.2,38,7.6
+25611356,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2056,1904,6.0,9,3.22,38,122.36,"Navajas Alvarez, Antoni",,1966.0,False,ESP,1.0,1,0.59,38,22.42
+25611356,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2056,1904,6.0,9,3.22,38,122.36,"Serrahima Susany, Ramon",,2123.0,False,ESP,1.0,1,0.78,38,29.64
+25611356,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2072,1904,4.0,9,1.42,38,53.96,"Vaibhav, Jayant Raut",c,2071.0,False,IND,0.5,1,0.22,38,8.36
+25611356,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2072,1904,4.0,9,1.42,38,53.96,"Utsab, Chatterjee",m,2287.0,False,IND,0.0,1,-0.09,38,-3.42
+25611356,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2072,1904,4.0,9,1.42,38,53.96,"Gonzalez Alonso, Marti",,2059.0,False,ESP,0.0,1,-0.29,38,-11.02
+25611356,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2072,1904,4.0,9,1.42,38,53.96,"Guix Torres, David",,2033.0,False,ESP,1.0,1,0.67,38,25.46
+25611356,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2072,1904,4.0,9,1.42,38,53.96,"Ofstad, Sigurd",,2012.0,False,NOR,0.5,1,0.15,38,5.7
+25611356,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2072,1904,4.0,9,1.42,38,53.96,"Hu, Zhening",,2014.0,False,CHN,0.5,1,0.15,38,5.7
+25611356,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2072,1904,4.0,9,1.42,38,53.96,"Kallen, Jonas",,2044.0,False,SWE,0.5,1,0.19,38,7.22
+25611356,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2072,1904,4.0,9,1.42,38,53.96,"Marimon Rubia, Nil",,2058.0,False,ESP,1.0,1,0.71,38,26.98
+25611356,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2072,1904,4.0,9,1.42,38,53.96,"Rychkov, Roman",,2066.0,False,USA,0.0,1,-0.29,38,-11.02

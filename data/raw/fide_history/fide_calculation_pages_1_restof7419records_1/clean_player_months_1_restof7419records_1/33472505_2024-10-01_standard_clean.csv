@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33472505,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1690,1449,0.5,2,0.1,40,4.0,"Adhvaidh, Naveen",,1692.0,False,IND,0.5,1,0.3,40,12.0
+33472505,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1690,1449,0.5,2,0.1,40,4.0,"Alali, Tammam.",,1687.0,False,SYR,0.0,1,-0.2,40,-8.0
+33472505,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1694,1449,0.0,3,-0.61,40,-24.4,"Nabatlao, Jason",,1769.0,False,PHI,0.0,1,-0.13,40,-5.2
+33472505,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1694,1449,0.0,3,-0.61,40,-24.4,"Poderys, Mantas",,1716.0,False,LTU,0.0,1,-0.18,40,-7.2
+33472505,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1694,1449,0.0,3,-0.61,40,-24.4,"Mohamed, Yousuf Al-Ali",,1597.0,False,UAE,0.0,1,-0.3,40,-12.0

@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33470731,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1603,1425,2.0,6,0.3,40,12.0,"Elesh, Tripathi",,1825,True,IND,0.0,1,-0.08,40,-3.2
+33470731,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1603,1425,2.0,6,0.3,40,12.0,"Pandya, Raj",,1629,False,IND,0.0,1,-0.24,40,-9.6
+33470731,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1603,1425,2.0,6,0.3,40,12.0,"Mayanka, Rakesh Rana",,1531,False,IND,0.0,1,-0.36,40,-14.4
+33470731,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1603,1425,2.0,6,0.3,40,12.0,"Guruprasad, Patil",,1561,False,IND,1.0,1,0.68,40,27.2
+33470731,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1603,1425,2.0,6,0.3,40,12.0,"Medhansh, Dinesh Poojary",,1511,False,IND,0.0,1,-0.38,40,-15.2
+33470731,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1603,1425,2.0,6,0.3,40,12.0,"Aarush, Budjade",,1559,False,IND,1.0,1,0.68,40,27.2

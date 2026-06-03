@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33422710,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1724,1498,0.0,3,-0.64,40,-25.6,"Dhiman, Mitra",,1755.0,False,IND,0.0,1,-0.18,40,-7.2
+33422710,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1724,1498,0.0,3,-0.64,40,-25.6,"Ravi, Palsule",,1702.0,False,IND,0.0,1,-0.24,40,-9.6
+33422710,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1724,1498,0.0,3,-0.64,40,-25.6,"Kalbande, Mayur",,1714.0,False,IND,0.0,1,-0.22,40,-8.8

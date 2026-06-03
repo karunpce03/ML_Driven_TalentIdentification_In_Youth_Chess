@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45029946,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2221,2263,5.0,9,0.06,40,2.4,"Krupica, Pavel",,1901.0,False,CZE,1.0,1,0.1,40,4.0
+45029946,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2221,2263,5.0,9,0.06,40,2.4,"Motylev, Alexander",g,2590.0,False,ROU,0.5,1,0.37,40,14.8
+45029946,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2221,2263,5.0,9,0.06,40,2.4,"Mikhalevski, Victor",g,2496.0,False,ISR,0.0,1,-0.21,40,-8.4
+45029946,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2221,2263,5.0,9,0.06,40,2.4,"Pirvulescu, Ekaterina",wf,2084.0,False,ROU,0.5,1,-0.23,40,-9.2
+45029946,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2221,2263,5.0,9,0.06,40,2.4,"Nielsen, Morten Majlund",,2048.0,False,DEN,1.0,1,0.23,40,9.2
+45029946,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2221,2263,5.0,9,0.06,40,2.4,"Ali, Abdulaziz",,1960.0,False,UAE,0.5,1,-0.36,40,-14.4
+45029946,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2221,2263,5.0,9,0.06,40,2.4,"Sykora, Ondrej",,2064.0,False,CZE,1.0,1,0.24,40,9.6
+45029946,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2221,2263,5.0,9,0.06,40,2.4,"Gnojek, Petr",f,2415.0,False,CZE,0.5,1,0.2,40,8.0
+45029946,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2221,2263,5.0,9,0.06,40,2.4,"Harshavardhan, G B",m,2433.0,False,IND,0.0,1,-0.28,40,-11.2

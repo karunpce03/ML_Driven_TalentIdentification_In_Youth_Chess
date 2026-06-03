@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25739522,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1867,1976,6.0,7,1.58,40,63.2,"Thajol, T J",,1576,True,IND,1.0,1,0.08,40,3.2
+25739522,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1867,1976,6.0,7,1.58,40,63.2,"Akilan, M S",,1708,False,IND,1.0,1,0.17,40,6.8
+25739522,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1867,1976,6.0,7,1.58,40,63.2,"Pradiksha, P S",,1789,False,IND,1.0,1,0.26,40,10.4
+25739522,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1867,1976,6.0,7,1.58,40,63.2,"Abhinav, Anand",,1839,False,IND,1.0,1,0.32,40,12.8
+25739522,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1867,1976,6.0,7,1.58,40,63.2,"Ayushh, Ravikumar",f,2034,False,IND,0.5,1,0.08,40,3.2
+25739522,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1867,1976,6.0,7,1.58,40,63.2,"Joy, Lazar M.a.",,1834,False,IND,1.0,1,0.31,40,12.4
+25739522,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1867,1976,6.0,7,1.58,40,63.2,"Laxman, R.r.",g,2291,False,IND,0.5,1,0.36,40,14.4

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88156117,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,,,3.0,8,0.0,1429,,"Divyanshi, Khandelwal",,1488.0,False,IND,0.0,1,0.0,,0.0
+88156117,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,,,3.0,8,0.0,1429,,"Shubham, Ravindrabhai Kanani",,1470.0,False,IND,0.5,1,0.0,,0.0
+88156117,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,,,3.0,8,0.0,1429,,"Agastya, Mittal",,1473.0,False,IND,0.5,1,0.0,,0.0
+88156117,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,,,3.0,8,0.0,1429,,"Ankush, Raj",,1472.0,False,IND,1.0,1,0.0,,0.0
+88156117,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,,,3.0,8,0.0,1429,,"Pal, Vedika",,1768.0,False,IND,0.0,1,0.0,,0.0
+88156117,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,,,3.0,8,0.0,1429,,"Sarthak, Sharma",,1460.0,False,IND,1.0,1,0.0,,0.0
+88156117,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,,,3.0,8,0.0,1429,,"Viaan, Samir Makhani",,1530.0,False,IND,0.0,1,0.0,,0.0
+88156117,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,,,3.0,8,0.0,1429,,"Bhumin, Verma",,1470.0,False,IND,0.0,1,0.0,,0.0
+88156117,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1627.0,1501.0,0.0,2,-0.66,40,-26.4,"Neerav, Vishal",,1620.0,False,IND,0.0,1,-0.34,40.0,-13.6
+88156117,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1627.0,1501.0,0.0,2,-0.66,40,-26.4,"Suravi, Bhattacharya",,1633.0,False,IND,0.0,1,-0.32,40.0,-12.8

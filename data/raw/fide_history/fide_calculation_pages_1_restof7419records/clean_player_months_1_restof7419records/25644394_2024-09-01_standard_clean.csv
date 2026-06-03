@@ -1,0 +1,30 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25644394,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2289,2265,3.0,9,-1.21,20,-24.2,"Nandish, V S",,2185.0,False,IND,0.0,1,-0.61,20,-12.2
+25644394,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2289,2265,3.0,9,-1.21,20,-24.2,"Slizhevsky, Alexander",m,2384.0,False,RUS,1.0,1,0.66,20,13.2
+25644394,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2289,2265,3.0,9,-1.21,20,-24.2,"Daaevik, Wadhawan",f,2324.0,False,IND,0.0,1,-0.42,20,-8.4
+25644394,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2289,2265,3.0,9,-1.21,20,-24.2,"Annageldyev, Orazly",g,2316.0,False,TKM,1.0,1,0.57,20,11.4
+25644394,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2289,2265,3.0,9,-1.21,20,-24.2,"Harshad, S",f,2275.0,False,IND,0.0,1,-0.49,20,-9.8
+25644394,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2289,2265,3.0,9,-1.21,20,-24.2,"Nagarkatte, Vedant",f,2262.0,False,IND,0.0,1,-0.5,20,-10.0
+25644394,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2289,2265,3.0,9,-1.21,20,-24.2,"Manik, Mikulas",g,2338.0,False,SVK,0.5,1,0.1,20,2.0
+25644394,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2289,2265,3.0,9,-1.21,20,-24.2,"Uuriintuya, Uurtsaikh",wg,2214.0,False,MGL,0.0,1,-0.57,20,-11.4
+25644394,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2289,2265,3.0,9,-1.21,20,-24.2,"Adireddy, Arjun",f,2301.0,False,IND,0.5,1,0.05,20,1.0
+25644394,2024-09-01,0,23rd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-06,2024-08-12,2255,2314,4.5,9,-0.69,20,-13.8,"Daaevik, Wadhawan",f,2323.0,False,IND,1.0,1,0.51,20,10.2
+25644394,2024-09-01,0,23rd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-06,2024-08-12,2255,2314,4.5,9,-0.69,20,-13.8,"Gochelashvili, David",m,2230.0,False,RUS,0.5,1,-0.12,20,-2.4
+25644394,2024-09-01,0,23rd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-06,2024-08-12,2255,2314,4.5,9,-0.69,20,-13.8,"Slizhevsky, Alexander",m,2381.0,False,RUS,0.5,1,0.09,20,1.8
+25644394,2024-09-01,0,23rd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-06,2024-08-12,2255,2314,4.5,9,-0.69,20,-13.8,"Harshad, S",f,2275.0,False,IND,0.5,1,-0.05,20,-1.0
+25644394,2024-09-01,0,23rd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-06,2024-08-12,2255,2314,4.5,9,-0.69,20,-13.8,"Tejaswini, G",wm,2051.0,False,IND,0.5,1,-0.32,20,-6.4
+25644394,2024-09-01,0,23rd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-06,2024-08-12,2255,2314,4.5,9,-0.69,20,-13.8,"Annageldyev, Orazly",g,2271.0,False,TKM,1.0,1,0.44,20,8.8
+25644394,2024-09-01,0,23rd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-06,2024-08-12,2255,2314,4.5,9,-0.69,20,-13.8,"Uuriintuya, Uurtsaikh",wg,2212.0,False,MGL,0.0,1,-0.64,20,-12.8
+25644394,2024-09-01,0,23rd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-06,2024-08-12,2255,2314,4.5,9,-0.69,20,-13.8,"Sai, Vishwesh.c",,2233.0,False,IND,0.0,1,-0.61,20,-12.2
+25644394,2024-09-01,0,23rd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-06,2024-08-12,2255,2314,4.5,9,-0.69,20,-13.8,"Manik, Mikulas",g,2320.0,False,SVK,0.5,1,0.01,20,0.2
+25644394,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2143,2314,7.5,11,0.08,20,1.6,"Prabhukocharekar, P K",,1914.0,True,IND,1.0,1,0.08,20,1.6
+25644394,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2143,2314,7.5,11,0.08,20,1.6,"Venkata, Krishna Karthik K",f,1914.0,True,IND,1.0,1,0.08,20,1.6
+25644394,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2143,2314,7.5,11,0.08,20,1.6,"Advik, Amit Agrawal",,1914.0,True,IND,0.5,1,-0.42,20,-8.4
+25644394,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2143,2314,7.5,11,0.08,20,1.6,"Ram, Vishal Parab",,1914.0,True,IND,1.0,1,0.08,20,1.6
+25644394,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2143,2314,7.5,11,0.08,20,1.6,"Shyaam, Nikhil P",g,2442.0,False,IND,1.0,1,0.67,20,13.4
+25644394,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2143,2314,7.5,11,0.08,20,1.6,"Das, Sayantan",g,2491.0,False,IND,0.0,1,-0.27,20,-5.4
+25644394,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2143,2314,7.5,11,0.08,20,1.6,"Mrithyunjay, Mahadevan",c,2062.0,False,IND,1.0,1,0.19,20,3.8
+25644394,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2143,2314,7.5,11,0.08,20,1.6,"Ravi, Teja S.",m,2416.0,False,IND,0.5,1,0.14,20,2.8
+25644394,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2143,2314,7.5,11,0.08,20,1.6,"Mitrabha, Guha",g,2537.0,False,IND,0.0,1,-0.22,20,-4.4
+25644394,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2143,2314,7.5,11,0.08,20,1.6,"Sherla, Prathamesh",,1994.0,False,IND,0.5,1,-0.37,20,-7.4
+25644394,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2143,2314,7.5,11,0.08,20,1.6,"Sharnarthi, Shlok",,1980.0,False,IND,1.0,1,0.12,20,2.4

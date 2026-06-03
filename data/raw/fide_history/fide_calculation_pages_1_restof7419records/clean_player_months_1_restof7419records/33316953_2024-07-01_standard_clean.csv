@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33316953,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1836,1641,4.0,9,1.63,40,65.2,"Tisado, Janmyl Dilan",,1875,False,PHI,1.0,1,0.79,40,31.6
+33316953,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1836,1641,4.0,9,1.63,40,65.2,"Nadir, Samir",f,2041,True,SUD,0.0,1,-0.08,40,-3.2
+33316953,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1836,1641,4.0,9,1.63,40,65.2,"Ghaith, Saeed Alnuaimi",,1799,False,UAE,0.0,1,-0.29,40,-11.6
+33316953,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1836,1641,4.0,9,1.63,40,65.2,"Leonardo, Franklin",,1732,False,SGP,0.5,1,0.12,40,4.8
+33316953,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1836,1641,4.0,9,1.63,40,65.2,"Peligro, Israel",,1722,False,PHI,1.0,1,0.61,40,24.4
+33316953,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1836,1641,4.0,9,1.63,40,65.2,"Aborezika, Mohamed",,1897,False,LBA,0.0,1,-0.19,40,-7.6
+33316953,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1836,1641,4.0,9,1.63,40,65.2,"Boshra, Alshaeby",wm,1902,False,JOR,0.5,1,0.32,40,12.8
+33316953,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1836,1641,4.0,9,1.63,40,65.2,"Vaidyanathan, Kannan",,1872,False,USA,0.0,1,-0.21,40,-8.4
+33316953,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1836,1641,4.0,9,1.63,40,65.2,"Yeshwant, Saravanan",,1684,False,IND,1.0,1,0.56,40,22.4

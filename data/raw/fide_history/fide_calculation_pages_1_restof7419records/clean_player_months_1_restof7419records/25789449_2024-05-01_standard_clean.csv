@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25789449,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1778,1777,6.0,9,1.4,40,56.0,"Vrashank, Chouhan",f,2177,True,IND,1.0,1,0.92,40,36.8
+25789449,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1778,1777,6.0,9,1.4,40,56.0,"Hitesh, Azad",,1575,False,IND,1.0,1,0.24,40,9.6
+25789449,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1778,1777,6.0,9,1.4,40,56.0,"Sourabh, Kochar",,1438,False,IND,0.0,1,-0.88,40,-35.2
+25789449,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1778,1777,6.0,9,1.4,40,56.0,"Chandrasekhar, M K",,1839,False,IND,1.0,1,0.59,40,23.6
+25789449,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1778,1777,6.0,9,1.4,40,56.0,"Dev, Krishan",,1810,False,IND,1.0,1,0.55,40,22.0
+25789449,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1778,1777,6.0,9,1.4,40,56.0,"Sharma, Dinesh K.",m,2177,True,IND,0.0,1,-0.08,40,-3.2
+25789449,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1778,1777,6.0,9,1.4,40,56.0,"Pazhany, Kaushal Kohli",,1563,False,IND,1.0,1,0.23,40,9.2
+25789449,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1778,1777,6.0,9,1.4,40,56.0,"Shreyash, Singh",,1807,False,IND,0.0,1,-0.46,40,-18.4
+25789449,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1778,1777,6.0,9,1.4,40,56.0,"Piyush, Kumar Mishra",,1618,False,IND,1.0,1,0.29,40,11.6
+25789449,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2047,1777,4.5,8,3.05,40,122.0,"Nagare, Kaivalya Sandip",c,2073,False,IND,0.0,1,-0.15,40,-6.0
+25789449,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2047,1777,4.5,8,3.05,40,122.0,"Attwood, James",,1926,False,AUS,1.0,1,0.7,40,28.0
+25789449,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2047,1777,4.5,8,3.05,40,122.0,"Khazhatuly, Alikhan",c,1989,False,KAZ,1.0,1,0.77,40,30.8
+25789449,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2047,1777,4.5,8,3.05,40,122.0,"Frayna, Janelle Mae",wg,2177,True,PHI,0.5,1,0.42,40,16.8
+25789449,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2047,1777,4.5,8,3.05,40,122.0,"Otsuka, Shou",,2138,False,JPN,0.0,1,-0.1,40,-4.0
+25789449,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2047,1777,4.5,8,3.05,40,122.0,"Mendoza, Shania Mae",wf,2008,False,PHI,1.0,1,0.79,40,31.6
+25789449,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2047,1777,4.5,8,3.05,40,122.0,"Nagare, Akhilesh",,2082,False,IND,0.0,1,-0.14,40,-5.6
+25789449,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2047,1777,4.5,8,3.05,40,122.0,"Macaspac, Arthur",,1981,False,USA,1.0,1,0.76,40,30.4

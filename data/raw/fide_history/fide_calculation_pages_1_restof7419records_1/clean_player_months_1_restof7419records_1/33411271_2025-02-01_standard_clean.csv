@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33411271,2025-02-01,0,SHEPHALI MEMORIAL INTERNATIONAL FIDE RATING CHESS TOURNAMENT 2025,SILCHAR IND,2025-01-10,2025-01-15,1648,1403,1.0,5,-0.08,40,-3.2,"Apollosana Mangang, Rajkumar",,1803,True,IND,0.0,1,-0.08,40,-3.2
+33411271,2025-02-01,0,SHEPHALI MEMORIAL INTERNATIONAL FIDE RATING CHESS TOURNAMENT 2025,SILCHAR IND,2025-01-10,2025-01-15,1648,1403,1.0,5,-0.08,40,-3.2,"Bibendu, Das",,1759,False,IND,0.0,1,-0.11,40,-4.4
+33411271,2025-02-01,0,SHEPHALI MEMORIAL INTERNATIONAL FIDE RATING CHESS TOURNAMENT 2025,SILCHAR IND,2025-01-10,2025-01-15,1648,1403,1.0,5,-0.08,40,-3.2,"Arpit, Sharma",,1506,False,IND,0.5,1,0.14,40,5.6
+33411271,2025-02-01,0,SHEPHALI MEMORIAL INTERNATIONAL FIDE RATING CHESS TOURNAMENT 2025,SILCHAR IND,2025-01-10,2025-01-15,1648,1403,1.0,5,-0.08,40,-3.2,"Swapnaneel, Bhattacharjee",,1519,False,IND,0.0,1,-0.34,40,-13.6
+33411271,2025-02-01,0,SHEPHALI MEMORIAL INTERNATIONAL FIDE RATING CHESS TOURNAMENT 2025,SILCHAR IND,2025-01-10,2025-01-15,1648,1403,1.0,5,-0.08,40,-3.2,"Kh, Subir Singha",,1652,False,IND,0.5,1,0.31,40,12.4
+33411271,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1680,1403,0.0,4,-0.7,40,-28.0,"Ramnathan, Balasubramaniam",m,1803,True,IND,0.0,1,-0.08,40,-3.2
+33411271,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1680,1403,0.0,4,-0.7,40,-28.0,"Sujay Kumar, Dam",,1671,False,IND,0.0,1,-0.17,40,-6.8
+33411271,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1680,1403,0.0,4,-0.7,40,-28.0,"Bora, Mahendra",,1581,False,IND,0.0,1,-0.27,40,-10.8
+33411271,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1680,1403,0.0,4,-0.7,40,-28.0,"Prasenjit, Namasudra",,1663,False,IND,0.0,1,-0.18,40,-7.2

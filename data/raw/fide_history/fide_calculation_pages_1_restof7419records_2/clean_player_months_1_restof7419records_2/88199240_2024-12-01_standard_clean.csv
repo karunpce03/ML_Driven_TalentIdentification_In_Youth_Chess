@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88199240,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1497,1533,2.5,5,-0.26,40,-10.4,"Bhogal, Rupesh",,1717.0,False,IND,0.0,1,-0.26,40,-10.4
+88199240,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1497,1533,2.5,5,-0.26,40,-10.4,"Thakkar, Kairav",,1469.0,False,IND,0.0,1,-0.59,40,-23.6
+88199240,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1497,1533,2.5,5,-0.26,40,-10.4,"Vihaan, Ankur Jain",,1408.0,False,IND,1.0,1,0.33,40,13.2
+88199240,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1497,1533,2.5,5,-0.26,40,-10.4,"Amaya, Roy",,1446.0,False,IND,0.5,1,-0.12,40,-4.8
+88199240,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1497,1533,2.5,5,-0.26,40,-10.4,"Gosar, Megh Dhiren",,1446.0,False,IND,1.0,1,0.38,40,15.2

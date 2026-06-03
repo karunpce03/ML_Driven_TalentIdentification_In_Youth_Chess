@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33300429,2024-08-01,0,52nd Annual World Open - U2200,"Philadelphia, PA USA",2024-07-03,2024-07-07,1879,1804,4.5,9,0.89,40,35.6,"Wang, Kevin",,1964.0,False,USA,1.0,1,0.71,40,28.4
+33300429,2024-08-01,0,52nd Annual World Open - U2200,"Philadelphia, PA USA",2024-07-03,2024-07-07,1879,1804,4.5,9,0.89,40,35.6,"De Avila, Luis Alberto",,1981.0,False,COL,0.5,1,0.23,40,9.2
+33300429,2024-08-01,0,52nd Annual World Open - U2200,"Philadelphia, PA USA",2024-07-03,2024-07-07,1879,1804,4.5,9,0.89,40,35.6,"McQuillin, Danil Alsandair",,1972.0,False,USA,0.5,1,0.22,40,8.8
+33300429,2024-08-01,0,52nd Annual World Open - U2200,"Philadelphia, PA USA",2024-07-03,2024-07-07,1879,1804,4.5,9,0.89,40,35.6,"Regam, Jessica Shor",wf,1885.0,False,USA,0.5,1,0.11,40,4.4
+33300429,2024-08-01,0,52nd Annual World Open - U2200,"Philadelphia, PA USA",2024-07-03,2024-07-07,1879,1804,4.5,9,0.89,40,35.6,"Chowdhury, Marzouq",,1997.0,False,BAN,0.5,1,0.25,40,10.0
+33300429,2024-08-01,0,52nd Annual World Open - U2200,"Philadelphia, PA USA",2024-07-03,2024-07-07,1879,1804,4.5,9,0.89,40,35.6,"Nolan, Gregory Matthew",,1791.0,False,USA,0.0,1,-0.52,40,-20.8
+33300429,2024-08-01,0,52nd Annual World Open - U2200,"Philadelphia, PA USA",2024-07-03,2024-07-07,1879,1804,4.5,9,0.89,40,35.6,"Kashyap, Manish B",,1593.0,False,USA,1.0,1,0.23,40,9.2
+33300429,2024-08-01,0,52nd Annual World Open - U2200,"Philadelphia, PA USA",2024-07-03,2024-07-07,1879,1804,4.5,9,0.89,40,35.6,"Ehab, Mohamed",,1951.0,False,EGY,0.0,1,-0.3,40,-12.0
+33300429,2024-08-01,0,52nd Annual World Open - U2200,"Philadelphia, PA USA",2024-07-03,2024-07-07,1879,1804,4.5,9,0.89,40,35.6,"Gupta, Anand",,1776.0,False,USA,0.5,1,-0.04,40,-1.6

@@ -1,0 +1,26 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33313296,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1673,1605,5.5,9,1.65,40,66.0,"Muthukumar, Mukesh",,1864.0,False,IND,0.0,1,-0.18,40,-7.2
+33313296,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1673,1605,5.5,9,1.65,40,66.0,"Navya, P L",,1457.0,False,IND,1.0,1,0.3,40,12.0
+33313296,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1673,1605,5.5,9,1.65,40,66.0,"Ashith, Kiran Reddy",,1453.0,False,IND,0.5,1,-0.2,40,-8.0
+33313296,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1673,1605,5.5,9,1.65,40,66.0,"Subramanian, R M",,1878.0,False,IND,0.0,1,-0.17,40,-6.8
+33313296,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1673,1605,5.5,9,1.65,40,66.0,"Senthil, Aditya",,1479.0,False,IND,1.0,1,0.33,40,13.2
+33313296,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1673,1605,5.5,9,1.65,40,66.0,"Ramakrishna, Perumalla",,1992.0,False,IND,0.5,1,0.41,40,16.4
+33313296,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1673,1605,5.5,9,1.65,40,66.0,"Aashrita, Balaji Guttula",,1465.0,False,IND,1.0,1,0.31,40,12.4
+33313296,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1673,1605,5.5,9,1.65,40,66.0,"Senthil, Kumaran T.h.",,1713.0,False,IND,1.0,1,0.65,40,26.0
+33313296,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1673,1605,5.5,9,1.65,40,66.0,"Shaashvat, Gupta",,1755.0,False,IND,0.5,1,0.2,40,8.0
+33313296,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1587,1605,5.0,8,0.8,40,32.0,"Sanjay, P D",,1468.0,False,IND,1.0,1,0.32,40,12.8
+33313296,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1587,1605,5.0,8,0.8,40,32.0,"Farhaan, M",,1760.0,False,IND,0.0,1,-0.29,40,-11.6
+33313296,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1587,1605,5.0,8,0.8,40,32.0,"Maya, Ameen",,1491.0,False,IND,0.5,1,-0.16,40,-6.4
+33313296,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1587,1605,5.0,8,0.8,40,32.0,"Ujaan, Chatterjee",,1485.0,False,IND,1.0,1,0.34,40,13.6
+33313296,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1587,1605,5.0,8,0.8,40,32.0,"Ram, Kumar G M",,1769.0,False,IND,0.0,1,-0.28,40,-11.2
+33313296,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1587,1605,5.0,8,0.8,40,32.0,"Shirodker, Arthav",,1490.0,False,IND,1.0,1,0.34,40,13.6
+33313296,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1587,1605,5.0,8,0.8,40,32.0,"Raghav, Budur",,1447.0,False,IND,1.0,1,0.29,40,11.6
+33313296,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1587,1605,5.0,8,0.8,40,32.0,"Sanjay Sindhia, Mh",,1785.0,False,IND,0.5,1,0.24,40,9.6
+33313296,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1793,1703,5.5,8,2.37,40,94.8,"Joel, Joseph",,1479.0,False,IND,1.0,1,0.22,40,8.8
+33313296,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1793,1703,5.5,8,2.37,40,94.8,"Jolly, V P",,1489.0,False,IND,1.0,1,0.23,40,9.2
+33313296,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1793,1703,5.5,8,2.37,40,94.8,"Muthukumar, Mukesh",,1878.0,False,IND,1.0,1,0.73,40,29.2
+33313296,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1793,1703,5.5,8,2.37,40,94.8,"Sidharth, Sreekumar",,1820.0,False,IND,0.5,1,0.16,40,6.4
+33313296,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1793,1703,5.5,8,2.37,40,94.8,"Sangma, Rahul",m,2103.0,True,IND,0.5,1,0.42,40,16.8
+33313296,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1793,1703,5.5,8,2.37,40,94.8,"Anecx, Kanjiravila B C",,1805.0,False,IND,0.5,1,0.14,40,5.6
+33313296,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1793,1703,5.5,8,2.37,40,94.8,"Gokul, G",,1827.0,False,IND,1.0,1,0.67,40,26.8
+33313296,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1793,1703,5.5,8,2.37,40,94.8,"Ahaz, E U",,1940.0,False,IND,0.0,1,-0.2,40,-8.0

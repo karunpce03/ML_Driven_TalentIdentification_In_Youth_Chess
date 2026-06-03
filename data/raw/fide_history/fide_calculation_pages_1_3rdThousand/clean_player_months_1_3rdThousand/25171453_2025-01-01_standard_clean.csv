@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25171453,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1958,1792,4.0,9,1.18,40,47.2,"Vivaan, Mittal",,1674,False,IND,1.0,1,0.34,40,13.6
+25171453,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1958,1792,4.0,9,1.18,40,47.2,"Iniyan, R S",,1943,False,IND,1.0,1,0.7,40,28.0
+25171453,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1958,1792,4.0,9,1.18,40,47.2,"Daksh, Goyal",,2116,False,IND,1.0,1,0.87,40,34.8
+25171453,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1958,1792,4.0,9,1.18,40,47.2,"Nguyen, Van Huy",g,2192,True,VIE,0.0,1,-0.08,40,-3.2
+25171453,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1958,1792,4.0,9,1.18,40,47.2,"Stopa, Jacek",g,2192,True,POL,0.0,1,-0.08,40,-3.2
+25171453,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1958,1792,4.0,9,1.18,40,47.2,"Soham, Roy",,2015,False,IND,0.0,1,-0.22,40,-8.8
+25171453,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1958,1792,4.0,9,1.18,40,47.2,"Khadanga, Omm Aditya",,1926,False,IND,0.0,1,-0.32,40,-12.8
+25171453,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1958,1792,4.0,9,1.18,40,47.2,"Arnav, Mahesh Koli",,1961,False,IND,0.0,1,-0.28,40,-11.2
+25171453,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1958,1792,4.0,9,1.18,40,47.2,"Lakshya, Nigam",,1603,False,IND,1.0,1,0.25,40,10.0

@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25149741,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1814,6.5,10,0.29,38,11.02,"Jayaditya, Chepuri",,1477,False,IND,1.0,1,0.12,38,4.56
+25149741,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1814,6.5,10,0.29,38,11.02,"Shreyas, G Kaushik",,1599,False,IND,1.0,1,0.23,38,8.74
+25149741,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1814,6.5,10,0.29,38,11.02,"Samanth, Nataraj Naidu",,1577,False,IND,1.0,1,0.2,38,7.6
+25149741,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1814,6.5,10,0.29,38,11.02,"Mahindrakar, Indrajeet",,2138,False,IND,0.0,1,-0.13,38,-4.94
+25149741,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1814,6.5,10,0.29,38,11.02,"Krupha, S Ukkali",,1640,False,IND,0.5,1,-0.23,38,-8.74
+25149741,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1814,6.5,10,0.29,38,11.02,"Aadya, Ranganath",,1636,False,IND,1.0,1,0.27,38,10.26
+25149741,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1814,6.5,10,0.29,38,11.02,"Medhvansh, Madeti",,1684,False,IND,1.0,1,0.32,38,12.16
+25149741,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1814,6.5,10,0.29,38,11.02,"Roy Chowdhury, Saptarshi",g,2214,True,IND,0.0,1,-0.08,38,-3.04
+25149741,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1814,6.5,10,0.29,38,11.02,"Aaditya, Ranjan Sahu",,1619,False,IND,1.0,1,0.25,38,9.5
+25149741,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1814,6.5,10,0.29,38,11.02,"Atharva, Kale",,1697,False,IND,0.0,1,-0.66,38,-25.08
+25149741,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1634,1814,6.5,8,0.76,38,28.88,"Pranav, M",,1414,True,IND,1.0,1,0.08,38,3.04
+25149741,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1634,1814,6.5,8,0.76,38,28.88,"Mogneeshwar, J K U",,1529,False,IND,1.0,1,0.16,38,6.08
+25149741,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1634,1814,6.5,8,0.76,38,28.88,"Rishith, Devnarayan S",,1627,False,IND,1.0,1,0.26,38,9.88
+25149741,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1634,1814,6.5,8,0.76,38,28.88,"Prajit, Ravishankar",,1663,False,IND,0.0,1,-0.7,38,-26.6
+25149741,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1634,1814,6.5,8,0.76,38,28.88,"Vipin, K A",,1605,False,IND,1.0,1,0.23,38,8.74
+25149741,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1634,1814,6.5,8,0.76,38,28.88,"Prem, Muthu Avaneesh",,1638,False,USA,1.0,1,0.27,38,10.26
+25149741,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1634,1814,6.5,8,0.76,38,28.88,"Kanishkaraj, V",,1699,False,IND,1.0,1,0.34,38,12.92
+25149741,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1634,1814,6.5,8,0.76,38,28.88,"Sailesh, R",,1898,False,IND,0.5,1,0.12,38,4.56

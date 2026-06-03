@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25998420,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1870,1687,4.0,9,1.6,40,64.0,"Mann, Akbari",,1880.0,False,IND,1.0,1,0.75,40,30.0
+25998420,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1870,1687,4.0,9,1.6,40,64.0,"Sahil, Bheron",,1925.0,False,IND,0.5,1,0.3,40,12.0
+25998420,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1870,1687,4.0,9,1.6,40,64.0,"Manav, Kumar",,1777.0,False,IND,0.0,1,-0.38,40,-15.2
+25998420,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1870,1687,4.0,9,1.6,40,64.0,"Shreyas, Raj",,1941.0,False,IND,0.0,1,-0.19,40,-7.6
+25998420,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1870,1687,4.0,9,1.6,40,64.0,"Vinayak, Singh Yadav",,1879.0,False,IND,0.5,1,0.25,40,10.0
+25998420,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1870,1687,4.0,9,1.6,40,64.0,"Shankhadeep, Maity",,1835.0,False,IND,0.0,1,-0.3,40,-12.0
+25998420,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1870,1687,4.0,9,1.6,40,64.0,"Madkar, Atharva",,1985.0,False,IND,1.0,1,0.85,40,34.0
+25998420,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1870,1687,4.0,9,1.6,40,64.0,Shreyas,,1797.0,False,IND,0.5,1,0.15,40,6.0
+25998420,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1870,1687,4.0,9,1.6,40,64.0,"Pratiyush, Kumar",,1815.0,False,IND,0.5,1,0.17,40,6.8

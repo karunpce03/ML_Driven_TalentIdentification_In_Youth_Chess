@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25703471,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1507,1545,2.5,5,-0.28,40,-11.2,"Avighna, Das",,1443.0,False,IND,1.0,1,0.36,40,14.4
+25703471,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1507,1545,2.5,5,-0.28,40,-11.2,"Aniket, Narayan Biswas",,1766.0,False,IND,0.0,1,-0.22,40,-8.8
+25703471,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1507,1545,2.5,5,-0.28,40,-11.2,"Prashanto, Kumar Roy",,1427.0,False,IND,0.5,1,-0.16,40,-6.4
+25703471,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1507,1545,2.5,5,-0.28,40,-11.2,"Saptashwa, Bhattacharya",,1424.0,False,IND,1.0,1,0.34,40,13.6
+25703471,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1507,1545,2.5,5,-0.28,40,-11.2,"Agniva, Sengupta",,1474.0,False,IND,0.0,1,-0.6,40,-24.0
+25703471,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1643,1545,1.5,4,0.0,40,0.0,"Ishan, Sinha",,1786.0,False,IND,0.5,1,0.3,40,12.0
+25703471,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1643,1545,1.5,4,0.0,40,0.0,"Pranit, Hajra",,1416.0,False,IND,1.0,1,0.33,40,13.2
+25703471,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1643,1545,1.5,4,0.0,40,0.0,"Chanda, Ujan",,1721.0,False,IND,0.0,1,-0.27,40,-10.8
+25703471,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1643,1545,1.5,4,0.0,40,0.0,"Aharsi, Ghosh",,1648.0,False,IND,0.0,1,-0.36,40,-14.4

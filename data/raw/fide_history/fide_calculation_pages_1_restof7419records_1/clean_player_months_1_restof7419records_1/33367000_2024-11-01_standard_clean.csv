@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33367000,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1644,1473,3.0,8,0.73,40,29.2,"Mithilesh, P",,1668.0,False,IND,0.5,1,0.25,40,10.0
+33367000,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1644,1473,3.0,8,0.73,40,29.2,"Aditya, Shardul Kadam",,1686.0,False,IND,0.0,1,-0.23,40,-9.2
+33367000,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1644,1473,3.0,8,0.73,40,29.2,"Ansh, Kabra",,1635.0,False,IND,0.5,1,0.21,40,8.4
+33367000,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1644,1473,3.0,8,0.73,40,29.2,"Ishaan, Bhansali",,1692.0,False,IND,1.0,1,0.78,40,31.2
+33367000,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1644,1473,3.0,8,0.73,40,29.2,"Aarav, Das",,1669.0,False,IND,0.0,1,-0.25,40,-10.0
+33367000,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1644,1473,3.0,8,0.73,40,29.2,"Shubh, Vishnu Borkar",,1738.0,False,IND,0.0,1,-0.18,40,-7.2
+33367000,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1644,1473,3.0,8,0.73,40,29.2,"Ahaan, Mitra",,1416.0,False,IND,1.0,1,0.42,40,16.8
+33367000,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1644,1473,3.0,8,0.73,40,29.2,"Pazhany, Kaushal Kohli",,1647.0,False,IND,0.0,1,-0.27,40,-10.8
+33367000,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1793,1473,0.0,3,-0.42,40,-16.8,"Vishal, Choudary B",,1873.0,True,IND,0.0,1,-0.08,40,-3.2
+33367000,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1793,1473,0.0,3,-0.42,40,-16.8,"Divith, Reddy Adulla",,1825.0,False,IND,0.0,1,-0.11,40,-4.4
+33367000,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1793,1473,0.0,3,-0.42,40,-16.8,"Sarath Kr, Nanda",,1682.0,False,IND,0.0,1,-0.23,40,-9.2

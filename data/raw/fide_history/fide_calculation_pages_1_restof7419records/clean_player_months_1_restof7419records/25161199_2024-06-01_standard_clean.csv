@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25161199,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1672,1458,1.0,4,0.08,40,3.2,"Jayanth, Venkatesh",,1649.0,False,IND,0.5,1,0.25,40,10.0
+25161199,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1672,1458,1.0,4,0.08,40,3.2,"Surya, Prakash Murugesan",,1654.0,False,IND,0.5,1,0.25,40,10.0
+25161199,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1672,1458,1.0,4,0.08,40,3.2,"Mohana, Surya V",,1640.0,False,IND,0.0,1,-0.26,40,-10.4
+25161199,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1672,1458,1.0,4,0.08,40,3.2,"Samson, Anna Rao. T",,1744.0,False,IND,0.0,1,-0.16,40,-6.4
+25161199,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1563,1458,2.0,6,-0.16,40,-6.4,"Sananda, R",,1629.0,False,IND,0.5,1,0.23,40,9.2
+25161199,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1563,1458,2.0,6,-0.16,40,-6.4,"Kiruthik, Murugun M",,1603.0,False,IND,0.5,1,0.19,40,7.6
+25161199,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1563,1458,2.0,6,-0.16,40,-6.4,"Diya, Jain",,1581.0,False,IND,0.0,1,-0.33,40,-13.2
+25161199,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1563,1458,2.0,6,-0.16,40,-6.4,"Boopesh, Kumar M",,1587.0,False,IND,0.0,1,-0.33,40,-13.2
+25161199,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1563,1458,2.0,6,-0.16,40,-6.4,"Sri, Deepa Devi",,1400.0,False,IND,1.0,1,0.42,40,16.8
+25161199,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1563,1458,2.0,6,-0.16,40,-6.4,"Ar, Saisharvesh",,1579.0,False,IND,0.0,1,-0.34,40,-13.6

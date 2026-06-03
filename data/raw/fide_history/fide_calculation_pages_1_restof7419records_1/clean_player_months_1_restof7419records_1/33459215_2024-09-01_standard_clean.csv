@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33459215,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1659,1597,3.0,5,0.8,40,32.0,"Bristy, Mukherjee",wf,1945.0,False,IND,0.0,1,-0.11,40,-4.4
+33459215,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1659,1597,3.0,5,0.8,40,32.0,"Shruti, Sarkar",,1468.0,False,IND,1.0,1,0.33,40,13.2
+33459215,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1659,1597,3.0,5,0.8,40,32.0,"Aditri, Bag",,1476.0,False,IND,1.0,1,0.34,40,13.6
+33459215,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1659,1597,3.0,5,0.8,40,32.0,"Rajanya, Datta",,1870.0,False,IND,0.0,1,-0.17,40,-6.8
+33459215,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1659,1597,3.0,5,0.8,40,32.0,"Riyana, Khatun",,1534.0,False,IND,1.0,1,0.41,40,16.4
+33459215,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1707,1597,4.0,7,1.48,40,59.2,"Kathakali, Dey",,1727.0,False,IND,0.0,1,-0.32,40,-12.8
+33459215,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1707,1597,4.0,7,1.48,40,59.2,"Debapriya, Manna",,1779.0,False,IND,0.0,1,-0.26,40,-10.4
+33459215,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1707,1597,4.0,7,1.48,40,59.2,"Rajanya, Datta",wc,1870.0,False,IND,1.0,1,0.83,40,33.2
+33459215,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1707,1597,4.0,7,1.48,40,59.2,"Olivia, Biswas",,1680.0,False,IND,0.0,1,-0.39,40,-15.6
+33459215,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1707,1597,4.0,7,1.48,40,59.2,"Mittika, Baidya",,1441.0,False,IND,1.0,1,0.29,40,11.6
+33459215,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1707,1597,4.0,7,1.48,40,59.2,"Suravi, Bhattacharya",,1658.0,False,IND,1.0,1,0.58,40,23.2
+33459215,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1707,1597,4.0,7,1.48,40,59.2,"Arhashirsha, Biswas",,1793.0,False,IND,1.0,1,0.75,40,30.0

@@ -1,0 +1,28 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88131556,2024-05-01,0,Chhattisgarh State U-17 FIDE Rated Chess Championship 2024,Durg IND,2024-04-12,2024-04-14,1499.0,1477.0,1.5,4,-0.38,40,-15.2,"Yeejnansh, Gupta",,1425.0,False,IND,0.5,1,-0.07,40.0,-2.8
+88131556,2024-05-01,0,Chhattisgarh State U-17 FIDE Rated Chess Championship 2024,Durg IND,2024-04-12,2024-04-14,1499.0,1477.0,1.5,4,-0.38,40,-15.2,"Jasman, Kaur",,1446.0,False,IND,1.0,1,0.46,40.0,18.4
+88131556,2024-05-01,0,Chhattisgarh State U-17 FIDE Rated Chess Championship 2024,Durg IND,2024-04-12,2024-04-14,1499.0,1477.0,1.5,4,-0.38,40,-15.2,"Shubhankar, Bamalia",,1564.0,False,IND,0.0,1,-0.38,40.0,-15.2
+88131556,2024-05-01,0,Chhattisgarh State U-17 FIDE Rated Chess Championship 2024,Durg IND,2024-04-12,2024-04-14,1499.0,1477.0,1.5,4,-0.38,40,-15.2,"Abhay, Yadav",,1560.0,False,IND,0.0,1,-0.39,40.0,-15.6
+88131556,2024-07-01,0,Chhattisgarh State Senior & Women FIDE Rated Chess Championship 2024,Pithora IND,2024-06-07,2024-06-10,1735.0,1462.0,0.0,3,-0.51,40,-20.4,"Kshitij, Sharma",,1776.0,False,IND,0.0,1,-0.14,40.0,-5.6
+88131556,2024-07-01,0,Chhattisgarh State Senior & Women FIDE Rated Chess Championship 2024,Pithora IND,2024-06-07,2024-06-10,1735.0,1462.0,0.0,3,-0.51,40,-20.4,"Akshat, Mahobiya",,1741.0,False,IND,0.0,1,-0.16,40.0,-6.4
+88131556,2024-07-01,0,Chhattisgarh State Senior & Women FIDE Rated Chess Championship 2024,Pithora IND,2024-06-07,2024-06-10,1735.0,1462.0,0.0,3,-0.51,40,-20.4,"Sharma, Rahul",,1689.0,False,IND,0.0,1,-0.21,40.0,-8.4
+88131556,2024-07-01,0,AICF's Smart Girls Project All India Open Fide Rated Chess Tournament- 2024 - Jammu & Kashmir,Doda IND,2024-06-21,2024-06-25,1516.0,1462.0,0.0,1,-0.42,40,-16.8,"Alankrita, Sharma",,1516.0,False,IND,0.0,1,-0.42,40.0,-16.8
+88131556,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1626.0,1425.0,1.0,6,-0.48,40,-19.2,"Azal, Nasir",,1756.0,False,IND,0.0,1,-0.12,40.0,-4.8
+88131556,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1626.0,1425.0,1.0,6,-0.48,40,-19.2,"Shahid, Noor",,1621.0,False,IND,0.0,1,-0.25,40.0,-10.0
+88131556,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1626.0,1425.0,1.0,6,-0.48,40,-19.2,"Shrivastava, Manish",,1597.0,False,IND,1.0,1,0.73,40.0,29.2
+88131556,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1626.0,1425.0,1.0,6,-0.48,40,-19.2,"Dhruv, Gupta",,1622.0,False,IND,0.0,1,-0.25,40.0,-10.0
+88131556,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1626.0,1425.0,1.0,6,-0.48,40,-19.2,"Anshika, Dongre",,1548.0,False,IND,0.0,1,-0.33,40.0,-13.2
+88131556,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1626.0,1425.0,1.0,6,-0.48,40,-19.2,"Navaneel, Chhatui",,1609.0,False,IND,0.0,1,-0.26,40.0,-10.4
+88131556,2024-09-01,0,Chhattisgarh State U-19 FIDE Rated Chess Championship 2024,Raipur IND,2024-07-26,2024-07-29,1624.0,1425.0,0.0,1,-0.24,40,-9.6,"Taneesha, Drolia",,1624.0,False,IND,0.0,1,-0.24,40.0,-9.6
+88131556,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,1624.0,1406.0,0.0,1,-0.22,40,-8.8,"Taneesha, Drolia",,1624.0,False,IND,0.0,1,-0.22,40.0,-8.8
+88131556,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,5.0,11,0.0,1485,,Somya,,1585.0,False,IND,0.0,1,0.0,,0.0
+88131556,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,5.0,11,0.0,1485,,"Sayee, Atreyi Mohapatra",,1508.0,False,IND,1.0,1,0.0,,0.0
+88131556,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,5.0,11,0.0,1485,,"Shradha, Smaranika Nanda",,1602.0,False,IND,1.0,1,0.0,,0.0
+88131556,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,5.0,11,0.0,1485,,"Advika, Sarupria",,1628.0,False,IND,0.0,1,0.0,,0.0
+88131556,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,5.0,11,0.0,1485,,"Pondhiya, S",,1505.0,False,IND,0.5,1,0.0,,0.0
+88131556,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,5.0,11,0.0,1485,,"Aditri, Bag",,1503.0,False,IND,0.0,1,0.0,,0.0
+88131556,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,5.0,11,0.0,1485,,"Lyia, Marysil Silveira",,1463.0,False,IND,0.0,1,0.0,,0.0
+88131556,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,5.0,11,0.0,1485,,"Puviya, Sureshkumar",,1450.0,False,IND,1.0,1,0.0,,0.0
+88131556,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,5.0,11,0.0,1485,,"Saee, Kaustubh Deo",,1499.0,False,IND,1.0,1,0.0,,0.0
+88131556,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,5.0,11,0.0,1485,,"Diya, Ghosh",,1504.0,False,IND,0.0,1,0.0,,0.0
+88131556,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,,,5.0,11,0.0,1485,,"Aligi, Riya Hemal",,1479.0,False,IND,0.5,1,0.0,,0.0

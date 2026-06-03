@@ -1,0 +1,29 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88145700,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,2.0,8,0.0,1283,,"Arhaan, Agrawal",,1529.0,False,IND,0.0,1,0.0,,0.0
+88145700,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,2.0,8,0.0,1283,,"Mitesh, M M",,1436.0,False,IND,0.0,1,0.0,,0.0
+88145700,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,2.0,8,0.0,1283,,"Harshit, Kolluru",,1499.0,False,IND,0.5,1,0.0,,0.0
+88145700,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,2.0,8,0.0,1283,,"Rohit, Subramanian",,1444.0,False,IND,0.5,1,0.0,,0.0
+88145700,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,2.0,8,0.0,1283,,"Lella, Devaansh",,1420.0,False,IND,1.0,1,0.0,,0.0
+88145700,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,2.0,8,0.0,1283,,"Neal, Midha",,1482.0,False,IND,0.0,1,0.0,,0.0
+88145700,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,2.0,8,0.0,1283,,"Jonna, Sravan Kumar",,1486.0,False,IND,0.0,1,0.0,,0.0
+88145700,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,2.0,8,0.0,1283,,"Maneesh, Reddy Lingam",,1510.0,False,IND,0.0,1,0.0,,0.0
+88145700,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,,,1.5,5,0.0,1375,,"Prashant, Kumar Singh",,1614.0,False,IND,0.0,1,0.0,,0.0
+88145700,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,,,1.5,5,0.0,1375,,"Anand, Shekhar",,1602.0,False,IND,1.0,1,0.0,,0.0
+88145700,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,,,1.5,5,0.0,1375,,"Rudra, Veer Singh",,1444.0,False,IND,0.0,1,0.0,,0.0
+88145700,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,,,1.5,5,0.0,1375,,Parth,,1411.0,False,IND,0.5,1,0.0,,0.0
+88145700,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,,,1.5,5,0.0,1375,,"Rajiv, Ranjan",,1547.0,False,IND,0.0,1,0.0,,0.0
+88145700,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1901.0,1501.0,0.0,1,-0.08,40,-3.2,"Sinha, Sujit Kumar",,1901.0,True,IND,0.0,1,-0.08,40.0,-3.2
+88145700,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1451.0,1501.0,4.5,9,-0.63,40,-25.2,"Shawn, Joy",,1495.0,False,IND,0.0,1,-0.51,40.0,-20.4
+88145700,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1451.0,1501.0,4.5,9,-0.63,40,-25.2,"Mantik, Iyer",,1415.0,False,IND,1.0,1,0.38,40.0,15.2
+88145700,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1451.0,1501.0,4.5,9,-0.63,40,-25.2,"Kavish, Agrawal",,1429.0,False,IND,0.0,1,-0.6,40.0,-24.0
+88145700,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1451.0,1501.0,4.5,9,-0.63,40,-25.2,"Yuvan, Raman",,1431.0,False,IND,0.0,1,-0.6,40.0,-24.0
+88145700,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1451.0,1501.0,4.5,9,-0.63,40,-25.2,"Thriaansh, Sai Motor",,1419.0,False,IND,1.0,1,0.39,40.0,15.6
+88145700,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1451.0,1501.0,4.5,9,-0.63,40,-25.2,"Hamzah, Malik",,1437.0,False,IND,0.0,1,-0.59,40.0,-23.6
+88145700,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1451.0,1501.0,4.5,9,-0.63,40,-25.2,"Abhyansh, Jha",,1528.0,False,IND,1.0,1,0.54,40.0,21.6
+88145700,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1451.0,1501.0,4.5,9,-0.63,40,-25.2,"Riddhiman, Datta",,1465.0,False,IND,1.0,1,0.45,40.0,18.0
+88145700,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1451.0,1501.0,4.5,9,-0.63,40,-25.2,"Viraj, Karthik",,1438.0,False,IND,0.5,1,-0.09,40.0,-3.6
+88145700,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1668.0,1498.0,0.5,2,-0.05,40,-2.0,"Shaurya, Prakash S",,1663.0,False,IND,0.5,1,0.22,40.0,8.8
+88145700,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1668.0,1498.0,0.5,2,-0.05,40,-2.0,"Asmita, Biswas",,1672.0,False,IND,0.0,1,-0.27,40.0,-10.8
+88145700,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1666.0,1471.0,0.0,3,-0.75,40,-30.0,"Shahan, Abu Sayeed",,1691.0,False,IND,0.0,1,-0.22,40.0,-8.8
+88145700,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1666.0,1471.0,0.0,3,-0.75,40,-30.0,"Megh, Parmar",,1666.0,False,IND,0.0,1,-0.25,40.0,-10.0
+88145700,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1666.0,1471.0,0.0,3,-0.75,40,-30.0,"Priyadarshi, Alok",,1640.0,False,IND,0.0,1,-0.28,40.0,-11.2

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25743457,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1868,1874,6.5,11,0.89,40,35.6,"Durkasri, M",,1486,False,IND,1.0,1,0.09,40,3.6
+25743457,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1868,1874,6.5,11,0.89,40,35.6,"Rakshitta, Ravi",wm,2274,True,IND,1.0,1,0.92,40,36.8
+25743457,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1868,1874,6.5,11,0.89,40,35.6,"Priyanka, K",wm,2075,False,IND,0.0,1,-0.24,40,-9.6
+25743457,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1868,1874,6.5,11,0.89,40,35.6,"Pournami, S D",,1717,False,IND,1.0,1,0.29,40,11.6
+25743457,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1868,1874,6.5,11,0.89,40,35.6,"Arshiya, Das",wc,2035,False,IND,0.0,1,-0.29,40,-11.6
+25743457,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1868,1874,6.5,11,0.89,40,35.6,"Sananda, R",,1658,False,IND,0.0,1,-0.78,40,-31.2
+25743457,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1868,1874,6.5,11,0.89,40,35.6,"Magizhini, M",,1700,False,IND,1.0,1,0.27,40,10.8
+25743457,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1868,1874,6.5,11,0.89,40,35.6,"Bindu, Saritha K.",wf,1705,False,IND,1.0,1,0.28,40,11.2
+25743457,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1868,1874,6.5,11,0.89,40,35.6,"Mrudul, Dehankar",wm,2036,False,IND,0.0,1,-0.29,40,-11.6
+25743457,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1868,1874,6.5,11,0.89,40,35.6,"Vijayasubhasri, S",,1764,False,IND,0.5,1,-0.15,40,-6.0
+25743457,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1868,1874,6.5,11,0.89,40,35.6,"Nimmy, A.g.",wf,2101,False,IND,1.0,1,0.79,40,31.6

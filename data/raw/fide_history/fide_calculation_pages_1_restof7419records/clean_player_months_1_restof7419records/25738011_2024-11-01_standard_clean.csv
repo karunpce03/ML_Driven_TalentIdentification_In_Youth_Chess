@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25738011,2024-11-01,0,Asian Juniors Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,2101,2060,4.5,9,0.37,40,14.8,"Constante, Marius",,1660,True,PHI,1.0,1,0.08,40,3.2
+25738011,2024-11-01,0,Asian Juniors Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,2101,2060,4.5,9,0.37,40,14.8,"Dau, Khuong Duy",c,2422,False,VIE,0.5,1,0.4,40,16.0
+25738011,2024-11-01,0,Asian Juniors Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,2101,2060,4.5,9,0.37,40,14.8,"Aswath, S",f,2460,True,IND,0.0,1,-0.08,40,-3.2
+25738011,2024-11-01,0,Asian Juniors Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,2101,2060,4.5,9,0.37,40,14.8,"Dolorosa, Andrei Ainsley",,2076,False,PHI,0.0,1,-0.48,40,-19.2
+25738011,2024-11-01,0,Asian Juniors Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,2101,2060,4.5,9,0.37,40,14.8,"Magpusao, Almwayne",,1660,True,PHI,1.0,1,0.08,40,3.2
+25738011,2024-11-01,0,Asian Juniors Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,2101,2060,4.5,9,0.37,40,14.8,"Yu, Chen Yu",,1770,False,TPE,1.0,1,0.16,40,6.4
+25738011,2024-11-01,0,Asian Juniors Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,2101,2060,4.5,9,0.37,40,14.8,"Rohith, Krishna S",m,2460,True,IND,0.0,1,-0.08,40,-3.2
+25738011,2024-11-01,0,Asian Juniors Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,2101,2060,4.5,9,0.37,40,14.8,"Bharadia, Yash",c,2415,False,IND,0.5,1,0.39,40,15.6
+25738011,2024-11-01,0,Asian Juniors Chess Championship 2024,Tagaytay City PHI,2024-10-13,2024-10-19,2101,2060,4.5,9,0.37,40,14.8,"Akshat, Sureka",,1986,False,IND,0.5,1,-0.1,40,-4.0

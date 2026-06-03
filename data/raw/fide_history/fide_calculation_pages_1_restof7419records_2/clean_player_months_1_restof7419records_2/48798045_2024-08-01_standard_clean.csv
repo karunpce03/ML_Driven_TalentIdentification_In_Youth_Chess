@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48798045,2024-08-01,0,Goa State Selection for National Senior (Open) FIDE Rating Chess Championship 2024,Margao IND,2024-07-24,2024-07-28,1700,1472,1.5,3,0.83,40,33.2,"Saras, Summer Powar",,1584.0,False,IND,0.5,1,0.15,40,6.0
+48798045,2024-08-01,0,Goa State Selection for National Senior (Open) FIDE Rating Chess Championship 2024,Margao IND,2024-07-24,2024-07-28,1700,1472,1.5,3,0.83,40,33.2,"Kulkarni, Pradip S",,1761.0,False,IND,1.0,1,0.84,40,33.6
+48798045,2024-08-01,0,Goa State Selection for National Senior (Open) FIDE Rating Chess Championship 2024,Margao IND,2024-07-24,2024-07-28,1700,1472,1.5,3,0.83,40,33.2,"Chopdekar, Gunjal",wc,1754.0,False,IND,0.0,1,-0.16,40,-6.4

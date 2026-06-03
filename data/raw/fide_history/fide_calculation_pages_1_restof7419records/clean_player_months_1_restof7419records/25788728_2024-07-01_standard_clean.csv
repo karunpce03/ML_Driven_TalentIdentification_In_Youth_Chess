@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25788728,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1583,1578,3.0,6,0.03,40,1.2,"Shaurya, Prabhakar",,1772.0,False,IND,0.0,1,-0.25,40,-10.0
+25788728,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1583,1578,3.0,6,0.03,40,1.2,"Aarav, Gupta",,1415.0,False,IND,0.0,1,-0.72,40,-28.8
+25788728,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1583,1578,3.0,6,0.03,40,1.2,"Atharva, Sonwani",,1461.0,False,IND,1.0,1,0.34,40,13.6
+25788728,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1583,1578,3.0,6,0.03,40,1.2,"Ravish, Chaudhary",,1635.0,False,IND,0.0,1,-0.42,40,-16.8
+25788728,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1583,1578,3.0,6,0.03,40,1.2,"Harshit, Singh",,1543.0,False,IND,1.0,1,0.45,40,18.0
+25788728,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1583,1578,3.0,6,0.03,40,1.2,"Prabal, Pandey",,1671.0,False,IND,1.0,1,0.63,40,25.2

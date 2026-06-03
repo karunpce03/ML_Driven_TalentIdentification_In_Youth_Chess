@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45033641,2024-07-01,0,26th Asian Youth Chess Championship G18 group,Almaty KAZ,2024-06-12,2024-06-19,2007,1766,4.5,9,2.58,40,103.2,"Canino, Ruelle",,2097,False,PHI,1.0,1,0.88,40,35.2
+45033641,2024-07-01,0,26th Asian Youth Chess Championship G18 group,Almaty KAZ,2024-06-12,2024-06-19,2007,1766,4.5,9,2.58,40,103.2,"Sanudula, K M Dahamdi",wc,1934,False,SRI,1.0,1,0.72,40,28.8
+45033641,2024-07-01,0,26th Asian Youth Chess Championship G18 group,Almaty KAZ,2024-06-12,2024-06-19,2007,1766,4.5,9,2.58,40,103.2,"Imomkuzieva, Nilufarkhon",wf,1993,False,UZB,0.0,1,-0.21,40,-8.4
+45033641,2024-07-01,0,26th Asian Youth Chess Championship G18 group,Almaty KAZ,2024-06-12,2024-06-19,2007,1766,4.5,9,2.58,40,103.2,"Karimi, Setayesh",,2025,False,IRI,1.0,1,0.82,40,32.8
+45033641,2024-07-01,0,26th Asian Youth Chess Championship G18 group,Almaty KAZ,2024-06-12,2024-06-19,2007,1766,4.5,9,2.58,40,103.2,"Kairbekova, Amina",wm,2166,True,KAZ,0.5,1,0.42,40,16.8
+45033641,2024-07-01,0,26th Asian Youth Chess Championship G18 group,Almaty KAZ,2024-06-12,2024-06-19,2007,1766,4.5,9,2.58,40,103.2,"Kuznetsova, Marina",wf,2136,False,FID,0.0,1,-0.1,40,-4.0
+45033641,2024-07-01,0,26th Asian Youth Chess Championship G18 group,Almaty KAZ,2024-06-12,2024-06-19,2007,1766,4.5,9,2.58,40,103.2,"Sawan, Eman",wc,1861,False,PLE,0.5,1,0.13,40,5.2
+45033641,2024-07-01,0,26th Asian Youth Chess Championship G18 group,Almaty KAZ,2024-06-12,2024-06-19,2007,1766,4.5,9,2.58,40,103.2,"Bobomurodova, Maftuna",wm,1923,False,UZB,0.5,1,0.21,40,8.4
+45033641,2024-07-01,0,26th Asian Youth Chess Championship G18 group,Almaty KAZ,2024-06-12,2024-06-19,2007,1766,4.5,9,2.58,40,103.2,"Ruba, Al-Qudah",,1927,False,JOR,0.0,1,-0.29,40,-11.6

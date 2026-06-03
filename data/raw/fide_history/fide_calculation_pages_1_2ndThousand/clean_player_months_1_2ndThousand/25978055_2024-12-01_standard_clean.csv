@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25978055,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2060,2013,6.5,11,1.77,40,70.8,"Van Meersbergen, Ettienne",,1613,True,RSA,1.0,1,0.08,40,3.2
+25978055,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2060,2013,6.5,11,1.77,40,70.8,"Jiang, Haochen",,2315,False,CHN,0.5,1,0.35,40,14.0
+25978055,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2060,2013,6.5,11,1.77,40,70.8,"Garzon Camelo, Andres Santiago",,2282,False,COL,0.0,1,-0.17,40,-6.8
+25978055,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2060,2013,6.5,11,1.77,40,70.8,"Johansson, Emanuel",,1613,True,ARG,1.0,1,0.08,40,3.2
+25978055,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2060,2013,6.5,11,1.77,40,70.8,"Rueda Rojas, Richard Alejandro",,2046,False,COL,1.0,1,0.55,40,22.0
+25978055,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2060,2013,6.5,11,1.77,40,70.8,"Boulos, Paul",,2153,False,FRA,1.0,1,0.69,40,27.6
+25978055,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2060,2013,6.5,11,1.77,40,70.8,"La Barbera, Manfredi",,2124,False,ITA,0.0,1,-0.35,40,-14.0
+25978055,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2060,2013,6.5,11,1.77,40,70.8,"Jardim, Frederico Rodrigues",c,2157,False,BRA,1.0,1,0.69,40,27.6
+25978055,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2060,2013,6.5,11,1.77,40,70.8,"Haug, Havard",c,2352,False,NOR,0.0,1,-0.12,40,-4.8
+25978055,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2060,2013,6.5,11,1.77,40,70.8,"Stefanovic, Bosko",,2124,False,SRB,0.0,1,-0.35,40,-14.0
+25978055,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2060,2013,6.5,11,1.77,40,70.8,"Calcada, Henrique Galvan",,1876,False,BRA,1.0,1,0.32,40,12.8

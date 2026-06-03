@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48754420,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1742,1501,0.0,3,-0.64,40,-25.6,"Niladri, Banerjee",,1883.0,False,IND,0.0,1,-0.09,40,-3.6
+48754420,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1742,1501,0.0,3,-0.64,40,-25.6,"Pawan, Sain",,1683.0,False,IND,0.0,1,-0.26,40,-10.4
+48754420,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1742,1501,0.0,3,-0.64,40,-25.6,"Gaurav, Sharma",,1660.0,False,IND,0.0,1,-0.29,40,-11.6

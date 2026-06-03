@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25652150,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,1967,2030,4.0,9,-1.35,40,-54.0,"Rishideep, Bordoloi",,1895.0,False,IND,0.0,1,-0.68,40,-27.2
+25652150,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,1967,2030,4.0,9,-1.35,40,-54.0,"Quek, Kristine",wf,1897.0,False,AUS,1.0,1,0.32,40,12.8
+25652150,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,1967,2030,4.0,9,-1.35,40,-54.0,"Attwood, James",,1849.0,False,AUS,1.0,1,0.26,40,10.4
+25652150,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,1967,2030,4.0,9,-1.35,40,-54.0,"Laohawirapap, Prin",m,2387.0,False,THA,0.0,1,-0.11,40,-4.4
+25652150,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,1967,2030,4.0,9,-1.35,40,-54.0,"Sreekarthika, Velmurugan",wc,1804.0,False,SGP,0.0,1,-0.79,40,-31.6
+25652150,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,1967,2030,4.0,9,-1.35,40,-54.0,"Dhanesh, Venkata Narayanaswamy",,1870.0,False,SGP,0.5,1,-0.21,40,-8.4
+25652150,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,1967,2030,4.0,9,-1.35,40,-54.0,"Liu, William Rui",,1872.0,False,NZL,0.5,1,-0.21,40,-8.4
+25652150,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,1967,2030,4.0,9,-1.35,40,-54.0,"Saravanan, Durga",,1867.0,False,SGP,1.0,1,0.28,40,11.2
+25652150,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,1967,2030,4.0,9,-1.35,40,-54.0,"Paciencia, Enrique",m,2263.0,False,SGP,0.0,1,-0.21,40,-8.4
+25652150,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2191,1995,4.0,8,1.79,40,71.6,"Md, Imran",f,2395.0,True,IND,0.0,1,-0.08,40,-3.2
+25652150,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2191,1995,4.0,8,1.79,40,71.6,"Debayan, Ray",,1913.0,False,IND,1.0,1,0.39,40,15.6
+25652150,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2191,1995,4.0,8,1.79,40,71.6,"Lavyaajyoti, Routray",,1833.0,False,IND,1.0,1,0.29,40,11.6
+25652150,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2191,1995,4.0,8,1.79,40,71.6,"Saurabh, Anand",,2223.0,False,IND,0.5,1,0.29,40,11.6
+25652150,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2191,1995,4.0,8,1.79,40,71.6,"Sahoo, Utkal Ranjan",,2283.0,False,IND,0.5,1,0.34,40,13.6
+25652150,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2191,1995,4.0,8,1.79,40,71.6,"Ajay, Santhosh Parvathareddy",f,2299.0,False,IND,0.5,1,0.36,40,14.4
+25652150,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2191,1995,4.0,8,1.79,40,71.6,"Nayak, Rajesh",c,2292.0,False,IND,0.5,1,0.35,40,14.0
+25652150,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2191,1995,4.0,8,1.79,40,71.6,"Aakash, G",c,2292.0,False,IND,0.0,1,-0.15,40,-6.0

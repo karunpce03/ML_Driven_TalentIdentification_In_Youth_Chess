@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48748234,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1642,1449,2.5,5,1.17,40,46.8,"Neelabh, Jyoti Borthakur",,1827.0,False,IND,0.0,1,-0.09,40,-3.6
+48748234,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1642,1449,2.5,5,1.17,40,46.8,"Arunabh, Bharalua",,1524.0,False,IND,0.5,1,0.1,40,4.0
+48748234,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1642,1449,2.5,5,1.17,40,46.8,"Supritom, Boruah",,1602.0,False,IND,0.5,1,0.2,40,8.0
+48748234,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1642,1449,2.5,5,1.17,40,46.8,"Pranab, Jyoti Boruah",,1581.0,False,IND,1.0,1,0.68,40,27.2
+48748234,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1642,1449,2.5,5,1.17,40,46.8,"Bitupon, Saika",,1674.0,False,IND,0.5,1,0.28,40,11.2

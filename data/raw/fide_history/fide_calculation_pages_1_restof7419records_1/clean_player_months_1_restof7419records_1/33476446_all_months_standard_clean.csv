@@ -1,0 +1,34 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33476446,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1734,1512,0.5,2,0.07,40,2.8,"Abhishek, J R",,1728.0,False,IND,0.0,1,-0.22,40,-8.8
+33476446,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1734,1512,0.5,2,0.07,40,2.8,"Karthikeyan, M.",,1740.0,False,IND,0.5,1,0.29,40,11.6
+33476446,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1616,1515,2.0,6,-0.28,40,-11.2,Saravanan,,1869.0,False,IND,0.5,1,0.39,40,15.6
+33476446,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1616,1515,2.0,6,-0.28,40,-11.2,"Prem, Muthu Avaneesh",,1656.0,False,USA,0.0,1,-0.31,40,-12.4
+33476446,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1616,1515,2.0,6,-0.28,40,-11.2,Raghunandan,,1655.0,False,IND,0.0,1,-0.31,40,-12.4
+33476446,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1616,1515,2.0,6,-0.28,40,-11.2,"Aditya, S",,1425.0,False,IND,1.0,1,0.38,40,15.2
+33476446,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1616,1515,2.0,6,-0.28,40,-11.2,"Yashwanth, Raj S",,1675.0,False,IND,0.0,1,-0.29,40,-11.6
+33476446,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1616,1515,2.0,6,-0.28,40,-11.2,"Saji, C C",,1415.0,False,IND,0.5,1,-0.14,40,-5.6
+33476446,2024-07-01,0,Tata Steel - 4th All India Specially Abled Chess Tournament-2024,Jamshedpur IND,2024-06-25,2024-06-28,1620,1504,1.5,5,-0.34,40,-13.6,"Vaibhav, Gautam",,1640.0,False,IND,0.0,1,-0.32,40,-12.8
+33476446,2024-07-01,0,Tata Steel - 4th All India Specially Abled Chess Tournament-2024,Jamshedpur IND,2024-06-25,2024-06-28,1620,1504,1.5,5,-0.34,40,-13.6,"Venkatesan, J",,1458.0,False,IND,0.5,1,-0.06,40,-2.4
+33476446,2024-07-01,0,Tata Steel - 4th All India Specially Abled Chess Tournament-2024,Jamshedpur IND,2024-06-25,2024-06-28,1620,1504,1.5,5,-0.34,40,-13.6,"Yesu, Babuk",,1590.0,False,IND,0.5,1,0.12,40,4.8
+33476446,2024-07-01,0,Tata Steel - 4th All India Specially Abled Chess Tournament-2024,Jamshedpur IND,2024-06-25,2024-06-28,1620,1504,1.5,5,-0.34,40,-13.6,"Thamaraiselvan, K",,1507.0,False,IND,0.5,1,0.0,40,0.0
+33476446,2024-07-01,0,Tata Steel - 4th All India Specially Abled Chess Tournament-2024,Jamshedpur IND,2024-06-25,2024-06-28,1620,1504,1.5,5,-0.34,40,-13.6,"Naveen, Kumar A.",,1904.0,True,IND,0.0,1,-0.08,40,-3.2
+33476446,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1873,1490,0.0,5,-0.45,40,-18.0,"McConnell, Griffin",,1890.0,True,USA,0.0,1,-0.08,40,-3.2
+33476446,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1873,1490,0.0,5,-0.45,40,-18.0,"Gerasimova, Svetlana",wf,1890.0,True,FID,0.0,1,-0.08,40,-3.2
+33476446,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1873,1490,0.0,5,-0.45,40,-18.0,"Tsapalin, Sergey",,1890.0,True,FID,0.0,1,-0.08,40,-3.2
+33476446,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1873,1490,0.0,5,-0.45,40,-18.0,"Roehrig, Uwe",,1806.0,False,GER,0.0,1,-0.13,40,-5.2
+33476446,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1873,1490,0.0,5,-0.45,40,-18.0,"Aleksandrova, Aleksandra",wf,1890.0,True,ISR,0.0,1,-0.08,40,-3.2
+33476446,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1594,1472,4.0,10,0.47,40,18.8,"Narahari, Geethika Hasini",,1833.0,False,IND,0.0,1,-0.1,40,-4.0
+33476446,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1594,1472,4.0,10,0.47,40,18.8,"Bindu, Saritha K.",wf,1705.0,False,IND,0.0,1,-0.21,40,-8.4
+33476446,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1594,1472,4.0,10,0.47,40,18.8,"Anjali, R. Sagar",,1685.0,False,IND,0.5,1,0.27,40,10.8
+33476446,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1594,1472,4.0,10,0.47,40,18.8,"Katari, Sajyotsna",,1681.0,False,IND,0.0,1,-0.23,40,-9.2
+33476446,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1594,1472,4.0,10,0.47,40,18.8,"Sasmitha, Sree B S",,1527.0,False,IND,0.0,1,-0.42,40,-16.8
+33476446,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1594,1472,4.0,10,0.47,40,18.8,"Kamalini, Haradhana Nimban K",,1418.0,False,IND,0.5,1,-0.08,40,-3.2
+33476446,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1594,1472,4.0,10,0.47,40,18.8,"Magathi, M",,1478.0,False,IND,0.5,1,0.01,40,0.4
+33476446,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1594,1472,4.0,10,0.47,40,18.8,"Ichchha, Sahu",,1419.0,False,IND,1.0,1,0.43,40,17.2
+33476446,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1594,1472,4.0,10,0.47,40,18.8,"Puviya, Sureshkumar",,1466.0,False,IND,1.0,1,0.49,40,19.6
+33476446,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1594,1472,4.0,10,0.47,40,18.8,"Ameya, A R",,1724.0,False,IND,0.5,1,0.31,40,12.4
+33476446,2024-12-01,0,Asian Chess Championship for Players with Disabilities 2024 - Girls,Bishkek KGZ,2024-11-11,2024-11-17,1558,1491,2.5,5,0.46,40,18.4,"Ikromalieva, Sabokhat",,1629.0,False,UZB,0.5,1,0.19,40,7.6
+33476446,2024-12-01,0,Asian Chess Championship for Players with Disabilities 2024 - Girls,Bishkek KGZ,2024-11-11,2024-11-17,1558,1491,2.5,5,0.46,40,18.4,"Izentayeva, Aynura",,1490.0,False,UZB,0.0,1,-0.5,40,-20.0
+33476446,2024-12-01,0,Asian Chess Championship for Players with Disabilities 2024 - Girls,Bishkek KGZ,2024-11-11,2024-11-17,1558,1491,2.5,5,0.46,40,18.4,"Osmanova, Alina",,1554.0,False,FID,1.0,1,0.59,40,23.6
+33476446,2024-12-01,0,Asian Chess Championship for Players with Disabilities 2024 - Girls,Bishkek KGZ,2024-11-11,2024-11-17,1558,1491,2.5,5,0.46,40,18.4,"Konyakhina, Angelina",,1550.0,False,FID,0.0,1,-0.42,40,-16.8
+33476446,2024-12-01,0,Asian Chess Championship for Players with Disabilities 2024 - Girls,Bishkek KGZ,2024-11-11,2024-11-17,1558,1491,2.5,5,0.46,40,18.4,"Drugova, Kira",,1566.0,False,FID,1.0,1,0.6,40,24.0

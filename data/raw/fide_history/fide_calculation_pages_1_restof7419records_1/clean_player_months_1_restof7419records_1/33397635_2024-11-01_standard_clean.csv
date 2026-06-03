@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33397635,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1717,1755,4.5,8,0.04,40,1.6,"Shourya, Gupta",,1531,False,IND,1.0,1,0.22,40,8.8
+33397635,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1717,1755,4.5,8,0.04,40,1.6,"Pranay, Akula",,1934,False,IND,0.0,1,-0.27,40,-10.8
+33397635,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1717,1755,4.5,8,0.04,40,1.6,"Yashmith, Ram Chaikam",,1544,False,KEN,1.0,1,0.23,40,9.2
+33397635,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1717,1755,4.5,8,0.04,40,1.6,"Matta, Vinay Kumar",f,2155,True,IND,0.5,1,0.42,40,16.8
+33397635,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1717,1755,4.5,8,0.04,40,1.6,"Vishal, Choudary B",,1967,False,IND,0.0,1,-0.23,40,-9.2
+33397635,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1717,1755,4.5,8,0.04,40,1.6,"Sangamesh, V Sugandhi",,1572,False,IND,0.0,1,-0.74,40,-29.6
+33397635,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1717,1755,4.5,8,0.04,40,1.6,"Prahalad, Moola",,1473,False,IND,1.0,1,0.16,40,6.4
+33397635,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1717,1755,4.5,8,0.04,40,1.6,"Anmol, Mathur",,1558,False,IND,1.0,1,0.25,40,10.0

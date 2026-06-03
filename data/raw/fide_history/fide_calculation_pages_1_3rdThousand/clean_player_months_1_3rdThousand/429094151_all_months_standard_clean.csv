@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429094151,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,1.0,5,0.0,1238,,"Bhondave, Shourya",,1504.0,False,IND,0.0,1,0.0,,0.0
+429094151,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,1.0,5,0.0,1238,,"Anish, Abhijeet Jawalkar",,1494.0,False,IND,0.0,1,0.0,,0.0
+429094151,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,1.0,5,0.0,1238,,"Vihaan, V",,1477.0,False,IND,0.0,1,0.0,,0.0
+429094151,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,1.0,5,0.0,1238,,"Yuvan, Mule",,1435.0,False,IND,0.0,1,0.0,,0.0
+429094151,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,1.0,5,0.0,1238,,"Dhanabairav, S",,1482.0,False,IND,1.0,1,0.0,,0.0
+429094151,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1534.0,1412.0,1.0,5,-0.69,40,-27.6,"Chiraranjan, Bhuyan",,1662.0,False,IND,0.0,1,-0.19,40.0,-7.6
+429094151,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1534.0,1412.0,1.0,5,-0.69,40,-27.6,"Raagneel, Borgohain",,1514.0,False,IND,0.0,1,-0.36,40.0,-14.4
+429094151,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1534.0,1412.0,1.0,5,-0.69,40,-27.6,"Bhaktideep, Phukon",,1466.0,False,IND,1.0,1,0.58,40.0,23.2
+429094151,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1534.0,1412.0,1.0,5,-0.69,40,-27.6,"Ashutosh, Buragohain",,1542.0,False,IND,0.0,1,-0.32,40.0,-12.8
+429094151,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1534.0,1412.0,1.0,5,-0.69,40,-27.6,"Siddharth, Dutta",,1485.0,False,IND,0.0,1,-0.4,40.0,-16.0

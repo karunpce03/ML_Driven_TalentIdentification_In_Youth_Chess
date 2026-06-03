@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429099323,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,2,0.0,672,,"Kavin, Jaideep",,1500,False,IND,0.0,1,0.0,,0.0
+429099323,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,2,0.0,672,,Balakrishnan,,1444,False,IND,0.0,1,0.0,,0.0
+429099323,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,,,2.5,7,0.0,1366,,"Dharunekaa, J",,1486,False,IND,0.0,1,0.0,,0.0
+429099323,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,,,2.5,7,0.0,1366,,"Abdul, Nazer K",,1463,False,IND,1.0,1,0.0,,0.0
+429099323,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,,,2.5,7,0.0,1366,,"Askkar, Ali P",,1482,False,IND,0.0,1,0.0,,0.0
+429099323,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,,,2.5,7,0.0,1366,,"Selvarajan, T R",,1417,False,IND,0.5,1,0.0,,0.0
+429099323,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,,,2.5,7,0.0,1366,,Ajayvijendrababu,,1483,False,IND,1.0,1,0.0,,0.0
+429099323,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,,,2.5,7,0.0,1366,,"Murali, N P",,1512,False,IND,0.0,1,0.0,,0.0
+429099323,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,,,2.5,7,0.0,1366,,"Shivad, S",,1432,False,IND,0.0,1,0.0,,0.0

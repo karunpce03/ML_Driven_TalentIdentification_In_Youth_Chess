@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48721468,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1676,1559,2.5,6,0.42,40,16.8,"Majji, Ram Charan Teja",,1734.0,False,IND,0.0,1,-0.27,40,-10.8
+48721468,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1676,1559,2.5,6,0.42,40,16.8,"Vegi, Bhavishnu Sai Sivaji",,1740.0,False,IND,0.5,1,0.24,40,9.6
+48721468,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1676,1559,2.5,6,0.42,40,16.8,"Md, Anwar",,1739.0,False,IND,0.5,1,0.24,40,9.6
+48721468,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1676,1559,2.5,6,0.42,40,16.8,"Rohan, Kumar Gourabathuni",,1737.0,False,IND,0.0,1,-0.27,40,-10.8
+48721468,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1676,1559,2.5,6,0.42,40,16.8,"Reddi, Satwik",,1467.0,False,IND,1.0,1,0.37,40,14.8
+48721468,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1676,1559,2.5,6,0.42,40,16.8,"Vamsi Krishna, R",,1641.0,False,IND,0.5,1,0.11,40,4.4

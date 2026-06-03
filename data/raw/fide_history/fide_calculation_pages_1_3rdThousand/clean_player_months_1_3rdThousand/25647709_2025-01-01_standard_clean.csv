@@ -1,0 +1,28 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25647709,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2399,2335,4.0,8,0.68,10,6.8,"Madaminov, Mukhiddin",g,2501.0,False,UZB,0.0,1,-0.28,10,-2.8
+25647709,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2399,2335,4.0,8,0.68,10,6.8,"Goutham, Krishna H",m,2466.0,False,IND,1.0,1,0.68,10,6.8
+25647709,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2399,2335,4.0,8,0.68,10,6.8,"Jubin, Jimmy",m,2453.0,False,IND,0.0,1,-0.34,10,-3.4
+25647709,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2399,2335,4.0,8,0.68,10,6.8,"Kabilov, Amin",c,2258.0,False,TJK,0.0,1,-0.61,10,-6.1
+25647709,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2399,2335,4.0,8,0.68,10,6.8,"Suleymanli, Suleyman",f,2297.0,False,AZE,1.0,1,0.45,10,4.5
+25647709,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2399,2335,4.0,8,0.68,10,6.8,"Vivaan, Vishal Shah",c,2296.0,False,IND,1.0,1,0.45,10,4.5
+25647709,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2399,2335,4.0,8,0.68,10,6.8,"Sahib, Singh",f,2438.0,False,IND,0.0,1,-0.36,10,-3.6
+25647709,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2399,2335,4.0,8,0.68,10,6.8,"Urazayev, Arystanbek",m,2480.0,False,KAZ,1.0,1,0.69,10,6.9
+25647709,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2377,2335,2.5,9,-1.5,10,-15.0,"Harutyunyan, Tigran K.",g,2524.0,False,ARM,0.0,1,-0.25,10,-2.5
+25647709,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2377,2335,2.5,9,-1.5,10,-15.0,"Luong, Phuong Hanh",wm,2225.0,False,VIE,1.0,1,0.35,10,3.5
+25647709,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2377,2335,2.5,9,-1.5,10,-15.0,"Suyarov, Mukhammadzokhid",f,2466.0,False,UZB,0.5,1,0.18,10,1.8
+25647709,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2377,2335,2.5,9,-1.5,10,-15.0,"Swayams, Mishra",g,2456.0,False,IND,0.5,1,0.16,10,1.6
+25647709,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2377,2335,2.5,9,-1.5,10,-15.0,"Tahbaz, Arash",m,2432.0,False,IRI,0.0,1,-0.37,10,-3.7
+25647709,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2377,2335,2.5,9,-1.5,10,-15.0,"Vantika, Agrawal",m wg,2392.0,False,IND,0.0,1,-0.42,10,-4.2
+25647709,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2377,2335,2.5,9,-1.5,10,-15.0,"Garv, Rai",,2277.0,False,IND,0.0,1,-0.58,10,-5.8
+25647709,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2377,2335,2.5,9,-1.5,10,-15.0,"Vaibhav, Jayant Raut",c,2304.0,False,IND,0.0,1,-0.54,10,-5.4
+25647709,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2377,2335,2.5,9,-1.5,10,-15.0,"Omar, Noaman",m,2315.0,False,UAE,0.5,1,-0.03,10,-0.3
+25647709,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2242,2335,6.0,10,-0.06,10,-0.6,"Shreyash, Shuvam Patnaik",,1957.0,False,IND,1.0,1,0.09,10,0.9
+25647709,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2242,2335,6.0,10,-0.06,10,-0.6,"Kalyani, Sirin",wf,2080.0,False,IND,0.5,1,-0.31,10,-3.1
+25647709,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2242,2335,6.0,10,-0.06,10,-0.6,"Baivab, Mishra",,2149.0,False,IND,0.5,1,-0.24,10,-2.4
+25647709,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2242,2335,6.0,10,-0.06,10,-0.6,"Kumar, Gaurav",f,2090.0,False,IND,1.0,1,0.2,10,2.0
+25647709,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2242,2335,6.0,10,-0.06,10,-0.6,"Ayush, Sharma",f,2466.0,False,IND,1.0,1,0.68,10,6.8
+25647709,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2242,2335,6.0,10,-0.06,10,-0.6,"Deepan, Chakkravarthy J.",g,2408.0,False,IND,0.0,1,-0.4,10,-4.0
+25647709,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2242,2335,6.0,10,-0.06,10,-0.6,"Daksh, Goyal",,2116.0,False,IND,1.0,1,0.22,10,2.2
+25647709,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2242,2335,6.0,10,-0.06,10,-0.6,"Das, Sayantan",g,2437.0,False,IND,0.0,1,-0.36,10,-3.6
+25647709,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2242,2335,6.0,10,-0.06,10,-0.6,"Harshit, Ranjan Sahu",,2208.0,False,IND,1.0,1,0.33,10,3.3
+25647709,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2242,2335,6.0,10,-0.06,10,-0.6,"Mitrabha, Guha",g,2507.0,False,IND,0.0,1,-0.27,10,-2.7

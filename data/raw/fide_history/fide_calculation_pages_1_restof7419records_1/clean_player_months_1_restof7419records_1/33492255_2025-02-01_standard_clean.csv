@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33492255,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1590,1463,0.0,3,-0.98,40,-39.2,"Pratyush, Kumar",,1635.0,False,IND,0.0,1,-0.27,40,-10.8
+33492255,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1590,1463,0.0,3,-0.98,40,-39.2,"Samriddh, Khare",,1549.0,False,IND,0.0,1,-0.38,40,-15.2
+33492255,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1590,1463,0.0,3,-0.98,40,-39.2,"Dekate, Devansh Lalit",,1587.0,False,IND,0.0,1,-0.33,40,-13.2

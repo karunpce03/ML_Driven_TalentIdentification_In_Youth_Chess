@@ -1,0 +1,47 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33436134,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1618,1455,1.0,4,-0.15,40,-6.0,"Athira, A J",,1666.0,False,IND,0.5,1,0.27,40,10.8
+33436134,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1618,1455,1.0,4,-0.15,40,-6.0,"Sai, Vijay P",,1575.0,False,IND,0.0,1,-0.34,40,-13.6
+33436134,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1618,1455,1.0,4,-0.15,40,-6.0,"Samarth, Arun Upadhyaya",,1650.0,False,IND,0.5,1,0.25,40,10.0
+33436134,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1618,1455,1.0,4,-0.15,40,-6.0,"Aradyo, Bhattacharyya",,1579.0,False,IND,0.0,1,-0.33,40,-13.2
+33436134,2024-08-01,0,Aarhus Sommerskak EMT 2024 - 5,Aarhus DEN,2024-07-01,2024-07-05,1544,1449,1.0,2,0.26,40,10.4,"Traczewski, Wojciech",,1583.0,False,POL,0.0,1,-0.32,40,-12.8
+33436134,2024-08-01,0,Aarhus Sommerskak EMT 2024 - 5,Aarhus DEN,2024-07-01,2024-07-05,1544,1449,1.0,2,0.26,40,10.4,"Hartvig Mortensen, Sofie Amalie",,1505.0,False,DEN,1.0,1,0.58,40,23.2
+33436134,2024-09-01,0,Evans Efteraar 2024 - 3 Round 1-2,Vejle DEN,2024-08-15,2024-08-29,1582,1459,2.0,2,1.32,40,52.8,"Sletten, Bertram",,1520.0,False,DEN,1.0,1,0.58,40,23.2
+33436134,2024-09-01,0,Evans Efteraar 2024 - 3 Round 1-2,Vejle DEN,2024-08-15,2024-08-29,1582,1459,2.0,2,1.32,40,52.8,"Mogensen, Jan",,1643.0,False,DEN,1.0,1,0.74,40,29.6
+33436134,2024-10-01,0,Horsens Efteraar 2024 - 1 Round 1-4,Horsens DEN,2024-08-20,2024-09-17,1859,1459,0.0,1,-0.08,40,-3.2,"Rasmussen, Lars Garne",,1859.0,True,DEN,0.0,1,-0.08,40,-3.2
+33436134,2024-10-01,0,Frem Skakklubs junior klubmesterskab 2024 Round 1-4,Odense DEN,2024-08-26,2024-09-23,1613,1459,1.5,2,0.91,40,36.4,"Dahlmann, Jacob Kamuk",,1635.0,False,DEN,1.0,1,0.73,40,29.2
+33436134,2024-10-01,0,Frem Skakklubs junior klubmesterskab 2024 Round 1-4,Odense DEN,2024-08-26,2024-09-23,1613,1459,1.5,2,0.91,40,36.4,"Jakobsen, Alex",,1590.0,False,DEN,0.5,1,0.18,40,7.2
+33436134,2024-10-01,0,Evans Efteraar 2024 - 3 Round 3-4,Vejle DEN,2024-09-12,2024-09-26,1446,1512,1.0,1,0.41,40,16.4,"Ekanayake, Chanuga Damdinu",,1446.0,False,SRI,1.0,1,0.41,40,16.4
+33436134,2024-11-01,0,Ungdoms-DM 2024 - U12,Odense DEN,2024-10-05,2024-10-06,1693,1562,5.0,7,2.62,40,104.8,"Czapp, Rafal",,1447.0,False,DEN,1.0,1,0.34,40,13.6
+33436134,2024-11-01,0,Ungdoms-DM 2024 - U12,Odense DEN,2024-10-05,2024-10-06,1693,1562,5.0,7,2.62,40,104.8,"Bekmukhanov, Sauran",,1906.0,False,DEN,0.5,1,0.38,40,15.2
+33436134,2024-11-01,0,Ungdoms-DM 2024 - U12,Odense DEN,2024-10-05,2024-10-06,1693,1562,5.0,7,2.62,40,104.8,"Andersen, Frederik",,1603.0,False,DEN,0.5,1,0.06,40,2.4
+33436134,2024-11-01,0,Ungdoms-DM 2024 - U12,Odense DEN,2024-10-05,2024-10-06,1693,1562,5.0,7,2.62,40,104.8,"Vo, Charlie",,1668.0,False,DEN,0.5,1,0.14,40,5.6
+33436134,2024-11-01,0,Ungdoms-DM 2024 - U12,Odense DEN,2024-10-05,2024-10-06,1693,1562,5.0,7,2.62,40,104.8,"Kamal, Yogasimman",,1688.0,False,DEN,1.0,1,0.67,40,26.8
+33436134,2024-11-01,0,Ungdoms-DM 2024 - U12,Odense DEN,2024-10-05,2024-10-06,1693,1562,5.0,7,2.62,40,104.8,"Ravikumar, Hanesh",,1781.0,False,DEN,0.5,1,0.28,40,11.2
+33436134,2024-11-01,0,Ungdoms-DM 2024 - U12,Odense DEN,2024-10-05,2024-10-06,1693,1562,5.0,7,2.62,40,104.8,"Larsen, Jonas Bogh",,1755.0,False,DEN,1.0,1,0.75,40,30.0
+33436134,2024-11-01,0,Evans Efteraar 2024 - 3 Round 5-6,Vejle DEN,2024-10-10,2024-10-24,1500,1562,2.0,2,0.82,40,32.8,"Romhild, Per",,1500.0,False,DEN,1.0,1,0.41,40,16.4
+33436134,2024-11-01,0,Evans Efteraar 2024 - 3 Round 5-6,Vejle DEN,2024-10-10,2024-10-24,1500,1562,2.0,2,0.82,40,32.8,"Jorgensen, Kristoffer Pindstrup",,1500.0,False,DEN,1.0,1,0.41,40,16.4
+33436134,2024-11-01,0,Odensemesterskabet 2024 - 17,Odense DEN,2024-10-11,2024-10-13,1558,1562,4.5,5,1.98,40,79.2,"Hartvig Mortensen, Sofie Amalie",,1466.0,False,DEN,1.0,1,0.37,40,14.8
+33436134,2024-11-01,0,Odensemesterskabet 2024 - 17,Odense DEN,2024-10-11,2024-10-13,1558,1562,4.5,5,1.98,40,79.2,"Nielsen, Pia",,1618.0,False,DEN,1.0,1,0.58,40,23.2
+33436134,2024-11-01,0,Odensemesterskabet 2024 - 17,Odense DEN,2024-10-11,2024-10-13,1558,1562,4.5,5,1.98,40,79.2,"Andersen, Frederik",,1603.0,False,DEN,1.0,1,0.56,40,22.4
+33436134,2024-11-01,0,Odensemesterskabet 2024 - 17,Odense DEN,2024-10-11,2024-10-13,1558,1562,4.5,5,1.98,40,79.2,"Elcer, Spencer Skoubo",,1534.0,False,DEN,1.0,1,0.46,40,18.4
+33436134,2024-11-01,0,Odensemesterskabet 2024 - 17,Odense DEN,2024-10-11,2024-10-13,1558,1562,4.5,5,1.98,40,79.2,"Jepsen, Mikkel Kvist",,1568.0,False,DEN,0.5,1,0.01,40,0.4
+33436134,2024-12-01,0,Frem Skakklubs junior klubmesterskab 2024 Round 5-7,Odense DEN,2024-11-04,2024-11-18,1627,1779,2.0,2,0.59,40,23.6,"Fynbo, Peter Bille",,1663.0,False,DEN,1.0,1,0.34,40,13.6
+33436134,2024-12-01,0,Frem Skakklubs junior klubmesterskab 2024 Round 5-7,Odense DEN,2024-11-04,2024-11-18,1627,1779,2.0,2,0.59,40,23.6,"Johansen, Nikolaj",,1590.0,False,DEN,1.0,1,0.25,40,10.0
+33436134,2025-01-01,0,Evans Efteraar 2024 - 3 Round 7-9,Vejle DEN,2024-10-31,2024-12-05,1603,1562,2.0,2,1.1,40,44.0,"Kristiansen, Mads Dam",,1450.0,False,DEN,1.0,1,0.35,40,14.0
+33436134,2025-01-01,0,Evans Efteraar 2024 - 3 Round 7-9,Vejle DEN,2024-10-31,2024-12-05,1603,1562,2.0,2,1.1,40,44.0,"Larsen, Jonas Bogh",,1755.0,False,DEN,1.0,1,0.75,40,30.0
+33436134,2025-01-01,0,Fredericia Skakforenings Klubmesterskab 2024-25 Round 1-4,Fredericia DEN,2024-11-18,2024-12-09,2013,1779,2.5,3,1.87,40,74.8,"Jakobsen, Jonas Nybo",,1962.0,False,DEN,0.5,1,0.24,40,9.6
+33436134,2025-01-01,0,Fredericia Skakforenings Klubmesterskab 2024-25 Round 1-4,Fredericia DEN,2024-11-18,2024-12-09,2013,1779,2.5,3,1.87,40,74.8,"Jakobsen, Niels Nybo",,2043.0,False,DEN,1.0,1,0.82,40,32.8
+33436134,2025-01-01,0,Fredericia Skakforenings Klubmesterskab 2024-25 Round 1-4,Fredericia DEN,2024-11-18,2024-12-09,2013,1779,2.5,3,1.87,40,74.8,"Hye, Allan",,2034.0,False,DEN,1.0,1,0.81,40,32.4
+33436134,2025-01-01,0,3HK Team 2024-2025 December,Various DEN,2024-12-02,2024-12-08,1789,1803,1.0,1,0.48,40,19.2,"Fyhn, Buster Hulthin",,1789.0,False,DEN,1.0,1,0.48,40,19.2
+33436134,2025-02-01,0,Fredericia Skakforenings Klubmesterskab 2024-25 Round 5-6,Fredericia DEN,2025-01-06,2025-01-20,2006,1941,1.0,2,0.16,40,6.4,"Motzkus, Mikkel",,2111.0,False,DEN,0.0,1,-0.28,40,-11.2
+33436134,2025-02-01,0,Fredericia Skakforenings Klubmesterskab 2024-25 Round 5-6,Fredericia DEN,2025-01-06,2025-01-20,2006,1941,1.0,2,0.16,40,6.4,"Easwaralingam, Janith",,1900.0,False,DEN,1.0,1,0.44,40,17.6
+33436134,2025-03-01,0,3HK Team 2024-2025 Jan-Feb,Various DEN,2025-01-13,2025-02-09,1941,1941,0.5,1,0.0,40,0.0,"Johansen, Johnny Holler",,1941.0,False,DEN,0.5,1,0.0,40,0.0
+33436134,2025-03-01,0,Fynsmesterkabet 2025 - 1 Round 1-3,Odense DEN,2025-01-23,2025-02-20,1967,1941,1.5,3,0.11,40,4.4,"Hansen, Jeppe",,1867.0,False,DEN,1.0,1,0.4,40,16.0
+33436134,2025-03-01,0,Fynsmesterkabet 2025 - 1 Round 1-3,Odense DEN,2025-01-23,2025-02-20,1967,1941,1.5,3,0.11,40,4.4,"Sandmann, Villads Majvang",,2043.0,False,DEN,0.0,1,-0.36,40,-14.4
+33436134,2025-03-01,0,Fynsmesterkabet 2025 - 1 Round 1-3,Odense DEN,2025-01-23,2025-02-20,1967,1941,1.5,3,0.11,40,4.4,"Frydendahl, Noah Skotte",,1991.0,False,DEN,0.5,1,0.07,40,2.8
+33436134,2025-04-01,0,Fredericia Skakforenings Klubmesterskab 2024-25 Round 7-9,Fredericia DEN,2025-02-17,2025-03-17,1804,1947,1.0,2,-0.36,40,-14.4,"Sorensen, Frederik",,1901.0,False,DEN,0.0,1,-0.56,40,-22.4
+33436134,2025-04-01,0,Fredericia Skakforenings Klubmesterskab 2024-25 Round 7-9,Fredericia DEN,2025-02-17,2025-03-17,1804,1947,1.0,2,-0.36,40,-14.4,"Tandrup, Ludvig",,1707.0,False,DEN,1.0,1,0.2,40,8.0
+33436134,2025-04-01,0,Fynsmesterkabet 2025 - 1 Round 4-7,Odense DEN,2025-02-27,2025-03-27,1960,1947,1.0,3,-0.45,40,-18.0,"Stage, Jan",,2069.0,False,DEN,0.5,1,0.17,40,6.8
+33436134,2025-04-01,0,Fynsmesterkabet 2025 - 1 Round 4-7,Odense DEN,2025-02-27,2025-03-27,1960,1947,1.0,3,-0.45,40,-18.0,"Poulsen, Jesper Schmidt",,1911.0,False,DEN,0.5,1,-0.05,40,-2.0
+33436134,2025-04-01,0,Fynsmesterkabet 2025 - 1 Round 4-7,Odense DEN,2025-02-27,2025-03-27,1960,1947,1.0,3,-0.45,40,-18.0,"Skaelbaek, Noah",,1899.0,False,DEN,0.0,1,-0.57,40,-22.8
+33436134,2025-04-01,0,3HK Team 2024-2025 Mar,Various DEN,2025-03-02,2025-03-23,1869,1951,1.0,1,0.39,40,15.6,"Kiel, Jorgen",,1869.0,False,DEN,1.0,1,0.39,40,15.6

@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33480699,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1516,1551,2.5,7,-1.34,40,-53.6,"Raveesh, Kote",,1740.0,False,IND,0.0,1,-0.25,40,-10.0
+33480699,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1516,1551,2.5,7,-1.34,40,-53.6,"Avyaay, Garg",,1678.0,False,IND,0.0,1,-0.33,40,-13.2
+33480699,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1516,1551,2.5,7,-1.34,40,-53.6,"Shrinidhi, S",,1444.0,False,IND,0.0,1,-0.65,40,-26.0
+33480699,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1516,1551,2.5,7,-1.34,40,-53.6,"Khandelwal, Ananya",,1416.0,False,IND,0.5,1,-0.18,40,-7.2
+33480699,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1516,1551,2.5,7,-1.34,40,-53.6,"Tejas, Wadhwani",,1431.0,False,IND,0.0,1,-0.66,40,-26.4
+33480699,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1516,1551,2.5,7,-1.34,40,-53.6,"Harshith, Surianarayanan",,1434.0,False,IND,1.0,1,0.34,40,13.6
+33480699,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1516,1551,2.5,7,-1.34,40,-53.6,"Harshitha, B J",,1470.0,False,IND,1.0,1,0.39,40,15.6

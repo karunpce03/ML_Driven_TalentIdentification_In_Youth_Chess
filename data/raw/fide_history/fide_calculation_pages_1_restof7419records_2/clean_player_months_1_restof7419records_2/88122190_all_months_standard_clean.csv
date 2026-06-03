@@ -1,0 +1,61 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88122190,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1924,1659,4.5,9,2.83,40,113.2,"Yu, Zechen",,1952.0,False,CHN,0.5,1,0.35,40,14.0
+88122190,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1924,1659,4.5,9,2.83,40,113.2,"Al-Qudaimi, Abdullah",,1898.0,False,YEM,1.0,1,0.8,40,32.0
+88122190,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1924,1659,4.5,9,2.83,40,113.2,"Zhou, Yichen",,2023.0,False,CHN,0.0,1,-0.1,40,-4.0
+88122190,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1924,1659,4.5,9,2.83,40,113.2,"Sabirova, Shakhnoza",,1873.0,False,UZB,0.5,1,0.27,40,10.8
+88122190,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1924,1659,4.5,9,2.83,40,113.2,"Nurahmad, Tabriz",,1875.0,False,AZE,1.0,1,0.78,40,31.2
+88122190,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1924,1659,4.5,9,2.83,40,113.2,"Harutyunyan, Arman G.",,1958.0,False,ARM,0.0,1,-0.15,40,-6.0
+88122190,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1924,1659,4.5,9,2.83,40,113.2,"Yunusov, Adkham",,2059.0,True,UZB,0.0,1,-0.08,40,-3.2
+88122190,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1924,1659,4.5,9,2.83,40,113.2,"Aditi, Arun",,1781.0,False,IND,1.0,1,0.67,40,26.8
+88122190,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1924,1659,4.5,9,2.83,40,113.2,"Shubh, Kapur",,1894.0,False,IND,0.5,1,0.29,40,11.6
+88122190,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1855,1659,5.0,8,2.82,40,112.8,"Minesh, Patil",,1436.0,False,IND,1.0,1,0.22,40,8.8
+88122190,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1855,1659,5.0,8,2.82,40,112.8,"Gowrishankar, Jayaraj",,1924.0,False,IND,1.0,1,0.82,40,32.8
+88122190,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1855,1659,5.0,8,2.82,40,112.8,"Bhuvan, Krishna Prasanth",,1940.0,False,IND,1.0,1,0.84,40,33.6
+88122190,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1855,1659,5.0,8,2.82,40,112.8,"Hamidov, Allahverdi",f,2059.0,True,AZE,0.5,1,0.42,40,16.8
+88122190,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1855,1659,5.0,8,2.82,40,112.8,"Saydaliev, Akobirkhon",f,2059.0,True,UZB,0.0,1,-0.08,40,-3.2
+88122190,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1855,1659,5.0,8,2.82,40,112.8,"Abhinav, Benny",,1805.0,False,IND,0.5,1,0.2,40,8.0
+88122190,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1855,1659,5.0,8,2.82,40,112.8,"Dev, Sankar S",,1758.0,False,IND,1.0,1,0.64,40,25.6
+88122190,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1855,1659,5.0,8,2.82,40,112.8,"Chekanov, Timur",,1859.0,False,FID,0.0,1,-0.24,40,-9.6
+88122190,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1667,1885,4.5,6,0.01,40,0.4,"Bou Hamdan, Hani.",,1485.0,True,SYR,1.0,1,0.08,40,3.2
+88122190,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1667,1885,4.5,6,0.01,40,0.4,"Taksh, Agrawal",,1599.0,False,IND,1.0,1,0.16,40,6.4
+88122190,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1667,1885,4.5,6,0.01,40,0.4,"Mithilesh, Ranjithkumar",,1954.0,False,IND,0.0,1,-0.4,40,-16.0
+88122190,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1667,1885,4.5,6,0.01,40,0.4,"Ezhil, Aadhav Kaladharan",,1783.0,False,IND,1.0,1,0.36,40,14.4
+88122190,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1667,1885,4.5,6,0.01,40,0.4,"Nishaanth, Vidyasagar",,1631.0,False,IND,0.5,1,-0.31,40,-12.4
+88122190,2024-10-01,0,Minds Challenge Classic Tournament,Kuwait KUW,2024-09-02,2024-09-08,1667,1885,4.5,6,0.01,40,0.4,"Bhavanya, Panchumarthi",,1547.0,False,IND,1.0,1,0.12,40,4.8
+88122190,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1609,1885,6.0,10,-2.24,40,-89.6,"Vivan, Hota",,1485.0,True,IND,0.0,1,-0.92,40,-36.8
+88122190,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1609,1885,6.0,10,-2.24,40,-89.6,"Lella, Devaansh",,1485.0,True,IND,1.0,1,0.08,40,3.2
+88122190,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1609,1885,6.0,10,-2.24,40,-89.6,"Kritagya, Singh",,1540.0,False,IND,1.0,1,0.11,40,4.4
+88122190,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1609,1885,6.0,10,-2.24,40,-89.6,"Sathvik, Gulakaram",,1636.0,False,IND,0.5,1,-0.31,40,-12.4
+88122190,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1609,1885,6.0,10,-2.24,40,-89.6,"Dhruv, Gupta",,1642.0,False,IND,0.5,1,-0.3,40,-12.0
+88122190,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1609,1885,6.0,10,-2.24,40,-89.6,"Arnav, Goyal",,1594.0,False,IND,1.0,1,0.15,40,6.0
+88122190,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1609,1885,6.0,10,-2.24,40,-89.6,"Anish, Ramkumar",,1680.0,False,IND,0.5,1,-0.26,40,-10.4
+88122190,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1609,1885,6.0,10,-2.24,40,-89.6,"Advik, Reddy Moate",,1688.0,False,IND,0.5,1,-0.25,40,-10.0
+88122190,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1609,1885,6.0,10,-2.24,40,-89.6,"Pratyush, Kumar",,1627.0,False,IND,1.0,1,0.18,40,7.2
+88122190,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1609,1885,6.0,10,-2.24,40,-89.6,"Deepak, Raj Hari",,1715.0,False,IND,0.0,1,-0.72,40,-28.8
+88122190,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1728,1795,6.5,7,2.4,40,96.0,"Awadh, Mohammad",,1530.0,False,KUW,1.0,1,0.18,40,7.2
+88122190,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1728,1795,6.5,7,2.4,40,96.0,"Vishwesh, Sivanantham",,1623.0,False,IND,1.0,1,0.27,40,10.8
+88122190,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1728,1795,6.5,7,2.4,40,96.0,"Advik, Srinivasan",,1654.0,False,IND,0.5,1,-0.19,40,-7.6
+88122190,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1728,1795,6.5,7,2.4,40,96.0,"Youssef Ahmed, Youssef",,1915.0,False,EGY,1.0,1,0.66,40,26.4
+88122190,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1728,1795,6.5,7,2.4,40,96.0,"Alazmi, Amani",wc,1634.0,False,KUW,1.0,1,0.29,40,11.6
+88122190,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1728,1795,6.5,7,2.4,40,96.0,"Mithilesh, Ranjithkumar",,2022.0,False,IND,1.0,1,0.79,40,31.6
+88122190,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1728,1795,6.5,7,2.4,40,96.0,"Khalid, Lodhi",,1720.0,False,PAK,1.0,1,0.4,40,16.0
+88122190,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1742,1891,3.0,4,0.32,40,12.8,"Adel, Joseph",,1542.0,False,IND,1.0,1,0.11,40,4.4
+88122190,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1742,1891,3.0,4,0.32,40,12.8,"Abel, Joseph",,1613.0,False,IND,1.0,1,0.17,40,6.8
+88122190,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1742,1891,3.0,4,0.32,40,12.8,"Youssef Ahmed, Youssef",,1887.0,False,EGY,1.0,1,0.49,40,19.6
+88122190,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1742,1891,3.0,4,0.32,40,12.8,"Saad, Amer Mohamed",,1926.0,False,EGY,0.0,1,-0.45,40,-18.0
+88122190,2025-02-01,0,1st Kuwait International Chess Festival-Open Master 2025,Kuwait KUW,2025-01-05,2025-01-13,2087,1904,4.0,9,1.25,40,50.0,"Viani, Antonio Dcunha",m,2304.0,True,IND,0.0,1,-0.08,40,-3.2
+88122190,2025-02-01,0,1st Kuwait International Chess Festival-Open Master 2025,Kuwait KUW,2025-01-05,2025-01-13,2087,1904,4.0,9,1.25,40,50.0,"Alasfour, Zaid",,1762.0,False,KUW,1.0,1,0.31,40,12.4
+88122190,2025-02-01,0,1st Kuwait International Chess Festival-Open Master 2025,Kuwait KUW,2025-01-05,2025-01-13,2087,1904,4.0,9,1.25,40,50.0,"Bellahcene, Bilel",g,2304.0,True,ALG,0.5,1,0.42,40,16.8
+88122190,2025-02-01,0,1st Kuwait International Chess Festival-Open Master 2025,Kuwait KUW,2025-01-05,2025-01-13,2087,1904,4.0,9,1.25,40,50.0,"Mithilesh, Ranjithkumar",,1918.0,False,IND,1.0,1,0.52,40,20.8
+88122190,2025-02-01,0,1st Kuwait International Chess Festival-Open Master 2025,Kuwait KUW,2025-01-05,2025-01-13,2087,1904,4.0,9,1.25,40,50.0,"Ahlam, Rashed",wf,1935.0,False,UAE,1.0,1,0.54,40,21.6
+88122190,2025-02-01,0,1st Kuwait International Chess Festival-Open Master 2025,Kuwait KUW,2025-01-05,2025-01-13,2087,1904,4.0,9,1.25,40,50.0,"Lorparizangeneh, Shahin",g,2304.0,True,IRI,0.0,1,-0.08,40,-3.2
+88122190,2025-02-01,0,1st Kuwait International Chess Festival-Open Master 2025,Kuwait KUW,2025-01-05,2025-01-13,2087,1904,4.0,9,1.25,40,50.0,"Barsov, Alexei",g,2304.0,True,UZB,0.0,1,-0.08,40,-3.2
+88122190,2025-02-01,0,1st Kuwait International Chess Festival-Open Master 2025,Kuwait KUW,2025-01-05,2025-01-13,2087,1904,4.0,9,1.25,40,50.0,"Sawan, Eman",wf,1922.0,False,PLE,0.0,1,-0.47,40,-18.8
+88122190,2025-02-01,0,1st Kuwait International Chess Festival-Open Master 2025,Kuwait KUW,2025-01-05,2025-01-13,2087,1904,4.0,9,1.25,40,50.0,"Sharvaanica, A S",wc,2031.0,False,IND,0.5,1,0.17,40,6.8
+88122190,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1710,1954,5.5,7,-0.01,40,-0.4,"Ajbali, Ghaleyah",wc,1554.0,True,KUW,1.0,1,0.08,40,3.2
+88122190,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1710,1954,5.5,7,-0.01,40,-0.4,"Mohnish, Balamurugan",,1652.0,False,IND,1.0,1,0.15,40,6.0
+88122190,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1710,1954,5.5,7,-0.01,40,-0.4,"Khalid, Lodhi",,1683.0,False,PAK,0.5,1,-0.33,40,-13.2
+88122190,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1710,1954,5.5,7,-0.01,40,-0.4,"Advik, Srinivasan",,1788.0,False,IND,1.0,1,0.28,40,11.2
+88122190,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1710,1954,5.5,7,-0.01,40,-0.4,"Saad, Amer Mohamed",,1922.0,False,EGY,0.0,1,-0.54,40,-21.6
+88122190,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1710,1954,5.5,7,-0.01,40,-0.4,"Ezhil, Aadhav Kaladharan",,1709.0,False,IND,1.0,1,0.2,40,8.0
+88122190,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1710,1954,5.5,7,-0.01,40,-0.4,"Abel, Joseph",,1661.0,False,IND,1.0,1,0.15,40,6.0

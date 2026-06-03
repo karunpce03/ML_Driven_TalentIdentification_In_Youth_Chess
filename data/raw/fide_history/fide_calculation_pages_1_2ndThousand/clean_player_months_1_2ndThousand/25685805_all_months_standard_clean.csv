@@ -1,0 +1,37 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25685805,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2214,2223,5.0,9,0.5,40,20.0,"Majerik, Vladimir",,1865.0,False,CZE,0.5,1,-0.4,40,-16.0
+25685805,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2214,2223,5.0,9,0.5,40,20.0,"Vinesh, Venkata Narayanaswamy",,1823.0,True,SGP,1.0,1,0.08,40,3.2
+25685805,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2214,2223,5.0,9,0.5,40,20.0,"Johansson, Linus",m,2451.0,False,SWE,0.0,1,-0.21,40,-8.4
+25685805,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2214,2223,5.0,9,0.5,40,20.0,"Uhl, Michael, Dr.",,2045.0,False,GER,1.0,1,0.27,40,10.8
+25685805,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2214,2223,5.0,9,0.5,40,20.0,"Iturrizaga Bonelli, Eduardo",g,2590.0,False,ESP,0.0,1,-0.1,40,-4.0
+25685805,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2214,2223,5.0,9,0.5,40,20.0,"Erlandsen, Carsten",,2033.0,False,DEN,1.0,1,0.25,40,10.0
+25685805,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2214,2223,5.0,9,0.5,40,20.0,"Svanda, Ondrej",f,2414.0,False,CZE,1.0,1,0.75,40,30.0
+25685805,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2214,2223,5.0,9,0.5,40,20.0,"Babula, Vlastimil",f,2354.0,False,CZE,0.5,1,0.18,40,7.2
+25685805,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2214,2223,5.0,9,0.5,40,20.0,"Karthik, Rajaa",f,2353.0,False,IND,0.0,1,-0.32,40,-12.8
+25685805,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2156,2223,5.5,9,0.42,25,10.5,"Bryakin, Mikhail",g,2470.0,False,SRB,0.0,1,-0.19,25,-4.75
+25685805,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2156,2223,5.5,9,0.42,25,10.5,"Rindhiya, V",wf,1965.0,False,IND,1.0,1,0.18,25,4.5
+25685805,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2156,2223,5.5,9,0.42,25,10.5,"Rohit, S",f,2359.0,False,IND,0.5,1,0.18,25,4.5
+25685805,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2156,2223,5.5,9,0.42,25,10.5,"Arvind, Ramnath Iyer",,1872.0,False,IND,1.0,1,0.11,25,2.75
+25685805,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2156,2223,5.5,9,0.42,25,10.5,"Kalinin, Alexander",g,2459.0,False,RUS,0.5,1,0.3,25,7.5
+25685805,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2156,2223,5.5,9,0.42,25,10.5,"Drazic, Sinisa",g,2263.0,False,SRB,0.0,1,-0.44,25,-11.0
+25685805,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2156,2223,5.5,9,0.42,25,10.5,"Leskur, Dejan",m,2227.0,False,SRB,1.0,1,0.51,25,12.75
+25685805,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2156,2223,5.5,9,0.42,25,10.5,"Rupesh, Reddy Y",,1823.0,True,IND,0.5,1,-0.42,25,-10.5
+25685805,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2156,2223,5.5,9,0.42,25,10.5,"Gur, Ali",,1968.0,False,TUR,1.0,1,0.19,25,4.75
+25685805,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2344,2243,5.0,9,1.75,25,43.75,"Anakok, Deniz",,1885.0,False,TUR,1.0,1,0.1,25,2.5
+25685805,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2344,2243,5.0,9,1.75,25,43.75,"Akbas, Umut Ata",m,2447.0,False,TUR,0.5,1,0.26,25,6.5
+25685805,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2344,2243,5.0,9,1.75,25,43.75,"Polschikov, Alexey",m,2375.0,False,RUS,0.5,1,0.18,25,4.5
+25685805,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2344,2243,5.0,9,1.75,25,43.75,"Eren, Ataberk",f,2409.0,False,TUR,1.0,1,0.72,25,18.0
+25685805,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2344,2243,5.0,9,1.75,25,43.75,"Radovanovic, Nikola",m,2438.0,False,SRB,0.0,1,-0.25,25,-6.25
+25685805,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2344,2243,5.0,9,1.75,25,43.75,"Damljanovic, Branko",g,2364.0,False,SRB,0.5,1,0.16,25,4.0
+25685805,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2344,2243,5.0,9,1.75,25,43.75,"Tilicheev, Viacheslav",g,2466.0,False,SRB,0.5,1,0.28,25,7.0
+25685805,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2344,2243,5.0,9,1.75,25,43.75,"Rohit, S",f,2363.0,False,IND,0.5,1,0.16,25,4.0
+25685805,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2344,2243,5.0,9,1.75,25,43.75,"Elgersma, Onno",f,2348.0,False,NED,0.5,1,0.14,25,3.5
+25685805,2024-08-01,0,SERBIA OPEN 2024 - Masters,Beograd SRB,2024-07-12,2024-07-21,2266,2243,3.5,9,-0.85,25,-21.25,"Brunello, Sabino",g,2506.0,False,ITA,0.5,1,0.32,25,8.0
+25685805,2024-08-01,0,SERBIA OPEN 2024 - Masters,Beograd SRB,2024-07-12,2024-07-21,2266,2243,3.5,9,-0.85,25,-21.25,"Berkes, Ferenc",g,2612.0,False,HUN,0.0,1,-0.1,25,-2.5
+25685805,2024-08-01,0,SERBIA OPEN 2024 - Masters,Beograd SRB,2024-07-12,2024-07-21,2266,2243,3.5,9,-0.85,25,-21.25,"Ciocani, Iosif",,2133.0,False,ROU,0.5,1,-0.15,25,-3.75
+25685805,2024-08-01,0,SERBIA OPEN 2024 - Masters,Beograd SRB,2024-07-12,2024-07-21,2266,2243,3.5,9,-0.85,25,-21.25,"Willy, Stephen",c,2148.0,False,USA,1.0,1,0.37,25,9.25
+25685805,2024-08-01,0,SERBIA OPEN 2024 - Masters,Beograd SRB,2024-07-12,2024-07-21,2266,2243,3.5,9,-0.85,25,-21.25,"Vasilkov, Nikolay",,2066.0,False,FID,0.0,1,-0.73,25,-18.25
+25685805,2024-08-01,0,SERBIA OPEN 2024 - Masters,Beograd SRB,2024-07-12,2024-07-21,2266,2243,3.5,9,-0.85,25,-21.25,"Eric, Jovana",wg,2181.0,False,SRB,1.0,1,0.41,25,10.25
+25685805,2024-08-01,0,SERBIA OPEN 2024 - Masters,Beograd SRB,2024-07-12,2024-07-21,2266,2243,3.5,9,-0.85,25,-21.25,"Filip, Andrei",f,2325.0,False,ROU,0.5,1,0.11,25,2.75
+25685805,2024-08-01,0,SERBIA OPEN 2024 - Masters,Beograd SRB,2024-07-12,2024-07-21,2266,2243,3.5,9,-0.85,25,-21.25,"Ernst, Robert",f,2292.0,False,AUT,0.0,1,-0.43,25,-10.75
+25685805,2024-08-01,0,SERBIA OPEN 2024 - Masters,Beograd SRB,2024-07-12,2024-07-21,2266,2243,3.5,9,-0.85,25,-21.25,"Vujovic, Vera",wf,2135.0,False,SRB,0.0,1,-0.65,25,-16.25

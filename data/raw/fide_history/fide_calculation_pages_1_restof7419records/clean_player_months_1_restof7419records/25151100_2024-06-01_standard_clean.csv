@@ -1,0 +1,17 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25151100,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1876,1614,1.5,8,-0.03,40,-1.2,"Bobomurodova, Maftuna",wm,1966.0,False,UZB,1.0,1,0.89,40,35.6
+25151100,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1876,1614,1.5,8,-0.03,40,-1.2,"Turayev, Shahruh",,2014.0,True,TKM,0.0,1,-0.08,40,-3.2
+25151100,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1876,1614,1.5,8,-0.03,40,-1.2,"Abucejo, Armel N",,1937.0,False,PHI,0.0,1,-0.13,40,-5.2
+25151100,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1876,1614,1.5,8,-0.03,40,-1.2,"Sameir, Ramez",,1895.0,False,FID,0.0,1,-0.16,40,-6.4
+25151100,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1876,1614,1.5,8,-0.03,40,-1.2,"Mohammad Abdulrahman, Alawadhi",,1824.0,False,UAE,0.0,1,-0.23,40,-9.2
+25151100,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1876,1614,1.5,8,-0.03,40,-1.2,"Ilyushin, Viktor",,1749.0,False,UZB,0.5,1,0.18,40,7.2
+25151100,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1876,1614,1.5,8,-0.03,40,-1.2,"Kasimov, Rauf",,1811.0,False,UZB,0.0,1,-0.25,40,-10.0
+25151100,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1876,1614,1.5,8,-0.03,40,-1.2,"Margaryan, Aram",,1808.0,False,ARM,0.0,1,-0.25,40,-10.0
+25151100,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1595,1614,5.0,8,0.76,40,30.4,"Kailash, V",,1434.0,False,IND,1.0,1,0.26,40,10.4
+25151100,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1595,1614,5.0,8,0.76,40,30.4,"Tarun, V",,1807.0,False,IND,0.0,1,-0.25,40,-10.0
+25151100,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1595,1614,5.0,8,0.76,40,30.4,"Tanish, M",,1462.0,False,IND,1.0,1,0.3,40,12.0
+25151100,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1595,1614,5.0,8,0.76,40,30.4,"Sasvatha, A",wc,1845.0,False,IND,1.0,1,0.79,40,31.6
+25151100,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1595,1614,5.0,8,0.76,40,30.4,"Jeevika, S",,1793.0,False,IND,0.0,1,-0.27,40,-10.8
+25151100,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1595,1614,5.0,8,0.76,40,30.4,"Vedanth, S",,1467.0,False,IND,0.0,1,-0.7,40,-28.0
+25151100,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1595,1614,5.0,8,0.76,40,30.4,"Takkshanth, Anand",,1462.0,False,IND,1.0,1,0.3,40,12.0
+25151100,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1595,1614,5.0,8,0.76,40,30.4,"Lakshmanan, Natesan",,1489.0,False,IND,1.0,1,0.33,40,13.2

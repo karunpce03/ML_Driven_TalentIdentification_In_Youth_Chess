@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33352550,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1816,1848,6.0,11,-0.05,40,-2.0,"Dinesh, Kumar Gupta",,1512,False,IND,1.0,1,0.12,40,4.8
+33352550,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1816,1848,6.0,11,-0.05,40,-2.0,"Mrithyunjay, Mahadevan",c,2062,False,IND,1.0,1,0.77,40,30.8
+33352550,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1816,1848,6.0,11,-0.05,40,-2.0,"Sahoo, Utkal Ranjan",,2248,True,IND,0.0,1,-0.08,40,-3.2
+33352550,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1816,1848,6.0,11,-0.05,40,-2.0,"Swarna, Nihal",,2023,False,IND,0.0,1,-0.27,40,-10.8
+33352550,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1816,1848,6.0,11,-0.05,40,-2.0,"Vismay, Sachar",,1724,False,IND,0.0,1,-0.67,40,-26.8
+33352550,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1816,1848,6.0,11,-0.05,40,-2.0,"Johan, Jobsy",,1730,False,IND,1.0,1,0.34,40,13.6
+33352550,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1816,1848,6.0,11,-0.05,40,-2.0,"Nithik, Reddy Bhavanam",,1766,False,IND,0.5,1,-0.11,40,-4.4
+33352550,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1816,1848,6.0,11,-0.05,40,-2.0,"Advik, Singh Chauhan",,1760,False,IND,0.0,1,-0.62,40,-24.8
+33352550,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1816,1848,6.0,11,-0.05,40,-2.0,"Rithwik, Reddy Upparigudam",,1735,False,IND,0.5,1,-0.15,40,-6.0
+33352550,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1816,1848,6.0,11,-0.05,40,-2.0,"Vishwam, Anand",,1710,False,IND,1.0,1,0.31,40,12.4
+33352550,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1816,1848,6.0,11,-0.05,40,-2.0,"Todwal, Sudeep",,1704,False,IND,1.0,1,0.31,40,12.4

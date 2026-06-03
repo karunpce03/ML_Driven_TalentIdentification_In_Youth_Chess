@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33423644,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1709,1469,2.0,5,0.95,40,38.0,"Chidanand, S Pillai",,1699.0,False,IND,1.0,1,0.79,40,31.6
+33423644,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1709,1469,2.0,5,0.95,40,38.0,"Neelakandan, K",,1869.0,True,IND,1.0,1,0.92,40,36.8
+33423644,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1709,1469,2.0,5,0.95,40,38.0,"Christy, George",,1682.0,False,IND,0.0,1,-0.23,40,-9.2
+33423644,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1709,1469,2.0,5,0.95,40,38.0,"Anecx, Kanjiravila B C",,1654.0,False,IND,0.0,1,-0.26,40,-10.4
+33423644,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1709,1469,2.0,5,0.95,40,38.0,"Omkar, Paldhe",,1642.0,False,IND,0.0,1,-0.27,40,-10.8
+33423644,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1594,1469,0.0,3,-0.99,40,-39.6,"Sripathi, Surendar",,1600.0,False,IND,0.0,1,-0.32,40,-12.8
+33423644,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1594,1469,0.0,3,-0.99,40,-39.6,"Sanil, S",,1590.0,False,IND,0.0,1,-0.34,40,-13.6
+33423644,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1594,1469,0.0,3,-0.99,40,-39.6,"Akilan, M S",,1591.0,False,IND,0.0,1,-0.33,40,-13.2

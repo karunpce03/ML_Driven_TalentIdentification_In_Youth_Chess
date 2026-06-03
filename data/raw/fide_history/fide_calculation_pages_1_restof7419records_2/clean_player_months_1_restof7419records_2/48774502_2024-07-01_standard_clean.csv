@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48774502,2024-07-01,0,1st Khelo Chess India Classical International FIDE Rating Tournament,Bhopal IND,2024-06-04,2024-06-09,1650,1432,0.5,4,-0.45,40,-18.0,Shreyas,,1760.0,False,IND,0.0,1,-0.13,40,-5.2
+48774502,2024-07-01,0,1st Khelo Chess India Classical International FIDE Rating Tournament,Bhopal IND,2024-06-04,2024-06-09,1650,1432,0.5,4,-0.45,40,-18.0,"Amarjeet, Singh Bagga",,1518.0,False,IND,0.5,1,0.12,40,4.8
+48774502,2024-07-01,0,1st Khelo Chess India Classical International FIDE Rating Tournament,Bhopal IND,2024-06-04,2024-06-09,1650,1432,0.5,4,-0.45,40,-18.0,"Anil, Kushwaha",,1599.0,False,IND,0.0,1,-0.28,40,-11.2
+48774502,2024-07-01,0,1st Khelo Chess India Classical International FIDE Rating Tournament,Bhopal IND,2024-06-04,2024-06-09,1650,1432,0.5,4,-0.45,40,-18.0,"Subham, Saha",,1722.0,False,IND,0.0,1,-0.16,40,-6.4

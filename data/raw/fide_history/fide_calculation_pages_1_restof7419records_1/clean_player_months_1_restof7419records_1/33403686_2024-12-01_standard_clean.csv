@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33403686,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1666,1424,1.5,5,0.36,40,14.4,"Naga, Sai Sarthak Karanam",,1824,True,IND,0.0,1,-0.08,40,-3.2
+33403686,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1666,1424,1.5,5,0.36,40,14.4,"Aravinda, B R",,1655,False,IND,0.0,1,-0.21,40,-8.4
+33403686,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1666,1424,1.5,5,0.36,40,14.4,"Akshay, Madhusoodhanan",,1824,True,IND,0.0,1,-0.08,40,-3.2
+33403686,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1666,1424,1.5,5,0.36,40,14.4,"Tejas, Wadhwani",,1418,False,IND,1.0,1,0.49,40,19.6
+33403686,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1666,1424,1.5,5,0.36,40,14.4,"Koli, Aditya",,1609,False,IND,0.5,1,0.24,40,9.6

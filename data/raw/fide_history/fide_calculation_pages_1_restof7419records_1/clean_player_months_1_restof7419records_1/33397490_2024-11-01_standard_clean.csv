@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33397490,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1721,1836,7.5,11,0.39,35,13.65,"Avneesh, Kumar Vatsa",,1450.0,False,IND,1.0,1,0.09,35,3.15
+33397490,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1721,1836,7.5,11,0.39,35,13.65,"Swayam, Chhabra",,1568.0,False,IND,1.0,1,0.17,35,5.95
+33397490,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1721,1836,7.5,11,0.39,35,13.65,"Daksh, Singh",,1615.0,False,IND,1.0,1,0.22,35,7.7
+33397490,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1721,1836,7.5,11,0.39,35,13.65,"Deepak, Raj Hari",,1715.0,False,IND,1.0,1,0.34,35,11.9
+33397490,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1721,1836,7.5,11,0.39,35,13.65,"Narendra, Agarwal",,1764.0,False,IND,1.0,1,0.4,35,14.0
+33397490,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1721,1836,7.5,11,0.39,35,13.65,"Madhvendra, Pratap Sharma",c,2154.0,False,IND,0.0,1,-0.13,35,-4.55
+33397490,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1721,1836,7.5,11,0.39,35,13.65,"Sattwik, Swain",,1718.0,False,IND,1.0,1,0.34,35,11.9
+33397490,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1721,1836,7.5,11,0.39,35,13.65,"Aditya, Shardul Kadam",,1686.0,False,IND,0.5,1,-0.2,35,-7.0
+33397490,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1721,1836,7.5,11,0.39,35,13.65,"Vairaj, Sogerwal",,1717.0,False,IND,0.5,1,-0.16,35,-5.6
+33397490,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1721,1836,7.5,11,0.39,35,13.65,"Abhinav, Anand",,1785.0,False,IND,0.5,1,-0.07,35,-2.45
+33397490,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1721,1836,7.5,11,0.39,35,13.65,"Shitiz, Prasad",,1759.0,False,IND,0.0,1,-0.61,35,-21.35
+33397490,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1584,1836,5.5,9,-1.71,35,-59.85,"Harinie, I",,1436.0,True,IND,1.0,1,0.08,35,2.8
+33397490,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1584,1836,5.5,9,-1.71,35,-59.85,"Milind, Parle",,1597.0,False,IND,1.0,1,0.2,35,7.0
+33397490,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1584,1836,5.5,9,-1.71,35,-59.85,"Rajith, V.",,1675.0,False,IND,0.0,1,-0.71,35,-24.85
+33397490,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1584,1836,5.5,9,-1.71,35,-59.85,"M Tulasi Ram, Kumar",,1585.0,False,IND,0.0,1,-0.81,35,-28.35
+33397490,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1584,1836,5.5,9,-1.71,35,-59.85,"Kishori, Lal Verma",,1457.0,False,IND,1.0,1,0.09,35,3.15
+33397490,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1584,1836,5.5,9,-1.71,35,-59.85,"Shiva, Meena",,1584.0,False,IND,1.0,1,0.19,35,6.65
+33397490,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1584,1836,5.5,9,-1.71,35,-59.85,"Soham, Hariyani",,1658.0,False,IND,0.5,1,-0.23,35,-8.05
+33397490,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1584,1836,5.5,9,-1.71,35,-59.85,"Mistry, Devanshu",,1662.0,False,IND,0.5,1,-0.23,35,-8.05
+33397490,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1584,1836,5.5,9,-1.71,35,-59.85,"Akshat, Kumar Lakhara",,1601.0,False,IND,0.5,1,-0.29,35,-10.15

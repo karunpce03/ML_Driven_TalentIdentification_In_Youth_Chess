@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88174212,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1642,1437,0.0,3,-0.8,40,-32.0,"Arnav, Mahesh Koli",,1837,True,IND,0.0,1,-0.08,40,-3.2
+88174212,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1642,1437,0.0,3,-0.8,40,-32.0,"Kavyansh, Jain",,1634,False,IND,0.0,1,-0.25,40,-10.0
+88174212,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1642,1437,0.0,3,-0.8,40,-32.0,"Parth, Agarwal",,1455,False,IND,0.0,1,-0.47,40,-18.8

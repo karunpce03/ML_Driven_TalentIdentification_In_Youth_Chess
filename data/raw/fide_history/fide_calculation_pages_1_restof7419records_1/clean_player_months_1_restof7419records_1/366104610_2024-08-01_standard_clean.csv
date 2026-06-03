@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366104610,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1682,1613,4.0,7,0.99,40,39.6,"Kumar, Gaurav",f,2013,True,IND,0.5,1,0.42,40,16.8
+366104610,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1682,1613,4.0,7,0.99,40,39.6,"Ayan, Pal",,1879,False,IND,0.0,1,-0.18,40,-7.2
+366104610,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1682,1613,4.0,7,0.99,40,39.6,"Eishaanav, Chakraborty",,1499,False,IND,1.0,1,0.34,40,13.6
+366104610,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1682,1613,4.0,7,0.99,40,39.6,"Sagnik, Halder",,1789,False,IND,0.0,1,-0.27,40,-10.8
+366104610,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1682,1613,4.0,7,0.99,40,39.6,"Debabrata, Nath",,1479,False,IND,1.0,1,0.32,40,12.8
+366104610,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1682,1613,4.0,7,0.99,40,39.6,"Archit, Asomiya",,1420,False,IND,0.5,1,-0.25,40,-10.0
+366104610,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1682,1613,4.0,7,0.99,40,39.6,"Pawar, Sohum",,1694,False,IND,1.0,1,0.61,40,24.4

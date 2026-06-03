@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33415943,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1665,1558,3.0,10,-0.57,35,-19.95,"Shreyas, Mishra",,1750.0,False,IND,0.0,1,-0.25,35,-8.75
+33415943,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1665,1558,3.0,10,-0.57,35,-19.95,"Woning, Dirk",,1713.0,False,NED,0.0,1,-0.29,35,-10.15
+33415943,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1665,1558,3.0,10,-0.57,35,-19.95,"Dhinesh, K A",,1651.0,False,IND,0.0,1,-0.37,35,-12.95
+33415943,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1665,1558,3.0,10,-0.57,35,-19.95,"Nauryzbay, Ayana",,1643.0,False,KAZ,0.5,1,0.12,35,4.2
+33415943,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1665,1558,3.0,10,-0.57,35,-19.95,"Taneesha, Drolia",,1655.0,False,IND,0.0,1,-0.37,35,-12.95
+33415943,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1665,1558,3.0,10,-0.57,35,-19.95,"Debopriyo, Dutta",,1620.0,False,IND,0.5,1,0.09,35,3.15
+33415943,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1665,1558,3.0,10,-0.57,35,-19.95,"Saransh, Goel",,1478.0,False,IND,1.0,1,0.39,35,13.65
+33415943,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1665,1558,3.0,10,-0.57,35,-19.95,"Mithilesh, P",,1679.0,False,IND,1.0,1,0.66,35,23.1
+33415943,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1665,1558,3.0,10,-0.57,35,-19.95,"Ehaan, Shaikh",,1750.0,False,IND,0.0,1,-0.25,35,-8.75
+33415943,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1665,1558,3.0,10,-0.57,35,-19.95,"Bhanushali, Neemay",,1710.0,False,IND,0.0,1,-0.3,35,-10.5
+33415943,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1637,1558,5.0,10,0.95,35,33.25,"Aishani, Pathak",,1785.0,False,IND,0.5,1,0.29,35,10.15
+33415943,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1637,1558,5.0,10,0.95,35,33.25,"Tripurambika, V",,1796.0,False,IND,0.5,1,0.3,35,10.5
+33415943,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1637,1558,5.0,10,0.95,35,33.25,"Pratyasha, Jena",,1787.0,False,IND,0.5,1,0.29,35,10.15
+33415943,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1637,1558,5.0,10,0.95,35,33.25,"Arhashirsha, Biswas",,1782.0,False,IND,0.0,1,-0.22,35,-7.7
+33415943,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1637,1558,5.0,10,0.95,35,33.25,"Aarabhi, Madhukar",,1463.0,False,IND,0.5,1,-0.13,35,-4.55
+33415943,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1637,1558,5.0,10,0.95,35,33.25,"Sukriti, Basak",,1515.0,False,IND,1.0,1,0.44,35,15.4
+33415943,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1637,1558,5.0,10,0.95,35,33.25,"Aaradhya, Das",wc,1827.0,False,IND,0.0,1,-0.17,35,-5.95
+33415943,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1637,1558,5.0,10,0.95,35,33.25,"Samaira, Jain",,1471.0,False,IND,0.5,1,-0.12,35,-4.2
+33415943,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1637,1558,5.0,10,0.95,35,33.25,"Ananya, Samanta",,1437.0,False,IND,1.0,1,0.34,35,11.9
+33415943,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1637,1558,5.0,10,0.95,35,33.25,"Pondhiya, S",,1505.0,False,IND,0.5,1,-0.07,35,-2.45

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25609785,2024-06-01,0,8. Int. Bodensee Open 2024,Bregenz AUT,2024-05-04,2024-05-12,2051,1860,6.0,9,3.56,40,142.4,"Fuchs, Eduard",,1686,False,AUT,1.0,1,0.27,40,10.8
+25609785,2024-06-01,0,8. Int. Bodensee Open 2024,Bregenz AUT,2024-05-04,2024-05-12,2051,1860,6.0,9,3.56,40,142.4,"Steiner, Kai",,2029,False,AUT,1.0,1,0.72,40,28.8
+25609785,2024-06-01,0,8. Int. Bodensee Open 2024,Bregenz AUT,2024-05-04,2024-05-12,2051,1860,6.0,9,3.56,40,142.4,"Heron, Andrew",,2019,False,LIE,1.0,1,0.71,40,28.4
+25609785,2024-06-01,0,8. Int. Bodensee Open 2024,Bregenz AUT,2024-05-04,2024-05-12,2051,1860,6.0,9,3.56,40,142.4,"Starostits, Ilmars",g,2260,True,LAT,0.0,1,-0.08,40,-3.2
+25609785,2024-06-01,0,8. Int. Bodensee Open 2024,Bregenz AUT,2024-05-04,2024-05-12,2051,1860,6.0,9,3.56,40,142.4,"Osterwald, Elwin",,2065,False,NED,0.5,1,0.26,40,10.4
+25609785,2024-06-01,0,8. Int. Bodensee Open 2024,Bregenz AUT,2024-05-04,2024-05-12,2051,1860,6.0,9,3.56,40,142.4,"Hovenga, Alje",,2177,False,NED,0.5,1,0.37,40,14.8
+25609785,2024-06-01,0,8. Int. Bodensee Open 2024,Bregenz AUT,2024-05-04,2024-05-12,2051,1860,6.0,9,3.56,40,142.4,"Weidenhoefer, Max",,2108,False,GER,0.0,1,-0.19,40,-7.6
+25609785,2024-06-01,0,8. Int. Bodensee Open 2024,Bregenz AUT,2024-05-04,2024-05-12,2051,1860,6.0,9,3.56,40,142.4,"Feistauer, Dirk",,1993,False,GER,1.0,1,0.68,40,27.2
+25609785,2024-06-01,0,8. Int. Bodensee Open 2024,Bregenz AUT,2024-05-04,2024-05-12,2051,1860,6.0,9,3.56,40,142.4,"Boehmer, Christian",c,2123,False,GER,1.0,1,0.82,40,32.8

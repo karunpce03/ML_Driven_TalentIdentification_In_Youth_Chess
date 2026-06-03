@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45078734,2024-10-01,0,Vezerkepzo GM Kluger Gyula Memorial 2024,Budapest HUN,2024-08-28,2024-09-05,2407,2111,2.0,9,0.56,40,22.4,"Sai, Krishna G V",m,2402,False,CAN,0.5,1,0.35,40,14.0
+45078734,2024-10-01,0,Vezerkepzo GM Kluger Gyula Memorial 2024,Budapest HUN,2024-08-28,2024-09-05,2407,2111,2.0,9,0.56,40,22.4,"Xie, Felix",f,2326,False,NZL,0.5,1,0.27,40,10.8
+45078734,2024-10-01,0,Vezerkepzo GM Kluger Gyula Memorial 2024,Budapest HUN,2024-08-28,2024-09-05,2407,2111,2.0,9,0.56,40,22.4,"Papp, Levente",f,2362,False,HUN,0.0,1,-0.19,40,-7.6
+45078734,2024-10-01,0,Vezerkepzo GM Kluger Gyula Memorial 2024,Budapest HUN,2024-08-28,2024-09-05,2407,2111,2.0,9,0.56,40,22.4,"Cardoso Cardoso, Jose Gabriel",g,2507,False,COL,0.0,1,-0.08,40,-3.2
+45078734,2024-10-01,0,Vezerkepzo GM Kluger Gyula Memorial 2024,Budapest HUN,2024-08-28,2024-09-05,2407,2111,2.0,9,0.56,40,22.4,"Garcia Pantoja, Roberto",g,2511,True,COL,0.0,1,-0.08,40,-3.2
+45078734,2024-10-01,0,Vezerkepzo GM Kluger Gyula Memorial 2024,Budapest HUN,2024-08-28,2024-09-05,2407,2111,2.0,9,0.56,40,22.4,"Csiki, Endre",f,2280,False,HUN,0.5,1,0.22,40,8.8
+45078734,2024-10-01,0,Vezerkepzo GM Kluger Gyula Memorial 2024,Budapest HUN,2024-08-28,2024-09-05,2407,2111,2.0,9,0.56,40,22.4,"Sathvik, Adiga",f,2365,False,IND,0.0,1,-0.19,40,-7.6
+45078734,2024-10-01,0,Vezerkepzo GM Kluger Gyula Memorial 2024,Budapest HUN,2024-08-28,2024-09-05,2407,2111,2.0,9,0.56,40,22.4,"Fodor, Tamas Jr.",g,2501,False,HUN,0.5,1,0.41,40,16.4
+45078734,2024-10-01,0,Vezerkepzo GM Kluger Gyula Memorial 2024,Budapest HUN,2024-08-28,2024-09-05,2407,2111,2.0,9,0.56,40,22.4,"Posthuma, Joshua",m,2412,False,USA,0.0,1,-0.15,40,-6.0

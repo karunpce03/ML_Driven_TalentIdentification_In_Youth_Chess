@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33330638,2024-10-01,0,U-19 selection State Fide Rated Chess Championship,Shimla IND,2024-08-31,2024-09-02,1563,1471,4.5,5,2.61,40,104.4,"Ritesh, Bhardwaj",,1659.0,False,IND,1.0,1,0.74,40,29.6
+33330638,2024-10-01,0,U-19 selection State Fide Rated Chess Championship,Shimla IND,2024-08-31,2024-09-02,1563,1471,4.5,5,2.61,40,104.4,"Madhav, Garg",,1528.0,False,IND,1.0,1,0.58,40,23.2
+33330638,2024-10-01,0,U-19 selection State Fide Rated Chess Championship,Shimla IND,2024-08-31,2024-09-02,1563,1471,4.5,5,2.61,40,104.4,"Dushyant, Singh",,1603.0,False,IND,0.5,1,0.18,40,7.2
+33330638,2024-10-01,0,U-19 selection State Fide Rated Chess Championship,Shimla IND,2024-08-31,2024-09-02,1563,1471,4.5,5,2.61,40,104.4,"Neeraj, Verma",,1456.0,False,IND,1.0,1,0.48,40,19.2
+33330638,2024-10-01,0,U-19 selection State Fide Rated Chess Championship,Shimla IND,2024-08-31,2024-09-02,1563,1471,4.5,5,2.61,40,104.4,"Ujjwal, Sharma",,1567.0,False,IND,1.0,1,0.63,40,25.2

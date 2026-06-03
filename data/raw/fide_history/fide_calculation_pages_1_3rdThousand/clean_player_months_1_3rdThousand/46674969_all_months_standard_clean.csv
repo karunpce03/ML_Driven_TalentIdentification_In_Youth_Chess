@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+46674969,2024-12-01,0,100 Jahre NSV - Jubilaeumsgrandprix 2024 A-Open,Wolfsburg GER,2024-11-15,2024-11-17,2193,2084,3.5,5,1.57,20,31.4,"Retzlaff, Thomas",,1866.0,False,GER,1.0,1,0.22,20,4.4
+46674969,2024-12-01,0,100 Jahre NSV - Jubilaeumsgrandprix 2024 A-Open,Wolfsburg GER,2024-11-15,2024-11-17,2193,2084,3.5,5,1.57,20,31.4,"Poetsch, Hagen",g,2484.0,True,GER,0.5,1,0.42,20,8.4
+46674969,2024-12-01,0,100 Jahre NSV - Jubilaeumsgrandprix 2024 A-Open,Wolfsburg GER,2024-11-15,2024-11-17,2193,2084,3.5,5,1.57,20,31.4,"Laube, Reiner",,2140.0,False,GER,1.0,1,0.58,20,11.6
+46674969,2024-12-01,0,100 Jahre NSV - Jubilaeumsgrandprix 2024 A-Open,Wolfsburg GER,2024-11-15,2024-11-17,2193,2084,3.5,5,1.57,20,31.4,"Richter, Michael",g,2413.0,False,GER,0.0,1,-0.12,20,-2.4
+46674969,2024-12-01,0,100 Jahre NSV - Jubilaeumsgrandprix 2024 A-Open,Wolfsburg GER,2024-11-15,2024-11-17,2193,2084,3.5,5,1.57,20,31.4,"Jacobi, Felix-Hagen",,2063.0,False,GER,1.0,1,0.47,20,9.4
+46674969,2025-02-01,0,Niedersachsen Landeseinzelmeisterschaft 2025 Meisterturnier,Verden (Aller) GER,2025-01-02,2025-01-05,2176,2115,2.5,7,-0.41,20,-8.2,"Plischki, Sebastian",m,2323.0,False,GER,0.5,1,0.27,20,5.4
+46674969,2025-02-01,0,Niedersachsen Landeseinzelmeisterschaft 2025 Meisterturnier,Verden (Aller) GER,2025-01-02,2025-01-05,2176,2115,2.5,7,-0.41,20,-8.2,"Pubantz, Jan",,2339.0,False,GER,0.5,1,0.28,20,5.6
+46674969,2025-02-01,0,Niedersachsen Landeseinzelmeisterschaft 2025 Meisterturnier,Verden (Aller) GER,2025-01-02,2025-01-05,2176,2115,2.5,7,-0.41,20,-8.2,"Knuedel, Torben",f,2303.0,False,GER,0.0,1,-0.26,20,-5.2
+46674969,2025-02-01,0,Niedersachsen Landeseinzelmeisterschaft 2025 Meisterturnier,Verden (Aller) GER,2025-01-02,2025-01-05,2176,2115,2.5,7,-0.41,20,-8.2,"Peters, Tom",,2162.0,False,GER,0.0,1,-0.43,20,-8.6
+46674969,2025-02-01,0,Niedersachsen Landeseinzelmeisterschaft 2025 Meisterturnier,Verden (Aller) GER,2025-01-02,2025-01-05,2176,2115,2.5,7,-0.41,20,-8.2,"Gaertner, Alessandro",,1970.0,False,GER,0.5,1,-0.19,20,-3.8
+46674969,2025-02-01,0,Niedersachsen Landeseinzelmeisterschaft 2025 Meisterturnier,Verden (Aller) GER,2025-01-02,2025-01-05,2176,2115,2.5,7,-0.41,20,-8.2,"Ter Stal, Lars",,1815.0,False,GER,1.0,1,0.15,20,3.0
+46674969,2025-02-01,0,Niedersachsen Landeseinzelmeisterschaft 2025 Meisterturnier,Verden (Aller) GER,2025-01-02,2025-01-05,2176,2115,2.5,7,-0.41,20,-8.2,"Hoeffer, David",f,2322.0,False,GER,0.0,1,-0.23,20,-4.6

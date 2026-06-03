@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25968343,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1813,2048,7.5,11,-1.09,40,-43.6,"Pratyush, Fulara",,1648,True,IND,1.0,1,0.08,40,3.2
+25968343,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1813,2048,7.5,11,-1.09,40,-43.6,"Adhithya, B",,1781,False,IND,1.0,1,0.18,40,7.2
+25968343,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1813,2048,7.5,11,-1.09,40,-43.6,"Mann, Akbari",,1828,False,IND,1.0,1,0.22,40,8.8
+25968343,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1813,2048,7.5,11,-1.09,40,-43.6,"Arnav, Mahesh Koli",,1897,False,IND,1.0,1,0.3,40,12.0
+25968343,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1813,2048,7.5,11,-1.09,40,-43.6,"Rohith, S",,1996,False,IND,0.0,1,-0.57,40,-22.8
+25968343,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1813,2048,7.5,11,-1.09,40,-43.6,"Nimay, Agrawal",c,1896,False,IND,0.0,1,-0.7,40,-28.0
+25968343,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1813,2048,7.5,11,-1.09,40,-43.6,"Ashwinth, Michael",,1819,False,IND,0.0,1,-0.79,40,-31.6
+25968343,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1813,2048,7.5,11,-1.09,40,-43.6,"Geet, Jain",,1767,False,IND,1.0,1,0.16,40,6.4
+25968343,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1813,2048,7.5,11,-1.09,40,-43.6,"Nirvan, Bhamidi",,1823,False,IND,0.5,1,-0.28,40,-11.2
+25968343,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1813,2048,7.5,11,-1.09,40,-43.6,"Jess, Ruchandani",,1661,False,IND,1.0,1,0.09,40,3.6
+25968343,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1813,2048,7.5,11,-1.09,40,-43.6,"Avadhoot, Lokesh Bhakti Brahme",,1829,False,IND,1.0,1,0.22,40,8.8

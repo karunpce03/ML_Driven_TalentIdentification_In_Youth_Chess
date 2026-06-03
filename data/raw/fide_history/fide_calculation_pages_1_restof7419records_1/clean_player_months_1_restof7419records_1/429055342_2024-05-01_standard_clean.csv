@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429055342,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,,,0.0,3,0.0,786,,"Elesh, Tripathi",,1664,False,IND,0.0,1,0.0,,0.0
+429055342,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,,,0.0,3,0.0,786,,"M Tulasi Ram, Kumar",,1551,False,IND,0.0,1,0.0,,0.0
+429055342,2024-05-01,0,6th Holi Cup Lakecity Open International FIDE Rating Chess Tournament 2024,Udaipur IND,2024-03-31,2024-04-04,,,0.0,3,0.0,786,,"Dhirendra, Kumar Das",,1543,False,IND,0.0,1,0.0,,0.0

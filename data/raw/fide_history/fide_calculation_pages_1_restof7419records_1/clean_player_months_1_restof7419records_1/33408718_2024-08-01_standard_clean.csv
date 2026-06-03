@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33408718,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1591,1494,2.5,4,0.9,40,36.0,"Ram, Alagappan S",,1894,True,IND,0.0,1,-0.08,40,-3.2
+33408718,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1591,1494,2.5,4,0.9,40,36.0,"Meeran, Raees S",,1430,False,IND,1.0,1,0.41,40,16.4
+33408718,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1591,1494,2.5,4,0.9,40,36.0,"Milton, Antony S",,1465,False,IND,1.0,1,0.46,40,18.4
+33408718,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1591,1494,2.5,4,0.9,40,36.0,"Vigneshkumar, S N",,1574,False,IND,0.5,1,0.11,40,4.4

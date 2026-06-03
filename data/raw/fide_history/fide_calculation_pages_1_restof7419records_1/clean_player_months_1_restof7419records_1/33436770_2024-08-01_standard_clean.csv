@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33436770,2024-08-01,0,H2e Power Systems Maharashtra State Under 17 Open Chess Championship 2024,Mumbai IND,2024-07-06,2024-07-08,1676,1434,0.5,3,-0.13,40,-5.2,"Arjun, Singh",,1715.0,False,IND,0.0,1,-0.16,40,-6.4
+33436770,2024-08-01,0,H2e Power Systems Maharashtra State Under 17 Open Chess Championship 2024,Mumbai IND,2024-07-06,2024-07-08,1676,1434,0.5,3,-0.13,40,-5.2,"Neev, Nirav Bafna",,1547.0,False,IND,0.5,1,0.15,40,6.0
+33436770,2024-08-01,0,H2e Power Systems Maharashtra State Under 17 Open Chess Championship 2024,Mumbai IND,2024-07-06,2024-07-08,1676,1434,0.5,3,-0.13,40,-5.2,"Patil, Sudip",,1767.0,False,IND,0.0,1,-0.12,40,-4.8

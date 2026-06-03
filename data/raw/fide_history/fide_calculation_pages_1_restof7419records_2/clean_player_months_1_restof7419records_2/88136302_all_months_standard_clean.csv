@@ -1,0 +1,28 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88136302,2024-05-01,0,12th KT Global School All Odisha Open FIDE Rated Chess Tournament-2024,Khorda IND,2024-04-11,2024-04-15,,,2.0,5,0.0,1387,,"Shreyash, Sahoo",,1408.0,False,IND,0.0,1,0.0,,0.0
+88136302,2024-05-01,0,12th KT Global School All Odisha Open FIDE Rated Chess Tournament-2024,Khorda IND,2024-04-11,2024-04-15,,,2.0,5,0.0,1387,,"Priyadarsan, Ray",,1468.0,False,IND,1.0,1,0.0,,0.0
+88136302,2024-05-01,0,12th KT Global School All Odisha Open FIDE Rated Chess Tournament-2024,Khorda IND,2024-04-11,2024-04-15,,,2.0,5,0.0,1387,,"Suresh, Rao E",,1518.0,False,IND,0.0,1,0.0,,0.0
+88136302,2024-05-01,0,12th KT Global School All Odisha Open FIDE Rated Chess Tournament-2024,Khorda IND,2024-04-11,2024-04-15,,,2.0,5,0.0,1387,,"Arnica, Dash",,1401.0,False,IND,1.0,1,0.0,,0.0
+88136302,2024-05-01,0,12th KT Global School All Odisha Open FIDE Rated Chess Tournament-2024,Khorda IND,2024-04-11,2024-04-15,,,2.0,5,0.0,1387,,"Sarthak, Mohanty",,1498.0,False,IND,0.0,1,0.0,,0.0
+88136302,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,1581.0,1506.0,2.0,6,-0.43,40,-17.2,"Gobardhan, Behera",,1704.0,False,IND,1.0,1,0.76,40.0,30.4
+88136302,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,1581.0,1506.0,2.0,6,-0.43,40,-17.2,"Pratyasha, Jena",,1727.0,False,IND,0.0,1,-0.22,40.0,-8.8
+88136302,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,1581.0,1506.0,2.0,6,-0.43,40,-17.2,"Lalit, Ranjan Sahu",,1655.0,False,IND,0.0,1,-0.3,40.0,-12.0
+88136302,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,1581.0,1506.0,2.0,6,-0.43,40,-17.2,"Sayansh, Das",,1428.0,False,IND,0.0,1,-0.61,40.0,-24.4
+88136302,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,1581.0,1506.0,2.0,6,-0.43,40,-17.2,"Rudra, Pratap Mishra",,1404.0,False,IND,1.0,1,0.36,40.0,14.4
+88136302,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,1581.0,1506.0,2.0,6,-0.43,40,-17.2,"Sattwik, Swain",,1567.0,False,IND,0.0,1,-0.42,40.0,-16.8
+88136302,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1821.0,1489.0,0.0,1,-0.12,40,-4.8,"Sanket, Sagar Dash",,1821.0,False,IND,0.0,1,-0.12,40.0,-4.8
+88136302,2025-01-01,0,Dr. Rangala Babu Rao FIDE OPEN RATING CHESS TOURNAMENT-2024,Visakhapatnam IND,2024-11-27,2024-12-01,1584.0,1484.0,1.0,3,-0.11,40,-4.4,"Rajesh, Kumar Nayak",,1669.0,False,IND,0.0,1,-0.26,40.0,-10.4
+88136302,2025-01-01,0,Dr. Rangala Babu Rao FIDE OPEN RATING CHESS TOURNAMENT-2024,Visakhapatnam IND,2024-11-27,2024-12-01,1584.0,1484.0,1.0,3,-0.11,40,-4.4,"Hymeswara, Rao B",,1425.0,False,IND,1.0,1,0.42,40.0,16.8
+88136302,2025-01-01,0,Dr. Rangala Babu Rao FIDE OPEN RATING CHESS TOURNAMENT-2024,Visakhapatnam IND,2024-11-27,2024-12-01,1584.0,1484.0,1.0,3,-0.11,40,-4.4,"Shreyan, Bag",,1657.0,False,IND,0.0,1,-0.27,40.0,-10.8
+88136302,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1556.0,1484.0,1.0,4,-0.61,40,-24.4,"Khatei, Sahadeba",,1606.0,False,IND,0.0,1,-0.33,40.0,-13.2
+88136302,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1556.0,1484.0,1.0,4,-0.61,40,-24.4,"Deepak, Dinabandhu Sahoo",,1585.0,False,IND,0.0,1,-0.36,40.0,-14.4
+88136302,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1556.0,1484.0,1.0,4,-0.61,40,-24.4,"Pratish, Raj",,1628.0,False,IND,0.0,1,-0.31,40.0,-12.4
+88136302,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1556.0,1484.0,1.0,4,-0.61,40,-24.4,"Seema, Purty",,1403.0,False,IND,1.0,1,0.39,40.0,15.6
+88136302,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1524.0,1484.0,2.5,6,-0.2,40,-8.0,"Arjun, Singh",,1651.0,False,IND,0.0,1,-0.28,40.0,-11.2
+88136302,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1524.0,1484.0,2.5,6,-0.2,40,-8.0,"Rakshith, V",,1421.0,False,IND,0.5,1,-0.09,40.0,-3.6
+88136302,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1524.0,1484.0,2.5,6,-0.2,40,-8.0,"Prabhav, Atwal",,1427.0,False,IND,1.0,1,0.42,40.0,16.8
+88136302,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1524.0,1484.0,2.5,6,-0.2,40,-8.0,"Parv, H Hakani",,1580.0,False,IND,0.0,1,-0.37,40.0,-14.8
+88136302,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1524.0,1484.0,2.5,6,-0.2,40,-8.0,"Kavish, Saxena",,1444.0,False,IND,1.0,1,0.44,40.0,17.6
+88136302,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1524.0,1484.0,2.5,6,-0.2,40,-8.0,"Raghav, Renuk Pawade",,1619.0,False,IND,0.0,1,-0.32,40.0,-12.8
+88136302,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1409.0,1455.0,0.0,2,-1.13,40,-45.2,"Rehaan, Mohammed",,1403.0,False,IND,0.0,1,-0.57,40.0,-22.8
+88136302,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1409.0,1455.0,0.0,2,-1.13,40,-45.2,"Atharv, Singh",,1414.0,False,IND,0.0,1,-0.56,40.0,-22.4

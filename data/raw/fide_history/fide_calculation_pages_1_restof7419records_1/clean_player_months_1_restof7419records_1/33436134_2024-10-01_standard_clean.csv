@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33436134,2024-10-01,0,Horsens Efteraar 2024 - 1 Round 1-4,Horsens DEN,2024-08-20,2024-09-17,1859,1459,0.0,1,-0.08,40,-3.2,"Rasmussen, Lars Garne",,1859.0,True,DEN,0.0,1,-0.08,40,-3.2
+33436134,2024-10-01,0,Frem Skakklubs junior klubmesterskab 2024 Round 1-4,Odense DEN,2024-08-26,2024-09-23,1613,1459,1.5,2,0.91,40,36.4,"Dahlmann, Jacob Kamuk",,1635.0,False,DEN,1.0,1,0.73,40,29.2
+33436134,2024-10-01,0,Frem Skakklubs junior klubmesterskab 2024 Round 1-4,Odense DEN,2024-08-26,2024-09-23,1613,1459,1.5,2,0.91,40,36.4,"Jakobsen, Alex",,1590.0,False,DEN,0.5,1,0.18,40,7.2
+33436134,2024-10-01,0,Evans Efteraar 2024 - 3 Round 3-4,Vejle DEN,2024-09-12,2024-09-26,1446,1512,1.0,1,0.41,40,16.4,"Ekanayake, Chanuga Damdinu",,1446.0,False,SRI,1.0,1,0.41,40,16.4

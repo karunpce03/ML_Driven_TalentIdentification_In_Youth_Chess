@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25666231,2024-05-01,0,5th Colonial Open,"Dulles, VA USA",2024-03-28,2024-03-31,2021,2002,3.5,5,1.03,40,41.2,"Manikandan, Siddharth",,1602.0,True,IND,1.0,1,0.08,40,3.2
+25666231,2024-05-01,0,5th Colonial Open,"Dulles, VA USA",2024-03-28,2024-03-31,2021,2002,3.5,5,1.03,40,41.2,"Fang, Arabella",wc,1813.0,False,USA,1.0,1,0.25,40,10.0
+25666231,2024-05-01,0,5th Colonial Open,"Dulles, VA USA",2024-03-28,2024-03-31,2021,2002,3.5,5,1.03,40,41.2,"Kraai, Jesse",g,2373.0,False,USA,0.0,1,-0.1,40,-4.0
+25666231,2024-05-01,0,5th Colonial Open,"Dulles, VA USA",2024-03-28,2024-03-31,2021,2002,3.5,5,1.03,40,41.2,"Mariappan, Anish M",,1914.0,False,USA,1.0,1,0.38,40,15.2
+25666231,2024-05-01,0,5th Colonial Open,"Dulles, VA USA",2024-03-28,2024-03-31,2021,2002,3.5,5,1.03,40,41.2,"Baron, Tal",g,2402.0,True,ISR,0.5,1,0.42,40,16.8
+25666231,2024-05-01,0,69th Annual Maryland Open - Championship,"Rockville, MD USA",2024-04-19,2024-04-21,2015,2012,1.0,3,-0.48,40,-19.2,"Wilson, Ronen",,2018.0,False,USA,0.5,1,0.01,40,0.4
+25666231,2024-05-01,0,69th Annual Maryland Open - Championship,"Rockville, MD USA",2024-04-19,2024-04-21,2015,2012,1.0,3,-0.48,40,-19.2,"Venkatesh, Narayan",c,2033.0,False,USA,0.5,1,0.03,40,1.2
+25666231,2024-05-01,0,69th Annual Maryland Open - Championship,"Rockville, MD USA",2024-04-19,2024-04-21,2015,2012,1.0,3,-0.48,40,-19.2,"Tay, Brian",,1995.0,False,USA,0.0,1,-0.52,40,-20.8

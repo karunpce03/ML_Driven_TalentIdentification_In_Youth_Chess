@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25652150,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2200,2095,4.5,9,1.29,40,51.6,"Kocharin, Timur",f,2264.0,False,GER,0.0,1,-0.28,40,-11.2
+25652150,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2200,2095,4.5,9,1.29,40,51.6,"Zoncu, Roberto Alessio",,2199.0,False,ITA,0.0,1,-0.36,40,-14.4
+25652150,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2200,2095,4.5,9,1.29,40,51.6,"Paragua, Megan Althea",wf,2160.0,False,USA,1.0,1,0.59,40,23.6
+25652150,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2200,2095,4.5,9,1.29,40,51.6,"Boumrar, Ayrad",f,2194.0,False,FRA,0.5,1,0.14,40,5.6
+25652150,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2200,2095,4.5,9,1.29,40,51.6,"Pieri, Pierre-Louis",,2182.0,False,FRA,1.0,1,0.62,40,24.8
+25652150,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2200,2095,4.5,9,1.29,40,51.6,"Janzelj, Lara",wm,2217.0,False,SLO,0.5,1,0.17,40,6.8
+25652150,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2200,2095,4.5,9,1.29,40,51.6,"Ernst, Luca",f,2225.0,False,FRA,0.5,1,0.18,40,7.2
+25652150,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2200,2095,4.5,9,1.29,40,51.6,"Landolsi, Iyad",,2187.0,False,FRA,0.0,1,-0.37,40,-14.8
+25652150,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2200,2095,4.5,9,1.29,40,51.6,"Aravindhan, Achyuth",c,2169.0,False,NED,1.0,1,0.6,40,24.0

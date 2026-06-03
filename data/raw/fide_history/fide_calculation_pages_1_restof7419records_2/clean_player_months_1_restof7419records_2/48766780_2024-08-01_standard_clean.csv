@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48766780,2024-08-01,0,All India Below 1600 Narendraji Firodia Chashak Classical FIDE Rating Chess Tournament,Ahmednagar IND,2024-07-19,2024-07-21,1558,1417,0.0,3,-0.93,40,-37.2,"Anil, Mahadeo S",,1541.0,False,IND,0.0,1,-0.33,40,-13.2
+48766780,2024-08-01,0,All India Below 1600 Narendraji Firodia Chashak Classical FIDE Rating Chess Tournament,Ahmednagar IND,2024-07-19,2024-07-21,1558,1417,0.0,3,-0.93,40,-37.2,"Garv, Devnani",,1548.0,False,IND,0.0,1,-0.32,40,-12.8
+48766780,2024-08-01,0,All India Below 1600 Narendraji Firodia Chashak Classical FIDE Rating Chess Tournament,Ahmednagar IND,2024-07-19,2024-07-21,1558,1417,0.0,3,-0.93,40,-37.2,"Kale, Shivprasad",,1585.0,False,IND,0.0,1,-0.28,40,-11.2

@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48724319,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1523,1431,0.0,3,-1.11,40,-44.4,"Kavin, Senthilnathan",,1478.0,False,IND,0.0,1,-0.43,40,-17.2
+48724319,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1523,1431,0.0,3,-1.11,40,-44.4,"Mogneeshwar, J K U",,1545.0,False,IND,0.0,1,-0.34,40,-13.6
+48724319,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1523,1431,0.0,3,-1.11,40,-44.4,"Keshav, Sivaramakrishnan",,1547.0,False,IND,0.0,1,-0.34,40,-13.6

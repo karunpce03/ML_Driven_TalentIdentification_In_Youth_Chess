@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25975420,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1593,1631,4.0,8,-0.39,40,-15.6,"Deepak, Batra",,1829.0,False,IND,0.0,1,-0.24,40,-9.6
+25975420,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1593,1631,4.0,8,-0.39,40,-15.6,"Tavish, Berlia",,1444.0,False,IND,1.0,1,0.26,40,10.4
+25975420,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1593,1631,4.0,8,-0.39,40,-15.6,"Gajendra, Singh",,1803.0,False,IND,0.0,1,-0.27,40,-10.8
+25975420,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1593,1631,4.0,8,-0.39,40,-15.6,"Neema, Eshika",,1424.0,False,IND,0.5,1,-0.27,40,-10.8
+25975420,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1593,1631,4.0,8,-0.39,40,-15.6,"Bhardwaj, Anurag",,1460.0,False,IND,1.0,1,0.27,40,10.8
+25975420,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1593,1631,4.0,8,-0.39,40,-15.6,"Sri, Shiva Tejo Karthikeya K",,1558.0,False,IND,0.0,1,-0.6,40,-24.0
+25975420,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1593,1631,4.0,8,-0.39,40,-15.6,"Kadam, Atharv Ganesh",,1434.0,False,IND,1.0,1,0.25,40,10.0
+25975420,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,1593,1631,4.0,8,-0.39,40,-15.6,"Gaurang, Bhandari",,1789.0,False,IND,0.5,1,0.21,40,8.4

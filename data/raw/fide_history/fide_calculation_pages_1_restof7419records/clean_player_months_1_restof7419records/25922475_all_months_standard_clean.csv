@@ -1,0 +1,87 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25922475,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1662,1963,7.5,9,-0.11,40,-4.4,"Suryaa, I",,1563.0,True,IND,1.0,1,0.08,40,3.2
+25922475,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1662,1963,7.5,9,-0.11,40,-4.4,"Rohith, S",,1563.0,True,IND,1.0,1,0.08,40,3.2
+25922475,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1662,1963,7.5,9,-0.11,40,-4.4,"Ravada, Karthikesava",,1609.0,False,IND,0.5,1,-0.39,40,-15.6
+25922475,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1662,1963,7.5,9,-0.11,40,-4.4,"Surya, A",,1602.0,False,IND,1.0,1,0.1,40,4.0
+25922475,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1662,1963,7.5,9,-0.11,40,-4.4,"Vishweswaran, N",,1676.0,False,IND,1.0,1,0.16,40,6.4
+25922475,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1662,1963,7.5,9,-0.11,40,-4.4,"Logesh, Kumar R",,1740.0,False,IND,0.5,1,-0.28,40,-11.2
+25922475,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1662,1963,7.5,9,-0.11,40,-4.4,"Sudarsan, L P",,1670.0,False,IND,1.0,1,0.15,40,6.0
+25922475,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1662,1963,7.5,9,-0.11,40,-4.4,"Mahish, S A",,1806.0,False,IND,0.5,1,-0.21,40,-8.4
+25922475,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1662,1963,7.5,9,-0.11,40,-4.4,"Adhiadhavan, G",,1725.0,False,IND,1.0,1,0.2,40,8.0
+25922475,2024-07-01,0,26th Asian Youth Chess Championship U14 group,Almaty KAZ,2024-06-12,2024-06-19,1977,1959,5.5,9,1.18,40,47.2,"Rakhmatullaev, Muhammadsolih",,1691.0,False,UZB,1.0,1,0.17,40,6.8
+25922475,2024-07-01,0,26th Asian Youth Chess Championship U14 group,Almaty KAZ,2024-06-12,2024-06-19,1977,1959,5.5,9,1.18,40,47.2,"Averin, Nikolay",f,2250.0,False,FID,0.5,1,0.35,40,14.0
+25922475,2024-07-01,0,26th Asian Youth Chess Championship U14 group,Almaty KAZ,2024-06-12,2024-06-19,1977,1959,5.5,9,1.18,40,47.2,"Sriram, Adarsh Uppala",,2163.0,False,IND,0.0,1,-0.24,40,-9.6
+25922475,2024-07-01,0,26th Asian Youth Chess Championship U14 group,Almaty KAZ,2024-06-12,2024-06-19,1977,1959,5.5,9,1.18,40,47.2,"Yessengali, Adizhan",,1832.0,False,KAZ,0.5,1,-0.17,40,-6.8
+25922475,2024-07-01,0,26th Asian Youth Chess Championship U14 group,Almaty KAZ,2024-06-12,2024-06-19,1977,1959,5.5,9,1.18,40,47.2,"Kodiri, Pairavi",,1828.0,False,TJK,1.0,1,0.32,40,12.8
+25922475,2024-07-01,0,26th Asian Youth Chess Championship U14 group,Almaty KAZ,2024-06-12,2024-06-19,1977,1959,5.5,9,1.18,40,47.2,"Omar, Temirlan",,1894.0,False,KAZ,1.0,1,0.41,40,16.4
+25922475,2024-07-01,0,26th Asian Youth Chess Championship U14 group,Almaty KAZ,2024-06-12,2024-06-19,1977,1959,5.5,9,1.18,40,47.2,"Huh, Isaak",,2032.0,False,KOR,1.0,1,0.6,40,24.0
+25922475,2024-07-01,0,26th Asian Youth Chess Championship U14 group,Almaty KAZ,2024-06-12,2024-06-19,1977,1959,5.5,9,1.18,40,47.2,"Tenguundalai, Ganbat",,1975.0,False,MGL,0.0,1,-0.48,40,-19.2
+25922475,2024-07-01,0,26th Asian Youth Chess Championship U14 group,Almaty KAZ,2024-06-12,2024-06-19,1977,1959,5.5,9,1.18,40,47.2,"Nguyen, Manh Duc",c,2129.0,False,VIE,0.5,1,0.22,40,8.8
+25922475,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1718,2006,7.0,7,1.25,40,50.0,"Dev, Dharshan S",,1606.0,True,IND,1.0,1,0.08,40,3.2
+25922475,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1718,2006,7.0,7,1.25,40,50.0,"Joe, Gladson L",,1606.0,True,IND,1.0,1,0.08,40,3.2
+25922475,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1718,2006,7.0,7,1.25,40,50.0,"Sahana, S",,1606.0,True,IND,1.0,1,0.08,40,3.2
+25922475,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1718,2006,7.0,7,1.25,40,50.0,"Abhinav, C G",,1629.0,False,IND,1.0,1,0.09,40,3.6
+25922475,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1718,2006,7.0,7,1.25,40,50.0,"Tamizh, Selvan Ganesan",,1833.0,False,IND,1.0,1,0.27,40,10.8
+25922475,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1718,2006,7.0,7,1.25,40,50.0,"Kanishka, S",,1918.0,False,IND,1.0,1,0.38,40,15.2
+25922475,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1718,2006,7.0,7,1.25,40,50.0,"Kanishkaraj, V",,1831.0,False,IND,1.0,1,0.27,40,10.8
+25922475,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1959,2006,5.5,10,-0.31,36,-11.16,"Jayaweera, Y",,1870.0,False,SRI,1.0,1,0.32,36,11.52
+25922475,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1959,2006,5.5,10,-0.31,36,-11.16,"Peng, Li Min",g,2406.0,True,SUI,0.0,1,-0.08,36,-2.88
+25922475,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1959,2006,5.5,10,-0.31,36,-11.16,"Insara, S D Nadev",,1859.0,False,SRI,0.5,1,-0.2,36,-7.2
+25922475,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1959,2006,5.5,10,-0.31,36,-11.16,"Chandula, E D S",,1788.0,False,SRI,1.0,1,0.22,36,7.92
+25922475,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1959,2006,5.5,10,-0.31,36,-11.16,"Manuwaruna, Sethun Neththaru",,1871.0,False,SRI,1.0,1,0.32,36,11.52
+25922475,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1959,2006,5.5,10,-0.31,36,-11.16,"Nikitenko, Mihail",g,2406.0,True,BLR,0.0,1,-0.08,36,-2.88
+25922475,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1959,2006,5.5,10,-0.31,36,-11.16,"Samaranayake, Pamok Methdinu",,1723.0,False,SRI,1.0,1,0.16,36,5.76
+25922475,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1959,2006,5.5,10,-0.31,36,-11.16,"Senevirathne, S D B K",,1893.0,False,SRI,0.0,1,-0.65,36,-23.4
+25922475,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1959,2006,5.5,10,-0.31,36,-11.16,"Rebecca, Jesumarian",,1898.0,False,IND,1.0,1,0.35,36,12.6
+25922475,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1959,2006,5.5,10,-0.31,36,-11.16,"Nivedita, V C",,1877.0,False,IND,0.0,1,-0.67,36,-24.12
+25922475,2024-09-01,0,24th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-14,2024-08-20,2251,2056,4.0,9,1.73,36,62.28,"Surendran, N",,2159.0,False,IND,1.0,1,0.64,36,23.04
+25922475,2024-09-01,0,24th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-14,2024-08-20,2251,2056,4.0,9,1.73,36,62.28,"Uuriintuya, Uurtsaikh",wg,2212.0,False,MGL,0.5,1,0.21,36,7.56
+25922475,2024-09-01,0,24th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-14,2024-08-20,2251,2056,4.0,9,1.73,36,62.28,"Gochelashvili, David",m,2230.0,False,RUS,0.0,1,-0.27,36,-9.72
+25922475,2024-09-01,0,24th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-14,2024-08-20,2251,2056,4.0,9,1.73,36,62.28,"Jaiveer, Mahendru",f,2220.0,False,IND,0.5,1,0.22,36,7.92
+25922475,2024-09-01,0,24th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-14,2024-08-20,2251,2056,4.0,9,1.73,36,62.28,"Slizhevsky, Alexander",m,2381.0,False,RUS,0.0,1,-0.13,36,-4.68
+25922475,2024-09-01,0,24th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-14,2024-08-20,2251,2056,4.0,9,1.73,36,62.28,"Annageldyev, Orazly",g,2271.0,False,TKM,1.0,1,0.77,36,27.72
+25922475,2024-09-01,0,24th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-14,2024-08-20,2251,2056,4.0,9,1.73,36,62.28,"Kunal, M.",f,2245.0,False,IND,1.0,1,0.75,36,27.0
+25922475,2024-09-01,0,24th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-14,2024-08-20,2251,2056,4.0,9,1.73,36,62.28,"Kalyani, Sirin",wf,2220.0,False,IND,0.0,1,-0.28,36,-10.08
+25922475,2024-09-01,0,24th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-14,2024-08-20,2251,2056,4.0,9,1.73,36,62.28,"Manik, Mikulas",g,2320.0,False,SVK,0.0,1,-0.18,36,-6.48
+25922475,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 14,Kaluthara SRI,2024-08-28,2024-09-05,1806,2056,5.0,7,-0.5,40,-20.0,"Samaranayake, Pamok Methdinu",,1723.0,False,SRI,0.0,1,-0.88,40,-35.2
+25922475,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 14,Kaluthara SRI,2024-08-28,2024-09-05,1806,2056,5.0,7,-0.5,40,-20.0,"Minsara, S D Sadev",,1664.0,False,SRI,1.0,1,0.08,40,3.2
+25922475,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 14,Kaluthara SRI,2024-08-28,2024-09-05,1806,2056,5.0,7,-0.5,40,-20.0,"Gunawardena, Ramiru Sithika",,1677.0,False,SRI,1.0,1,0.09,40,3.6
+25922475,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 14,Kaluthara SRI,2024-08-28,2024-09-05,1806,2056,5.0,7,-0.5,40,-20.0,"Siriwardene, R B Sithum Nevanjith",,1764.0,False,SRI,1.0,1,0.15,40,6.0
+25922475,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 14,Kaluthara SRI,2024-08-28,2024-09-05,1806,2056,5.0,7,-0.5,40,-20.0,"Mridav, M",,1815.0,False,IND,0.0,1,-0.8,40,-32.0
+25922475,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 14,Kaluthara SRI,2024-08-28,2024-09-05,1806,2056,5.0,7,-0.5,40,-20.0,"Sharnarthi, Viresh",,2147.0,False,IND,1.0,1,0.62,40,24.8
+25922475,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 14,Kaluthara SRI,2024-08-28,2024-09-05,1806,2056,5.0,7,-0.5,40,-20.0,"Wickramasinghe, V W A Vinuda Vidm",,1851.0,False,SRI,1.0,1,0.24,40,9.6
+25922475,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,1972,2087,6.0,9,0.17,40,6.8,"Lamers, Ludwig",,1959.0,False,GER,0.5,1,-0.17,40,-6.8
+25922475,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,1972,2087,6.0,9,0.17,40,6.8,"Tennstedt, Andreas, Dr.",,2035.0,False,GER,1.0,1,0.43,40,17.2
+25922475,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,1972,2087,6.0,9,0.17,40,6.8,"Hartwig, Eric-Jordan",,1818.0,False,GER,1.0,1,0.17,40,6.8
+25922475,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,1972,2087,6.0,9,0.17,40,6.8,"Weidemann, Jakob",,2217.0,False,GER,0.5,1,0.18,40,7.2
+25922475,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,1972,2087,6.0,9,0.17,40,6.8,"Naveen, Kumar P",,1891.0,False,IND,0.0,1,-0.75,40,-30.0
+25922475,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,1972,2087,6.0,9,0.17,40,6.8,"Hofmann, Benjamin",,1935.0,False,GER,1.0,1,0.3,40,12.0
+25922475,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,1972,2087,6.0,9,0.17,40,6.8,"Schwitkowski, Luka",,2012.0,False,GER,0.0,1,-0.6,40,-24.0
+25922475,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,1972,2087,6.0,9,0.17,40,6.8,"Dorn, Wolfgang",,1908.0,False,GER,1.0,1,0.27,40,10.8
+25922475,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,1972,2087,6.0,9,0.17,40,6.8,"Neumann, Theodor",,1969.0,False,GER,1.0,1,0.34,40,13.6
+25922475,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2378,2087,4.0,8,2.73,40,109.2,"Jumabayev, Rinat",g,2487.0,True,KAZ,1.0,1,0.92,40,36.8
+25922475,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2378,2087,4.0,8,2.73,40,109.2,"Mamatov, Melis",f,2358.0,False,KGZ,0.5,1,0.33,40,13.2
+25922475,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2378,2087,4.0,8,2.73,40,109.2,"Colmenares, Aurelio",f,2331.0,False,SUI,0.5,1,0.3,40,12.0
+25922475,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2378,2087,4.0,8,2.73,40,109.2,"Dushyant, Sharma",m,2325.0,False,IND,1.0,1,0.8,40,32.0
+25922475,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2378,2087,4.0,8,2.73,40,109.2,"Martins, David Pires Tavares",m,2410.0,False,POR,0.0,1,-0.13,40,-5.2
+25922475,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2378,2087,4.0,8,2.73,40,109.2,"Fischer, Daniel",m,2362.0,False,SUI,0.5,1,0.33,40,13.2
+25922475,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2378,2087,4.0,8,2.73,40,109.2,"Namitbir, Singh Walia",f,2351.0,False,IND,0.5,1,0.32,40,12.8
+25922475,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2378,2087,4.0,8,2.73,40,109.2,"Tahay, Alexis",m,2402.0,False,FRA,0.0,1,-0.14,40,-5.6
+25922475,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2035,2087,6.0,9,1.03,38,39.14,"Freitas, Carlos",,1687.0,True,POR,1.0,1,0.08,38,3.04
+25922475,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2035,2087,6.0,9,1.03,38,39.14,"Sousa, Diogo Miguel Braz",,1687.0,True,POR,1.0,1,0.08,38,3.04
+25922475,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2035,2087,6.0,9,1.03,38,39.14,"Cernov, Vadim",m,2258.0,False,ROU,0.0,1,-0.27,38,-10.26
+25922475,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2035,2087,6.0,9,1.03,38,39.14,"De Kruif, Kees",,1868.0,False,NED,1.0,1,0.22,38,8.36
+25922475,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2035,2087,6.0,9,1.03,38,39.14,"Veiga, Jose Francisco R P Neves",m,2412.0,False,POR,1.0,1,0.87,38,33.06
+25922475,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2035,2087,6.0,9,1.03,38,39.14,"Strikovic, Aleksa",g,2365.0,False,SRB,0.0,1,-0.17,38,-6.46
+25922475,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2035,2087,6.0,9,1.03,38,39.14,"Bittner, Titus",,1905.0,False,GER,1.0,1,0.26,38,9.88
+25922475,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2035,2087,6.0,9,1.03,38,39.14,"Santagati, Alessandro",f,2225.0,False,ITA,0.0,1,-0.31,38,-11.78
+25922475,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2035,2087,6.0,9,1.03,38,39.14,"Amoes, Francisco",,1908.0,False,POR,1.0,1,0.27,38,10.26
+25922475,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2334,2203,6.0,9,3.03,38,115.14,"Rodrigues, Dinis",,1803.0,True,POR,1.0,1,0.08,38,3.04
+25922475,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2334,2203,6.0,9,3.03,38,115.14,"Sousa, Andre Ventura",m,2394.0,False,POR,1.0,1,0.75,38,28.5
+25922475,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2334,2203,6.0,9,3.03,38,115.14,"Grigoryan, Karen H.",g,2603.0,True,ARM,0.0,1,-0.08,38,-3.04
+25922475,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2334,2203,6.0,9,3.03,38,115.14,"Povshednyi, Ivan",c,2351.0,False,UKR,1.0,1,0.7,38,26.6
+25922475,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2334,2203,6.0,9,3.03,38,115.14,"Navrotescu, Andreea",wg,2338.0,False,FRA,1.0,1,0.68,38,25.84
+25922475,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2334,2203,6.0,9,3.03,38,115.14,"Martins, Bruno Andre Leite",f,2323.0,False,POR,0.5,1,0.16,38,6.08
+25922475,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2334,2203,6.0,9,3.03,38,115.14,"Prraneeth, Vuppala",c,2459.0,False,IND,0.0,1,-0.19,38,-7.22
+25922475,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2334,2203,6.0,9,3.03,38,115.14,"Elissalt Cardenas, Hector",m,2335.0,False,ESP,1.0,1,0.68,38,25.84
+25922475,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2334,2203,6.0,9,3.03,38,115.14,"Stella, Andrea",g,2398.0,False,ITA,0.5,1,0.25,38,9.5

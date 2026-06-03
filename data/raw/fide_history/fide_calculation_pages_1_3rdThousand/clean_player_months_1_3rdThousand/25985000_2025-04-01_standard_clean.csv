@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25985000,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1820,1753,2.5,5,0.3,40,12.0,"Priyanka, K",wm,2086,False,IND,0.0,1,-0.12,40,-4.8
+25985000,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1820,1753,2.5,5,0.3,40,12.0,"Sanchita, Yadav",,1647,False,IND,1.0,1,0.36,40,14.4
+25985000,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1820,1753,2.5,5,0.3,40,12.0,"Rajasurya, J.",wf,1730,False,IND,0.5,1,-0.03,40,-1.2
+25985000,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1820,1753,2.5,5,0.3,40,12.0,"Kaivallya, Kshitij Goyanka",,1484,False,IND,1.0,1,0.17,40,6.8
+25985000,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1820,1753,2.5,5,0.3,40,12.0,"Mohota, Nisha",m wg,2153,True,IND,0.0,1,-0.08,40,-3.2

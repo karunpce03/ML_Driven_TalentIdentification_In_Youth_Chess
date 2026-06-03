@@ -1,0 +1,30 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Levitan, Caleb Levi",f,2205.0,False,RSA,0.0,1,-0.67,20,-13.4
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Pastar, Slaven",m,2361.0,False,BIH,0.5,1,0.04,20,0.8
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Varga, Zoltan",g,2286.0,False,HUN,1.0,1,0.43,20,8.6
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Papp, Levente",f,2362.0,False,HUN,0.0,1,-0.46,20,-9.2
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Dvornic, Mladen",f,2247.0,False,SRB,0.5,1,-0.12,20,-2.4
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Ljepic, Andrej",f,2356.0,False,SRB,0.5,1,0.03,20,0.6
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Cabarkapa, Novak",m,2464.0,False,SRB,0.0,1,-0.32,20,-6.4
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Alimpic, Aleksa",c,2238.0,False,SRB,0.5,1,-0.13,20,-2.6
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Bulmaga, Irina",m wg,2402.0,False,ROU,0.5,1,0.1,20,2.0
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Ozen, Deniz",m,2394.0,False,TUR,0.5,1,0.08,20,1.6
+25937219,2024-12-01,0,Druga liga Srbije grupa Vojvodina 2024,Palic SRB,2024-10-29,2024-11-05,2336,2333,4.5,11,-0.95,20,-19.0,"Munizaba, Slobodan",f,2385.0,False,SRB,0.5,1,0.07,20,1.4
+25937219,2024-12-01,0,RUDAR XI - GM ROUND ROBIN,Pozarevac SRB,2024-11-06,2024-11-13,2390,2333,2.5,9,-1.3,20,-26.0,"Namitbir, Singh Walia",f,2339.0,False,IND,0.0,1,-0.49,20,-9.8
+25937219,2024-12-01,0,RUDAR XI - GM ROUND ROBIN,Pozarevac SRB,2024-11-06,2024-11-13,2390,2333,2.5,9,-1.3,20,-26.0,"Wu, Yixing",,2403.0,False,CHN,0.0,1,-0.4,20,-8.0
+25937219,2024-12-01,0,RUDAR XI - GM ROUND ROBIN,Pozarevac SRB,2024-11-06,2024-11-13,2390,2333,2.5,9,-1.3,20,-26.0,"Garv, Gaur",f,2388.0,False,IND,0.5,1,0.08,20,1.6
+25937219,2024-12-01,0,RUDAR XI - GM ROUND ROBIN,Pozarevac SRB,2024-11-06,2024-11-13,2390,2333,2.5,9,-1.3,20,-26.0,"Stojanovic, Mihajlo",g,2430.0,False,SRB,0.5,1,0.13,20,2.6
+25937219,2024-12-01,0,RUDAR XI - GM ROUND ROBIN,Pozarevac SRB,2024-11-06,2024-11-13,2390,2333,2.5,9,-1.3,20,-26.0,"Nikolov, Momchil",g,2421.0,False,BUL,0.0,1,-0.38,20,-7.6
+25937219,2024-12-01,0,RUDAR XI - GM ROUND ROBIN,Pozarevac SRB,2024-11-06,2024-11-13,2390,2333,2.5,9,-1.3,20,-26.0,"Dimitrov, Radoslav",g,2478.0,False,BUL,0.0,1,-0.31,20,-6.2
+25937219,2024-12-01,0,RUDAR XI - GM ROUND ROBIN,Pozarevac SRB,2024-11-06,2024-11-13,2390,2333,2.5,9,-1.3,20,-26.0,"Milosevic, Milos",m,2306.0,False,SRB,1.0,1,0.46,20,9.2
+25937219,2024-12-01,0,RUDAR XI - GM ROUND ROBIN,Pozarevac SRB,2024-11-06,2024-11-13,2390,2333,2.5,9,-1.3,20,-26.0,"Spasic, Petar",f,2354.0,False,SRB,0.5,1,0.03,20,0.6
+25937219,2024-12-01,0,RUDAR XI - GM ROUND ROBIN,Pozarevac SRB,2024-11-06,2024-11-13,2390,2333,2.5,9,-1.3,20,-26.0,"Sutormin, Danila",f,2394.0,False,RUS,0.0,1,-0.42,20,-8.4
+25937219,2024-12-01,0,RUDAR XII - GM ROUND ROBIN,Pozarevac SRB,2024-11-14,2024-11-21,2390,2333,1.5,9,-2.31,20,-46.2,"Wu, Yixing",,2403.0,False,CHN,0.0,1,-0.4,20,-8.0
+25937219,2024-12-01,0,RUDAR XII - GM ROUND ROBIN,Pozarevac SRB,2024-11-14,2024-11-21,2390,2333,1.5,9,-2.31,20,-46.2,"Sutormin, Danila",f,2394.0,False,RUS,0.0,1,-0.42,20,-8.4
+25937219,2024-12-01,0,RUDAR XII - GM ROUND ROBIN,Pozarevac SRB,2024-11-14,2024-11-21,2390,2333,1.5,9,-2.31,20,-46.2,"Stoyanov, Stoyan Or",,2333.0,False,BUL,0.0,1,-0.5,20,-10.0
+25937219,2024-12-01,0,RUDAR XII - GM ROUND ROBIN,Pozarevac SRB,2024-11-14,2024-11-21,2390,2333,1.5,9,-2.31,20,-46.2,"Dimitrov, Radoslav",g,2478.0,False,BUL,0.0,1,-0.31,20,-6.2
+25937219,2024-12-01,0,RUDAR XII - GM ROUND ROBIN,Pozarevac SRB,2024-11-14,2024-11-21,2390,2333,1.5,9,-2.31,20,-46.2,"Stojanovic, Mihajlo",g,2430.0,False,SRB,0.0,1,-0.37,20,-7.4
+25937219,2024-12-01,0,RUDAR XII - GM ROUND ROBIN,Pozarevac SRB,2024-11-14,2024-11-21,2390,2333,1.5,9,-2.31,20,-46.2,"Spasic, Petar",f,2354.0,False,SRB,0.5,1,0.03,20,0.6
+25937219,2024-12-01,0,RUDAR XII - GM ROUND ROBIN,Pozarevac SRB,2024-11-14,2024-11-21,2390,2333,1.5,9,-2.31,20,-46.2,"Milosevic, Milos",m,2306.0,False,SRB,1.0,1,0.46,20,9.2
+25937219,2024-12-01,0,RUDAR XII - GM ROUND ROBIN,Pozarevac SRB,2024-11-14,2024-11-21,2390,2333,1.5,9,-2.31,20,-46.2,"Garv, Gaur",f,2388.0,False,IND,0.0,1,-0.42,20,-8.4
+25937219,2024-12-01,0,RUDAR XII - GM ROUND ROBIN,Pozarevac SRB,2024-11-14,2024-11-21,2390,2333,1.5,9,-2.31,20,-46.2,"Nikolov, Momchil",g,2421.0,False,BUL,0.0,1,-0.38,20,-7.6

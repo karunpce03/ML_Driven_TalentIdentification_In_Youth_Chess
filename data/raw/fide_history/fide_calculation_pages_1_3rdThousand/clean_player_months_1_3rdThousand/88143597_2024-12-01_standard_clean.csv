@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88143597,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1626,1449,2.5,6,0.82,40,32.8,"Palit, Somak",m,1849,True,IND,0.0,1,-0.08,40,-3.2
+88143597,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1626,1449,2.5,6,0.82,40,32.8,"Pratham, Nayyar",,1595,False,IND,0.0,1,-0.3,40,-12.0
+88143597,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1626,1449,2.5,6,0.82,40,32.8,"Badhwar, Daksh",,1594,False,USA,0.5,1,0.19,40,7.6
+88143597,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1626,1449,2.5,6,0.82,40,32.8,"Sahil, Mahajan",,1556,False,IND,0.5,1,0.15,40,6.0
+88143597,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1626,1449,2.5,6,0.82,40,32.8,"Hriday, Garg",,1595,False,IND,0.5,1,0.2,40,8.0
+88143597,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1626,1449,2.5,6,0.82,40,32.8,"Tanush, Johari",,1569,False,IND,1.0,1,0.66,40,26.4

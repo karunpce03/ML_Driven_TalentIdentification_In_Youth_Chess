@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25933809,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1608,1633,6.0,7,2.26,40,90.4,"Tavish, Berlia",,1444.0,False,IND,1.0,1,0.25,40,10.0
+25933809,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1608,1633,6.0,7,2.26,40,90.4,"Parnava, Kuila",,1460.0,False,IND,1.0,1,0.27,40,10.8
+25933809,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1608,1633,6.0,7,2.26,40,90.4,"Arnab, Nandy",,1545.0,False,IND,1.0,1,0.38,40,15.2
+25933809,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1608,1633,6.0,7,2.26,40,90.4,"Sagnik, Dutta",,1808.0,False,IND,1.0,1,0.73,40,29.2
+25933809,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1608,1633,6.0,7,2.26,40,90.4,"Shrihaan, Barman",,1540.0,False,IND,1.0,1,0.37,40,14.8
+25933809,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1608,1633,6.0,7,2.26,40,90.4,"Narendra, Agarwal",,1770.0,False,IND,0.5,1,0.18,40,7.2
+25933809,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1608,1633,6.0,7,2.26,40,90.4,"Sayan, Barua",,1690.0,False,IND,0.5,1,0.08,40,3.2

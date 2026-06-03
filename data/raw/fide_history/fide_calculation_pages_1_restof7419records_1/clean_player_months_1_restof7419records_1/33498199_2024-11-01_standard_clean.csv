@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33498199,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1690,1483,0.0,3,-0.71,40,-28.4,"Rupak, M",,1723.0,False,IND,0.0,1,-0.2,40,-8.0
+33498199,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1690,1483,0.0,3,-0.71,40,-28.4,"Harikrishna, C",,1670.0,False,IND,0.0,1,-0.26,40,-10.4
+33498199,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1690,1483,0.0,3,-0.71,40,-28.4,"Karthick, Babu",,1677.0,False,IND,0.0,1,-0.25,40,-10.0
+33498199,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1694,1483,2.0,6,0.5,40,20.0,"Abhishek, T M",,1883.0,True,IND,0.0,1,-0.08,40,-3.2
+33498199,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1694,1483,2.0,6,0.5,40,20.0,"Rishi, Pallagani",,1663.0,False,IND,0.0,1,-0.26,40,-10.4
+33498199,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1694,1483,2.0,6,0.5,40,20.0,"Shanmukha, Pulli",,1787.0,False,IND,1.0,1,0.86,40,34.4
+33498199,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1694,1483,2.0,6,0.5,40,20.0,"Sarath Kr, Nanda",,1682.0,False,IND,0.0,1,-0.24,40,-9.6
+33498199,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1694,1483,2.0,6,0.5,40,20.0,"Kaushika, Sridharan",,1715.0,False,IND,0.0,1,-0.21,40,-8.4
+33498199,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1694,1483,2.0,6,0.5,40,20.0,"Akshith, Done",,1432.0,False,IND,1.0,1,0.43,40,17.2

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88101843,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,2.0,6,0.0,1387,,"Nehan, Abdullah",,1560.0,False,BAN,0.0,1,0.0,,0.0
+88101843,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,2.0,6,0.0,1387,,"Jinay, Ankitbhai Shah",,1492.0,False,IND,0.0,1,0.0,,0.0
+88101843,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,2.0,6,0.0,1387,,"Alonaizi, Abdullah",,1581.0,False,KUW,1.0,1,0.0,,0.0
+88101843,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,2.0,6,0.0,1387,,"Mohammed, Junaid Khan",,1431.0,False,IND,1.0,1,0.0,,0.0
+88101843,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,2.0,6,0.0,1387,,"Ceonal, Roy Xavier",,1596.0,False,IND,0.0,1,0.0,,0.0
+88101843,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,2.0,6,0.0,1387,,"Safar, Hussain",,1414.0,False,KUW,0.0,1,0.0,,0.0
+88101843,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1678.0,1497.0,0.5,3,-0.32,40,-12.8,"Alshourfaa, Hazaa",,1791.0,False,KUW,0.0,1,-0.15,40.0,-6.0
+88101843,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1678.0,1497.0,0.5,3,-0.32,40,-12.8,"Sumesh, Suresh",,1678.0,False,IND,0.5,1,0.24,40.0,9.6
+88101843,2024-12-01,0,KICA Classic Chess Carnival 2024,Kuwait KUW,2024-11-10,2024-11-18,1678.0,1497.0,0.5,3,-0.32,40,-12.8,"Nehan, Abdullah",,1564.0,False,BAN,0.0,1,-0.41,40.0,-16.4

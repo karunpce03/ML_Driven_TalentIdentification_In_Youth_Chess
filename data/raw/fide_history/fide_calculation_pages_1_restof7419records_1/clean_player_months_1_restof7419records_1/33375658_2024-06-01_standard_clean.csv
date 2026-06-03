@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33375658,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1580,1423,1.5,5,0.03,40,1.2,"Keerthivasan, P K",,1581.0,False,IND,1.0,1,0.71,40,28.4
+33375658,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1580,1423,1.5,5,0.03,40,1.2,"Vishnu, Eswar Vetrivelan",,1632.0,False,IND,0.5,1,0.27,40,10.8
+33375658,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1580,1423,1.5,5,0.03,40,1.2,"Sananda, R",,1629.0,False,IND,0.0,1,-0.24,40,-9.6
+33375658,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1580,1423,1.5,5,0.03,40,1.2,"Tanav, Kalyan V",,1534.0,False,IND,0.0,1,-0.35,40,-14.0
+33375658,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1580,1423,1.5,5,0.03,40,1.2,"Kavish, Palaniappan K",,1523.0,False,IND,0.0,1,-0.36,40,-14.4
+33375658,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1687,1423,1.0,4,0.25,40,10.0,"Peter Anand, A",,1823.0,True,IND,0.0,1,-0.08,40,-3.2
+33375658,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1687,1423,1.0,4,0.25,40,10.0,"Pooja, Shree R",,1705.0,False,IND,0.0,1,-0.16,40,-6.4
+33375658,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1687,1423,1.0,4,0.25,40,10.0,"Dhinesh, K A",,1614.0,False,IND,0.0,1,-0.25,40,-10.0
+33375658,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1687,1423,1.0,4,0.25,40,10.0,"Daksh, M",,1605.0,False,IND,1.0,1,0.74,40,29.6

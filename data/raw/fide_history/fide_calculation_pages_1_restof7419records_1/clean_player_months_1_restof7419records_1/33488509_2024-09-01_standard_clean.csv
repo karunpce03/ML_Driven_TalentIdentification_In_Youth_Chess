@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33488509,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1582,1435,0.0,3,-0.92,40,-36.8,"Ashva, Shanmugam",,1662.0,False,IND,0.0,1,-0.21,40,-8.4
+33488509,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1582,1435,0.0,3,-0.92,40,-36.8,"Mohamed, Thaariq R",,1554.0,False,IND,0.0,1,-0.34,40,-13.6
+33488509,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1582,1435,0.0,3,-0.92,40,-36.8,"Kabilesh, K",,1530.0,False,IND,0.0,1,-0.37,40,-14.8

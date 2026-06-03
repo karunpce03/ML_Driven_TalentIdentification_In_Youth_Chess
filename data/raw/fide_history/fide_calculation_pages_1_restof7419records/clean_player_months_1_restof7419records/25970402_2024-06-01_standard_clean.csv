@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25970402,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1558,1643,5.0,7,0.73,40,29.2,"Tanay, Karmakar",,1450.0,False,IND,1.0,1,0.25,40,10.0
+25970402,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1558,1643,5.0,7,0.73,40,29.2,"Soumalya, Mondol",,1825.0,False,IND,0.0,1,-0.26,40,-10.4
+25970402,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1558,1643,5.0,7,0.73,40,29.2,"Sourav, Kumar Roy",,1470.0,False,IND,1.0,1,0.27,40,10.8
+25970402,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1558,1643,5.0,7,0.73,40,29.2,"Neelabha, Sarkar",,1420.0,False,IND,0.0,1,-0.78,40,-31.2
+25970402,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1558,1643,5.0,7,0.73,40,29.2,"Arnab, Nandy",,1468.0,False,IND,1.0,1,0.27,40,10.8
+25970402,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1558,1643,5.0,7,0.73,40,29.2,"Bibaswan, Roy",,1505.0,False,IND,1.0,1,0.31,40,12.4
+25970402,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1558,1643,5.0,7,0.73,40,29.2,"Aritra, Chanda",,1765.0,False,IND,1.0,1,0.67,40,26.8

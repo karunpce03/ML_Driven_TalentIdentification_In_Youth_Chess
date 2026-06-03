@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Nagyova, Daniela",,1958,False,CZE,1.0,1,0.84,40,33.6
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Agajanova, Meryem",wc,1955,False,TKM,0.0,1,-0.17,40,-6.8
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Khairmode, Dhanashree",,1929,False,IND,0.0,1,-0.19,40,-7.6
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Marium, Fatima",,1905,False,IND,0.0,1,-0.21,40,-8.4
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Kirtadze, Anastasia",wf,2077,True,GEO,0.0,1,-0.08,40,-3.2
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Varshita, Jain",,1676,False,IND,0.5,1,0.0,40,0.0
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Benito De Leo, Estefania",,1900,False,MEX,1.0,1,0.78,40,31.2
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Anushka, Gupta",,1766,False,IND,0.5,1,0.12,40,4.8
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Kirthika, B",,1724,False,IND,0.0,1,-0.43,40,-17.2
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Fang, Kun",wc,1803,False,SGP,0.0,1,-0.33,40,-13.2
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Asudani, Ruhani Raj",,1645,False,IND,1.0,1,0.46,40,18.4

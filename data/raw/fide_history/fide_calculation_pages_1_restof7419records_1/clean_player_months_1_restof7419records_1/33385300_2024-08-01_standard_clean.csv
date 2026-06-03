@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33385300,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1787,1928,8.0,11,0.64,40,25.6,"Godhani, Maharth",,1568,False,IND,0.0,1,-0.9,40,-36.0
+33385300,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1787,1928,8.0,11,0.64,40,25.6,"Shivam, Thakur",,1528,True,IND,1.0,1,0.08,40,3.2
+33385300,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1787,1928,8.0,11,0.64,40,25.6,"Ayya, Ayush Umesh",,1604,False,IND,1.0,1,0.13,40,5.2
+33385300,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1787,1928,8.0,11,0.64,40,25.6,"Medhvansh, Madeti",,1763,False,IND,1.0,1,0.28,40,11.2
+33385300,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1787,1928,8.0,11,0.64,40,25.6,"Atharv, Bansal",,1813,False,IND,1.0,1,0.34,40,13.6
+33385300,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1787,1928,8.0,11,0.64,40,25.6,"Shubh, Kapur",,1755,False,IND,0.0,1,-0.73,40,-29.2
+33385300,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1787,1928,8.0,11,0.64,40,25.6,"Shashank, K",,1761,False,IND,1.0,1,0.28,40,11.2
+33385300,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1787,1928,8.0,11,0.64,40,25.6,"Avadhoot, Lokesh Bhakti Brahme",,1829,False,IND,1.0,1,0.36,40,14.4
+33385300,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1787,1928,8.0,11,0.64,40,25.6,"Jaiveer, Mahendru",f,2214,False,IND,0.0,1,-0.16,40,-6.4
+33385300,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1787,1928,8.0,11,0.64,40,25.6,"Kirpesh, I",,1717,False,IND,1.0,1,0.23,40,9.2
+33385300,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1787,1928,8.0,11,0.64,40,25.6,"Jaidambareesh, N R",,2102,False,IND,1.0,1,0.73,40,29.2

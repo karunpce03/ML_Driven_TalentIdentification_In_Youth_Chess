@@ -1,0 +1,27 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25770624,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2351,2320,3.5,9,-0.63,20,-12.6,"Jubin, Jimmy",m,2453.0,False,IND,0.5,1,0.18,20,3.6
+25770624,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2351,2320,3.5,9,-0.63,20,-12.6,"Pingin, Artem",m,2447.0,False,FID,0.0,1,-0.33,20,-6.6
+25770624,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2351,2320,3.5,9,-0.63,20,-12.6,"Garv, Gaur",f,2388.0,False,IND,0.0,1,-0.41,20,-8.2
+25770624,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2351,2320,3.5,9,-0.63,20,-12.6,"Jake, Shanty",,2270.0,False,IND,0.0,1,-0.57,20,-11.4
+25770624,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2351,2320,3.5,9,-0.63,20,-12.6,"Apaar, Saxena",c,2333.0,False,IND,1.0,1,0.52,20,10.4
+25770624,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2351,2320,3.5,9,-0.63,20,-12.6,"Ilkhomi, Jaloliddin",f,2278.0,False,TJK,0.0,1,-0.56,20,-11.2
+25770624,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2351,2320,3.5,9,-0.63,20,-12.6,"Fayzullaev, Akmal",m,2332.0,False,UZB,0.5,1,0.02,20,0.4
+25770624,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2351,2320,3.5,9,-0.63,20,-12.6,"Jaiveer, Mahendru",f,2273.0,False,IND,0.5,1,-0.07,20,-1.4
+25770624,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2351,2320,3.5,9,-0.63,20,-12.6,"Bukreev, Stanislav",f,2384.0,False,FID,1.0,1,0.59,20,11.8
+25770624,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2408,2320,3.0,9,-0.43,20,-8.6,"Madaminov, Mukhiddin",g,2501.0,False,UZB,0.5,1,0.24,20,4.8
+25770624,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2408,2320,3.0,9,-0.43,20,-8.6,"Chanda, Sandipan",g,2480.0,False,IND,0.5,1,0.21,20,4.2
+25770624,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2408,2320,3.0,9,-0.43,20,-8.6,"Garifullina, Leya",m wg,2451.0,False,FID,0.5,1,0.18,20,3.6
+25770624,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2408,2320,3.0,9,-0.43,20,-8.6,"Shyaam, Nikhil P",g,2445.0,False,IND,0.0,1,-0.33,20,-6.6
+25770624,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2408,2320,3.0,9,-0.43,20,-8.6,"Abdurakhmonov, Mukhammadali",m,2395.0,False,UZB,0.0,1,-0.4,20,-8.0
+25770624,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2408,2320,3.0,9,-0.43,20,-8.6,"Aitbayev, Aslan",m,2369.0,False,KAZ,0.0,1,-0.43,20,-8.6
+25770624,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2408,2320,3.0,9,-0.43,20,-8.6,"Kiolbasa, Oliwia",m wm,2371.0,False,POL,1.0,1,0.57,20,11.4
+25770624,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2408,2320,3.0,9,-0.43,20,-8.6,"Fandi, Mazen.",,2278.0,False,SYR,0.5,1,-0.06,20,-1.2
+25770624,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2408,2320,3.0,9,-0.43,20,-8.6,"Moksh, Amit Doshi",m,2383.0,False,IND,0.0,1,-0.41,20,-8.2
+25770624,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2138,2320,5.0,8,-0.53,20,-10.6,"Lakshmi, Charan Naidu G",,1943.0,False,IND,0.5,1,-0.41,20,-8.2
+25770624,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2138,2320,5.0,8,-0.53,20,-10.6,"Rohith, Yadav B R",,1956.0,False,IND,1.0,1,0.1,20,2.0
+25770624,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2138,2320,5.0,8,-0.53,20,-10.6,"Mrudul, Dehankar",wm,2055.0,False,IND,0.0,1,-0.82,20,-16.4
+25770624,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2138,2320,5.0,8,-0.53,20,-10.6,"Swastik, Suvam Patnaik",,1920.0,True,IND,1.0,1,0.08,20,1.6
+25770624,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2138,2320,5.0,8,-0.53,20,-10.6,"Jyotshnav, Talukdar",,1956.0,False,IND,1.0,1,0.1,20,2.0
+25770624,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2138,2320,5.0,8,-0.53,20,-10.6,"Savchenko, Boris",g,2473.0,False,RUS,1.0,1,0.7,20,14.0
+25770624,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2138,2320,5.0,8,-0.53,20,-10.6,"Kushagra, Mohan",m,2417.0,False,IND,0.5,1,0.13,20,2.6
+25770624,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2138,2320,5.0,8,-0.53,20,-10.6,"Viani, Antonio Dcunha",m,2383.0,False,IND,0.0,1,-0.41,20,-8.2

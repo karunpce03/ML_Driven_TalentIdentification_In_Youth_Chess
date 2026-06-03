@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25750623,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1561.0,1412.0,0.0,2,-0.61,40,-24.4,"Sandhana, D",,1523.0,False,IND,0.0,1,-0.35,40.0,-14.0
+25750623,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1561.0,1412.0,0.0,2,-0.61,40,-24.4,"Lakshmi, Shri Harini N",,1599.0,False,IND,0.0,1,-0.26,40.0,-10.4
+25750623,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,,,3.0,9,0.0,1428,,"Niranjana, N",,1632.0,False,IND,0.0,1,0.0,,0.0
+25750623,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,,,3.0,9,0.0,1428,,"Baishnavi, Limboo",,1514.0,False,IND,1.0,1,0.0,,0.0
+25750623,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,,,3.0,9,0.0,1428,,"Aadya, Gowda",,1700.0,False,IND,0.0,1,0.0,,0.0
+25750623,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,,,3.0,9,0.0,1428,,"Isha, R",,1475.0,False,IND,0.0,1,0.0,,0.0
+25750623,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,,,3.0,9,0.0,1428,,"Saee, Kaustubh Deo",,1603.0,False,IND,1.0,1,0.0,,0.0
+25750623,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,,,3.0,9,0.0,1428,,"Divakaran, Sinddhizhai",,1522.0,False,IND,1.0,1,0.0,,0.0
+25750623,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,,,3.0,9,0.0,1428,,"Anusri, S",,1534.0,False,IND,0.0,1,0.0,,0.0
+25750623,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,,,3.0,9,0.0,1428,,"Hiya, Garg",,1505.0,False,IND,0.0,1,0.0,,0.0
+25750623,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,,,3.0,9,0.0,1428,,"Ankita, Raj",,1496.0,False,IND,0.0,1,0.0,,0.0

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25751115,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1497,1579,2.0,5,-1.05,40,-42.0,"Ethan, V Johnson",,1743.0,False,IND,0.0,1,-0.28,40,-11.2
+25751115,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1497,1579,2.0,5,-1.05,40,-42.0,Balakrishnan,,1431.0,False,IND,1.0,1,0.3,40,12.0
+25751115,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1497,1579,2.0,5,-1.05,40,-42.0,"Viswanathan, B S",,1409.0,False,IND,0.0,1,-0.72,40,-28.8
+25751115,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1497,1579,2.0,5,-1.05,40,-42.0,"Ineyan, M R",,1436.0,False,IND,1.0,1,0.31,40,12.4
+25751115,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1497,1579,2.0,5,-1.05,40,-42.0,"Athavan, A",,1464.0,False,IND,0.0,1,-0.66,40,-26.4

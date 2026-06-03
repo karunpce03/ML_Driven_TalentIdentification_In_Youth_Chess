@@ -1,0 +1,41 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33330638,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1613,1484,2.5,6,0.39,40,15.6,"Soumya, Swaminathan",m wg,1884.0,True,IND,0.0,1,-0.08,40,-3.2
+33330638,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1613,1484,2.5,6,0.39,40,15.6,"Sonali, Manhas",,1458.0,False,IND,1.0,1,0.46,40,18.4
+33330638,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1613,1484,2.5,6,0.39,40,15.6,"Avika, Panwar",,1680.0,False,IND,0.0,1,-0.25,40,-10.0
+33330638,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1613,1484,2.5,6,0.39,40,15.6,"Shriya, Guleria",,1462.0,False,IND,1.0,1,0.47,40,18.8
+33330638,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1613,1484,2.5,6,0.39,40,15.6,"Pranjal, Malhotra",,1493.0,False,IND,0.0,1,-0.49,40,-19.6
+33330638,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1613,1484,2.5,6,0.39,40,15.6,"Minki, Sinha",,1702.0,False,IND,0.5,1,0.28,40,11.2
+33330638,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1688,1500,1.0,6,-0.63,40,-25.2,"Kale, Shruti",,1805.0,False,IND,0.0,1,-0.14,40,-5.6
+33330638,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1688,1500,1.0,6,-0.63,40,-25.2,"Amulya, Guruprasad",,1761.0,False,IND,0.0,1,-0.18,40,-7.2
+33330638,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1688,1500,1.0,6,-0.63,40,-25.2,"Cera, Dagariya",,1761.0,False,IND,0.0,1,-0.18,40,-7.2
+33330638,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1688,1500,1.0,6,-0.63,40,-25.2,"Avika, Panwar",,1734.0,False,IND,0.0,1,-0.21,40,-8.4
+33330638,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1688,1500,1.0,6,-0.63,40,-25.2,"Radhya, Malhotra",,1415.0,False,IND,1.0,1,0.38,40,15.2
+33330638,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1688,1500,1.0,6,-0.63,40,-25.2,"Radhika, Sharma",,1653.0,False,IND,0.0,1,-0.3,40,-12.0
+33330638,2024-08-01,0,3rd H.P. Senior State FIDE Rated Chess Championship - 2024,Bilaspur IND,2024-07-26,2024-07-28,1885,1500,0.0,1,-0.09,40,-3.6,"Smeeru, Thakur",,1885.0,False,IND,0.0,1,-0.09,40,-3.6
+33330638,2024-10-01,0,U-19 selection State Fide Rated Chess Championship,Shimla IND,2024-08-31,2024-09-02,1563,1471,4.5,5,2.61,40,104.4,"Ritesh, Bhardwaj",,1659.0,False,IND,1.0,1,0.74,40,29.6
+33330638,2024-10-01,0,U-19 selection State Fide Rated Chess Championship,Shimla IND,2024-08-31,2024-09-02,1563,1471,4.5,5,2.61,40,104.4,"Madhav, Garg",,1528.0,False,IND,1.0,1,0.58,40,23.2
+33330638,2024-10-01,0,U-19 selection State Fide Rated Chess Championship,Shimla IND,2024-08-31,2024-09-02,1563,1471,4.5,5,2.61,40,104.4,"Dushyant, Singh",,1603.0,False,IND,0.5,1,0.18,40,7.2
+33330638,2024-10-01,0,U-19 selection State Fide Rated Chess Championship,Shimla IND,2024-08-31,2024-09-02,1563,1471,4.5,5,2.61,40,104.4,"Neeraj, Verma",,1456.0,False,IND,1.0,1,0.48,40,19.2
+33330638,2024-10-01,0,U-19 selection State Fide Rated Chess Championship,Shimla IND,2024-08-31,2024-09-02,1563,1471,4.5,5,2.61,40,104.4,"Ujjwal, Sharma",,1567.0,False,IND,1.0,1,0.63,40,25.2
+33330638,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1774,1575,5.0,11,2.16,40,86.4,"Marium, Fatima",,1953.0,False,IND,1.0,1,0.91,40,36.4
+33330638,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1774,1575,5.0,11,2.16,40,86.4,"Shah, Vishwa",wf,1975.0,True,IND,0.0,1,-0.08,40,-3.2
+33330638,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1774,1575,5.0,11,2.16,40,86.4,"Aditi, Arun",,1784.0,False,IND,1.0,1,0.77,40,30.8
+33330638,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1774,1575,5.0,11,2.16,40,86.4,"Anishka, Vikram",wc,1843.0,False,IND,0.0,1,-0.17,40,-6.8
+33330638,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1774,1575,5.0,11,2.16,40,86.4,"Jayashree, P.k.",,1758.0,False,IND,0.0,1,-0.26,40,-10.4
+33330638,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1774,1575,5.0,11,2.16,40,86.4,"Trisha, B",,1722.0,False,IND,0.0,1,-0.3,40,-12.0
+33330638,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1774,1575,5.0,11,2.16,40,86.4,"Prachi, Yadav",,1480.0,False,IND,1.0,1,0.37,40,14.8
+33330638,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1774,1575,5.0,11,2.16,40,86.4,"Sani, Deshpande",,1739.0,False,IND,1.0,1,0.72,40,28.8
+33330638,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1774,1575,5.0,11,2.16,40,86.4,"Vijayasubhasri, S",,1764.0,False,IND,0.0,1,-0.25,40,-10.0
+33330638,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1774,1575,5.0,11,2.16,40,86.4,"Pournami, S D",,1717.0,False,IND,1.0,1,0.69,40,27.6
+33330638,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1774,1575,5.0,11,2.16,40,86.4,"Bharathakoti, Sneha",,1780.0,False,IND,0.0,1,-0.24,40,-9.6
+33330638,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1513,1661,5.0,11,-2.62,40,-104.8,"Shree, A S",,1417.0,False,IND,1.0,1,0.2,40,8.0
+33330638,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1513,1661,5.0,11,-2.62,40,-104.8,"Ananya, Raman",,1910.0,False,IND,0.0,1,-0.19,40,-7.6
+33330638,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1513,1661,5.0,11,-2.62,40,-104.8,"Vaishnavi, Vijay Parab",,1503.0,False,IND,0.0,1,-0.71,40,-28.4
+33330638,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1513,1661,5.0,11,-2.62,40,-104.8,"Brindha, S",,1512.0,False,IND,0.5,1,-0.2,40,-8.0
+33330638,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1513,1661,5.0,11,-2.62,40,-104.8,"Muthu, Meenal M",,1446.0,False,IND,1.0,1,0.23,40,9.2
+33330638,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1513,1661,5.0,11,-2.62,40,-104.8,"Ananya, Arora",,1490.0,False,IND,1.0,1,0.27,40,10.8
+33330638,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1513,1661,5.0,11,-2.62,40,-104.8,"Oiendrila, Bhattacharya",,1528.0,False,IND,0.0,1,-0.68,40,-27.2
+33330638,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1513,1661,5.0,11,-2.62,40,-104.8,"Sasi, Hasini Chintala",,1469.0,False,IND,0.0,1,-0.75,40,-30.0
+33330638,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1513,1661,5.0,11,-2.62,40,-104.8,"Akriti, Tripathy",,1430.0,False,IND,0.5,1,-0.29,40,-11.6
+33330638,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1513,1661,5.0,11,-2.62,40,-104.8,"Rathi, Tanishka",,1487.0,False,IND,0.5,1,-0.23,40,-9.2
+33330638,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1513,1661,5.0,11,-2.62,40,-104.8,"Pavithra, N",,1454.0,False,IND,0.5,1,-0.27,40,-10.8

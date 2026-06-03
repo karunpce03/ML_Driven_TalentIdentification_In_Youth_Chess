@@ -1,0 +1,43 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33300429,2024-05-01,0,16th Annual Open at Foxwoods - Major,"Mashantucket, CT USA",2024-03-27,2024-03-31,2087,1814,1.5,7,0.25,40,10.0,"Deviprasath, Sharvesh R",f,2214.0,True,USA,0.0,1,-0.08,40,-3.2
+33300429,2024-05-01,0,16th Annual Open at Foxwoods - Major,"Mashantucket, CT USA",2024-03-27,2024-03-31,2087,1814,1.5,7,0.25,40,10.0,"Mkrtchyan, Mikayel",,2071.0,False,ARM,0.0,1,-0.18,40,-7.2
+33300429,2024-05-01,0,16th Annual Open at Foxwoods - Major,"Mashantucket, CT USA",2024-03-27,2024-03-31,2087,1814,1.5,7,0.25,40,10.0,"Rogers, Norman",f,2013.0,False,USA,1.0,1,0.76,40,30.4
+33300429,2024-05-01,0,16th Annual Open at Foxwoods - Major,"Mashantucket, CT USA",2024-03-27,2024-03-31,2087,1814,1.5,7,0.25,40,10.0,"Graif, William",f,2214.0,True,CAN,0.0,1,-0.08,40,-3.2
+33300429,2024-05-01,0,16th Annual Open at Foxwoods - Major,"Mashantucket, CT USA",2024-03-27,2024-03-31,2087,1814,1.5,7,0.25,40,10.0,"Li, Michael",,2035.0,False,USA,0.0,1,-0.22,40,-8.8
+33300429,2024-05-01,0,16th Annual Open at Foxwoods - Major,"Mashantucket, CT USA",2024-03-27,2024-03-31,2087,1814,1.5,7,0.25,40,10.0,"Markzon, Gregory",f,2008.0,False,USA,0.5,1,0.25,40,10.0
+33300429,2024-05-01,0,16th Annual Open at Foxwoods - Major,"Mashantucket, CT USA",2024-03-27,2024-03-31,2087,1814,1.5,7,0.25,40,10.0,"Ansari Now, Keivan",,2056.0,False,IRI,0.0,1,-0.2,40,-8.0
+33300429,2024-08-01,0,52nd Annual World Open - U2200,"Philadelphia, PA USA",2024-07-03,2024-07-07,1879,1804,4.5,9,0.89,40,35.6,"Wang, Kevin",,1964.0,False,USA,1.0,1,0.71,40,28.4
+33300429,2024-08-01,0,52nd Annual World Open - U2200,"Philadelphia, PA USA",2024-07-03,2024-07-07,1879,1804,4.5,9,0.89,40,35.6,"De Avila, Luis Alberto",,1981.0,False,COL,0.5,1,0.23,40,9.2
+33300429,2024-08-01,0,52nd Annual World Open - U2200,"Philadelphia, PA USA",2024-07-03,2024-07-07,1879,1804,4.5,9,0.89,40,35.6,"McQuillin, Danil Alsandair",,1972.0,False,USA,0.5,1,0.22,40,8.8
+33300429,2024-08-01,0,52nd Annual World Open - U2200,"Philadelphia, PA USA",2024-07-03,2024-07-07,1879,1804,4.5,9,0.89,40,35.6,"Regam, Jessica Shor",wf,1885.0,False,USA,0.5,1,0.11,40,4.4
+33300429,2024-08-01,0,52nd Annual World Open - U2200,"Philadelphia, PA USA",2024-07-03,2024-07-07,1879,1804,4.5,9,0.89,40,35.6,"Chowdhury, Marzouq",,1997.0,False,BAN,0.5,1,0.25,40,10.0
+33300429,2024-08-01,0,52nd Annual World Open - U2200,"Philadelphia, PA USA",2024-07-03,2024-07-07,1879,1804,4.5,9,0.89,40,35.6,"Nolan, Gregory Matthew",,1791.0,False,USA,0.0,1,-0.52,40,-20.8
+33300429,2024-08-01,0,52nd Annual World Open - U2200,"Philadelphia, PA USA",2024-07-03,2024-07-07,1879,1804,4.5,9,0.89,40,35.6,"Kashyap, Manish B",,1593.0,False,USA,1.0,1,0.23,40,9.2
+33300429,2024-08-01,0,52nd Annual World Open - U2200,"Philadelphia, PA USA",2024-07-03,2024-07-07,1879,1804,4.5,9,0.89,40,35.6,"Ehab, Mohamed",,1951.0,False,EGY,0.0,1,-0.3,40,-12.0
+33300429,2024-08-01,0,52nd Annual World Open - U2200,"Philadelphia, PA USA",2024-07-03,2024-07-07,1879,1804,4.5,9,0.89,40,35.6,"Gupta, Anand",,1776.0,False,USA,0.5,1,-0.04,40,-1.6
+33300429,2024-10-01,0,83rd New England Open,"Westford, MA USA",2024-08-31,2024-09-02,1714,1840,1.0,3,-0.97,40,-38.8,"Zheng, Ryan",,1574.0,False,USA,0.0,1,-0.82,40,-32.8
+33300429,2024-10-01,0,83rd New England Open,"Westford, MA USA",2024-08-31,2024-09-02,1714,1840,1.0,3,-0.97,40,-38.8,"Carlson, Jericho D",,1802.0,False,USA,0.0,1,-0.55,40,-22.0
+33300429,2024-10-01,0,83rd New England Open,"Westford, MA USA",2024-08-31,2024-09-02,1714,1840,1.0,3,-0.97,40,-38.8,"Wu, Jacob",,1765.0,False,USA,1.0,1,0.4,40,16.0
+33300429,2024-11-01,0,13th annual Hartford Open - Major,"Windsor Locks, CT USA",2024-10-18,2024-10-20,1942,1801,1.5,3,0.53,40,21.2,"Zhang, David",,1804.0,False,USA,1.0,1,0.5,40,20.0
+33300429,2024-11-01,0,13th annual Hartford Open - Major,"Windsor Locks, CT USA",2024-10-18,2024-10-20,1942,1801,1.5,3,0.53,40,21.2,"Groff, Jordan",,2075.0,False,USA,0.5,1,0.33,40,13.2
+33300429,2024-11-01,0,13th annual Hartford Open - Major,"Windsor Locks, CT USA",2024-10-18,2024-10-20,1942,1801,1.5,3,0.53,40,21.2,"Chowdhury, Marzouq",,1948.0,False,BAN,0.0,1,-0.3,40,-12.0
+33300429,2024-11-01,0,1st Origami Open - Washi Round 1-4,"Westford, MA USA",2024-10-25,2024-10-26,2065,1801,1.5,3,0.91,40,36.4,"Shanmugasundaram, Rajesh",,2201.0,True,IND,1.0,1,0.92,40,36.8
+33300429,2024-11-01,0,1st Origami Open - Washi Round 1-4,"Westford, MA USA",2024-10-25,2024-10-26,2065,1801,1.5,3,0.91,40,36.4,"Truelson, Joseph",,2092.0,False,USA,0.0,1,-0.15,40,-6.0
+33300429,2024-11-01,0,1st Origami Open - Washi Round 1-4,"Westford, MA USA",2024-10-25,2024-10-26,2065,1801,1.5,3,0.91,40,36.4,"Zoffer, Oskar",,1902.0,False,USA,0.5,1,0.14,40,5.6
+33300429,2024-11-01,0,1st Origami Open - Washi Round 5-6,"Westford, MA USA",2024-10-27,2024-10-27,1902,1801,0.0,1,-0.36,40,-14.4,"Zhao, Kevin",,1902.0,False,USA,0.0,1,-0.36,40,-14.4
+33300429,2025-01-01,0,5th Boston Elite Thanksgiving FIDE Open,"Norwood, MA USA",2024-11-29,2024-12-01,1999,1844,3.5,6,1.63,40,65.2,"Xu, Shawn",,1957.0,False,USA,0.5,1,0.15,40,6.0
+33300429,2025-01-01,0,5th Boston Elite Thanksgiving FIDE Open,"Norwood, MA USA",2024-11-29,2024-12-01,1999,1844,3.5,6,1.63,40,65.2,"Creswell, Charlie",,1957.0,False,USA,1.0,1,0.65,40,26.0
+33300429,2025-01-01,0,5th Boston Elite Thanksgiving FIDE Open,"Norwood, MA USA",2024-11-29,2024-12-01,1999,1844,3.5,6,1.63,40,65.2,"Meng, Alexander",,1933.0,False,USA,1.0,1,0.62,40,24.8
+33300429,2025-01-01,0,5th Boston Elite Thanksgiving FIDE Open,"Norwood, MA USA",2024-11-29,2024-12-01,1999,1844,3.5,6,1.63,40,65.2,"Ivanov, Alexander",g,2244.0,True,USA,0.0,1,-0.08,40,-3.2
+33300429,2025-01-01,0,5th Boston Elite Thanksgiving FIDE Open,"Norwood, MA USA",2024-11-29,2024-12-01,1999,1844,3.5,6,1.63,40,65.2,"Wang, Ryan",,1982.0,False,USA,0.0,1,-0.31,40,-12.4
+33300429,2025-01-01,0,5th Boston Elite Thanksgiving FIDE Open,"Norwood, MA USA",2024-11-29,2024-12-01,1999,1844,3.5,6,1.63,40,65.2,"Sage, J Timothy",,1920.0,False,USA,1.0,1,0.6,40,24.0
+33300429,2025-01-01,0,49th Annual Eastern Open - Premier,"Arlington, VA USA",2024-12-26,2024-12-29,1929,1844,2.5,7,-0.21,40,-8.4,"Bhaduri, Neil S",,1991.0,False,USA,0.0,1,-0.3,40,-12.0
+33300429,2025-01-01,0,49th Annual Eastern Open - Premier,"Arlington, VA USA",2024-12-26,2024-12-29,1929,1844,2.5,7,-0.21,40,-8.4,"Srinivasan, Sivavishnu",,1940.0,False,USA,0.5,1,0.13,40,5.2
+33300429,2025-01-01,0,49th Annual Eastern Open - Premier,"Arlington, VA USA",2024-12-26,2024-12-29,1929,1844,2.5,7,-0.21,40,-8.4,"Kang, Michael",,1933.0,False,USA,0.0,1,-0.38,40,-15.2
+33300429,2025-01-01,0,49th Annual Eastern Open - Premier,"Arlington, VA USA",2024-12-26,2024-12-29,1929,1844,2.5,7,-0.21,40,-8.4,"Kilari, Dattasai",,2005.0,False,USA,0.5,1,0.21,40,8.4
+33300429,2025-01-01,0,49th Annual Eastern Open - Premier,"Arlington, VA USA",2024-12-26,2024-12-29,1929,1844,2.5,7,-0.21,40,-8.4,"Gu, Hardy",,1764.0,False,USA,1.0,1,0.39,40,15.6
+33300429,2025-01-01,0,49th Annual Eastern Open - Premier,"Arlington, VA USA",2024-12-26,2024-12-29,1929,1844,2.5,7,-0.21,40,-8.4,"Chakka, Pardhav",,1993.0,False,USA,0.0,1,-0.3,40,-12.0
+33300429,2025-01-01,0,49th Annual Eastern Open - Premier,"Arlington, VA USA",2024-12-26,2024-12-29,1929,1844,2.5,7,-0.21,40,-8.4,"Mariappan, Anish M",,1874.0,False,USA,0.5,1,0.04,40,1.6
+33300429,2025-02-01,0,13th annual Boston Chess Congress - Premier,"Boston, MA USA",2025-01-03,2025-01-05,1870,1901,1.0,3,-0.63,40,-25.2,"Wang, Aaron Yitian",,1875.0,False,USA,0.0,1,-0.54,40,-21.6
+33300429,2025-02-01,0,13th annual Boston Chess Congress - Premier,"Boston, MA USA",2025-01-03,2025-01-05,1870,1901,1.0,3,-0.63,40,-25.2,"Katsman, David",,1899.0,False,USA,0.0,1,-0.5,40,-20.0
+33300429,2025-02-01,0,13th annual Boston Chess Congress - Premier,"Boston, MA USA",2025-01-03,2025-01-05,1870,1901,1.0,3,-0.63,40,-25.2,"Zhang, Royce",,1835.0,False,USA,1.0,1,0.41,40,16.4

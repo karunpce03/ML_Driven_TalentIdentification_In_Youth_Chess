@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48761729,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1598,1530,3.5,5,1.29,40,51.6,"Japesh, Chaudhary",,1402.0,False,IND,1.0,1,0.33,40,13.2
+48761729,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1598,1530,3.5,5,1.29,40,51.6,"Shreyas, Raj",,1930.0,True,IND,0.5,1,0.42,40,16.8
+48761729,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1598,1530,3.5,5,1.29,40,51.6,"Arjun, Sharma",,1409.0,False,IND,1.0,1,0.34,40,13.6
+48761729,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1598,1530,3.5,5,1.29,40,51.6,"Vidit, Sethi",,1831.0,False,IND,0.0,1,-0.15,40,-6.0
+48761729,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1598,1530,3.5,5,1.29,40,51.6,"Shubh, Srivastava",,1420.0,False,IND,1.0,1,0.35,40,14.0
+48761729,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1664,1530,0.5,2,-0.15,40,-6.0,"Aabhas, Kumar Srivastava",,1757.0,False,IND,0.5,1,0.29,40,11.6
+48761729,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1664,1530,0.5,2,-0.15,40,-6.0,"Apratim, Shukla",,1571.0,False,IND,0.0,1,-0.44,40,-17.6

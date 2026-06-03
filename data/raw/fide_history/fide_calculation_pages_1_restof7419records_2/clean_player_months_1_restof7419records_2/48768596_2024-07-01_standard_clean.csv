@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48768596,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,1707,1424,1.5,3,0.98,40,39.2,"Chua, Kuang Weng Aaron",,1824,True,MAS,0.0,1,-0.08,40,-3.2
+48768596,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,1707,1424,1.5,3,0.98,40,39.2,"Javier, Jasper",,1649,False,PHI,0.5,1,0.28,40,11.2
+48768596,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,1707,1424,1.5,3,0.98,40,39.2,"Mithran, Krishnakumar",,1647,False,IND,1.0,1,0.78,40,31.2

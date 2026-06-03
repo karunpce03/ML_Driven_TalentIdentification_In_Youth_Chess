@@ -1,0 +1,22 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45061114,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1633,1907,3.0,5,-1.08,33,-35.64,"Pravin, A",,1518.0,False,IND,1.0,1,0.09,33,2.97
+45061114,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1633,1907,3.0,5,-1.08,33,-35.64,"Sriram, Sundar V",,1698.0,False,IND,1.0,1,0.23,33,7.59
+45061114,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1633,1907,3.0,5,-1.08,33,-35.64,"Raaghav, Kabil M",,1780.0,False,IND,0.0,1,-0.67,33,-22.11
+45061114,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1633,1907,3.0,5,-1.08,33,-35.64,"Jishnurajan, V",,1647.0,False,IND,0.0,1,-0.82,33,-27.06
+45061114,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1633,1907,3.0,5,-1.08,33,-35.64,"Selwin, Samuel S",,1520.0,False,IND,1.0,1,0.09,33,2.97
+45061114,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1807,1932,7.5,11,0.25,33,8.25,"Aarav, Gupta",,1569.0,False,IND,1.0,1,0.1,33,3.3
+45061114,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1807,1932,7.5,11,0.25,33,8.25,"Shashank, K",,1761.0,False,IND,1.0,1,0.27,33,8.91
+45061114,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1807,1932,7.5,11,0.25,33,8.25,"Atiksh, Thakur",,1773.0,False,IND,0.5,1,-0.21,33,-6.93
+45061114,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1807,1932,7.5,11,0.25,33,8.25,"Ekaaksha, Partap Singh Negi",,1720.0,False,IND,1.0,1,0.23,33,7.59
+45061114,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1807,1932,7.5,11,0.25,33,8.25,"Ghadge, Harsh",,1892.0,False,IND,1.0,1,0.44,33,14.52
+45061114,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1807,1932,7.5,11,0.25,33,8.25,"Koustuv, Dash",,2101.0,False,IND,0.0,1,-0.28,33,-9.24
+45061114,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1807,1932,7.5,11,0.25,33,8.25,"Tijil, Singh",,1831.0,False,IND,0.0,1,-0.64,33,-21.12
+45061114,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1807,1932,7.5,11,0.25,33,8.25,"Nithik, Reddy Bhavanam",,1758.0,False,IND,1.0,1,0.27,33,8.91
+45061114,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1807,1932,7.5,11,0.25,33,8.25,"Ashwinth, Michael",,1819.0,False,IND,1.0,1,0.35,33,11.55
+45061114,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1807,1932,7.5,11,0.25,33,8.25,"Chaudhari, Ashish",,1853.0,False,IND,0.0,1,-0.61,33,-20.13
+45061114,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1807,1932,7.5,11,0.25,33,8.25,"Lalitaditaayyanar, Boominathan",,1805.0,False,IND,1.0,1,0.33,33,10.89
+45061114,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1773,1932,4.0,5,0.53,33,17.49,"Srivatsan, R",,1593.0,False,IND,1.0,1,0.12,33,3.96
+45061114,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1773,1932,4.0,5,0.53,33,17.49,"Adhiadhavan, G",,1748.0,False,IND,0.5,1,-0.24,33,-7.92
+45061114,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1773,1932,4.0,5,0.53,33,17.49,"Mridav, M",,1805.0,False,IND,0.5,1,-0.17,33,-5.61
+45061114,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1773,1932,4.0,5,0.53,33,17.49,"Rohith, S",,1996.0,False,IND,1.0,1,0.59,33,19.47
+45061114,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1773,1932,4.0,5,0.53,33,17.49,"Madhavakrishnan, R",,1722.0,False,IND,1.0,1,0.23,33,7.59

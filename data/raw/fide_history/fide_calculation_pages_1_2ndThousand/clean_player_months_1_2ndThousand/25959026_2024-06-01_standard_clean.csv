@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25959026,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2293,2210,3.5,9,-0.08,38,-3.04,"Erdogmus, Yagiz Kaan",m,2540.0,False,TUR,0.0,1,-0.12,38,-4.56
+25959026,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2293,2210,3.5,9,-0.08,38,-3.04,"Buzzoni, Eugenio",,2039.0,False,GER,1.0,1,0.27,38,10.26
+25959026,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2293,2210,3.5,9,-0.08,38,-3.04,"Di Benedetto, Edoardo",m,2400.0,False,ITA,0.5,1,0.25,38,9.5
+25959026,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2293,2210,3.5,9,-0.08,38,-3.04,"Shohat, Yotam",f,2398.0,False,ISR,0.5,1,0.24,38,9.12
+25959026,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2293,2210,3.5,9,-0.08,38,-3.04,"Vagman, Roy",f,2357.0,False,ISR,0.5,1,0.2,38,7.6
+25959026,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2293,2210,3.5,9,-0.08,38,-3.04,"Carlo, Emanuele",f,2363.0,False,ITA,0.5,1,0.2,38,7.6
+25959026,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2293,2210,3.5,9,-0.08,38,-3.04,"Citak, Selim",f,2327.0,False,TUR,0.0,1,-0.34,38,-12.92
+25959026,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2293,2210,3.5,9,-0.08,38,-3.04,"Serikbay, Assel",wm,2109.0,False,KAZ,0.0,1,-0.64,38,-24.32
+25959026,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2293,2210,3.5,9,-0.08,38,-3.04,"Martorelli, Antonio",m,2104.0,False,ITA,0.5,1,-0.14,38,-5.32
+25959026,2024-06-01,0,SixDays Budapest May 2024 IM,Budapest HUN,2024-05-16,2024-05-21,2269,2210,4.5,9,0.73,38,27.74,"Egresi, Mate",f,2384.0,False,HUN,0.5,1,0.23,38,8.74
+25959026,2024-06-01,0,SixDays Budapest May 2024 IM,Budapest HUN,2024-05-16,2024-05-21,2269,2210,4.5,9,0.73,38,27.74,"Weber, Samuel",f,2315.0,False,GER,0.5,1,0.14,38,5.32
+25959026,2024-06-01,0,SixDays Budapest May 2024 IM,Budapest HUN,2024-05-16,2024-05-21,2269,2210,4.5,9,0.73,38,27.74,"Arora, Honi",,1998.0,False,IND,0.5,1,-0.27,38,-10.26
+25959026,2024-06-01,0,SixDays Budapest May 2024 IM,Budapest HUN,2024-05-16,2024-05-21,2269,2210,4.5,9,0.73,38,27.74,"Jeet, Jain",f,2332.0,False,IND,1.0,1,0.67,38,25.46
+25959026,2024-06-01,0,SixDays Budapest May 2024 IM,Budapest HUN,2024-05-16,2024-05-21,2269,2210,4.5,9,0.73,38,27.74,"To, Nhat Minh",m,2307.0,False,HUN,1.0,1,0.63,38,23.94
+25959026,2024-06-01,0,SixDays Budapest May 2024 IM,Budapest HUN,2024-05-16,2024-05-21,2269,2210,4.5,9,0.73,38,27.74,"Pribelszky, Bence",f,2362.0,False,HUN,0.5,1,0.2,38,7.6
+25959026,2024-06-01,0,SixDays Budapest May 2024 IM,Budapest HUN,2024-05-16,2024-05-21,2269,2210,4.5,9,0.73,38,27.74,"Vuelban, Virgilio",m,2235.0,False,PHI,0.0,1,-0.47,38,-17.86
+25959026,2024-06-01,0,SixDays Budapest May 2024 IM,Budapest HUN,2024-05-16,2024-05-21,2269,2210,4.5,9,0.73,38,27.74,"Otsuka, Shou",c,2222.0,False,JPN,0.0,1,-0.48,38,-18.24
+25959026,2024-06-01,0,SixDays Budapest May 2024 IM,Budapest HUN,2024-05-16,2024-05-21,2269,2210,4.5,9,0.73,38,27.74,"Ilincic, Zlatko",g,2268.0,False,SRB,0.5,1,0.08,38,3.04

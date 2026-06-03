@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25695916,2024-08-01,0,Sachovy festival Ceske Budejovice 2024 - Open A,Ceske Budejovice CZE,2024-06-29,2024-07-07,1946,1733,5.0,9,2.86,38,108.68,"Zednicek, Filip",,2006,False,CZE,0.0,1,-0.17,38,-6.46
+25695916,2024-08-01,0,Sachovy festival Ceske Budejovice 2024 - Open A,Ceske Budejovice CZE,2024-06-29,2024-07-07,1946,1733,5.0,9,2.86,38,108.68,"Vojtek, Pavel",,1931,False,CZE,0.0,1,-0.24,38,-9.12
+25695916,2024-08-01,0,Sachovy festival Ceske Budejovice 2024 - Open A,Ceske Budejovice CZE,2024-06-29,2024-07-07,1946,1733,5.0,9,2.86,38,108.68,"Svanda, Radek",,1855,False,CZE,0.5,1,0.17,38,6.46
+25695916,2024-08-01,0,Sachovy festival Ceske Budejovice 2024 - Open A,Ceske Budejovice CZE,2024-06-29,2024-07-07,1946,1733,5.0,9,2.86,38,108.68,"Titera, Libor",,1869,False,CZE,1.0,1,0.68,38,25.84
+25695916,2024-08-01,0,Sachovy festival Ceske Budejovice 2024 - Open A,Ceske Budejovice CZE,2024-06-29,2024-07-07,1946,1733,5.0,9,2.86,38,108.68,"Yang, Sung-Jui",,1879,False,TPE,0.5,1,0.2,38,7.6
+25695916,2024-08-01,0,Sachovy festival Ceske Budejovice 2024 - Open A,Ceske Budejovice CZE,2024-06-29,2024-07-07,1946,1733,5.0,9,2.86,38,108.68,"Radnaev, Leo",,1883,False,AUT,1.0,1,0.7,38,26.6
+25695916,2024-08-01,0,Sachovy festival Ceske Budejovice 2024 - Open A,Ceske Budejovice CZE,2024-06-29,2024-07-07,1946,1733,5.0,9,2.86,38,108.68,"Pavlis, Matej",,1938,False,CZE,1.0,1,0.76,38,28.88
+25695916,2024-08-01,0,Sachovy festival Ceske Budejovice 2024 - Open A,Ceske Budejovice CZE,2024-06-29,2024-07-07,1946,1733,5.0,9,2.86,38,108.68,"Husa, Daniel",,2016,False,CZE,1.0,1,0.84,38,31.92
+25695916,2024-08-01,0,Sachovy festival Ceske Budejovice 2024 - Open A,Ceske Budejovice CZE,2024-06-29,2024-07-07,1946,1733,5.0,9,2.86,38,108.68,"Zima, Jan",,2133,True,CZE,0.0,1,-0.08,38,-3.04
+25695916,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,2063,1814,6.0,9,4.1,38,155.8,"Kovacs, Kristof",,2103,False,HUN,0.5,1,0.34,38,12.92
+25695916,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,2063,1814,6.0,9,4.1,38,155.8,"Herczeg, Marcell",,2032,False,HUN,1.0,1,0.78,38,29.64
+25695916,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,2063,1814,6.0,9,4.1,38,155.8,"Dobai, Szabolcs",,2120,False,HUN,0.5,1,0.36,38,13.68
+25695916,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,2063,1814,6.0,9,4.1,38,155.8,"Naga, Laxmi Seelam",,1671,False,IND,1.0,1,0.31,38,11.78
+25695916,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,2063,1814,6.0,9,4.1,38,155.8,"Boros, Krisztian Levente",,2098,False,HUN,0.5,1,0.34,38,12.92
+25695916,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,2063,1814,6.0,9,4.1,38,155.8,"Kasperek, Ryszard",f,2102,False,POL,1.0,1,0.84,38,31.92
+25695916,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,2063,1814,6.0,9,4.1,38,155.8,"Miszler, Levente",c,2214,True,HUN,0.0,1,-0.08,38,-3.04
+25695916,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,2063,1814,6.0,9,4.1,38,155.8,"Lehocz, Jozsef Jr.",,2133,False,HUN,0.5,1,0.37,38,14.06
+25695916,2024-08-01,0,2nd Hungarian Ameteur Chess Championship,Budapest HUN,2024-07-12,2024-07-17,2063,1814,6.0,9,4.1,38,155.8,"Kulig, Pawel",,2093,False,POL,1.0,1,0.84,38,31.92

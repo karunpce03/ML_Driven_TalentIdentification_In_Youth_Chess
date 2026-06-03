@@ -1,0 +1,16 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25172328,2025-01-01,0,Open Tournament Banat I 2024,Mramorak SRB,2024-12-21,2024-12-27,2026,1960,4.5,8,1.2,40,48.0,"Mitrovic, Zivadin",,2162.0,False,SRB,1.0,1,0.76,40,30.4
+25172328,2025-01-01,0,Open Tournament Banat I 2024,Mramorak SRB,2024-12-21,2024-12-27,2026,1960,4.5,8,1.2,40,48.0,"Ducic, Branko",,2258.0,False,SRB,0.0,1,-0.15,40,-6.0
+25172328,2025-01-01,0,Open Tournament Banat I 2024,Mramorak SRB,2024-12-21,2024-12-27,2026,1960,4.5,8,1.2,40,48.0,"Markovic, Milovan",f,2131.0,False,SRB,1.0,1,0.73,40,29.2
+25172328,2025-01-01,0,Open Tournament Banat I 2024,Mramorak SRB,2024-12-21,2024-12-27,2026,1960,4.5,8,1.2,40,48.0,"Usacheva, Glafira",,2013.0,False,FID,0.0,1,-0.43,40,-17.2
+25172328,2025-01-01,0,Open Tournament Banat I 2024,Mramorak SRB,2024-12-21,2024-12-27,2026,1960,4.5,8,1.2,40,48.0,"Andrejevic, Milorad",c,2063.0,False,SRB,1.0,1,0.64,40,25.6
+25172328,2025-01-01,0,Open Tournament Banat I 2024,Mramorak SRB,2024-12-21,2024-12-27,2026,1960,4.5,8,1.2,40,48.0,"Milojevic, Dusan",,2114.0,False,SRB,0.5,1,0.21,40,8.4
+25172328,2025-01-01,0,Open Tournament Banat I 2024,Mramorak SRB,2024-12-21,2024-12-27,2026,1960,4.5,8,1.2,40,48.0,"Swetha, Kalidindi",,1809.0,False,IND,0.5,1,-0.2,40,-8.0
+25172328,2025-01-01,0,Open Tournament Banat I 2024,Mramorak SRB,2024-12-21,2024-12-27,2026,1960,4.5,8,1.2,40,48.0,"Kankeyan, Risheeth",,1655.0,False,USA,0.5,1,-0.36,40,-14.4
+25172328,2025-02-01,0,Open Tournament Banat II 2024-2025,Mramorak SRB,2024-12-28,2025-01-04,2047,1960,3.0,7,0.28,40,11.2,"Radevic, Jovan",,2045.0,False,SRB,0.5,1,0.12,40,4.8
+25172328,2025-02-01,0,Open Tournament Banat II 2024-2025,Mramorak SRB,2024-12-28,2025-01-04,2047,1960,3.0,7,0.28,40,11.2,"Radlovacki, Jovan",m,2237.0,False,SRB,0.5,1,0.33,40,13.2
+25172328,2025-02-01,0,Open Tournament Banat II 2024-2025,Mramorak SRB,2024-12-28,2025-01-04,2047,1960,3.0,7,0.28,40,11.2,"Zivkovic, Momcilo",,1981.0,False,SRB,0.0,1,-0.47,40,-18.8
+25172328,2025-02-01,0,Open Tournament Banat II 2024-2025,Mramorak SRB,2024-12-28,2025-01-04,2047,1960,3.0,7,0.28,40,11.2,"Jedjini, Pavel",,1831.0,False,SRB,1.0,1,0.33,40,13.2
+25172328,2025-02-01,0,Open Tournament Banat II 2024-2025,Mramorak SRB,2024-12-28,2025-01-04,2047,1960,3.0,7,0.28,40,11.2,"Andrejevic, Milorad",c,2063.0,False,SRB,0.5,1,0.14,40,5.6
+25172328,2025-02-01,0,Open Tournament Banat II 2024-2025,Mramorak SRB,2024-12-28,2025-01-04,2047,1960,3.0,7,0.28,40,11.2,"Usacheva, Glafira",,2013.0,False,FID,0.0,1,-0.43,40,-17.2
+25172328,2025-02-01,0,Open Tournament Banat II 2024-2025,Mramorak SRB,2024-12-28,2025-01-04,2047,1960,3.0,7,0.28,40,11.2,"Mitrovic, Zivadin",,2162.0,False,SRB,0.5,1,0.26,40,10.4

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33383561,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1806,7.0,11,3.88,40,155.2,"Aronyak, Ghosh",c,2206,True,IND,0.0,1,-0.08,40,-3.2
+33383561,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1806,7.0,11,3.88,40,155.2,"Atharv, Singh Bisht",,1644,False,IND,1.0,1,0.29,40,11.6
+33383561,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1806,7.0,11,3.88,40,155.2,"Arpith, S Bijoy",,2114,False,IND,0.5,1,0.36,40,14.4
+33383561,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1806,7.0,11,3.88,40,155.2,"Abel, Sajan",,2097,False,IND,0.0,1,-0.15,40,-6.0
+33383561,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1806,7.0,11,3.88,40,155.2,"Gaikwad , Vishal",,1615,False,IND,1.0,1,0.25,40,10.0
+33383561,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1806,7.0,11,3.88,40,155.2,"Nirnay, Garg",,2045,False,IND,1.0,1,0.8,40,32.0
+33383561,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1806,7.0,11,3.88,40,155.2,"Saisarvesh, S",,1937,False,IND,1.0,1,0.68,40,27.2
+33383561,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1806,7.0,11,3.88,40,155.2,"Karthik, Sai Ch",c,2206,True,IND,1.0,1,0.92,40,36.8
+33383561,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1806,7.0,11,3.88,40,155.2,"Aadik, Theophane Lenin",,1995,False,IND,0.5,1,0.25,40,10.0
+33383561,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1806,7.0,11,3.88,40,155.2,"Mrithyunjay, Mahadevan",c,2062,False,IND,0.5,1,0.31,40,12.4
+33383561,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1806,7.0,11,3.88,40,155.2,"Harshit, Ranjan Sahu",,2003,False,IND,0.5,1,0.25,40,10.0

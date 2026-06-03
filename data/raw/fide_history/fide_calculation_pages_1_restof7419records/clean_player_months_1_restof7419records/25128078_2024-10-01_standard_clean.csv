@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25128078,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1719,1548,2.0,6,0.22,40,8.8,"Ahaz, E U",,1940.0,False,IND,0.0,1,-0.08,40,-3.2
+25128078,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1719,1548,2.0,6,0.22,40,8.8,"Sai, Abhinav Kuchibhotla",,1743.0,False,IND,0.5,1,0.25,40,10.0
+25128078,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1719,1548,2.0,6,0.22,40,8.8,"Jos, Paul Davis",,1673.0,False,IND,1.0,1,0.67,40,26.8
+25128078,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1719,1548,2.0,6,0.22,40,8.8,"Gokul, G",,1827.0,False,IND,0.0,1,-0.16,40,-6.4
+25128078,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1719,1548,2.0,6,0.22,40,8.8,"Subramanian, V",,1653.0,False,IND,0.0,1,-0.36,40,-14.4
+25128078,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1719,1548,2.0,6,0.22,40,8.8,"Nikhil, Roshan A",,1476.0,False,IND,0.5,1,-0.1,40,-4.0

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531092489,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1611,1411,2.0,5,0.77,40,30.8,"Shradha, Smaranika Nanda",,1610.0,False,IND,1.0,1,0.76,40,30.4
+531092489,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1611,1411,2.0,5,0.77,40,30.8,"Pratyush, Nayak",,1600.0,False,IND,0.0,1,-0.25,40,-10.0
+531092489,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1611,1411,2.0,5,0.77,40,30.8,"Rajan, N Sundar",,1558.0,False,IND,0.0,1,-0.3,40,-12.0
+531092489,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1611,1411,2.0,5,0.77,40,30.8,"Adya, Advit Das",,1573.0,False,IND,0.0,1,-0.29,40,-11.6
+531092489,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1611,1411,2.0,5,0.77,40,30.8,"Suman, Maity",,1713.0,False,IND,1.0,1,0.85,40,34.0

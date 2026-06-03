@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25180134,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1624,1484,0.0,4,-1.25,40,-50.0,"Sai, Krishna V",,1666.0,False,IND,0.0,1,-0.26,40,-10.4
+25180134,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1624,1484,0.0,4,-1.25,40,-50.0,"Sahithyan, D",,1618.0,False,IND,0.0,1,-0.32,40,-12.8
+25180134,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1624,1484,0.0,4,-1.25,40,-50.0,"Kavish, Palaniappan K",,1617.0,False,IND,0.0,1,-0.32,40,-12.8
+25180134,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1624,1484,0.0,4,-1.25,40,-50.0,"Amarnath, R",,1595.0,False,IND,0.0,1,-0.35,40,-14.0

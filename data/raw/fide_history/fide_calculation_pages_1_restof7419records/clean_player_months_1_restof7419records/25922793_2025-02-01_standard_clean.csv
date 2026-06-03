@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25922793,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2126,1866,4.5,8,2.93,40,117.2,"Tonndorf, Matthias",f,2138,False,GER,0.0,1,-0.17,40,-6.8
+25922793,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2126,1866,4.5,8,2.93,40,117.2,"Ramos Saavedra, Mario",,1983,False,ESP,1.0,1,0.66,40,26.4
+25922793,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2126,1866,4.5,8,2.93,40,117.2,"Beneyto De Ramon, Guillermo",,2034,False,ESP,1.0,1,0.72,40,28.8
+25922793,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2126,1866,4.5,8,2.93,40,117.2,"Pogorelov, Ruslan",g,2266,True,ESP,0.0,1,-0.08,40,-3.2
+25922793,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2126,1866,4.5,8,2.93,40,117.2,"Maklakova, Naomi",wc,2002,False,LAT,1.0,1,0.68,40,27.2
+25922793,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2126,1866,4.5,8,2.93,40,117.2,"Valdats, Reinis",,2175,False,LAT,1.0,1,0.86,40,34.4
+25922793,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2126,1866,4.5,8,2.93,40,117.2,"Khamrakulov, Ibragim S.",g,2266,True,ESP,0.0,1,-0.08,40,-3.2
+25922793,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2126,1866,4.5,8,2.93,40,117.2,"Valdepenas Octavio, Javier",,2145,False,ESP,0.5,1,0.34,40,13.6

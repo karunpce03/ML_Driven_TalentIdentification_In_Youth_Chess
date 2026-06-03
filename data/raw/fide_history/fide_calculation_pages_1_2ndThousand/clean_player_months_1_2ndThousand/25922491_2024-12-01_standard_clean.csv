@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Kozhedub, Ivan",,1847,True,FID,1.0,1,0.08,40,3.2
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Antipov, Fedor",,1991,False,FID,0.0,1,-0.81,40,-32.4
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Petrovski, Nikola",,1847,True,MKD,1.0,1,0.08,40,3.2
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Dauren, Darmen",,1847,True,KAZ,1.0,1,0.08,40,3.2
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Bocquenet-Drouode, Hugo",c,2002,False,FRA,0.5,1,-0.3,40,-12.0
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Qu, Haoming",,1969,False,CHN,0.5,1,-0.33,40,-13.2
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Elhusseiny, Eyad",,2016,False,EGY,1.0,1,0.21,40,8.4
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Karthi, Jashith",,2073,False,USA,1.0,1,0.27,40,10.8
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Wijerathna, Vinuka Dihain",,2005,False,SRI,1.0,1,0.2,40,8.0
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Platonovs, Nikolajs",,1969,False,LAT,1.0,1,0.17,40,6.8
+25922491,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1988,2247,8.0,11,-0.78,40,-31.2,"Smirnov, Mark",f,2300,False,KAZ,0.0,1,-0.43,40,-17.2

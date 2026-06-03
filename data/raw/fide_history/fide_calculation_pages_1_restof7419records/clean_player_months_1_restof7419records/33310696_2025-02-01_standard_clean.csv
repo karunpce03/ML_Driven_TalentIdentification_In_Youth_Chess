@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33310696,2025-02-01,0,XVII Trophee International de Lyon 2024  Open B  (elo -1900),LYON FRA,2024-12-26,2024-12-30,1750,1514,0.5,4,-0.33,40,-13.2,"Cottenet, Irene",,1753.0,False,FRA,0.5,1,0.3,40,12.0
+33310696,2025-02-01,0,XVII Trophee International de Lyon 2024  Open B  (elo -1900),LYON FRA,2024-12-26,2024-12-30,1750,1514,0.5,4,-0.33,40,-13.2,"Caillot, Charles",,1815.0,False,FRA,0.0,1,-0.15,40,-6.0
+33310696,2025-02-01,0,XVII Trophee International de Lyon 2024  Open B  (elo -1900),LYON FRA,2024-12-26,2024-12-30,1750,1514,0.5,4,-0.33,40,-13.2,"Karakaya, Huseyin",,1753.0,False,FRA,0.0,1,-0.2,40,-8.0
+33310696,2025-02-01,0,XVII Trophee International de Lyon 2024  Open B  (elo -1900),LYON FRA,2024-12-26,2024-12-30,1750,1514,0.5,4,-0.33,40,-13.2,"Richard, Maxime",,1678.0,False,FRA,0.0,1,-0.28,40,-11.2
+33310696,2025-02-01,0,35. Staufer-Open B,Schwaebisch Gmuend GER,2025-01-02,2025-01-06,1817,1514,0.5,3,0.03,40,1.2,"Jekel, Wolfgang",,1875.0,False,GER,0.0,1,-0.1,40,-4.0
+33310696,2025-02-01,0,35. Staufer-Open B,Schwaebisch Gmuend GER,2025-01-02,2025-01-06,1817,1514,0.5,3,0.03,40,1.2,"Rein, Joachim",,1896.0,False,GER,0.0,1,-0.09,40,-3.6
+33310696,2025-02-01,0,35. Staufer-Open B,Schwaebisch Gmuend GER,2025-01-02,2025-01-06,1817,1514,0.5,3,0.03,40,1.2,"Hauk, Viktoria",,1680.0,False,GER,0.5,1,0.22,40,8.8

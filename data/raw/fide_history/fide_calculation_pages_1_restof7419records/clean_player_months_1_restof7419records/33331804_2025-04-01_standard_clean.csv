@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33331804,2025-04-01,0,Budapest One Week U2250 - March,Budapest HUN,2025-03-17,2025-03-22,1866,1663,3.0,8,0.97,40,38.8,"Szarvas, Nora",,1969.0,False,HUN,0.5,1,0.36,40,14.4
+33331804,2025-04-01,0,Budapest One Week U2250 - March,Budapest HUN,2025-03-17,2025-03-22,1866,1663,3.0,8,0.97,40,38.8,"Yonemitsu, Kohei",,2045.0,False,JPN,0.0,1,-0.09,40,-3.6
+33331804,2025-04-01,0,Budapest One Week U2250 - March,Budapest HUN,2025-03-17,2025-03-22,1866,1663,3.0,8,0.97,40,38.8,"Hegedus, Zsombor",,1792.0,False,HUN,1.0,1,0.67,40,26.8
+33331804,2025-04-01,0,Budapest One Week U2250 - March,Budapest HUN,2025-03-17,2025-03-22,1866,1663,3.0,8,0.97,40,38.8,"Sniedziewski, Emil",,1903.0,False,POL,0.0,1,-0.2,40,-8.0
+33331804,2025-04-01,0,Budapest One Week U2250 - March,Budapest HUN,2025-03-17,2025-03-22,1866,1663,3.0,8,0.97,40,38.8,"Gupta, Sara",wc,1883.0,False,USA,0.0,1,-0.22,40,-8.8
+33331804,2025-04-01,0,Budapest One Week U2250 - March,Budapest HUN,2025-03-17,2025-03-22,1866,1663,3.0,8,0.97,40,38.8,"Bacsi, Andras",,1768.0,False,HUN,0.5,1,0.14,40,5.6
+33331804,2025-04-01,0,Budapest One Week U2250 - March,Budapest HUN,2025-03-17,2025-03-22,1866,1663,3.0,8,0.97,40,38.8,"Yip, Michael",,1910.0,False,CAN,0.0,1,-0.19,40,-7.6
+33331804,2025-04-01,0,Budapest One Week U2250 - March,Budapest HUN,2025-03-17,2025-03-22,1866,1663,3.0,8,0.97,40,38.8,"Feher, Laszlo",,1661.0,False,HUN,1.0,1,0.5,40,20.0

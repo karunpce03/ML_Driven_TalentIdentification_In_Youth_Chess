@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25703471,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1591,1661,4.0,6,0.46,40,18.4,"Debayan, Ray",,1789.0,False,IND,0.0,1,-0.33,40,-13.2
+25703471,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1591,1661,4.0,6,0.46,40,18.4,"Eishaanav, Chakraborty",,1482.0,False,IND,1.0,1,0.27,40,10.8
+25703471,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1591,1661,4.0,6,0.46,40,18.4,"Shankhadeep, Maity",,1824.0,False,IND,0.0,1,-0.28,40,-11.2
+25703471,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1591,1661,4.0,6,0.46,40,18.4,"Diptayan, Debchoudhury",,1502.0,False,IND,1.0,1,0.29,40,11.6
+25703471,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1591,1661,4.0,6,0.46,40,18.4,"Kirit, Bikram Chanda",,1479.0,False,IND,1.0,1,0.26,40,10.4
+25703471,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1591,1661,4.0,6,0.46,40,18.4,"Soumyadeep, Nath",,1468.0,False,IND,1.0,1,0.25,40,10.0

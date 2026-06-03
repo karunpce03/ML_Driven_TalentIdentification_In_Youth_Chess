@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45084297,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2298,2185,4.0,9,0.87,40,34.8,"Aakash, G",c,2265.0,False,IND,1.0,1,0.61,40,24.4
+45084297,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2298,2185,4.0,9,0.87,40,34.8,"Annageldyev, Orazly",g,2316.0,False,TKM,1.0,1,0.68,40,27.2
+45084297,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2298,2185,4.0,9,0.87,40,34.8,"Harshad, S",f,2275.0,False,IND,0.0,1,-0.38,40,-15.2
+45084297,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2298,2185,4.0,9,0.87,40,34.8,"Nagarkatte, Vedant",f,2262.0,False,IND,0.0,1,-0.39,40,-15.6
+45084297,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2298,2185,4.0,9,0.87,40,34.8,"Manik, Mikulas",g,2338.0,False,SVK,0.0,1,-0.3,40,-12.0
+45084297,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2298,2185,4.0,9,0.87,40,34.8,"Uuriintuya, Uurtsaikh",wg,2214.0,False,MGL,1.0,1,0.54,40,21.6
+45084297,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2298,2185,4.0,9,0.87,40,34.8,"Adireddy, Arjun",f,2301.0,False,IND,0.0,1,-0.34,40,-13.6
+45084297,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2298,2185,4.0,9,0.87,40,34.8,"Daaevik, Wadhawan",f,2324.0,False,IND,1.0,1,0.69,40,27.6
+45084297,2024-09-01,0,22nd Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-07-29,2024-08-04,2298,2185,4.0,9,0.87,40,34.8,"Slizhevsky, Alexander",m,2384.0,False,RUS,0.0,1,-0.24,40,-9.6

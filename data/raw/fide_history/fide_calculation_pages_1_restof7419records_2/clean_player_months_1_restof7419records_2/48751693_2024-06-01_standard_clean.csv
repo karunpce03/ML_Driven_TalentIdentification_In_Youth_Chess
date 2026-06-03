@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48751693,2024-06-01,0,11th Late Bharatbai Halkude Memorial below 1800 FIDE Rating Chess Tournament-2024,Pune IND,2024-05-24,2024-05-26,1645,1461,1.0,4,-0.07,40,-2.8,"Shah, Veer Kunjan",,1728.0,False,IND,0.0,1,-0.18,40,-7.2
+48751693,2024-06-01,0,11th Late Bharatbai Halkude Memorial below 1800 FIDE Rating Chess Tournament-2024,Pune IND,2024-05-24,2024-05-26,1645,1461,1.0,4,-0.07,40,-2.8,"Arjun, Singh",,1695.0,False,IND,0.0,1,-0.21,40,-8.4
+48751693,2024-06-01,0,11th Late Bharatbai Halkude Memorial below 1800 FIDE Rating Chess Tournament-2024,Pune IND,2024-05-24,2024-05-26,1645,1461,1.0,4,-0.07,40,-2.8,"Vanedh, Khatwa",,1596.0,False,IND,1.0,1,0.68,40,27.2
+48751693,2024-06-01,0,11th Late Bharatbai Halkude Memorial below 1800 FIDE Rating Chess Tournament-2024,Pune IND,2024-05-24,2024-05-26,1645,1461,1.0,4,-0.07,40,-2.8,"Sarth, Bujade",,1562.0,False,IND,0.0,1,-0.36,40,-14.4

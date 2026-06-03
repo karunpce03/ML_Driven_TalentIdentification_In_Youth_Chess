@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33354421,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1619,1554,1.0,4,-0.71,40,-28.4,"Goutham, Ramesh",,1866.0,False,IND,0.0,1,-0.14,40,-5.6
+33354421,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1619,1554,1.0,4,-0.71,40,-28.4,"Mithiran, A",,1708.0,False,IND,0.0,1,-0.29,40,-11.6
+33354421,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1619,1554,1.0,4,-0.71,40,-28.4,"Parameshh, Kumar U",,1449.0,False,IND,0.5,1,-0.14,40,-5.6
+33354421,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1619,1554,1.0,4,-0.71,40,-28.4,"Vishnuram, Kishore",,1453.0,False,IND,0.5,1,-0.14,40,-5.6

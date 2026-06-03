@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429024684,2024-06-01,0,Luis Salinas Memorial 79th Annual Texas State Amateur Championship,"Fort Worth, Texas USA",2024-05-24,2024-05-27,,,0.0,3,0.0,820,,"Wang, Jason",,1642,False,USA,0.0,1,0.0,,0.0
+429024684,2024-06-01,0,Luis Salinas Memorial 79th Annual Texas State Amateur Championship,"Fort Worth, Texas USA",2024-05-24,2024-05-27,,,0.0,3,0.0,820,,"Ravichandar, Sanjeev",,1555,False,USA,0.0,1,0.0,,0.0
+429024684,2024-06-01,0,Luis Salinas Memorial 79th Annual Texas State Amateur Championship,"Fort Worth, Texas USA",2024-05-24,2024-05-27,,,0.0,3,0.0,820,,"Villarreal, Steven",,1662,False,USA,0.0,1,0.0,,0.0
+429024684,2024-10-01,0,Texas CC 2024 Fall FIDE - U1800,"Irving, TX USA",2024-09-06,2024-09-08,,,0.0,2,0.0,782,,"Banerjee, Evan",,1602,False,CAN,0.0,1,0.0,,0.0
+429024684,2024-10-01,0,Texas CC 2024 Fall FIDE - U1800,"Irving, TX USA",2024-09-06,2024-09-08,,,0.0,2,0.0,782,,"Elkon, Alex N",,1561,False,USA,0.0,1,0.0,,0.0
+429024684,2024-12-01,0,2024 Texas Winter FIDE - U1800,"Irving, TX USA",2024-11-15,2024-11-17,,,2.0,3,0.0,1584,,"Krishnamurthy, Adhitya",,1448,False,USA,1.0,1,0.0,,0.0
+429024684,2024-12-01,0,2024 Texas Winter FIDE - U1800,"Irving, TX USA",2024-11-15,2024-11-17,,,2.0,3,0.0,1584,,"Praveen, Aayush",,1639,False,USA,1.0,1,0.0,,0.0
+429024684,2024-12-01,0,2024 Texas Winter FIDE - U1800,"Irving, TX USA",2024-11-15,2024-11-17,,,2.0,3,0.0,1584,,"Ganesan, Vikash",,1604,False,USA,0.0,1,0.0,,0.0
+429024684,2025-04-01,0,2025 February DFW FIDE Royale - U1800,"Irving, TX USA",2025-02-28,2025-03-02,,,2.0,2,0.0,1569,,"Koner, Archisman",,1508,False,USA,1.0,1,0.0,,0.0
+429024684,2025-04-01,0,2025 February DFW FIDE Royale - U1800,"Irving, TX USA",2025-02-28,2025-03-02,,,2.0,2,0.0,1569,,"Rajagopalan, Aadhya Jay",,1550,False,USA,1.0,1,0.0,,0.0

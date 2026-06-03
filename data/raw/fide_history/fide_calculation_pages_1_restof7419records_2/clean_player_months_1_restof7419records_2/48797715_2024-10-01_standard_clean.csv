@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48797715,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1518,1431,0.0,1,-0.38,40,-15.2,"Takkshanth, Anand",,1518.0,False,IND,0.0,1,-0.38,40,-15.2
+48797715,2024-10-01,0,2nd Late Shri Vasudeva V Dempo Fide Rating Chess Tournament 2024,Panaji IND,2024-09-17,2024-09-22,1686,1431,2.0,5,1.0,40,40.0,"Abhishek, T M",,1831.0,True,IND,0.0,1,-0.08,40,-3.2
+48797715,2024-10-01,0,2nd Late Shri Vasudeva V Dempo Fide Rating Chess Tournament 2024,Panaji IND,2024-09-17,2024-09-22,1686,1431,2.0,5,1.0,40,40.0,"Chaitanya, Sushant Patil",,1583.0,False,IND,0.0,1,-0.3,40,-12.0
+48797715,2024-10-01,0,2nd Late Shri Vasudeva V Dempo Fide Rating Chess Tournament 2024,Panaji IND,2024-09-17,2024-09-22,1686,1431,2.0,5,1.0,40,40.0,"Himanshu, Moudgil",,1747.0,False,IND,1.0,1,0.87,40,34.8
+48797715,2024-10-01,0,2nd Late Shri Vasudeva V Dempo Fide Rating Chess Tournament 2024,Panaji IND,2024-09-17,2024-09-22,1686,1431,2.0,5,1.0,40,40.0,"Rajveer, Patil",,1676.0,False,IND,0.0,1,-0.2,40,-8.0
+48797715,2024-10-01,0,2nd Late Shri Vasudeva V Dempo Fide Rating Chess Tournament 2024,Panaji IND,2024-09-17,2024-09-22,1686,1431,2.0,5,1.0,40,40.0,"Lokhandkar, Rushikesh",,1591.0,False,IND,1.0,1,0.71,40,28.4

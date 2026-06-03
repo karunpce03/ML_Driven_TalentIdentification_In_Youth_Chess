@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25998420,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1483,1745,1.0,3,-1.45,40,-58.0,"Adhiraaj, Sejwal",,1500.0,False,IND,0.0,1,-0.8,40,-32.0
+25998420,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1483,1745,1.0,3,-1.45,40,-58.0,"Manik, Kapoor",,1432.0,False,IND,1.0,1,0.14,40,5.6
+25998420,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1483,1745,1.0,3,-1.45,40,-58.0,"Arhaan, Agrawal",,1516.0,False,IND,0.0,1,-0.79,40,-31.6

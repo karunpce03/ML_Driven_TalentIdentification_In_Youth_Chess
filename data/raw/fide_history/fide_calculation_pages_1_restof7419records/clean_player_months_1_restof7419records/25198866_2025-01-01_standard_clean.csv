@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25198866,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1912,1804,3.5,7,0.89,40,35.6,"Zozek, Salah Mohammed",f,2204,True,IRQ,0.0,1,-0.08,40,-3.2
+25198866,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1912,1804,3.5,7,0.89,40,35.6,"Ahmad, Saif",,1505,False,QAT,1.0,1,0.15,40,6.0
+25198866,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1912,1804,3.5,7,0.89,40,35.6,"Nematjonov, Rakhmonali",,1612,False,UZB,1.0,1,0.25,40,10.0
+25198866,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1912,1804,3.5,7,0.89,40,35.6,"Zayed, Ali Al-Hamed",,2039,False,UAE,1.0,1,0.79,40,31.6
+25198866,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1912,1804,3.5,7,0.89,40,35.6,"Akhmediyar, Yernur",,1926,False,KAZ,0.0,1,-0.33,40,-13.2
+25198866,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1912,1804,3.5,7,0.89,40,35.6,"Abel, Sajan",,2053,False,IND,0.5,1,0.31,40,12.4
+25198866,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1912,1804,3.5,7,0.89,40,35.6,"Khalifa Essa, Albalooshi",,2045,False,UAE,0.0,1,-0.2,40,-8.0

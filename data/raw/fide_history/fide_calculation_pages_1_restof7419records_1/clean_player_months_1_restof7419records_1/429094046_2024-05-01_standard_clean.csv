@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429094046,2024-05-01,0,April Classic Chess Tournament 2024,Kuwait KUW,2024-04-18,2024-04-25,,,1.5,4,0.0,1485,,"Avantika, Maneesh",,1515,False,IND,0.0,1,0.0,,0.0
+429094046,2024-05-01,0,April Classic Chess Tournament 2024,Kuwait KUW,2024-04-18,2024-04-25,,,1.5,4,0.0,1485,,"Jinay, Ankitbhai Shah",,1473,False,IND,0.5,1,0.0,,0.0
+429094046,2024-05-01,0,April Classic Chess Tournament 2024,Kuwait KUW,2024-04-18,2024-04-25,,,1.5,4,0.0,1485,,"Carino, Joel",,1542,False,PHI,1.0,1,0.0,,0.0
+429094046,2024-05-01,0,April Classic Chess Tournament 2024,Kuwait KUW,2024-04-18,2024-04-25,,,1.5,4,0.0,1485,,"Ezhil, Aadhav Kaladharan",,1758,False,IND,0.0,1,0.0,,0.0

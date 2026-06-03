@@ -1,0 +1,41 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33318964,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1690,1534,3.0,7,0.83,40,33.2,"Tharunika, G",,1695.0,False,IND,1.0,1,0.71,40,28.4
+33318964,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1690,1534,3.0,7,0.83,40,33.2,"Ananya, Raman",,1763.0,False,IND,0.0,1,-0.21,40,-8.4
+33318964,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1690,1534,3.0,7,0.83,40,33.2,"Magizhini, M",,1662.0,False,IND,1.0,1,0.67,40,26.8
+33318964,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1690,1534,3.0,7,0.83,40,33.2,"Nafila, A",,1639.0,False,IND,1.0,1,0.64,40,25.6
+33318964,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1690,1534,3.0,7,0.83,40,33.2,"Pragnya, H G",wf,1900.0,False,IND,0.0,1,-0.1,40,-4.0
+33318964,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1690,1534,3.0,7,0.83,40,33.2,"Theephigaa, K P",,1763.0,False,IND,0.0,1,-0.21,40,-8.4
+33318964,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1690,1534,3.0,7,0.83,40,33.2,"Dhanyashree, R",,1411.0,False,IND,0.0,1,-0.67,40,-26.8
+33318964,2024-06-01,0,Tamil Nadu State Under 17 Girls FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1521,1567,4.0,8,-0.54,40,-21.6,"Isha, Premika M",,1414.0,False,IND,1.0,1,0.3,40,12.0
+33318964,2024-06-01,0,Tamil Nadu State Under 17 Girls FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1521,1567,4.0,8,-0.54,40,-21.6,"Meha, Arin A",,1426.0,False,IND,1.0,1,0.31,40,12.4
+33318964,2024-06-01,0,Tamil Nadu State Under 17 Girls FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1521,1567,4.0,8,-0.54,40,-21.6,"Padmini, S",,1809.0,False,IND,0.0,1,-0.2,40,-8.0
+33318964,2024-06-01,0,Tamil Nadu State Under 17 Girls FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1521,1567,4.0,8,-0.54,40,-21.6,"Samhita, M",,1434.0,False,IND,1.0,1,0.32,40,12.8
+33318964,2024-06-01,0,Tamil Nadu State Under 17 Girls FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1521,1567,4.0,8,-0.54,40,-21.6,"Sahana, Shainsha",,1791.0,False,IND,0.0,1,-0.22,40,-8.8
+33318964,2024-06-01,0,Tamil Nadu State Under 17 Girls FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1521,1567,4.0,8,-0.54,40,-21.6,"Inisha, R",,1440.0,False,IND,0.0,1,-0.67,40,-26.8
+33318964,2024-06-01,0,Tamil Nadu State Under 17 Girls FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1521,1567,4.0,8,-0.54,40,-21.6,"Fecilika, Fiance S",,1443.0,False,IND,0.0,1,-0.67,40,-26.8
+33318964,2024-06-01,0,Tamil Nadu State Under 17 Girls FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1521,1567,4.0,8,-0.54,40,-21.6,"Sisika, Borelli",,1409.0,False,IND,1.0,1,0.29,40,11.6
+33318964,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1469,1567,3.0,6,-0.79,40,-31.6,"Vaishnavi, S K",,1689.0,False,IND,0.0,1,-0.33,40,-13.2
+33318964,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1469,1567,3.0,6,-0.79,40,-31.6,"Meha, Arin A",,1426.0,False,IND,0.5,1,-0.19,40,-7.6
+33318964,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1469,1567,3.0,6,-0.79,40,-31.6,"Brindha, S",,1404.0,False,IND,0.5,1,-0.22,40,-8.8
+33318964,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1469,1567,3.0,6,-0.79,40,-31.6,"Aashitha, V G",,1421.0,False,IND,1.0,1,0.3,40,12.0
+33318964,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1469,1567,3.0,6,-0.79,40,-31.6,"Isha, R",,1465.0,False,IND,0.0,1,-0.64,40,-25.6
+33318964,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1469,1567,3.0,6,-0.79,40,-31.6,"Kaaviyasree, Kannan",,1409.0,False,IND,1.0,1,0.29,40,11.6
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Bhagyashree, Patil",wf,1903.0,False,IND,0.0,1,-0.09,40,-3.6
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Marium, Fatima",,1914.0,True,IND,1.0,1,0.92,40,36.8
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Janani, P",,1777.0,False,IND,0.0,1,-0.18,40,-7.2
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Sahana, Shainsha",,1785.0,False,IND,0.0,1,-0.17,40,-6.8
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Penmetsa, Lakshmi Harshini",,1451.0,False,IND,1.0,1,0.41,40,16.4
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Amulya, Guruprasad",wc,1785.0,False,IND,0.0,1,-0.17,40,-6.8
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Natesan, Prashaanthi",,1472.0,False,IND,0.0,1,-0.56,40,-22.4
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Dharunekaa, J",,1448.0,False,IND,1.0,1,0.41,40,16.4
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Arya, G Mallar",,1780.0,False,IND,0.0,1,-0.18,40,-7.2
+33318964,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1676,1514,4.0,10,0.79,40,31.6,"Leela, Maheswari B",,1441.0,False,IND,1.0,1,0.4,40,16.0
+33318964,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1564,1546,3.5,9,-0.85,40,-34.0,"Sananda, R",,1773.0,False,IND,0.0,1,-0.21,40,-8.4
+33318964,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1564,1546,3.5,9,-0.85,40,-34.0,"Tripurambika, V",,1789.0,False,IND,0.0,1,-0.2,40,-8.0
+33318964,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1564,1546,3.5,9,-0.85,40,-34.0,"Naja, Fathima P",,1430.0,False,IND,1.0,1,0.34,40,13.6
+33318964,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1564,1546,3.5,9,-0.85,40,-34.0,"Tharunika, G",,1772.0,False,IND,0.0,1,-0.21,40,-8.4
+33318964,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1564,1546,3.5,9,-0.85,40,-34.0,"Laksna, Sri R",,1450.0,False,IND,0.0,1,-0.63,40,-25.2
+33318964,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1564,1546,3.5,9,-0.85,40,-34.0,"Kaivallya, Kshitij Goyanka",,1422.0,False,IND,1.0,1,0.33,40,13.2
+33318964,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1564,1546,3.5,9,-0.85,40,-34.0,"Pavithra, N",,1454.0,False,IND,0.5,1,-0.13,40,-5.2
+33318964,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1564,1546,3.5,9,-0.85,40,-34.0,"Saanvi, Parihar",,1489.0,False,IND,0.5,1,-0.08,40,-3.2
+33318964,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1564,1546,3.5,9,-0.85,40,-34.0,"Pallavi, Samir Dey",,1501.0,False,IND,0.5,1,-0.06,40,-2.4

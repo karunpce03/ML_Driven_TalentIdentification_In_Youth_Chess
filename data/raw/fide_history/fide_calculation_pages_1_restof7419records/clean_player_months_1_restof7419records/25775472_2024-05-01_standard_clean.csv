@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25775472,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1701,1491,1.0,6,-0.46,40,-18.4,"Mrithyunjay, Mahadevan",c,1891,True,IND,0.0,1,-0.08,40,-3.2
+25775472,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1701,1491,1.0,6,-0.46,40,-18.4,"Amith, A",,1717,False,IND,1.0,1,0.79,40,31.6
+25775472,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1701,1491,1.0,6,-0.46,40,-18.4,"Srikara, Darbha",,1607,False,IND,0.0,1,-0.34,40,-13.6
+25775472,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1701,1491,1.0,6,-0.46,40,-18.4,"Nithik, Reddy Bhavanam",,1714,False,IND,0.0,1,-0.22,40,-8.8
+25775472,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1701,1491,1.0,6,-0.46,40,-18.4,"Bhavanya, Panchumarthi",,1610,False,IND,0.0,1,-0.34,40,-13.6
+25775472,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1701,1491,1.0,6,-0.46,40,-18.4,"Sarthak Sharma,",,1669,False,IND,0.0,1,-0.27,40,-10.8

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25138189,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1603,1791,5.5,10,-1.84,40,-73.6,"Aashrita, Balaji Guttula",,1465,False,IND,1.0,1,0.13,40,5.2
+25138189,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1603,1791,5.5,10,-1.84,40,-73.6,"Ayaan, Phutane",,1587,False,IND,1.0,1,0.24,40,9.6
+25138189,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1603,1791,5.5,10,-1.84,40,-73.6,"Shraddha, Naresh Padvekar",,1581,False,IND,1.0,1,0.23,40,9.2
+25138189,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1603,1791,5.5,10,-1.84,40,-73.6,"Vignesh, B",,2191,True,IND,0.0,1,-0.08,40,-3.2
+25138189,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1603,1791,5.5,10,-1.84,40,-73.6,"Menon, Padmanand",,1627,False,IND,0.0,1,-0.72,40,-28.8
+25138189,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1603,1791,5.5,10,-1.84,40,-73.6,"Tanish, Sahay",,1603,False,IND,0.0,1,-0.74,40,-29.6
+25138189,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1603,1791,5.5,10,-1.84,40,-73.6,"Shrinidhi, S",,1444,False,IND,0.5,1,-0.39,40,-15.6
+25138189,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1603,1791,5.5,10,-1.84,40,-73.6,"Pritam, Darshan Nadimpalli",,1521,False,IND,0.5,1,-0.33,40,-13.2
+25138189,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1603,1791,5.5,10,-1.84,40,-73.6,"Leah, R Joseph",,1501,False,IND,0.5,1,-0.34,40,-13.6
+25138189,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1603,1791,5.5,10,-1.84,40,-73.6,"Vyan, Banchhor",,1510,False,IND,1.0,1,0.16,40,6.4

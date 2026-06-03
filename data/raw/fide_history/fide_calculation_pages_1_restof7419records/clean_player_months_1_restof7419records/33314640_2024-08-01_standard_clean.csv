@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33314640,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1649,1426,1.5,6,0.11,40,4.4,"Kushal, O",,1826,True,IND,0.0,1,-0.08,40,-3.2
+33314640,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1649,1426,1.5,6,0.11,40,4.4,"Mridumoloy, Das",,1648,False,IND,1.0,1,0.78,40,31.2
+33314640,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1649,1426,1.5,6,0.11,40,4.4,"Hridika, Das",,1569,False,IND,0.0,1,-0.31,40,-12.4
+33314640,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1649,1426,1.5,6,0.11,40,4.4,"Tridev, Buragohain",,1704,False,IND,0.0,1,-0.17,40,-6.8
+33314640,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1649,1426,1.5,6,0.11,40,4.4,"Thong, Teron",,1596,False,IND,0.0,1,-0.28,40,-11.2
+33314640,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1649,1426,1.5,6,0.11,40,4.4,"Bhaumik, Kishore Das",,1551,False,IND,0.5,1,0.17,40,6.8

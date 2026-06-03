@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33438790,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1620,1446,1.5,4,0.4,40,16.0,"Tayyeb, Usman",,1705.0,False,PAK,0.0,1,-0.18,40,-7.2
+33438790,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1620,1446,1.5,4,0.4,40,16.0,"Hamdan, Hassan Mohammed Hassan",,1646.0,False,UAE,0.5,1,0.26,40,10.4
+33438790,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1620,1446,1.5,4,0.4,40,16.0,"Berik, Dinmukhammed",,1620.0,False,KAZ,0.0,1,-0.27,40,-10.8
+33438790,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1620,1446,1.5,4,0.4,40,16.0,"Cresencia, Carl Louiz",,1508.0,False,PHI,1.0,1,0.59,40,23.6

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33475415,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1568,1566,5.0,9,0.4,40,16.0,"Navalgund, Niranjan",f,1966,True,IND,0.0,1,-0.08,40,-3.2
+33475415,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1568,1566,5.0,9,0.4,40,16.0,"Anagha, Abhinav Krishna",,1413,False,IND,1.0,1,0.3,40,12.0
+33475415,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1568,1566,5.0,9,0.4,40,16.0,"Atharva, Bodas",,1453,False,IND,1.0,1,0.35,40,14.0
+33475415,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1568,1566,5.0,9,0.4,40,16.0,"Aaditya, Ranjan Sahu",,1777,False,IND,0.5,1,0.27,40,10.8
+33475415,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1568,1566,5.0,9,0.4,40,16.0,"Sumeetkumar, M S",,1696,False,IND,0.0,1,-0.32,40,-12.8
+33475415,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1568,1566,5.0,9,0.4,40,16.0,"Mirtyunjya, Kumar",,1442,False,IND,0.5,1,-0.17,40,-6.8
+33475415,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1568,1566,5.0,9,0.4,40,16.0,"Deeptha, Srinivas",,1464,False,IND,0.5,1,-0.14,40,-5.6
+33475415,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1568,1566,5.0,9,0.4,40,16.0,"Rudransh, P S",,1426,False,IND,0.5,1,-0.19,40,-7.6
+33475415,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1568,1566,5.0,9,0.4,40,16.0,"Adhvaith, A",,1477,False,IND,1.0,1,0.38,40,15.2

@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25134124,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1751,1497,0.0,2,-0.43,40,-17.2,"Shreyash, Singh",,1897,True,IND,0.0,1,-0.08,40,-3.2
+25134124,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1751,1497,0.0,2,-0.43,40,-17.2,"Shani, Kumar Soni",,1604,False,IND,0.0,1,-0.35,40,-14.0

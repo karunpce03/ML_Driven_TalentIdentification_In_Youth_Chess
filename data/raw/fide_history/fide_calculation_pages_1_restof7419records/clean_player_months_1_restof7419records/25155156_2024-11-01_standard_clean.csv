@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25155156,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1705,1497,1.5,4,0.49,40,19.6,"Badamundi, Tapan",,1897,True,IND,0.0,1,-0.08,40,-3.2
+25155156,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1705,1497,1.5,4,0.49,40,19.6,"Suman, Maity",,1713,False,IND,1.0,1,0.78,40,31.2
+25155156,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1705,1497,1.5,4,0.49,40,19.6,"Rajan, N Sundar",,1558,False,IND,0.5,1,0.08,40,3.2
+25155156,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1705,1497,1.5,4,0.49,40,19.6,"Narendra, Behera",,1652,False,IND,0.0,1,-0.29,40,-11.6

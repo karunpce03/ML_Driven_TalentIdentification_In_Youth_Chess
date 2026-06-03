@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25181173,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,1725,1929,6.5,8,0.57,40,22.8,"Akshaya, S",,1529,True,IND,1.0,1,0.08,40,3.2
+25181173,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,1725,1929,6.5,8,0.57,40,22.8,"Kavyasree, S",,1602,False,IND,1.0,1,0.13,40,5.2
+25181173,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,1725,1929,6.5,8,0.57,40,22.8,"Rajasurya, J.",wf,1705,False,IND,1.0,1,0.22,40,8.8
+25181173,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,1725,1929,6.5,8,0.57,40,22.8,"Shiyonika, J",,1653,False,IND,1.0,1,0.17,40,6.8
+25181173,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,1725,1929,6.5,8,0.57,40,22.8,"Shanmathi, Sree S",wc,1960,False,IND,0.5,1,0.04,40,1.6
+25181173,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,1725,1929,6.5,8,0.57,40,22.8,"Harini, S.",,1861,False,IND,0.5,1,-0.09,40,-3.6
+25181173,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,1725,1929,6.5,8,0.57,40,22.8,"Padmini, S",,1787,False,IND,1.0,1,0.31,40,12.4
+25181173,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,1725,1929,6.5,8,0.57,40,22.8,"Abirama Srinithi, G",,1701,False,IND,0.5,1,-0.29,40,-11.6

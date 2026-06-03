@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45080860,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2064,1834,6.0,9,4.01,40,160.4,"Cano Mateos, Pablo",,2067.0,False,ESP,0.0,1,-0.21,40,-8.4
+45080860,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2064,1834,6.0,9,4.01,40,160.4,"Vaddhireddy, Sai",,1962.0,False,ENG,1.0,1,0.67,40,26.8
+45080860,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2064,1834,6.0,9,4.01,40,160.4,"Lasheras Martinez, Juan Thomas",,2128.0,False,ESP,1.0,1,0.85,40,34.0
+45080860,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2064,1834,6.0,9,4.01,40,160.4,"Valdepenas Octavio, Javier",,2145.0,False,ESP,0.0,1,-0.14,40,-5.6
+45080860,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2064,1834,6.0,9,4.01,40,160.4,"Navarro Cabrera, Carlos",,2003.0,False,ESP,1.0,1,0.72,40,28.8
+45080860,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2064,1834,6.0,9,4.01,40,160.4,"Escudero Ribo, Eloi",,1903.0,False,ESP,1.0,1,0.6,40,24.0
+45080860,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2064,1834,6.0,9,4.01,40,160.4,"Tonndorf, Matthias",f,2138.0,False,GER,0.0,1,-0.14,40,-5.6
+45080860,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2064,1834,6.0,9,4.01,40,160.4,"Perez Epinin, Gines",,2052.0,False,ESP,1.0,1,0.78,40,31.2
+45080860,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2064,1834,6.0,9,4.01,40,160.4,"Valdats, Reinis",,2175.0,False,LAT,1.0,1,0.88,40,35.2

@@ -1,0 +1,22 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531083706,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,,,0.0,3,0.0,677,,"Shlok, Vinay Kulkarni",,1552.0,False,IND,0.0,1,0.0,,0.0
+531083706,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,,,0.0,3,0.0,677,,"Anusri, S",,1439.0,False,IND,0.0,1,0.0,,0.0
+531083706,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,,,0.0,3,0.0,677,,"Advay, Bharathram",,1440.0,False,IND,0.0,1,0.0,,0.0
+531083706,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,,,0.0,3,0.0,661,,"Anandaraj, L",,1519.0,False,IND,0.0,1,0.0,,0.0
+531083706,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,,,0.0,3,0.0,661,,"Naga, Vijay Nandan K",,1411.0,False,IND,0.0,1,0.0,,0.0
+531083706,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,,,0.0,3,0.0,661,,"Vardaan, Mohanty",,1453.0,False,IND,0.0,1,0.0,,0.0
+531083706,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,0.0,5,0.0,647,,"Heet, Baldawa",,1508.0,False,IND,0.0,1,0.0,,0.0
+531083706,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,0.0,5,0.0,647,,"Aaryaveer, Kochhar",,1427.0,False,IND,0.0,1,0.0,,0.0
+531083706,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,0.0,5,0.0,647,,"Shivarshi, Chakrabarti",,1446.0,False,IND,0.0,1,0.0,,0.0
+531083706,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,0.0,5,0.0,647,,"Rodra, Majumder",,1429.0,False,IND,0.0,1,0.0,,0.0
+531083706,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,0.0,5,0.0,647,,"Sharad, A",,1423.0,False,IND,0.0,1,0.0,,0.0
+531083706,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,,,1.5,5,0.0,1308,,"Kirti, Sethia",,1483.0,False,IND,0.0,1,0.0,,0.0
+531083706,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,,,1.5,5,0.0,1308,,"Heethesh, Kumar Botla",,1425.0,False,IND,0.5,1,0.0,,0.0
+531083706,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,,,1.5,5,0.0,1308,,"Swathi, Deverapalli",,1449.0,False,IND,0.5,1,0.0,,0.0
+531083706,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,,,1.5,5,0.0,1308,,"Niyola, Pinto",,1457.0,False,IND,0.5,1,0.0,,0.0
+531083706,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,,,1.5,5,0.0,1308,,"Mogili, Abhinav Reddy",,1470.0,False,IND,0.0,1,0.0,,0.0
+531083706,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1498.0,1453.0,1.5,5,-0.76,40,-30.4,"Kushagra, Paliwal",,1783.0,False,IND,0.0,1,-0.12,40.0,-4.8
+531083706,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1498.0,1453.0,1.5,5,-0.76,40,-30.4,"Sabari, Krishna",,1432.0,False,IND,0.0,1,-0.53,40.0,-21.2
+531083706,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1498.0,1453.0,1.5,5,-0.76,40,-30.4,"Lakshmi, Sai Trinadh Kumar Gubbal",,1452.0,False,IND,1.0,1,0.5,40.0,20.0
+531083706,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1498.0,1453.0,1.5,5,-0.76,40,-30.4,"Shanjiv, Bala T",,1407.0,False,IND,0.5,1,-0.06,40.0,-2.4
+531083706,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1498.0,1453.0,1.5,5,-0.76,40,-30.4,"Yuvan, M",,1416.0,False,IND,0.0,1,-0.55,40.0,-22.0

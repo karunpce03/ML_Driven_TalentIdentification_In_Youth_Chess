@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25164104,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1669,1494,1.0,5,-0.48,40,-19.2,"Yeshas, H",,1713.0,False,IND,0.0,1,-0.22,40,-8.8
+25164104,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1669,1494,1.0,5,-0.48,40,-19.2,"Aarav, Manche",,1682.0,False,IND,1.0,1,0.74,40,29.6
+25164104,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1669,1494,1.0,5,-0.48,40,-19.2,"Tanmay, Srinath",,1645.0,False,IND,0.0,1,-0.3,40,-12.0
+25164104,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1669,1494,1.0,5,-0.48,40,-19.2,"Sudarshan, Bhat",,1894.0,True,IND,0.0,1,-0.08,40,-3.2
+25164104,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1669,1494,1.0,5,-0.48,40,-19.2,"Bharani, G N",,1410.0,False,IND,0.0,1,-0.62,40,-24.8
+25164104,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1647,1494,0.0,3,-0.9,40,-36.0,"Vivaan, Sachdev",,1717.0,False,IND,0.0,1,-0.22,40,-8.8
+25164104,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1647,1494,0.0,3,-0.9,40,-36.0,"Karthik, S",,1622.0,False,IND,0.0,1,-0.33,40,-13.2
+25164104,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1647,1494,0.0,3,-0.9,40,-36.0,"Talwalkar, Pushkar",,1603.0,False,IND,0.0,1,-0.35,40,-14.0

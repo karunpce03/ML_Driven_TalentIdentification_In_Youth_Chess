@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33478066,2025-04-01,0,Budapest One Week GM-A,Budapest HUN,2025-03-17,2025-03-22,2400,2336,3.5,9,-0.21,20,-4.2,"Sandoval Mercado, Carlos",f,2383.0,False,MEX,0.5,1,0.07,20,1.4
+33478066,2025-04-01,0,Budapest One Week GM-A,Budapest HUN,2025-03-17,2025-03-22,2400,2336,3.5,9,-0.21,20,-4.2,"Lu, Maximillian",m,2392.0,False,USA,0.0,1,-0.42,20,-8.4
+33478066,2025-04-01,0,Budapest One Week GM-A,Budapest HUN,2025-03-17,2025-03-22,2400,2336,3.5,9,-0.21,20,-4.2,"Berczes, David",g,2408.0,False,HUN,0.5,1,0.1,20,2.0
+33478066,2025-04-01,0,Budapest One Week GM-A,Budapest HUN,2025-03-17,2025-03-22,2400,2336,3.5,9,-0.21,20,-4.2,"Kairbekova, Amina",wm,2336.0,False,KAZ,0.0,1,-0.5,20,-10.0
+33478066,2025-04-01,0,Budapest One Week GM-A,Budapest HUN,2025-03-17,2025-03-22,2400,2336,3.5,9,-0.21,20,-4.2,"Mirzoev, Azer",g,2470.0,False,AZE,0.5,1,0.18,20,3.6
+33478066,2025-04-01,0,Budapest One Week GM-A,Budapest HUN,2025-03-17,2025-03-22,2400,2336,3.5,9,-0.21,20,-4.2,"Nagy, Gabor",g,2466.0,False,HUN,0.5,1,0.18,20,3.6
+33478066,2025-04-01,0,Budapest One Week GM-A,Budapest HUN,2025-03-17,2025-03-22,2400,2336,3.5,9,-0.21,20,-4.2,"Tahay, Alexis",m,2397.0,False,FRA,0.0,1,-0.42,20,-8.4
+33478066,2025-04-01,0,Budapest One Week GM-A,Budapest HUN,2025-03-17,2025-03-22,2400,2336,3.5,9,-0.21,20,-4.2,"Kienboeck, Benjamin",f,2283.0,False,AUT,1.0,1,0.43,20,8.6
+33478066,2025-04-01,0,Budapest One Week GM-A,Budapest HUN,2025-03-17,2025-03-22,2400,2336,3.5,9,-0.21,20,-4.2,"Uskov, Artem",m,2461.0,False,FID,0.5,1,0.17,20,3.4

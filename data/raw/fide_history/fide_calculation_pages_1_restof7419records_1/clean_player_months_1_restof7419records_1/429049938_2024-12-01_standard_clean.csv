@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429049938,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,,,0.5,3,0.0,1596,,"Reyan, Md.",c,2219,False,IND,0.0,1,0.0,,0.0
+429049938,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,,,0.5,3,0.0,1596,,"Raj, Aryan",,1617,False,IND,0.5,1,0.0,,0.0
+429049938,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,,,0.5,3,0.0,1596,,"Kumar, Prabhat",,1772,False,IND,0.0,1,0.0,,0.0

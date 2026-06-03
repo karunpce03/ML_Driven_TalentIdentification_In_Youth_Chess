@@ -1,0 +1,25 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25197614,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1674,1630,4.5,8,0.93,40,37.2,"Vaishnav, Reshab S H",,1476.0,False,IND,1.0,1,0.29,40,11.6
+25197614,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1674,1630,4.5,8,0.93,40,37.2,"Ahaz, E U",,1806.0,False,IND,0.0,1,-0.27,40,-10.8
+25197614,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1674,1630,4.5,8,0.93,40,37.2,"Leah, R Joseph",,1501.0,False,IND,1.0,1,0.33,40,13.2
+25197614,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1674,1630,4.5,8,0.93,40,37.2,"Sanoosh, B Shibu",,1426.0,False,IND,1.0,1,0.24,40,9.6
+25197614,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1674,1630,4.5,8,0.93,40,37.2,Krishna,,1755.0,False,IND,0.5,1,0.17,40,6.8
+25197614,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1674,1630,4.5,8,0.93,40,37.2,"Sooriya, B Y",,1740.0,False,IND,1.0,1,0.65,40,26.0
+25197614,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1674,1630,4.5,8,0.93,40,37.2,"Sham, R",,1953.0,False,IND,0.0,1,-0.13,40,-5.2
+25197614,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1674,1630,4.5,8,0.93,40,37.2,"Iniyan, R S",,1738.0,False,IND,0.0,1,-0.35,40,-14.0
+25197614,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1899,1667,1.0,7,-0.58,40,-23.2,"Anadkat, Kartavya",,2067.0,True,IND,0.0,1,-0.08,40,-3.2
+25197614,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1899,1667,1.0,7,-0.58,40,-23.2,"Shah, Moxit J",,2017.0,True,IND,0.0,1,-0.11,40,-4.4
+25197614,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1899,1667,1.0,7,-0.58,40,-23.2,"Saikat, Nath",,1888.0,False,IND,0.0,1,-0.22,40,-8.8
+25197614,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1899,1667,1.0,7,-0.58,40,-23.2,"Ashutosh, Mohapatra",,1845.0,False,IND,0.5,1,0.23,40,9.2
+25197614,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1899,1667,1.0,7,-0.58,40,-23.2,"Om, Batra",,1934.0,False,IND,0.0,1,-0.18,40,-7.2
+25197614,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1899,1667,1.0,7,-0.58,40,-23.2,"Samarth, Jain",,1801.0,False,IND,0.5,1,0.18,40,7.2
+25197614,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1899,1667,1.0,7,-0.58,40,-23.2,"Himanshu, Moudgil",,1741.0,False,IND,0.0,1,-0.4,40,-16.0
+25197614,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1579,1667,7.0,9,1.45,40,58.0,"Bhardwaj, Anurag",,1428.0,False,IND,1.0,1,0.2,40,8.0
+25197614,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1579,1667,7.0,9,1.45,40,58.0,"Vihaan, Sinha",,1539.0,False,IND,1.0,1,0.33,40,13.2
+25197614,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1579,1667,7.0,9,1.45,40,58.0,"Shreyansh, Das",,1591.0,False,IND,0.5,1,-0.1,40,-4.0
+25197614,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1579,1667,7.0,9,1.45,40,58.0,"Piyush, Kumar Mishra",,1600.0,False,IND,0.5,1,-0.09,40,-3.6
+25197614,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1579,1667,7.0,9,1.45,40,58.0,"Devdutt, Mahanand",,1579.0,False,IND,1.0,1,0.38,40,15.2
+25197614,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1579,1667,7.0,9,1.45,40,58.0,"Veer, Rakeshkumar Patel",,1620.0,False,IND,1.0,1,0.43,40,17.2
+25197614,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1579,1667,7.0,9,1.45,40,58.0,"Saravanan, Arun Kumar B",,1623.0,False,IND,0.5,1,-0.06,40,-2.4
+25197614,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1579,1667,7.0,9,1.45,40,58.0,"Jaikishan, Jaiswal",,1616.0,False,IND,0.5,1,-0.07,40,-2.8
+25197614,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1579,1667,7.0,9,1.45,40,58.0,"Ashwin, Ravichandran",,1615.0,False,IND,1.0,1,0.43,40,17.2

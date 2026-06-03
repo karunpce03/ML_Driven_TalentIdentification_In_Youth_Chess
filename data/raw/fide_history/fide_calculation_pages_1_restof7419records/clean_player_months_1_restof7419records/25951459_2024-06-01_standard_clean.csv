@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25951459,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1664,1950,5.5,8,-1.12,40,-44.8,"Adhiraj, Binyani",,1550,True,IND,1.0,1,0.08,40,3.2
+25951459,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1664,1950,5.5,8,-1.12,40,-44.8,"Supratim, Bhadra",,1593,False,IND,1.0,1,0.11,40,4.4
+25951459,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1664,1950,5.5,8,-1.12,40,-44.8,"Gopalakrishnan, G",,1703,False,IND,0.5,1,-0.31,40,-12.4
+25951459,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1664,1950,5.5,8,-1.12,40,-44.8,"Mikki, Jhuria",,1617,False,IND,1.0,1,0.12,40,4.8
+25951459,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1664,1950,5.5,8,-1.12,40,-44.8,"Sundram, Kumar",,1778,False,IND,0.0,1,-0.73,40,-29.2
+25951459,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1664,1950,5.5,8,-1.12,40,-44.8,"Chinmoy, Roy",,1627,False,IND,1.0,1,0.13,40,5.2
+25951459,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1664,1950,5.5,8,-1.12,40,-44.8,"Sharma, Harish",,1862,False,IND,0.0,1,-0.62,40,-24.8
+25951459,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1664,1950,5.5,8,-1.12,40,-44.8,"Hardik, Sharma",,1581,False,IND,1.0,1,0.1,40,4.0

@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531010520,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1652,1453,0.0,4,-1.05,40,-42.0,"Prashanth, J Naik",,1853.0,True,IND,0.0,1,-0.08,40,-3.2
+531010520,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1652,1453,0.0,4,-1.05,40,-42.0,"Sanikommu, Jaideep Reddy",,1645.0,False,IND,0.0,1,-0.25,40,-10.0
+531010520,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1652,1453,0.0,4,-1.05,40,-42.0,"Mahathi, M",,1556.0,False,IND,0.0,1,-0.36,40,-14.4
+531010520,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1652,1453,0.0,4,-1.05,40,-42.0,"Shlok, Vinay Kulkarni",,1552.0,False,IND,0.0,1,-0.36,40,-14.4
+531010520,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1584,1453,0.0,3,-0.98,40,-39.2,"Tanish, Sahay",,1620.0,False,IND,0.0,1,-0.28,40,-11.2
+531010520,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1584,1453,0.0,3,-0.98,40,-39.2,"Vivaan, Bhattacharya",,1582.0,False,IND,0.0,1,-0.33,40,-13.2
+531010520,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,1584,1453,0.0,3,-0.98,40,-39.2,"Bruhathi, Kondisetti",,1549.0,False,IND,0.0,1,-0.37,40,-14.8

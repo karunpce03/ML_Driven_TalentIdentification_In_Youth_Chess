@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25159895,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1555,1610,3.5,6,0.07,40,2.8,"Kapilnithin, B M",,1443.0,False,IND,0.5,1,-0.22,40,-8.8
+25159895,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1555,1610,3.5,6,0.07,40,2.8,"Sairam, Chidambaram Lakshmanan",,1439.0,False,IND,1.0,1,0.27,40,10.8
+25159895,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1555,1610,3.5,6,0.07,40,2.8,"Padmaesh, M K",,1704.0,False,IND,0.0,1,-0.37,40,-14.8
+25159895,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1555,1610,3.5,6,0.07,40,2.8,"Tarun, Tapaan Shashikumar Pillay",,1515.0,False,IND,1.0,1,0.37,40,14.8
+25159895,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1555,1610,3.5,6,0.07,40,2.8,"Joy, Lazar M.a.",,1756.0,False,IND,0.0,1,-0.3,40,-12.0
+25159895,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1555,1610,3.5,6,0.07,40,2.8,"Bethapudi, Kiran",,1475.0,False,IND,1.0,1,0.32,40,12.8

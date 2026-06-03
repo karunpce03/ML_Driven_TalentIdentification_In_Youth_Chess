@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25983989,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1594,1468,2.5,8,-0.17,40,-6.8,"Mishra, Manish",,1745.0,False,IND,0.0,1,-0.17,40,-6.8
+25983989,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1594,1468,2.5,8,-0.17,40,-6.8,"Viraat, Jalan",,1575.0,False,IND,0.0,1,-0.35,40,-14.0
+25983989,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1594,1468,2.5,8,-0.17,40,-6.8,"Rabindra, Sahu",,1566.0,False,IND,0.5,1,0.13,40,5.2
+25983989,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1594,1468,2.5,8,-0.17,40,-6.8,"Majhi, Sakila",,1549.0,False,IND,0.5,1,0.11,40,4.4
+25983989,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1594,1468,2.5,8,-0.17,40,-6.8,"Aditri, Baisya",,1591.0,False,IND,1.0,1,0.67,40,26.8
+25983989,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1594,1468,2.5,8,-0.17,40,-6.8,"Khushal, Bagri",,1625.0,False,IND,0.0,1,-0.29,40,-11.6
+25983989,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1594,1468,2.5,8,-0.17,40,-6.8,"Aditya, Mukherjee",,1566.0,False,IND,0.5,1,0.13,40,5.2
+25983989,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1594,1468,2.5,8,-0.17,40,-6.8,"Ishani, Das",,1537.0,False,IND,0.0,1,-0.4,40,-16.0
+25983989,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1570,1468,1.0,3,-0.08,40,-3.2,"Martha, Pravat Kumar",,1577.0,False,IND,1.0,1,0.65,40,26.0
+25983989,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1570,1468,1.0,3,-0.08,40,-3.2,"Aniket, Das",,1570.0,False,IND,0.0,1,-0.36,40,-14.4
+25983989,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1570,1468,1.0,3,-0.08,40,-3.2,"Gala, Vansh Rasik",,1564.0,False,IND,0.0,1,-0.37,40,-14.8

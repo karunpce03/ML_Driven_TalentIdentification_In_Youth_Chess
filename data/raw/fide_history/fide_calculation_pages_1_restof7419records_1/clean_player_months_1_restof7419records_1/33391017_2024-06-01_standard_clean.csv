@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33391017,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1691,1444,0.0,3,-0.65,40,-26.0,"Rupam, Mukherjee",,1844.0,True,IND,0.0,1,-0.08,40,-3.2
+33391017,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1691,1444,0.0,3,-0.65,40,-26.0,"Khillo, Purna",,1705.0,False,IND,0.0,1,-0.18,40,-7.2
+33391017,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1691,1444,0.0,3,-0.65,40,-26.0,"Murali, Mohan Y",,1523.0,False,IND,0.0,1,-0.39,40,-15.6
+33391017,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1564,1444,2.0,6,-0.03,40,-1.2,"Shauryaveer, Raj",,1578.0,False,IND,0.5,1,0.18,40,7.2
+33391017,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1564,1444,2.0,6,-0.03,40,-1.2,"Sathvik, Gulakaram",,1588.0,False,IND,0.5,1,0.19,40,7.6
+33391017,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1564,1444,2.0,6,-0.03,40,-1.2,"Sumanth, Mamidala",,1553.0,False,IND,1.0,1,0.65,40,26.0
+33391017,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1564,1444,2.0,6,-0.03,40,-1.2,"Bandaru, Swaroop Kumar",,1564.0,False,IND,0.0,1,-0.34,40,-13.6
+33391017,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1564,1444,2.0,6,-0.03,40,-1.2,"Spandan, Debnath",,1543.0,False,IND,0.0,1,-0.36,40,-14.4
+33391017,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1564,1444,2.0,6,-0.03,40,-1.2,"Jakir, Hussain",,1555.0,False,IND,0.0,1,-0.35,40,-14.0

@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429085144,2024-08-01,0,3rd H.P. Senior State FIDE Rated Chess Championship - 2024,Bilaspur IND,2024-07-26,2024-07-28,,,2.0,6,0.0,1364,,"Arush, Rana",,1447.0,False,IND,0.0,1,0.0,,0.0
+429085144,2024-08-01,0,3rd H.P. Senior State FIDE Rated Chess Championship - 2024,Bilaspur IND,2024-07-26,2024-07-28,,,2.0,6,0.0,1364,,"Mayur, Saxena",,1482.0,False,IND,0.5,1,0.0,,0.0
+429085144,2024-08-01,0,3rd H.P. Senior State FIDE Rated Chess Championship - 2024,Bilaspur IND,2024-07-26,2024-07-28,,,2.0,6,0.0,1364,,"Dheeraj, Sharma",,1515.0,False,IND,1.0,1,0.0,,0.0
+429085144,2024-08-01,0,3rd H.P. Senior State FIDE Rated Chess Championship - 2024,Bilaspur IND,2024-07-26,2024-07-28,,,2.0,6,0.0,1364,,"Chaman, Lal Thakur",,1537.0,False,IND,0.5,1,0.0,,0.0
+429085144,2024-08-01,0,3rd H.P. Senior State FIDE Rated Chess Championship - 2024,Bilaspur IND,2024-07-26,2024-07-28,,,2.0,6,0.0,1364,,"Madhav, Garg",,1502.0,False,IND,0.0,1,0.0,,0.0
+429085144,2024-08-01,0,3rd H.P. Senior State FIDE Rated Chess Championship - 2024,Bilaspur IND,2024-07-26,2024-07-28,,,2.0,6,0.0,1364,,"Arnav, Beakta",,1450.0,False,IND,0.0,1,0.0,,0.0
+429085144,2024-10-01,0,U-19 selection State Fide Rated Chess Championship,Shimla IND,2024-08-31,2024-09-02,1482.0,1480.0,1.0,2,0.01,40,0.4,"Jayash, Jaswal",,1436.0,False,IND,0.0,1,-0.56,40.0,-22.4
+429085144,2024-10-01,0,U-19 selection State Fide Rated Chess Championship,Shimla IND,2024-08-31,2024-09-02,1482.0,1480.0,1.0,2,0.01,40,0.4,"Madhav, Garg",,1528.0,False,IND,1.0,1,0.57,40.0,22.8

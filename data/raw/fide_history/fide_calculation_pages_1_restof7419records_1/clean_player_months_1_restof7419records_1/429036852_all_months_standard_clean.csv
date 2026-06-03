@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429036852,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,1534,1475,1.5,3,0.24,40,9.6,"Ishaan, Saini",,1570.0,False,IND,0.5,1,0.13,40,5.2
+429036852,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,1534,1475,1.5,3,0.24,40,9.6,"Taneesha, Drolia",,1624.0,False,IND,0.5,1,0.2,40,8.0
+429036852,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,1534,1475,1.5,3,0.24,40,9.6,"Jasman, Kaur",,1408.0,False,IND,0.5,1,-0.09,40,-3.6
+429036852,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1572,1485,3.5,8,0.43,40,17.2,"Aadwik, Abhinav Krishna",,1649.0,False,IND,0.5,1,0.22,40,8.8
+429036852,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1572,1485,3.5,8,0.43,40,17.2,"Advik, Mundhada",,1620.0,False,IND,0.5,1,0.18,40,7.2
+429036852,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1572,1485,3.5,8,0.43,40,17.2,"Velsukirthan, P",,1529.0,False,IND,1.0,1,0.56,40,22.4
+429036852,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1572,1485,3.5,8,0.43,40,17.2,"Vishprajesh, Anand",,1558.0,False,IND,0.0,1,-0.4,40,-16.0
+429036852,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1572,1485,3.5,8,0.43,40,17.2,"Shreyansh, Das",,1621.0,False,IND,1.0,1,0.68,40,27.2
+429036852,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1572,1485,3.5,8,0.43,40,17.2,"Aadvik, A S",,1581.0,False,IND,0.5,1,0.13,40,5.2
+429036852,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1572,1485,3.5,8,0.43,40,17.2,"Vivaan, Chawla",,1577.0,False,IND,0.0,1,-0.37,40,-14.8
+429036852,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1572,1485,3.5,8,0.43,40,17.2,"Hamzah, Malik",,1437.0,False,IND,0.0,1,-0.57,40,-22.8

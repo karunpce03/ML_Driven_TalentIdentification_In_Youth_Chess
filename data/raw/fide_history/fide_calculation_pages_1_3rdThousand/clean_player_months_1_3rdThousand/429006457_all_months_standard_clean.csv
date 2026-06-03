@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429006457,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1420,1525,1.0,3,-0.93,40,-37.2,"Niyola, Pinto",,1408.0,False,IND,0.0,1,-0.66,40,-26.4
+429006457,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1420,1525,1.0,3,-0.93,40,-37.2,"Al Jabri, Shihab",,1407.0,False,OMA,1.0,1,0.34,40,13.6
+429006457,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1420,1525,1.0,3,-0.93,40,-37.2,"Al Bulushi, Omar",,1446.0,False,OMA,0.0,1,-0.61,40,-24.4
+429006457,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1796,1488,0.0,2,-0.31,40,-12.4,"Al Mashikhi, Salim Aliyan",f,1888.0,True,OMA,0.0,1,-0.08,40,-3.2
+429006457,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1796,1488,0.0,2,-0.31,40,-12.4,"Hussein, Siddig Mohamed",,1703.0,False,SUD,0.0,1,-0.23,40,-9.2
+429006457,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1607,1488,0.0,2,-0.67,40,-26.8,"Mohamed, Fadil Syed Ibrahim",,1618.0,False,IND,0.0,1,-0.32,40,-12.8
+429006457,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1607,1488,0.0,2,-0.67,40,-26.8,"Muhammad, Zaahir Naduvilaparambil",,1595.0,False,IND,0.0,1,-0.35,40,-14.0
+429006457,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1568,1488,1.5,4,-0.09,40,-3.6,"Al Mamari, Imran",,1688.0,False,OMA,0.0,1,-0.24,40,-9.6
+429006457,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1568,1488,1.5,4,-0.09,40,-3.6,"Al Aamri, Abdallah",,1656.0,False,OMA,0.5,1,0.22,40,8.8
+429006457,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1568,1488,1.5,4,-0.09,40,-3.6,"Neha, Shilesh",,1451.0,False,IND,0.0,1,-0.55,40,-22.0
+429006457,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1568,1488,1.5,4,-0.09,40,-3.6,"Farhan, Fakkih",,1475.0,False,IND,1.0,1,0.48,40,19.2
+429006457,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1624,1449,0.0,3,-0.83,40,-33.2,"Hussein, Siddig Mohamed",,1712.0,False,SUD,0.0,1,-0.18,40,-7.2
+429006457,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1624,1449,0.0,3,-0.83,40,-33.2,"Al Balushi, Khalid",,1600.0,False,OMA,0.0,1,-0.3,40,-12.0
+429006457,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1624,1449,0.0,3,-0.83,40,-33.2,"Marwa, Jadalla",,1561.0,False,SUD,0.0,1,-0.35,40,-14.0

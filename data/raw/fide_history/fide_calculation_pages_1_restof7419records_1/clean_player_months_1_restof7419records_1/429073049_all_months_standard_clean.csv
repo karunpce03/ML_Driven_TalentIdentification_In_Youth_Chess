@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429073049,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,,,0.5,3,0.0,1205,,"Makam, Ramlikith",,1579.0,False,IND,0.0,1,0.0,,0.0
+429073049,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,,,0.5,3,0.0,1205,,"Krishna, Varenya Potnuru",,1442.0,False,IND,0.0,1,0.0,,0.0
+429073049,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,,,0.5,3,0.0,1205,,"Kushwanth, Neeli",,1414.0,False,IND,0.5,1,0.0,,0.0
+429073049,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,,,2.5,8,0.0,1361,,"Kalikiri, Latish Reddy",,1619.0,False,IND,0.5,1,0.0,,0.0
+429073049,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,,,2.5,8,0.0,1361,,"Mouli, Lovi",,1531.0,False,IND,0.0,1,0.0,,0.0
+429073049,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,,,2.5,8,0.0,1361,,"Baggu, Abhinav",,1492.0,False,IND,0.5,1,0.0,,0.0
+429073049,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,,,2.5,8,0.0,1361,,"Siva, Krishna P",,1487.0,False,IND,0.0,1,0.0,,0.0
+429073049,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,,,2.5,8,0.0,1361,,"Adhrith, R V Y",,1470.0,False,IND,0.5,1,0.0,,0.0
+429073049,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,,,2.5,8,0.0,1361,,"Goriparthi, Mohan Gangadhara Rao",,1506.0,False,IND,0.0,1,0.0,,0.0
+429073049,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,,,2.5,8,0.0,1361,,"Yadla, Premi Rakshitha",,1458.0,False,IND,1.0,1,0.0,,0.0
+429073049,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,,,2.5,8,0.0,1361,,"Challapalli, Nishanth Srigiri",,1450.0,False,IND,0.0,1,0.0,,0.0
+429073049,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1597.0,1401.0,3.5,8,1.44,40,57.6,"Thanish, S A",,1774.0,False,IND,0.5,1,0.4,40.0,16.0
+429073049,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1597.0,1401.0,3.5,8,1.44,40,57.6,"Susanta, Sarma H S V S K S H",,1524.0,False,IND,0.0,1,-0.33,40.0,-13.2
+429073049,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1597.0,1401.0,3.5,8,1.44,40,57.6,"Sushwanth, Vattikalla",,1520.0,False,IND,1.0,1,0.66,40.0,26.4
+429073049,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1597.0,1401.0,3.5,8,1.44,40,57.6,"Harsha, Vardhan Kattepogu",,1699.0,False,IND,0.5,1,0.35,40.0,14.0
+429073049,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1597.0,1401.0,3.5,8,1.44,40,57.6,"Shivaghuru, P",,1575.0,False,IND,0.0,1,-0.27,40.0,-10.8
+429073049,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1597.0,1401.0,3.5,8,1.44,40,57.6,"Arnav, Krishna Sripadam",,1557.0,False,IND,1.0,1,0.71,40.0,28.4
+429073049,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1597.0,1401.0,3.5,8,1.44,40,57.6,"Akella, Sankalparuthvik",,1616.0,False,IND,0.0,1,-0.23,40.0,-9.2
+429073049,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1597.0,1401.0,3.5,8,1.44,40,57.6,"Challapalli, Nishanth Srigiri",,1514.0,False,IND,0.5,1,0.15,40.0,6.0

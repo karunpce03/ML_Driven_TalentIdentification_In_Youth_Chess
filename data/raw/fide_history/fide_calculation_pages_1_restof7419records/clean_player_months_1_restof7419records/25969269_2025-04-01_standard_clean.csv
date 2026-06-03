@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25969269,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2172,2007,3.0,9,0.45,40,18.0,"Zhang, Xiao",wm,2212.0,False,CHN,0.5,1,0.26,40,10.4
+25969269,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2172,2007,3.0,9,0.45,40,18.0,"Janzelj, Lara",wm,2217.0,False,SLO,0.0,1,-0.23,40,-9.2
+25969269,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2172,2007,3.0,9,0.45,40,18.0,"Kliashtornyi, Arkadii",,2156.0,False,UKR,0.0,1,-0.3,40,-12.0
+25969269,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2172,2007,3.0,9,0.45,40,18.0,"Kolodziejczyk, Boris",c,2135.0,False,FRA,1.0,1,0.67,40,26.8
+25969269,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2172,2007,3.0,9,0.45,40,18.0,"Sharma, Isha",wm,2170.0,False,IND,0.0,1,-0.28,40,-11.2
+25969269,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2172,2007,3.0,9,0.45,40,18.0,"Breuil, Virgile",f,2164.0,False,FRA,0.5,1,0.21,40,8.4
+25969269,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2172,2007,3.0,9,0.45,40,18.0,"Salonika, Saina",wm,2134.0,False,IND,0.0,1,-0.33,40,-13.2
+25969269,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2172,2007,3.0,9,0.45,40,18.0,"Emmenecker, Philippe",,2126.0,False,FRA,1.0,1,0.66,40,26.4
+25969269,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2172,2007,3.0,9,0.45,40,18.0,"Gut, Raphael",,2236.0,False,SUI,0.0,1,-0.21,40,-8.4

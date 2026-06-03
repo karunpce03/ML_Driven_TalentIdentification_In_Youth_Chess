@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25158171,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1510,1576,4.0,6,0.46,40,18.4,"Eric, Sanish",,1431.0,False,IND,1.0,1,0.31,40,12.4
+25158171,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1510,1576,4.0,6,0.46,40,18.4,"Praveen, K B",,1771.0,False,IND,0.0,1,-0.25,40,-10.0
+25158171,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1510,1576,4.0,6,0.46,40,18.4,"Aji, Goodwill",,1443.0,False,IND,0.5,1,-0.18,40,-7.2
+25158171,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1510,1576,4.0,6,0.46,40,18.4,"Ghalib, Hassan",,1530.0,False,IND,1.0,1,0.44,40,17.6
+25158171,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1510,1576,4.0,6,0.46,40,18.4,"Adarsh, Mannattil",,1444.0,False,IND,1.0,1,0.32,40,12.8
+25158171,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1510,1576,4.0,6,0.46,40,18.4,"Kapilnithin, B M",,1443.0,False,IND,0.5,1,-0.18,40,-7.2
+25158171,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1554,1576,1.0,4,-1.2,40,-48.0,"Anilkumar, O.t.",,1918.0,False,IND,0.0,1,-0.12,40,-4.8
+25158171,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1554,1576,1.0,4,-1.2,40,-48.0,"Tharshaan, B K",,1416.0,False,IND,0.0,1,-0.71,40,-28.4
+25158171,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1554,1576,1.0,4,-1.2,40,-48.0,"Jaison, S J",,1420.0,False,IND,0.5,1,-0.21,40,-8.4
+25158171,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1554,1576,1.0,4,-1.2,40,-48.0,"Kaaviya, S",,1460.0,False,IND,0.5,1,-0.16,40,-6.4

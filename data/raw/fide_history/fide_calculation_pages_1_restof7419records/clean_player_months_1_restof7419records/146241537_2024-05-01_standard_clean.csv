@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+146241537,2024-05-01,0,UAE League Chess Championship - U14 Girls,Emirates UAE,2024-02-10,2024-03-10,1079,1297,2.0,2,0.44,40,17.6,"Muna, Ali Alnuaimi",,1081.0,False,UAE,1.0,1,0.22,40,8.8
+146241537,2024-05-01,0,UAE League Chess Championship - U14 Girls,Emirates UAE,2024-02-10,2024-03-10,1079,1297,2.0,2,0.44,40,17.6,"Al, Reem Al Hamadi",,1077.0,False,UAE,1.0,1,0.22,40,8.8

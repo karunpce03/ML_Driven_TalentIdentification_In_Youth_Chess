@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25138316,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2143,1817,5.0,11,3.53,40,141.2,"Pozzari, Simone",f,2217,True,ITA,1.0,1,0.92,40,36.8
+25138316,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2143,1817,5.0,11,3.53,40,141.2,"Rybka, Simon",f,2217,True,SVK,0.5,1,0.42,40,16.8
+25138316,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2143,1817,5.0,11,3.53,40,141.2,"Mishra, Abhimanyu",g,2217,True,USA,0.0,1,-0.08,40,-3.2
+25138316,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2143,1817,5.0,11,3.53,40,141.2,"Ang, Ern Jie Anderson",c,2197,False,MAS,0.0,1,-0.09,40,-3.6
+25138316,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2143,1817,5.0,11,3.53,40,141.2,"Mizzi, Jack",c,2051,False,MLT,0.5,1,0.29,40,11.6
+25138316,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2143,1817,5.0,11,3.53,40,141.2,"Jval, Saurin Patel",,2085,False,IND,0.5,1,0.33,40,13.2
+25138316,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2143,1817,5.0,11,3.53,40,141.2,"Nainys, Zanas",,2152,False,LTU,1.0,1,0.88,40,35.2
+25138316,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2143,1817,5.0,11,3.53,40,141.2,"Singh, Siddharth",,2050,False,USA,0.5,1,0.29,40,11.6
+25138316,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2143,1817,5.0,11,3.53,40,141.2,"Talgatov, Nazar",,2108,False,KAZ,0.5,1,0.35,40,14.0
+25138316,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2143,1817,5.0,11,3.53,40,141.2,"Halynyazov, Vepaly",,2058,False,TKM,0.0,1,-0.2,40,-8.0
+25138316,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2143,1817,5.0,11,3.53,40,141.2,"Jares, Michal",f,2217,True,CZE,0.5,1,0.42,40,16.8

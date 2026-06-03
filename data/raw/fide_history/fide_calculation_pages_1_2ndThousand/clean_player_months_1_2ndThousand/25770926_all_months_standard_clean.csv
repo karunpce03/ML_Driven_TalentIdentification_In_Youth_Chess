@@ -1,0 +1,28 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25770926,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1609,1503,0.0,4,-1.45,40,-58.0,"Saptarshi, Talukdar",,1686.0,False,IND,0.0,1,-0.26,40,-10.4
+25770926,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1609,1503,0.0,4,-1.45,40,-58.0,"Aryan, Behera",,1665.0,False,IND,0.0,1,-0.29,40,-11.6
+25770926,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1609,1503,0.0,4,-1.45,40,-58.0,"Maitreyi, Mondal",,1669.0,False,IND,0.0,1,-0.28,40,-11.2
+25770926,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1609,1503,0.0,4,-1.45,40,-58.0,"Nikhil, Goswami",,1414.0,False,IND,0.0,1,-0.62,40,-24.8
+25770926,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1605,1445,2.5,5,1.05,40,42.0,"Ratul, Majumder",,1642.0,False,IND,0.0,1,-0.25,40,-10.0
+25770926,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1605,1445,2.5,5,1.05,40,42.0,"Kaushik, Baidya",,1587.0,False,IND,0.5,1,0.19,40,7.6
+25770926,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1605,1445,2.5,5,1.05,40,42.0,"Kathakali, Dey",,1648.0,False,IND,0.5,1,0.26,40,10.4
+25770926,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1605,1445,2.5,5,1.05,40,42.0,"Aditya, Sur",,1576.0,False,IND,1.0,1,0.68,40,27.2
+25770926,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1605,1445,2.5,5,1.05,40,42.0,"Sayan, Bhattacharjee",,1572.0,False,IND,0.5,1,0.17,40,6.8
+25770926,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1657,1487,2.0,4,0.83,40,33.2,"Atrinjay, Saha",,1796.0,False,IND,0.0,1,-0.14,40,-5.6
+25770926,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1657,1487,2.0,4,0.83,40,33.2,"Sagnik, Dutta",,1702.0,False,IND,0.0,1,-0.23,40,-9.2
+25770926,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1657,1487,2.0,4,0.83,40,33.2,"Moksith, Pradhan",,1475.0,False,IND,1.0,1,0.48,40,19.2
+25770926,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1657,1487,2.0,4,0.83,40,33.2,"Adhrit, Chatterjee",,1655.0,False,IND,1.0,1,0.72,40,28.8
+25770926,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1559,1520,5.0,10,0.51,40,20.4,"Trishika, Patnaik",,1434.0,False,IND,1.0,1,0.38,40,15.2
+25770926,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1559,1520,5.0,10,0.51,40,20.4,"Khillo, Purna",,1685.0,False,IND,0.0,1,-0.28,40,-11.2
+25770926,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1559,1520,5.0,10,0.51,40,20.4,"Palo, Samad",,1442.0,False,IND,1.0,1,0.39,40,15.6
+25770926,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1559,1520,5.0,10,0.51,40,20.4,"Behera, Dillip",,1675.0,False,IND,0.5,1,0.21,40,8.4
+25770926,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1559,1520,5.0,10,0.51,40,20.4,"Khushal, Bagri",,1625.0,False,IND,0.5,1,0.14,40,5.6
+25770926,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1559,1520,5.0,10,0.51,40,20.4,"Narayanan, Rishitha",,1640.0,False,IND,0.0,1,-0.34,40,-13.6
+25770926,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1559,1520,5.0,10,0.51,40,20.4,"Ayanshuraj, Munduri",,1436.0,False,IND,0.5,1,-0.12,40,-4.8
+25770926,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1559,1520,5.0,10,0.51,40,20.4,"Ramachandra, Madkami",,1423.0,False,IND,1.0,1,0.37,40,14.8
+25770926,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1559,1520,5.0,10,0.51,40,20.4,"Sahoo, Dasharathi",,1653.0,False,IND,0.0,1,-0.32,40,-12.8
+25770926,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1559,1520,5.0,10,0.51,40,20.4,"Paramesh, C K S",,1581.0,False,IND,0.5,1,0.08,40,3.2
+25770926,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1678,1520,2.0,4,0.76,40,30.4,"Manna, Chiranjit",,1866.0,False,IND,1.0,1,0.89,40,35.6
+25770926,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1678,1520,2.0,4,0.76,40,30.4,"Rishiraj, Baul",,1665.0,False,IND,0.0,1,-0.31,40,-12.4
+25770926,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1678,1520,2.0,4,0.76,40,30.4,"Sourav, Kumar Roy",,1454.0,False,IND,1.0,1,0.41,40,16.4
+25770926,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1678,1520,2.0,4,0.76,40,30.4,"Tuhin, Dutta",,1728.0,False,IND,0.0,1,-0.23,40,-9.2

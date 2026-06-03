@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25755471,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2007,1886,7.5,11,3.6,40,144.0,"Shreyas, G Kaushik",,1568,False,IND,1.0,1,0.13,40,5.2
+25755471,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2007,1886,7.5,11,3.6,40,144.0,"Sriram, Sundar V",,1719,False,IND,1.0,1,0.28,40,11.2
+25755471,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2007,1886,7.5,11,3.6,40,144.0,"Bhoir, Paras Dilip",,2081,False,IND,0.5,1,0.25,40,10.0
+25755471,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2007,1886,7.5,11,3.6,40,144.0,"Nirnay, Garg",,1944,False,IND,1.0,1,0.58,40,23.2
+25755471,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2007,1886,7.5,11,3.6,40,144.0,"Mohit, S",,2041,False,IND,0.5,1,0.21,40,8.4
+25755471,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2007,1886,7.5,11,3.6,40,144.0,"Madhvendra, Pratap Sharma",c,2201,False,IND,0.5,1,0.36,40,14.4
+25755471,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2007,1886,7.5,11,3.6,40,144.0,"Nimay, Agrawal",c,2059,False,IND,1.0,1,0.73,40,29.2
+25755471,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2007,1886,7.5,11,3.6,40,144.0,"Sriram, Adarsh Uppala",,2286,True,IND,0.5,1,0.42,40,16.8
+25755471,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2007,1886,7.5,11,3.6,40,144.0,"Yohan, Yadav Tarala",,1957,False,IND,1.0,1,0.6,40,24.0
+25755471,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2007,1886,7.5,11,3.6,40,144.0,"Reyan, Md.",c,2219,False,IND,0.0,1,-0.12,40,-4.8
+25755471,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2007,1886,7.5,11,3.6,40,144.0,"Gaikwad, Manas",,2005,False,IND,0.5,1,0.16,40,6.4

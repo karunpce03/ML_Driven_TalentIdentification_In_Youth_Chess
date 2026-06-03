@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25973096,2024-12-01,0,Vezerkepzo Haag Ervin Memorial IM,Budapest HUN,2024-11-04,2024-11-11,2205,2167,3.5,9,-0.5,38,-19.0,"Samhita, Pungavanam",,1767.0,True,IND,1.0,1,0.08,38,3.04
+25973096,2024-12-01,0,Vezerkepzo Haag Ervin Memorial IM,Budapest HUN,2024-11-04,2024-11-11,2205,2167,3.5,9,-0.5,38,-19.0,"Kienboeck, Benjamin",,2187.0,False,AUT,0.0,1,-0.47,38,-17.86
+25973096,2024-12-01,0,Vezerkepzo Haag Ervin Memorial IM,Budapest HUN,2024-11-04,2024-11-11,2205,2167,3.5,9,-0.5,38,-19.0,"Golubovskis, Maksims",f,2192.0,False,LAT,0.0,1,-0.47,38,-17.86
+25973096,2024-12-01,0,Vezerkepzo Haag Ervin Memorial IM,Budapest HUN,2024-11-04,2024-11-11,2205,2167,3.5,9,-0.5,38,-19.0,"Liu, Casper",f,2225.0,False,DEN,1.0,1,0.58,38,22.04
+25973096,2024-12-01,0,Vezerkepzo Haag Ervin Memorial IM,Budapest HUN,2024-11-04,2024-11-11,2205,2167,3.5,9,-0.5,38,-19.0,"Pribelszky, Bence",f,2395.0,False,HUN,0.0,1,-0.21,38,-7.98
+25973096,2024-12-01,0,Vezerkepzo Haag Ervin Memorial IM,Budapest HUN,2024-11-04,2024-11-11,2205,2167,3.5,9,-0.5,38,-19.0,"Szalay-Ocsak, Bank",c,2156.0,False,HUN,1.0,1,0.48,38,18.24
+25973096,2024-12-01,0,Vezerkepzo Haag Ervin Memorial IM,Budapest HUN,2024-11-04,2024-11-11,2205,2167,3.5,9,-0.5,38,-19.0,"Krstulovic, Alex",m,2439.0,False,HUN,0.0,1,-0.17,38,-6.46
+25973096,2024-12-01,0,Vezerkepzo Haag Ervin Memorial IM,Budapest HUN,2024-11-04,2024-11-11,2205,2167,3.5,9,-0.5,38,-19.0,"Munkhgal, Gombosuren",g,2392.0,False,MGL,0.0,1,-0.22,38,-8.36
+25973096,2024-12-01,0,Vezerkepzo Haag Ervin Memorial IM,Budapest HUN,2024-11-04,2024-11-11,2205,2167,3.5,9,-0.5,38,-19.0,"Wang, Hao(zj)",,2095.0,False,CHN,0.5,1,-0.1,38,-3.8
+25973096,2024-12-01,0,Vezerkepzo All Saints IM,Budapest HUN,2024-11-13,2024-11-21,2255,2167,3.5,9,0.0,38,0.0,"Meskenas, Paulius",f,2264.0,False,DEN,1.0,1,0.63,38,23.94
+25973096,2024-12-01,0,Vezerkepzo All Saints IM,Budapest HUN,2024-11-13,2024-11-21,2255,2167,3.5,9,0.0,38,0.0,"Wang, Hao(zj)",,2095.0,False,CHN,0.0,1,-0.6,38,-22.8
+25973096,2024-12-01,0,Vezerkepzo All Saints IM,Budapest HUN,2024-11-13,2024-11-21,2255,2167,3.5,9,0.0,38,0.0,"Pasti, Aron",m,2355.0,False,HUN,0.0,1,-0.26,38,-9.88
+25973096,2024-12-01,0,Vezerkepzo All Saints IM,Budapest HUN,2024-11-13,2024-11-21,2255,2167,3.5,9,0.0,38,0.0,"Md, Imran",f,2382.0,False,IND,0.0,1,-0.23,38,-8.74
+25973096,2024-12-01,0,Vezerkepzo All Saints IM,Budapest HUN,2024-11-13,2024-11-21,2255,2167,3.5,9,0.0,38,0.0,"Munkhgal, Gombosuren",g,2392.0,False,MGL,0.0,1,-0.22,38,-8.36
+25973096,2024-12-01,0,Vezerkepzo All Saints IM,Budapest HUN,2024-11-13,2024-11-21,2255,2167,3.5,9,0.0,38,0.0,"Pavan, Karthikeya Varma Gunturi",,2111.0,False,IND,1.0,1,0.42,38,15.96
+25973096,2024-12-01,0,Vezerkepzo All Saints IM,Budapest HUN,2024-11-13,2024-11-21,2255,2167,3.5,9,0.0,38,0.0,"Szalay-Ocsak, Bank",c,2156.0,False,HUN,1.0,1,0.48,38,18.24
+25973096,2024-12-01,0,Vezerkepzo All Saints IM,Budapest HUN,2024-11-13,2024-11-21,2255,2167,3.5,9,0.0,38,0.0,"Liu, Casper",f,2225.0,False,DEN,0.5,1,0.08,38,3.04
+25973096,2024-12-01,0,Vezerkepzo All Saints IM,Budapest HUN,2024-11-13,2024-11-21,2255,2167,3.5,9,0.0,38,0.0,"To, Nhat Minh",m,2314.0,False,HUN,0.0,1,-0.3,38,-11.4

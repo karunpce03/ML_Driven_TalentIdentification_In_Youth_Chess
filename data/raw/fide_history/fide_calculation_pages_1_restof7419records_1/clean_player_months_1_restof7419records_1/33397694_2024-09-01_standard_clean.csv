@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33397694,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1852,1828,6.0,11,0.97,40,38.8,"Ikshit, Jain",,1428,True,IND,1.0,1,0.08,40,3.2
+33397694,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1852,1828,6.0,11,0.97,40,38.8,"Harshit, Ranjan Sahu",,2003,False,IND,0.0,1,-0.27,40,-10.8
+33397694,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1852,1828,6.0,11,0.97,40,38.8,"Ansuman, Bhatta",,1548,False,IND,1.0,1,0.16,40,6.4
+33397694,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1852,1828,6.0,11,0.97,40,38.8,"Anusha, N L V",wf,1984,False,IND,0.5,1,0.21,40,8.4
+33397694,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1852,1828,6.0,11,0.97,40,38.8,"Rachit, H Gurnani",,1975,False,IND,0.0,1,-0.3,40,-12.0
+33397694,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1852,1828,6.0,11,0.97,40,38.8,"Shahan, Vohra",,1686,False,IND,1.0,1,0.31,40,12.4
+33397694,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1852,1828,6.0,11,0.97,40,38.8,"Dishank, Sachin Bajaj",,1971,False,IND,0.0,1,-0.31,40,-12.4
+33397694,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1852,1828,6.0,11,0.97,40,38.8,"Naveen, Kumar P",,2065,False,IND,1.0,1,0.8,40,32.0
+33397694,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1852,1828,6.0,11,0.97,40,38.8,"Singh, Arvinder Preet",f,1992,False,IND,0.0,1,-0.28,40,-11.2
+33397694,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1852,1828,6.0,11,0.97,40,38.8,"Abel, M S",,1708,False,IND,1.0,1,0.34,40,13.6
+33397694,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1852,1828,6.0,11,0.97,40,38.8,"Lakshmi, Charan Naidu G",,2007,False,IND,0.5,1,0.23,40,9.2

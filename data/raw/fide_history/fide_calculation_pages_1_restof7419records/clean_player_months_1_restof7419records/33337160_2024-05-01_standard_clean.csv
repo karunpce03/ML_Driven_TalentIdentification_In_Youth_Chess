@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33337160,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1829,1761,3.0,9,-0.82,40,-32.8,"Pazhany, Kaushal Kohli",,1563,False,IND,1.0,1,0.24,40,9.6
+33337160,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1829,1761,3.0,9,-0.82,40,-32.8,"Dakshita, Kumawat",,1855,False,IND,0.0,1,-0.37,40,-14.8
+33337160,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1829,1761,3.0,9,-0.82,40,-32.8,"Thakur, Ankur Singh",,1641,False,IND,1.0,1,0.34,40,13.6
+33337160,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1829,1761,3.0,9,-0.82,40,-32.8,"Rajith, V.",,1695,False,IND,0.5,1,-0.09,40,-3.6
+33337160,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1829,1761,3.0,9,-0.82,40,-32.8,"Vignesh, N R",g,2161,True,IND,0.0,1,-0.08,40,-3.2
+33337160,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1829,1761,3.0,9,-0.82,40,-32.8,"Swarna, Nihal",,2003,False,IND,0.5,1,0.3,40,12.0
+33337160,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1829,1761,3.0,9,-0.82,40,-32.8,"Om, Nagnath Lamkane",,1922,False,IND,0.0,1,-0.29,40,-11.6
+33337160,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1829,1761,3.0,9,-0.82,40,-32.8,"Amit, Dhoundiyal",,1792,False,IND,0.0,1,-0.46,40,-18.4
+33337160,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1829,1761,3.0,9,-0.82,40,-32.8,"Nirnay, Garg",,1828,False,IND,0.0,1,-0.41,40,-16.4

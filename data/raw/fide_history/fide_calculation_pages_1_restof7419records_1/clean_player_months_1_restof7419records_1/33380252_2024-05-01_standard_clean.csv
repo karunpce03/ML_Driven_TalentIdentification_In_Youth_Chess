@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33380252,2024-05-01,0,Basel Easter Experts Open 2024,Basel SUI,2024-03-28,2024-04-01,1973,1797,2.0,5,0.64,40,25.6,"Malli, Shiivesh Sunil",,1964.0,False,SUI,1.0,1,0.72,40,28.8
+33380252,2024-05-01,0,Basel Easter Experts Open 2024,Basel SUI,2024-03-28,2024-04-01,1973,1797,2.0,5,0.64,40,25.6,"Varini, Massimo",,2006.0,False,ITA,1.0,1,0.77,40,30.8
+33380252,2024-05-01,0,Basel Easter Experts Open 2024,Basel SUI,2024-03-28,2024-04-01,1973,1797,2.0,5,0.64,40,25.6,"Fiedler, Joerg",,2012.0,False,GER,0.0,1,-0.23,40,-9.2
+33380252,2024-05-01,0,Basel Easter Experts Open 2024,Basel SUI,2024-03-28,2024-04-01,1973,1797,2.0,5,0.64,40,25.6,"Udipi, Kala Kishan",,1957.0,False,SUI,0.0,1,-0.29,40,-11.6
+33380252,2024-05-01,0,Basel Easter Experts Open 2024,Basel SUI,2024-03-28,2024-04-01,1973,1797,2.0,5,0.64,40,25.6,"Gevorgyan, Grigor",,1926.0,False,SUI,0.0,1,-0.33,40,-13.2
+33380252,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open B (- 2000 Elo),NOISIEL FRA,2024-04-06,2024-04-11,1724,1797,5.0,8,0.3,40,12.0,"Boursier, Enzo",,1468.0,False,FRA,1.0,1,0.12,40,4.8
+33380252,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open B (- 2000 Elo),NOISIEL FRA,2024-04-06,2024-04-11,1724,1797,5.0,8,0.3,40,12.0,"Oupindrin, Timothy",,1853.0,False,FRA,0.0,1,-0.42,40,-16.8
+33380252,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open B (- 2000 Elo),NOISIEL FRA,2024-04-06,2024-04-11,1724,1797,5.0,8,0.3,40,12.0,"Robin, Lionel",,1670.0,False,FRA,0.0,1,-0.67,40,-26.8
+33380252,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open B (- 2000 Elo),NOISIEL FRA,2024-04-06,2024-04-11,1724,1797,5.0,8,0.3,40,12.0,"Perruquon, Laetitia",,1647.0,False,FRA,1.0,1,0.3,40,12.0
+33380252,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open B (- 2000 Elo),NOISIEL FRA,2024-04-06,2024-04-11,1724,1797,5.0,8,0.3,40,12.0,"Malgin, Eraste",,1586.0,False,FRA,1.0,1,0.23,40,9.2
+33380252,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open B (- 2000 Elo),NOISIEL FRA,2024-04-06,2024-04-11,1724,1797,5.0,8,0.3,40,12.0,"Chalampuente, Victor",,1721.0,False,FRA,1.0,1,0.4,40,16.0
+33380252,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open B (- 2000 Elo),NOISIEL FRA,2024-04-06,2024-04-11,1724,1797,5.0,8,0.3,40,12.0,"Chennoufi, Amine",,1854.0,False,FRA,1.0,1,0.58,40,23.2
+33380252,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open B (- 2000 Elo),NOISIEL FRA,2024-04-06,2024-04-11,1724,1797,5.0,8,0.3,40,12.0,"Boulahfa, Hicham",,1996.0,False,NED,0.0,1,-0.24,40,-9.6

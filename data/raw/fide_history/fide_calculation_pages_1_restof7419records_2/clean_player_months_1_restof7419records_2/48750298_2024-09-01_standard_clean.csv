@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48750298,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1724,1419,0.0,2,-0.29,40,-11.6,"Vishnu, Ram M",,1717.0,False,IND,0.0,1,-0.15,40,-6.0
+48750298,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1724,1419,0.0,2,-0.29,40,-11.6,"Kedarnath, U",,1731.0,False,IND,0.0,1,-0.14,40,-5.6

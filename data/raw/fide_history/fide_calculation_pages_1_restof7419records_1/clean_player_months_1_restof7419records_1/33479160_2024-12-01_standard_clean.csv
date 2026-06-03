@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33479160,2024-12-01,0,2024 November Marshall Premier FIDE - U2000,"New York, NY USA",2024-11-01,2024-11-03,1773,1766,1.0,2,0.02,40,0.8,"Paruchuri, Naveen",,1825.0,False,USA,1.0,1,0.58,40,23.2
+33479160,2024-12-01,0,2024 November Marshall Premier FIDE - U2000,"New York, NY USA",2024-11-01,2024-11-03,1773,1766,1.0,2,0.02,40,0.8,"Dubey, Shiv",,1720.0,False,USA,0.0,1,-0.56,40,-22.4

@@ -1,0 +1,133 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25901010,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,2014,1801,3.0,8,1.09,40,43.6,"Aronsson, Marten",f,2201.0,True,SWE,0.0,1,-0.08,40,-3.2
+25901010,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,2014,1801,3.0,8,1.09,40,43.6,"Levacic, Damir",m,2103.0,False,MNC,0.0,1,-0.15,40,-6.0
+25901010,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,2014,1801,3.0,8,1.09,40,43.6,"Bellon Solsona, Nicolas",,1958.0,False,ESP,0.5,1,0.21,40,8.4
+25901010,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,2014,1801,3.0,8,1.09,40,43.6,"Zhu, Yaoyao",,1974.0,False,ENG,0.0,1,-0.27,40,-10.8
+25901010,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,2014,1801,3.0,8,1.09,40,43.6,"Hernandez Torralba, Sergio",,1922.0,False,ESP,1.0,1,0.66,40,26.4
+25901010,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,2014,1801,3.0,8,1.09,40,43.6,"Silva, Mariana Sofia T.",wc,1972.0,False,POR,0.5,1,0.23,40,9.2
+25901010,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,2014,1801,3.0,8,1.09,40,43.6,"Unander, Matts",,1969.0,False,SWE,1.0,1,0.72,40,28.8
+25901010,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,2014,1801,3.0,8,1.09,40,43.6,"Esbensen, Kai Inge",,2015.0,False,NOR,0.0,1,-0.23,40,-9.2
+25901010,2024-05-01,0,20e Open international de Malakoff,MALAKOFF FRA,2024-04-06,2024-04-14,2033,1801,5.5,8,3.74,40,149.6,"Emmenecker, Philippe",,2052.0,False,FRA,0.0,1,-0.19,40,-7.6
+25901010,2024-05-01,0,20e Open international de Malakoff,MALAKOFF FRA,2024-04-06,2024-04-14,2033,1801,5.5,8,3.74,40,149.6,"Dorval, Olivier",,1895.0,False,FRA,1.0,1,0.63,40,25.2
+25901010,2024-05-01,0,20e Open international de Malakoff,MALAKOFF FRA,2024-04-06,2024-04-14,2033,1801,5.5,8,3.74,40,149.6,"Mehaibia, Azeddine",,2018.0,False,ALG,1.0,1,0.78,40,31.2
+25901010,2024-05-01,0,20e Open international de Malakoff,MALAKOFF FRA,2024-04-06,2024-04-14,2033,1801,5.5,8,3.74,40,149.6,"Gouanelle, Franck",,2074.0,False,FRA,1.0,1,0.83,40,33.2
+25901010,2024-05-01,0,20e Open international de Malakoff,MALAKOFF FRA,2024-04-06,2024-04-14,2033,1801,5.5,8,3.74,40,149.6,"Gelbenegger, Patrick",c,2189.0,False,AUT,0.0,1,-0.09,40,-3.6
+25901010,2024-05-01,0,20e Open international de Malakoff,MALAKOFF FRA,2024-04-06,2024-04-14,2033,1801,5.5,8,3.74,40,149.6,"Keller, Christophe",,1950.0,False,FRA,0.5,1,0.2,40,8.0
+25901010,2024-05-01,0,20e Open international de Malakoff,MALAKOFF FRA,2024-04-06,2024-04-14,2033,1801,5.5,8,3.74,40,149.6,"Francez, Theo",,1941.0,False,FRA,1.0,1,0.69,40,27.6
+25901010,2024-05-01,0,20e Open international de Malakoff,MALAKOFF FRA,2024-04-06,2024-04-14,2033,1801,5.5,8,3.74,40,149.6,"Giffard, Nicolas",m,2146.0,False,FRA,1.0,1,0.89,40,35.6
+25901010,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1978,1994,4.0,9,-0.67,38,-25.46,"Saparova, Sitora",wf,1754.0,False,UZB,1.0,1,0.2,38,7.6
+25901010,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1978,1994,4.0,9,-0.67,38,-25.46,"Arya, G Mallar",,1686.0,False,IND,1.0,1,0.14,38,5.32
+25901010,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1978,1994,4.0,9,-0.67,38,-25.46,"Allahverdiyeva, Ayan",wm,2150.0,False,AZE,1.0,1,0.71,38,26.98
+25901010,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1978,1994,4.0,9,-0.67,38,-25.46,"Lokesh, N.",,2240.0,False,IND,0.0,1,-0.19,38,-7.22
+25901010,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1978,1994,4.0,9,-0.67,38,-25.46,"Kakabayev, Mergen",f,2266.0,False,TKM,0.0,1,-0.17,38,-6.46
+25901010,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1978,1994,4.0,9,-0.67,38,-25.46,"Yahya, Shuaib Al Kaff",,1821.0,False,UAE,0.0,1,-0.73,38,-27.74
+25901010,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1978,1994,4.0,9,-0.67,38,-25.46,"Srivatsan, Karthikeyan",c,1839.0,False,IND,1.0,1,0.29,38,11.02
+25901010,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1978,1994,4.0,9,-0.67,38,-25.46,"Omonova, Umida",wm,2143.0,False,UZB,0.0,1,-0.3,38,-11.4
+25901010,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1978,1994,4.0,9,-0.67,38,-25.46,"Karimov, Shakhrombek",,1904.0,False,UZB,0.0,1,-0.62,38,-23.56
+25901010,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2201,1994,4.0,9,1.66,38,63.08,"Baranciuc, Alexandr",f,2332.0,False,MDA,1.0,1,0.88,38,33.44
+25901010,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2201,1994,4.0,9,1.66,38,63.08,"Anwesh, Upadhyaya",m,2345.0,False,IND,0.0,1,-0.11,38,-4.18
+25901010,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2201,1994,4.0,9,1.66,38,63.08,"Ahlam, Rashed",wf,2226.0,False,UAE,1.0,1,0.79,38,30.02
+25901010,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2201,1994,4.0,9,1.66,38,63.08,"Ezat, Mohamed",m,2340.0,False,EGY,0.0,1,-0.11,38,-4.18
+25901010,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2201,1994,4.0,9,1.66,38,63.08,"Mulenga, Prince Daniel",f,2220.0,False,ZAM,0.0,1,-0.21,38,-7.98
+25901010,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2201,1994,4.0,9,1.66,38,63.08,"Kazarian, Anna-Maja",f wm,2181.0,False,NED,0.0,1,-0.26,38,-9.88
+25901010,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2201,1994,4.0,9,1.66,38,63.08,"Farhat, Jawad",,1926.0,False,LBN,1.0,1,0.41,38,15.58
+25901010,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2201,1994,4.0,9,1.66,38,63.08,"Chueca Forcen, Alberto",m,2323.0,False,ESP,0.0,1,-0.12,38,-4.56
+25901010,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2201,1994,4.0,9,1.66,38,63.08,"Saif, Ahmed",,1914.0,False,UAE,1.0,1,0.39,38,14.82
+25901010,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1812,1994,5.5,8,-0.29,40,-11.6,"Ching, Francis",,1788.0,False,PHI,1.0,1,0.24,40,9.6
+25901010,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1812,1994,5.5,8,-0.29,40,-11.6,"Makhamataliev, Eldor",,1669.0,False,UZB,1.0,1,0.13,40,5.2
+25901010,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1812,1994,5.5,8,-0.29,40,-11.6,"Alhassadi, Yousef A.",,2066.0,False,LBA,0.0,1,-0.4,40,-16.0
+25901010,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1812,1994,5.5,8,-0.29,40,-11.6,"Sharma, Taksh",,1708.0,False,IND,0.0,1,-0.84,40,-33.6
+25901010,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1812,1994,5.5,8,-0.29,40,-11.6,"Venkatesh, Das",,1802.0,False,IND,0.5,1,-0.25,40,-10.0
+25901010,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1812,1994,5.5,8,-0.29,40,-11.6,"Muhammad, Shayan Noushad Ibrahim",,1803.0,False,IND,1.0,1,0.25,40,10.0
+25901010,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1812,1994,5.5,8,-0.29,40,-11.6,"Tisado, Janmyl Dilan",,1875.0,False,PHI,1.0,1,0.34,40,13.6
+25901010,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1812,1994,5.5,8,-0.29,40,-11.6,"Gowrishankar, Jayaraj",,1788.0,False,IND,1.0,1,0.24,40,9.6
+25901010,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2129,2032,3.5,8,0.36,26,9.36,"Popovic, Milan S",f,2374.0,False,SRB,0.0,1,-0.12,26,-3.12
+25901010,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2129,2032,3.5,8,0.36,26,9.36,"Leskur, Dejan",m,2227.0,False,SRB,0.5,1,0.25,26,6.5
+25901010,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2129,2032,3.5,8,0.36,26,9.36,"Pranav, Pradeep Nair",,1818.0,False,IND,1.0,1,0.23,26,5.98
+25901010,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2129,2032,3.5,8,0.36,26,9.36,"Ivanov, Mikhail M",g,2248.0,False,SRB,0.0,1,-0.22,26,-5.72
+25901010,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2129,2032,3.5,8,0.36,26,9.36,"Prieb, Robert",c,2137.0,False,GER,1.0,1,0.64,26,16.64
+25901010,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2129,2032,3.5,8,0.36,26,9.36,"Rupesh, Reddy Y",,1807.0,False,IND,0.5,1,-0.28,26,-7.28
+25901010,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2129,2032,3.5,8,0.36,26,9.36,"Kalinin, Alexander",g,2432.0,True,RUS,0.0,1,-0.08,26,-2.08
+25901010,2024-08-01,0,Vojvodina Open 2024 A,Novi Sad SRB,2024-06-24,2024-07-01,2129,2032,3.5,8,0.36,26,9.36,"Ashvath, Mittal",,1986.0,False,IND,0.5,1,-0.06,26,-1.56
+25901010,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2142,2020,2.5,9,-0.64,26,-16.64,"Ristic, Luka",f,2318.0,False,SRB,0.5,1,0.35,26,9.1
+25901010,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2142,2020,2.5,9,-0.64,26,-16.64,"Alok, Sinha",,2245.0,False,IND,0.0,1,-0.22,26,-5.72
+25901010,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2142,2020,2.5,9,-0.64,26,-16.64,"Khuslen, Erdenebayar",wf,2139.0,False,MGL,1.0,1,0.66,26,17.16
+25901010,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2142,2020,2.5,9,-0.64,26,-16.64,"Akhmedov, David",,2263.0,False,FID,0.0,1,-0.2,26,-5.2
+25901010,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2142,2020,2.5,9,-0.64,26,-16.64,"Pogorelskikh, Sofia",wm,2216.0,False,SRB,0.5,1,0.25,26,6.5
+25901010,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2142,2020,2.5,9,-0.64,26,-16.64,"Vershinin, Igor",,2092.0,False,RUS,0.0,1,-0.4,26,-10.4
+25901010,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2142,2020,2.5,9,-0.64,26,-16.64,"Sahin, Sarp",c,2187.0,False,TUR,0.0,1,-0.28,26,-7.28
+25901010,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2142,2020,2.5,9,-0.64,26,-16.64,"Enkhbolor, Nyamdavaa",wf,1908.0,False,MGL,0.0,1,-0.65,26,-16.9
+25901010,2024-08-01,0,"International Tournament ""Paracin 2024"" - OPEN A",Paracin SRB,2024-07-03,2024-07-11,2142,2020,2.5,9,-0.64,26,-16.64,"Milovic, Ilija",,1912.0,False,MNE,0.5,1,-0.15,26,-3.9
+25901010,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1727,2020,6.0,9,-1.56,26,-40.56,"Sambhav, Setiya",,1622.0,False,IND,0.5,1,-0.42,26,-10.92
+25901010,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1727,2020,6.0,9,-1.56,26,-40.56,"Pratiyush, Kumar",,1620.0,True,IND,1.0,1,0.08,26,2.08
+25901010,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1727,2020,6.0,9,-1.56,26,-40.56,"Puneet, Verma",,1684.0,False,IND,0.0,1,-0.88,26,-22.88
+25901010,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1727,2020,6.0,9,-1.56,26,-40.56,"Aabhas, Kumar Srivastava",,1642.0,False,IND,1.0,1,0.09,26,2.34
+25901010,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1727,2020,6.0,9,-1.56,26,-40.56,"Aditri, Shome",,1741.0,False,IND,1.0,1,0.16,26,4.16
+25901010,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1727,2020,6.0,9,-1.56,26,-40.56,"Shreyas, Raj",,1793.0,False,IND,0.5,1,-0.29,26,-7.54
+25901010,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1727,2020,6.0,9,-1.56,26,-40.56,"Mann, Akbari",,1828.0,False,IND,1.0,1,0.25,26,6.5
+25901010,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1727,2020,6.0,9,-1.56,26,-40.56,"Tijil, Singh",,1831.0,False,IND,0.5,1,-0.25,26,-6.5
+25901010,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1727,2020,6.0,9,-1.56,26,-40.56,"Parth, Belwal",,1783.0,False,IND,0.5,1,-0.3,26,-7.8
+25901010,2024-10-01,0,Scheveningen September 2024,Sharjah UAE,2024-09-06,2024-09-08,1663,1972,6.0,6,0.88,40,35.2,"Rashid, Husain Alhammadi",,1740.0,False,UAE,1.0,1,0.21,40,8.4
+25901010,2024-10-01,0,Scheveningen September 2024,Sharjah UAE,2024-09-06,2024-09-08,1663,1972,6.0,6,0.88,40,35.2,"Talal Mohammed, Al Blooshi",,1572.0,True,UAE,1.0,1,0.08,40,3.2
+25901010,2024-10-01,0,Scheveningen September 2024,Sharjah UAE,2024-09-06,2024-09-08,1663,1972,6.0,6,0.88,40,35.2,"Saud, Bader Huwair Alzarooni",,1642.0,False,UAE,1.0,1,0.12,40,4.8
+25901010,2024-10-01,0,Scheveningen September 2024,Sharjah UAE,2024-09-06,2024-09-08,1663,1972,6.0,6,0.88,40,35.2,"Ahmed, Ali Bamatraf",,1630.0,False,UAE,1.0,1,0.12,40,4.8
+25901010,2024-10-01,0,Scheveningen September 2024,Sharjah UAE,2024-09-06,2024-09-08,1663,1972,6.0,6,0.88,40,35.2,"Sultan Jabir, Alzarooni",,1644.0,False,UAE,1.0,1,0.13,40,5.2
+25901010,2024-10-01,0,Scheveningen September 2024,Sharjah UAE,2024-09-06,2024-09-08,1663,1972,6.0,6,0.88,40,35.2,"Alhammadi, Khalifa Mohamed",,1747.0,False,UAE,1.0,1,0.22,40,8.8
+25901010,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1816,1972,7.0,11,-0.69,40,-27.6,"Shubhankar, Bamalia",,1696.0,False,IND,1.0,1,0.17,40,6.8
+25901010,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1816,1972,7.0,11,-0.69,40,-27.6,"Sadbhav, Rautela",,1817.0,False,IND,0.5,1,-0.21,40,-8.4
+25901010,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1816,1972,7.0,11,-0.69,40,-27.6,"Kushal, O",,2130.0,False,IND,0.0,1,-0.29,40,-11.6
+25901010,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1816,1972,7.0,11,-0.69,40,-27.6,"Gogte, Soumil",,1727.0,False,IND,0.5,1,-0.3,40,-12.0
+25901010,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1816,1972,7.0,11,-0.69,40,-27.6,"Sameer, Choudhary",,1752.0,False,IND,1.0,1,0.22,40,8.8
+25901010,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1816,1972,7.0,11,-0.69,40,-27.6,"Gagan, Sahu",,1763.0,False,IND,0.0,1,-0.77,40,-30.8
+25901010,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1816,1972,7.0,11,-0.69,40,-27.6,"Aniket, Ranjan",,1758.0,False,IND,1.0,1,0.23,40,9.2
+25901010,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1816,1972,7.0,11,-0.69,40,-27.6,"Majji, Ram Charan Teja",,1748.0,False,IND,1.0,1,0.22,40,8.8
+25901010,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1816,1972,7.0,11,-0.69,40,-27.6,"Kandi, Santosh Sai Karthik",,1902.0,False,IND,0.0,1,-0.6,40,-24.0
+25901010,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1816,1972,7.0,11,-0.69,40,-27.6,"Bharat, Bansal",,1830.0,False,IND,1.0,1,0.31,40,12.4
+25901010,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1816,1972,7.0,11,-0.69,40,-27.6,"Aahil, Patra",,1848.0,False,IND,1.0,1,0.33,40,13.2
+25901010,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1678,1980,4.0,10,-4.49,40,-179.6,"Sarthak Sharma,",,1641.0,False,IND,0.0,1,-0.88,40,-35.2
+25901010,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1678,1980,4.0,10,-4.49,40,-179.6,"Harshit, Kolluru",,1580.0,True,IND,1.0,1,0.08,40,3.2
+25901010,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1678,1980,4.0,10,-4.49,40,-179.6,"Rohith, P",,1681.0,False,IND,0.5,1,-0.35,40,-14.0
+25901010,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1678,1980,4.0,10,-4.49,40,-179.6,"Vageesh, Swaminathan",,1681.0,False,IND,1.0,1,0.15,40,6.0
+25901010,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1678,1980,4.0,10,-4.49,40,-179.6,"Aaradhya, Jain",,1796.0,False,IND,0.0,1,-0.74,40,-29.6
+25901010,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1678,1980,4.0,10,-4.49,40,-179.6,"Shree, Hari Palaniappa S",,1717.0,False,IND,0.0,1,-0.82,40,-32.8
+25901010,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1678,1980,4.0,10,-4.49,40,-179.6,"Ishan, S",,1700.0,False,IND,0.5,1,-0.34,40,-13.6
+25901010,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1678,1980,4.0,10,-4.49,40,-179.6,"Aron, S P",,1692.0,False,IND,0.5,1,-0.34,40,-13.6
+25901010,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1678,1980,4.0,10,-4.49,40,-179.6,"Sivadath, S G",,1708.0,False,IND,0.0,1,-0.83,40,-33.2
+25901010,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1678,1980,4.0,10,-4.49,40,-179.6,"Aadwik, Abhinav Krishna",,1580.0,True,IND,0.5,1,-0.42,40,-16.8
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Van Der Merwe, Alexander",,2105.0,False,RSA,1.0,1,0.86,38,32.68
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Gholami Orimi, Mahdi",m,2200.0,True,IRI,0.0,1,-0.08,38,-3.04
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Merkel, Luis",,2056.0,False,GER,1.0,1,0.81,38,30.78
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Koudounis, Vasileios",,2190.0,False,GRE,0.0,1,-0.09,38,-3.42
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Rechberger, Franz",,2087.0,False,AUT,0.0,1,-0.16,38,-6.08
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Donghvani, Nia",,2044.0,False,GEO,1.0,1,0.8,38,30.4
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Ghazaryan, Raffi",,2097.0,False,ARM,0.5,1,0.35,38,13.3
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Degraeve, Remy",m,2200.0,True,FRA,0.0,1,-0.08,38,-3.04
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Muth, Matthias Potisarath",,2026.0,False,GER,0.0,1,-0.21,38,-7.98
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Graells, Ricardo",,1987.0,False,SUI,1.0,1,0.74,38,28.12
+25901010,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1767,1800,7.0,8,2.68,38,101.84,"Parthiv, Senrayan Velmurugan",,1452.0,False,IND,1.0,1,0.11,38,4.18
+25901010,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1767,1800,7.0,8,2.68,38,101.84,"Saud, Bader Huwair Alzarooni",,1648.0,False,UAE,1.0,1,0.3,38,11.4
+25901010,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1767,1800,7.0,8,2.68,38,101.84,"Saqar, Essa Khamis",,1684.0,False,UAE,1.0,1,0.34,38,12.92
+25901010,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1767,1800,7.0,8,2.68,38,101.84,"Hamad, Shuaib Al Kaff",,1710.0,False,UAE,1.0,1,0.38,38,14.44
+25901010,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1767,1800,7.0,8,2.68,38,101.84,"Marcos, Marvin",,1960.0,False,PHI,0.5,1,0.21,38,7.98
+25901010,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1767,1800,7.0,8,2.68,38,101.84,"Mosallam, Mohammad",,1753.0,False,UAE,1.0,1,0.43,38,16.34
+25901010,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1767,1800,7.0,8,2.68,38,101.84,"Chudinovskikh, Alexander M",m,2054.0,False,RUS,1.0,1,0.81,38,30.78
+25901010,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1767,1800,7.0,8,2.68,38,101.84,"Birjukov, Sergey",f,1874.0,False,RUS,0.5,1,0.1,38,3.8
+25901010,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2085,2014,5.0,8,1.74,36,62.64,"Vidur, Rajagopal",,1864.0,False,IND,0.5,1,-0.2,36,-7.2
+25901010,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2085,2014,5.0,8,1.74,36,62.64,"Nyazi, Nehad",,2139.0,False,EGY,1.0,1,0.67,36,24.12
+25901010,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2085,2014,5.0,8,1.74,36,62.64,"Abuazizah, Raji",,2183.0,False,PLE,1.0,1,0.72,36,25.92
+25901010,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2085,2014,5.0,8,1.74,36,62.64,"Manukyan, Sargis A.",f,2233.0,False,ARM,0.0,1,-0.22,36,-7.92
+25901010,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2085,2014,5.0,8,1.74,36,62.64,"Ahmed, Fareed",f,2122.0,False,UAE,1.0,1,0.65,36,23.4
+25901010,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2085,2014,5.0,8,1.74,36,62.64,"Shashish, Subbiah",,2050.0,False,IND,0.5,1,0.05,36,1.8
+25901010,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2085,2014,5.0,8,1.74,36,62.64,"Sultan, Ibrahim",m,2214.0,False,UAE,0.0,1,-0.24,36,-8.64
+25901010,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2085,2014,5.0,8,1.74,36,62.64,"Sameir, Ramez",,1875.0,False,EGY,1.0,1,0.31,36,11.16
+25901010,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2242,2014,5.0,11,2.41,36,86.76,"Begmuratov, Khumoyun",m,2409.0,False,UZB,0.5,1,0.42,36,15.12
+25901010,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2242,2014,5.0,11,2.41,36,86.76,"Tsvetkov, Andrey",m,2414.0,True,FID,0.0,1,-0.08,36,-2.88
+25901010,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2242,2014,5.0,11,2.41,36,86.76,"Dyachuk, Artem",f,2293.0,False,UKR,0.0,1,-0.16,36,-5.76
+25901010,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2242,2014,5.0,11,2.41,36,86.76,"Comley, Jamie",,1853.0,False,IRL,1.0,1,0.29,36,10.44
+25901010,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2242,2014,5.0,11,2.41,36,86.76,"Casadio, Niccolo`",f,2269.0,False,ITA,0.0,1,-0.19,36,-6.84
+25901010,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2242,2014,5.0,11,2.41,36,86.76,"Adireddy, Arjun",f,2315.0,False,IND,0.5,1,0.35,36,12.6
+25901010,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2242,2014,5.0,11,2.41,36,86.76,"Cave, Iwan",,2066.0,False,WLS,1.0,1,0.57,36,20.52
+25901010,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2242,2014,5.0,11,2.41,36,86.76,"Jares, Michal",f,2269.0,False,CZE,0.5,1,0.31,36,11.16
+25901010,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2242,2014,5.0,11,2.41,36,86.76,"Djurovic, Peko",f,2265.0,False,MNE,0.0,1,-0.19,36,-6.84
+25901010,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2242,2014,5.0,11,2.41,36,86.76,"Boci, Mateu",f,2312.0,False,ALB,0.5,1,0.35,36,12.6
+25901010,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2242,2014,5.0,11,2.41,36,86.76,"Szakmary, Domonkos",,2199.0,False,HUN,1.0,1,0.74,36,26.64

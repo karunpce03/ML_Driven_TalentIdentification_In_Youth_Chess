@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88140830,2024-11-01,0,SF Essen-Werden Jubilaeumsopen 2024 B-Open,Essen GER,2024-10-25,2024-10-27,1770,1410,0.0,3,-0.32,40,-12.8,"Reuss, Till-Christopher",,1789,False,GER,0.0,1,-0.09,40,-3.6
+88140830,2024-11-01,0,SF Essen-Werden Jubilaeumsopen 2024 B-Open,Essen GER,2024-10-25,2024-10-27,1770,1410,0.0,3,-0.32,40,-12.8,"Bui, Alestiel",,1810,True,GER,0.0,1,-0.08,40,-3.2
+88140830,2024-11-01,0,SF Essen-Werden Jubilaeumsopen 2024 B-Open,Essen GER,2024-10-25,2024-10-27,1770,1410,0.0,3,-0.32,40,-12.8,"Kanno, Clara Yumi",,1711,False,GER,0.0,1,-0.15,40,-6.0

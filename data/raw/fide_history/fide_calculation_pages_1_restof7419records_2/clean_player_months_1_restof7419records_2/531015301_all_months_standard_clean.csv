@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531015301,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,,,0.0,2,0.0,710,,"Raviwarman, K",,1586,False,IND,0.0,1,0.0,,0.0
+531015301,2024-06-01,0,36th Tamil Nadu State Under-13 Open Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,,,0.0,2,0.0,710,,"Ashish, A",,1433,False,IND,0.0,1,0.0,,0.0
+531015301,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.0,2,0.0,747,,"Samhith, M",,1595,False,IND,0.0,1,0.0,,0.0
+531015301,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.0,2,0.0,747,,"Praveen, Kumar S",,1498,False,IND,0.0,1,0.0,,0.0
+531015301,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,,,1.5,5,0.0,1416,,"Rohith, P",,1699,False,IND,0.0,1,0.0,,0.0
+531015301,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,,,1.5,5,0.0,1416,,"Aswanth, Krishna K",,1487,False,IND,1.0,1,0.0,,0.0
+531015301,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,,,1.5,5,0.0,1416,,"Risaanth, Senthilkumar",,1511,False,IND,0.0,1,0.0,,0.0
+531015301,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,,,1.5,5,0.0,1416,,"Kevin, Savio",,1609,False,IND,0.0,1,0.0,,0.0
+531015301,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,,,1.5,5,0.0,1416,,"Kishore, Kumar Karthi Keyan",,1521,False,IND,0.5,1,0.0,,0.0
+531015301,2025-03-01,0,SR TROPHY PRESENTS 4TH SSS INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT,Pudukkottai IND,2025-02-01,2025-02-05,1547.0,1530.0,1.5,4,-0.53,40,-21.2,"Hiren, K G",,1930,True,IND,0.0,1,-0.08,40.0,-3.2
+531015301,2025-03-01,0,SR TROPHY PRESENTS 4TH SSS INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT,Pudukkottai IND,2025-02-01,2025-02-05,1547.0,1530.0,1.5,4,-0.53,40,-21.2,"Durkasri, M",,1415,False,IND,0.0,1,-0.66,40.0,-26.4
+531015301,2025-03-01,0,SR TROPHY PRESENTS 4TH SSS INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT,Pudukkottai IND,2025-02-01,2025-02-05,1547.0,1530.0,1.5,4,-0.53,40,-21.2,"Kalaimathi, A",,1404,False,IND,1.0,1,0.33,40.0,13.2
+531015301,2025-03-01,0,SR TROPHY PRESENTS 4TH SSS INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT,Pudukkottai IND,2025-02-01,2025-02-05,1547.0,1530.0,1.5,4,-0.53,40,-21.2,"Issac, Rahul",,1439,False,IND,0.5,1,-0.12,40.0,-4.8

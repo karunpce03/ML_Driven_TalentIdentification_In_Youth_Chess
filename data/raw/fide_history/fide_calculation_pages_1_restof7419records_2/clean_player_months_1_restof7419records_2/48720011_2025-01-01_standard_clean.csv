@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48720011,2025-01-01,0,Chess Lab U1800 Classic Tournament-November,Dubai UAE,2024-11-29,2024-11-30,1553,1547,2.0,2,1.02,40,40.8,"Deshmukh, Omm",,1519.0,False,IND,1.0,1,0.46,40,18.4
+48720011,2025-01-01,0,Chess Lab U1800 Classic Tournament-November,Dubai UAE,2024-11-29,2024-11-30,1553,1547,2.0,2,1.02,40,40.8,"Al-Ali, Leith",,1587.0,False,ENG,1.0,1,0.56,40,22.4

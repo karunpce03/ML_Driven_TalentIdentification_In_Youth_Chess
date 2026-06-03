@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25738020,2024-07-01,0,ISSYKKUL OPEN-2024 B,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,1708,1519,2.5,6,0.96,40,38.4,"Rustamov, Asilbek",,1722.0,False,UZB,0.0,1,-0.24,40,-9.6
+25738020,2024-07-01,0,ISSYKKUL OPEN-2024 B,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,1708,1519,2.5,6,0.96,40,38.4,"Toktonaliev, Ernak",,1710.0,False,KGZ,0.0,1,-0.25,40,-10.0
+25738020,2024-07-01,0,ISSYKKUL OPEN-2024 B,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,1708,1519,2.5,6,0.96,40,38.4,"Isirailov, Tynar",,1753.0,False,KGZ,1.0,1,0.79,40,31.6
+25738020,2024-07-01,0,ISSYKKUL OPEN-2024 B,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,1708,1519,2.5,6,0.96,40,38.4,"Esenaliev, Tabyshbek",,1701.0,False,KGZ,0.5,1,0.24,40,9.6
+25738020,2024-07-01,0,ISSYKKUL OPEN-2024 B,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,1708,1519,2.5,6,0.96,40,38.4,"Morozov, Aleksandr",,1732.0,False,KGZ,0.0,1,-0.23,40,-9.2
+25738020,2024-07-01,0,ISSYKKUL OPEN-2024 B,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,1708,1519,2.5,6,0.96,40,38.4,"Kenenbay, Alibi",,1629.0,False,KAZ,1.0,1,0.65,40,26.0

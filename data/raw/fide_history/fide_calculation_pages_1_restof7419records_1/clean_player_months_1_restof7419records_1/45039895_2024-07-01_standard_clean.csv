@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45039895,2024-07-01,0,26th Asian Youth Chess Championship U18 group,Almaty KAZ,2024-06-12,2024-06-19,2123,2300,5.5,9,-0.94,20,-18.8,"Swayham, P Das",,1900,True,IND,0.5,1,-0.42,20,-8.4
+45039895,2024-07-01,0,26th Asian Youth Chess Championship U18 group,Almaty KAZ,2024-06-12,2024-06-19,2123,2300,5.5,9,-0.94,20,-18.8,"Abdullaev, Rasulbek",,1948,False,UZB,1.0,1,0.11,20,2.2
+45039895,2024-07-01,0,26th Asian Youth Chess Championship U18 group,Almaty KAZ,2024-06-12,2024-06-19,2123,2300,5.5,9,-0.94,20,-18.8,"Jiang, Haochen",,2290,False,CHN,1.0,1,0.49,20,9.8
+45039895,2024-07-01,0,26th Asian Youth Chess Championship U18 group,Almaty KAZ,2024-06-12,2024-06-19,2123,2300,5.5,9,-0.94,20,-18.8,"Teimouri Yadkuri, Shahdad",c,2203,False,IRI,0.5,1,-0.13,20,-2.6
+45039895,2024-07-01,0,26th Asian Youth Chess Championship U18 group,Almaty KAZ,2024-06-12,2024-06-19,2123,2300,5.5,9,-0.94,20,-18.8,"Duong, Vu Anh",,2175,False,VIE,0.0,1,-0.67,20,-13.4
+45039895,2024-07-01,0,26th Asian Youth Chess Championship U18 group,Almaty KAZ,2024-06-12,2024-06-19,2123,2300,5.5,9,-0.94,20,-18.8,"Mariano, Fabian Glen",c,2126,False,INA,1.0,1,0.27,20,5.4
+45039895,2024-07-01,0,26th Asian Youth Chess Championship U18 group,Almaty KAZ,2024-06-12,2024-06-19,2123,2300,5.5,9,-0.94,20,-18.8,"Mogheyseh, Abolfazl",,2186,False,IRI,0.0,1,-0.66,20,-13.2
+45039895,2024-07-01,0,26th Asian Youth Chess Championship U18 group,Almaty KAZ,2024-06-12,2024-06-19,2123,2300,5.5,9,-0.94,20,-18.8,"Sai, Han Thiha",f,2123,False,MYA,1.0,1,0.27,20,5.4
+45039895,2024-07-01,0,26th Asian Youth Chess Championship U18 group,Almaty KAZ,2024-06-12,2024-06-19,2123,2300,5.5,9,-0.94,20,-18.8,"Ilkhomi, Jaloliddin",f,2152,False,TJK,0.5,1,-0.2,20,-4.0

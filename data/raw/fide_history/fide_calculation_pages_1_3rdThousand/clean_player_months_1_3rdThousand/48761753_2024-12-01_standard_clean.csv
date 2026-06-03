@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48761753,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1707,1538,0.5,2,-0.06,40,-2.4,"Rudra, Kavia",,1732.0,False,IND,0.5,1,0.25,40,10.0
+48761753,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1707,1538,0.5,2,-0.06,40,-2.4,"Aabhas, Kumar Srivastava",,1682.0,False,IND,0.0,1,-0.31,40,-12.4

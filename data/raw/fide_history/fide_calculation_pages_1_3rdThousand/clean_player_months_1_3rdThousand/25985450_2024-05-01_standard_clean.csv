@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25985450,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1703,1458,2.0,5,0.8,40,32.0,"Tejaswini, Sagar",wm,1858,True,IND,0.0,1,-0.08,40,-3.2
+25985450,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1703,1458,2.0,5,0.8,40,32.0,"Arpita, Singh",,1437,False,IND,1.0,1,0.47,40,18.8
+25985450,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1703,1458,2.0,5,0.8,40,32.0,"Swati, Ghate",wg,1858,True,IND,0.0,1,-0.08,40,-3.2
+25985450,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1703,1458,2.0,5,0.8,40,32.0,"Cheryl, Verma",,1517,False,IND,1.0,1,0.58,40,23.2
+25985450,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1703,1458,2.0,5,0.8,40,32.0,"Jayashree, P.k.",,1846,False,IND,0.0,1,-0.09,40,-3.6

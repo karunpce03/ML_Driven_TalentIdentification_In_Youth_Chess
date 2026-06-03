@@ -1,0 +1,48 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33315051,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,2,0.0,658,,"Tharshaan, B K",,1432.0,False,IND,0.0,1,0.0,,0.0
+33315051,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,2,0.0,658,,"Mathai, Bince",,1483.0,False,IND,0.0,1,0.0,,0.0
+33315051,2024-06-01,0,36th Tamil Nadu State Under-13 Girls Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,,,1.0,3,0.0,1310,,"Vinishaa, A",,1437.0,False,IND,0.5,1,0.0,,0.0
+33315051,2024-06-01,0,36th Tamil Nadu State Under-13 Girls Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,,,1.0,3,0.0,1310,,"Rajeswari, T",,1460.0,False,IND,0.5,1,0.0,,0.0
+33315051,2024-06-01,0,36th Tamil Nadu State Under-13 Girls Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,,,1.0,3,0.0,1310,,"Kaaviyasree, Kannan",,1409.0,False,IND,0.0,1,0.0,,0.0
+33315051,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,2.5,6,0.0,1406,,"Akshaya, P J",,1441.0,False,IND,1.0,1,0.0,,0.0
+33315051,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,2.5,6,0.0,1406,,"Janani, P",,1561.0,False,IND,0.0,1,0.0,,0.0
+33315051,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,2.5,6,0.0,1406,,"Aligi, Amrutha Hemal",,1405.0,False,IND,0.0,1,0.0,,0.0
+33315051,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,2.5,6,0.0,1406,,Poorvika,,1524.0,False,IND,0.5,1,0.0,,0.0
+33315051,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,2.5,6,0.0,1406,,"Brindha, S",,1404.0,False,IND,1.0,1,0.0,,0.0
+33315051,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,2.5,6,0.0,1406,,"Lohita, V",,1444.0,False,IND,0.0,1,0.0,,0.0
+33315051,2024-08-01,0,37th Tamil Nadu State Under-19 Girls Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1561.0,1452.0,1.5,7,-1.08,40,-43.2,"Sasvatha, A",wc,1825.0,False,IND,0.0,1,-0.1,40.0,-4.0
+33315051,2024-08-01,0,37th Tamil Nadu State Under-19 Girls Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1561.0,1452.0,1.5,7,-1.08,40,-43.2,"Sahanaa, S M",,1596.0,False,IND,0.0,1,-0.31,40.0,-12.4
+33315051,2024-08-01,0,37th Tamil Nadu State Under-19 Girls Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1561.0,1452.0,1.5,7,-1.08,40,-43.2,"Kirtana, S P",,1630.0,False,IND,0.0,1,-0.27,40.0,-10.8
+33315051,2024-08-01,0,37th Tamil Nadu State Under-19 Girls Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1561.0,1452.0,1.5,7,-1.08,40,-43.2,"Nithila, S",,1403.0,False,IND,1.0,1,0.43,40.0,17.2
+33315051,2024-08-01,0,37th Tamil Nadu State Under-19 Girls Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1561.0,1452.0,1.5,7,-1.08,40,-43.2,"Saivarshini, A S",,1487.0,False,IND,0.0,1,-0.45,40.0,-18.0
+33315051,2024-08-01,0,37th Tamil Nadu State Under-19 Girls Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1561.0,1452.0,1.5,7,-1.08,40,-43.2,"Shamyuktha, S",,1536.0,False,IND,0.5,1,0.12,40.0,4.8
+33315051,2024-08-01,0,37th Tamil Nadu State Under-19 Girls Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1561.0,1452.0,1.5,7,-1.08,40,-43.2,"Thashvi, M",,1451.0,False,IND,0.0,1,-0.5,40.0,-20.0
+33315051,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1541.0,1452.0,0.0,4,-1.57,40,-62.8,"Arjun, Adithiya K",,1769.0,False,IND,0.0,1,-0.13,40.0,-5.2
+33315051,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1541.0,1452.0,0.0,4,-1.57,40,-62.8,"Iniyan, Gopinathen",,1428.0,False,IND,0.0,1,-0.53,40.0,-21.2
+33315051,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1541.0,1452.0,0.0,4,-1.57,40,-62.8,"Kreshanth, K L",,1466.0,False,IND,0.0,1,-0.48,40.0,-19.2
+33315051,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1541.0,1452.0,0.0,4,-1.57,40,-62.8,"Sri, Hari A S",,1501.0,False,IND,0.0,1,-0.43,40.0,-17.2
+33315051,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,,,1.5,6,0.0,1245,,"Prithiv, Raaj M",,1437.0,False,IND,0.0,1,0.0,,0.0
+33315051,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,,,1.5,6,0.0,1245,,"Sarvesh, G",,1455.0,False,IND,0.5,1,0.0,,0.0
+33315051,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,,,1.5,6,0.0,1245,,"Vishwabharathi, Sakthivel",,1467.0,False,IND,0.5,1,0.0,,0.0
+33315051,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,,,1.5,6,0.0,1245,,"Dhanush, Raj R",,1450.0,False,IND,0.0,1,0.0,,0.0
+33315051,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,,,1.5,6,0.0,1245,,"Dhivya, Elangovan",,1403.0,False,IND,0.0,1,0.0,,0.0
+33315051,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,,,1.5,6,0.0,1245,,"Sasikumar, R",,1415.0,False,IND,0.5,1,0.0,,0.0
+33315051,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,,,1.5,8,0.0,1210,,"Sreesha, Kandi",,1526.0,False,IND,0.0,1,0.0,,0.0
+33315051,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,,,1.5,8,0.0,1210,,"Pavithra, N",,1454.0,False,IND,0.0,1,0.0,,0.0
+33315051,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,,,1.5,8,0.0,1210,,"Sahasra, Samudrala",,1432.0,False,IND,0.0,1,0.0,,0.0
+33315051,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,,,1.5,8,0.0,1210,,"Kaivallya, Kshitij Goyanka",,1422.0,False,IND,0.0,1,0.0,,0.0
+33315051,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,,,1.5,8,0.0,1210,,"Sri, Kanishkaa",,1410.0,False,IND,0.0,1,0.0,,0.0
+33315051,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,,,1.5,8,0.0,1210,,"Avyukta, Nayyar",,1482.0,False,IND,1.0,1,0.0,,0.0
+33315051,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,,,1.5,8,0.0,1210,,"Brindha, S",,1512.0,False,IND,0.0,1,0.0,,0.0
+33315051,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,,,1.5,8,0.0,1210,,"Muthu, Meenal M",,1446.0,False,IND,0.5,1,0.0,,0.0
+33315051,2024-12-01,0,Sacred Heart College Alumni Association First International FIDE Rating Chess Tournament,Tirupattur IND,2024-11-12,2024-11-16,,,1.5,5,0.0,1302,,"Dev, Narayan",,1459.0,False,IND,1.0,1,0.0,,0.0
+33315051,2024-12-01,0,Sacred Heart College Alumni Association First International FIDE Rating Chess Tournament,Tirupattur IND,2024-11-12,2024-11-16,,,1.5,5,0.0,1302,,"John, Harris Sujin",,1554.0,False,IND,0.0,1,0.0,,0.0
+33315051,2024-12-01,0,Sacred Heart College Alumni Association First International FIDE Rating Chess Tournament,Tirupattur IND,2024-11-12,2024-11-16,,,1.5,5,0.0,1302,,"Arshitha, S",,1402.0,False,IND,0.5,1,0.0,,0.0
+33315051,2024-12-01,0,Sacred Heart College Alumni Association First International FIDE Rating Chess Tournament,Tirupattur IND,2024-11-12,2024-11-16,,,1.5,5,0.0,1302,,"Tharoon, Kumar S V",,1429.0,False,IND,0.0,1,0.0,,0.0
+33315051,2024-12-01,0,Sacred Heart College Alumni Association First International FIDE Rating Chess Tournament,Tirupattur IND,2024-11-12,2024-11-16,,,1.5,5,0.0,1302,,"Nithishkumar, S",,1411.0,False,IND,0.0,1,0.0,,0.0
+33315051,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,,,1.5,6,0.0,1323,,"Kishore, C",,1490.0,False,IND,0.5,1,0.0,,0.0
+33315051,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,,,1.5,6,0.0,1323,,"Tarun, B",,1490.0,False,IND,1.0,1,0.0,,0.0
+33315051,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,,,1.5,6,0.0,1323,,"Apurv, Shekhar Desmukh",,1798.0,False,IND,0.0,1,0.0,,0.0
+33315051,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,,,1.5,6,0.0,1323,,"Rishinandhan, Sudarsan",,1487.0,False,IND,0.0,1,0.0,,0.0
+33315051,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,,,1.5,6,0.0,1323,,"Neithal, D Ansera",,1407.0,False,IND,0.0,1,0.0,,0.0
+33315051,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,,,1.5,6,0.0,1323,,"Harrish, D",,1423.0,False,IND,0.0,1,0.0,,0.0

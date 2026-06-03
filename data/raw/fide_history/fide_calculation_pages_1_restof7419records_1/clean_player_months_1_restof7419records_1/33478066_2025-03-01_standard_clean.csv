@@ -1,0 +1,37 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33478066,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2410,2307,4.5,9,1.24,20,24.8,"Zverev, Lev",m,2421.0,False,FID,0.5,1,0.16,20,3.2
+33478066,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2410,2307,4.5,9,1.24,20,24.8,"Gombocz, Ferenc Jr.",f,2316.0,False,HUN,0.5,1,0.01,20,0.2
+33478066,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2410,2307,4.5,9,1.24,20,24.8,"Aczel, Gergely",g,2482.0,False,HUN,0.5,1,0.23,20,4.6
+33478066,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2410,2307,4.5,9,1.24,20,24.8,"Szpar, Milosz",m,2457.0,False,POL,0.5,1,0.2,20,4.0
+33478066,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2410,2307,4.5,9,1.24,20,24.8,"Pap, Misa",g,2436.0,False,SRB,0.5,1,0.17,20,3.4
+33478066,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2410,2307,4.5,9,1.24,20,24.8,"Berczes, David",g,2406.0,False,HUN,0.5,1,0.14,20,2.8
+33478066,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2410,2307,4.5,9,1.24,20,24.8,"Gedajlovic, Max",m,2391.0,False,CAN,0.5,1,0.12,20,2.4
+33478066,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2410,2307,4.5,9,1.24,20,24.8,"Rathanvel, V S",m,2484.0,False,IND,0.5,1,0.23,20,4.6
+33478066,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2410,2307,4.5,9,1.24,20,24.8,"Bhagat, Kush",f,2294.0,False,IND,0.5,1,-0.02,20,-0.4
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2334,2307,5.0,9,0.86,20,17.2,"Petrusic, Velimir",,2101.0,False,SRB,0.5,1,-0.26,20,-5.2
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2334,2307,5.0,9,0.86,20,17.2,"Warchol, Kamil",f,2158.0,False,POL,1.0,1,0.3,20,6.0
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2334,2307,5.0,9,0.86,20,17.2,"Nigametzianov, Mikhail",f,2399.0,False,RUS,0.5,1,0.13,20,2.6
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2334,2307,5.0,9,0.86,20,17.2,"Savic, Miodrag R",g,2426.0,False,SRB,0.5,1,0.16,20,3.2
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2334,2307,5.0,9,0.86,20,17.2,"Dvalishvili, Pavel S.",m,2344.0,False,RUS,0.5,1,0.05,20,1.0
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2334,2307,5.0,9,0.86,20,17.2,"Citak, Selim",f,2374.0,False,TUR,0.5,1,0.09,20,1.8
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2334,2307,5.0,9,0.86,20,17.2,"Ljepic, Andrej",f,2341.0,False,SRB,0.5,1,0.05,20,1.0
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2334,2307,5.0,9,0.86,20,17.2,"Scekic, Milos",m,2407.0,False,SRB,0.5,1,0.14,20,2.8
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2334,2307,5.0,9,0.86,20,17.2,"Kovchan, Alexander",g,2456.0,False,UKR,0.5,1,0.2,20,4.0
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2231,2307,5.0,9,-0.28,20,-5.6,"Sason, Noam",,1973.0,False,ISR,1.0,1,0.12,20,2.4
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2231,2307,5.0,9,-0.28,20,-5.6,"Zabotin, Alexander",m,2423.0,False,RUS,0.0,1,-0.34,20,-6.8
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2231,2307,5.0,9,-0.28,20,-5.6,"Zhou, Yuxu",c,2037.0,False,CHN,1.0,1,0.17,20,3.4
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2231,2307,5.0,9,-0.28,20,-5.6,"Chen, Hongsen",,2439.0,False,CHN,0.5,1,0.18,20,3.6
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2231,2307,5.0,9,-0.28,20,-5.6,"Glek, Igor",g,2423.0,False,BEL,0.0,1,-0.34,20,-6.8
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2231,2307,5.0,9,-0.28,20,-5.6,"Srdanovic, Jovana",wm,2207.0,False,SRB,0.5,1,-0.14,20,-2.8
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2231,2307,5.0,9,-0.28,20,-5.6,"Joel, Paul Ganta",c,2065.0,False,IND,1.0,1,0.2,20,4.0
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2231,2307,5.0,9,-0.28,20,-5.6,"Lajthajm, Borko",g,2330.0,False,SRB,0.5,1,0.03,20,0.6
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2231,2307,5.0,9,-0.28,20,-5.6,"Stanojevic, Ilija",c,2186.0,False,SRB,0.5,1,-0.16,20,-3.2
+33478066,2025-03-01,0,GM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2400,2307,3.0,9,-0.35,20,-7.0,"Bryakin, Mikhail",g,2427.0,False,SRB,0.0,1,-0.34,20,-6.8
+33478066,2025-03-01,0,GM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2400,2307,3.0,9,-0.35,20,-7.0,"Spasov, Vasil",g,2423.0,False,BUL,0.5,1,0.16,20,3.2
+33478066,2025-03-01,0,GM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2400,2307,3.0,9,-0.35,20,-7.0,"Cao, Qingfeng",,2342.0,False,CHN,0.0,1,-0.45,20,-9.0
+33478066,2025-03-01,0,GM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2400,2307,3.0,9,-0.35,20,-7.0,"Amartuvshin, Ganzorig",m,2391.0,False,MGL,0.0,1,-0.38,20,-7.6
+33478066,2025-03-01,0,GM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2400,2307,3.0,9,-0.35,20,-7.0,"Jiang, Haochen",,2374.0,False,CHN,0.0,1,-0.41,20,-8.2
+33478066,2025-03-01,0,GM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2400,2307,3.0,9,-0.35,20,-7.0,"Itgelt, Khuyagtsogt",f,2416.0,False,MGL,0.5,1,0.15,20,3.0
+33478066,2025-03-01,0,GM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2400,2307,3.0,9,-0.35,20,-7.0,"Chen, Hongsen",,2439.0,False,CHN,1.0,1,0.68,20,13.6
+33478066,2025-03-01,0,GM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2400,2307,3.0,9,-0.35,20,-7.0,"Akhmedov, David",f,2368.0,False,FID,0.5,1,0.08,20,1.6
+33478066,2025-03-01,0,GM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2400,2307,3.0,9,-0.35,20,-7.0,"Glek, Igor",g,2423.0,False,BEL,0.5,1,0.16,20,3.2

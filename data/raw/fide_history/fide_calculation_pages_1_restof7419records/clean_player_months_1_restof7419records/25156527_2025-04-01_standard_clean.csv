@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25156527,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1968,2013,4.5,9,-0.47,40,-18.8,"Mitrabha, Guha",g,2413,True,IND,0.0,1,-0.08,40,-3.2
+25156527,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1968,2013,4.5,9,-0.47,40,-18.8,"Gunaselvaram, T",,1613,True,IND,1.0,1,0.08,40,3.2
+25156527,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1968,2013,4.5,9,-0.47,40,-18.8,"Bhosale, Shriraj",,2099,False,IND,0.5,1,0.12,40,4.8
+25156527,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1968,2013,4.5,9,-0.47,40,-18.8,"Aadithya, R",,1675,False,IND,1.0,1,0.12,40,4.8
+25156527,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1968,2013,4.5,9,-0.47,40,-18.8,"Sai Agni Jeevitesh, J",m,2312,False,IND,0.0,1,-0.15,40,-6.0
+25156527,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1968,2013,4.5,9,-0.47,40,-18.8,"Raghvendra, Kumar Mishra",,1734,False,IND,0.5,1,-0.34,40,-13.6
+25156527,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1968,2013,4.5,9,-0.47,40,-18.8,"Saikat, Nath",,1888,False,IND,0.5,1,-0.17,40,-6.8
+25156527,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1968,2013,4.5,9,-0.47,40,-18.8,"Sharma, Dinesh K.",m,2167,False,IND,0.0,1,-0.29,40,-11.6
+25156527,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1968,2013,4.5,9,-0.47,40,-18.8,"Devansh, Singh",,1809,False,IND,1.0,1,0.24,40,9.6

@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33375631,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1813,1675,2.0,7,-0.5,40,-20.0,"Peter Anand, A",,2018,False,IND,0.0,1,-0.12,40,-4.8
+33375631,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1813,1675,2.0,7,-0.5,40,-20.0,"Varun, V",,2075,True,IND,0.0,1,-0.08,40,-3.2
+33375631,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1813,1675,2.0,7,-0.5,40,-20.0,"Mayur, Saxena",,1504,False,IND,1.0,1,0.27,40,10.8
+33375631,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1813,1675,2.0,7,-0.5,40,-20.0,"Vedant, Rupeshbhai Varasada",c,2013,False,IND,0.0,1,-0.12,40,-4.8
+33375631,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1813,1675,2.0,7,-0.5,40,-20.0,"Vyom, Malhotra",c,1900,False,IND,0.0,1,-0.22,40,-8.8
+33375631,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1813,1675,2.0,7,-0.5,40,-20.0,"Yash, Dahiya",,1593,False,IND,0.0,1,-0.61,40,-24.4
+33375631,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1813,1675,2.0,7,-0.5,40,-20.0,"Ansuman, Bhatta",,1589,False,IND,1.0,1,0.38,40,15.2

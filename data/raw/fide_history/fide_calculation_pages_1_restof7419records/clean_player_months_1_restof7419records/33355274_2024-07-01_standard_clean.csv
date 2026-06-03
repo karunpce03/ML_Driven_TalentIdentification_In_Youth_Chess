@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33355274,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1691,1502,1.0,2,0.44,40,17.6,"Pranav, Bobby Sekhar",,1834.0,False,IND,0.0,1,-0.12,40,-4.8
+33355274,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1691,1502,1.0,2,0.44,40,17.6,"Dhrupad, Lohidas",,1548.0,False,IND,1.0,1,0.56,40,22.4
+33355274,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1525,1502,2.5,6,-0.31,40,-12.4,"Aradhy, Roy",,1564.0,False,IND,0.5,1,0.09,40,3.6
+33355274,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1525,1502,2.5,6,-0.31,40,-12.4,"Faqihi, Abdulaziz",,1593.0,False,BRN,1.0,1,0.62,40,24.8
+33355274,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1525,1502,2.5,6,-0.31,40,-12.4,"Mikael, Vivek Joseph",,1450.0,False,IND,0.0,1,-0.57,40,-22.8
+33355274,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1525,1502,2.5,6,-0.31,40,-12.4,"Youssef, Mohamed",,1547.0,False,MAR,0.0,1,-0.44,40,-17.6
+33355274,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1525,1502,2.5,6,-0.31,40,-12.4,"Tanya, Singh",,1544.0,False,IND,0.0,1,-0.44,40,-17.6
+33355274,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1525,1502,2.5,6,-0.31,40,-12.4,"Sanjana, Selvaraj",,1451.0,False,IND,1.0,1,0.43,40,17.2

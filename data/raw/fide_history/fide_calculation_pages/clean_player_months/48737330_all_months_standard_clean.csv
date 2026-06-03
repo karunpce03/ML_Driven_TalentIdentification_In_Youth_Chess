@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48737330,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1699,1414,1.0,4,0.23,40,9.2,"Gugan, G",,1814,True,IND,0.0,1,-0.08,40,-3.2
+48737330,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1699,1414,1.0,4,0.23,40,9.2,"Rithiha, Balamurugan",,1423,False,IND,1.0,1,0.51,40,20.4
+48737330,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1699,1414,1.0,4,0.23,40,9.2,"Maheswaran, P.",f,1814,True,IND,0.0,1,-0.08,40,-3.2
+48737330,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1699,1414,1.0,4,0.23,40,9.2,"Sam, Yedidiah S",,1745,False,IND,0.0,1,-0.12,40,-4.8

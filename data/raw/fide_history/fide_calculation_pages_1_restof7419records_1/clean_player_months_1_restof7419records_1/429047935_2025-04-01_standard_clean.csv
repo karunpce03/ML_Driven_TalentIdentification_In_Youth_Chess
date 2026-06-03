@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429047935,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1688,1484,1.5,3,0.67,40,26.8,"Mehra, Jyoti",,1427,False,IND,0.5,1,-0.08,40,-3.2
+429047935,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1688,1484,1.5,3,0.67,40,26.8,"Kotepalli, Sai Nirupama",wf,1884,True,IND,1.0,1,0.92,40,36.8
+429047935,2025-04-01,0,22nd National Women Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,1688,1484,1.5,3,0.67,40,26.8,"Samhita, Pungavanam",,1753,False,IND,0.0,1,-0.17,40,-6.8

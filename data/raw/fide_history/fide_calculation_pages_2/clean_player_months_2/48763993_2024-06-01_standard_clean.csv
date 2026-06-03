@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48763993,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1658,1486,0.5,4,-0.6,40,-24.0,"Adrij, Bhattacharyya",,1689.0,False,IND,0.0,1,-0.24,40,-9.6
+48763993,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1658,1486,0.5,4,-0.6,40,-24.0,"Siddhi, Rao",,1631.0,False,IND,0.5,1,0.19,40,7.6
+48763993,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1658,1486,0.5,4,-0.6,40,-24.0,"Harshil, Mishra",,1651.0,False,IND,0.0,1,-0.28,40,-11.2
+48763993,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1658,1486,0.5,4,-0.6,40,-24.0,"Jitendra, Kashyap L",,1661.0,False,IND,0.0,1,-0.27,40,-10.8

@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33400830,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1837,1759,4.5,7,1.64,40,65.6,"Mazumdar, Viraj",,1528,False,USA,1.0,1,0.21,40,8.4
+33400830,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1837,1759,4.5,7,1.64,40,65.6,"Adams, Shawn",,1811,False,USA,1.0,1,0.57,40,22.8
+33400830,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1837,1759,4.5,7,1.64,40,65.6,"Deviprasath, Sharvesh R",f,2159,True,USA,0.0,1,-0.08,40,-3.2
+33400830,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1837,1759,4.5,7,1.64,40,65.6,"Nigudkar, Rusheel",,1829,False,USA,0.0,1,-0.4,40,-16.0
+33400830,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1837,1759,4.5,7,1.64,40,65.6,"Joseph, Julian",,1727,False,USA,1.0,1,0.46,40,18.4
+33400830,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1837,1759,4.5,7,1.64,40,65.6,"Hernandez Virgen, Alfonso",,1938,False,MEX,1.0,1,0.73,40,29.2
+33400830,2024-07-01,0,3rd Annual Golden Open,"Lewisville, TX USA",2024-06-07,2024-06-09,1837,1759,4.5,7,1.64,40,65.6,"Dasari, Saathvik",,1869,False,USA,0.5,1,0.15,40,6.0
+33400830,2024-07-01,0,2024 150K Universal Open - Championship,"North Richland Hills, TX USA",2024-06-20,2024-06-23,2050,1759,2.0,6,1.01,40,40.4,"Posthuma, Joshua",m,2159,True,USA,0.0,1,-0.08,40,-3.2
+33400830,2024-07-01,0,2024 150K Universal Open - Championship,"North Richland Hills, TX USA",2024-06-20,2024-06-23,2050,1759,2.0,6,1.01,40,40.4,"Yanayt, Eugene",f,2066,False,USA,1.0,1,0.86,40,34.4
+33400830,2024-07-01,0,2024 150K Universal Open - Championship,"North Richland Hills, TX USA",2024-06-20,2024-06-23,2050,1759,2.0,6,1.01,40,40.4,"Jagirapu, Harshin Reddy",,2029,False,USA,0.0,1,-0.17,40,-6.8
+33400830,2024-07-01,0,2024 150K Universal Open - Championship,"North Richland Hills, TX USA",2024-06-20,2024-06-23,2050,1759,2.0,6,1.01,40,40.4,"Rambha, Hemachandra",,1987,False,USA,0.5,1,0.29,40,11.6
+33400830,2024-07-01,0,2024 150K Universal Open - Championship,"North Richland Hills, TX USA",2024-06-20,2024-06-23,2050,1759,2.0,6,1.01,40,40.4,"Avendano, Paul Omar Perez",f,2159,True,MEX,0.0,1,-0.08,40,-3.2
+33400830,2024-07-01,0,2024 150K Universal Open - Championship,"North Richland Hills, TX USA",2024-06-20,2024-06-23,2050,1759,2.0,6,1.01,40,40.4,"Luscomb, David",,1899,False,USA,0.5,1,0.19,40,7.6

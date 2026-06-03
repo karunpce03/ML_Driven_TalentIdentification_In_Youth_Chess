@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33399271,2024-05-01,0,Championnat International de Lyon Henri Rinck 2024,LYON FRA,2024-04-24,2024-04-28,1767,1440,4.0,9,2.82,40,112.8,"Picard Du Chambon, Gabriel",,1840,True,FRA,0.0,1,-0.08,40,-3.2
+33399271,2024-05-01,0,Championnat International de Lyon Henri Rinck 2024,LYON FRA,2024-04-24,2024-04-28,1767,1440,4.0,9,2.82,40,112.8,"Lestrat, Nicolas",,1665,False,FRA,1.0,1,0.78,40,31.2
+33399271,2024-05-01,0,Championnat International de Lyon Henri Rinck 2024,LYON FRA,2024-04-24,2024-04-28,1767,1440,4.0,9,2.82,40,112.8,"Faliguerho, Mathias",,1767,False,FRA,0.5,1,0.37,40,14.8
+33399271,2024-05-01,0,Championnat International de Lyon Henri Rinck 2024,LYON FRA,2024-04-24,2024-04-28,1767,1440,4.0,9,2.82,40,112.8,"Aznar, Benjamin",,1840,True,SUI,0.5,1,0.42,40,16.8
+33399271,2024-05-01,0,Championnat International de Lyon Henri Rinck 2024,LYON FRA,2024-04-24,2024-04-28,1767,1440,4.0,9,2.82,40,112.8,"Charpentier, Denis",,1758,False,FRA,0.5,1,0.37,40,14.8
+33399271,2024-05-01,0,Championnat International de Lyon Henri Rinck 2024,LYON FRA,2024-04-24,2024-04-28,1767,1440,4.0,9,2.82,40,112.8,"Gimenez, Adrien",,1719,False,FRA,1.0,1,0.84,40,33.6
+33399271,2024-05-01,0,Championnat International de Lyon Henri Rinck 2024,LYON FRA,2024-04-24,2024-04-28,1767,1440,4.0,9,2.82,40,112.8,"Scharr, Jules",,1840,True,FRA,0.0,1,-0.08,40,-3.2
+33399271,2024-05-01,0,Championnat International de Lyon Henri Rinck 2024,LYON FRA,2024-04-24,2024-04-28,1767,1440,4.0,9,2.82,40,112.8,"Crouzet, Bernard",,1722,False,FRA,0.5,1,0.34,40,13.6
+33399271,2024-05-01,0,Championnat International de Lyon Henri Rinck 2024,LYON FRA,2024-04-24,2024-04-28,1767,1440,4.0,9,2.82,40,112.8,"Pichot, Xavier",,1753,False,FRA,0.0,1,-0.14,40,-5.6

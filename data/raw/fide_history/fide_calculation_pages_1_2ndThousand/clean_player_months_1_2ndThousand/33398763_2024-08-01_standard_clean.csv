@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33398763,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1647,1844,6.5,9,-0.12,40,-4.8,"Divye, Kapoor",,1444,True,IND,1.0,1,0.08,40,3.2
+33398763,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1647,1844,6.5,9,-0.12,40,-4.8,"Kashvy, Sabharwal",,1536,False,IND,0.5,1,-0.36,40,-14.4
+33398763,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1647,1844,6.5,9,-0.12,40,-4.8,"Dhruvansh, Sethi",,1514,False,IND,1.0,1,0.12,40,4.8
+33398763,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1647,1844,6.5,9,-0.12,40,-4.8,"Parth, Tayal",,1623,False,IND,1.0,1,0.22,40,8.8
+33398763,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1647,1844,6.5,9,-0.12,40,-4.8,"Saikat, Nath",,1713,False,IND,0.5,1,-0.18,40,-7.2
+33398763,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1647,1844,6.5,9,-0.12,40,-4.8,"Sushant, Tiwari",,1684,False,IND,0.5,1,-0.21,40,-8.4
+33398763,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1647,1844,6.5,9,-0.12,40,-4.8,"Mohit, Ambwani",,1672,False,IND,1.0,1,0.27,40,10.8
+33398763,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1647,1844,6.5,9,-0.12,40,-4.8,"Shiva, Gautam",,1644,False,IND,1.0,1,0.24,40,9.6
+33398763,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1647,1844,6.5,9,-0.12,40,-4.8,"Mehta, Naitik R",,1993,False,IND,0.0,1,-0.3,40,-12.0

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48732184,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1704,1565,3.5,10,-0.01,40,-0.4,"Kheerthi, Ganta",wf,1965,True,IND,0.0,1,-0.08,40,-3.2
+48732184,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1704,1565,3.5,10,-0.01,40,-0.4,"Amulya, Guruprasad",wc,1785,False,IND,1.0,1,0.78,40,31.2
+48732184,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1704,1565,3.5,10,-0.01,40,-0.4,"Prishita, Gupta",wc,1965,True,IND,0.0,1,-0.08,40,-3.2
+48732184,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1704,1565,3.5,10,-0.01,40,-0.4,"Sani, Deshpande",,1739,False,IND,0.0,1,-0.27,40,-10.8
+48732184,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1704,1565,3.5,10,-0.01,40,-0.4,"Manasa, K.",,1840,False,IND,0.5,1,0.33,40,13.2
+48732184,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1704,1565,3.5,10,-0.01,40,-0.4,"Aamuktha, Guntaka",,1899,False,IND,0.0,1,-0.12,40,-4.8
+48732184,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1704,1565,3.5,10,-0.01,40,-0.4,"Mahisha, Prathab",,1455,False,IND,0.0,1,-0.65,40,-26.0
+48732184,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1704,1565,3.5,10,-0.01,40,-0.4,"Kaaviyasree, Kannan",,1455,False,IND,0.5,1,-0.15,40,-6.0
+48732184,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1704,1565,3.5,10,-0.01,40,-0.4,"Sinha, Pari",,1462,False,IND,1.0,1,0.36,40,14.4
+48732184,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1704,1565,3.5,10,-0.01,40,-0.4,"Natesan, Prashaanthi",,1472,False,IND,0.5,1,-0.13,40,-5.2

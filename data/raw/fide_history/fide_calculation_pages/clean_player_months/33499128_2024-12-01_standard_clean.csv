@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33499128,2024-12-01,0,Shantikumarji Firodia Classical Fide Rating Chess Tournament 2024,Ahmednagar IND,2024-11-06,2024-11-10,1684,1647,6.0,8,2.22,40,88.8,"Rounak, Jakhotiya",,1443,False,IND,1.0,1,0.24,40,9.6
+33499128,2024-12-01,0,Shantikumarji Firodia Classical Fide Rating Chess Tournament 2024,Ahmednagar IND,2024-11-06,2024-11-10,1684,1647,6.0,8,2.22,40,88.8,"Sebastian, Manuel Menezes",,1501,False,IND,1.0,1,0.3,40,12.0
+33499128,2024-12-01,0,Shantikumarji Firodia Classical Fide Rating Chess Tournament 2024,Ahmednagar IND,2024-11-06,2024-11-10,1684,1647,6.0,8,2.22,40,88.8,"Mahindrakar, Indrajeet",,2047,True,IND,1.0,1,0.92,40,36.8
+33499128,2024-12-01,0,Shantikumarji Firodia Classical Fide Rating Chess Tournament 2024,Ahmednagar IND,2024-11-06,2024-11-10,1684,1647,6.0,8,2.22,40,88.8,"Chaudhari, Ashish",,1997,True,IND,0.0,1,-0.11,40,-4.4
+33499128,2024-12-01,0,Shantikumarji Firodia Classical Fide Rating Chess Tournament 2024,Ahmednagar IND,2024-11-06,2024-11-10,1684,1647,6.0,8,2.22,40,88.8,"Sunil, Gokhale",,1479,False,IND,1.0,1,0.28,40,11.2
+33499128,2024-12-01,0,Shantikumarji Firodia Classical Fide Rating Chess Tournament 2024,Ahmednagar IND,2024-11-06,2024-11-10,1684,1647,6.0,8,2.22,40,88.8,"Jadhwar, Pranav",,1739,False,IND,0.0,1,-0.37,40,-14.8
+33499128,2024-12-01,0,Shantikumarji Firodia Classical Fide Rating Chess Tournament 2024,Ahmednagar IND,2024-11-06,2024-11-10,1684,1647,6.0,8,2.22,40,88.8,"Sankalecha, Jinam",,1526,False,IND,1.0,1,0.34,40,13.6
+33499128,2024-12-01,0,Shantikumarji Firodia Classical Fide Rating Chess Tournament 2024,Ahmednagar IND,2024-11-06,2024-11-10,1684,1647,6.0,8,2.22,40,88.8,"Patil, Abhishek",,1736,False,IND,1.0,1,0.62,40,24.8

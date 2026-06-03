@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25952501,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1671,1553,2.5,5,0.73,40,29.2,"Nguyen, Van Quan",,1870.0,False,VIE,0.0,1,-0.13,40,-5.2
+25952501,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1671,1553,2.5,5,0.73,40,29.2,"Lim, Lui Lung",,1769.0,False,MAS,0.0,1,-0.22,40,-8.8
+25952501,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1671,1553,2.5,5,0.73,40,29.2,"Neoh, Wei Ren Branden",,1470.0,False,SGP,1.0,1,0.39,40,15.6
+25952501,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1671,1553,2.5,5,0.73,40,29.2,"Gozali, Isaac",,1621.0,False,SGP,0.5,1,0.09,40,3.6
+25952501,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1671,1553,2.5,5,0.73,40,29.2,"Lillywhite, Ray Lowell",,1623.0,False,TPE,1.0,1,0.6,40,24.0
+25952501,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1645,1508,2.5,9,-0.36,40,-14.4,"Sagnik, Dutta",,1775.0,False,IND,0.0,1,-0.18,40,-7.2
+25952501,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1645,1508,2.5,9,-0.36,40,-14.4,"Darsh, Ilwadi",,1624.0,False,IND,1.0,1,0.66,40,26.4
+25952501,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1645,1508,2.5,9,-0.36,40,-14.4,"Ishaan, Kandi",,1654.0,False,IND,0.0,1,-0.3,40,-12.0
+25952501,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1645,1508,2.5,9,-0.36,40,-14.4,"Shreesuday, Behera",,1619.0,False,IND,0.0,1,-0.35,40,-14.0
+25952501,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1645,1508,2.5,9,-0.36,40,-14.4,"Avighna, Das",,1611.0,False,IND,1.0,1,0.64,40,25.6
+25952501,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1645,1508,2.5,9,-0.36,40,-14.4,"Naitik, Jain",,1656.0,False,IND,0.0,1,-0.3,40,-12.0
+25952501,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1645,1508,2.5,9,-0.36,40,-14.4,"Tejas, Shandilya",,1607.0,False,IND,0.0,1,-0.36,40,-14.4
+25952501,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1645,1508,2.5,9,-0.36,40,-14.4,"Roychoudhury, Satwik",,1640.0,False,IND,0.5,1,0.18,40,7.2
+25952501,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1645,1508,2.5,9,-0.36,40,-14.4,"Prabhakar, Aariv",,1619.0,False,IND,0.0,1,-0.35,40,-14.0

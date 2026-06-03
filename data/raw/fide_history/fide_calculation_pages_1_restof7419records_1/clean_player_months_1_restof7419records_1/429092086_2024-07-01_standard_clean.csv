@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429092086,2024-07-01,0,UP State U-13 Chess Championship-2024-25 (Open),Bijnor IND,2024-06-07,2024-06-09,,,0.0,1,0.0,791,,"Devansh, Rathore",,1591,False,IND,0.0,1,0.0,,0.0
+429092086,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,,,0.0,3,0.0,730,,"Parth, Gupta",,1612,False,IND,0.0,1,0.0,,0.0
+429092086,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,,,0.0,3,0.0,730,,"Manish, Kumar",,1482,False,IND,0.0,1,0.0,,0.0
+429092086,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,,,0.0,3,0.0,730,,"Bhavya, Hasija",,1497,False,IND,0.0,1,0.0,,0.0

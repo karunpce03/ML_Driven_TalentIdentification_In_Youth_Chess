@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48792551,2024-08-01,0,M.P. STATE SENIOR (OPEN) RATING CHESS CHAMPIONSHIP - 2024,Dewas IND,2024-07-26,2024-07-28,1687,1403,2.0,4,1.28,40,51.2,"Jain, Nitin",,1726,False,IND,0.0,1,-0.13,40,-5.2
+48792551,2024-08-01,0,M.P. STATE SENIOR (OPEN) RATING CHESS CHAMPIONSHIP - 2024,Dewas IND,2024-07-26,2024-07-28,1687,1403,2.0,4,1.28,40,51.2,"Khan, Yunus",,1803,True,IND,0.0,1,-0.08,40,-3.2
+48792551,2024-08-01,0,M.P. STATE SENIOR (OPEN) RATING CHESS CHAMPIONSHIP - 2024,Dewas IND,2024-07-26,2024-07-28,1687,1403,2.0,4,1.28,40,51.2,"Solanki, Narendra",,1501,False,IND,1.0,1,0.63,40,25.2
+48792551,2024-08-01,0,M.P. STATE SENIOR (OPEN) RATING CHESS CHAMPIONSHIP - 2024,Dewas IND,2024-07-26,2024-07-28,1687,1403,2.0,4,1.28,40,51.2,"Pradeep, Mishra",,1718,False,IND,1.0,1,0.86,40,34.4

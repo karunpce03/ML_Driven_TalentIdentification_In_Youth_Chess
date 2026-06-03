@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48741256,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1658,1534,0.0,4,-1.37,40,-54.8,"Supratim, Ghosh",,1774.0,False,IND,0.0,1,-0.2,40,-8.0
+48741256,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1658,1534,0.0,4,-1.37,40,-54.8,"Oishik, Mondal",,1714.0,False,IND,0.0,1,-0.26,40,-10.4
+48741256,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1658,1534,0.0,4,-1.37,40,-54.8,"Panda, Samyabrata",,1432.0,False,IND,0.0,1,-0.64,40,-25.6
+48741256,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1658,1534,0.0,4,-1.37,40,-54.8,"Ahanjit, Banerjee",,1711.0,False,IND,0.0,1,-0.27,40,-10.8

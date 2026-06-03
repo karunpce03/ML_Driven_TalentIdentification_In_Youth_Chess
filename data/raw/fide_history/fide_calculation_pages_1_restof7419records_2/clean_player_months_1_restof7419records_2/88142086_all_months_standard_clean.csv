@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88142086,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,,,4.5,9,0.0,1477,,"Priyanshu, Dutta",,1509.0,False,IND,0.0,1,0.0,,0.0
+88142086,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,,,4.5,9,0.0,1477,,"Abhyuday, Deo",,1404.0,False,IND,1.0,1,0.0,,0.0
+88142086,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,,,4.5,9,0.0,1477,,"Subramanian, T.v.",,1481.0,False,IND,0.0,1,0.0,,0.0
+88142086,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,,,4.5,9,0.0,1477,,"Shashank, Seshan",,1431.0,False,IND,0.5,1,0.0,,0.0
+88142086,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,,,4.5,9,0.0,1477,,"Chirag, Aggarwal",,1420.0,False,IND,1.0,1,0.0,,0.0
+88142086,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,,,4.5,9,0.0,1477,,"Utkrisht, Singh",,1476.0,False,IND,1.0,1,0.0,,0.0
+88142086,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,,,4.5,9,0.0,1477,,"Samarth, Jain",,1555.0,False,IND,0.0,1,0.0,,0.0
+88142086,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,,,4.5,9,0.0,1477,,"Soumik, Chattopadhyaya",,1476.0,False,IND,1.0,1,0.0,,0.0
+88142086,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,,,4.5,9,0.0,1477,,"Taneesha, Drolia",,1542.0,False,IND,0.0,1,0.0,,0.0
+88142086,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1499.0,1613.0,1.0,5,-2.25,40,-90.0,"Avinya, Mohan Singh",,1725.0,False,IND,0.0,1,-0.35,40.0,-14.0
+88142086,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1499.0,1613.0,1.0,5,-2.25,40,-90.0,"Divam, Talwar",,1440.0,False,IND,0.0,1,-0.73,40.0,-29.2
+88142086,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1499.0,1613.0,1.0,5,-2.25,40,-90.0,"Abhiwadan, Bhaduka",,1466.0,False,IND,0.0,1,-0.7,40.0,-28.0
+88142086,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1499.0,1613.0,1.0,5,-2.25,40,-90.0,"Moditha, Reddy Velugoti",,1451.0,False,IND,1.0,1,0.29,40.0,11.6
+88142086,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1499.0,1613.0,1.0,5,-2.25,40,-90.0,"Arnav, Pasricha",,1412.0,False,IND,0.0,1,-0.76,40.0,-30.4
+88142086,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1770.0,1523.0,0.0,1,-0.19,40,-7.6,"Intkhab, Alam",,1770.0,False,IND,0.0,1,-0.19,40.0,-7.6
+88142086,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1651.0,1515.0,0.0,2,-0.64,40,-25.6,"Namish, Khanna",,1593.0,False,IND,0.0,1,-0.39,40.0,-15.6
+88142086,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1651.0,1515.0,0.0,2,-0.64,40,-25.6,"Kathan, Khurana",,1709.0,False,IND,0.0,1,-0.25,40.0,-10.0

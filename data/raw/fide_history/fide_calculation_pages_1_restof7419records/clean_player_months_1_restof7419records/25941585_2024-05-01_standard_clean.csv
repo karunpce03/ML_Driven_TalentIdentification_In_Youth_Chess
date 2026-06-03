@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25941585,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1726,1439,0.0,3,-0.5,40,-20.0,"Abdallah, M Nisthar",,1834.0,False,IND,0.0,1,-0.08,40,-3.2
+25941585,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1726,1439,0.0,3,-0.5,40,-20.0,"Abishek, E",,1683.0,False,IND,0.0,1,-0.2,40,-8.0
+25941585,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1726,1439,0.0,3,-0.5,40,-20.0,"Magizhini, M",,1662.0,False,IND,0.0,1,-0.22,40,-8.8
+25941585,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1566,1439,2.5,6,0.52,40,20.8,"Lakshmanan, K A",,1609.0,False,IND,0.5,1,0.22,40,8.8
+25941585,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1566,1439,2.5,6,0.52,40,20.8,"Dhivakaran, M",,1559.0,False,IND,0.0,1,-0.34,40,-13.6
+25941585,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1566,1439,2.5,6,0.52,40,20.8,"Bharath, Raj K",,1591.0,False,IND,0.0,1,-0.3,40,-12.0
+25941585,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1566,1439,2.5,6,0.52,40,20.8,"Angelo, Lijo",,1547.0,False,IND,1.0,1,0.65,40,26.0
+25941585,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1566,1439,2.5,6,0.52,40,20.8,"Nikiilesh, A U",,1525.0,False,IND,0.5,1,0.12,40,4.8
+25941585,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1566,1439,2.5,6,0.52,40,20.8,"Jeevan, Maheswar Vinoy",,1563.0,False,IND,0.5,1,0.17,40,6.8

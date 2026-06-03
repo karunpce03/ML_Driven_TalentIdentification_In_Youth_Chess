@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33400830,2024-11-01,0,18th Annual SPICE Cup Open,"Chesterfield, MO USA",2024-10-13,2024-10-18,2086,1913,3.5,9,0.94,40,37.6,"Torres, Luis Carlos, Jr",m,2247.0,False,MEX,0.0,1,-0.12,40,-4.8
+33400830,2024-11-01,0,18th Annual SPICE Cup Open,"Chesterfield, MO USA",2024-10-13,2024-10-18,2086,1913,3.5,9,0.94,40,37.6,"Fang, Elbert",,2130.0,False,USA,0.5,1,0.28,40,11.2
+33400830,2024-11-01,0,18th Annual SPICE Cup Open,"Chesterfield, MO USA",2024-10-13,2024-10-18,2086,1913,3.5,9,0.94,40,37.6,"Wan, Joseph Cheng-Yue",c,2184.0,False,USA,0.0,1,-0.17,40,-6.8
+33400830,2024-11-01,0,18th Annual SPICE Cup Open,"Chesterfield, MO USA",2024-10-13,2024-10-18,2086,1913,3.5,9,0.94,40,37.6,"Wilber, Matthew",,2081.0,False,USA,1.0,1,0.72,40,28.8
+33400830,2024-11-01,0,18th Annual SPICE Cup Open,"Chesterfield, MO USA",2024-10-13,2024-10-18,2086,1913,3.5,9,0.94,40,37.6,"Yanayt, Eugene",f,2117.0,False,USA,0.0,1,-0.24,40,-9.6
+33400830,2024-11-01,0,18th Annual SPICE Cup Open,"Chesterfield, MO USA",2024-10-13,2024-10-18,2086,1913,3.5,9,0.94,40,37.6,"Abraham, John",,2001.0,False,USA,0.0,1,-0.38,40,-15.2
+33400830,2024-11-01,0,18th Annual SPICE Cup Open,"Chesterfield, MO USA",2024-10-13,2024-10-18,2086,1913,3.5,9,0.94,40,37.6,"Feller, Gabriela Luisa Vicente",,1861.0,False,BRA,1.0,1,0.43,40,17.2
+33400830,2024-11-01,0,18th Annual SPICE Cup Open,"Chesterfield, MO USA",2024-10-13,2024-10-18,2086,1913,3.5,9,0.94,40,37.6,"Zhang, Alex",,2101.0,False,USA,0.5,1,0.24,40,9.6
+33400830,2024-11-01,0,18th Annual SPICE Cup Open,"Chesterfield, MO USA",2024-10-13,2024-10-18,2086,1913,3.5,9,0.94,40,37.6,"Shangin, Lev",,2048.0,False,USA,0.5,1,0.18,40,7.2

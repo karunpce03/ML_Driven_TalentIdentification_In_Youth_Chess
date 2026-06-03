@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33479887,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1602,1513,1.0,4,-0.54,40,-21.6,"Kulkarni, Guruprasad",,1644.0,False,IND,0.0,1,-0.32,40,-12.8
+33479887,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1602,1513,1.0,4,-0.54,40,-21.6,"Akash, Wadhwani",,1707.0,False,IND,0.0,1,-0.25,40,-10.0
+33479887,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1602,1513,1.0,4,-0.54,40,-21.6,"Muthe, Dhruv",,1641.0,False,IND,0.0,1,-0.33,40,-13.2
+33479887,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1602,1513,1.0,4,-0.54,40,-21.6,"Pradhyumna, Amit Mishra",,1414.0,False,IND,1.0,1,0.36,40,14.4
+33479887,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1638,1513,0.5,4,-0.83,40,-33.2,"Rajith, V.",,1675.0,False,IND,0.0,1,-0.29,40,-11.6
+33479887,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1638,1513,0.5,4,-0.83,40,-33.2,"Pragadesh, P",,1662.0,False,IND,0.0,1,-0.3,40,-12.0
+33479887,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1638,1513,0.5,4,-0.83,40,-33.2,"Akshat, Kumar Lakhara",,1601.0,False,IND,0.0,1,-0.38,40,-15.2
+33479887,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1638,1513,0.5,4,-0.83,40,-33.2,"Aditya, Sana",,1612.0,False,IND,0.5,1,0.14,40,5.6

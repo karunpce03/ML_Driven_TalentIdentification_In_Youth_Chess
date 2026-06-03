@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33431841,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1678,1488,1.0,4,-0.11,40,-4.4,"Amulya, Guruprasad",wc,1827.0,False,IND,0.0,1,-0.12,40,-4.8
+33431841,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1678,1488,1.0,4,-0.11,40,-4.4,"Asudani, Ruhani Raj",,1793.0,False,IND,0.0,1,-0.14,40,-5.6
+33431841,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1678,1488,1.0,4,-0.11,40,-4.4,"Megha, Patra",,1638.0,False,IND,0.0,1,-0.3,40,-12.0
+33431841,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1678,1488,1.0,4,-0.11,40,-4.4,"Sinha, Pari",,1455.0,False,IND,1.0,1,0.45,40,18.0

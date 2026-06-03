@@ -1,0 +1,17 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531041493,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,,,0.0,3,0.0,814,,"Prabal, Pandey",,1643.0,False,IND,0.0,1,0.0,,0.0
+531041493,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,,,0.0,3,0.0,814,,"Pranjal, Verma",,1653.0,False,IND,0.0,1,0.0,,0.0
+531041493,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,,,0.0,3,0.0,814,,"Anuj, Keshari",,1545.0,False,IND,0.0,1,0.0,,0.0
+531041493,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,,,2.0,7,0.0,1391,,"Rishi, Kumar Pandey",,1622.0,False,IND,1.0,1,0.0,,0.0
+531041493,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,,,2.0,7,0.0,1391,,"Spandan, Roy",,1613.0,False,IND,0.0,1,0.0,,0.0
+531041493,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,,,2.0,7,0.0,1391,,"Kuldeep, Singh Panwar",,1566.0,False,IND,0.0,1,0.0,,0.0
+531041493,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,,,2.0,7,0.0,1391,,"Saurabh, Singh",,1524.0,False,IND,0.0,1,0.0,,0.0
+531041493,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,,,2.0,7,0.0,1391,,"Surajit, Mondal",,1547.0,False,IND,0.0,1,0.0,,0.0
+531041493,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,,,2.0,7,0.0,1391,,"Ayan, Asthana",,1490.0,False,IND,0.5,1,0.0,,0.0
+531041493,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,,,2.0,7,0.0,1391,,"Karthick, Raja P",,1484.0,False,IND,0.5,1,0.0,,0.0
+531041493,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1675.0,1480.0,0.0,2,-0.49,40,-19.6,"Saurabh, Mathur",,1651.0,False,IND,0.0,1,-0.27,40.0,-10.8
+531041493,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1675.0,1480.0,0.0,2,-0.49,40,-19.6,"Singh, Amarjit",,1698.0,False,IND,0.0,1,-0.22,40.0,-8.8
+531041493,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1649.0,1460.0,0.5,2,-0.04,40,-1.6,"Aabhas, Kumar Srivastava",,1757.0,False,IND,0.5,1,0.35,40.0,14.0
+531041493,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1649.0,1460.0,0.5,2,-0.04,40,-1.6,"Aarav, Agarwal",,1541.0,False,IND,0.0,1,-0.39,40.0,-15.6
+531041493,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1470.0,1460.0,1.0,2,0.03,40,1.2,"Vaibhav, Maurya",,1530.0,False,IND,1.0,1,0.6,40.0,24.0
+531041493,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1470.0,1460.0,1.0,2,0.03,40,1.2,"Shivansh, Sharma",,1409.0,False,IND,0.0,1,-0.57,40.0,-22.8

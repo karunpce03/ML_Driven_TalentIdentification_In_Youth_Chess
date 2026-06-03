@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48738263,2025-03-01,0,Chess Lab U2199 Classic February Tournament,Dubai UAE,2025-02-01,2025-02-02,1849,1749,3.0,5,1.13,40,45.2,"Salman, Ali Khan",,1944.0,False,PAK,1.0,1,0.75,40,30.0
+48738263,2025-03-01,0,Chess Lab U2199 Classic February Tournament,Dubai UAE,2025-02-01,2025-02-02,1849,1749,3.0,5,1.13,40,45.2,"Vidur, Rajagopal",,1864.0,False,IND,1.0,1,0.66,40,26.4
+48738263,2025-03-01,0,Chess Lab U2199 Classic February Tournament,Dubai UAE,2025-02-01,2025-02-02,1849,1749,3.0,5,1.13,40,45.2,"Tecirli, Musa",,1858.0,False,TUR,0.0,1,-0.35,40,-14.0
+48738263,2025-03-01,0,Chess Lab U2199 Classic February Tournament,Dubai UAE,2025-02-01,2025-02-02,1849,1749,3.0,5,1.13,40,45.2,"Mercado, Levi",,2057.0,False,PHI,0.0,1,-0.14,40,-5.6
+48738263,2025-03-01,0,Chess Lab U2199 Classic February Tournament,Dubai UAE,2025-02-01,2025-02-02,1849,1749,3.0,5,1.13,40,45.2,"Kalia, Rahul",,1520.0,False,IND,1.0,1,0.21,40,8.4

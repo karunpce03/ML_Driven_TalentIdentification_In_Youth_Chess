@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48703613,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1655,1482,0.0,3,-0.84,40,-33.6,"Khadanga, Omm Aditya",,1773.0,False,IND,0.0,1,-0.15,40,-6.0
+48703613,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1655,1482,0.0,3,-0.84,40,-33.6,"Varun, Garg",,1588.0,False,IND,0.0,1,-0.36,40,-14.4
+48703613,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1655,1482,0.0,3,-0.84,40,-33.6,"Mohd, Ismail Siddiqui",,1604.0,False,IND,0.0,1,-0.33,40,-13.2
+48703613,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1591,1482,1.5,5,-0.3,40,-12.0,"Somiddho, Rajbanshi",,1701.0,False,IND,0.0,1,-0.22,40,-8.8
+48703613,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1591,1482,1.5,5,-0.3,40,-12.0,"Arkojyoti, Banerjee",,1661.0,False,IND,0.0,1,-0.27,40,-10.8
+48703613,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1591,1482,1.5,5,-0.3,40,-12.0,"Pyansu, Nath",,1457.0,False,IND,0.5,1,-0.03,40,-1.2
+48703613,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1591,1482,1.5,5,-0.3,40,-12.0,"Abhirup, Mukherjee",,1470.0,False,IND,1.0,1,0.48,40,19.2
+48703613,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1591,1482,1.5,5,-0.3,40,-12.0,"Shreyaskar, Tanti",,1665.0,False,IND,0.0,1,-0.26,40,-10.4

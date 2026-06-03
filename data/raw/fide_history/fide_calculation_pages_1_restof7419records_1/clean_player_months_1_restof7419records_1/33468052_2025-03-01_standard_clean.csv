@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33468052,2025-03-01,0,London Chess League FIDE Weekender Feb 2025 - Major,London ENG,2025-02-14,2025-02-16,1696,1468,0.0,2,-0.46,40,-18.4,"Lin, William",,1582.0,False,ENG,0.0,1,-0.34,40,-13.6
+33468052,2025-03-01,0,London Chess League FIDE Weekender Feb 2025 - Major,London ENG,2025-02-14,2025-02-16,1696,1468,0.0,2,-0.46,40,-18.4,"Stewart, Matthew",,1809.0,False,AUS,0.0,1,-0.12,40,-4.8
+33468052,2025-03-01,0,Southall FIDE Congress February 2025 - U1900,Southall ENG,2025-02-22,2025-02-23,1664,1468,0.5,3,-0.24,40,-9.6,"Croasdale, Mark",,1687.0,False,ENG,0.5,1,0.28,40,11.2
+33468052,2025-03-01,0,Southall FIDE Congress February 2025 - U1900,Southall ENG,2025-02-22,2025-02-23,1664,1468,0.5,3,-0.24,40,-9.6,"Pepe, Salvatore",,1662.0,False,ENG,0.0,1,-0.25,40,-10.0
+33468052,2025-03-01,0,Southall FIDE Congress February 2025 - U1900,Southall ENG,2025-02-22,2025-02-23,1664,1468,0.5,3,-0.24,40,-9.6,"Zhang, Yichen",,1642.0,False,ENG,0.0,1,-0.27,40,-10.8

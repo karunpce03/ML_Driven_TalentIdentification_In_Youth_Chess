@@ -1,0 +1,23 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33429804,2024-06-01,0,"3rd Kashmir International Open FIDE Rating Chess Tournament, Srinagar 2024",Srinagar IND,2024-05-04,2024-05-09,,,1.0,6,0.0,1247,,"Ardhendu, Sekhar Mandal",,1646.0,False,IND,0.0,1,0.0,,0.0
+33429804,2024-06-01,0,"3rd Kashmir International Open FIDE Rating Chess Tournament, Srinagar 2024",Srinagar IND,2024-05-04,2024-05-09,,,1.0,6,0.0,1247,,"Nargis, Kaumudi",,1530.0,False,BAN,1.0,1,0.0,,0.0
+33429804,2024-06-01,0,"3rd Kashmir International Open FIDE Rating Chess Tournament, Srinagar 2024",Srinagar IND,2024-05-04,2024-05-09,,,1.0,6,0.0,1247,,"Rao, Pn",,1563.0,False,IND,0.0,1,0.0,,0.0
+33429804,2024-06-01,0,"3rd Kashmir International Open FIDE Rating Chess Tournament, Srinagar 2024",Srinagar IND,2024-05-04,2024-05-09,,,1.0,6,0.0,1247,,"Ansh, Kabra",,1507.0,False,IND,0.0,1,0.0,,0.0
+33429804,2024-06-01,0,"3rd Kashmir International Open FIDE Rating Chess Tournament, Srinagar 2024",Srinagar IND,2024-05-04,2024-05-09,,,1.0,6,0.0,1247,,"Ashiya, Sultana",,1461.0,False,BAN,0.0,1,0.0,,0.0
+33429804,2024-06-01,0,"3rd Kashmir International Open FIDE Rating Chess Tournament, Srinagar 2024",Srinagar IND,2024-05-04,2024-05-09,,,1.0,6,0.0,1247,,"Sukant, Mohindra",,1411.0,False,IND,0.0,1,0.0,,0.0
+33429804,2024-08-01,0,Sushama &amp; Dormak All India Open FIDE Rating Chess Tournament 2024,Chandigarh IND,2024-06-28,2024-07-02,1569.0,1402.0,0.0,2,-0.56,40,-22.4,"Bipin, Dhingra",,1603.0,False,IND,0.0,1,-0.24,40.0,-9.6
+33429804,2024-08-01,0,Sushama &amp; Dormak All India Open FIDE Rating Chess Tournament 2024,Chandigarh IND,2024-06-28,2024-07-02,1569.0,1402.0,0.0,2,-0.56,40,-22.4,"Prem, Singh Bhati",,1534.0,False,IND,0.0,1,-0.32,40.0,-12.8
+33429804,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,9,0.0,1368,,"Megh, Parmar",,1557.0,False,IND,0.0,1,0.0,,0.0
+33429804,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,9,0.0,1368,,"Ishan, Arnav A B",,1452.0,False,IND,0.5,1,0.0,,0.0
+33429804,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,9,0.0,1368,,"Sri, Saketh Ram Korumilli",,1477.0,False,IND,0.5,1,0.0,,0.0
+33429804,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,9,0.0,1368,,"Virat, J S",,1458.0,False,IND,0.0,1,0.0,,0.0
+33429804,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,9,0.0,1368,,"Soham, Mittal",,1446.0,False,IND,0.5,1,0.0,,0.0
+33429804,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,9,0.0,1368,,"Lalith, Srihaas Mendi",,1525.0,False,IND,1.0,1,0.0,,0.0
+33429804,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,9,0.0,1368,,"Veer, Kumar",,1528.0,False,IND,0.5,1,0.0,,0.0
+33429804,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,9,0.0,1368,,"Krish, Bansal",,1522.0,False,IND,0.0,1,0.0,,0.0
+33429804,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,9,0.0,1368,,"Avish, Vishal Shinde",,1475.0,False,IND,0.0,1,0.0,,0.0
+33429804,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1561.0,1447.0,0.0,3,-1.03,40,-41.2,"Namish, Khanna",,1593.0,False,IND,0.0,1,-0.3,40.0,-12.0
+33429804,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1561.0,1447.0,0.0,3,-1.03,40,-41.2,"Mehatva, Mansukhani",,1560.0,False,IND,0.0,1,-0.35,40.0,-14.0
+33429804,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1561.0,1447.0,0.0,3,-1.03,40,-41.2,"Dhruvansh, Sethi",,1531.0,False,IND,0.0,1,-0.38,40.0,-15.2
+33429804,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1562.0,1447.0,0.0,2,-0.68,40,-27.2,"Satendra, Jain",,1563.0,False,IND,0.0,1,-0.34,40.0,-13.6
+33429804,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1562.0,1447.0,0.0,2,-0.68,40,-27.2,"Aayush, Sharma",,1561.0,False,IND,0.0,1,-0.34,40.0,-13.6

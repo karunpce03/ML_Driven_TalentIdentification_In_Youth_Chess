@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45077487,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1672,1733,4.0,6,0.47,40,18.8,"Malavika, Priyesh",,1452.0,False,IND,1.0,1,0.16,40,6.4
+45077487,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1672,1733,4.0,6,0.47,40,18.8,"Hakemi, Arman",m,2133.0,True,IRI,0.0,1,-0.08,40,-3.2
+45077487,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1672,1733,4.0,6,0.47,40,18.8,"Al Bulushi, Ali",,1522.0,False,OMA,1.0,1,0.23,40,9.2
+45077487,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1672,1733,4.0,6,0.47,40,18.8,"Harshavardhan, V",,1483.0,False,IND,1.0,1,0.19,40,7.6
+45077487,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1672,1733,4.0,6,0.47,40,18.8,"Al Busaidi, Hamood",c,1890.0,False,OMA,0.0,1,-0.29,40,-11.6
+45077487,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1672,1733,4.0,6,0.47,40,18.8,"Hudhaifa, Maqbool",,1550.0,False,IND,1.0,1,0.26,40,10.4
+45077487,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,1564,1733,1.5,4,-1.35,40,-54.0,"Vikrant, Suganthan",,1491.0,False,IND,0.5,1,-0.3,40,-12.0
+45077487,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,1564,1733,1.5,4,-1.35,40,-54.0,"Kalia, Rahul",,1577.0,False,IND,1.0,1,0.29,40,11.6
+45077487,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,1564,1733,1.5,4,-1.35,40,-54.0,"Akhil, Vijayakumar",,1719.0,False,IND,0.0,1,-0.52,40,-20.8
+45077487,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,1564,1733,1.5,4,-1.35,40,-54.0,"Deshmukh, Omm",,1470.0,False,IND,0.0,1,-0.82,40,-32.8

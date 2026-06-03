@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25732781,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1619,1471,0.5,3,-0.47,40,-18.8,"Nivedita, V C",,1745.0,False,IND,0.0,1,-0.17,40,-6.8
+25732781,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1619,1471,0.5,3,-0.47,40,-18.8,"Rajasurya, J.",wf,1706.0,False,IND,0.0,1,-0.21,40,-8.4
+25732781,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1619,1471,0.5,3,-0.47,40,-18.8,"Shri, Nevetha G",,1406.0,False,IND,0.5,1,-0.09,40,-3.6
+25732781,2024-06-01,0,36th Tamil Nadu State Under-13 Girls Fide Rated Chess Championship-2024,Kumbakonam IND,2024-05-08,2024-05-12,1409,1452,1.0,1,0.44,40,17.6,"Dheekshika, G",,1409.0,False,IND,1.0,1,0.44,40,17.6
+25732781,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1600,1452,0.5,4,-0.72,40,-28.8,"Kaushika, Sridharan",,1612.0,False,IND,0.0,1,-0.29,40,-11.6
+25732781,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1600,1452,0.5,4,-0.72,40,-28.8,"Kavyasree, S",,1614.0,False,IND,0.0,1,-0.29,40,-11.6
+25732781,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1600,1452,0.5,4,-0.72,40,-28.8,"Anusha, Chakravarthy",,1563.0,False,IND,0.5,1,0.15,40,6.0
+25732781,2024-06-01,0,Tamil Nadu State Under-15 Girls Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1600,1452,0.5,4,-0.72,40,-28.8,"Saganapriya, V",,1611.0,False,IND,0.0,1,-0.29,40,-11.6
+25732781,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,1621,1441,0.0,2,-0.54,40,-21.6,"Amudha, Mitha U",,1690.0,False,IND,0.0,1,-0.19,40,-7.6
+25732781,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,1621,1441,0.0,2,-0.54,40,-21.6,"Isha, R",,1551.0,False,IND,0.0,1,-0.35,40,-14.0

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25951459,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1836,1915,5.5,9,0.03,40,1.2,"Aritra, Chanda",,1729.0,False,IND,1.0,1,0.26,40,10.4
+25951459,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1836,1915,5.5,9,0.03,40,1.2,"Sanjay, Ganesh Pandi",,1780.0,False,IND,1.0,1,0.32,40,12.8
+25951459,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1836,1915,5.5,9,0.03,40,1.2,"Vidit, Sethi",,1831.0,False,IND,0.0,1,-0.62,40,-24.8
+25951459,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1836,1915,5.5,9,0.03,40,1.2,"Manav, Kumar",,1777.0,False,IND,1.0,1,0.31,40,12.4
+25951459,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1836,1915,5.5,9,0.03,40,1.2,"Pazhany, Kaushal Kohli",,1677.0,False,IND,1.0,1,0.2,40,8.0
+25951459,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1836,1915,5.5,9,0.03,40,1.2,"Anadkat, Kartavya",,2176.0,False,IND,0.0,1,-0.18,40,-7.2
+25951459,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1836,1915,5.5,9,0.03,40,1.2,"Reyan, Md.",c,2006.0,False,IND,0.0,1,-0.38,40,-15.2
+25951459,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1836,1915,5.5,9,0.03,40,1.2,"Mani, Sarbartho",,1791.0,False,IND,1.0,1,0.33,40,13.2
+25951459,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1836,1915,5.5,9,0.03,40,1.2,"Aabhas, Kumar Srivastava",,1757.0,False,IND,0.5,1,-0.21,40,-8.4

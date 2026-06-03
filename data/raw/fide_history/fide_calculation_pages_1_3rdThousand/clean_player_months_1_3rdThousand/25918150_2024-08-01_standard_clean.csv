@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25918150,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1710,1542,2.0,5,0.57,40,22.8,"Abhirup, Saikia",,1718.0,False,IND,0.0,1,-0.27,40,-10.8
+25918150,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1710,1542,2.0,5,0.57,40,22.8,"Bikram, Chetry",,1677.0,False,IND,1.0,1,0.68,40,27.2
+25918150,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1710,1542,2.0,5,0.57,40,22.8,"Cheniram, Pegu",,1841.0,False,IND,0.0,1,-0.15,40,-6.0
+25918150,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1710,1542,2.0,5,0.57,40,22.8,"Montu, Hatimuria",,1678.0,False,IND,0.5,1,0.18,40,7.2
+25918150,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1710,1542,2.0,5,0.57,40,22.8,"Anuj, Boro",,1634.0,False,IND,0.5,1,0.13,40,5.2

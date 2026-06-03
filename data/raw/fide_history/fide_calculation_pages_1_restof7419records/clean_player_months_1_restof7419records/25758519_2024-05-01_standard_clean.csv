@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25758519,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1521,1518,3.0,6,-0.01,40,-0.4,"Divesh, G",,1624.0,False,IND,0.0,1,-0.36,40,-14.4
+25758519,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1521,1518,3.0,6,-0.01,40,-0.4,"Nivedh, Srambikkal",,1417.0,False,IND,0.5,1,-0.14,40,-5.6
+25758519,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1521,1518,3.0,6,-0.01,40,-0.4,"Gautham, Vadivelan",,1429.0,False,IND,1.0,1,0.38,40,15.2
+25758519,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1521,1518,3.0,6,-0.01,40,-0.4,"Chinnadurai, T.",,1779.0,False,IND,0.0,1,-0.18,40,-7.2
+25758519,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1521,1518,3.0,6,-0.01,40,-0.4,"Aarush, Y M",,1427.0,False,IND,0.5,1,-0.12,40,-4.8
+25758519,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1521,1518,3.0,6,-0.01,40,-0.4,"Hariswar, C",,1450.0,False,IND,1.0,1,0.41,40,16.4

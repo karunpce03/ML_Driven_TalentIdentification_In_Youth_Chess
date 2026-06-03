@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33313695,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1646,1418,1.5,6,0.17,40,6.8,"Majumder, Shrayan",,1818,True,IND,0.0,1,-0.08,40,-3.2
+33313695,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1646,1418,1.5,6,0.17,40,6.8,"Hiranya, Das",,1627,False,IND,0.0,1,-0.23,40,-9.2
+33313695,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1646,1418,1.5,6,0.17,40,6.8,"Mridumoloy, Das",,1648,False,IND,0.5,1,0.29,40,11.6
+33313695,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1646,1418,1.5,6,0.17,40,6.8,"Bhargab, Debnath",,1608,False,IND,0.0,1,-0.25,40,-10.0
+33313695,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1646,1418,1.5,6,0.17,40,6.8,"Parashar, Kashyap",,1543,False,IND,1.0,1,0.67,40,26.8
+33313695,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1646,1418,1.5,6,0.17,40,6.8,"Debopriyo, Dutta",,1632,False,IND,0.0,1,-0.23,40,-9.2

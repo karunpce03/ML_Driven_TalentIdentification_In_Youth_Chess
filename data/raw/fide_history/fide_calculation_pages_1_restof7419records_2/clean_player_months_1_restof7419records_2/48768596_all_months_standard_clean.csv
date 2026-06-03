@@ -1,0 +1,28 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48768596,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1542,1518,2.0,6,-0.83,40,-33.2,"Arushi, Severin Helen D Silva",,1695.0,False,IND,0.0,1,-0.27,40,-10.8
+48768596,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1542,1518,2.0,6,-0.83,40,-33.2,"Sivadath, S G",,1636.0,False,IND,0.0,1,-0.34,40,-13.6
+48768596,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1542,1518,2.0,6,-0.83,40,-33.2,"Sayooj, S",,1619.0,False,IND,0.0,1,-0.36,40,-14.4
+48768596,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1542,1518,2.0,6,-0.83,40,-33.2,"Mayoogh, A N",,1419.0,False,IND,0.5,1,-0.14,40,-5.6
+48768596,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1542,1518,2.0,6,-0.83,40,-33.2,"Neellesh, Manub",,1434.0,False,IND,0.5,1,-0.12,40,-4.8
+48768596,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1542,1518,2.0,6,-0.83,40,-33.2,"Khishore, Riddhish V",,1449.0,False,IND,1.0,1,0.4,40,16.0
+48768596,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1595,1490,1.0,5,-0.82,40,-32.8,"Bhuvanesh, G",,1695.0,False,IND,0.0,1,-0.24,40,-9.6
+48768596,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1595,1490,1.0,5,-0.82,40,-32.8,"Aditi, Arun",,1603.0,False,IND,0.0,1,-0.35,40,-14.0
+48768596,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1595,1490,1.0,5,-0.82,40,-32.8,"Yeshas, H",,1680.0,False,IND,0.0,1,-0.25,40,-10.0
+48768596,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1595,1490,1.0,5,-0.82,40,-32.8,"Hridya, Rakesh",,1410.0,False,IND,1.0,1,0.39,40,15.6
+48768596,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1595,1490,1.0,5,-0.82,40,-32.8,"Daniel, Ajish",,1585.0,False,IND,0.0,1,-0.37,40,-14.8
+48768596,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,1707,1424,1.5,3,0.98,40,39.2,"Chua, Kuang Weng Aaron",,1824.0,True,MAS,0.0,1,-0.08,40,-3.2
+48768596,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,1707,1424,1.5,3,0.98,40,39.2,"Javier, Jasper",,1649.0,False,PHI,0.5,1,0.28,40,11.2
+48768596,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,1707,1424,1.5,3,0.98,40,39.2,"Mithran, Krishnakumar",,1647.0,False,IND,1.0,1,0.78,40,31.2
+48768596,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1787,1463,1.5,7,0.56,40,22.4,"Adewole, Adeyinka Samuel",,1863.0,True,NGR,0.0,1,-0.08,40,-3.2
+48768596,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1787,1463,1.5,7,0.56,40,22.4,"Al Mamari, Ali Abdullah",,1789.0,False,OMA,0.5,1,0.37,40,14.8
+48768596,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1787,1463,1.5,7,0.56,40,22.4,"Xikmatkhonova, Mokhinur",,1752.0,False,UZB,0.0,1,-0.16,40,-6.4
+48768596,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1787,1463,1.5,7,0.56,40,22.4,"Hamdouchi, Adam",,1763.0,False,MAR,0.0,1,-0.15,40,-6.0
+48768596,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1787,1463,1.5,7,0.56,40,22.4,"Sabirova, Shakhnoza",,1863.0,True,UZB,0.0,1,-0.08,40,-3.2
+48768596,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1787,1463,1.5,7,0.56,40,22.4,"Alotaibi, Maitha Abdulrahman A",,1777.0,False,KSA,1.0,1,0.86,40,34.4
+48768596,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1787,1463,1.5,7,0.56,40,22.4,"Johan, Jobsy",,1702.0,False,IND,0.0,1,-0.2,40,-8.0
+48768596,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1743,1485,2.0,6,0.85,40,34.0,"Balanandan, Ayyappan",,1885.0,True,IND,0.0,1,-0.08,40,-3.2
+48768596,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1743,1485,2.0,6,0.85,40,34.0,"Chogle, Sahil Prashant",,1733.0,False,IND,0.0,1,-0.19,40,-7.6
+48768596,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1743,1485,2.0,6,0.85,40,34.0,"Yeganeh Fard, Mohammad",,1757.0,False,IRI,1.0,1,0.83,40,33.2
+48768596,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1743,1485,2.0,6,0.85,40,34.0,"Hamdouchi, Adam",,1735.0,False,MAR,0.0,1,-0.19,40,-7.6
+48768596,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1743,1485,2.0,6,0.85,40,34.0,"Ainikkal, Shaheen",,1584.0,False,IND,1.0,1,0.64,40,25.6
+48768596,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1743,1485,2.0,6,0.85,40,34.0,"Al-Kuwari, Hamad",c,1766.0,False,QAT,0.0,1,-0.16,40,-6.4

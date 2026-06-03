@@ -1,0 +1,54 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33383197,2024-06-01,0,29th Space Coast Open - Class A,"Melbourne, FL USA",2024-05-03,2024-05-05,1781,1597,1.0,3,0.12,40,4.8,"Mason, Mike",,1997.0,True,USA,0.0,1,-0.08,40,-3.2
+33383197,2024-06-01,0,29th Space Coast Open - Class A,"Melbourne, FL USA",2024-05-03,2024-05-05,1781,1597,1.0,3,0.12,40,4.8,"Yang, Grace",,1733.0,False,USA,1.0,1,0.68,40,27.2
+33383197,2024-06-01,0,29th Space Coast Open - Class A,"Melbourne, FL USA",2024-05-03,2024-05-05,1781,1597,1.0,3,0.12,40,4.8,"Vudutala, Saketh",,1614.0,False,USA,0.0,1,-0.48,40,-19.2
+33383197,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1778,1597,3.0,8,0.84,40,33.6,"Srinivasan, Arjun",,1777.0,False,USA,0.0,1,-0.26,40,-10.4
+33383197,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1778,1597,3.0,8,0.84,40,33.6,"Jackson, Cayden",,1759.0,False,USA,0.0,1,-0.29,40,-11.6
+33383197,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1778,1597,3.0,8,0.84,40,33.6,"Pinero Garcia, Miguel A",,1836.0,False,PUR,1.0,1,0.8,40,32.0
+33383197,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1778,1597,3.0,8,0.84,40,33.6,"Sridhar, Jagadeeshwar Yehamandra",,1799.0,False,USA,0.0,1,-0.24,40,-9.6
+33383197,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1778,1597,3.0,8,0.84,40,33.6,"Yu, Yang",,1783.0,False,USA,0.5,1,0.24,40,9.6
+33383197,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1778,1597,3.0,8,0.84,40,33.6,"Roszkowiak, Robert",,1677.0,False,USA,1.0,1,0.61,40,24.4
+33383197,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1778,1597,3.0,8,0.84,40,33.6,"Zhu, Ryan",,1915.0,False,USA,0.0,1,-0.13,40,-5.2
+33383197,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1778,1597,3.0,8,0.84,40,33.6,"Baim, Emin",,1677.0,False,USA,0.5,1,0.11,40,4.4
+33383197,2024-10-01,0,Karnataka State Under 11 Open FIDE Rated Chess Championship 2024,Belgavi IND,2024-08-30,2024-09-01,1535,1635,4.0,5,0.84,40,33.6,"Harshith, Ram B",,1424.0,False,IND,1.0,1,0.23,40,9.2
+33383197,2024-10-01,0,Karnataka State Under 11 Open FIDE Rated Chess Championship 2024,Belgavi IND,2024-08-30,2024-09-01,1535,1635,4.0,5,0.84,40,33.6,"Aasapu, Mohith Praneel",,1472.0,False,IND,0.5,1,-0.22,40,-8.8
+33383197,2024-10-01,0,Karnataka State Under 11 Open FIDE Rated Chess Championship 2024,Belgavi IND,2024-08-30,2024-09-01,1535,1635,4.0,5,0.84,40,33.6,"Avneesh, Devadiga",,1538.0,False,IND,1.0,1,0.37,40,14.8
+33383197,2024-10-01,0,Karnataka State Under 11 Open FIDE Rated Chess Championship 2024,Belgavi IND,2024-08-30,2024-09-01,1535,1635,4.0,5,0.84,40,33.6,"Indrajit, Majumdar",,1688.0,False,IND,0.5,1,0.07,40,2.8
+33383197,2024-10-01,0,Karnataka State Under 11 Open FIDE Rated Chess Championship 2024,Belgavi IND,2024-08-30,2024-09-01,1535,1635,4.0,5,0.84,40,33.6,"Tushar, Agarwalla",,1554.0,False,IND,1.0,1,0.39,40,15.6
+33383197,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1669,5.5,10,-0.55,40,-22.0,"Kinshuk, Vetcha",,1407.0,False,IND,0.5,1,-0.32,40,-12.8
+33383197,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1669,5.5,10,-0.55,40,-22.0,"Bhavya, Bhavik Modi",,1490.0,False,IND,1.0,1,0.27,40,10.8
+33383197,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1669,5.5,10,-0.55,40,-22.0,"Nijesh, R",,1849.0,False,IND,0.5,1,0.24,40,9.6
+33383197,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1669,5.5,10,-0.55,40,-22.0,"Soumyadeep, Nath",,1491.0,False,IND,1.0,1,0.27,40,10.8
+33383197,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1669,5.5,10,-0.55,40,-22.0,"Balanandan, Ayyappan",,1823.0,False,IND,0.0,1,-0.29,40,-11.6
+33383197,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1669,5.5,10,-0.55,40,-22.0,"Pranavaaditya, Ginjupally",,1473.0,False,IND,1.0,1,0.25,40,10.0
+33383197,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1669,5.5,10,-0.55,40,-22.0,"Ankit, Das",,1798.0,False,IND,0.0,1,-0.33,40,-13.2
+33383197,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1669,5.5,10,-0.55,40,-22.0,"Vibhor, Chopra",,1544.0,False,IND,0.0,1,-0.67,40,-26.8
+33383197,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1669,5.5,10,-0.55,40,-22.0,"Rhishav, Mondal",,1484.0,False,IND,1.0,1,0.26,40,10.4
+33383197,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1585,1669,5.5,10,-0.55,40,-22.0,"Sabarinath, Vinodh",,1495.0,False,IND,0.5,1,-0.23,40,-9.2
+33383197,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1670,1647,5.0,8,1.21,40,48.4,"Shamith, Shetty",,1446.0,False,IND,0.5,1,-0.26,40,-10.4
+33383197,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1670,1647,5.0,8,1.21,40,48.4,"Krutika, Aggarwal",,1458.0,False,IND,1.0,1,0.25,40,10.0
+33383197,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1670,1647,5.0,8,1.21,40,48.4,"Divi, Bijesh",,1905.0,False,IND,0.5,1,0.32,40,12.8
+33383197,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1670,1647,5.0,8,1.21,40,48.4,"Samarth, Ranjan Sahu",,1485.0,False,IND,1.0,1,0.29,40,11.6
+33383197,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1670,1647,5.0,8,1.21,40,48.4,"Gavi, Siddayya",,1874.0,False,IND,0.0,1,-0.21,40,-8.4
+33383197,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1670,1647,5.0,8,1.21,40,48.4,"Kulai, Siddhant Bhandary",,1495.0,False,IND,1.0,1,0.3,40,12.0
+33383197,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1670,1647,5.0,8,1.21,40,48.4,"Revlin, Ram R H",,1839.0,False,IND,1.0,1,0.75,40,30.0
+33383197,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1670,1647,5.0,8,1.21,40,48.4,Krishna,,1857.0,False,IND,0.0,1,-0.23,40,-9.2
+33383197,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1695,4.5,10,1.38,40,55.2,"Mamombe, Kudzanai",m,1796.0,False,ZIM,1.0,1,0.64,40,25.6
+33383197,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1695,4.5,10,1.38,40,55.2,"Darsh, Shetty",,1805.0,False,IND,0.5,1,0.15,40,6.0
+33383197,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1695,4.5,10,1.38,40,55.2,"Nayak, Sajan Kumar",,1819.0,False,IND,0.5,1,0.17,40,6.8
+33383197,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1695,4.5,10,1.38,40,55.2,"Hari, Vardan Satheeskumar",,1823.0,False,IND,0.0,1,-0.33,40,-13.2
+33383197,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1695,4.5,10,1.38,40,55.2,"Pournami, S",,1818.0,False,IND,1.0,1,0.67,40,26.8
+33383197,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1695,4.5,10,1.38,40,55.2,"Fominyh, Alexander",g,2095.0,True,RUS,0.5,1,0.42,40,16.8
+33383197,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1695,4.5,10,1.38,40,55.2,"Chanda, Ujan",,1876.0,False,IND,0.0,1,-0.26,40,-10.4
+33383197,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1695,4.5,10,1.38,40,55.2,"Arghya, Sen",,1801.0,False,IND,0.0,1,-0.36,40,-14.4
+33383197,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1695,4.5,10,1.38,40,55.2,"Gada, Om",,1837.0,False,IND,0.0,1,-0.31,40,-12.4
+33383197,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1843,1695,4.5,10,1.38,40,55.2,"C, R Ritvik",,1762.0,False,IND,1.0,1,0.59,40,23.6
+33383197,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1792,1695,5.0,9,1.52,40,60.8,"Bhaumik, Kishore Das",,1480.0,False,IND,1.0,1,0.23,40,9.2
+33383197,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1792,1695,5.0,9,1.52,40,60.8,"Singh, Y. Dhanabir",,2023.0,False,IND,1.0,1,0.87,40,34.8
+33383197,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1792,1695,5.0,9,1.52,40,60.8,"Rajdip, Das",,1855.0,False,IND,1.0,1,0.71,40,28.4
+33383197,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1792,1695,5.0,9,1.52,40,60.8,"Y,p, Srivastava",,1950.0,False,IND,1.0,1,0.81,40,32.4
+33383197,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1792,1695,5.0,9,1.52,40,60.8,"Gurung, Rahul",,1972.0,False,IND,0.0,1,-0.17,40,-6.8
+33383197,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1792,1695,5.0,9,1.52,40,60.8,"Konjengbam, Poireikhomba Meetei",,1870.0,False,IND,0.0,1,-0.27,40,-10.8
+33383197,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1792,1695,5.0,9,1.52,40,60.8,"Niladri, Shekhar Bhattacharya",,1857.0,False,IND,0.0,1,-0.29,40,-11.6
+33383197,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1792,1695,5.0,9,1.52,40,60.8,"Bhargab, Debnath",,1573.0,False,IND,0.5,1,-0.17,40,-6.8
+33383197,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1792,1695,5.0,9,1.52,40,60.8,"Arnob, Phukon",,1546.0,False,IND,0.5,1,-0.2,40,-8.0

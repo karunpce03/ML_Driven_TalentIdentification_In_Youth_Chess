@@ -1,0 +1,27 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25998676,2024-06-01,0,14th Karen Asrian Memorial,Yerevan ARM,2024-04-23,2024-05-02,1956,2170,5.0,8,-0.97,26,-25.22,"Serobyan, Genrik",,1916.0,False,RUS,0.0,1,-0.81,26,-21.06
+25998676,2024-06-01,0,14th Karen Asrian Memorial,Yerevan ARM,2024-04-23,2024-05-02,1956,2170,5.0,8,-0.97,26,-25.22,"Stepanyan, Alvard",,1770.0,True,ARM,1.0,1,0.08,26,2.08
+25998676,2024-06-01,0,14th Karen Asrian Memorial,Yerevan ARM,2024-04-23,2024-05-02,1956,2170,5.0,8,-0.97,26,-25.22,"Khachatryan, Gagik B.",,1870.0,False,ARM,1.0,1,0.15,26,3.9
+25998676,2024-06-01,0,14th Karen Asrian Memorial,Yerevan ARM,2024-04-23,2024-05-02,1956,2170,5.0,8,-0.97,26,-25.22,"Gabadadze, Gabriel",,2018.0,False,GEO,1.0,1,0.3,26,7.8
+25998676,2024-06-01,0,14th Karen Asrian Memorial,Yerevan ARM,2024-04-23,2024-05-02,1956,2170,5.0,8,-0.97,26,-25.22,"Pogosyan, Stefan",m,2388.0,False,ARM,0.0,1,-0.22,26,-5.72
+25998676,2024-06-01,0,14th Karen Asrian Memorial,Yerevan ARM,2024-04-23,2024-05-02,1956,2170,5.0,8,-0.97,26,-25.22,"Gyurjinyan, Valter",,1872.0,False,ARM,0.0,1,-0.85,26,-22.1
+25998676,2024-06-01,0,14th Karen Asrian Memorial,Yerevan ARM,2024-04-23,2024-05-02,1956,2170,5.0,8,-0.97,26,-25.22,"Kudryashev, Edgar",,1831.0,False,ARM,1.0,1,0.12,26,3.12
+25998676,2024-06-01,0,14th Karen Asrian Memorial,Yerevan ARM,2024-04-23,2024-05-02,1956,2170,5.0,8,-0.97,26,-25.22,"Abrahamyan, Radik",,1985.0,False,ARM,1.0,1,0.26,26,6.76
+25998676,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1975,2174,6.5,9,-0.27,26,-7.02,"Rakshan, Magotra",,1858.0,False,IND,1.0,1,0.13,26,3.38
+25998676,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1975,2174,6.5,9,-0.27,26,-7.02,"Sasikumar, Anusweud",,1925.0,False,IND,0.5,1,-0.31,26,-8.06
+25998676,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1975,2174,6.5,9,-0.27,26,-7.02,"Arnab, Jena",,1925.0,False,IND,1.0,1,0.19,26,4.94
+25998676,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1975,2174,6.5,9,-0.27,26,-7.02,"Fakhriddinxujaev, Umarxon",,2004.0,False,UZB,1.0,1,0.28,26,7.28
+25998676,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1975,2174,6.5,9,-0.27,26,-7.02,"Halynyazov, Vepaly",,2052.0,False,TKM,0.0,1,-0.67,26,-17.42
+25998676,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1975,2174,6.5,9,-0.27,26,-7.02,"Rouda Essa, Alserkal",wc,1979.0,False,UAE,1.0,1,0.25,26,6.5
+25998676,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1975,2174,6.5,9,-0.27,26,-7.02,"Arellano, Bryle",,2023.0,False,PHI,1.0,1,0.3,26,7.8
+25998676,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1975,2174,6.5,9,-0.27,26,-7.02,"Arakelyan, Manvel",,2033.0,False,ARM,0.0,1,-0.69,26,-17.94
+25998676,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1975,2174,6.5,9,-0.27,26,-7.02,"Ahmed, Fareed",f,1978.0,False,UAE,1.0,1,0.25,26,6.5
+25998676,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2247,2174,4.5,9,0.83,26,21.58,"Rios Gomez, Cristhian Camilo",g,2466.0,False,COL,0.5,1,0.35,26,9.1
+25998676,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2247,2174,4.5,9,0.83,26,21.58,"Wang, Yanbin",,2415.0,False,CHN,0.5,1,0.3,26,7.8
+25998676,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2247,2174,4.5,9,0.83,26,21.58,"Harsh, Suresh",f,2414.0,False,IND,0.0,1,-0.2,26,-5.2
+25998676,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2247,2174,4.5,9,0.83,26,21.58,"Huseynova, Lala",,1967.0,False,AZE,1.0,1,0.23,26,5.98
+25998676,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2247,2174,4.5,9,0.83,26,21.58,"Grivas, Efstratios",g,2396.0,False,GRE,0.5,1,0.28,26,7.28
+25998676,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2247,2174,4.5,9,0.83,26,21.58,"Abuazizah, Raji",,1896.0,False,PLE,0.5,1,-0.33,26,-8.58
+25998676,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2247,2174,4.5,9,0.83,26,21.58,"Ahmad, Al Khatib",g,2380.0,False,JOR,1.0,1,0.76,26,19.76
+25998676,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2247,2174,4.5,9,0.83,26,21.58,"Anwesh, Upadhyaya",m,2345.0,False,IND,0.0,1,-0.27,26,-7.02
+25998676,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2247,2174,4.5,9,0.83,26,21.58,"Ahmad, Al Romaithi",,1944.0,False,UAE,0.5,1,-0.29,26,-7.54

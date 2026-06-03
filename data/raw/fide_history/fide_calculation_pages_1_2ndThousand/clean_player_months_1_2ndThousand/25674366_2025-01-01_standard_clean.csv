@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25674366,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1663,1677,5.0,7,1.4,40,56.0,"Krishnan, Kundan",,1457.0,False,IND,1.0,1,0.22,40,8.8
+25674366,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1663,1677,5.0,7,1.4,40,56.0,"Piyush, Kumar",,1835.0,False,IND,0.5,1,0.21,40,8.4
+25674366,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1663,1677,5.0,7,1.4,40,56.0,"Sharma, Vivek",,1872.0,False,IND,0.0,1,-0.25,40,-10.0
+25674366,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1663,1677,5.0,7,1.4,40,56.0,"Aditya, Kumar Jha",,1427.0,False,IND,1.0,1,0.19,40,7.6
+25674366,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1663,1677,5.0,7,1.4,40,56.0,"Avyay, Sharma",,1525.0,False,IND,1.0,1,0.3,40,12.0
+25674366,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1663,1677,5.0,7,1.4,40,56.0,"Shivam, Verma",,1779.0,False,IND,1.0,1,0.64,40,25.6
+25674366,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1663,1677,5.0,7,1.4,40,56.0,"Sudhakar, Prem Dutt",,1744.0,False,IND,0.5,1,0.09,40,3.6

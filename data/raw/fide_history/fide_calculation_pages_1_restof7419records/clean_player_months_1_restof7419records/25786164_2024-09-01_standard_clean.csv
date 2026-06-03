@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25786164,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1509,1636,5.5,7,0.82,40,32.8,"Kalgaonkar, S",,1467.0,False,IND,1.0,1,0.28,40,11.2
+25786164,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1509,1636,5.5,7,0.82,40,32.8,"Ishwar, Ramteke",,1505.0,False,IND,0.5,1,-0.18,40,-7.2
+25786164,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1509,1636,5.5,7,0.82,40,32.8,"Pasari, Dhaksh",,1495.0,False,IND,1.0,1,0.31,40,12.4
+25786164,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1509,1636,5.5,7,0.82,40,32.8,"Aarav, Laddha",,1702.0,False,IND,0.0,1,-0.41,40,-16.4
+25786164,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1509,1636,5.5,7,0.82,40,32.8,"Tanish, Amol Khanna",,1433.0,False,IND,1.0,1,0.24,40,9.6
+25786164,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1509,1636,5.5,7,0.82,40,32.8,"Agrawal, Ritwik",,1472.0,False,IND,1.0,1,0.28,40,11.2
+25786164,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1509,1636,5.5,7,0.82,40,32.8,"Ansh, Kabra",,1489.0,False,IND,1.0,1,0.3,40,12.0

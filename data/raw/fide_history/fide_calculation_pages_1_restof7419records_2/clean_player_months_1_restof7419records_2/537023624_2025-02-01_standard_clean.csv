@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+537023624,2025-02-01,0,Below Category 1800 Chess For World Peace International Rating Chess Tournament,Noida IND,2025-01-04,2025-01-07,1534,1549,0.0,3,-1.58,40,-63.2,"Krishna, Kumar",,1734.0,False,IND,0.0,1,-0.26,40,-10.4
+537023624,2025-02-01,0,Below Category 1800 Chess For World Peace International Rating Chess Tournament,Noida IND,2025-01-04,2025-01-07,1534,1549,0.0,3,-1.58,40,-63.2,"Vihaan, Bisht",,1433.0,False,IND,0.0,1,-0.66,40,-26.4
+537023624,2025-02-01,0,Below Category 1800 Chess For World Peace International Rating Chess Tournament,Noida IND,2025-01-04,2025-01-07,1534,1549,0.0,3,-1.58,40,-63.2,"Purushrut, Sharma",,1434.0,False,IND,0.0,1,-0.66,40,-26.4

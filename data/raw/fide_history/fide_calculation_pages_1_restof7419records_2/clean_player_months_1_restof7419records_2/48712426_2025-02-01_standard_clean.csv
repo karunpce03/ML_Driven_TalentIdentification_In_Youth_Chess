@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48712426,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1504,1526,2.0,5,-0.67,40,-26.8,"Rajdeep, Manik",,1481.0,False,IND,1.0,1,0.44,40,17.6
+48712426,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1504,1526,2.0,5,-0.67,40,-26.8,"Rane, Viraj",,1729.0,False,IND,0.0,1,-0.24,40,-9.6
+48712426,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1504,1526,2.0,5,-0.67,40,-26.8,"Sara, Kagwad",,1410.0,False,IND,0.5,1,-0.16,40,-6.4
+48712426,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1504,1526,2.0,5,-0.67,40,-26.8,"Divyansh, Manohar Tallimani",,1479.0,False,IND,0.0,1,-0.57,40,-22.8
+48712426,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1504,1526,2.0,5,-0.67,40,-26.8,"Siddhant, Thabaj",,1422.0,False,IND,0.5,1,-0.14,40,-5.6
+48712426,2025-02-01,0,Late Shri Manohar Parrikar Goa Below 1700 Rating (Cat C) Chess Tournament - 2025,Taleigao IND,2025-01-15,2025-01-18,1509,1526,0.0,3,-1.57,40,-62.8,"Kumbhar, Kartik",,1663.0,False,IND,0.0,1,-0.32,40,-12.8
+48712426,2025-02-01,0,Late Shri Manohar Parrikar Goa Below 1700 Rating (Cat C) Chess Tournament - 2025,Taleigao IND,2025-01-15,2025-01-18,1509,1526,0.0,3,-1.57,40,-62.8,"Lad, Raghav Pradip",,1405.0,False,IND,0.0,1,-0.66,40,-26.4
+48712426,2025-02-01,0,Late Shri Manohar Parrikar Goa Below 1700 Rating (Cat C) Chess Tournament - 2025,Taleigao IND,2025-01-15,2025-01-18,1509,1526,0.0,3,-1.57,40,-62.8,"Soham, Deshmukh",,1459.0,False,IND,0.0,1,-0.59,40,-23.6

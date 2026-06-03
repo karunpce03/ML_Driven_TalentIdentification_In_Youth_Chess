@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88127559,2024-06-01,0,50th Tripura State Senior Open  Fide Rating  Chess  Selection Championship-2024,Agartala IND,2024-05-23,2024-05-26,1429.0,1470.0,0.0,4,-2.22,40,-88.8,"Swapnil, Dey",,1469.0,False,IND,0.0,1,-0.5,40.0,-20.0
+88127559,2024-06-01,0,50th Tripura State Senior Open  Fide Rating  Chess  Selection Championship-2024,Agartala IND,2024-05-23,2024-05-26,1429.0,1470.0,0.0,4,-2.22,40,-88.8,"Rudranil, Debnath",,1419.0,False,IND,0.0,1,-0.57,40.0,-22.8
+88127559,2024-06-01,0,50th Tripura State Senior Open  Fide Rating  Chess  Selection Championship-2024,Agartala IND,2024-05-23,2024-05-26,1429.0,1470.0,0.0,4,-2.22,40,-88.8,"Rodra, Majumder",,1425.0,False,IND,0.0,1,-0.56,40.0,-22.4
+88127559,2024-06-01,0,50th Tripura State Senior Open  Fide Rating  Chess  Selection Championship-2024,Agartala IND,2024-05-23,2024-05-26,1429.0,1470.0,0.0,4,-2.22,40,-88.8,"Angshuman, Debnath",,1402.0,False,IND,0.0,1,-0.59,40.0,-23.6
+88127559,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,,,2.5,5,0.0,1480,,"Datta, Magnus",,1515.0,False,IND,0.0,1,0.0,,0.0
+88127559,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,,,2.5,5,0.0,1480,,"Abhranil, De",,1428.0,False,IND,0.5,1,0.0,,0.0
+88127559,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,,,2.5,5,0.0,1480,,"Jitihto, Nyekha",,1408.0,False,IND,0.5,1,0.0,,0.0
+88127559,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,,,2.5,5,0.0,1480,,"Hari, Sadhan Banik",,1534.0,False,IND,1.0,1,0.0,,0.0
+88127559,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,,,2.5,5,0.0,1480,,"Mayukh, Sah",,1516.0,False,IND,0.5,1,0.0,,0.0
+88127559,2025-03-01,0,1st T-RERA International Open FIDE Rating Chess Tournament,Agartala IND,2025-01-30,2025-02-03,1797.0,1572.0,0.0,2,-0.45,40,-18.0,"Mohit, Kumar Soni",,1883.0,False,IND,0.0,1,-0.14,40.0,-5.6
+88127559,2025-03-01,0,1st T-RERA International Open FIDE Rating Chess Tournament,Agartala IND,2025-01-30,2025-02-03,1797.0,1572.0,0.0,2,-0.45,40,-18.0,"Somraj, Saha",,1711.0,False,IND,0.0,1,-0.31,40.0,-12.4

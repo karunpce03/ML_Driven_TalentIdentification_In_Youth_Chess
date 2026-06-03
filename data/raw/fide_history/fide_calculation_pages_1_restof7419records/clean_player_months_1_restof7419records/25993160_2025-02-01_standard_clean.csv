@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25993160,2025-02-01,0,The 2025 Cardinal Open - U2200,"Akron, OH USA",2025-01-24,2025-01-26,1847,1656,2.0,2,1.48,40,59.2,"Guzman, Carlos M",,1926.0,False,PUR,1.0,1,0.83,40,33.2
+25993160,2025-02-01,0,The 2025 Cardinal Open - U2200,"Akron, OH USA",2025-01-24,2025-01-26,1847,1656,2.0,2,1.48,40,59.2,"Samanta, Aayansh",,1768.0,False,USA,1.0,1,0.65,40,26.0

@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25187996,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1759,1676,4.5,9,0.94,38,35.72,"Madhav, Prasad Prabhu",,1492.0,False,IND,1.0,1,0.26,38,9.88
+25187996,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1759,1676,4.5,9,0.94,38,35.72,"Bezstrakhov, Dmitry",,1848.0,False,RUS,1.0,1,0.73,38,27.74
+25187996,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1759,1676,4.5,9,0.94,38,35.72,"Agnivo, Chakraborty",,1852.0,False,IND,0.5,1,0.23,38,8.74
+25187996,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1759,1676,4.5,9,0.94,38,35.72,"Siddhanth, Poonja",,1882.0,False,IND,0.0,1,-0.24,38,-9.12
+25187996,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1759,1676,4.5,9,0.94,38,35.72,"Muthukumar, Mukesh",,1864.0,False,IND,0.5,1,0.24,38,9.12
+25187996,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1759,1676,4.5,9,0.94,38,35.72,"Anilkumar, O.t.",,1970.0,False,IND,1.0,1,0.85,38,32.3
+25187996,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1759,1676,4.5,9,0.94,38,35.72,"Gavi, Siddayya",,1806.0,False,IND,0.0,1,-0.32,38,-12.16
+25187996,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1759,1676,4.5,9,0.94,38,35.72,"Dhinesh, K A",,1594.0,False,IND,0.5,1,-0.11,38,-4.18
+25187996,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1759,1676,4.5,9,0.94,38,35.72,"Talwalkar, Pushkar",,1527.0,False,IND,0.0,1,-0.7,38,-26.6
+25187996,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1577,1676,6.0,9,0.31,38,11.78,"Dhruv, K Dileep",,1439.0,False,IND,1.0,1,0.2,38,7.6
+25187996,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1577,1676,6.0,9,0.31,38,11.78,"Vishnuram, Kishore",,1513.0,False,IND,1.0,1,0.28,38,10.64
+25187996,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1577,1676,6.0,9,0.31,38,11.78,"Syam, Sudhakar Rao R",,1580.0,False,IND,1.0,1,0.37,38,14.06
+25187996,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1577,1676,6.0,9,0.31,38,11.78,"Sanjay Sindhia, Mh",,1785.0,False,IND,0.0,1,-0.35,38,-13.3
+25187996,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1577,1676,6.0,9,0.31,38,11.78,"Venkat, Ramana R",,1552.0,False,IND,1.0,1,0.33,38,12.54
+25187996,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1577,1676,6.0,9,0.31,38,11.78,"Gurubaran, Raghuraman",,1582.0,False,IND,0.5,1,-0.13,38,-4.94
+25187996,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1577,1676,6.0,9,0.31,38,11.78,"Samanth, Nataraj Naidu",,1577.0,False,IND,0.5,1,-0.14,38,-5.32
+25187996,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1577,1676,6.0,9,0.31,38,11.78,"Saket, Kumar",,1578.0,False,IND,1.0,1,0.37,38,14.06
+25187996,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1577,1676,6.0,9,0.31,38,11.78,Raghunandan,,1591.0,False,IND,0.0,1,-0.62,38,-23.56

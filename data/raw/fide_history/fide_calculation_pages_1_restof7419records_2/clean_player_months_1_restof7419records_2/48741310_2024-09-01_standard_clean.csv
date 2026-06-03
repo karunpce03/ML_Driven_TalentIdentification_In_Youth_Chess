@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48741310,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1569,1422,2.0,5,0.46,40,18.4,"Spandan, Debnath",,1550.0,False,IND,1.0,1,0.67,40,26.8
+48741310,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1569,1422,2.0,5,0.46,40,18.4,"Diproneel, Barman",,1677.0,False,IND,0.0,1,-0.19,40,-7.6
+48741310,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1569,1422,2.0,5,0.46,40,18.4,"Amiyanshu, Bhowal",,1585.0,False,IND,0.0,1,-0.28,40,-11.2
+48741310,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1569,1422,2.0,5,0.46,40,18.4,"Shreyan, Mukherjee",,1548.0,False,IND,0.0,1,-0.33,40,-13.2
+48741310,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1569,1422,2.0,5,0.46,40,18.4,"Dipro, Mandal",,1484.0,False,IND,1.0,1,0.59,40,23.6

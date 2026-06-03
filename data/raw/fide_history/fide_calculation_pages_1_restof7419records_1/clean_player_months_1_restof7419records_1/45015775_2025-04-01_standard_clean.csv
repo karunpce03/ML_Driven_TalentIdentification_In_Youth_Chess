@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45015775,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2331,2505,4.5,10,-2.77,10,-27.7,"Kozlovic, Jernej",f,2274.0,False,SLO,1.0,1,0.21,10,2.1
+45015775,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2331,2505,4.5,10,-2.77,10,-27.7,"Belkaid, Sohan",f,2370.0,False,FRA,1.0,1,0.32,10,3.2
+45015775,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2331,2505,4.5,10,-2.77,10,-27.7,"Meng, Yihan",,2412.0,False,CHN,0.0,1,-0.63,10,-6.3
+45015775,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2331,2505,4.5,10,-2.77,10,-27.7,"Cina`, Vittorio",f,2361.0,False,ITA,0.5,1,-0.19,10,-1.9
+45015775,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2331,2505,4.5,10,-2.77,10,-27.7,"Kiladze, Luka",f,2359.0,False,GEO,0.0,1,-0.7,10,-7.0
+45015775,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2331,2505,4.5,10,-2.77,10,-27.7,"Manish, Anto Cristiano F",m,2356.0,False,IND,1.0,1,0.3,10,3.0
+45015775,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2331,2505,4.5,10,-2.77,10,-27.7,"Akhilbay, Imangali",f,2342.0,False,KAZ,0.0,1,-0.72,10,-7.2
+45015775,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2331,2505,4.5,10,-2.77,10,-27.7,"Baranciuc, Alexandr",f,2246.0,False,MDA,0.5,1,-0.32,10,-3.2
+45015775,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2331,2505,4.5,10,-2.77,10,-27.7,"Olenik Campa, Rudi",f,2294.0,False,SLO,0.5,1,-0.27,10,-2.7
+45015775,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2331,2505,4.5,10,-2.77,10,-27.7,"Dyachuk, Artem",f,2293.0,False,UKR,0.0,1,-0.77,10,-7.7

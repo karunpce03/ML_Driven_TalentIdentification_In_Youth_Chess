@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25611135,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1782,1979,7.0,9,0.39,40,15.6,"Kumara, Sandilya Somanchi",,1579,True,IND,1.0,1,0.08,40,3.2
+25611135,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1782,1979,7.0,9,0.39,40,15.6,"Saranya, Devi Narahari",,1666,False,IND,1.0,1,0.14,40,5.6
+25611135,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1782,1979,7.0,9,0.39,40,15.6,"Sathwik, D S S U",,1794,False,IND,1.0,1,0.26,40,10.4
+25611135,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1782,1979,7.0,9,0.39,40,15.6,"Alluri, Bhaskara Ratna Shanmukha",,1817,False,IND,0.5,1,-0.21,40,-8.4
+25611135,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1782,1979,7.0,9,0.39,40,15.6,"Afreed, T Khan",,1837,False,IND,0.0,1,-0.69,40,-27.6
+25611135,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1782,1979,7.0,9,0.39,40,15.6,"Athul, M",,1688,False,IND,1.0,1,0.15,40,6.0
+25611135,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1782,1979,7.0,9,0.39,40,15.6,"Swastik, Suvam Patnaik",,1752,False,IND,1.0,1,0.21,40,8.4
+25611135,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1782,1979,7.0,9,0.39,40,15.6,"Vakcheri, Mohitha",,1738,False,IND,1.0,1,0.2,40,8.0
+25611135,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1782,1979,7.0,9,0.39,40,15.6,"Bharat, Kumar Reddy Poluri",,2169,False,IND,0.5,1,0.25,40,10.0

@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531001424,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,,,0.5,4,0.0,1136,,"Vivaan, Roy",,1487.0,False,IND,0.0,1,0.0,,0.0
+531001424,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,,,0.5,4,0.0,1136,,"Zode, Adarsh",,1453.0,False,IND,0.0,1,0.0,,0.0
+531001424,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,,,0.5,4,0.0,1136,,"Aalok, Fadnavis",,1465.0,False,IND,0.0,1,0.0,,0.0
+531001424,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,,,0.5,4,0.0,1136,,"Bhava, Kishan",,1425.0,False,IND,0.5,1,0.0,,0.0
+531001424,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,2.0,4,0.0,1456,,"Sharvil, Sapre",,1460.0,False,IND,0.0,1,0.0,,0.0
+531001424,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,2.0,4,0.0,1456,,"Mohariya, Suryansh",,1416.0,False,IND,1.0,1,0.0,,0.0
+531001424,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,2.0,4,0.0,1456,,"Vihaan, Vaibhav Deshmukh",,1454.0,False,IND,1.0,1,0.0,,0.0
+531001424,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,2.0,4,0.0,1456,,"Yugank, Suryawanshi",,1493.0,False,IND,0.0,1,0.0,,0.0
+531001424,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1622.0,1415.0,3.0,7,1.29,40,51.6,"Choudhary, Jitendra Kumar",,1815.0,True,IND,0.0,1,-0.08,40.0,-3.2
+531001424,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1622.0,1415.0,3.0,7,1.29,40,51.6,"Sastry, P L",,1600.0,False,IND,1.0,1,0.74,40.0,29.6
+531001424,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1622.0,1415.0,3.0,7,1.29,40,51.6,"Hardik, Sharma",,1589.0,False,IND,0.0,1,-0.27,40.0,-10.8
+531001424,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1622.0,1415.0,3.0,7,1.29,40,51.6,"Chaubey, Bharat",,1603.0,False,IND,1.0,1,0.74,40.0,29.6
+531001424,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1622.0,1415.0,3.0,7,1.29,40,51.6,"Gaurav, Saini",,1572.0,False,IND,0.0,1,-0.29,40.0,-11.6
+531001424,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1622.0,1415.0,3.0,7,1.29,40,51.6,"Arif, Khan",,1591.0,False,IND,0.0,1,-0.27,40.0,-10.8
+531001424,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1622.0,1415.0,3.0,7,1.29,40,51.6,"Amit, Mishra",,1584.0,False,IND,1.0,1,0.72,40.0,28.8
+531001424,2025-04-01,0,1st DPSS Chess For Everyone International FIDE Rating Chess Tournament 2025,Sagar IND,2025-03-23,2025-03-27,1686.0,1467.0,0.0,2,-0.45,40,-18.0,"Arnav, B Kumar",,1670.0,False,IND,0.0,1,-0.24,40.0,-9.6
+531001424,2025-04-01,0,1st DPSS Chess For Everyone International FIDE Rating Chess Tournament 2025,Sagar IND,2025-03-23,2025-03-27,1686.0,1467.0,0.0,2,-0.45,40,-18.0,"Sharma, Vicky",,1701.0,False,IND,0.0,1,-0.21,40.0,-8.4

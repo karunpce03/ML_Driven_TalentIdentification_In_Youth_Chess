@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25167359,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1583,1733,6.5,9,0.22,40,8.8,"Lohitashva, Rajkumar",,1473.0,False,IND,1.0,1,0.18,40,7.2
+25167359,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1583,1733,6.5,9,0.22,40,8.8,"Heng, Jung Yang Terris",,1556.0,False,SGP,1.0,1,0.27,40,10.8
+25167359,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1583,1733,6.5,9,0.22,40,8.8,"Koh, En Jie Jonathan",,1594.0,False,SGP,0.5,1,-0.19,40,-7.6
+25167359,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1583,1733,6.5,9,0.22,40,8.8,"Soo, Cheng Hao",,1624.0,False,SGP,1.0,1,0.35,40,14.0
+25167359,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1583,1733,6.5,9,0.22,40,8.8,"Tugsbilguun, Davganamdag",,1659.0,False,MGL,0.5,1,-0.1,40,-4.0
+25167359,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1583,1733,6.5,9,0.22,40,8.8,"Poovendtiran, Thamil Chelvan",,1618.0,False,MAS,0.0,1,-0.66,40,-26.4
+25167359,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1583,1733,6.5,9,0.22,40,8.8,"Tran, Thi Bich Thuy",,1602.0,False,VIE,0.5,1,-0.18,40,-7.2
+25167359,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1583,1733,6.5,9,0.22,40,8.8,"Velmurugan Priyasudharsana, Ishaa",,1539.0,False,IND,1.0,1,0.25,40,10.0
+25167359,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1583,1733,6.5,9,0.22,40,8.8,"Ohng, Kok Yeong Kevin",,1586.0,False,SGP,1.0,1,0.3,40,12.0

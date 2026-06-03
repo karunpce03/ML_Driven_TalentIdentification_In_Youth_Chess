@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33483221,2025-01-01,0,Vezerkepzo Santa Claus 2024 U 2300,Budapest HUN,2024-11-29,2024-12-06,1945,1589,2.0,7,1.23,40,49.2,"Levay, Sorin",f,1989,True,ROU,0.0,1,-0.08,40,-3.2
+33483221,2025-01-01,0,Vezerkepzo Santa Claus 2024 U 2300,Budapest HUN,2024-11-29,2024-12-06,1945,1589,2.0,7,1.23,40,49.2,"Juracsik, Jozsef",,1900,False,HUN,0.5,1,0.36,40,14.4
+33483221,2025-01-01,0,Vezerkepzo Santa Claus 2024 U 2300,Budapest HUN,2024-11-29,2024-12-06,1945,1589,2.0,7,1.23,40,49.2,"Yagiz, Bora",,1900,False,TUR,0.5,1,0.36,40,14.4
+33483221,2025-01-01,0,Vezerkepzo Santa Claus 2024 U 2300,Budapest HUN,2024-11-29,2024-12-06,1945,1589,2.0,7,1.23,40,49.2,"Szalanczi, Emil",m,1861,False,HUN,0.0,1,-0.17,40,-6.8
+33483221,2025-01-01,0,Vezerkepzo Santa Claus 2024 U 2300,Budapest HUN,2024-11-29,2024-12-06,1945,1589,2.0,7,1.23,40,49.2,"Kahn, Evarth Dr.",m,1989,True,HUN,0.0,1,-0.08,40,-3.2
+33483221,2025-01-01,0,Vezerkepzo Santa Claus 2024 U 2300,Budapest HUN,2024-11-29,2024-12-06,1945,1589,2.0,7,1.23,40,49.2,"Ladanyi, Tibor",,1989,True,HUN,1.0,1,0.92,40,36.8
+33483221,2025-01-01,0,Vezerkepzo Santa Claus 2024 U 2300,Budapest HUN,2024-11-29,2024-12-06,1945,1589,2.0,7,1.23,40,49.2,"Farago, Sandor",m,1989,True,HUN,0.0,1,-0.08,40,-3.2

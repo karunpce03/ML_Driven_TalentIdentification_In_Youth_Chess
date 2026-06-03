@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33402604,2024-08-01,0,2024 Glorney Cup Under 14,Hull ENG,2024-07-23,2024-07-25,,,2.5,4,0.0,1776,,"Rastogi, Nayan Keats",,1859.0,False,ENG,0.0,1,0.0,,0.0
+33402604,2024-08-01,0,2024 Glorney Cup Under 14,Hull ENG,2024-07-23,2024-07-25,,,2.5,4,0.0,1776,,"Ding, Yiwen",,1823.0,False,ENG,0.5,1,0.0,,0.0
+33402604,2024-08-01,0,2024 Glorney Cup Under 14,Hull ENG,2024-07-23,2024-07-25,,,2.5,4,0.0,1776,,"Shevchenko, Danylo",,1802.0,False,WLS,1.0,1,0.0,,0.0
+33402604,2024-08-01,0,2024 Glorney Cup Under 14,Hull ENG,2024-07-23,2024-07-25,,,2.5,4,0.0,1776,,"Shankar, Ronith",,1538.0,False,IRL,1.0,1,0.0,,0.0
+33402604,2025-03-01,0,2025 Coventry Open Under 1750,Coventry ENG,2025-02-22,2025-02-23,1657.0,1822.0,4.5,5,0.94,40,37.6,"Bangalore Kumar, Rohith",,1541.0,False,ENG,1.0,1,0.16,40.0,6.4
+33402604,2025-03-01,0,2025 Coventry Open Under 1750,Coventry ENG,2025-02-22,2025-02-23,1657.0,1822.0,4.5,5,0.94,40,37.6,"Solloway, Colin J",,1775.0,False,ENG,1.0,1,0.43,40.0,17.2
+33402604,2025-03-01,0,2025 Coventry Open Under 1750,Coventry ENG,2025-02-22,2025-02-23,1657.0,1822.0,4.5,5,0.94,40,37.6,"Ranasinghe, R A Chaniru Chanudika",,1575.0,False,SRI,1.0,1,0.19,40.0,7.6
+33402604,2025-03-01,0,2025 Coventry Open Under 1750,Coventry ENG,2025-02-22,2025-02-23,1657.0,1822.0,4.5,5,0.94,40,37.6,"Walker, Kate",,1709.0,False,ENG,1.0,1,0.35,40.0,14.0
+33402604,2025-03-01,0,2025 Coventry Open Under 1750,Coventry ENG,2025-02-22,2025-02-23,1657.0,1822.0,4.5,5,0.94,40,37.6,"Holyhead, James",,1684.0,False,ENG,0.5,1,-0.19,40.0,-7.6

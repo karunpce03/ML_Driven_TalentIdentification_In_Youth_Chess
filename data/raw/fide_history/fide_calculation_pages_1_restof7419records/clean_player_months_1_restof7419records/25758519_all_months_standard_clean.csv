@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25758519,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1521,1518,3.0,6,-0.01,40,-0.4,"Divesh, G",,1624.0,False,IND,0.0,1,-0.36,40,-14.4
+25758519,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1521,1518,3.0,6,-0.01,40,-0.4,"Nivedh, Srambikkal",,1417.0,False,IND,0.5,1,-0.14,40,-5.6
+25758519,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1521,1518,3.0,6,-0.01,40,-0.4,"Gautham, Vadivelan",,1429.0,False,IND,1.0,1,0.38,40,15.2
+25758519,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1521,1518,3.0,6,-0.01,40,-0.4,"Chinnadurai, T.",,1779.0,False,IND,0.0,1,-0.18,40,-7.2
+25758519,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1521,1518,3.0,6,-0.01,40,-0.4,"Aarush, Y M",,1427.0,False,IND,0.5,1,-0.12,40,-4.8
+25758519,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1521,1518,3.0,6,-0.01,40,-0.4,"Hariswar, C",,1450.0,False,IND,1.0,1,0.41,40,16.4
+25758519,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1561,1518,1.0,4,-0.82,40,-32.8,Krishna,,1804.0,False,IND,0.0,1,-0.16,40,-6.4
+25758519,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1561,1518,1.0,4,-0.82,40,-32.8,"Jos, Paul Davis",,1632.0,False,IND,0.0,1,-0.34,40,-13.6
+25758519,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1561,1518,1.0,4,-0.82,40,-32.8,"Avani, Krishna K",,1404.0,False,IND,0.0,1,-0.66,40,-26.4
+25758519,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1561,1518,1.0,4,-0.82,40,-32.8,"Snow, Jonanth P",,1402.0,False,IND,1.0,1,0.34,40,13.6
+25758519,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1738,1485,1.0,4,0.22,40,8.8,"Jeevika, S",,1863.0,False,IND,0.0,1,-0.09,40,-3.6
+25758519,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1738,1485,1.0,4,0.22,40,8.8,"Ryan, Dominic",,1666.0,False,IND,0.5,1,0.24,40,9.6
+25758519,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1738,1485,1.0,4,0.22,40,8.8,"Vishnu, Ram M",,1717.0,False,IND,0.0,1,-0.21,40,-8.4
+25758519,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1738,1485,1.0,4,0.22,40,8.8,"Manikandan, Tayalan",,1705.0,False,IND,0.5,1,0.28,40,11.2
+25758519,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1620,1494,1.5,6,-0.51,40,-20.4,"Abhinav, Raj V S",,1659.0,False,IND,0.0,1,-0.28,40,-11.2
+25758519,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1620,1494,1.5,6,-0.51,40,-20.4,"Sriram, Poola",,1653.0,False,IND,0.5,1,0.21,40,8.4
+25758519,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1620,1494,1.5,6,-0.51,40,-20.4,"Sanjib, Chatterjee",,1680.0,False,IND,1.0,1,0.74,40,29.6
+25758519,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1620,1494,1.5,6,-0.51,40,-20.4,"Yash, Kulhari",,1648.0,False,IND,0.0,1,-0.29,40,-11.6
+25758519,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1620,1494,1.5,6,-0.51,40,-20.4,"Roshan, Antony C",,1656.0,False,IND,0.0,1,-0.29,40,-11.6
+25758519,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1620,1494,1.5,6,-0.51,40,-20.4,"Nakshatra, N M",,1425.0,False,IND,0.0,1,-0.6,40,-24.0

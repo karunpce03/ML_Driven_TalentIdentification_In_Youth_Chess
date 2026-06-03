@@ -1,0 +1,84 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33413118,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1578,1678,5.0,9,-0.73,40,-29.2,"Prasada, Rao G",,1516.0,False,IND,0.0,1,-0.71,40,-28.4
+33413118,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1578,1678,5.0,9,-0.73,40,-29.2,"Premchand, Chudalaiyandi",,1483.0,False,IND,1.0,1,0.25,40,10.0
+33413118,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1578,1678,5.0,9,-0.73,40,-29.2,"Vishrutha, T M",,1551.0,False,IND,1.0,1,0.33,40,13.2
+33413118,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1578,1678,5.0,9,-0.73,40,-29.2,"Mrithyunjay, Mahadevan",c,1932.0,False,IND,0.0,1,-0.19,40,-7.6
+33413118,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1578,1678,5.0,9,-0.73,40,-29.2,"Nithish, Sivasubramanian",,1534.0,False,IND,0.5,1,-0.19,40,-7.6
+33413118,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1578,1678,5.0,9,-0.73,40,-29.2,"Hrishikesan, Sundararajan",,1543.0,False,IND,0.5,1,-0.18,40,-7.2
+33413118,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1578,1678,5.0,9,-0.73,40,-29.2,"Amarnath, R",,1555.0,False,IND,0.5,1,-0.17,40,-6.8
+33413118,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1578,1678,5.0,9,-0.73,40,-29.2,"Thavish, S",,1548.0,False,IND,0.5,1,-0.18,40,-7.2
+33413118,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1578,1678,5.0,9,-0.73,40,-29.2,"Yamini, Sriram",,1536.0,False,IND,1.0,1,0.31,40,12.4
+33413118,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1610,1649,3.0,7,-0.89,40,-35.6,"Soham, Roy",,1910.0,False,IND,0.0,1,-0.18,40,-7.2
+33413118,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1610,1649,3.0,7,-0.89,40,-35.6,"Taneesh, Choppa",,1497.0,False,IND,1.0,1,0.3,40,12.0
+33413118,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1610,1649,3.0,7,-0.89,40,-35.6,"Shounak, Mazumder",,1762.0,False,IND,0.0,1,-0.35,40,-14.0
+33413118,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1610,1649,3.0,7,-0.89,40,-35.6,"Arya, Amol Bagayatkar",,1537.0,False,IND,0.0,1,-0.65,40,-26.0
+33413118,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1610,1649,3.0,7,-0.89,40,-35.6,"Kethan, Reddy Nandyala",,1518.0,False,IND,1.0,1,0.32,40,12.8
+33413118,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1610,1649,3.0,7,-0.89,40,-35.6,"Heet, Baldawa",,1543.0,False,IND,0.5,1,-0.14,40,-5.6
+33413118,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1610,1649,3.0,7,-0.89,40,-35.6,"Udaiveer, Singh",,1504.0,False,IND,0.5,1,-0.19,40,-7.6
+33413118,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1492,1649,4.5,8,-1.16,40,-46.4,"Adinath, Amit Shastri",,1473.0,False,IND,0.0,1,-0.73,40,-29.2
+33413118,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1492,1649,4.5,8,-1.16,40,-46.4,Hitansh,,1441.0,False,IND,1.0,1,0.23,40,9.2
+33413118,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1492,1649,4.5,8,-1.16,40,-46.4,"Manvender, Singh",,1503.0,False,IND,1.0,1,0.3,40,12.0
+33413118,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1492,1649,4.5,8,-1.16,40,-46.4,"Bhumin, Verma",,1470.0,False,IND,0.0,1,-0.73,40,-29.2
+33413118,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1492,1649,4.5,8,-1.16,40,-46.4,"Sidharth, Bhargav",,1504.0,False,IND,1.0,1,0.31,40,12.4
+33413118,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1492,1649,4.5,8,-1.16,40,-46.4,"Aarav, Neelkamal Gupta",,1527.0,False,IND,0.5,1,-0.17,40,-6.8
+33413118,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1492,1649,4.5,8,-1.16,40,-46.4,"Chirag, Sureka",,1522.0,False,IND,0.5,1,-0.17,40,-6.8
+33413118,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1492,1649,4.5,8,-1.16,40,-46.4,"Aarav, Porwal",,1498.0,False,IND,0.5,1,-0.2,40,-8.0
+33413118,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1719,1567,4.0,7,1.91,40,76.4,"Madsen, Egon Rysgaard",,1749.0,False,DEN,0.5,1,0.24,40,9.6
+33413118,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1719,1567,4.0,7,1.91,40,76.4,"Dyremose, Flemming",,1744.0,False,DEN,1.0,1,0.73,40,29.2
+33413118,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1719,1567,4.0,7,1.91,40,76.4,"Bollestad, Leiv Ove",,1644.0,False,NOR,0.0,1,-0.39,40,-15.6
+33413118,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1719,1567,4.0,7,1.91,40,76.4,"Sandbech, Ted Henrik",,1754.0,False,DEN,0.5,1,0.24,40,9.6
+33413118,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1719,1567,4.0,7,1.91,40,76.4,"Larsen, Hans Haagen",,1678.0,False,DEN,1.0,1,0.65,40,26.0
+33413118,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1719,1567,4.0,7,1.91,40,76.4,"Rishit, Goyal",,1717.0,False,IND,0.0,1,-0.3,40,-12.0
+33413118,2024-08-01,0,5. Koge Open - 4,Koge DEN,2024-07-09,2024-07-14,1719,1567,4.0,7,1.91,40,76.4,"Kristensen, Lars Ostergaard",,1750.0,False,DEN,1.0,1,0.74,40,29.6
+33413118,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1829,1567,4.0,7,2.71,40,108.4,"Jovanovic, Goran",,1750.0,False,ITA,0.5,1,0.24,40,9.6
+33413118,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1829,1567,4.0,7,2.71,40,108.4,"Levrero, Marco",,1780.0,False,ITA,1.0,1,0.77,40,30.8
+33413118,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1829,1567,4.0,7,2.71,40,108.4,"Rossi, Francesco",,1794.0,False,ITA,0.0,1,-0.21,40,-8.4
+33413118,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1829,1567,4.0,7,2.71,40,108.4,"Cusato, Davide",,1804.0,False,ITA,1.0,1,0.8,40,32.0
+33413118,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1829,1567,4.0,7,2.71,40,108.4,"Dormio, Luca",,1885.0,False,ITA,1.0,1,0.87,40,34.8
+33413118,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1829,1567,4.0,7,2.71,40,108.4,"Altieri, Danilo Mario",,1908.0,False,ITA,0.5,1,0.38,40,15.2
+33413118,2024-08-01,0,FE Genova international chess - B,Genova ITA,2024-07-15,2024-07-19,1829,1567,4.0,7,2.71,40,108.4,"Barbero, Filippo",,1880.0,False,ITA,0.0,1,-0.14,40,-5.6
+33413118,2024-09-01,0,FE 22 Spilimbergo - A,Spilimbergo ITA,2024-08-11,2024-08-15,1883,1752,3.5,7,1.24,40,49.6,"Tortora, Franco",,1888.0,False,ITA,1.0,1,0.68,40,27.2
+33413118,2024-09-01,0,FE 22 Spilimbergo - A,Spilimbergo ITA,2024-08-11,2024-08-15,1883,1752,3.5,7,1.24,40,49.6,"Iasman, Inna",,1895.0,False,FRA,0.5,1,0.19,40,7.6
+33413118,2024-09-01,0,FE 22 Spilimbergo - A,Spilimbergo ITA,2024-08-11,2024-08-15,1883,1752,3.5,7,1.24,40,49.6,"Di Maulo, Alessandra",,1874.0,False,ITA,1.0,1,0.67,40,26.8
+33413118,2024-09-01,0,FE 22 Spilimbergo - A,Spilimbergo ITA,2024-08-11,2024-08-15,1883,1752,3.5,7,1.24,40,49.6,"Bedon, Kevin",,1908.0,False,ECU,0.0,1,-0.29,40,-11.6
+33413118,2024-09-01,0,FE 22 Spilimbergo - A,Spilimbergo ITA,2024-08-11,2024-08-15,1883,1752,3.5,7,1.24,40,49.6,"D Ippolito, Nilo Alessandro",,1888.0,False,ITA,0.5,1,0.18,40,7.2
+33413118,2024-09-01,0,FE 22 Spilimbergo - A,Spilimbergo ITA,2024-08-11,2024-08-15,1883,1752,3.5,7,1.24,40,49.6,"Predan, Luca",,1852.0,False,ITA,0.5,1,0.14,40,5.6
+33413118,2024-09-01,0,FE 22 Spilimbergo - A,Spilimbergo ITA,2024-08-11,2024-08-15,1883,1752,3.5,7,1.24,40,49.6,"Bortolotti, Alessandro",,1874.0,False,ITA,0.0,1,-0.33,40,-13.2
+33413118,2024-09-01,0,FE 3 Bella Italia - B,Lignano Sabbiadoro ITA,2024-08-17,2024-08-21,1920,1752,3.5,7,1.54,40,61.6,"Cristea, Davide",,1889.0,False,ITA,1.0,1,0.68,40,27.2
+33413118,2024-09-01,0,FE 3 Bella Italia - B,Lignano Sabbiadoro ITA,2024-08-17,2024-08-21,1920,1752,3.5,7,1.54,40,61.6,"Elitropi, Giorgio",,1925.0,False,ITA,0.5,1,0.23,40,9.2
+33413118,2024-09-01,0,FE 3 Bella Italia - B,Lignano Sabbiadoro ITA,2024-08-17,2024-08-21,1920,1752,3.5,7,1.54,40,61.6,"Forno, Diego",,1945.0,False,ITA,0.5,1,0.25,40,10.0
+33413118,2024-09-01,0,FE 3 Bella Italia - B,Lignano Sabbiadoro ITA,2024-08-17,2024-08-21,1920,1752,3.5,7,1.54,40,61.6,"Lantini, Marco",,1965.0,False,ITA,0.5,1,0.27,40,10.8
+33413118,2024-09-01,0,FE 3 Bella Italia - B,Lignano Sabbiadoro ITA,2024-08-17,2024-08-21,1920,1752,3.5,7,1.54,40,61.6,"Guidi, Giacomo",,1876.0,False,ITA,1.0,1,0.67,40,26.8
+33413118,2024-09-01,0,FE 3 Bella Italia - B,Lignano Sabbiadoro ITA,2024-08-17,2024-08-21,1920,1752,3.5,7,1.54,40,61.6,"Lin, Boyuan",,1943.0,False,ITA,0.0,1,-0.25,40,-10.0
+33413118,2024-09-01,0,FE 3 Bella Italia - B,Lignano Sabbiadoro ITA,2024-08-17,2024-08-21,1920,1752,3.5,7,1.54,40,61.6,"Soncin, Denis",,1897.0,False,ITA,0.0,1,-0.31,40,-12.4
+33413118,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2046,1863,1.0,8,-1.11,40,-44.4,"Voiteanu, Gabriel",f,2132.0,False,ROU,0.0,1,-0.17,40,-6.8
+33413118,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2046,1863,1.0,8,-1.11,40,-44.4,"Bascunana Sanchez, Pablo",,2027.0,False,ESP,1.0,1,0.72,40,28.8
+33413118,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2046,1863,1.0,8,-1.11,40,-44.4,"Safarik, Jakub",,2087.0,False,CZE,0.0,1,-0.22,40,-8.8
+33413118,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2046,1863,1.0,8,-1.11,40,-44.4,"Huseynova, Lala",wc,2021.0,False,AZE,0.0,1,-0.29,40,-11.6
+33413118,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2046,1863,1.0,8,-1.11,40,-44.4,"Gonzalez Aguirre, Luis",,2016.0,False,ESP,0.0,1,-0.3,40,-12.0
+33413118,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2046,1863,1.0,8,-1.11,40,-44.4,"Lacrosse, Marc",f,2057.0,False,BEL,0.0,1,-0.25,40,-10.0
+33413118,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2046,1863,1.0,8,-1.11,40,-44.4,"Britton, Richard L",f,2000.0,False,ENG,0.0,1,-0.32,40,-12.8
+33413118,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2046,1863,1.0,8,-1.11,40,-44.4,"Lung, Liviu-Catalin",,2028.0,False,ROU,0.0,1,-0.28,40,-11.2
+33413118,2025-01-01,0,First Saturday December 2024 U2250,Budapest HUN,2024-12-07,2024-12-14,1830,1863,3.5,8,-0.8,40,-32.0,"Poor, Sandor",,2013.0,False,HUN,0.5,1,0.2,40,8.0
+33413118,2025-01-01,0,First Saturday December 2024 U2250,Budapest HUN,2024-12-07,2024-12-14,1830,1863,3.5,8,-0.8,40,-32.0,"Lu, Lillian",wf,1887.0,False,AUS,0.5,1,0.03,40,1.2
+33413118,2025-01-01,0,First Saturday December 2024 U2250,Budapest HUN,2024-12-07,2024-12-14,1830,1863,3.5,8,-0.8,40,-32.0,"Csermely, Zoltan",,1653.0,False,HUN,1.0,1,0.23,40,9.2
+33413118,2025-01-01,0,First Saturday December 2024 U2250,Budapest HUN,2024-12-07,2024-12-14,1830,1863,3.5,8,-0.8,40,-32.0,"Kahn, Evarth Dr.",m,1980.0,False,HUN,0.0,1,-0.34,40,-13.6
+33413118,2025-01-01,0,First Saturday December 2024 U2250,Budapest HUN,2024-12-07,2024-12-14,1830,1863,3.5,8,-0.8,40,-32.0,"Yagiz, Bora",,1874.0,False,TUR,0.0,1,-0.48,40,-19.2
+33413118,2025-01-01,0,First Saturday December 2024 U2250,Budapest HUN,2024-12-07,2024-12-14,1830,1863,3.5,8,-0.8,40,-32.0,"Mayer, Istvan",f,1756.0,False,HUN,0.0,1,-0.65,40,-26.0
+33413118,2025-01-01,0,First Saturday December 2024 U2250,Budapest HUN,2024-12-07,2024-12-14,1830,1863,3.5,8,-0.8,40,-32.0,"Vegvari, Ferenc",,1583.0,False,HUN,1.0,1,0.16,40,6.4
+33413118,2025-01-01,0,First Saturday December 2024 U2250,Budapest HUN,2024-12-07,2024-12-14,1830,1863,3.5,8,-0.8,40,-32.0,"Heran-Boily, Samuel",,1896.0,False,NOR,0.5,1,0.05,40,2.0
+33413118,2025-02-01,0,FE 54 Citta' di Torino - B,Torino ITA,2025-01-02,2025-01-06,1826,1787,3.5,6,0.81,40,32.4,"Manni, Stefano",,1966.0,False,ITA,0.5,1,0.23,40,9.2
+33413118,2025-02-01,0,FE 54 Citta' di Torino - B,Torino ITA,2025-01-02,2025-01-06,1826,1787,3.5,6,0.81,40,32.4,"Caputo, Rossano",,1866.0,False,ITA,0.0,1,-0.39,40,-15.6
+33413118,2025-02-01,0,FE 54 Citta' di Torino - B,Torino ITA,2025-01-02,2025-01-06,1826,1787,3.5,6,0.81,40,32.4,"Pettorusso, Aldo",,1667.0,False,ITA,1.0,1,0.34,40,13.6
+33413118,2025-02-01,0,FE 54 Citta' di Torino - B,Torino ITA,2025-01-02,2025-01-06,1826,1787,3.5,6,0.81,40,32.4,"D Amico, Antonino",,1837.0,False,ITA,0.5,1,0.07,40,2.8
+33413118,2025-02-01,0,FE 54 Citta' di Torino - B,Torino ITA,2025-01-02,2025-01-06,1826,1787,3.5,6,0.81,40,32.4,"Minelli, Mattia",,1848.0,False,ITA,0.5,1,0.08,40,3.2
+33413118,2025-02-01,0,FE 54 Citta' di Torino - B,Torino ITA,2025-01-02,2025-01-06,1826,1787,3.5,6,0.81,40,32.4,"Malano, Francesco",,1770.0,False,ITA,1.0,1,0.48,40,19.2
+33413118,2025-02-01,0,PRAGUE OPEN 2025 - A - IM open,Praha CZE,2025-01-10,2025-01-17,1935,1787,5.0,9,2.21,40,88.4,"Polak, Michal",,2036.0,False,POL,0.0,1,-0.19,40,-7.6
+33413118,2025-02-01,0,PRAGUE OPEN 2025 - A - IM open,Praha CZE,2025-01-10,2025-01-17,1935,1787,5.0,9,2.21,40,88.4,"Mrazek, Adam",,1919.0,False,CZE,0.0,1,-0.32,40,-12.8
+33413118,2025-02-01,0,PRAGUE OPEN 2025 - A - IM open,Praha CZE,2025-01-10,2025-01-17,1935,1787,5.0,9,2.21,40,88.4,"Glacner, Karel",,1639.0,False,CZE,1.0,1,0.3,40,12.0
+33413118,2025-02-01,0,PRAGUE OPEN 2025 - A - IM open,Praha CZE,2025-01-10,2025-01-17,1935,1787,5.0,9,2.21,40,88.4,"Pang, Kay Yan Eden",,1915.0,False,SGP,1.0,1,0.67,40,26.8
+33413118,2025-02-01,0,PRAGUE OPEN 2025 - A - IM open,Praha CZE,2025-01-10,2025-01-17,1935,1787,5.0,9,2.21,40,88.4,"Sedlak, Milan",,1947.0,False,CZE,0.5,1,0.21,40,8.4
+33413118,2025-02-01,0,PRAGUE OPEN 2025 - A - IM open,Praha CZE,2025-01-10,2025-01-17,1935,1787,5.0,9,2.21,40,88.4,"Rajnys, Vladimir",,1954.0,False,CZE,1.0,1,0.72,40,28.8
+33413118,2025-02-01,0,PRAGUE OPEN 2025 - A - IM open,Praha CZE,2025-01-10,2025-01-17,1935,1787,5.0,9,2.21,40,88.4,"Mensing, Adrian",,2028.0,False,NED,0.0,1,-0.2,40,-8.0
+33413118,2025-02-01,0,PRAGUE OPEN 2025 - A - IM open,Praha CZE,2025-01-10,2025-01-17,1935,1787,5.0,9,2.21,40,88.4,"Jiricek, Jakub",,1968.0,False,CZE,1.0,1,0.74,40,29.6
+33413118,2025-02-01,0,PRAGUE OPEN 2025 - A - IM open,Praha CZE,2025-01-10,2025-01-17,1935,1787,5.0,9,2.21,40,88.4,"Korniichuk, Oleksandra",,2006.0,False,CZE,0.5,1,0.28,40,11.2

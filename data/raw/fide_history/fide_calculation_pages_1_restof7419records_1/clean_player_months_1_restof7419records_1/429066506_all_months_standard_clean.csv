@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429066506,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,3.0,7,0.0,1435,,"Madhav, Prasad Prabhu",,1456.0,False,IND,1.0,1,0.0,,0.0
+429066506,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,3.0,7,0.0,1435,,"Aarush, Bhat",,1582.0,False,IND,0.0,1,0.0,,0.0
+429066506,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,3.0,7,0.0,1435,,"Dhanvant, Balachandran",,1453.0,False,IND,0.0,1,0.0,,0.0
+429066506,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,3.0,7,0.0,1435,,"Charushi, B",,1463.0,False,IND,1.0,1,0.0,,0.0
+429066506,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,3.0,7,0.0,1435,,"Sanmay, Kumar Gupta",,1454.0,False,IND,0.0,1,0.0,,0.0
+429066506,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,3.0,7,0.0,1435,,"Harshith, Ram B",,1471.0,False,IND,1.0,1,0.0,,0.0
+429066506,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,3.0,7,0.0,1435,,"Avneesh, Devadiga",,1518.0,False,IND,0.0,1,0.0,,0.0
+429066506,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1625.0,1512.0,0.0,2,-0.7,40,-28.0,"Stuti, Pradeep",,1649.0,False,IND,0.0,1,-0.32,40.0,-12.8
+429066506,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1625.0,1512.0,0.0,2,-0.7,40,-28.0,"Ishaan, Bhansali",,1600.0,False,IND,0.0,1,-0.38,40.0,-15.2
+429066506,2025-03-01,0,Sacred Heart College Alumni Association Second International FIDE Rating Below 1800 Chess Tournament,Tirupattur IND,2025-02-14,2025-02-16,1611.0,1484.0,1.5,2,0.84,40,33.6,"Jaisai, A",,1568.0,False,IND,0.5,1,0.12,40.0,4.8
+429066506,2025-03-01,0,Sacred Heart College Alumni Association Second International FIDE Rating Below 1800 Chess Tournament,Tirupattur IND,2025-02-14,2025-02-16,1611.0,1484.0,1.5,2,0.84,40,33.6,"Saket, Kumar",,1653.0,False,IND,1.0,1,0.72,40.0,28.8

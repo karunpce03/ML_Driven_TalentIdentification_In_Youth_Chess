@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25102460,2025-02-01,0,SRI CHESS ACADEMY 3rd FIDE BELOW 1800 RATING CHESS TOURNAMENT-2025,Visakhapatnam IND,2025-01-24,2025-01-26,1581,1559,3.0,5,0.65,40,26.0,"Suresh, Kolavapalli",,1694.0,False,IND,0.5,1,0.18,40,7.2
+25102460,2025-02-01,0,SRI CHESS ACADEMY 3rd FIDE BELOW 1800 RATING CHESS TOURNAMENT-2025,Visakhapatnam IND,2025-01-24,2025-01-26,1581,1559,3.0,5,0.65,40,26.0,"Gopinath, P",,1705.0,False,IND,0.0,1,-0.3,40,-12.0
+25102460,2025-02-01,0,SRI CHESS ACADEMY 3rd FIDE BELOW 1800 RATING CHESS TOURNAMENT-2025,Visakhapatnam IND,2025-01-24,2025-01-26,1581,1559,3.0,5,0.65,40,26.0,"Chinthapatla, Dhanvin Ram",,1410.0,False,IND,1.0,1,0.3,40,12.0
+25102460,2025-02-01,0,SRI CHESS ACADEMY 3rd FIDE BELOW 1800 RATING CHESS TOURNAMENT-2025,Visakhapatnam IND,2025-01-24,2025-01-26,1581,1559,3.0,5,0.65,40,26.0,"Kumaran, Charan",,1668.0,False,IND,0.5,1,0.15,40,6.0
+25102460,2025-02-01,0,SRI CHESS ACADEMY 3rd FIDE BELOW 1800 RATING CHESS TOURNAMENT-2025,Visakhapatnam IND,2025-01-24,2025-01-26,1581,1559,3.0,5,0.65,40,26.0,"Venkateswara, Rao Vemparala",,1427.0,False,IND,1.0,1,0.32,40,12.8

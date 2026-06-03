@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25697064,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1738,1603,3.5,11,-0.19,40,-7.6,"Sadbhav, Rautela",,1899.0,False,IND,0.5,1,0.35,40,14.0
+25697064,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1738,1603,3.5,11,-0.19,40,-7.6,"Dishank, Sachin Bajaj",,1971.0,False,IND,0.0,1,-0.1,40,-4.0
+25697064,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1738,1603,3.5,11,-0.19,40,-7.6,"Abhinav, Anand",,1794.0,False,IND,0.0,1,-0.25,40,-10.0
+25697064,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1738,1603,3.5,11,-0.19,40,-7.6,"Prabhukocharekar, P K",,1782.0,False,IND,1.0,1,0.73,40,29.2
+25697064,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1738,1603,3.5,11,-0.19,40,-7.6,"Prishita, Gupta",wc,1795.0,False,IND,0.0,1,-0.25,40,-10.0
+25697064,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1738,1603,3.5,11,-0.19,40,-7.6,"Sudhakar, Prem Dutt",,1786.0,False,IND,0.0,1,-0.26,40,-10.4
+25697064,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1738,1603,3.5,11,-0.19,40,-7.6,"Kanishka, Choudhary",,1465.0,False,IND,1.0,1,0.31,40,12.4
+25697064,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1738,1603,3.5,11,-0.19,40,-7.6,"Varshita, Jain",,1693.0,False,IND,0.5,1,0.12,40,4.8
+25697064,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1738,1603,3.5,11,-0.19,40,-7.6,"Rajveer, Patil",,1722.0,False,IND,0.0,1,-0.34,40,-13.6
+25697064,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1738,1603,3.5,11,-0.19,40,-7.6,"Nishant, Bharadwaj",,1449.0,False,IND,0.5,1,-0.21,40,-8.4
+25697064,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1738,1603,3.5,11,-0.19,40,-7.6,"Rajesh, Kumar Nath",,1763.0,False,IND,0.0,1,-0.29,40,-11.6

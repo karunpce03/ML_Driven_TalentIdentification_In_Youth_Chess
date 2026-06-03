@@ -1,0 +1,91 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33389454,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1820,1645,0.5,1,0.23,40,9.2,"Sagar, Siya",,1820.0,False,IND,0.5,1,0.23,40,9.2
+33389454,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1615,1654,5.0,8,0.58,40,23.2,"Venkata, Ramana Gudipati",,1489.0,False,IND,1.0,1,0.28,40,11.2
+33389454,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1615,1654,5.0,8,0.58,40,23.2,"Swayham, P Das",,1879.0,False,IND,0.0,1,-0.22,40,-8.8
+33389454,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1615,1654,5.0,8,0.58,40,23.2,"Ram, Prasad S",,1509.0,False,IND,1.0,1,0.31,40,12.4
+33389454,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1615,1654,5.0,8,0.58,40,23.2,"Skanda, Sundar Tumuluri",,1483.0,False,IND,1.0,1,0.27,40,10.8
+33389454,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1615,1654,5.0,8,0.58,40,23.2,"Druvesh, Dondapati",,1776.0,False,IND,0.0,1,-0.33,40,-13.2
+33389454,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1615,1654,5.0,8,0.58,40,23.2,"Kethan, Reddy Nandyala",,1518.0,False,IND,1.0,1,0.32,40,12.8
+33389454,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1615,1654,5.0,8,0.58,40,23.2,"Mohit, Kumar Soni",,1772.0,False,IND,0.0,1,-0.34,40,-13.6
+33389454,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1615,1654,5.0,8,0.58,40,23.2,"Dinesh, Reddy Konda",,1496.0,False,IND,1.0,1,0.29,40,11.6
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Nagyova, Daniela",,1958.0,False,CZE,1.0,1,0.84,40,33.6
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Agajanova, Meryem",wc,1955.0,False,TKM,0.0,1,-0.17,40,-6.8
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Khairmode, Dhanashree",,1929.0,False,IND,0.0,1,-0.19,40,-7.6
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Marium, Fatima",,1905.0,False,IND,0.0,1,-0.21,40,-8.4
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Kirtadze, Anastasia",wf,2077.0,True,GEO,0.0,1,-0.08,40,-3.2
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Varshita, Jain",,1676.0,False,IND,0.5,1,0.0,40,0.0
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Benito De Leo, Estefania",,1900.0,False,MEX,1.0,1,0.78,40,31.2
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Anushka, Gupta",,1766.0,False,IND,0.5,1,0.12,40,4.8
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Kirthika, B",,1724.0,False,IND,0.0,1,-0.43,40,-17.2
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Fang, Kun",wc,1803.0,False,SGP,0.0,1,-0.33,40,-13.2
+33389454,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1849,1677,4.0,11,0.79,40,31.6,"Asudani, Ruhani Raj",,1645.0,False,IND,1.0,1,0.46,40,18.4
+33389454,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1701,1709,5.5,10,0.42,40,16.8,"Rajanya, Datta",,1869.0,False,IND,0.0,1,-0.29,40,-11.6
+33389454,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1701,1709,5.5,10,0.42,40,16.8,"Marvaniya, Mahi V",,1480.0,False,IND,1.0,1,0.21,40,8.4
+33389454,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1701,1709,5.5,10,0.42,40,16.8,"Akshaya, Sathi",,1843.0,False,IND,1.0,1,0.68,40,27.2
+33389454,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1701,1709,5.5,10,0.42,40,16.8,"Patil, Disha",,1800.0,False,IND,0.0,1,-0.38,40,-15.2
+33389454,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1701,1709,5.5,10,0.42,40,16.8,"Sevitha, Viju M",,1633.0,False,IND,1.0,1,0.4,40,16.0
+33389454,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1701,1709,5.5,10,0.42,40,16.8,"Padmini, S",,1825.0,False,IND,0.5,1,0.16,40,6.4
+33389454,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1701,1709,5.5,10,0.42,40,16.8,"Vakcheri, Mohitha",,1797.0,False,IND,0.0,1,-0.38,40,-15.2
+33389454,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1701,1709,5.5,10,0.42,40,16.8,"Riddhika, Kotia",,1611.0,False,IND,0.5,1,-0.13,40,-5.2
+33389454,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1701,1709,5.5,10,0.42,40,16.8,"Megha, Patra",,1506.0,False,IND,0.5,1,-0.26,40,-10.4
+33389454,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1701,1709,5.5,10,0.42,40,16.8,"Suravi, Bhattacharya",,1644.0,False,IND,1.0,1,0.41,40,16.4
+33389454,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1749,1726,4.5,8,0.64,36,23.04,"Yanduri, Venkata Gangadhar",,1522.0,False,IND,1.0,1,0.24,36,8.64
+33389454,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1749,1726,4.5,8,0.64,36,23.04,"Roy Chowdhury, Saptarshi",g,2126.0,True,IND,0.0,1,-0.08,36,-2.88
+33389454,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1749,1726,4.5,8,0.64,36,23.04,"Vidur, Murali",,1562.0,False,IND,1.0,1,0.28,36,10.08
+33389454,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1749,1726,4.5,8,0.64,36,23.04,"Bruhathi, Kondisetti",,1549.0,False,IND,1.0,1,0.27,36,9.72
+33389454,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1749,1726,4.5,8,0.64,36,23.04,"Shadhursshaan, R",c,1893.0,False,IND,0.5,1,0.22,36,7.92
+33389454,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1749,1726,4.5,8,0.64,36,23.04,"Narahari, Geethika Hasini",,1890.0,False,IND,0.0,1,-0.28,36,-10.08
+33389454,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1749,1726,4.5,8,0.64,36,23.04,"Shravan, Ambaru",,1615.0,False,IND,1.0,1,0.35,36,12.6
+33389454,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1749,1726,4.5,8,0.64,36,23.04,"Andabatla, Satvik",,1832.0,False,IND,0.0,1,-0.36,36,-12.96
+33389454,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1651,1726,6.0,11,-0.57,36,-20.52,"Vygaprabha, K A",,1430.0,False,IND,1.0,1,0.15,36,5.4
+33389454,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1651,1726,6.0,11,-0.57,36,-20.52,"Patil, Divya",,1891.0,False,IND,0.0,1,-0.28,36,-10.08
+33389454,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1651,1726,6.0,11,-0.57,36,-20.52,Shreya,,1543.0,False,IND,1.0,1,0.26,36,9.36
+33389454,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1651,1726,6.0,11,-0.57,36,-20.52,"Bhagyashree, Patil",wf,1987.0,False,IND,0.0,1,-0.18,36,-6.48
+33389454,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1651,1726,6.0,11,-0.57,36,-20.52,"Pranjal, Malhotra",,1535.0,False,IND,0.5,1,-0.25,36,-9.0
+33389454,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1651,1726,6.0,11,-0.57,36,-20.52,"Navieka, Jaiswal",,1536.0,False,IND,0.0,1,-0.75,36,-27.0
+33389454,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1651,1726,6.0,11,-0.57,36,-20.52,"Kanishka, Choudhary",,1510.0,False,IND,1.0,1,0.22,36,7.92
+33389454,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1651,1726,6.0,11,-0.57,36,-20.52,"Jena, Suhana",,1654.0,False,IND,1.0,1,0.4,36,14.4
+33389454,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1651,1726,6.0,11,-0.57,36,-20.52,"Vakcheri, Mohitha",,1820.0,False,IND,0.0,1,-0.37,36,-13.32
+33389454,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1651,1726,6.0,11,-0.57,36,-20.52,"Anagha, K G R",,1596.0,False,IND,0.5,1,-0.18,36,-6.48
+33389454,2024-10-01,0,38th National Junior (Under-19) Girls Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1651,1726,6.0,11,-0.57,36,-20.52,"Vidhi, Angelina",,1663.0,False,IND,1.0,1,0.41,36,14.76
+33389454,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1809,1729,6.0,11,1.45,40,58.0,"Padmini, Rout",m,2129.0,True,IND,0.0,1,-0.08,40,-3.2
+33389454,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1809,1729,6.0,11,1.45,40,58.0,"Durkasri, M",,1486.0,False,IND,1.0,1,0.2,40,8.0
+33389454,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1809,1729,6.0,11,1.45,40,58.0,"Swara, Lakshmi S Nair",wc,2018.0,False,IND,0.0,1,-0.16,40,-6.4
+33389454,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1809,1729,6.0,11,1.45,40,58.0,"Kanishri, R P",,1489.0,False,IND,1.0,1,0.2,40,8.0
+33389454,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1809,1729,6.0,11,1.45,40,58.0,"Marium, Fatima",,1953.0,False,IND,0.5,1,0.28,40,11.2
+33389454,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1809,1729,6.0,11,1.45,40,58.0,"Arpita, Mukherjee",wm,2129.0,True,IND,0.5,1,0.42,40,16.8
+33389454,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1809,1729,6.0,11,1.45,40,58.0,"Kirthika, B",,1909.0,False,IND,0.5,1,0.24,40,9.6
+33389454,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1809,1729,6.0,11,1.45,40,58.0,"Tejaswini, Sagar",wm,1991.0,False,IND,0.0,1,-0.18,40,-7.2
+33389454,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1809,1729,6.0,11,1.45,40,58.0,"Himani, Dewangan",,1500.0,False,IND,1.0,1,0.21,40,8.4
+33389454,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1809,1729,6.0,11,1.45,40,58.0,"Sanchee, Sahoo",,1465.0,False,IND,0.5,1,-0.32,40,-12.8
+33389454,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1809,1729,6.0,11,1.45,40,58.0,"Akshaya, Sathi",,1829.0,False,IND,1.0,1,0.64,40,25.6
+33389454,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1737,1787,7.5,11,1.35,40,54.0,"Sasi, Hasini Chintala",,1469.0,False,IND,1.0,1,0.13,40,5.2
+33389454,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1737,1787,7.5,11,1.35,40,54.0,"Nandana, Mooketh",,1571.0,False,IND,1.0,1,0.22,40,8.8
+33389454,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1737,1787,7.5,11,1.35,40,54.0,"Saparya, Ghosh",wf,1936.0,False,IND,0.0,1,-0.3,40,-12.0
+33389454,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1737,1787,7.5,11,1.35,40,54.0,"Manya, Abhishek Drolia",,1582.0,False,IND,1.0,1,0.24,40,9.6
+33389454,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1737,1787,7.5,11,1.35,40,54.0,"Narayanan, Rishitha",,1569.0,False,IND,0.5,1,-0.28,40,-11.2
+33389454,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1737,1787,7.5,11,1.35,40,54.0,"Aditi, Arun",,1738.0,False,IND,1.0,1,0.43,40,17.2
+33389454,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1737,1787,7.5,11,1.35,40,54.0,"Yasaswi, Krishna Bommi",,1861.0,False,IND,0.5,1,0.1,40,4.0
+33389454,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1737,1787,7.5,11,1.35,40,54.0,"Ananya, Raman",,1910.0,False,IND,0.5,1,0.17,40,6.8
+33389454,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1737,1787,7.5,11,1.35,40,54.0,"Patil, Divya",,1974.0,False,IND,1.0,1,0.74,40,29.6
+33389454,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1737,1787,7.5,11,1.35,40,54.0,"Patil, Disha",,1800.0,False,IND,0.5,1,0.02,40,0.8
+33389454,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1737,1787,7.5,11,1.35,40,54.0,"Pournami, S",,1701.0,False,IND,0.5,1,-0.12,40,-4.8
+33389454,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1647,1841,8.5,11,0.39,40,15.6,"Aligi, Riya Hemal",,1479.0,False,IND,0.5,1,-0.4,40,-16.0
+33389454,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1647,1841,8.5,11,0.39,40,15.6,"Silarapu, Devi Dedipyasri",,1521.0,False,IND,1.0,1,0.13,40,5.2
+33389454,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1647,1841,8.5,11,0.39,40,15.6,"Dakhsha, Rudra",,1652.0,False,IND,0.0,1,-0.75,40,-30.0
+33389454,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1647,1841,8.5,11,0.39,40,15.6,"Dina, Patel",,1498.0,False,IND,1.0,1,0.12,40,4.8
+33389454,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1647,1841,8.5,11,0.39,40,15.6,"Waghle, Bhumika",,1595.0,False,IND,1.0,1,0.19,40,7.6
+33389454,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1647,1841,8.5,11,0.39,40,15.6,"Aadhya, Jain",,1715.0,False,IND,0.5,1,-0.17,40,-6.8
+33389454,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1647,1841,8.5,11,0.39,40,15.6,"Sahana, S",,1638.0,False,IND,1.0,1,0.24,40,9.6
+33389454,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1647,1841,8.5,11,0.39,40,15.6,"Rudra, Rajeev",,1747.0,False,IND,1.0,1,0.37,40,14.8
+33389454,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1647,1841,8.5,11,0.39,40,15.6,"Ameya, A R",,1777.0,False,IND,0.5,1,-0.09,40,-3.6
+33389454,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1647,1841,8.5,11,0.39,40,15.6,"Aditri, Shome",,1716.0,False,IND,1.0,1,0.33,40,13.2
+33389454,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1647,1841,8.5,11,0.39,40,15.6,"Archita, Agrawal",,1784.0,False,IND,1.0,1,0.42,40,16.8
+33389454,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1722,1857,7.0,8,1.68,40,67.2,"Advika, Pandey",,1502.0,False,IND,1.0,1,0.11,40,4.4
+33389454,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1722,1857,7.0,8,1.68,40,67.2,"Anvita, Sathi",,1603.0,False,IND,1.0,1,0.19,40,7.6
+33389454,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1722,1857,7.0,8,1.68,40,67.2,"Tripurambika, V",,1718.0,False,IND,0.5,1,-0.19,40,-7.6
+33389454,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1722,1857,7.0,8,1.68,40,67.2,"Siddhi, Rao",,1765.0,False,IND,1.0,1,0.37,40,14.8
+33389454,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1722,1857,7.0,8,1.68,40,67.2,"Sri, Darshini T",wc,1836.0,False,IND,0.5,1,-0.03,40,-1.2
+33389454,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1722,1857,7.0,8,1.68,40,67.2,"Aahna, Gulati",,1807.0,False,IND,1.0,1,0.43,40,17.2
+33389454,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1722,1857,7.0,8,1.68,40,67.2,"Aamuktha, Guntaka",,1922.0,False,IND,1.0,1,0.59,40,23.6
+33389454,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1722,1857,7.0,8,1.68,40,67.2,"Shreya, Rajesh",,1623.0,False,IND,1.0,1,0.21,40,8.4

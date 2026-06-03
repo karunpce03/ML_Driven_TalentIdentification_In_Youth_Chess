@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48701300,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1897,1803,4.5,9,1.03,40,41.2,"Haneen, Gamal Amin",,1440,False,UAE,1.0,1,0.1,40,4.0
+48701300,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1897,1803,4.5,9,1.03,40,41.2,"Redor, Menandro",,2032,False,PHI,0.5,1,0.29,40,11.6
+48701300,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1897,1803,4.5,9,1.03,40,41.2,"Elnemr, Mohamed",,2051,False,EGY,1.0,1,0.81,40,32.4
+48701300,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1897,1803,4.5,9,1.03,40,41.2,"Rajarishi, Karthi",c,2203,True,IND,0.0,1,-0.08,40,-3.2
+48701300,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1897,1803,4.5,9,1.03,40,41.2,"Dabhade, Arnav",,1935,False,IND,1.0,1,0.68,40,27.2
+48701300,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1897,1803,4.5,9,1.03,40,41.2,"Steiners, Emils",,2069,False,LAT,0.0,1,-0.18,40,-7.2
+48701300,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1897,1803,4.5,9,1.03,40,41.2,"Vihaan, Dumir",,1994,False,IND,0.0,1,-0.25,40,-10.0
+48701300,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1897,1803,4.5,9,1.03,40,41.2,"Vedant, Yogesh Kale",,1714,False,IND,0.0,1,-0.62,40,-24.8
+48701300,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1897,1803,4.5,9,1.03,40,41.2,"Vidur, Rajagopal",,1633,False,IND,1.0,1,0.28,40,11.2

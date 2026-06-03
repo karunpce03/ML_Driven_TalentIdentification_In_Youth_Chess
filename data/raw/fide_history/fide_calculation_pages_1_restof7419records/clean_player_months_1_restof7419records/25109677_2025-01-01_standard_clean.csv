@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25109677,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1807,1808,4.5,10,-0.66,40,-26.4,"Woning, Dirk",,1713.0,False,NED,1.0,1,0.37,40,14.8
+25109677,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1807,1808,4.5,10,-0.66,40,-26.4,"Shravan, Sriram",,1687.0,False,IND,0.0,1,-0.66,40,-26.4
+25109677,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1807,1808,4.5,10,-0.66,40,-26.4,"Mayanka, Paul",,1663.0,False,IND,0.0,1,-0.69,40,-27.6
+25109677,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1807,1808,4.5,10,-0.66,40,-26.4,"Dhinesh, K A",,1651.0,False,IND,1.0,1,0.29,40,11.6
+25109677,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1807,1808,4.5,10,-0.66,40,-26.4,"Aditya, Vikram Mishra",,1715.0,False,IND,0.5,1,-0.13,40,-5.2
+25109677,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1807,1808,4.5,10,-0.66,40,-26.4,"Badamundi, Tapan",,1964.0,False,IND,0.0,1,-0.29,40,-11.6
+25109677,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1807,1808,4.5,10,-0.66,40,-26.4,"Arijit, Ghosh",,1700.0,False,IND,0.5,1,-0.15,40,-6.0
+25109677,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1807,1808,4.5,10,-0.66,40,-26.4,"Bhanushali, Neemay",,1710.0,False,IND,1.0,1,0.37,40,14.8
+25109677,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1807,1808,4.5,10,-0.66,40,-26.4,"Fominyh, Alexander",g,2203.0,False,RUS,0.5,1,0.42,40,16.8
+25109677,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1807,1808,4.5,10,-0.66,40,-26.4,"Ziatdinov, Raset",g,2063.0,False,USA,0.0,1,-0.19,40,-7.6

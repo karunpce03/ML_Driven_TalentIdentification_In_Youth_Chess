@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429038936,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1601,1539,0.5,4,-1.24,40,-49.6,"Akshay, Madhusoodhanan",,1855.0,False,IND,0.0,1,-0.13,40,-5.2
+429038936,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1601,1539,0.5,4,-1.24,40,-49.6,"Magizhini, M",,1692.0,False,IND,0.0,1,-0.3,40,-12.0
+429038936,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1601,1539,0.5,4,-1.24,40,-49.6,"Chirag, C S",,1425.0,False,IND,0.5,1,-0.16,40,-6.4
+429038936,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1601,1539,0.5,4,-1.24,40,-49.6,"Vasista, Harsha Thumbaraguddi",,1432.0,False,IND,0.0,1,-0.65,40,-26.0

@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33395837,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1571,1453,1.5,4,0.07,40,2.8,"Maitreyi, Mondal",,1778.0,False,IND,0.0,1,-0.13,40,-5.2
+33395837,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1571,1453,1.5,4,0.07,40,2.8,"Pragya, Jain",,1491.0,False,IND,0.5,1,0.05,40,2.0
+33395837,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1571,1453,1.5,4,0.07,40,2.8,"Aditri, Baisya",,1540.0,False,IND,0.5,1,0.12,40,4.8
+33395837,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1571,1453,1.5,4,0.07,40,2.8,"Oiendrila, Bhattacharya",,1476.0,False,IND,0.5,1,0.03,40,1.2

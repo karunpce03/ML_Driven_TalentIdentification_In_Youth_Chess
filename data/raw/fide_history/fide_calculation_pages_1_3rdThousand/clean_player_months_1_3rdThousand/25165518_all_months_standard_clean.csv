@@ -1,0 +1,114 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25165518,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,1984,1927,4.0,9,0.0,38,0.0,"Rey Martinez, Jaime",f,2312.0,False,ESP,0.0,1,-0.09,38,-3.42
+25165518,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,1984,1927,4.0,9,0.0,38,0.0,"Munoz Avila, Jose Luis",,2256.0,False,ESP,0.5,1,0.38,38,14.44
+25165518,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,1984,1927,4.0,9,0.0,38,0.0,"Jimenez Carrazoni, Marta Elena",,1756.0,False,ESP,0.0,1,-0.73,38,-27.74
+25165518,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,1984,1927,4.0,9,0.0,38,0.0,"Bruessow, Nina",,1842.0,False,SUI,1.0,1,0.38,38,14.44
+25165518,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,1984,1927,4.0,9,0.0,38,0.0,"Rodriguez Redondo, Adhara",wf,2143.0,False,ESP,0.0,1,-0.22,38,-8.36
+25165518,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,1984,1927,4.0,9,0.0,38,0.0,"S, A Krishna Prakaash",,1860.0,False,IND,0.5,1,-0.09,38,-3.42
+25165518,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,1984,1927,4.0,9,0.0,38,0.0,"Ortega Sanchez Montanez, Marcos",,1788.0,False,ESP,1.0,1,0.31,38,11.78
+25165518,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,1984,1927,4.0,9,0.0,38,0.0,"Perea Fruet, Federico",,2065.0,False,ESP,0.0,1,-0.31,38,-11.78
+25165518,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,1984,1927,4.0,9,0.0,38,0.0,"Burriel Ureta, Raul",,1834.0,False,ESP,1.0,1,0.37,38,14.06
+25165518,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2116,1956,4.0,9,1.32,38,50.16,"Koulitchenko, Alexandre",,2189.0,False,FRA,1.0,1,0.79,38,30.02
+25165518,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2116,1956,4.0,9,1.32,38,50.16,"Charmeteau, Sven",f,2297.0,False,FRA,0.0,1,-0.12,38,-4.56
+25165518,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2116,1956,4.0,9,1.32,38,50.16,"Anciaux, Adrien",f,2215.0,False,BEL,0.0,1,-0.18,38,-6.84
+25165518,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2116,1956,4.0,9,1.32,38,50.16,"Coles, Ruben",,2093.0,False,FRA,0.0,1,-0.32,38,-12.16
+25165518,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2116,1956,4.0,9,1.32,38,50.16,"Boulemnakher, Karim",,2003.0,False,FRA,1.0,1,0.57,38,21.66
+25165518,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2116,1956,4.0,9,1.32,38,50.16,"Saad, Gabriel",,2021.0,False,FRA,0.0,1,-0.41,38,-15.58
+25165518,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2116,1956,4.0,9,1.32,38,50.16,"Tan, Zhong Kai",,2020.0,False,SGP,1.0,1,0.59,38,22.42
+25165518,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2116,1956,4.0,9,1.32,38,50.16,"Aravindhan, Achyuth",,2071.0,False,NED,0.5,1,0.16,38,6.08
+25165518,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2116,1956,4.0,9,1.32,38,50.16,"Djokic, Mihailo",f,2139.0,False,SRB,0.5,1,0.24,38,9.12
+25165518,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2051,2006,3.0,9,-1.15,40,-46.0,"Dhruva, Thota",,2349.0,False,IND,0.0,1,-0.12,40,-4.8
+25165518,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2051,2006,3.0,9,-1.15,40,-46.0,"Abdulrahim, Salem",,1824.0,False,UAE,0.5,1,-0.24,40,-9.6
+25165518,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2051,2006,3.0,9,-1.15,40,-46.0,"Al Qudaimi, Basheer",m,2375.0,False,YEM,0.0,1,-0.1,40,-4.0
+25165518,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2051,2006,3.0,9,-1.15,40,-46.0,"Dehghan, Ibrahim",,1930.0,False,FID,0.5,1,-0.1,40,-4.0
+25165518,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2051,2006,3.0,9,-1.15,40,-46.0,"Ahmad, Al Romaithi",,1944.0,False,UAE,0.0,1,-0.59,40,-23.6
+25165518,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2051,2006,3.0,9,-1.15,40,-46.0,"Raihaan, Zahid",,1929.0,False,IND,0.5,1,-0.11,40,-4.4
+25165518,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2051,2006,3.0,9,-1.15,40,-46.0,"Aryan, Mehta",,1935.0,False,IND,1.0,1,0.4,40,16.0
+25165518,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2051,2006,3.0,9,-1.15,40,-46.0,"Aydin, Gulenay",wm,2195.0,False,TUR,0.5,1,0.25,40,10.0
+25165518,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2051,2006,3.0,9,-1.15,40,-46.0,"Romany, Joy",,1980.0,False,EGY,0.0,1,-0.54,40,-21.6
+25165518,2024-08-01,0,7. Open Bohumin 2024 A,Bohumin CZE,2024-06-29,2024-07-06,2039,1960,4.0,9,0.42,38,15.96,"Lojek, Marek",,2140.0,False,CZE,0.5,1,0.24,38,9.12
+25165518,2024-08-01,0,7. Open Bohumin 2024 A,Bohumin CZE,2024-06-29,2024-07-06,2039,1960,4.0,9,0.42,38,15.96,"Djuric, Stefan",g,2224.0,False,SRB,0.0,1,-0.18,38,-6.84
+25165518,2024-08-01,0,7. Open Bohumin 2024 A,Bohumin CZE,2024-06-29,2024-07-06,2039,1960,4.0,9,0.42,38,15.96,"Pelc, Adam",,2055.0,False,CZE,0.5,1,0.13,38,4.94
+25165518,2024-08-01,0,7. Open Bohumin 2024 A,Bohumin CZE,2024-06-29,2024-07-06,2039,1960,4.0,9,0.42,38,15.96,"Kulich, Filip",,2043.0,False,SVK,0.5,1,0.11,38,4.18
+25165518,2024-08-01,0,7. Open Bohumin 2024 A,Bohumin CZE,2024-06-29,2024-07-06,2039,1960,4.0,9,0.42,38,15.96,"Sochorova, Petra",wm,2040.0,False,CZE,0.0,1,-0.39,38,-14.82
+25165518,2024-08-01,0,7. Open Bohumin 2024 A,Bohumin CZE,2024-06-29,2024-07-06,2039,1960,4.0,9,0.42,38,15.96,"Yagiz, Bora",,1922.0,False,TUR,1.0,1,0.45,38,17.1
+25165518,2024-08-01,0,7. Open Bohumin 2024 A,Bohumin CZE,2024-06-29,2024-07-06,2039,1960,4.0,9,0.42,38,15.96,"Hanak, Tomas",,1981.0,False,CZE,0.0,1,-0.47,38,-17.86
+25165518,2024-08-01,0,7. Open Bohumin 2024 A,Bohumin CZE,2024-06-29,2024-07-06,2039,1960,4.0,9,0.42,38,15.96,"Kulich, Daniel",,1904.0,False,SVK,0.5,1,-0.08,38,-3.04
+25165518,2024-08-01,0,7. Open Bohumin 2024 A,Bohumin CZE,2024-06-29,2024-07-06,2039,1960,4.0,9,0.42,38,15.96,"Olsar, Jaroslav",f,2042.0,False,CZE,1.0,1,0.61,38,23.18
+25165518,2024-08-01,0,Warsaw Chess Festival - group A,Warszawa POL,2024-07-09,2024-07-17,2055,1960,2.5,9,-0.83,38,-31.54,"Rozycki, Bartlomiej",,2099.0,False,POL,0.0,1,-0.31,38,-11.78
+25165518,2024-08-01,0,Warsaw Chess Festival - group A,Warszawa POL,2024-07-09,2024-07-17,2055,1960,2.5,9,-0.83,38,-31.54,"Ashwath, Kaushik",c,2029.0,False,SGP,0.5,1,0.1,38,3.8
+25165518,2024-08-01,0,Warsaw Chess Festival - group A,Warszawa POL,2024-07-09,2024-07-17,2055,1960,2.5,9,-0.83,38,-31.54,"Pancewicz, Szymon",,2041.0,False,POL,0.5,1,0.11,38,4.18
+25165518,2024-08-01,0,Warsaw Chess Festival - group A,Warszawa POL,2024-07-09,2024-07-17,2055,1960,2.5,9,-0.83,38,-31.54,"Dobosiewicz, Dawid",,2028.0,False,POL,0.5,1,0.09,38,3.42
+25165518,2024-08-01,0,Warsaw Chess Festival - group A,Warszawa POL,2024-07-09,2024-07-17,2055,1960,2.5,9,-0.83,38,-31.54,"Przybylski, Bartosz",,2060.0,False,POL,0.0,1,-0.36,38,-13.68
+25165518,2024-08-01,0,Warsaw Chess Festival - group A,Warszawa POL,2024-07-09,2024-07-17,2055,1960,2.5,9,-0.83,38,-31.54,"Celinski, Kamil",,2022.0,False,POL,0.0,1,-0.41,38,-15.58
+25165518,2024-08-01,0,Warsaw Chess Festival - group A,Warszawa POL,2024-07-09,2024-07-17,2055,1960,2.5,9,-0.83,38,-31.54,"Slomczewski, Michal",,2081.0,False,NED,1.0,1,0.66,38,25.08
+25165518,2024-08-01,0,Warsaw Chess Festival - group A,Warszawa POL,2024-07-09,2024-07-17,2055,1960,2.5,9,-0.83,38,-31.54,"Alvarado, Carlos",c,2108.0,False,PER,0.0,1,-0.3,38,-11.4
+25165518,2024-08-01,0,Warsaw Chess Festival - group A,Warszawa POL,2024-07-09,2024-07-17,2055,1960,2.5,9,-0.83,38,-31.54,"Bergan, Gaute",c,2027.0,False,NOR,0.0,1,-0.41,38,-15.58
+25165518,2024-11-01,0,Open international de Liffre 2024 - A,LIFFRE FRA,2024-10-19,2024-10-25,1932,1944,4.0,9,-0.7,40,-28.0,"Holcman, Jeremy",,2084.0,False,FRA,0.0,1,-0.31,40,-12.4
+25165518,2024-11-01,0,Open international de Liffre 2024 - A,LIFFRE FRA,2024-10-19,2024-10-25,1932,1944,4.0,9,-0.7,40,-28.0,"Dhanesh, Venkata Narayanaswam",,1871.0,False,SGP,1.0,1,0.4,40,16.0
+25165518,2024-11-01,0,Open international de Liffre 2024 - A,LIFFRE FRA,2024-10-19,2024-10-25,1932,1944,4.0,9,-0.7,40,-28.0,"Vallee, Louis",f,2314.0,False,FRA,0.0,1,-0.1,40,-4.0
+25165518,2024-11-01,0,Open international de Liffre 2024 - A,LIFFRE FRA,2024-10-19,2024-10-25,1932,1944,4.0,9,-0.7,40,-28.0,"Martineau, Arthur",,1878.0,False,FRA,0.5,1,-0.09,40,-3.6
+25165518,2024-11-01,0,Open international de Liffre 2024 - A,LIFFRE FRA,2024-10-19,2024-10-25,1932,1944,4.0,9,-0.7,40,-28.0,"Masson, Alexandre",,1844.0,False,FRA,0.5,1,-0.14,40,-5.6
+25165518,2024-11-01,0,Open international de Liffre 2024 - A,LIFFRE FRA,2024-10-19,2024-10-25,1932,1944,4.0,9,-0.7,40,-28.0,"Sagi, Elisha",,2078.0,False,FRA,0.0,1,-0.32,40,-12.8
+25165518,2024-11-01,0,Open international de Liffre 2024 - A,LIFFRE FRA,2024-10-19,2024-10-25,1932,1944,4.0,9,-0.7,40,-28.0,"Carnac, Vincent",,1899.0,False,FRA,0.0,1,-0.56,40,-22.4
+25165518,2024-11-01,0,Open international de Liffre 2024 - A,LIFFRE FRA,2024-10-19,2024-10-25,1932,1944,4.0,9,-0.7,40,-28.0,"Bonnet, Titouan",,1688.0,False,FRA,1.0,1,0.19,40,7.6
+25165518,2024-11-01,0,Open international de Liffre 2024 - A,LIFFRE FRA,2024-10-19,2024-10-25,1932,1944,4.0,9,-0.7,40,-28.0,"Delmas, Alexi",,1735.0,False,FRA,1.0,1,0.23,40,9.2
+25165518,2024-12-01,0,BENIDORM CHESS OPEN A 2024,Benidorm (Alicante) ESP,2024-10-27,2024-11-03,2197,1944,5.0,9,3.2,38,121.6,"Rodriguez Lopez, Rafael",m,2150.0,False,ESP,0.5,1,0.26,38,9.88
+25165518,2024-12-01,0,BENIDORM CHESS OPEN A 2024,Benidorm (Alicante) ESP,2024-10-27,2024-11-03,2197,1944,5.0,9,3.2,38,121.6,"Mitchell, Martin",,2160.0,False,SCO,0.5,1,0.28,38,10.64
+25165518,2024-12-01,0,BENIDORM CHESS OPEN A 2024,Benidorm (Alicante) ESP,2024-10-27,2024-11-03,2197,1944,5.0,9,3.2,38,121.6,"Blanco Sanjuan, Jorge",,2144.0,False,ESP,1.0,1,0.76,38,28.88
+25165518,2024-12-01,0,BENIDORM CHESS OPEN A 2024,Benidorm (Alicante) ESP,2024-10-27,2024-11-03,2197,1944,5.0,9,3.2,38,121.6,"Maldonado Mena, German",,2173.0,False,ESP,1.0,1,0.79,38,30.02
+25165518,2024-12-01,0,BENIDORM CHESS OPEN A 2024,Benidorm (Alicante) ESP,2024-10-27,2024-11-03,2197,1944,5.0,9,3.2,38,121.6,"Medhus, Vitus Bondo",f,2297.0,False,DEN,0.5,1,0.39,38,14.82
+25165518,2024-12-01,0,BENIDORM CHESS OPEN A 2024,Benidorm (Alicante) ESP,2024-10-27,2024-11-03,2197,1944,5.0,9,3.2,38,121.6,"Shearsby, Jude",c,2192.0,False,ENG,0.5,1,0.31,38,11.78
+25165518,2024-12-01,0,BENIDORM CHESS OPEN A 2024,Benidorm (Alicante) ESP,2024-10-27,2024-11-03,2197,1944,5.0,9,3.2,38,121.6,"Van Der Hagen, Loek",f,2322.0,False,NED,0.0,1,-0.09,38,-3.42
+25165518,2024-12-01,0,BENIDORM CHESS OPEN A 2024,Benidorm (Alicante) ESP,2024-10-27,2024-11-03,2197,1944,5.0,9,3.2,38,121.6,"Avetisyan, Ani",,2010.0,False,ARM,1.0,1,0.59,38,22.42
+25165518,2024-12-01,0,BENIDORM CHESS OPEN A 2024,Benidorm (Alicante) ESP,2024-10-27,2024-11-03,2197,1944,5.0,9,3.2,38,121.6,"Diaz Velandia, Jose Manuel",f,2329.0,False,VEN,0.0,1,-0.09,38,-3.42
+25165518,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1963,1916,5.5,9,1.56,38,59.28,"Levay, Sorin",f,2076.0,False,ROU,0.0,1,-0.29,38,-11.02
+25165518,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1963,1916,5.5,9,1.56,38,59.28,"Nagy, Ervin Dr.",m,2112.0,False,HUN,0.5,1,0.25,38,9.5
+25165518,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1963,1916,5.5,9,1.56,38,59.28,"Kozma, Edit",wf,1841.0,False,HUN,1.0,1,0.4,38,15.2
+25165518,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1963,1916,5.5,9,1.56,38,59.28,"Farago, Sandor",m,2038.0,False,HUN,0.0,1,-0.33,38,-12.54
+25165518,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1963,1916,5.5,9,1.56,38,59.28,"Sanjay, Narayanan P S",,1811.0,False,IND,1.0,1,0.36,38,13.68
+25165518,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1963,1916,5.5,9,1.56,38,59.28,"Mrithyunjay, Mahadevan",c,1931.0,False,IND,0.5,1,0.02,38,0.76
+25165518,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1963,1916,5.5,9,1.56,38,59.28,"Tanish, Ragavan S",,1919.0,False,IND,1.0,1,0.5,38,19.0
+25165518,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1963,1916,5.5,9,1.56,38,59.28,"Bernula, Istvan",,1951.0,False,HUN,1.0,1,0.55,38,20.9
+25165518,2024-12-01,0,Vezerkepzo All Saints U2300,Budapest HUN,2024-11-13,2024-11-21,1963,1916,5.5,9,1.56,38,59.28,"Kahn, Evarth Dr.",m,1989.0,False,HUN,0.5,1,0.1,38,3.8
+25165518,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2240,1916,3.0,10,1.66,40,66.4,"Mitev, Valentin",f,2274.0,False,BUL,1.0,1,0.9,40,36.0
+25165518,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2240,1916,3.0,10,1.66,40,66.4,"Habans Aguerrea, Javier",f,2316.0,True,ESP,0.0,1,-0.08,40,-3.2
+25165518,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2240,1916,3.0,10,1.66,40,66.4,"Torrecillas Martinez, Antonio",m,2274.0,False,ESP,0.5,1,0.4,40,16.0
+25165518,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2240,1916,3.0,10,1.66,40,66.4,"Salinas Tomas, Daniel",c,2316.0,True,ESP,0.0,1,-0.08,40,-3.2
+25165518,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2240,1916,3.0,10,1.66,40,66.4,"Martin Barcelo, Carles",f,2260.0,False,ESP,0.0,1,-0.12,40,-4.8
+25165518,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2240,1916,3.0,10,1.66,40,66.4,"Ryan, Joseph",f,2213.0,False,IRL,0.5,1,0.35,40,14.0
+25165518,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2240,1916,3.0,10,1.66,40,66.4,"Muir, Andrew J",m,2214.0,False,SCO,1.0,1,0.85,40,34.0
+25165518,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2240,1916,3.0,10,1.66,40,66.4,"Roca Planas, Edgar",,2251.0,False,ESP,0.0,1,-0.12,40,-4.8
+25165518,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2240,1916,3.0,10,1.66,40,66.4,"Vijayakumar, Rishi",,2172.0,False,SCO,0.0,1,-0.19,40,-7.6
+25165518,2025-01-01,0,V elllobregat Open Chess Tmnt 2024 Group A,Sant Boi de Llobregat (Barcelona) ESP,2024-11-29,2024-12-08,2240,1916,3.0,10,1.66,40,66.4,"Sepliarsky, Mario",,2109.0,False,ARG,0.0,1,-0.25,40,-10.0
+25165518,2025-01-01,0,Riga Christmas Chess Festival 2024 WIM norm,Riga LAT,2024-12-09,2024-12-15,2027,2097,0.5,4,-1.89,40,-75.6,"Cassi, Elisa",wf,2020.0,False,ITA,0.0,1,-0.61,40,-24.4
+25165518,2025-01-01,0,Riga Christmas Chess Festival 2024 WIM norm,Riga LAT,2024-12-09,2024-12-15,2027,2097,0.5,4,-1.89,40,-75.6,"Iordache, Alexia-Andreea",,1979.0,False,ROU,0.0,1,-0.66,40,-26.4
+25165518,2025-01-01,0,Riga Christmas Chess Festival 2024 WIM norm,Riga LAT,2024-12-09,2024-12-15,2027,2097,0.5,4,-1.89,40,-75.6,"Gombocz, Zsofia",wf,2014.0,False,HUN,0.5,1,-0.11,40,-4.4
+25165518,2025-01-01,0,Riga Christmas Chess Festival 2024 WIM norm,Riga LAT,2024-12-09,2024-12-15,2027,2097,0.5,4,-1.89,40,-75.6,"Verbin, Valentina",wf,2093.0,False,MDA,0.0,1,-0.51,40,-20.4
+25165518,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2073,2088,5.0,10,-0.36,40,-14.4,"Leelajai, Krishna N",,1888.0,False,IND,1.0,1,0.24,40,9.6
+25165518,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2073,2088,5.0,10,-0.36,40,-14.4,"Vaz, Ethan",m,2412.0,False,IND,0.5,1,0.37,40,14.8
+25165518,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2073,2088,5.0,10,-0.36,40,-14.4,"Fedorov, Alexei",g,2409.0,False,BLR,0.0,1,-0.13,40,-5.2
+25165518,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2073,2088,5.0,10,-0.36,40,-14.4,"Sherali, Pattnaik",wc,1936.0,False,IND,1.0,1,0.3,40,12.0
+25165518,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2073,2088,5.0,10,-0.36,40,-14.4,"Ritviz, Parab",f,2371.0,False,IND,0.0,1,-0.16,40,-6.4
+25165518,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2073,2088,5.0,10,-0.36,40,-14.4,"Sai, Abhinav Kuchibhotla",,1945.0,False,IND,0.5,1,-0.19,40,-7.6
+25165518,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2073,2088,5.0,10,-0.36,40,-14.4,"Vismay, Sachar",,1908.0,False,IND,0.5,1,-0.24,40,-9.6
+25165518,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2073,2088,5.0,10,-0.36,40,-14.4,"Saparya, Ghosh",wf,1961.0,False,IND,0.5,1,-0.17,40,-6.8
+25165518,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2073,2088,5.0,10,-0.36,40,-14.4,"Om, Nagnath Lamkane",,1956.0,False,IND,0.5,1,-0.18,40,-7.2
+25165518,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2073,2088,5.0,10,-0.36,40,-14.4,"Arnav, Mahesh Koli",,1941.0,False,IND,0.5,1,-0.2,40,-8.0
+25165518,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2172,2074,4.0,8,0.96,40,38.4,"Dixit, Nikhil",f,2349.0,False,IND,0.0,1,-0.17,40,-6.8
+25165518,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2172,2074,4.0,8,0.96,40,38.4,"Bettalli, Francesco",f,2351.0,False,ITA,0.0,1,-0.17,40,-6.8
+25165518,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2172,2074,4.0,8,0.96,40,38.4,"Stadlinger, Lea",,1962.0,False,AUT,1.0,1,0.35,40,14.0
+25165518,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2172,2074,4.0,8,0.96,40,38.4,"Tumur-Ochir, Duluu",,2221.0,False,MGL,0.0,1,-0.3,40,-12.0
+25165518,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2172,2074,4.0,8,0.96,40,38.4,"Groessing, Daniel-Yosuke",,1991.0,False,AUT,1.0,1,0.39,40,15.6
+25165518,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2172,2074,4.0,8,0.96,40,38.4,"Maldonado Gonzales, Stefano",,2276.0,False,ITA,0.0,1,-0.24,40,-9.6
+25165518,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2172,2074,4.0,8,0.96,40,38.4,"Segizbayev, Iskander",,1976.0,False,KAZ,1.0,1,0.37,40,14.8
+25165518,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2172,2074,4.0,8,0.96,40,38.4,"Sandhoefner, Florian",f,2249.0,False,AUT,1.0,1,0.73,40,29.2
+25165518,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2198,2074,4.5,9,1.5,40,60.0,"Bruaset, Eivind",,2245.0,False,NOR,0.5,1,0.23,40,9.2
+25165518,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2198,2074,4.5,9,1.5,40,60.0,"Gut, Raphael",,2236.0,False,SUI,0.5,1,0.21,40,8.4
+25165518,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2198,2074,4.5,9,1.5,40,60.0,"Ernst, Luca",f,2225.0,False,FRA,0.0,1,-0.3,40,-12.0
+25165518,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2198,2074,4.5,9,1.5,40,60.0,"Lipecki, Alexander",,2177.0,False,SUI,1.0,1,0.64,40,25.6
+25165518,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2198,2074,4.5,9,1.5,40,60.0,"Neiman, Emmanuel",f,2215.0,False,FRA,0.0,1,-0.31,40,-12.4
+25165518,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2198,2074,4.5,9,1.5,40,60.0,"Beliman, Alexandro",,2179.0,False,ITA,0.5,1,0.14,40,5.6
+25165518,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2198,2074,4.5,9,1.5,40,60.0,"Boumrar, Ayrad",f,2194.0,False,FRA,0.0,1,-0.34,40,-13.6
+25165518,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2198,2074,4.5,9,1.5,40,60.0,"Rasolo, Loick",,2115.0,False,FRA,1.0,1,0.56,40,22.4
+25165518,2025-04-01,0,38eme Festival International des Jeux de Cannes - Open A (p2100),CANNES FRA,2025-02-24,2025-03-02,2198,2074,4.5,9,1.5,40,60.0,"Zoncu, Roberto Alessio",,2199.0,False,ITA,1.0,1,0.67,40,26.8

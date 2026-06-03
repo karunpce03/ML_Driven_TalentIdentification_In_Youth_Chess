@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Majji, Ram Charan Teja",,1740,False,IND,1.0,1,0.14,40,5.6
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Nirvan, Bhamidi",,1846,False,IND,0.5,1,-0.26,40,-10.4
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Atiksh, Thakur",,1843,False,IND,0.0,1,-0.76,40,-30.4
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Shreyas, Mishra",,1762,False,IND,0.0,1,-0.84,40,-33.6
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Sayyam, Narang",,1645,True,IND,1.0,1,0.08,40,3.2
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Vyom, Malhotra",,1806,False,IND,0.0,1,-0.8,40,-32.0
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Bhanushali, Neemay",,1736,False,IND,1.0,1,0.14,40,5.6
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Divyanshu, Kumar Singh",,1807,False,IND,1.0,1,0.2,40,8.0
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Ram, Vishal Parab",,1871,False,IND,0.0,1,-0.73,40,-29.2
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Banik, Hrishikesh Kumar",,1796,False,IND,0.0,1,-0.81,40,-32.4
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Advik, Singh Chauhan",,1760,False,IND,0.5,1,-0.34,40,-13.6

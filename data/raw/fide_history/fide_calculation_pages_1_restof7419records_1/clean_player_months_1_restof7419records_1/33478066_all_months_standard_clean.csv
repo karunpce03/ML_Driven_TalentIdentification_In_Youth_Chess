@@ -1,0 +1,81 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33478066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2312,2217,3.5,8,0.52,40,20.8,"Nemeth, Miklos",m,2444.0,False,HUN,0.5,1,0.29,40,11.6
+33478066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2312,2217,3.5,8,0.52,40,20.8,"Kushko, Dmitriy",m,2445.0,False,UKR,0.5,1,0.29,40,11.6
+33478066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2312,2217,3.5,8,0.52,40,20.8,"Sinz, Bernhard",f,2335.0,False,GER,0.0,1,-0.34,40,-13.6
+33478066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2312,2217,3.5,8,0.52,40,20.8,"Al Thebaiti, Ahmed M",c,2009.0,False,KSA,1.0,1,0.23,40,9.2
+33478066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2312,2217,3.5,8,0.52,40,20.8,"Milosevic, Milos",m,2328.0,False,SRB,0.5,1,0.15,40,6.0
+33478066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2312,2217,3.5,8,0.52,40,20.8,"Song, Julien",m,2312.0,False,FRA,0.5,1,0.13,40,5.2
+33478066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2312,2217,3.5,8,0.52,40,20.8,"Borocz, Istvan",m,2324.0,False,HUN,0.5,1,0.15,40,6.0
+33478066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2312,2217,3.5,8,0.52,40,20.8,"Kozlovic, Jernej",f,2301.0,False,SLO,0.0,1,-0.38,40,-15.2
+33478066,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2367,2217,2.5,5,0.99,40,39.6,"Lewicki, Miroslaw",m,2338.0,False,POL,1.0,1,0.66,40,26.4
+33478066,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2367,2217,2.5,5,0.99,40,39.6,"Apoorv, Kamble",f,2369.0,False,IND,0.5,1,0.2,40,8.0
+33478066,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2367,2217,2.5,5,0.99,40,39.6,"Hollan, Martin",f,2373.0,False,CZE,0.5,1,0.21,40,8.4
+33478066,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2367,2217,2.5,5,0.99,40,39.6,"Nguyen, Piotr",m,2426.0,False,POL,0.0,1,-0.23,40,-9.2
+33478066,2024-08-01,0,XII Cracow International Chess Championships 2024 - OPEN A FIDE,Krakow POL,2024-06-22,2024-06-29,2367,2217,2.5,5,0.99,40,39.6,"Suder, Jakub",f,2328.0,False,POL,0.5,1,0.15,40,6.0
+33478066,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2383,2278,0.5,5,-1.28,40,-51.2,"Mammadov, Zaur",g,2424.0,False,AZE,0.5,1,0.2,40,8.0
+33478066,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2383,2278,0.5,5,-1.28,40,-51.2,"Cubas, Jose Fernando",g,2420.0,False,PAR,0.0,1,-0.31,40,-12.4
+33478066,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2383,2278,0.5,5,-1.28,40,-51.2,"Aitbayev, Aslan",m,2380.0,False,KAZ,0.0,1,-0.36,40,-14.4
+33478066,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2383,2278,0.5,5,-1.28,40,-51.2,"Mammadova, Narmin",wm,2327.0,False,AZE,0.0,1,-0.43,40,-17.2
+33478066,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2383,2278,0.5,5,-1.28,40,-51.2,"Ajay Krishna, S",m,2365.0,False,IND,0.0,1,-0.38,40,-15.2
+33478066,2024-11-01,0,III Colonia de Sant Jordi International Chess Festival 2024 - IM Norm Round Robin,Ses Salines (Baleares) ESP,2024-10-19,2024-10-27,2274,2227,5.0,9,1.07,40,42.8,"Del Rey, Diego",m,2265.0,False,ESP,0.5,1,0.05,40,2.0
+33478066,2024-11-01,0,III Colonia de Sant Jordi International Chess Festival 2024 - IM Norm Round Robin,Ses Salines (Baleares) ESP,2024-10-19,2024-10-27,2274,2227,5.0,9,1.07,40,42.8,"Domalchuk-Jonasson, Aleksandr",f,2384.0,False,ISL,0.5,1,0.21,40,8.4
+33478066,2024-11-01,0,III Colonia de Sant Jordi International Chess Festival 2024 - IM Norm Round Robin,Ses Salines (Baleares) ESP,2024-10-19,2024-10-27,2274,2227,5.0,9,1.07,40,42.8,"Aguado Doncel, Pablo Luis",c,2319.0,False,ESP,0.5,1,0.13,40,5.2
+33478066,2024-11-01,0,III Colonia de Sant Jordi International Chess Festival 2024 - IM Norm Round Robin,Ses Salines (Baleares) ESP,2024-10-19,2024-10-27,2274,2227,5.0,9,1.07,40,42.8,"Krzywda, Andrzej",c,2192.0,False,POL,0.5,1,-0.05,40,-2.0
+33478066,2024-11-01,0,III Colonia de Sant Jordi International Chess Festival 2024 - IM Norm Round Robin,Ses Salines (Baleares) ESP,2024-10-19,2024-10-27,2274,2227,5.0,9,1.07,40,42.8,"Liu, Tianyi (jack)",,2216.0,False,ENG,0.5,1,-0.02,40,-0.8
+33478066,2024-11-01,0,III Colonia de Sant Jordi International Chess Festival 2024 - IM Norm Round Robin,Ses Salines (Baleares) ESP,2024-10-19,2024-10-27,2274,2227,5.0,9,1.07,40,42.8,"Pousada Garcia, Victor Daniel",,2050.0,False,ESP,1.0,1,0.27,40,10.8
+33478066,2024-11-01,0,III Colonia de Sant Jordi International Chess Festival 2024 - IM Norm Round Robin,Ses Salines (Baleares) ESP,2024-10-19,2024-10-27,2274,2227,5.0,9,1.07,40,42.8,"Marin Ferragut, Pau",f,2314.0,False,ESP,0.0,1,-0.38,40,-15.2
+33478066,2024-11-01,0,III Colonia de Sant Jordi International Chess Festival 2024 - IM Norm Round Robin,Ses Salines (Baleares) ESP,2024-10-19,2024-10-27,2274,2227,5.0,9,1.07,40,42.8,"Garcia Blanco, Omar",f,2377.0,False,ESP,1.0,1,0.7,40,28.0
+33478066,2024-11-01,0,III Colonia de Sant Jordi International Chess Festival 2024 - IM Norm Round Robin,Ses Salines (Baleares) ESP,2024-10-19,2024-10-27,2274,2227,5.0,9,1.07,40,42.8,"Ragnarsson, Dagur",m,2346.0,False,ISL,0.5,1,0.16,40,6.4
+33478066,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2356,2270,4.0,8,0.93,40,37.2,"Vantika, Agrawal",m wg,2392.0,False,IND,0.0,1,-0.33,40,-13.2
+33478066,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2356,2270,4.0,8,0.93,40,37.2,"Schekachikhin, Maksim",m,2353.0,False,FID,0.0,1,-0.39,40,-15.6
+33478066,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2356,2270,4.0,8,0.93,40,37.2,"Apaar, Saxena",c,2333.0,False,IND,1.0,1,0.59,40,23.6
+33478066,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2356,2270,4.0,8,0.93,40,37.2,"Ankit, Ray",f,2320.0,False,IND,1.0,1,0.57,40,22.8
+33478066,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2356,2270,4.0,8,0.93,40,37.2,"Garv, Gaur",f,2388.0,False,IND,0.0,1,-0.34,40,-13.6
+33478066,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2356,2270,4.0,8,0.93,40,37.2,"Timoshin, Maxim",f,2361.0,False,FID,0.0,1,-0.38,40,-15.2
+33478066,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2356,2270,4.0,8,0.93,40,37.2,"Khamdamova, Afruza",wm,2330.0,False,UZB,1.0,1,0.58,40,23.2
+33478066,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2356,2270,4.0,8,0.93,40,37.2,"Mamatov, Melis",f,2367.0,False,KGZ,1.0,1,0.63,40,25.2
+33478066,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2410,2307,4.5,9,1.24,20,24.8,"Zverev, Lev",m,2421.0,False,FID,0.5,1,0.16,20,3.2
+33478066,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2410,2307,4.5,9,1.24,20,24.8,"Gombocz, Ferenc Jr.",f,2316.0,False,HUN,0.5,1,0.01,20,0.2
+33478066,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2410,2307,4.5,9,1.24,20,24.8,"Aczel, Gergely",g,2482.0,False,HUN,0.5,1,0.23,20,4.6
+33478066,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2410,2307,4.5,9,1.24,20,24.8,"Szpar, Milosz",m,2457.0,False,POL,0.5,1,0.2,20,4.0
+33478066,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2410,2307,4.5,9,1.24,20,24.8,"Pap, Misa",g,2436.0,False,SRB,0.5,1,0.17,20,3.4
+33478066,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2410,2307,4.5,9,1.24,20,24.8,"Berczes, David",g,2406.0,False,HUN,0.5,1,0.14,20,2.8
+33478066,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2410,2307,4.5,9,1.24,20,24.8,"Gedajlovic, Max",m,2391.0,False,CAN,0.5,1,0.12,20,2.4
+33478066,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2410,2307,4.5,9,1.24,20,24.8,"Rathanvel, V S",m,2484.0,False,IND,0.5,1,0.23,20,4.6
+33478066,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2410,2307,4.5,9,1.24,20,24.8,"Bhagat, Kush",f,2294.0,False,IND,0.5,1,-0.02,20,-0.4
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2334,2307,5.0,9,0.86,20,17.2,"Petrusic, Velimir",,2101.0,False,SRB,0.5,1,-0.26,20,-5.2
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2334,2307,5.0,9,0.86,20,17.2,"Warchol, Kamil",f,2158.0,False,POL,1.0,1,0.3,20,6.0
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2334,2307,5.0,9,0.86,20,17.2,"Nigametzianov, Mikhail",f,2399.0,False,RUS,0.5,1,0.13,20,2.6
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2334,2307,5.0,9,0.86,20,17.2,"Savic, Miodrag R",g,2426.0,False,SRB,0.5,1,0.16,20,3.2
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2334,2307,5.0,9,0.86,20,17.2,"Dvalishvili, Pavel S.",m,2344.0,False,RUS,0.5,1,0.05,20,1.0
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2334,2307,5.0,9,0.86,20,17.2,"Citak, Selim",f,2374.0,False,TUR,0.5,1,0.09,20,1.8
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2334,2307,5.0,9,0.86,20,17.2,"Ljepic, Andrej",f,2341.0,False,SRB,0.5,1,0.05,20,1.0
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2334,2307,5.0,9,0.86,20,17.2,"Scekic, Milos",m,2407.0,False,SRB,0.5,1,0.14,20,2.8
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 1 SENTA,Senta SRB,2025-02-05,2025-02-10,2334,2307,5.0,9,0.86,20,17.2,"Kovchan, Alexander",g,2456.0,False,UKR,0.5,1,0.2,20,4.0
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2231,2307,5.0,9,-0.28,20,-5.6,"Sason, Noam",,1973.0,False,ISR,1.0,1,0.12,20,2.4
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2231,2307,5.0,9,-0.28,20,-5.6,"Zabotin, Alexander",m,2423.0,False,RUS,0.0,1,-0.34,20,-6.8
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2231,2307,5.0,9,-0.28,20,-5.6,"Zhou, Yuxu",c,2037.0,False,CHN,1.0,1,0.17,20,3.4
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2231,2307,5.0,9,-0.28,20,-5.6,"Chen, Hongsen",,2439.0,False,CHN,0.5,1,0.18,20,3.6
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2231,2307,5.0,9,-0.28,20,-5.6,"Glek, Igor",g,2423.0,False,BEL,0.0,1,-0.34,20,-6.8
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2231,2307,5.0,9,-0.28,20,-5.6,"Srdanovic, Jovana",wm,2207.0,False,SRB,0.5,1,-0.14,20,-2.8
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2231,2307,5.0,9,-0.28,20,-5.6,"Joel, Paul Ganta",c,2065.0,False,IND,1.0,1,0.2,20,4.0
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2231,2307,5.0,9,-0.28,20,-5.6,"Lajthajm, Borko",g,2330.0,False,SRB,0.5,1,0.03,20,0.6
+33478066,2025-03-01,0,GM Mix for norms Fantastico Winter 2025 group 2 SENTA,Senta SRB,2025-02-11,2025-02-16,2231,2307,5.0,9,-0.28,20,-5.6,"Stanojevic, Ilija",c,2186.0,False,SRB,0.5,1,-0.16,20,-3.2
+33478066,2025-03-01,0,GM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2400,2307,3.0,9,-0.35,20,-7.0,"Bryakin, Mikhail",g,2427.0,False,SRB,0.0,1,-0.34,20,-6.8
+33478066,2025-03-01,0,GM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2400,2307,3.0,9,-0.35,20,-7.0,"Spasov, Vasil",g,2423.0,False,BUL,0.5,1,0.16,20,3.2
+33478066,2025-03-01,0,GM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2400,2307,3.0,9,-0.35,20,-7.0,"Cao, Qingfeng",,2342.0,False,CHN,0.0,1,-0.45,20,-9.0
+33478066,2025-03-01,0,GM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2400,2307,3.0,9,-0.35,20,-7.0,"Amartuvshin, Ganzorig",m,2391.0,False,MGL,0.0,1,-0.38,20,-7.6
+33478066,2025-03-01,0,GM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2400,2307,3.0,9,-0.35,20,-7.0,"Jiang, Haochen",,2374.0,False,CHN,0.0,1,-0.41,20,-8.2
+33478066,2025-03-01,0,GM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2400,2307,3.0,9,-0.35,20,-7.0,"Itgelt, Khuyagtsogt",f,2416.0,False,MGL,0.5,1,0.15,20,3.0
+33478066,2025-03-01,0,GM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2400,2307,3.0,9,-0.35,20,-7.0,"Chen, Hongsen",,2439.0,False,CHN,1.0,1,0.68,20,13.6
+33478066,2025-03-01,0,GM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2400,2307,3.0,9,-0.35,20,-7.0,"Akhmedov, David",f,2368.0,False,FID,0.5,1,0.08,20,1.6
+33478066,2025-03-01,0,GM  RR  Fantastico Winter 2025  SENTA,Senta SRB,2025-02-16,2025-02-21,2400,2307,3.0,9,-0.35,20,-7.0,"Glek, Igor",g,2423.0,False,BEL,0.5,1,0.16,20,3.2
+33478066,2025-04-01,0,Budapest One Week GM-A,Budapest HUN,2025-03-17,2025-03-22,2400,2336,3.5,9,-0.21,20,-4.2,"Sandoval Mercado, Carlos",f,2383.0,False,MEX,0.5,1,0.07,20,1.4
+33478066,2025-04-01,0,Budapest One Week GM-A,Budapest HUN,2025-03-17,2025-03-22,2400,2336,3.5,9,-0.21,20,-4.2,"Lu, Maximillian",m,2392.0,False,USA,0.0,1,-0.42,20,-8.4
+33478066,2025-04-01,0,Budapest One Week GM-A,Budapest HUN,2025-03-17,2025-03-22,2400,2336,3.5,9,-0.21,20,-4.2,"Berczes, David",g,2408.0,False,HUN,0.5,1,0.1,20,2.0
+33478066,2025-04-01,0,Budapest One Week GM-A,Budapest HUN,2025-03-17,2025-03-22,2400,2336,3.5,9,-0.21,20,-4.2,"Kairbekova, Amina",wm,2336.0,False,KAZ,0.0,1,-0.5,20,-10.0
+33478066,2025-04-01,0,Budapest One Week GM-A,Budapest HUN,2025-03-17,2025-03-22,2400,2336,3.5,9,-0.21,20,-4.2,"Mirzoev, Azer",g,2470.0,False,AZE,0.5,1,0.18,20,3.6
+33478066,2025-04-01,0,Budapest One Week GM-A,Budapest HUN,2025-03-17,2025-03-22,2400,2336,3.5,9,-0.21,20,-4.2,"Nagy, Gabor",g,2466.0,False,HUN,0.5,1,0.18,20,3.6
+33478066,2025-04-01,0,Budapest One Week GM-A,Budapest HUN,2025-03-17,2025-03-22,2400,2336,3.5,9,-0.21,20,-4.2,"Tahay, Alexis",m,2397.0,False,FRA,0.0,1,-0.42,20,-8.4
+33478066,2025-04-01,0,Budapest One Week GM-A,Budapest HUN,2025-03-17,2025-03-22,2400,2336,3.5,9,-0.21,20,-4.2,"Kienboeck, Benjamin",f,2283.0,False,AUT,1.0,1,0.43,20,8.6
+33478066,2025-04-01,0,Budapest One Week GM-A,Budapest HUN,2025-03-17,2025-03-22,2400,2336,3.5,9,-0.21,20,-4.2,"Uskov, Artem",m,2461.0,False,FID,0.5,1,0.17,20,3.4

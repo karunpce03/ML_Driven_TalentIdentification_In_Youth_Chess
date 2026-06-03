@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33490740,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1659,1541,2.0,4,0.59,40,23.6,"Vidit, Sethi",,1831.0,False,IND,0.5,1,0.34,40,13.6
+33490740,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1659,1541,2.0,4,0.59,40,23.6,"Arindam, Shukla",,1682.0,False,IND,0.0,1,-0.31,40,-12.4
+33490740,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1659,1541,2.0,4,0.59,40,23.6,"Hardev, Sahai",,1663.0,False,IND,0.5,1,0.17,40,6.8
+33490740,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1659,1541,2.0,4,0.59,40,23.6,"Aditya, Raj",,1460.0,False,IND,1.0,1,0.39,40,15.6
+33490740,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1662,1541,2.5,4,1.02,40,40.8,"Vinayak, Agarwal",,1476.0,False,IND,1.0,1,0.41,40,16.4
+33490740,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1662,1541,2.5,4,1.02,40,40.8,"Md, Hasnain Siddiqui",,1714.0,False,IND,0.5,1,0.23,40,9.2
+33490740,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1662,1541,2.5,4,1.02,40,40.8,"Sarvagya, Bharadwaj",,1515.0,False,IND,1.0,1,0.46,40,18.4
+33490740,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1662,1541,2.5,4,1.02,40,40.8,"Prakhar, Tripathi",,1941.0,True,IND,0.0,1,-0.08,40,-3.2

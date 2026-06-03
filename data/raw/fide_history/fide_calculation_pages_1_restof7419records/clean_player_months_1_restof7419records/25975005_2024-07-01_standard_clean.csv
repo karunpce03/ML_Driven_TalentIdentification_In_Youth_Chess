@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25975005,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1691,1741,5.0,8,0.37,40,14.8,"Yaazhini, J",,1501,False,IND,1.0,1,0.2,40,8.0
+25975005,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1691,1741,5.0,8,0.37,40,14.8,"Surya, A",,1602,False,IND,0.5,1,-0.19,40,-7.6
+25975005,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1691,1741,5.0,8,0.37,40,14.8,"Sharukh, Khan B",,1599,False,IND,1.0,1,0.31,40,12.4
+25975005,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1691,1741,5.0,8,0.37,40,14.8,"Aakash, G",c,2141,True,IND,0.0,1,-0.08,40,-3.2
+25975005,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1691,1741,5.0,8,0.37,40,14.8,"Silambarasan, P",,1582,False,IND,0.5,1,-0.21,40,-8.4
+25975005,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1691,1741,5.0,8,0.37,40,14.8,"Joshua, Sudhan S",,1576,False,IND,1.0,1,0.28,40,11.2
+25975005,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1691,1741,5.0,8,0.37,40,14.8,"Ashwin, Ravichandran",,1638,False,IND,1.0,1,0.36,40,14.4
+25975005,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1691,1741,5.0,8,0.37,40,14.8,"Nigash, G",,1890,False,IND,0.0,1,-0.3,40,-12.0

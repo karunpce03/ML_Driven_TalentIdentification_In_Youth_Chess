@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48700720,2024-10-01,0,West Bengal State U-11 Girls FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,,,1.0,4,0.0,1272,,"Shruti, Sarkar",,1455,False,IND,0.0,1,0.0,,0.0
+48700720,2024-10-01,0,West Bengal State U-11 Girls FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,,,1.0,4,0.0,1272,,"Ahana, Dalbera",,1462,False,IND,0.0,1,0.0,,0.0
+48700720,2024-10-01,0,West Bengal State U-11 Girls FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,,,1.0,4,0.0,1272,,"Adrija, Sarkar",,1437,False,IND,1.0,1,0.0,,0.0
+48700720,2024-10-01,0,West Bengal State U-11 Girls FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,,,1.0,4,0.0,1272,,"Niranjana, Nanda",,1507,False,IND,0.0,1,0.0,,0.0
+48700720,2024-11-01,0,WB State U-9 Girls Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,,,1.0,2,0.0,1574,,"Aryahi, Bhattacharya",,1539,False,IND,0.0,1,0.0,,0.0
+48700720,2024-11-01,0,WB State U-9 Girls Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,,,1.0,2,0.0,1574,,"Pratyusha, Mishra",,1608,False,IND,1.0,1,0.0,,0.0

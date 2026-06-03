@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25964445,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1683,1698,5.5,8,1.24,40,49.6,"Aaditya, Pajni",,1507,False,IND,1.0,1,0.25,40,10.0
+25964445,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1683,1698,5.5,8,1.24,40,49.6,"Jayant, Atwal",,1510,False,IND,1.0,1,0.26,40,10.4
+25964445,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1683,1698,5.5,8,1.24,40,49.6,"Kale, Shruti",,1807,False,IND,0.5,1,0.15,40,6.0
+25964445,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1683,1698,5.5,8,1.24,40,49.6,"Mraduhas, Tripathi",,1798,False,IND,0.0,1,-0.36,40,-14.4
+25964445,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1683,1698,5.5,8,1.24,40,49.6,"Akshat, Rawat",,1570,False,IND,1.0,1,0.33,40,13.2
+25964445,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1683,1698,5.5,8,1.24,40,49.6,"Kumar, Gaurav",f,2098,True,IND,0.0,1,-0.08,40,-3.2
+25964445,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1683,1698,5.5,8,1.24,40,49.6,"Shrivastava, Manish",,1572,False,IND,1.0,1,0.33,40,13.2
+25964445,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1683,1698,5.5,8,1.24,40,49.6,"Aadarsh, Saraswat",,1599,False,IND,1.0,1,0.36,40,14.4

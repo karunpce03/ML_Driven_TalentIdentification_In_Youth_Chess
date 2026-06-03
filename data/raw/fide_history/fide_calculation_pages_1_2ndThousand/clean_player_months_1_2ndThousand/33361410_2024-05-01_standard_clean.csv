@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33361410,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1578,1574,1.5,6,-1.59,40,-63.6,"Yuvanesh, A",,1741.0,False,IND,0.0,1,-0.28,40,-11.2
+33361410,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1578,1574,1.5,6,-1.59,40,-63.6,"Ramakrishna, Perumalla",,1974.0,True,IND,0.0,1,-0.08,40,-3.2
+33361410,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1578,1574,1.5,6,-1.59,40,-63.6,"Aranyak, Dey",,1411.0,False,IND,1.0,1,0.28,40,11.2
+33361410,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1578,1574,1.5,6,-1.59,40,-63.6,"Adwit, K Mishra",,1441.0,False,IND,0.5,1,-0.18,40,-7.2
+33361410,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1578,1574,1.5,6,-1.59,40,-63.6,"Aashrita, Balaji Guttula",,1465.0,False,IND,0.0,1,-0.65,40,-26.0
+33361410,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1578,1574,1.5,6,-1.59,40,-63.6,"Revana, Siddayya G N",,1438.0,False,IND,0.0,1,-0.68,40,-27.2
+33361410,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1561,1574,1.5,5,-1.09,40,-43.6,"Gabriel, B M",,1692.0,False,IND,0.0,1,-0.34,40,-13.6
+33361410,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1561,1574,1.5,5,-1.09,40,-43.6,"Abishek, A",,1473.0,False,IND,1.0,1,0.36,40,14.4
+33361410,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1561,1574,1.5,5,-1.09,40,-43.6,"Karyasheel, P",,1683.0,False,IND,0.0,1,-0.35,40,-14.0
+33361410,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1561,1574,1.5,5,-1.09,40,-43.6,"Ashank, Kailas Goliwadekar",,1497.0,False,IND,0.0,1,-0.61,40,-24.4
+33361410,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1561,1574,1.5,5,-1.09,40,-43.6,"Zaeem, Shanavaz",,1461.0,False,IND,0.5,1,-0.15,40,-6.0

@@ -1,0 +1,30 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48769754,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1597.0,1439.0,1.0,4,-0.21,40,-8.4,"Shejal, Sahil Sanjay",,1740.0,False,IND,0.0,1,-0.15,40.0,-6.0
+48769754,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1597.0,1439.0,1.0,4,-0.21,40,-8.4,"Shraddha, Naresh Padvekar",,1604.0,False,IND,0.0,1,-0.28,40.0,-11.2
+48769754,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1597.0,1439.0,1.0,4,-0.21,40,-8.4,"Ritesh, Urkude",,1530.0,False,IND,0.0,1,-0.38,40.0,-15.2
+48769754,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,1597.0,1439.0,1.0,4,-0.21,40,-8.4,"Kulkarni, Pradeep",,1515.0,False,IND,1.0,1,0.6,40.0,24.0
+48769754,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1532.0,1439.0,2.5,7,-0.14,40,-5.6,"Abhinav, Anand",,1719.0,False,IND,0.0,1,-0.16,40.0,-6.4
+48769754,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1532.0,1439.0,2.5,7,-0.14,40,-5.6,"Logidhashrath, R",,1521.0,False,IND,0.5,1,0.11,40.0,4.4
+48769754,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1532.0,1439.0,2.5,7,-0.14,40,-5.6,"Rahul, Anbumani",,1501.0,False,IND,0.5,1,0.09,40.0,3.6
+48769754,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1532.0,1439.0,2.5,7,-0.14,40,-5.6,"Jason, Jebezlin B",,1491.0,False,IND,1.0,1,0.57,40.0,22.8
+48769754,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1532.0,1439.0,2.5,7,-0.14,40,-5.6,Satyasavit,,1533.0,False,IND,0.0,1,-0.37,40.0,-14.8
+48769754,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1532.0,1439.0,2.5,7,-0.14,40,-5.6,"Vasudev, S",,1482.0,False,IND,0.5,1,0.06,40.0,2.4
+48769754,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1532.0,1439.0,2.5,7,-0.14,40,-5.6,"Abhinav, S Kumar",,1479.0,False,IND,0.0,1,-0.44,40.0,-17.6
+48769754,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1517.0,1439.0,3.0,7,0.24,40,9.6,"Arjun, Adithiya K",,1643.0,False,IND,0.0,1,-0.24,40.0,-9.6
+48769754,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1517.0,1439.0,3.0,7,0.24,40,9.6,"Srinivasan, N",,1509.0,False,IND,1.0,1,0.6,40.0,24.0
+48769754,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1517.0,1439.0,3.0,7,0.24,40,9.6,"Vipin, Vijayan",,1533.0,False,IND,0.0,1,-0.37,40.0,-14.8
+48769754,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1517.0,1439.0,3.0,7,0.24,40,9.6,"Arjun, J P",,1488.0,False,IND,0.5,1,0.07,40.0,2.8
+48769754,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1517.0,1439.0,3.0,7,0.24,40,9.6,"Gaana, Samrudhi K",,1476.0,False,IND,1.0,1,0.55,40.0,22.0
+48769754,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1517.0,1439.0,3.0,7,0.24,40,9.6,Indusheetala,,1508.0,False,IND,0.0,1,-0.4,40.0,-16.0
+48769754,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1517.0,1439.0,3.0,7,0.24,40,9.6,"Shanjiv, Bala T",,1464.0,False,IND,0.5,1,0.03,40.0,1.2
+48769754,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1497.0,1425.0,0.0,1,-0.4,40,-16.0,"Bhagchandani, Mohak",,1497.0,False,IND,0.0,1,-0.4,40.0,-16.0
+48769754,2024-08-01,0,All India Below 1600 Narendraji Firodia Chashak Classical FIDE Rating Chess Tournament,Ahmednagar IND,2024-07-19,2024-07-21,1544.0,1419.0,0.5,3,-0.49,40,-19.6,"Supekar, Dipak",,1535.0,False,IND,0.5,1,0.16,40.0,6.4
+48769754,2024-08-01,0,All India Below 1600 Narendraji Firodia Chashak Classical FIDE Rating Chess Tournament,Ahmednagar IND,2024-07-19,2024-07-21,1544.0,1419.0,0.5,3,-0.49,40,-19.6,"Tiwari, O P",,1536.0,False,IND,0.0,1,-0.34,40.0,-13.6
+48769754,2024-08-01,0,All India Below 1600 Narendraji Firodia Chashak Classical FIDE Rating Chess Tournament,Ahmednagar IND,2024-07-19,2024-07-21,1544.0,1419.0,0.5,3,-0.49,40,-19.6,"Karan, Pandita",,1561.0,False,IND,0.0,1,-0.31,40.0,-12.4
+48769754,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,2.0,7,0.0,1360,,"Mayank, Santosh Hedau",,1600.0,False,IND,0.0,1,0.0,,0.0
+48769754,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,2.0,7,0.0,1360,,"Zode, Adarsh",,1496.0,False,IND,0.5,1,0.0,,0.0
+48769754,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,2.0,7,0.0,1360,,"Shubham, Dattarao Chavan",,1485.0,False,IND,1.0,1,0.0,,0.0
+48769754,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,2.0,7,0.0,1360,,"Bhadra, Anibrata",,1498.0,False,IND,0.0,1,0.0,,0.0
+48769754,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,2.0,7,0.0,1360,,"Arnav, Abhaykumar Moon",,1525.0,False,IND,0.0,1,0.0,,0.0
+48769754,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,2.0,7,0.0,1360,,"Tijan, Punaram Gawar",,1519.0,False,IND,0.5,1,0.0,,0.0
+48769754,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,2.0,7,0.0,1360,,"Mohare, Sachin",,1503.0,False,IND,0.0,1,0.0,,0.0

@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33473277,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1724,1494,2.0,6,0.63,40,25.2,"Arshpreet, Singh",,1894,True,IND,0.0,1,-0.08,40,-3.2
+33473277,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1724,1494,2.0,6,0.63,40,25.2,"Vyom, Malhotra",,1825,False,IND,0.0,1,-0.12,40,-4.8
+33473277,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1724,1494,2.0,6,0.63,40,25.2,"Sarthak, Bathla",,1566,False,IND,1.0,1,0.6,40,24.0
+33473277,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1724,1494,2.0,6,0.63,40,25.2,"Shreyas, Mishra",,1639,False,IND,1.0,1,0.69,40,27.6
+33473277,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1724,1494,2.0,6,0.63,40,25.2,"Goutham, Ramesh",,1776,False,IND,0.0,1,-0.16,40,-6.4
+33473277,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1724,1494,2.0,6,0.63,40,25.2,"J M, Baisakh",,1644,False,IND,0.0,1,-0.3,40,-12.0

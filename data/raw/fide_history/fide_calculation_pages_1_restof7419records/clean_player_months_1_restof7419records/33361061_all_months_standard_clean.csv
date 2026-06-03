@@ -1,0 +1,64 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33361061,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1503,1692,4.0,5,0.28,40,11.2,"Muminov, Imron",,1413.0,False,TJK,1.0,1,0.16,40,6.4
+33361061,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1503,1692,4.0,5,0.28,40,11.2,"Ritul, Saai Praveen Kumar",,1474.0,False,IND,1.0,1,0.22,40,8.8
+33361061,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1503,1692,4.0,5,0.28,40,11.2,"Paul Emerson, Gicale",,1526.0,False,PHI,1.0,1,0.28,40,11.2
+33361061,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1503,1692,4.0,5,0.28,40,11.2,"Aditya, Fenu",,1560.0,False,IND,0.0,1,-0.68,40,-27.2
+33361061,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1503,1692,4.0,5,0.28,40,11.2,"Asher, Selvin Jayaseelan",,1543.0,False,IND,1.0,1,0.3,40,12.0
+33361061,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1771,1692,4.0,8,0.83,40,33.2,"Muhammad, Shayan Noushad Ibrahim",,1803.0,False,IND,0.5,1,0.15,40,6.0
+33361061,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1771,1692,4.0,8,0.83,40,33.2,"German, Santiago",,1840.0,False,PHI,0.0,1,-0.3,40,-12.0
+33361061,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1771,1692,4.0,8,0.83,40,33.2,"Sawan, Eman",wc,1889.0,False,PLE,0.0,1,-0.25,40,-10.0
+33361061,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1771,1692,4.0,8,0.83,40,33.2,"Obado, Sean Adrich",,1590.0,False,PHI,1.0,1,0.36,40,14.4
+33361061,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1771,1692,4.0,8,0.83,40,33.2,"Al Jabri, Rashid",,1850.0,False,OMA,1.0,1,0.71,40,28.4
+33361061,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1771,1692,4.0,8,0.83,40,33.2,"Saud, Bader Huwair Alzarooni",,1555.0,False,UAE,1.0,1,0.32,40,12.8
+33361061,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1771,1692,4.0,8,0.83,40,33.2,"Ahmed, Salma",,1779.0,False,EGY,0.5,1,0.12,40,4.8
+33361061,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1771,1692,4.0,8,0.83,40,33.2,"Masoud, Hamzeh.",,1860.0,False,SYR,0.0,1,-0.28,40,-11.2
+33361061,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1580,1736,5.0,6,0.82,40,32.8,"Khalfan Ali, Almansoori",,1428.0,False,UAE,1.0,1,0.14,40,5.6
+33361061,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1580,1736,5.0,6,0.82,40,32.8,"El Abd, Qassim",,1528.0,False,PLE,1.0,1,0.23,40,9.2
+33361061,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1580,1736,5.0,6,0.82,40,32.8,"Ratheesh, Gnanadoss",,1591.0,False,IND,1.0,1,0.31,40,12.4
+33361061,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1580,1736,5.0,6,0.82,40,32.8,"Fakuade, Babatunde Olabode",,1772.0,False,NGR,0.0,1,-0.45,40,-18.0
+33361061,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1580,1736,5.0,6,0.82,40,32.8,"Jeshhar, Nekkalapudi",,1526.0,False,IND,1.0,1,0.23,40,9.2
+33361061,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1580,1736,5.0,6,0.82,40,32.8,"Abdalla, Yahya Alhammadi",,1634.0,False,UAE,1.0,1,0.36,40,14.4
+33361061,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1620,1769,5.0,8,-0.55,40,-22.0,"Joshua, Libi Mathew",,1467.0,False,IND,1.0,1,0.15,40,6.0
+33361061,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1620,1769,5.0,8,-0.55,40,-22.0,"Ashil, A J",,1626.0,False,IND,0.5,1,-0.19,40,-7.6
+33361061,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1620,1769,5.0,8,-0.55,40,-22.0,"Abraham, Justin S",,1600.0,False,IND,1.0,1,0.28,40,11.2
+33361061,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1620,1769,5.0,8,-0.55,40,-22.0,Ajinraj,,1704.0,False,IND,0.0,1,-0.59,40,-23.6
+33361061,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1620,1769,5.0,8,-0.55,40,-22.0,"Janaki, S D",,1594.0,False,IND,1.0,1,0.27,40,10.8
+33361061,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1620,1769,5.0,8,-0.55,40,-22.0,"Udupi, Avani Acharya",,1669.0,False,IND,0.5,1,-0.14,40,-5.6
+33361061,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1620,1769,5.0,8,-0.55,40,-22.0,"Rathees, Rooban R",,1654.0,False,IND,1.0,1,0.34,40,13.6
+33361061,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1620,1769,5.0,8,-0.55,40,-22.0,"Chakravarthi, S.v.c.",,1644.0,False,IND,0.0,1,-0.67,40,-26.8
+33361061,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1552,1747,5.0,6,0.56,40,22.4,Danish,,1409.0,False,IND,1.0,1,0.12,40,4.8
+33361061,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1552,1747,5.0,6,0.56,40,22.4,"Mohammad, Najemeddin",,1496.0,False,JOR,1.0,1,0.19,40,7.6
+33361061,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1552,1747,5.0,6,0.56,40,22.4,"Ammar, Sajjidali Shaikh",,1571.0,False,IND,1.0,1,0.27,40,10.8
+33361061,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1552,1747,5.0,6,0.56,40,22.4,"Tom, Mathew",,1655.0,False,IND,1.0,1,0.37,40,14.8
+33361061,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1552,1747,5.0,6,0.56,40,22.4,"Alali, Tammam.",,1687.0,False,SYR,0.0,1,-0.58,40,-23.2
+33361061,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1552,1747,5.0,6,0.56,40,22.4,"Chakresh, Ganesan",,1493.0,False,IND,1.0,1,0.19,40,7.6
+33361061,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1766,1769,5.0,6,1.93,40,77.2,"Samyak, Chourasia",,1450.0,False,IND,1.0,1,0.13,40,5.2
+33361061,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1766,1769,5.0,6,1.93,40,77.2,"Ahoud, Eisa Mohamed",,1552.0,False,UAE,1.0,1,0.22,40,8.8
+33361061,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1766,1769,5.0,6,1.93,40,77.2,"Khalid, Alhaway",,1496.0,False,UAE,1.0,1,0.17,40,6.8
+33361061,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1766,1769,5.0,6,1.93,40,77.2,"Sameir, Ramez",,1879.0,False,EGY,1.0,1,0.65,40,26.0
+33361061,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1766,1769,5.0,6,1.93,40,77.2,"Stativkin, Dmitriy",,2154.0,False,KAZ,1.0,1,0.91,40,36.4
+33361061,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1766,1769,5.0,6,1.93,40,77.2,"Khalifah, Khaled",c,2063.0,False,UAE,0.0,1,-0.15,40,-6.0
+33361061,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1735,1846,7.0,11,-0.12,40,-4.8,"Ramnarayan, T R",,1528.0,False,IND,1.0,1,0.13,40,5.2
+33361061,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1735,1846,7.0,11,-0.12,40,-4.8,"Pranav, V B",,1559.0,False,IND,0.5,1,-0.34,40,-13.6
+33361061,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1735,1846,7.0,11,-0.12,40,-4.8,"Aakash, G",c,2246.0,True,IND,0.0,1,-0.08,40,-3.2
+33361061,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1735,1846,7.0,11,-0.12,40,-4.8,"Pratiyush, Kumar",,1645.0,False,IND,0.0,1,-0.76,40,-30.4
+33361061,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1735,1846,7.0,11,-0.12,40,-4.8,"Ritesh, Bhardwaj",,1611.0,False,IND,1.0,1,0.21,40,8.4
+33361061,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1735,1846,7.0,11,-0.12,40,-4.8,"Joshua, Mark Telles",,1665.0,False,IND,1.0,1,0.26,40,10.4
+33361061,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1735,1846,7.0,11,-0.12,40,-4.8,"Armaan, Singh Bakshi",,1725.0,False,IND,1.0,1,0.34,40,13.6
+33361061,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1735,1846,7.0,11,-0.12,40,-4.8,"Yashwant, B",,1929.0,False,IND,0.0,1,-0.39,40,-15.6
+33361061,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1735,1846,7.0,11,-0.12,40,-4.8,"Prabhman, Singh Malhotra",,1734.0,False,IND,1.0,1,0.35,40,14.0
+33361061,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1735,1846,7.0,11,-0.12,40,-4.8,"Sundar, Guhan",,1697.0,False,IND,0.5,1,-0.2,40,-8.0
+33361061,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1735,1846,7.0,11,-0.12,40,-4.8,"Thanish, S A",,1746.0,False,IND,1.0,1,0.36,40,14.4
+33361061,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1578,1841,5.0,8,-1.46,40,-58.4,"Ritul, Saai Praveen Kumar",,1471.0,False,IND,1.0,1,0.1,40,4.0
+33361061,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1578,1841,5.0,8,-1.46,40,-58.4,"Sultan Jabir, Alzarooni",,1669.0,False,UAE,0.0,1,-0.73,40,-29.2
+33361061,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1578,1841,5.0,8,-1.46,40,-58.4,"Martin, Shimmy",,1479.0,False,IND,1.0,1,0.1,40,4.0
+33361061,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1578,1841,5.0,8,-1.46,40,-58.4,"Abdelrahman, Mohamed Al Hammadi",,1532.0,False,UAE,1.0,1,0.14,40,5.6
+33361061,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1578,1841,5.0,8,-1.46,40,-58.4,"Saud, Bader Huwair Alzarooni",,1648.0,False,UAE,0.0,1,-0.75,40,-30.0
+33361061,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1578,1841,5.0,8,-1.46,40,-58.4,"Sultan, Ahmed Almheiri",,1574.0,False,UAE,1.0,1,0.18,40,7.2
+33361061,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1578,1841,5.0,8,-1.46,40,-58.4,"Mosallam, Mohammad",,1753.0,False,UAE,0.0,1,-0.62,40,-24.8
+33361061,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1578,1841,5.0,8,-1.46,40,-58.4,"Abdulla, Ali Almansoori",,1498.0,False,UAE,1.0,1,0.12,40,4.8
+33361061,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1735,1783,2.5,5,-0.33,40,-13.2,"Shashish, Subbiah",,2008.0,False,IND,0.5,1,0.28,40,11.2
+33361061,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1735,1783,2.5,5,-0.33,40,-13.2,"Izaan, Shafeek",,1688.0,False,IND,0.0,1,-0.63,40,-25.2
+33361061,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1735,1783,2.5,5,-0.33,40,-13.2,"Aditi, Arun",,1705.0,False,IND,1.0,1,0.39,40,15.6
+33361061,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1735,1783,2.5,5,-0.33,40,-13.2,"Sinan, Shafeek",,1734.0,False,IND,0.0,1,-0.57,40,-22.8
+33361061,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1735,1783,2.5,5,-0.33,40,-13.2,"Ilaan, Shafeek",,1542.0,False,IND,1.0,1,0.2,40,8.0

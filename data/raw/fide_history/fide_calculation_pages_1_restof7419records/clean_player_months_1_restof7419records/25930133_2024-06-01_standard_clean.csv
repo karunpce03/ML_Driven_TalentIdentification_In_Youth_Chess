@@ -1,0 +1,27 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25930133,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1677,1801,6.5,10,-0.07,26,-1.82,"Kshetra, Pamanji",,1419.0,False,IND,1.0,1,0.09,26,2.34
+25930133,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1677,1801,6.5,10,-0.07,26,-1.82,"Suhas, Mrinal",,1533.0,False,IND,1.0,1,0.17,26,4.42
+25930133,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1677,1801,6.5,10,-0.07,26,-1.82,Nithinpal,,1591.0,False,IND,1.0,1,0.23,26,5.98
+25930133,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1677,1801,6.5,10,-0.07,26,-1.82,"Navalgund, Niranjan",f,2168.0,False,IND,0.5,1,0.4,26,10.4
+25930133,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1677,1801,6.5,10,-0.07,26,-1.82,"Samanth, Nataraj Naidu",,1659.0,False,IND,1.0,1,0.31,26,8.06
+25930133,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1677,1801,6.5,10,-0.07,26,-1.82,"Siddhanth, Poonja",,1939.0,False,IND,0.0,1,-0.31,26,-8.06
+25930133,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1677,1801,6.5,10,-0.07,26,-1.82,"Harshil, Mishra",,1651.0,False,IND,0.5,1,-0.2,26,-5.2
+25930133,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1677,1801,6.5,10,-0.07,26,-1.82,"Guhan, Nelamangala Harsha",,1633.0,False,IND,0.5,1,-0.22,26,-5.72
+25930133,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1677,1801,6.5,10,-0.07,26,-1.82,"Tanmay, Srinath",,1645.0,False,IND,0.0,1,-0.71,26,-18.46
+25930133,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1677,1801,6.5,10,-0.07,26,-1.82,"Aadwik, Abhinav Krishna",,1529.0,False,IND,1.0,1,0.17,26,4.42
+25930133,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1665,1801,6.0,8,0.61,26,15.86,"Sahit, Vankayala",,1513.0,False,IND,1.0,1,0.16,26,4.16
+25930133,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1665,1801,6.0,8,0.61,26,15.86,"Nithin, Gowtham",,1571.0,False,IND,1.0,1,0.21,26,5.46
+25930133,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1665,1801,6.0,8,0.61,26,15.86,"Sathwik, Prabhu",,1678.0,False,IND,0.5,1,-0.17,26,-4.42
+25930133,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1665,1801,6.0,8,0.61,26,15.86,"Abhay, Hippargi",,1647.0,False,IND,0.5,1,-0.21,26,-5.46
+25930133,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1665,1801,6.0,8,0.61,26,15.86,"Shreekanth, N",,1636.0,False,IND,1.0,1,0.28,26,7.28
+25930133,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1665,1801,6.0,8,0.61,26,15.86,"Karthik, S",,1622.0,False,IND,1.0,1,0.27,26,7.02
+25930133,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1665,1801,6.0,8,0.61,26,15.86,"Parthasarathy, R",,1972.0,False,IND,0.0,1,-0.27,26,-7.02
+25930133,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1665,1801,6.0,8,0.61,26,15.86,"Aarav, Manche",,1682.0,False,IND,1.0,1,0.34,26,8.84
+25930133,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1640,1801,6.0,8,0.36,26,9.36,"Adarsh, A Toshniwal",,1477.0,False,IND,1.0,1,0.13,26,3.38
+25930133,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1640,1801,6.0,8,0.36,26,9.36,"Madhav, S Nair",,1586.0,False,IND,1.0,1,0.23,26,5.98
+25930133,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1640,1801,6.0,8,0.36,26,9.36,"Advaith, U P",,1607.0,False,IND,1.0,1,0.25,26,6.5
+25930133,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1640,1801,6.0,8,0.36,26,9.36,"Srikara, Darbha",,1731.0,False,IND,0.5,1,-0.1,26,-2.6
+25930133,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1640,1801,6.0,8,0.36,26,9.36,"Vrishank, Royadu",,1656.0,False,IND,1.0,1,0.31,26,8.06
+25930133,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1640,1801,6.0,8,0.36,26,9.36,"Pratitee, Bordoloi",,1731.0,False,IND,0.0,1,-0.6,26,-15.6
+25930133,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1640,1801,6.0,8,0.36,26,9.36,"Anshul, Panicker",,1615.0,False,IND,1.0,1,0.26,26,6.76
+25930133,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1640,1801,6.0,8,0.36,26,9.36,"Vivaan, Sachdev",,1717.0,False,IND,0.5,1,-0.12,26,-3.12

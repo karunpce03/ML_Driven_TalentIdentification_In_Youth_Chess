@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33479160,2024-08-01,0,13th Annual World Open Women's Championship,"Philadelphia, PA USA",2024-07-01,2024-07-02,1651,1717,2.5,4,0.1,40,4.0,"Vijay, Sahasra",,1434.0,False,IND,1.0,1,0.16,40,6.4
+33479160,2024-08-01,0,13th Annual World Open Women's Championship,"Philadelphia, PA USA",2024-07-01,2024-07-02,1651,1717,2.5,4,0.1,40,4.0,"Smits, Kaiya Bridgit Ng",,1465.0,False,USA,1.0,1,0.19,40,7.6
+33479160,2024-08-01,0,13th Annual World Open Women's Championship,"Philadelphia, PA USA",2024-07-01,2024-07-02,1651,1717,2.5,4,0.1,40,4.0,"Paramzina, Anastasia",wg,2117.0,True,FID,0.0,1,-0.08,40,-3.2
+33479160,2024-08-01,0,13th Annual World Open Women's Championship,"Philadelphia, PA USA",2024-07-01,2024-07-02,1651,1717,2.5,4,0.1,40,4.0,"Lai, Isabella",,1588.0,False,USA,0.5,1,-0.17,40,-6.8
+33479160,2024-08-01,0,52nd Annual World Open - U2000,"Philadelphia, PA USA",2024-07-03,2024-07-07,1772,1717,2.5,6,-0.06,40,-2.4,"Garden, Zachary",,1865.0,False,AUS,0.0,1,-0.3,40,-12.0
+33479160,2024-08-01,0,52nd Annual World Open - U2000,"Philadelphia, PA USA",2024-07-03,2024-07-07,1772,1717,2.5,6,-0.06,40,-2.4,"John Francis Kennedy, Kevin Andr",,1753.0,False,USA,1.0,1,0.55,40,22.0
+33479160,2024-08-01,0,52nd Annual World Open - U2000,"Philadelphia, PA USA",2024-07-03,2024-07-07,1772,1717,2.5,6,-0.06,40,-2.4,"Wang, Tianmu",,1653.0,False,USA,0.5,1,-0.09,40,-3.6
+33479160,2024-08-01,0,52nd Annual World Open - U2000,"Philadelphia, PA USA",2024-07-03,2024-07-07,1772,1717,2.5,6,-0.06,40,-2.4,"Nozaki, Mao",,1707.0,False,USA,0.0,1,-0.51,40,-20.4
+33479160,2024-08-01,0,52nd Annual World Open - U2000,"Philadelphia, PA USA",2024-07-03,2024-07-07,1772,1717,2.5,6,-0.06,40,-2.4,"Thorstad, Robert",,1862.0,False,USA,1.0,1,0.69,40,27.6
+33479160,2024-08-01,0,52nd Annual World Open - U2000,"Philadelphia, PA USA",2024-07-03,2024-07-07,1772,1717,2.5,6,-0.06,40,-2.4,"Goldstein, Arav Micah",,1792.0,False,USA,0.0,1,-0.4,40,-16.0

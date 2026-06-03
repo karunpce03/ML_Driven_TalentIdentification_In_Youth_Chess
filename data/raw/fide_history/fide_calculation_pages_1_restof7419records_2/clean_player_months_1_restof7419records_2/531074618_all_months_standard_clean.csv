@@ -1,0 +1,17 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531074618,2025-01-01,0,2nd 31th Rakosmenti Open,Budapest HUN,2024-12-20,2024-12-22,,,0.5,4,0.0,1464,,"Borbely, Zsombor",,1867.0,False,HUN,0.0,1,0.0,,0.0
+531074618,2025-01-01,0,2nd 31th Rakosmenti Open,Budapest HUN,2024-12-20,2024-12-22,,,0.5,4,0.0,1464,,"Hugyecz, Barnabas",,1825.0,False,HUN,0.0,1,0.0,,0.0
+531074618,2025-01-01,0,2nd 31th Rakosmenti Open,Budapest HUN,2024-12-20,2024-12-22,,,0.5,4,0.0,1464,,"Jurasits, Miklos",,1724.0,False,HUN,0.5,1,0.0,,0.0
+531074618,2025-01-01,0,2nd 31th Rakosmenti Open,Budapest HUN,2024-12-20,2024-12-22,,,0.5,4,0.0,1464,,"Bruno, Edoardo",,1726.0,False,ITA,0.0,1,0.0,,0.0
+531074618,2025-02-01,0,1st Siraly SE International U1800,Budapest HUN,2024-12-27,2024-12-30,,,0.5,5,0.0,1254,,"Deak-Sala, Daniel",,1622.0,False,HUN,0.0,1,0.0,,0.0
+531074618,2025-02-01,0,1st Siraly SE International U1800,Budapest HUN,2024-12-27,2024-12-30,,,0.5,5,0.0,1254,,"Farkas, Adam",,1567.0,False,HUN,0.0,1,0.0,,0.0
+531074618,2025-02-01,0,1st Siraly SE International U1800,Budapest HUN,2024-12-27,2024-12-30,,,0.5,5,0.0,1254,,"Barnabas, Jeremiah Agishe",,1684.0,False,NGR,0.0,1,0.0,,0.0
+531074618,2025-02-01,0,1st Siraly SE International U1800,Budapest HUN,2024-12-27,2024-12-30,,,0.5,5,0.0,1254,,"Szanto, Lelle",,1690.0,False,HUN,0.0,1,0.0,,0.0
+531074618,2025-02-01,0,1st Siraly SE International U1800,Budapest HUN,2024-12-27,2024-12-30,,,0.5,5,0.0,1254,,"Majzik, Marton Levente",,1535.0,False,HUN,0.5,1,0.0,,0.0
+531074618,2025-02-01,0,32th Rakosmenti Open,Budapest HUN,2025-01-03,2025-01-05,,,1.0,4,0.0,1467,,"Lakatos, Andras",,1785.0,False,HUN,0.0,1,0.0,,0.0
+531074618,2025-02-01,0,32th Rakosmenti Open,Budapest HUN,2025-01-03,2025-01-05,,,1.0,4,0.0,1467,,"Golya, David",,1651.0,False,HUN,0.0,1,0.0,,0.0
+531074618,2025-02-01,0,32th Rakosmenti Open,Budapest HUN,2025-01-03,2025-01-05,,,1.0,4,0.0,1467,,"Farkas, Sara",,1746.0,False,HUN,0.0,1,0.0,,0.0
+531074618,2025-02-01,0,32th Rakosmenti Open,Budapest HUN,2025-01-03,2025-01-05,,,1.0,4,0.0,1467,,"Kiss, Peter Balazs",,1456.0,False,HUN,1.0,1,0.0,,0.0
+531074618,2025-04-01,0,U1800 Standard Marathon Grund64,Budapest HUN,2025-03-15,2025-03-16,1624.0,1459.0,1.5,3,0.64,40,25.6,"Magos, Mate",,1711.0,False,HUN,0.0,1,-0.19,40.0,-7.6
+531074618,2025-04-01,0,U1800 Standard Marathon Grund64,Budapest HUN,2025-03-15,2025-03-16,1624.0,1459.0,1.5,3,0.64,40,25.6,"Kamuthy, Mate",,1562.0,False,HUN,0.5,1,0.14,40.0,5.6
+531074618,2025-04-01,0,U1800 Standard Marathon Grund64,Budapest HUN,2025-03-15,2025-03-16,1624.0,1459.0,1.5,3,0.64,40,25.6,"Peto, Kira Melitta",,1598.0,False,HUN,1.0,1,0.69,40.0,27.6

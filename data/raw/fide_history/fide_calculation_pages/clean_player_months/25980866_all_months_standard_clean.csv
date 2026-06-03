@@ -1,0 +1,35 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25980866,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1669,1504,0.0,2,-0.57,40,-22.8,"Homil, Madaan",,1688.0,False,IND,0.0,1,-0.26,40,-10.4
+25980866,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1669,1504,0.0,2,-0.57,40,-22.8,"Avyaay, Garg",,1649.0,False,IND,0.0,1,-0.31,40,-12.4
+25980866,2024-08-01,0,Sushama &amp; Dormak All India Open FIDE Rating Chess Tournament 2024,Chandigarh IND,2024-06-28,2024-07-02,1679,1504,1.5,5,0.07,40,2.8,"Akshay, Anand",,1904.0,True,IND,0.0,1,-0.08,40,-3.2
+25980866,2024-08-01,0,Sushama &amp; Dormak All India Open FIDE Rating Chess Tournament 2024,Chandigarh IND,2024-06-28,2024-07-02,1679,1504,1.5,5,0.07,40,2.8,"Bipin, Dhingra",,1603.0,False,IND,0.5,1,0.14,40,5.6
+25980866,2024-08-01,0,Sushama &amp; Dormak All India Open FIDE Rating Chess Tournament 2024,Chandigarh IND,2024-06-28,2024-07-02,1679,1504,1.5,5,0.07,40,2.8,"Sarvam, Dahiya",,1654.0,False,IND,0.0,1,-0.3,40,-12.0
+25980866,2024-08-01,0,Sushama &amp; Dormak All India Open FIDE Rating Chess Tournament 2024,Chandigarh IND,2024-06-28,2024-07-02,1679,1504,1.5,5,0.07,40,2.8,"Ardhendu, Sekhar Mandal",,1607.0,False,IND,1.0,1,0.64,40,25.6
+25980866,2024-08-01,0,Sushama &amp; Dormak All India Open FIDE Rating Chess Tournament 2024,Chandigarh IND,2024-06-28,2024-07-02,1679,1504,1.5,5,0.07,40,2.8,"Krish, Jaidka",,1628.0,False,IND,0.0,1,-0.33,40,-13.2
+25980866,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1811,1481,3.5,9,2.35,40,94.0,"Nirvan, Bhamidi",,1823.0,False,IND,0.0,1,-0.12,40,-4.8
+25980866,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1811,1481,3.5,9,2.35,40,94.0,"Arjun, Singh",,1715.0,False,IND,1.0,1,0.79,40,31.6
+25980866,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1811,1481,3.5,9,2.35,40,94.0,"Goutham, Ramesh",,1853.0,False,IND,0.0,1,-0.1,40,-4.0
+25980866,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1811,1481,3.5,9,2.35,40,94.0,"Vaibhav, Nema",,1787.0,False,IND,0.5,1,0.36,40,14.4
+25980866,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1811,1481,3.5,9,2.35,40,94.0,"Shubh, Singh Saini",,1804.0,False,IND,1.0,1,0.87,40,34.8
+25980866,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1811,1481,3.5,9,2.35,40,94.0,"Anirudh, R",,1845.0,False,IND,1.0,1,0.9,40,36.0
+25980866,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1811,1481,3.5,9,2.35,40,94.0,"Nimay, Agrawal",c,1881.0,True,IND,0.0,1,-0.08,40,-3.2
+25980866,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1811,1481,3.5,9,2.35,40,94.0,"Avadhoot, Lokesh Bhakti Brahme",,1829.0,False,IND,0.0,1,-0.11,40,-4.4
+25980866,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1811,1481,3.5,9,2.35,40,94.0,"Medhvansh, Madeti",,1763.0,False,IND,0.0,1,-0.16,40,-6.4
+25980866,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1698,1578,2.0,9,-1.25,40,-50.0,"Gokula, Vishnu R",,1908.0,False,IND,0.0,1,-0.12,40,-4.8
+25980866,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1698,1578,2.0,9,-1.25,40,-50.0,"Kolla, Bhaavan",,1969.0,False,IND,0.0,1,-0.09,40,-3.6
+25980866,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1698,1578,2.0,9,-1.25,40,-50.0,"Nipun, Anand",,1421.0,False,IND,0.5,1,-0.21,40,-8.4
+25980866,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1698,1578,2.0,9,-1.25,40,-50.0,"Hrishikesh, Ganapathy Subramanian",,1756.0,False,IND,0.0,1,-0.27,40,-10.8
+25980866,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1698,1578,2.0,9,-1.25,40,-50.0,"Saksham, Arora",,1731.0,False,IND,0.5,1,0.2,40,8.0
+25980866,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1698,1578,2.0,9,-1.25,40,-50.0,"Rishabh, Pradhan",,1755.0,False,IND,0.0,1,-0.27,40,-10.8
+25980866,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1698,1578,2.0,9,-1.25,40,-50.0,"Aniket, Ranjan",,1758.0,False,IND,0.0,1,-0.26,40,-10.4
+25980866,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1698,1578,2.0,9,-1.25,40,-50.0,"Debaryo, Basu",,1480.0,False,IND,1.0,1,0.37,40,14.8
+25980866,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1698,1578,2.0,9,-1.25,40,-50.0,"Viraj, Sharma",,1507.0,False,IND,0.0,1,-0.6,40,-24.0
+25980866,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1616,1528,4.5,9,1.02,40,40.8,"Arka, Ram Mahankali",,1748.0,False,IND,0.5,1,0.28,40,11.2
+25980866,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1616,1528,4.5,9,1.02,40,40.8,"Cyrus, Eldho",,1723.0,False,IND,1.0,1,0.75,40,30.0
+25980866,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1616,1528,4.5,9,1.02,40,40.8,"Indrajit, Majumdar",,1718.0,False,IND,0.5,1,0.25,40,10.0
+25980866,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1616,1528,4.5,9,1.02,40,40.8,"Sidhant, Rana",,1668.0,False,IND,0.5,1,0.19,40,7.6
+25980866,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1616,1528,4.5,9,1.02,40,40.8,"Advik, Praveen",,1716.0,False,IND,0.0,1,-0.26,40,-10.4
+25980866,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1616,1528,4.5,9,1.02,40,40.8,"Aadwik, Abhinav Krishna",,1667.0,False,IND,0.5,1,0.19,40,7.6
+25980866,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1616,1528,4.5,9,1.02,40,40.8,"Amber, Gangwal",,1422.0,False,IND,0.5,1,-0.14,40,-5.6
+25980866,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1616,1528,4.5,9,1.02,40,40.8,"Aarush, Singhai",,1450.0,False,IND,0.0,1,-0.61,40,-24.4
+25980866,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1616,1528,4.5,9,1.02,40,40.8,"Mitesh, M M",,1436.0,False,IND,1.0,1,0.37,40,14.8

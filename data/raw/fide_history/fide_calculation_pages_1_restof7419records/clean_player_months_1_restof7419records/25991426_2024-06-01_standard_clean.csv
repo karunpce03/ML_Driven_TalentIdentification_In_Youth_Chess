@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25991426,2024-06-01,0,4th Big Rook International Chess Festival - Open,Bangkok THA,2024-05-01,2024-05-06,1816,1669,3.5,9,0.53,38,20.14,"Salvador, Louie",,2069,True,PHI,0.0,1,-0.08,38,-3.04
+25991426,2024-06-01,0,4th Big Rook International Chess Festival - Open,Bangkok THA,2024-05-01,2024-05-06,1816,1669,3.5,9,0.53,38,20.14,"Romualdez, Davin Sean",,1812,False,PHI,0.0,1,-0.31,38,-11.78
+25991426,2024-06-01,0,4th Big Rook International Chess Festival - Open,Bangkok THA,2024-05-01,2024-05-06,1816,1669,3.5,9,0.53,38,20.14,"Tugstuguldur, Erdenebat",,1805,False,MGL,0.0,1,-0.32,38,-12.16
+25991426,2024-06-01,0,4th Big Rook International Chess Festival - Open,Bangkok THA,2024-05-01,2024-05-06,1816,1669,3.5,9,0.53,38,20.14,"Haresh, Venkata Narayanaswamy",,1822,False,SGP,1.0,1,0.7,38,26.6
+25991426,2024-06-01,0,4th Big Rook International Chess Festival - Open,Bangkok THA,2024-05-01,2024-05-06,1816,1669,3.5,9,0.53,38,20.14,"Chao, Tzu-Chi Angie",,1486,False,TPE,0.5,1,-0.24,38,-9.12
+25991426,2024-06-01,0,4th Big Rook International Chess Festival - Open,Bangkok THA,2024-05-01,2024-05-06,1816,1669,3.5,9,0.53,38,20.14,"Frost, Peter",,1785,False,AUS,1.0,1,0.66,38,25.08
+25991426,2024-06-01,0,4th Big Rook International Chess Festival - Open,Bangkok THA,2024-05-01,2024-05-06,1816,1669,3.5,9,0.53,38,20.14,"Dolas, Aarush",,1877,False,IND,0.5,1,0.27,38,10.26
+25991426,2024-06-01,0,4th Big Rook International Chess Festival - Open,Bangkok THA,2024-05-01,2024-05-06,1816,1669,3.5,9,0.53,38,20.14,"Cahaya, Satria Duta",f,2069,True,INA,0.0,1,-0.08,38,-3.04
+25991426,2024-06-01,0,4th Big Rook International Chess Festival - Open,Bangkok THA,2024-05-01,2024-05-06,1816,1669,3.5,9,0.53,38,20.14,"Huang, Aaron Yu-Hsi",,1617,False,TPE,0.5,1,-0.07,38,-2.66
+25991426,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1625,1669,5.0,9,-0.14,38,-5.32,"Spandan, Dnyaneshwar Shinde",,1421,False,IND,1.0,1,0.19,38,7.22
+25991426,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1625,1669,5.0,9,-0.14,38,-5.32,"Ghosh, Diptayan",g,2069,True,IND,0.0,1,-0.08,38,-3.04
+25991426,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1625,1669,5.0,9,-0.14,38,-5.32,"Nabhneel, Das",,1520,False,IND,1.0,1,0.3,38,11.4
+25991426,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1625,1669,5.0,9,-0.14,38,-5.32,"Heet, Baldawa",,1543,False,IND,0.5,1,-0.17,38,-6.46
+25991426,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1625,1669,5.0,9,-0.14,38,-5.32,"Kushagra, Pratap Singh",,1565,False,IND,1.0,1,0.36,38,13.68
+25991426,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1625,1669,5.0,9,-0.14,38,-5.32,"Anirudh, R",,1806,False,IND,0.0,1,-0.32,38,-12.16
+25991426,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1625,1669,5.0,9,-0.14,38,-5.32,"Kanoje, Alok",,1574,False,IND,0.5,1,-0.13,38,-4.94
+25991426,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1625,1669,5.0,9,-0.14,38,-5.32,"Rasesh, Srivastava",,1575,False,IND,0.5,1,-0.13,38,-4.94
+25991426,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1625,1669,5.0,9,-0.14,38,-5.32,"Yati, Agarwal",,1555,False,IND,0.5,1,-0.16,38,-6.08

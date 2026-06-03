@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531015743,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1577,1405,1.5,5,0.06,40,2.4,"Reyaansh, Venkat",,1772.0,False,IND,0.0,1,-0.1,40,-4.0
+531015743,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1577,1405,1.5,5,0.06,40,2.4,"Parv, H Hakani",,1601.0,False,IND,0.0,1,-0.25,40,-10.0
+531015743,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1577,1405,1.5,5,0.06,40,2.4,"S, Harihara Subramanian",,1504.0,False,IND,1.0,1,0.64,40,25.6
+531015743,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1577,1405,1.5,5,0.06,40,2.4,"Rayan, Merchant",,1508.0,False,IND,0.5,1,0.14,40,5.6
+531015743,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1577,1405,1.5,5,0.06,40,2.4,"Vardaan, Agrawal",,1500.0,False,IND,0.0,1,-0.37,40,-14.8

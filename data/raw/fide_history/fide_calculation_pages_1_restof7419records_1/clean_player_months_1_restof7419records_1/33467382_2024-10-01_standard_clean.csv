@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33467382,2024-10-01,0,U-19 selection State Fide Rated Chess Championship,Shimla IND,2024-08-31,2024-09-02,1468,1528,1.0,3,-0.75,40,-30.0,"Palak, Thakur",,1471.0,False,IND,0.0,1,-0.58,40,-23.2
+33467382,2024-10-01,0,U-19 selection State Fide Rated Chess Championship,Shimla IND,2024-08-31,2024-09-02,1468,1528,1.0,3,-0.75,40,-30.0,"Chirag, Fanda",,1452.0,False,IND,1.0,1,0.4,40,16.0
+33467382,2024-10-01,0,U-19 selection State Fide Rated Chess Championship,Shimla IND,2024-08-31,2024-09-02,1468,1528,1.0,3,-0.75,40,-30.0,"Samrat, Soni",,1480.0,False,IND,0.0,1,-0.57,40,-22.8

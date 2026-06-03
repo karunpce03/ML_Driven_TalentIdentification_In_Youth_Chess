@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25695916,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,1999,1733,3.5,8,2.02,40,80.8,"Hoiberg, Nina",wm,2127,False,DEN,0.0,1,-0.08,40,-3.2
+25695916,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,1999,1733,3.5,8,2.02,40,80.8,"Ali, Abdulaziz",,1960,False,UAE,0.0,1,-0.21,40,-8.4
+25695916,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,1999,1733,3.5,8,2.02,40,80.8,"Dolezal, Jiri",,1893,False,CZE,1.0,1,0.71,40,28.4
+25695916,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,1999,1733,3.5,8,2.02,40,80.8,"Pacl, Vaclav",f,1986,False,CZE,0.5,1,0.31,40,12.4
+25695916,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,1999,1733,3.5,8,2.02,40,80.8,"Friml, Antonin",,2001,False,CZE,1.0,1,0.83,40,33.2
+25695916,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,1999,1733,3.5,8,2.02,40,80.8,"Ipek, Egehan",c,2133,True,TUR,0.0,1,-0.08,40,-3.2
+25695916,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,1999,1733,3.5,8,2.02,40,80.8,"Stoimenidis, Dimitrios",,1969,False,GRE,0.0,1,-0.2,40,-8.0
+25695916,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,1999,1733,3.5,8,2.02,40,80.8,"Chmelik, Jiri",,1920,False,CZE,1.0,1,0.74,40,29.6

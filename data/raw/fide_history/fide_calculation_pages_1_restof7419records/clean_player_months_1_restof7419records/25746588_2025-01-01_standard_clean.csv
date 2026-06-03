@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25746588,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1759,1721,6.5,8,2.78,40,111.2,"Kirti, Sinha",,1429.0,False,IND,1.0,1,0.15,40,6.0
+25746588,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1759,1721,6.5,8,2.78,40,111.2,"Adiba, Ullah",,1552.0,False,IND,1.0,1,0.28,40,11.2
+25746588,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1759,1721,6.5,8,2.78,40,111.2,"Kishan, Kumar",,1968.0,False,IND,0.5,1,0.31,40,12.4
+25746588,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1759,1721,6.5,8,2.78,40,111.2,"Sinha, Sujit Kumar",,2075.0,False,IND,0.0,1,-0.11,40,-4.4
+25746588,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1759,1721,6.5,8,2.78,40,111.2,"Avinash, Kumar",,1548.0,False,IND,1.0,1,0.27,40,10.8
+25746588,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1759,1721,6.5,8,2.78,40,111.2,"Kabir, Anand",,1555.0,False,IND,1.0,1,0.28,40,11.2
+25746588,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1759,1721,6.5,8,2.78,40,111.2,"Vijay, Kumar",,1909.0,False,IND,1.0,1,0.74,40,29.6
+25746588,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1759,1721,6.5,8,2.78,40,111.2,"Singh, P K",,2032.0,False,IND,1.0,1,0.86,40,34.4

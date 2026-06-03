@@ -1,0 +1,16 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25683900,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2093,2147,7.0,9,1.91,40,76.4,"Garcia Comas, Pau",,1812.0,False,ESP,1.0,1,0.12,40,4.8
+25683900,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2093,2147,7.0,9,1.91,40,76.4,"Buldo Polls, Joan",,1911.0,False,ESP,1.0,1,0.2,40,8.0
+25683900,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2093,2147,7.0,9,1.91,40,76.4,"Riera Morilla, Elisabeth",,1948.0,False,ESP,0.5,1,-0.26,40,-10.4
+25683900,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2093,2147,7.0,9,1.91,40,76.4,"Singh, Siddharth",,2050.0,False,USA,1.0,1,0.37,40,14.8
+25683900,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2093,2147,7.0,9,1.91,40,76.4,"Pomes Marcet, Joan",m,2221.0,False,ESP,0.5,1,0.1,40,4.0
+25683900,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2093,2147,7.0,9,1.91,40,76.4,"Torres Teruel, Joan",,1931.0,False,ESP,1.0,1,0.22,40,8.8
+25683900,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2093,2147,7.0,9,1.91,40,76.4,"Munoz, Miguel",g,2364.0,False,PER,0.5,1,0.28,40,11.2
+25683900,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2093,2147,7.0,9,1.91,40,76.4,"Funes Ostos, Aitor",,2197.0,False,ESP,1.0,1,0.57,40,22.8
+25683900,2024-08-01,0,IV Llinars International Chess Open,Llinars del Valles (Barcelona) ESP,2024-06-25,2024-07-03,2093,2147,7.0,9,1.91,40,76.4,"Kaustuv, Kundu",m,2403.0,False,IND,0.5,1,0.31,40,12.4
+25683900,2024-08-01,0,V Open Internacional Valencia Cuna del Ajedrez,Valencia ESP,2024-07-06,2024-07-14,2175,2214,3.5,6,0.31,40,12.4,"Gil Cabo, Carlos",,1814.0,True,ESP,1.0,1,0.08,40,3.2
+25683900,2024-08-01,0,V Open Internacional Valencia Cuna del Ajedrez,Valencia ESP,2024-07-06,2024-07-14,2175,2214,3.5,6,0.31,40,12.4,"Ceres, Dragos",m,2473.0,False,MDA,0.5,1,0.32,40,12.8
+25683900,2024-08-01,0,V Open Internacional Valencia Cuna del Ajedrez,Valencia ESP,2024-07-06,2024-07-14,2175,2214,3.5,6,0.31,40,12.4,"Robledo Sanchez, Saul",,2017.0,False,ESP,1.0,1,0.25,40,10.0
+25683900,2024-08-01,0,V Open Internacional Valencia Cuna del Ajedrez,Valencia ESP,2024-07-06,2024-07-14,2175,2214,3.5,6,0.31,40,12.4,"Cruz Lledo, Pablo",m,2386.0,False,ESP,0.0,1,-0.27,40,-10.8
+25683900,2024-08-01,0,V Open Internacional Valencia Cuna del Ajedrez,Valencia ESP,2024-07-06,2024-07-14,2175,2214,3.5,6,0.31,40,12.4,"Bukharkov, Stepan",,1982.0,False,FID,1.0,1,0.21,40,8.4
+25683900,2024-08-01,0,V Open Internacional Valencia Cuna del Ajedrez,Valencia ESP,2024-07-06,2024-07-14,2175,2214,3.5,6,0.31,40,12.4,"Ilinca, Felix-Antonio",f,2379.0,False,ROU,0.0,1,-0.28,40,-11.2

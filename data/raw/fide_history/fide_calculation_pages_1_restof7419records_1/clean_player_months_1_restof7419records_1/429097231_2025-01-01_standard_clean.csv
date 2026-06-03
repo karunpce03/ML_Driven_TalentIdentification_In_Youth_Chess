@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429097231,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1647,1435,1.0,4,0.02,40,0.8,"Makwana, Ashvin K",,1786.0,False,IND,0.0,1,-0.11,40,-4.4
+429097231,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1647,1435,1.0,4,0.02,40,0.8,"Hardik, Khurana",,1555.0,False,IND,0.5,1,0.16,40,6.4
+429097231,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1647,1435,1.0,4,0.02,40,0.8,"Alokik, Maheshwari",,1700.0,False,IND,0.0,1,-0.18,40,-7.2
+429097231,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1647,1435,1.0,4,0.02,40,0.8,"Soham, Soni",,1545.0,False,IND,0.5,1,0.15,40,6.0

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25903713,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1835,1896,5.5,9,0.26,40,10.4,"Al Hosni, Khalfan",,1749.0,False,OMA,1.0,1,0.3,40,12.0
+25903713,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1835,1896,5.5,9,0.26,40,10.4,"Kalikhan, Abilmansur",,1730.0,False,KAZ,1.0,1,0.28,40,11.2
+25903713,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1835,1896,5.5,9,0.26,40,10.4,"Mohamed, Saeed Laily",c,1984.0,False,UAE,0.0,1,-0.38,40,-15.2
+25903713,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1835,1896,5.5,9,0.26,40,10.4,"Shelke, Omkar",,1765.0,False,IND,0.0,1,-0.68,40,-27.2
+25903713,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1835,1896,5.5,9,0.26,40,10.4,"Adel, Tahseen Khalil",,1833.0,False,IRQ,1.0,1,0.41,40,16.4
+25903713,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1835,1896,5.5,9,0.26,40,10.4,"Dadabaev, Zhanybek",,1927.0,False,KGZ,0.0,1,-0.46,40,-18.4
+25903713,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1835,1896,5.5,9,0.26,40,10.4,"Alviz, Joshua Ezekiel",,1767.0,False,PHI,1.0,1,0.33,40,13.2
+25903713,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1835,1896,5.5,9,0.26,40,10.4,"Godhani, Maharth",,1798.0,False,IND,0.5,1,-0.13,40,-5.2
+25903713,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1835,1896,5.5,9,0.26,40,10.4,"Khalifah, Khaled",c,1962.0,False,UAE,1.0,1,0.59,40,23.6

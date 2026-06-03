@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33438714,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1635,1557,2.5,7,-0.52,40,-20.8,"Aziz, Husain",m,1957,True,QAT,0.0,1,-0.08,40,-3.2
+33438714,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1635,1557,2.5,7,-0.52,40,-20.8,"Sai, Hridhay S",,1811,False,IND,0.0,1,-0.19,40,-7.6
+33438714,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1635,1557,2.5,7,-0.52,40,-20.8,"Al Busaidi, Anwar Ali",,1422,False,OMA,1.0,1,0.32,40,12.8
+33438714,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1635,1557,2.5,7,-0.52,40,-20.8,"Elobeid, Asim Ali",c,1925,False,SUD,0.0,1,-0.1,40,-4.0
+33438714,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1635,1557,2.5,7,-0.52,40,-20.8,"Reyansh, Amit Bodkhe",,1470,False,IND,0.0,1,-0.62,40,-24.8
+33438714,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1635,1557,2.5,7,-0.52,40,-20.8,"Al Qasmi, Ahmed",,1410,False,OMA,1.0,1,0.3,40,12.0
+33438714,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1635,1557,2.5,7,-0.52,40,-20.8,"Stuthi, Nayak",,1450,False,IND,0.5,1,-0.15,40,-6.0

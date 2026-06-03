@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48701300,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1896,1714,5.0,8,2.89,40,115.6,"Al Hinai, Qusay",,1862.0,False,OMA,1.0,1,0.7,40,28.0
+48701300,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1896,1714,5.0,8,2.89,40,115.6,"Manuwaruna, Sethun Neththaru",,1934.0,False,SRI,0.5,1,0.28,40,11.2
+48701300,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1896,1714,5.0,8,2.89,40,115.6,"Chekanov, Timur",,1865.0,False,FID,1.0,1,0.7,40,28.0
+48701300,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1896,1714,5.0,8,2.89,40,115.6,"Sharma, Pankaj",c,1861.0,False,IND,0.0,1,-0.3,40,-12.0
+48701300,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1896,1714,5.0,8,2.89,40,115.6,"Umarov, Mukhammadrizo",,1902.0,False,UZB,0.0,1,-0.26,40,-10.4
+48701300,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1896,1714,5.0,8,2.89,40,115.6,"Daneshpour, S.a.",,1899.0,False,IRI,1.0,1,0.74,40,29.6
+48701300,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1896,1714,5.0,8,2.89,40,115.6,"Fedorov, Grigory",,1916.0,False,FID,0.5,1,0.26,40,10.4
+48701300,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1896,1714,5.0,8,2.89,40,115.6,"German, Santiago",,1927.0,False,PHI,1.0,1,0.77,40,30.8

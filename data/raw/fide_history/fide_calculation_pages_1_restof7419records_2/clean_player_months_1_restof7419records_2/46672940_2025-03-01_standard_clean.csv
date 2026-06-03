@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+46672940,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2411,2294,2.0,9,-1.1,20,-22.0,"Szpar, Milosz",m,2457.0,False,POL,0.5,1,0.22,20,4.4
+46672940,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2411,2294,2.0,9,-1.1,20,-22.0,"Pap, Misa",g,2436.0,False,SRB,0.0,1,-0.31,20,-6.2
+46672940,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2411,2294,2.0,9,-1.1,20,-22.0,"Berczes, David",g,2406.0,False,HUN,0.0,1,-0.35,20,-7.0
+46672940,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2411,2294,2.0,9,-1.1,20,-22.0,"Gedajlovic, Max",m,2391.0,False,CAN,0.5,1,0.13,20,2.6
+46672940,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2411,2294,2.0,9,-1.1,20,-22.0,"Rathanvel, V S",m,2484.0,False,IND,0.0,1,-0.25,20,-5.0
+46672940,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2411,2294,2.0,9,-1.1,20,-22.0,"Aczel, Gergely",g,2482.0,False,HUN,0.0,1,-0.26,20,-5.2
+46672940,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2411,2294,2.0,9,-1.1,20,-22.0,"Zverev, Lev",m,2421.0,False,FID,0.0,1,-0.33,20,-6.6
+46672940,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2411,2294,2.0,9,-1.1,20,-22.0,"Gombocz, Ferenc Jr.",f,2316.0,False,HUN,0.5,1,0.03,20,0.6
+46672940,2025-03-01,0,SixDays Budapest January 2025 GM-B,Budapest HUN,2025-01-26,2025-01-31,2411,2294,2.0,9,-1.1,20,-22.0,"Jake, Shanty",f,2307.0,False,IND,0.5,1,0.02,20,0.4
+46672940,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2305,2297,5.5,9,1.23,20,24.6,"Silva, Mariana",wf,2030.0,False,POR,1.0,1,0.18,20,3.6
+46672940,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2305,2297,5.5,9,1.23,20,24.6,"Ilamparthi, A R",m,2505.0,False,IND,1.0,1,0.77,20,15.4
+46672940,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2305,2297,5.5,9,1.23,20,24.6,"Dhulipalla, Bala Chandra Prasad",m,2432.0,False,IND,0.0,1,-0.32,20,-6.4
+46672940,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2305,2297,5.5,9,1.23,20,24.6,"Yeghiazaryan, Mikayel",,1903.0,False,ARM,0.5,1,-0.42,20,-8.4
+46672940,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2305,2297,5.5,9,1.23,20,24.6,"Rebers, Eugene",f,2190.0,False,NED,1.0,1,0.35,20,7.0
+46672940,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2305,2297,5.5,9,1.23,20,24.6,"Lohia, Sohum",f,2368.0,False,ENG,0.5,1,0.1,20,2.0
+46672940,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2305,2297,5.5,9,1.23,20,24.6,"Cieslak, Patryk",f,2408.0,False,POL,0.5,1,0.15,20,3.0
+46672940,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2305,2297,5.5,9,1.23,20,24.6,"Peyrer, Konstantin",m,2447.0,False,AUT,1.0,1,0.7,20,14.0
+46672940,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2305,2297,5.5,9,1.23,20,24.6,"Blomqvist, Erik",g,2460.0,False,SWE,0.0,1,-0.28,20,-5.6

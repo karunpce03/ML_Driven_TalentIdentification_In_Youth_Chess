@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33345139,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1532,1416,6.0,9,2.9,40,116.0,Rajat,,1594.0,False,IND,0.0,1,-0.27,40,-10.8
+33345139,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1532,1416,6.0,9,2.9,40,116.0,"Lakshya, Nigam",,1612.0,False,IND,0.5,1,0.25,40,10.0
+33345139,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1532,1416,6.0,9,2.9,40,116.0,"Dev, Pratap",,1524.0,False,IND,1.0,1,0.65,40,26.0
+33345139,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1532,1416,6.0,9,2.9,40,116.0,"Rayan, Merchant",,1508.0,False,IND,0.0,1,-0.37,40,-14.8
+33345139,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1532,1416,6.0,9,2.9,40,116.0,"Saransh, Goel",,1513.0,False,IND,1.0,1,0.63,40,25.2
+33345139,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1532,1416,6.0,9,2.9,40,116.0,"Devansh, Nammi",,1478.0,False,IND,0.5,1,0.09,40,3.6
+33345139,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1532,1416,6.0,9,2.9,40,116.0,"Singh, Jeet",,1481.0,False,IND,1.0,1,0.59,40,23.6
+33345139,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1532,1416,6.0,9,2.9,40,116.0,"Anirudh, Singh",,1516.0,False,IND,1.0,1,0.64,40,25.6
+33345139,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1532,1416,6.0,9,2.9,40,116.0,"Kumar, A.",,1560.0,False,IND,1.0,1,0.69,40,27.6

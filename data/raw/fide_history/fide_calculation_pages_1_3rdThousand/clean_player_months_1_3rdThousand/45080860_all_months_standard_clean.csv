@@ -1,0 +1,56 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45080860,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1660,1803,6.0,7,1.25,40,50.0,"Ramachandran, S",,1496.0,False,IND,1.0,1,0.14,40,5.6
+45080860,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1660,1803,6.0,7,1.25,40,50.0,"Vignesh, S",,1580.0,False,IND,1.0,1,0.22,40,8.8
+45080860,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1660,1803,6.0,7,1.25,40,50.0,"Sharukh, Khan B",,1659.0,False,IND,1.0,1,0.31,40,12.4
+45080860,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1660,1803,6.0,7,1.25,40,50.0,"Mithun, P M",,1572.0,False,IND,0.5,1,-0.29,40,-11.6
+45080860,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1660,1803,6.0,7,1.25,40,50.0,"Muthuraman, Kesavamoorthy",,1649.0,False,IND,1.0,1,0.29,40,11.6
+45080860,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1660,1803,6.0,7,1.25,40,50.0,"Abhilash, M",,1858.0,False,IND,1.0,1,0.58,40,23.2
+45080860,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1660,1803,6.0,7,1.25,40,50.0,"Madhavakrishnan, R",,1803.0,False,IND,0.5,1,0.0,40,0.0
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Naman, Newar",,1539.0,False,IND,1.0,1,0.14,35,4.9
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Abhay, Chetty",,1710.0,False,IND,1.0,1,0.31,35,10.85
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Mrinmoy, Rajkhowa",,1996.0,False,IND,0.0,1,-0.31,35,-10.85
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Ishan, S",,1700.0,False,IND,0.5,1,-0.2,35,-7.0
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Aron, S P",,1692.0,False,IND,0.0,1,-0.71,35,-24.85
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Vageesh, Swaminathan",,1681.0,False,IND,1.0,1,0.27,35,9.45
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Kanoje, Alok",,1747.0,False,IND,1.0,1,0.36,35,12.6
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Lakshyesh, Mohan Gupta",,1691.0,False,IND,1.0,1,0.29,35,10.15
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Mohit, S",,2041.0,False,IND,0.5,1,0.24,35,8.4
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Sharnarthi, Shlok",,2024.0,False,IND,0.5,1,0.23,35,8.05
+45080860,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1853,6.5,11,0.22,35,7.7,"Madhesh, Kumar S",,1925.0,False,IND,0.0,1,-0.4,35,-14.0
+45080860,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1599,1853,6.5,9,-0.76,35,-26.6,"Chinmay, Reddy B P",,1453.0,True,IND,1.0,1,0.08,35,2.8
+45080860,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1599,1853,6.5,9,-0.76,35,-26.6,"Abhineeth, Bhat",,1530.0,False,IND,1.0,1,0.13,35,4.55
+45080860,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1599,1853,6.5,9,-0.76,35,-26.6,"Raposo, Maxwell",,1653.0,False,IND,1.0,1,0.24,35,8.4
+45080860,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1599,1853,6.5,9,-0.76,35,-26.6,"Darsha, Bhat",,1623.0,False,IND,0.5,1,-0.29,35,-10.15
+45080860,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1599,1853,6.5,9,-0.76,35,-26.6,"Sinthia, Sarkar",,1708.0,False,IND,0.0,1,-0.69,35,-24.15
+45080860,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1599,1853,6.5,9,-0.76,35,-26.6,Jeevanandham,,1623.0,False,IND,0.5,1,-0.29,35,-10.15
+45080860,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1599,1853,6.5,9,-0.76,35,-26.6,"Nitin, Ganesh T",,1570.0,False,IND,1.0,1,0.16,35,5.6
+45080860,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1599,1853,6.5,9,-0.76,35,-26.6,"Aravinda, B R",,1655.0,False,IND,0.5,1,-0.26,35,-9.1
+45080860,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1599,1853,6.5,9,-0.76,35,-26.6,"Samarth, Arun Upadhyaya",,1573.0,False,IND,1.0,1,0.16,35,5.6
+45080860,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2072,1853,3.5,9,1.43,36,51.48,"Rey Malde, Henrique",f,2118.0,False,ESP,0.0,1,-0.18,36,-6.48
+45080860,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2072,1853,3.5,9,1.43,36,51.48,"Bosch Jorda, Ricard",,2023.0,False,ESP,1.0,1,0.72,36,25.92
+45080860,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2072,1853,3.5,9,1.43,36,51.48,"Moreno Carrascosa, Bartolome",,2084.0,False,ESP,0.5,1,0.29,36,10.44
+45080860,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2072,1853,3.5,9,1.43,36,51.48,"Vogt, Lothar",g,2253.0,True,GER,0.5,1,0.42,36,15.12
+45080860,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2072,1853,3.5,9,1.43,36,51.48,"Khoroshykh, Yaroslav",,2057.0,False,UKR,0.0,1,-0.24,36,-8.64
+45080860,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2072,1853,3.5,9,1.43,36,51.48,"Lorenzo Calvo, Damian Angel",,2010.0,False,ESP,0.5,1,0.21,36,7.56
+45080860,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2072,1853,3.5,9,1.43,36,51.48,"Karut, Kacper",,2076.0,False,POL,0.5,1,0.28,36,10.08
+45080860,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2072,1853,3.5,9,1.43,36,51.48,"Sucharda, Tomas",,2020.0,False,CZE,0.5,1,0.22,36,7.92
+45080860,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2072,1853,3.5,9,1.43,36,51.48,"Torosyan Saghatelyan, Arturo",,2009.0,False,ESP,0.0,1,-0.29,36,-10.44
+45080860,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2068,1834,5.0,10,2.85,36,102.6,"Banerjee, Supratit",c,2116.0,False,ENG,0.5,1,0.34,36,12.24
+45080860,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2068,1834,5.0,10,2.85,36,102.6,"Jaksland, Tim",f,2107.0,False,DEN,1.0,1,0.83,36,29.88
+45080860,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2068,1834,5.0,10,2.85,36,102.6,"Shukhman, Anna",wm,2234.0,True,FID,0.0,1,-0.08,36,-2.88
+45080860,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2068,1834,5.0,10,2.85,36,102.6,"Costache, Andrei Eugeniu",,2076.0,False,ROU,0.0,1,-0.2,36,-7.2
+45080860,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2068,1834,5.0,10,2.85,36,102.6,"Maloberti, David",,1982.0,False,FRA,0.0,1,-0.3,36,-10.8
+45080860,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2068,1834,5.0,10,2.85,36,102.6,"Guez, Fabien",,1968.0,False,FRA,1.0,1,0.68,36,24.48
+45080860,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2068,1834,5.0,10,2.85,36,102.6,"Spitz, Patrick",,1993.0,False,FRA,0.5,1,0.21,36,7.56
+45080860,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2068,1834,5.0,10,2.85,36,102.6,"Dolas, Aarush",c,2014.0,False,IND,1.0,1,0.74,36,26.64
+45080860,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2068,1834,5.0,10,2.85,36,102.6,"Rivlin, Shachar",,2057.0,False,ISR,1.0,1,0.78,36,28.08
+45080860,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2068,1834,5.0,10,2.85,36,102.6,"Pniaczek, Marek",f,2132.0,False,POL,0.0,1,-0.15,36,-5.4
+45080860,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2064,1834,6.0,9,4.01,40,160.4,"Cano Mateos, Pablo",,2067.0,False,ESP,0.0,1,-0.21,40,-8.4
+45080860,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2064,1834,6.0,9,4.01,40,160.4,"Vaddhireddy, Sai",,1962.0,False,ENG,1.0,1,0.67,40,26.8
+45080860,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2064,1834,6.0,9,4.01,40,160.4,"Lasheras Martinez, Juan Thomas",,2128.0,False,ESP,1.0,1,0.85,40,34.0
+45080860,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2064,1834,6.0,9,4.01,40,160.4,"Valdepenas Octavio, Javier",,2145.0,False,ESP,0.0,1,-0.14,40,-5.6
+45080860,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2064,1834,6.0,9,4.01,40,160.4,"Navarro Cabrera, Carlos",,2003.0,False,ESP,1.0,1,0.72,40,28.8
+45080860,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2064,1834,6.0,9,4.01,40,160.4,"Escudero Ribo, Eloi",,1903.0,False,ESP,1.0,1,0.6,40,24.0
+45080860,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2064,1834,6.0,9,4.01,40,160.4,"Tonndorf, Matthias",f,2138.0,False,GER,0.0,1,-0.14,40,-5.6
+45080860,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2064,1834,6.0,9,4.01,40,160.4,"Perez Epinin, Gines",,2052.0,False,ESP,1.0,1,0.78,40,31.2
+45080860,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2064,1834,6.0,9,4.01,40,160.4,"Valdats, Reinis",,2175.0,False,LAT,1.0,1,0.88,40,35.2

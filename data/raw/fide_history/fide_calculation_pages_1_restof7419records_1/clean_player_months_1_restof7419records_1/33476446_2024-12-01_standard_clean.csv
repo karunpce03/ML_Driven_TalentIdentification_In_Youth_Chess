@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33476446,2024-12-01,0,Asian Chess Championship for Players with Disabilities 2024 - Girls,Bishkek KGZ,2024-11-11,2024-11-17,1558,1491,2.5,5,0.46,40,18.4,"Ikromalieva, Sabokhat",,1629.0,False,UZB,0.5,1,0.19,40,7.6
+33476446,2024-12-01,0,Asian Chess Championship for Players with Disabilities 2024 - Girls,Bishkek KGZ,2024-11-11,2024-11-17,1558,1491,2.5,5,0.46,40,18.4,"Izentayeva, Aynura",,1490.0,False,UZB,0.0,1,-0.5,40,-20.0
+33476446,2024-12-01,0,Asian Chess Championship for Players with Disabilities 2024 - Girls,Bishkek KGZ,2024-11-11,2024-11-17,1558,1491,2.5,5,0.46,40,18.4,"Osmanova, Alina",,1554.0,False,FID,1.0,1,0.59,40,23.6
+33476446,2024-12-01,0,Asian Chess Championship for Players with Disabilities 2024 - Girls,Bishkek KGZ,2024-11-11,2024-11-17,1558,1491,2.5,5,0.46,40,18.4,"Konyakhina, Angelina",,1550.0,False,FID,0.0,1,-0.42,40,-16.8
+33476446,2024-12-01,0,Asian Chess Championship for Players with Disabilities 2024 - Girls,Bishkek KGZ,2024-11-11,2024-11-17,1558,1491,2.5,5,0.46,40,18.4,"Drugova, Kira",,1566.0,False,FID,1.0,1,0.6,40,24.0

@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88167615,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1635,1533,0.5,4,-0.95,40,-38.0,"Parithi, Narayan S I",,1660.0,False,IND,0.0,1,-0.33,40,-13.2
+88167615,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1635,1533,0.5,4,-0.95,40,-38.0,Satyasavit,,1622.0,False,IND,0.0,1,-0.38,40,-15.2
+88167615,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1635,1533,0.5,4,-0.95,40,-38.0,"Harshika, M",,1583.0,False,IND,0.5,1,0.07,40,2.8
+88167615,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1635,1533,0.5,4,-0.95,40,-38.0,"Karthick, Babu",,1676.0,False,IND,0.0,1,-0.31,40,-12.4

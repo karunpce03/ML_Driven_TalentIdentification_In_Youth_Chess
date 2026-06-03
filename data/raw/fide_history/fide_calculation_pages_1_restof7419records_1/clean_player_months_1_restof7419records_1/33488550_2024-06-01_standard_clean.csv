@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33488550,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1599,1429,3.0,7,0.97,40,38.8,"Aadik, Theophane Lenin",,1829,True,IND,0.0,1,-0.08,40,-3.2
+33488550,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1599,1429,3.0,7,0.97,40,38.8,"Kunhambu, A",,1590,False,IND,1.0,1,0.71,40,28.4
+33488550,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1599,1429,3.0,7,0.97,40,38.8,"Athulkrishna, P",,1563,False,IND,0.5,1,0.18,40,7.2
+33488550,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1599,1429,3.0,7,0.97,40,38.8,"Farriz, J",,1551,False,IND,0.0,1,-0.33,40,-13.2
+33488550,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1599,1429,3.0,7,0.97,40,38.8,"Adarsh, Ajith",,1486,False,IND,0.5,1,0.08,40,3.2
+33488550,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1599,1429,3.0,7,0.97,40,38.8,"Kedarnath, U",,1643,False,IND,1.0,1,0.77,40,30.8
+33488550,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1599,1429,3.0,7,0.97,40,38.8,"Rithika, Sunil",,1534,False,IND,0.0,1,-0.36,40,-14.4

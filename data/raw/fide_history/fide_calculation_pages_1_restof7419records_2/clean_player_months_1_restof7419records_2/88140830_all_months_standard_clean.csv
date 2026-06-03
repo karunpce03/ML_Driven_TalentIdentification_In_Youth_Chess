@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88140830,2024-11-01,0,SF Essen-Werden Jubilaeumsopen 2024 B-Open,Essen GER,2024-10-25,2024-10-27,1770.0,1410.0,0.0,3,-0.32,40,-12.8,"Reuss, Till-Christopher",,1789.0,False,GER,0.0,1,-0.09,40.0,-3.6
+88140830,2024-11-01,0,SF Essen-Werden Jubilaeumsopen 2024 B-Open,Essen GER,2024-10-25,2024-10-27,1770.0,1410.0,0.0,3,-0.32,40,-12.8,"Bui, Alestiel",,1810.0,True,GER,0.0,1,-0.08,40.0,-3.2
+88140830,2024-11-01,0,SF Essen-Werden Jubilaeumsopen 2024 B-Open,Essen GER,2024-10-25,2024-10-27,1770.0,1410.0,0.0,3,-0.32,40,-12.8,"Kanno, Clara Yumi",,1711.0,False,GER,0.0,1,-0.15,40.0,-6.0
+88140830,2025-02-01,0,Jugendverbandseinzelmeisterschaft Niederrhein 2024 U14,Kranenburg GER,2025-01-02,2025-01-06,,,3.0,4,0.0,1669,,"Zander, Vincent",,1622.0,False,GER,1.0,1,0.0,,0.0
+88140830,2025-02-01,0,Jugendverbandseinzelmeisterschaft Niederrhein 2024 U14,Kranenburg GER,2025-01-02,2025-01-06,,,3.0,4,0.0,1669,,"Malagatte, Samiksha",,1543.0,False,GER,1.0,1,0.0,,0.0
+88140830,2025-02-01,0,Jugendverbandseinzelmeisterschaft Niederrhein 2024 U14,Kranenburg GER,2025-01-02,2025-01-06,,,3.0,4,0.0,1669,,"Schmitz, Constantin",,1731.0,False,GER,0.0,1,0.0,,0.0
+88140830,2025-02-01,0,Jugendverbandseinzelmeisterschaft Niederrhein 2024 U14,Kranenburg GER,2025-01-02,2025-01-06,,,3.0,4,0.0,1669,,"Hafez, Oualid",,1621.0,False,GER,1.0,1,0.0,,0.0
+88140830,2025-02-01,0,DSK-Open 2025 Januar 2025,Duesseldorf GER,2025-01-10,2025-01-24,,,0.5,2,0.0,1576,,"Anschuetz, Wolfgang",,1869.0,False,GER,0.0,1,0.0,,0.0
+88140830,2025-02-01,0,DSK-Open 2025 Januar 2025,Duesseldorf GER,2025-01-10,2025-01-24,,,0.5,2,0.0,1576,,"Lohberg, David",,1669.0,False,GER,0.5,1,0.0,,0.0
+88140830,2025-03-01,0,3. Internationales Bruehler Open B-Turnier,Bruehl GER,2025-02-14,2025-02-16,1564.0,1750.0,2.0,3,-0.23,40,-9.2,"Yilmaz, Deniz",,1514.0,False,GER,0.0,1,-0.8,40.0,-32.0
+88140830,2025-03-01,0,3. Internationales Bruehler Open B-Turnier,Bruehl GER,2025-02-14,2025-02-16,1564.0,1750.0,2.0,3,-0.23,40,-9.2,"Krenzel, Christoph",,1552.0,False,GER,1.0,1,0.24,40.0,9.6
+88140830,2025-03-01,0,3. Internationales Bruehler Open B-Turnier,Bruehl GER,2025-02-14,2025-02-16,1564.0,1750.0,2.0,3,-0.23,40,-9.2,"Jessen, Christian",,1627.0,False,GER,1.0,1,0.33,40.0,13.2
+88140830,2025-04-01,0,DSK-Open 2025 Maerz 2025,Duesseldorf GER,2025-03-14,2025-03-28,1780.0,1741.0,0.5,1,0.05,40,2.0,"Hauser, Bernd",,1780.0,False,GER,0.5,1,0.05,40.0,2.0

@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429065607,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1693,1512,1.5,4,0.32,40,12.8,"Amartya, Saumitra Gupta",,1912,True,IND,0.0,1,-0.08,40,-3.2
+429065607,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1693,1512,1.5,4,0.32,40,12.8,"Arnav, Goyal",,1708,False,IND,0.5,1,0.25,40,10.0
+429065607,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1693,1512,1.5,4,0.32,40,12.8,"Rishabh, Pradhan",,1716,False,IND,0.0,1,-0.24,40,-9.6
+429065607,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1693,1512,1.5,4,0.32,40,12.8,"Mohit, Sharma",,1435,False,IND,1.0,1,0.39,40,15.6

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429023491,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1576,1413,1.0,5,-0.47,40,-18.8,"Arhan, Jain",,1740.0,False,IND,0.0,1,-0.13,40,-5.2
+429023491,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1576,1413,1.0,5,-0.47,40,-18.8,"Saket, Kumar",,1547.0,False,IND,1.0,1,0.68,40,27.2
+429023491,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1576,1413,1.0,5,-0.47,40,-18.8,"Arnav, Goyal",,1541.0,False,IND,0.0,1,-0.33,40,-13.2
+429023491,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1576,1413,1.0,5,-0.47,40,-18.8,"Saksham, Arora",,1513.0,False,IND,0.0,1,-0.36,40,-14.4
+429023491,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1576,1413,1.0,5,-0.47,40,-18.8,"Dinesh, Kumar Gupta",,1537.0,False,IND,0.0,1,-0.33,40,-13.2

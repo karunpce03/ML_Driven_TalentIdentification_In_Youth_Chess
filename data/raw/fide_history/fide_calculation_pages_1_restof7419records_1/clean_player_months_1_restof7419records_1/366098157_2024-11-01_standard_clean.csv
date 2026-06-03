@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366098157,2024-11-01,0,SCF Training Tournament Q4 2024,Singapore SGP,2024-09-28,2024-09-29,1578,1529,2.5,4,0.75,40,30.0,"Ang, Jun Yi Gabriel",,1476.0,False,SGP,0.5,1,-0.07,40,-2.8
+366098157,2024-11-01,0,SCF Training Tournament Q4 2024,Singapore SGP,2024-09-28,2024-09-29,1578,1529,2.5,4,0.75,40,30.0,"Wu, Chenyu",,1507.0,False,SGP,1.0,1,0.47,40,18.8
+366098157,2024-11-01,0,SCF Training Tournament Q4 2024,Singapore SGP,2024-09-28,2024-09-29,1578,1529,2.5,4,0.75,40,30.0,"Koh, Zhe Quan Benedict",,1742.0,False,SGP,1.0,1,0.77,40,30.8
+366098157,2024-11-01,0,SCF Training Tournament Q4 2024,Singapore SGP,2024-09-28,2024-09-29,1578,1529,2.5,4,0.75,40,30.0,"Goh, Ching Hayk",,1588.0,False,SGP,0.0,1,-0.42,40,-16.8

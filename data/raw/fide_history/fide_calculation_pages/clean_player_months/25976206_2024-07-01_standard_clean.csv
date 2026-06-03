@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25976206,2024-07-01,0,Summer Cup Classical Below 1800 FIDE Rating Lake City Open Chess Tournament 2024,Udaipur IND,2024-06-15,2024-06-17,1690,1464,1.0,3,0.34,40,13.6,"Amlan, Mahanta",,1796.0,False,IND,0.0,1,-0.12,40,-4.8
+25976206,2024-07-01,0,Summer Cup Classical Below 1800 FIDE Rating Lake City Open Chess Tournament 2024,Udaipur IND,2024-06-15,2024-06-17,1690,1464,1.0,3,0.34,40,13.6,"Kaivallya, Kshitij Goyanka",,1648.0,False,IND,1.0,1,0.74,40,29.6
+25976206,2024-07-01,0,Summer Cup Classical Below 1800 FIDE Rating Lake City Open Chess Tournament 2024,Udaipur IND,2024-06-15,2024-06-17,1690,1464,1.0,3,0.34,40,13.6,"Vinod, S",,1627.0,False,IND,0.0,1,-0.28,40,-11.2

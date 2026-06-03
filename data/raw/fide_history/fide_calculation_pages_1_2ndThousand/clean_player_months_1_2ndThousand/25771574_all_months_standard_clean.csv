@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25771574,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1668,1510,1.0,3,0.11,40,4.4,"Aniket, Narayan Biswas",,1766.0,False,IND,0.0,1,-0.19,40,-7.6
+25771574,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1668,1510,1.0,3,0.11,40,4.4,"Pranay, Mondal",,1621.0,False,IND,0.0,1,-0.35,40,-14.0
+25771574,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1668,1510,1.0,3,0.11,40,4.4,"Swapnabha, Neogi",,1617.0,False,IND,1.0,1,0.65,40,26.0
+25771574,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1617,1514,2.5,5,0.62,40,24.8,"Adhiraj, Mitra",,1863.0,False,IND,0.0,1,-0.11,40,-4.4
+25771574,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1617,1514,2.5,5,0.62,40,24.8,"Kinjal, Sardar",,1653.0,False,IND,1.0,1,0.69,40,27.6
+25771574,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1617,1514,2.5,5,0.62,40,24.8,"Kathakali, Dey",,1695.0,False,IND,0.0,1,-0.26,40,-10.4
+25771574,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1617,1514,2.5,5,0.62,40,24.8,"Kush, Mundhra",,1423.0,False,IND,0.5,1,-0.12,40,-4.8
+25771574,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1617,1514,2.5,5,0.62,40,24.8,"Ankita, Kundu",,1453.0,False,IND,1.0,1,0.42,40,16.8

@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48728306,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1516,1596,1.0,3,-0.81,40,-32.4,"Niroshan, Thanikachalam",,1653.0,False,IND,0.0,1,-0.42,40,-16.8
+48728306,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1516,1596,1.0,3,-0.81,40,-32.4,"Rahul, Krishnamoorthy",,1411.0,False,IND,1.0,1,0.26,40,10.4
+48728306,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1516,1596,1.0,3,-0.81,40,-32.4,"Kavinaya, Prabha T",,1485.0,False,IND,0.0,1,-0.65,40,-26.0

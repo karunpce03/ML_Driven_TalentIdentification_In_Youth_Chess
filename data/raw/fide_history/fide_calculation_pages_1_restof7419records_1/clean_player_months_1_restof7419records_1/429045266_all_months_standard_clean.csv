@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429045266,2024-05-01,0,23rd Jharkhand State Sub Junior FIDE Rating Chess Championship 2024,Hazaribag IND,2024-04-01,2024-04-04,,,1.0,2,0.0,1468,,"Rajveer, Goyal",,1459.0,False,IND,0.0,1,0.0,,0.0
+429045266,2024-05-01,0,23rd Jharkhand State Sub Junior FIDE Rating Chess Championship 2024,Hazaribag IND,2024-04-01,2024-04-04,,,1.0,2,0.0,1468,,"Niharika, Chakraborty",,1477.0,False,IND,1.0,1,0.0,,0.0
+429045266,2024-08-01,0,Aditya Birla Memorial 23rd Jharkhand State FIDE Rating Chess Championship - 2024,Ranchi IND,2024-07-20,2024-07-23,,,0.0,2,0.0,675,,"Deobrat, Singh",,1486.0,False,IND,0.0,1,0.0,,0.0
+429045266,2024-08-01,0,Aditya Birla Memorial 23rd Jharkhand State FIDE Rating Chess Championship - 2024,Ranchi IND,2024-07-20,2024-07-23,,,0.0,2,0.0,675,,"Yatharth, Deo",,1464.0,False,IND,0.0,1,0.0,,0.0
+429045266,2024-09-01,0,4th Atal Talent Hunt All India Open FIDE Rating Chess Tournament 2024,Hazaribag IND,2024-08-17,2024-08-20,,,2.5,6,0.0,1548,,"Aditya, Tanmay Sharma",,1481.0,False,IND,1.0,1,0.0,,0.0
+429045266,2024-09-01,0,4th Atal Talent Hunt All India Open FIDE Rating Chess Tournament 2024,Hazaribag IND,2024-08-17,2024-08-20,,,2.5,6,0.0,1548,,"Ramesh, Kumar",,1593.0,False,IND,0.5,1,0.0,,0.0
+429045266,2024-09-01,0,4th Atal Talent Hunt All India Open FIDE Rating Chess Tournament 2024,Hazaribag IND,2024-08-17,2024-08-20,,,2.5,6,0.0,1548,,"Sankalp, Kumar",,1505.0,False,IND,1.0,1,0.0,,0.0
+429045266,2024-09-01,0,4th Atal Talent Hunt All India Open FIDE Rating Chess Tournament 2024,Hazaribag IND,2024-08-17,2024-08-20,,,2.5,6,0.0,1548,,"Krishna, Kumar Saw",,1750.0,False,IND,0.0,1,0.0,,0.0
+429045266,2024-09-01,0,4th Atal Talent Hunt All India Open FIDE Rating Chess Tournament 2024,Hazaribag IND,2024-08-17,2024-08-20,,,2.5,6,0.0,1548,,"Umesh, Saw",,1821.0,False,IND,0.0,1,0.0,,0.0
+429045266,2024-09-01,0,4th Atal Talent Hunt All India Open FIDE Rating Chess Tournament 2024,Hazaribag IND,2024-08-17,2024-08-20,,,2.5,6,0.0,1548,,"Rishi, Raj",,1477.0,False,IND,0.0,1,0.0,,0.0
+429045266,2025-02-01,0,Jharkhand Secondary School Level FIDE Rating Chess Tournament 2025,Hazaribag IND,2025-01-16,2025-01-19,1740.0,1506.0,0.0,1,-0.21,40,-8.4,Aabhash,,1740.0,False,IND,0.0,1,-0.21,40.0,-8.4

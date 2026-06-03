@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33473005,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1692,1516,1.0,4,-0.19,40,-7.6,"Parambrata, Sarkar",,1870.0,False,IND,0.0,1,-0.11,40,-4.4
+33473005,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1692,1516,1.0,4,-0.19,40,-7.6,"Sagnik, Dutta",,1832.0,False,IND,0.0,1,-0.13,40,-5.2
+33473005,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1692,1516,1.0,4,-0.19,40,-7.6,"Adhrit, Chatterjee",,1646.0,False,IND,0.0,1,-0.32,40,-12.8
+33473005,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1692,1516,1.0,4,-0.19,40,-7.6,"Aishik, Satya Chatterjee",,1419.0,False,IND,1.0,1,0.37,40,14.8

@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25149857,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1642,1513,0.0,3,-1.07,40,-42.8,"Rebecca, Jesumarian",,1873.0,False,IND,0.0,1,-0.1,40,-4.0
+25149857,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1642,1513,0.0,3,-1.07,40,-42.8,"Pancholi, Priyanka",,1414.0,False,IND,0.0,1,-0.64,40,-25.6
+25149857,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1642,1513,0.0,3,-1.07,40,-42.8,"Suryanshi, Sharma",,1639.0,False,IND,0.0,1,-0.33,40,-13.2

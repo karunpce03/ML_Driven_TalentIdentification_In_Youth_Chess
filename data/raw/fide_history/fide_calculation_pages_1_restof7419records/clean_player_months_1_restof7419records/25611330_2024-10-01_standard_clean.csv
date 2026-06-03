@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25611330,2024-10-01,0,146th Annual New York State Championship - U2100,"Albany, NY USA",2024-08-30,2024-09-02,1764,1683,4.5,6,2.15,40,86.0,"Northrup, Cory",,1848.0,False,USA,1.0,1,0.72,40,28.8
+25611330,2024-10-01,0,146th Annual New York State Championship - U2100,"Albany, NY USA",2024-08-30,2024-09-02,1764,1683,4.5,6,2.15,40,86.0,"Goel, Raben",,1795.0,False,USA,1.0,1,0.65,40,26.0
+25611330,2024-10-01,0,146th Annual New York State Championship - U2100,"Albany, NY USA",2024-08-30,2024-09-02,1764,1683,4.5,6,2.15,40,86.0,"Ramesan, Raunak Amit",,1723.0,False,CAN,0.5,1,0.06,40,2.4
+25611330,2024-10-01,0,146th Annual New York State Championship - U2100,"Albany, NY USA",2024-08-30,2024-09-02,1764,1683,4.5,6,2.15,40,86.0,"Zhou, Audrey",,1460.0,False,USA,1.0,1,0.22,40,8.8
+25611330,2024-10-01,0,146th Annual New York State Championship - U2100,"Albany, NY USA",2024-08-30,2024-09-02,1764,1683,4.5,6,2.15,40,86.0,"Larsen, Jeremy",,1926.0,False,USA,0.0,1,-0.2,40,-8.0
+25611330,2024-10-01,0,146th Annual New York State Championship - U2100,"Albany, NY USA",2024-08-30,2024-09-02,1764,1683,4.5,6,2.15,40,86.0,"Olson, Travis J",,1832.0,False,USA,1.0,1,0.7,40,28.0
+25611330,2024-10-01,0,September 2024 ChessKQ Super Sunday FIDE Tournament,"Piscataway, NJ USA",2024-09-08,2024-09-08,1876,1710,3.0,3,2.11,40,84.4,"Cirasella, Lucas",,2029.0,False,USA,1.0,1,0.87,40,34.8
+25611330,2024-10-01,0,September 2024 ChessKQ Super Sunday FIDE Tournament,"Piscataway, NJ USA",2024-09-08,2024-09-08,1876,1710,3.0,3,2.11,40,84.4,"Yang, Aimee",wc,1805.0,False,USA,1.0,1,0.63,40,25.2
+25611330,2024-10-01,0,September 2024 ChessKQ Super Sunday FIDE Tournament,"Piscataway, NJ USA",2024-09-08,2024-09-08,1876,1710,3.0,3,2.11,40,84.4,"Chovanec, Alice",wc,1793.0,False,USA,1.0,1,0.61,40,24.4

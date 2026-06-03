@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25973797,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1434,1582,2.0,5,-1.48,40,-59.2,"Anuj, Roy Chowdhury",,1403.0,False,IND,0.0,1,-0.73,40,-29.2
+25973797,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1434,1582,2.0,5,-1.48,40,-59.2,"Shakya, Kundu",,1455.0,False,IND,0.0,1,-0.67,40,-26.8
+25973797,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1434,1582,2.0,5,-1.48,40,-59.2,"Arya, Sengupta",,1447.0,False,IND,1.0,1,0.32,40,12.8
+25973797,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1434,1582,2.0,5,-1.48,40,-59.2,"Abhiraj, Saha",,1438.0,False,IND,0.0,1,-0.69,40,-27.6
+25973797,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1434,1582,2.0,5,-1.48,40,-59.2,"Debjyoti, Sarkar",,1428.0,False,IND,1.0,1,0.29,40,11.6

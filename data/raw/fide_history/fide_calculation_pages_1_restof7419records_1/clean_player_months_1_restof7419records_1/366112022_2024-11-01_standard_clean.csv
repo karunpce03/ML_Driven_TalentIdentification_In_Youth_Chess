@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366112022,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1699,1761,8.0,11,1.59,40,63.6,"Rohit, Subramanian",,1444,False,IND,1.0,1,0.13,40,5.2
+366112022,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1699,1761,8.0,11,1.59,40,63.6,Vishvanath,,1529,False,IND,1.0,1,0.21,40,8.4
+366112022,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1699,1761,8.0,11,1.59,40,63.6,"Shreyan, Mukherjee",,1585,False,IND,0.5,1,-0.23,40,-9.2
+366112022,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1699,1761,8.0,11,1.59,40,63.6,Satyasavit,,1580,False,IND,1.0,1,0.26,40,10.4
+366112022,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1699,1761,8.0,11,1.59,40,63.6,"Akshaj, Reddy Malgireddy",,1491,False,IND,1.0,1,0.17,40,6.8
+366112022,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1699,1761,8.0,11,1.59,40,63.6,"Mehul, Sondhi",,1865,False,IND,0.5,1,0.14,40,5.6
+366112022,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1699,1761,8.0,11,1.59,40,63.6,"Balanandan, Ayyappan",,1823,False,IND,1.0,1,0.59,40,23.6
+366112022,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1699,1761,8.0,11,1.59,40,63.6,"Aarav, A",c,2161,True,IND,0.5,1,0.42,40,16.8
+366112022,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1699,1761,8.0,11,1.59,40,63.6,"Advik, Amit Agrawal",,1888,False,IND,0.0,1,-0.33,40,-13.2
+366112022,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1699,1761,8.0,11,1.59,40,63.6,"Atharv, Venkatesh",,1683,False,IND,0.5,1,-0.11,40,-4.4
+366112022,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1699,1761,8.0,11,1.59,40,63.6,"Dhruv, Gupta",,1642,False,IND,1.0,1,0.34,40,13.6

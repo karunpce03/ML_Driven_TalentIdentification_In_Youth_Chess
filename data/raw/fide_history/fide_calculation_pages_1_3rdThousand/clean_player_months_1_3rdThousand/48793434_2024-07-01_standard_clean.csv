@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48793434,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1680,1404,1.0,5,0.09,40,3.6,"Ajjesh, J R",,1804,True,IND,0.0,1,-0.08,40,-3.2
+48793434,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1680,1404,1.0,5,0.09,40,3.6,"Arush, A",,1729,False,IND,0.0,1,-0.13,40,-5.2
+48793434,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1680,1404,1.0,5,0.09,40,3.6,"Suresh, K.g.",,1743,False,IND,0.5,1,0.38,40,15.2
+48793434,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1680,1404,1.0,5,0.09,40,3.6,"Ishaan, K Sibin",,1586,False,IND,0.0,1,-0.26,40,-10.4
+48793434,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1680,1404,1.0,5,0.09,40,3.6,"Aadil, T S",,1538,False,IND,0.5,1,0.18,40,7.2

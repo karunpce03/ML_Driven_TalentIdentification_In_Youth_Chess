@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531073697,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1624,1442,2.5,6,0.9,40,36.0,"Abhishek, Sonu",,1741.0,False,IND,0.5,1,0.35,40,14.0
+531073697,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1624,1442,2.5,6,0.9,40,36.0,Prayan,,1576.0,False,IND,0.5,1,0.18,40,7.2
+531073697,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1624,1442,2.5,6,0.9,40,36.0,"Saurabh, Kumar",,1607.0,False,IND,0.0,1,-0.28,40,-11.2
+531073697,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1624,1442,2.5,6,0.9,40,36.0,Rohit,,1603.0,False,IND,1.0,1,0.71,40,28.4
+531073697,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1624,1442,2.5,6,0.9,40,36.0,"Debopriyo, Dutta",,1620.0,False,IND,0.0,1,-0.27,40,-10.8
+531073697,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1624,1442,2.5,6,0.9,40,36.0,"Uttam, Kumar",,1596.0,False,IND,0.5,1,0.21,40,8.4

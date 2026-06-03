@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88158950,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1645,1424,0.0,2,-0.52,40,-20.8,"Agnivo, Chakraborty",,1824,True,IND,0.0,1,-0.08,40,-3.2
+88158950,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1645,1424,0.0,2,-0.52,40,-20.8,"Nibir, Kundu",,1466,False,IND,0.0,1,-0.44,40,-17.6

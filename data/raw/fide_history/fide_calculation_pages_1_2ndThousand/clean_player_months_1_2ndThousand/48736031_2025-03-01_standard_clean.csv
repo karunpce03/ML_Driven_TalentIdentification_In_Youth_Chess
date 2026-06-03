@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48736031,2025-03-01,0,Elo-Turnier im ASZ Laim 2025,Muenchen GER,2025-01-31,2025-02-02,1836,1598,1.0,5,-0.06,40,-2.4,"Steuer, Christopher",,1867.0,False,GER,1.0,1,0.83,40,33.2
+48736031,2025-03-01,0,Elo-Turnier im ASZ Laim 2025,Muenchen GER,2025-01-31,2025-02-02,1836,1598,1.0,5,-0.06,40,-2.4,"Guggenberger, Guido",,1959.0,False,GER,0.0,1,-0.1,40,-4.0
+48736031,2025-03-01,0,Elo-Turnier im ASZ Laim 2025,Muenchen GER,2025-01-31,2025-02-02,1836,1598,1.0,5,-0.06,40,-2.4,"Hentze, Jakob",,1873.0,False,GER,0.0,1,-0.17,40,-6.8
+48736031,2025-03-01,0,Elo-Turnier im ASZ Laim 2025,Muenchen GER,2025-01-31,2025-02-02,1836,1598,1.0,5,-0.06,40,-2.4,"Schattmann, Alfred",,1815.0,False,GER,0.0,1,-0.22,40,-8.8
+48736031,2025-03-01,0,Elo-Turnier im ASZ Laim 2025,Muenchen GER,2025-01-31,2025-02-02,1836,1598,1.0,5,-0.06,40,-2.4,"Wild, Markus",,1667.0,False,GER,0.0,1,-0.4,40,-16.0

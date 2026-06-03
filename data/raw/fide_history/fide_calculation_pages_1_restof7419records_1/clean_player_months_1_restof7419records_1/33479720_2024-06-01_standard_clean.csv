@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33479720,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1567,1422,1.0,6,-0.94,40,-37.6,"Gavi, Siddayya",,1822,True,IND,0.0,1,-0.08,40,-3.2
+33479720,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1567,1422,1.0,6,-0.94,40,-37.6,"Anandhi, P",,1599,False,IND,0.0,1,-0.27,40,-10.8
+33479720,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1567,1422,1.0,6,-0.94,40,-37.6,"Etansh, Sadawartwale",,1450,False,IND,0.5,1,0.04,40,1.6
+33479720,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1567,1422,1.0,6,-0.94,40,-37.6,"Sanchit, P Sugur",,1500,False,IND,0.0,1,-0.39,40,-15.6
+33479720,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1567,1422,1.0,6,-0.94,40,-37.6,"Kavin, V",,1510,False,IND,0.5,1,0.12,40,4.8
+33479720,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1567,1422,1.0,6,-0.94,40,-37.6,"Santhosh, Kumar B S",,1523,False,IND,0.0,1,-0.36,40,-14.4
+33479720,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1605,1422,2.0,6,0.36,40,14.4,"Arjun, Sarja",,1822,True,IND,0.0,1,-0.08,40,-3.2
+33479720,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1605,1422,2.0,6,0.36,40,14.4,"Sucheth, Rao",,1538,False,IND,1.0,1,0.66,40,26.4
+33479720,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1605,1422,2.0,6,0.36,40,14.4,"Indrajit, Majumdar",,1573,False,IND,0.0,1,-0.3,40,-12.0
+33479720,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1605,1422,2.0,6,0.36,40,14.4,"Akanksh, U D",,1560,False,IND,1.0,1,0.69,40,27.6
+33479720,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1605,1422,2.0,6,0.36,40,14.4,"Yatharth, Jain",,1578,False,IND,0.0,1,-0.29,40,-11.6
+33479720,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1605,1422,2.0,6,0.36,40,14.4,"Ashmit, Anand",,1556,False,IND,0.0,1,-0.32,40,-12.8

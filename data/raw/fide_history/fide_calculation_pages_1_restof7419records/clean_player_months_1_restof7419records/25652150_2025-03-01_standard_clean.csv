@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25652150,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2208,2095,3.0,7,0.52,40,20.8,"Zielonka, Adam",f,2368.0,False,POL,0.0,1,-0.17,40,-6.8
+25652150,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2208,2095,3.0,7,0.52,40,20.8,"Maklakova, Naomi",wc,1929.0,False,LAT,1.0,1,0.28,40,11.2
+25652150,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2208,2095,3.0,7,0.52,40,20.8,"Omar, Noaman",m,2293.0,False,UAE,0.0,1,-0.24,40,-9.6
+25652150,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2208,2095,3.0,7,0.52,40,20.8,"Prudhvi, Kumar V",,2259.0,False,IND,1.0,1,0.72,40,28.8
+25652150,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2208,2095,3.0,7,0.52,40,20.8,"Kaldarova, Ayaulym",wf,2248.0,False,KAZ,0.5,1,0.2,40,8.0
+25652150,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2208,2095,3.0,7,0.52,40,20.8,"Rebers, Eugene",f,2190.0,False,NED,0.5,1,0.13,40,5.2
+25652150,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2208,2095,3.0,7,0.52,40,20.8,"Bazilius, Augustinas",c,2170.0,False,LTU,0.0,1,-0.4,40,-16.0

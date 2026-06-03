@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25146270,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1830,1904,7.0,11,0.39,40,15.6,"Ishaan, Kandi",,1574,False,IND,1.0,1,0.12,40,4.8
+25146270,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1830,1904,7.0,11,0.39,40,15.6,"Eshwar, Veerappan Aiyappan",,1728,False,IND,1.0,1,0.27,40,10.8
+25146270,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1830,1904,7.0,11,0.39,40,15.6,"Sriram, Adarsh Uppala",,2304,True,IND,0.0,1,-0.08,40,-3.2
+25146270,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1830,1904,7.0,11,0.39,40,15.6,"Kanoje, Alok",,1747,False,IND,0.5,1,-0.21,40,-8.4
+25146270,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1830,1904,7.0,11,0.39,40,15.6,"Prajeesh, B U",,1753,False,IND,0.0,1,-0.7,40,-28.0
+25146270,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1830,1904,7.0,11,0.39,40,15.6,"Gautham, A",,1671,False,IND,1.0,1,0.21,40,8.4
+25146270,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1830,1904,7.0,11,0.39,40,15.6,"Avyaya, Kumara Bhat",,1753,False,IND,1.0,1,0.3,40,12.0
+25146270,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1830,1904,7.0,11,0.39,40,15.6,"Kathir, Kaman T",,1769,False,IND,1.0,1,0.32,40,12.8
+25146270,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1830,1904,7.0,11,0.39,40,15.6,"Meetansh, Dixit",,1793,False,IND,1.0,1,0.35,40,14.0
+25146270,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1830,1904,7.0,11,0.39,40,15.6,"Saisarvesh, S",,1999,False,IND,0.5,1,0.13,40,5.2
+25146270,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1830,1904,7.0,11,0.39,40,15.6,"Arshpreet, Singh",,2039,False,IND,0.0,1,-0.32,40,-12.8

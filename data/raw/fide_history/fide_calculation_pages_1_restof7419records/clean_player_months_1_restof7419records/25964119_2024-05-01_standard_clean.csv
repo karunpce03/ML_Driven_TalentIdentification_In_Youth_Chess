@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25964119,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1595,1520,3.5,7,0.57,40,22.8,"Marthandan, K U",,1920,True,IND,0.0,1,-0.08,40,-3.2
+25964119,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1595,1520,3.5,7,0.57,40,22.8,"Nithindas, K",,1401,False,IND,1.0,1,0.34,40,13.6
+25964119,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1595,1520,3.5,7,0.57,40,22.8,"Gokula, Chandhiran A",,1654,False,IND,0.5,1,0.18,40,7.2
+25964119,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1595,1520,3.5,7,0.57,40,22.8,"Subramanian, V",,1657,False,IND,0.0,1,-0.32,40,-12.8
+25964119,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1595,1520,3.5,7,0.57,40,22.8,"Hariswar, C",,1450,False,IND,1.0,1,0.4,40,16.0
+25964119,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1595,1520,3.5,7,0.57,40,22.8,"Mayoogh, A N",,1419,False,IND,1.0,1,0.36,40,14.4
+25964119,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1595,1520,3.5,7,0.57,40,22.8,"Sandeep, Santhosh",,1663,False,IND,0.0,1,-0.31,40,-12.4

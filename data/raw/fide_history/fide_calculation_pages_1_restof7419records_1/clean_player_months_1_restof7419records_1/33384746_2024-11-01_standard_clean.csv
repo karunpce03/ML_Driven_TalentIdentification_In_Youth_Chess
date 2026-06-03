@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33384746,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1565,1412,1.5,7,-0.66,40,-26.4,"Sandeep, Santhosh",,1739.0,False,IND,0.0,1,-0.13,40,-5.2
+33384746,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1565,1412,1.5,7,-0.66,40,-26.4,"Akella, Sankalparuthvik",,1582.0,False,IND,0.0,1,-0.28,40,-11.2
+33384746,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1565,1412,1.5,7,-0.66,40,-26.4,"Anish, P More",,1646.0,False,IND,1.0,1,0.79,40,31.6
+33384746,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1565,1412,1.5,7,-0.66,40,-26.4,"Katlamudi, Prasad",,1530.0,False,IND,0.0,1,-0.34,40,-13.6
+33384746,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1565,1412,1.5,7,-0.66,40,-26.4,"Vihaan, Datta Katakam",,1509.0,False,IND,0.0,1,-0.37,40,-14.8
+33384746,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1565,1412,1.5,7,-0.66,40,-26.4,"Yashmith, Ram Chaikam",,1544.0,False,KEN,0.0,1,-0.32,40,-12.8
+33384746,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1565,1412,1.5,7,-0.66,40,-26.4,"Shivadeepak, Kodipaka",,1404.0,False,IND,0.5,1,-0.01,40,-0.4

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88170829,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1617,1456,0.0,2,-0.57,40,-22.8,"Mokhtar, Omar.",,1646.0,False,SYR,0.0,1,-0.25,40,-10.0
+88170829,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1617,1456,0.0,2,-0.57,40,-22.8,"Subin, Kurian Thomas",,1588.0,False,IND,0.0,1,-0.32,40,-12.8
+88170829,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1814,1456,0.0,3,-0.32,40,-12.8,"Al-Qudaimi, Abdullah",,1735.0,False,YEM,0.0,1,-0.16,40,-6.4
+88170829,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1814,1456,0.0,3,-0.32,40,-12.8,"Al Jabri, Rashid",,1850.0,False,OMA,0.0,1,-0.08,40,-3.2
+88170829,2024-06-01,0,Sharjah Futures 2024,Sharjah UAE,2024-05-14,2024-05-22,1814,1456,0.0,3,-0.32,40,-12.8,"Brito Carrascal, Isabela",,1856.0,True,COL,0.0,1,-0.08,40,-3.2

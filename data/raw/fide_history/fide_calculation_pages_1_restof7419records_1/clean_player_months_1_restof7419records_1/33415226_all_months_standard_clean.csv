@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33415226,2025-04-01,0,HelsingborgsSS Vintermasterskap 2025,Helsingborg SWE,2025-01-23,2025-02-20,,,1.0,4,0.0,1495,,"Teikari, Sebastian",,1678,False,SWE,0.0,1,0.0,,0.0
+33415226,2025-04-01,0,HelsingborgsSS Vintermasterskap 2025,Helsingborg SWE,2025-01-23,2025-02-20,,,1.0,4,0.0,1495,,"Jonsson, Bille Hockum",,1811,False,SWE,0.0,1,0.0,,0.0
+33415226,2025-04-01,0,HelsingborgsSS Vintermasterskap 2025,Helsingborg SWE,2025-01-23,2025-02-20,,,1.0,4,0.0,1495,,"Kullander, Johan",,1484,False,SWE,1.0,1,0.0,,0.0
+33415226,2025-04-01,0,HelsingborgsSS Vintermasterskap 2025,Helsingborg SWE,2025-01-23,2025-02-20,,,1.0,4,0.0,1495,,"Hoang, Viet",,1779,False,SWE,0.0,1,0.0,,0.0
+33415226,2025-04-01,0,NVSSF DM 2025,Helsingborg SWE,2025-02-27,2025-03-27,,,2.5,4,0.0,1715,,"Kullander, Johan",,1484,False,SWE,1.0,1,0.0,,0.0
+33415226,2025-04-01,0,NVSSF DM 2025,Helsingborg SWE,2025-02-27,2025-03-27,,,2.5,4,0.0,1715,,"Jonsson, Bille Hockum",,1815,False,SWE,0.5,1,0.0,,0.0
+33415226,2025-04-01,0,NVSSF DM 2025,Helsingborg SWE,2025-02-27,2025-03-27,,,2.5,4,0.0,1715,,"Alkhaled, Mohanad",,1765,False,SWE,0.0,1,0.0,,0.0
+33415226,2025-04-01,0,NVSSF DM 2025,Helsingborg SWE,2025-02-27,2025-03-27,,,2.5,4,0.0,1715,,"Sandbech, Ted Henrik",,1715,False,DEN,1.0,1,0.0,,0.0

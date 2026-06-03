@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48753890,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1721,1500,1.0,3,0.27,40,10.8,"Watarkar, Yash",,1900,True,IND,0.0,1,-0.08,40,-3.2
+48753890,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1721,1500,1.0,3,0.27,40,10.8,"Arjun, Singh",,1650,False,IND,0.5,1,0.2,40,8.0
+48753890,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1721,1500,1.0,3,0.27,40,10.8,"Agharkar, Shriyans",,1612,False,IND,0.5,1,0.15,40,6.0

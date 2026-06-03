@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88108325,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1646,1422,0.5,3,-0.17,40,-6.8,"Aditya, Kayet",,1751.0,False,IND,0.0,1,-0.12,40,-4.8
+88108325,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1646,1422,0.5,3,-0.17,40,-6.8,"Yadav, R.c.",,1586.0,False,IND,0.5,1,0.22,40,8.8
+88108325,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,1646,1422,0.5,3,-0.17,40,-6.8,"Daksh, Singh",,1601.0,False,IND,0.0,1,-0.27,40,-10.8
+88108325,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1503,1415,2.0,5,0.11,40,4.4,"Pranit, Rastogi",,1452.0,False,IND,0.0,1,-0.45,40,-18.0
+88108325,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1503,1415,2.0,5,0.11,40,4.4,"Yuvan, Saini",,1523.0,False,IND,1.0,1,0.65,40,26.0
+88108325,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1503,1415,2.0,5,0.11,40,4.4,"Perathur, Arjun Srinivasan",,1500.0,False,IND,1.0,1,0.62,40,24.8
+88108325,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1503,1415,2.0,5,0.11,40,4.4,"Kavin, Velavan",,1501.0,False,IND,0.0,1,-0.38,40,-15.2
+88108325,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1503,1415,2.0,5,0.11,40,4.4,"Shivay, Singh",,1540.0,False,IND,0.0,1,-0.33,40,-13.2
+88108325,2024-11-01,0,37TH TAMIL NADU STATE UNDER 09 OPEN CHESS CHAMPIONSHIP 2024,MADURAI IND,2024-09-28,2024-10-02,1576,1415,0.5,3,-0.37,40,-14.8,"Varchas, Krishna Jayaraman",,1600.0,False,IND,0.0,1,-0.26,40,-10.4
+88108325,2024-11-01,0,37TH TAMIL NADU STATE UNDER 09 OPEN CHESS CHAMPIONSHIP 2024,MADURAI IND,2024-09-28,2024-10-02,1576,1415,0.5,3,-0.37,40,-14.8,"Nyrav, Gopalakrishnan",,1543.0,False,IND,0.5,1,0.17,40,6.8
+88108325,2024-11-01,0,37TH TAMIL NADU STATE UNDER 09 OPEN CHESS CHAMPIONSHIP 2024,MADURAI IND,2024-09-28,2024-10-02,1576,1415,0.5,3,-0.37,40,-14.8,"Jayapriyan, Prakash",,1585.0,False,IND,0.0,1,-0.28,40,-11.2
+88108325,2025-02-01,0,SRI CHESS ACADEMY 3rd FIDE BELOW 1800 RATING CHESS TOURNAMENT-2025,Visakhapatnam IND,2025-01-24,2025-01-26,1643,1404,1.0,3,0.38,40,15.2,"Gopinath, P",,1705.0,False,IND,0.0,1,-0.15,40,-6.0
+88108325,2025-02-01,0,SRI CHESS ACADEMY 3rd FIDE BELOW 1800 RATING CHESS TOURNAMENT-2025,Visakhapatnam IND,2025-01-24,2025-01-26,1643,1404,1.0,3,0.38,40,15.2,"Krishna, Varenya Potnuru",,1606.0,False,IND,0.0,1,-0.24,40,-9.6
+88108325,2025-02-01,0,SRI CHESS ACADEMY 3rd FIDE BELOW 1800 RATING CHESS TOURNAMENT-2025,Visakhapatnam IND,2025-01-24,2025-01-26,1643,1404,1.0,3,0.38,40,15.2,"Vivek, Bushan J",,1617.0,False,IND,1.0,1,0.77,40,30.8

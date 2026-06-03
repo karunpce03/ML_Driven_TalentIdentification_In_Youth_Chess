@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25962680,2025-02-01,0,Jugendverbandseinzelmeisterschaft Niederrhein 2025 U16,Kranenburg GER,2025-01-02,2025-01-06,1795,1585,1.5,4,0.49,40,19.6,"Ramolla, Jan",,1809,False,GER,0.0,1,-0.22,40,-8.8
+25962680,2025-02-01,0,Jugendverbandseinzelmeisterschaft Niederrhein 2025 U16,Kranenburg GER,2025-01-02,2025-01-06,1795,1585,1.5,4,0.49,40,19.6,"Hesse, Frederik",,1706,False,GER,0.5,1,0.16,40,6.4
+25962680,2025-02-01,0,Jugendverbandseinzelmeisterschaft Niederrhein 2025 U16,Kranenburg GER,2025-01-02,2025-01-06,1795,1585,1.5,4,0.49,40,19.6,"Sutanto, Jonas",,1681,False,GER,1.0,1,0.63,40,25.2
+25962680,2025-02-01,0,Jugendverbandseinzelmeisterschaft Niederrhein 2025 U16,Kranenburg GER,2025-01-02,2025-01-06,1795,1585,1.5,4,0.49,40,19.6,"Li, Hewei",,1985,True,GER,0.0,1,-0.08,40,-3.2

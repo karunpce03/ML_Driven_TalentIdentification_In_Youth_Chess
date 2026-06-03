@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88102254,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1707,1451,2.5,5,1.5,40,60.0,"Yohana, Teklehaimanot Brhane",,1639.0,False,ERI,1.0,1,0.74,40,29.6
+88102254,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1707,1451,2.5,5,1.5,40,60.0,"Nambiar, Niranjan Sujith",,1559.0,False,IND,1.0,1,0.65,40,26.0
+88102254,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1707,1451,2.5,5,1.5,40,60.0,"Nabatlao, Jason",,1769.0,False,PHI,0.0,1,-0.13,40,-5.2
+88102254,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1707,1451,2.5,5,1.5,40,60.0,"Kuzma, Ostap",,1717.0,False,UKR,0.5,1,0.32,40,12.8
+88102254,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1707,1451,2.5,5,1.5,40,60.0,"De Silva, Rasheen",,1851.0,True,SRI,0.0,1,-0.08,40,-3.2
+88102254,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1627,1458,3.0,6,1.29,40,51.6,"Hamdan, Hassan Mohammed Hassan",,1646.0,False,UAE,1.0,1,0.74,40,29.6
+88102254,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1627,1458,3.0,6,1.29,40,51.6,"Tayyeb, Usman",,1705.0,False,PAK,0.0,1,-0.19,40,-7.6
+88102254,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1627,1458,3.0,6,1.29,40,51.6,"Asher, Selvin Jayaseelan",,1542.0,False,IND,1.0,1,0.62,40,24.8
+88102254,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1627,1458,3.0,6,1.29,40,51.6,"Paul Emerson, Gicale",,1624.0,False,PHI,1.0,1,0.72,40,28.8
+88102254,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1627,1458,3.0,6,1.29,40,51.6,"Alviz, Joshua Ezekiel",,1740.0,False,PHI,0.0,1,-0.16,40,-6.4
+88102254,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1627,1458,3.0,6,1.29,40,51.6,"Hamad, Mohamed Almarashda",,1504.0,False,UAE,0.0,1,-0.44,40,-17.6

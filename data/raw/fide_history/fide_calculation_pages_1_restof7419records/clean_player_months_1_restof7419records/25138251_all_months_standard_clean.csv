@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25138251,2024-09-01,0,2024 John Brooke Cup Rounds 1-4,Perth AUS,2024-08-07,2024-08-28,,,2.5,4,0.0,1583,,"Markou, Victor",,1487,False,AUS,1.0,1,0.0,,0.0
+25138251,2024-09-01,0,2024 John Brooke Cup Rounds 1-4,Perth AUS,2024-08-07,2024-08-28,,,2.5,4,0.0,1583,,"Sethuraman, Jaswanth Ram",,1544,False,AUS,1.0,1,0.0,,0.0
+25138251,2024-09-01,0,2024 John Brooke Cup Rounds 1-4,Perth AUS,2024-08-07,2024-08-28,,,2.5,4,0.0,1583,,"Curtis, Calan",,1610,False,AUS,0.5,1,0.0,,0.0
+25138251,2024-09-01,0,2024 John Brooke Cup Rounds 1-4,Perth AUS,2024-08-07,2024-08-28,,,2.5,4,0.0,1583,,"Nauom, Rafik",,1611,False,AUS,0.0,1,0.0,,0.0
+25138251,2024-10-01,0,2024 John Brooke Cup Rounds 5-7,Perth AUS,2024-09-04,2024-09-18,,,1.0,2,0.0,1677,,"Pass, Tony",,1683,False,AUS,1.0,1,0.0,,0.0
+25138251,2024-10-01,0,2024 John Brooke Cup Rounds 5-7,Perth AUS,2024-09-04,2024-09-18,,,1.0,2,0.0,1677,,"Michael, Ashley",,1671,False,AUS,0.0,1,0.0,,0.0

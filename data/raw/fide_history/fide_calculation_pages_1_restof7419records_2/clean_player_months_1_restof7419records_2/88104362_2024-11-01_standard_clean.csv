@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88104362,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1547,1600,3.0,4,0.71,40,28.4,"Mano, Mariappan",,1417.0,False,IND,1.0,1,0.26,40,10.4
+88104362,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1547,1600,3.0,4,0.71,40,28.4,"Saurabh, Somvanshi",,1518.0,False,IND,1.0,1,0.39,40,15.6
+88104362,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1547,1600,3.0,4,0.71,40,28.4,"Dhanasekar, K.",,1765.0,False,IND,0.0,1,-0.28,40,-11.2
+88104362,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1547,1600,3.0,4,0.71,40,28.4,"Pavithra, N",,1486.0,False,IND,1.0,1,0.34,40,13.6

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33410020,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1608,1713,7.5,10,1.17,40,46.8,"Hanishka, Mishra",,1403.0,False,IND,1.0,1,0.14,40,5.6
+33410020,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1608,1713,7.5,10,1.17,40,46.8,"Sai, Darshith Jaladurgam",,1494.0,False,IND,1.0,1,0.22,40,8.8
+33410020,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1608,1713,7.5,10,1.17,40,46.8,"Shreesuday, Behera",,1581.0,False,IND,0.0,1,-0.68,40,-27.2
+33410020,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1608,1713,7.5,10,1.17,40,46.8,"Ishaan, Bhansali",,1508.0,False,IND,1.0,1,0.24,40,9.6
+33410020,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1608,1713,7.5,10,1.17,40,46.8,"Yamini, Sriram",,1555.0,False,IND,1.0,1,0.29,40,11.6
+33410020,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1608,1713,7.5,10,1.17,40,46.8,"Atharv, Venkatesh",,1602.0,False,IND,0.5,1,-0.15,40,-6.0
+33410020,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1608,1713,7.5,10,1.17,40,46.8,"Shreyas, Jayaraman",,1610.0,False,IND,1.0,1,0.36,40,14.4
+33410020,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1608,1713,7.5,10,1.17,40,46.8,"Atharva, Kale",,1864.0,False,IND,0.5,1,0.2,40,8.0
+33410020,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1608,1713,7.5,10,1.17,40,46.8,"Avyan, Shah",,1627.0,False,IND,1.0,1,0.38,40,15.2
+33410020,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1608,1713,7.5,10,1.17,40,46.8,"Prashanth, J Naik",,1837.0,False,IND,0.5,1,0.17,40,6.8

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25912410,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2215,1957,4.5,11,2.17,40,86.8,"Davtyan, Arsen",m,2357,True,ARM,0.0,1,-0.08,40,-3.2
+25912410,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2215,1957,4.5,11,2.17,40,86.8,"Brugette, Romain",,1655,False,MRI,1.0,1,0.15,40,6.0
+25912410,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2215,1957,4.5,11,2.17,40,86.8,"Jani, Kushal R",,2192,False,IND,1.0,1,0.79,40,31.6
+25912410,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2215,1957,4.5,11,2.17,40,86.8,"De Silva, L M S T",m,2357,True,SRI,0.0,1,-0.08,40,-3.2
+25912410,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2215,1957,4.5,11,2.17,40,86.8,"Koziorowicz, Michal",f,2304,False,POL,1.0,1,0.89,40,35.6
+25912410,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2215,1957,4.5,11,2.17,40,86.8,"Ozenir, Ekin Baris",m,2357,True,TUR,0.5,1,0.42,40,16.8
+25912410,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2215,1957,4.5,11,2.17,40,86.8,"Sanket, Chakravarty",m,2357,True,IND,0.0,1,-0.08,40,-3.2
+25912410,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2215,1957,4.5,11,2.17,40,86.8,"Ang, Ern Jie Anderson",c,2197,False,MAS,0.0,1,-0.2,40,-8.0
+25912410,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2215,1957,4.5,11,2.17,40,86.8,"Pozzari, Simone",f,2276,False,ITA,1.0,1,0.87,40,34.8
+25912410,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2215,1957,4.5,11,2.17,40,86.8,"Keleberda, Tymur",f,2223,False,CAN,0.0,1,-0.18,40,-7.2
+25912410,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2215,1957,4.5,11,2.17,40,86.8,"Jval, Saurin Patel",,2085,False,IND,0.0,1,-0.33,40,-13.2

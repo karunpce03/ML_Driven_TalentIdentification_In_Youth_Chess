@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33462127,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1508,1501,0.0,4,-1.99,40,-79.6,"Mridav, M",,1751.0,False,IND,0.0,1,-0.19,40,-7.6
+33462127,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1508,1501,0.0,4,-1.99,40,-79.6,"Sanoosh, B Shibu",,1426.0,False,IND,0.0,1,-0.6,40,-24.0
+33462127,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1508,1501,0.0,4,-1.99,40,-79.6,"Rohith, K Jayan",,1421.0,False,IND,0.0,1,-0.61,40,-24.4
+33462127,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1508,1501,0.0,4,-1.99,40,-79.6,"Thirunavukarasu, T",,1433.0,False,IND,0.0,1,-0.59,40,-23.6

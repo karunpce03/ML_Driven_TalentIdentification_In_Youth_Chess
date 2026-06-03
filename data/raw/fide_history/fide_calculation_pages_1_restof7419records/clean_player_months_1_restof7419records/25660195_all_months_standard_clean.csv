@@ -1,0 +1,51 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25660195,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1525.0,1451.0,0.5,4,-1.11,40,-44.4,"Abir, Mitra",,1643.0,False,IND,0.0,1,-0.25,40.0,-10.0
+25660195,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1525.0,1451.0,0.5,4,-1.11,40,-44.4,"Pratish, Raj",,1591.0,False,IND,0.0,1,-0.31,40.0,-12.4
+25660195,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1525.0,1451.0,0.5,4,-1.11,40,-44.4,"Srijan, Saha",,1411.0,False,IND,0.5,1,-0.06,40.0,-2.4
+25660195,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1525.0,1451.0,0.5,4,-1.11,40,-44.4,"Sovan, Acharjee",,1456.0,False,IND,0.0,1,-0.49,40.0,-19.6
+25660195,2024-07-01,0,WB State U-17 Girls Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1572.0,1407.0,0.0,2,-0.56,40,-22.4,"Dakhsha, Rudra",,1615.0,False,IND,0.0,1,-0.23,40.0,-9.2
+25660195,2024-07-01,0,WB State U-17 Girls Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1572.0,1407.0,0.0,2,-0.56,40,-22.4,"Riyana, Khatun",,1529.0,False,IND,0.0,1,-0.33,40.0,-13.2
+25660195,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,,,0.5,2,0.0,1448,,"Ananya, Bothra",,1699.0,False,IND,0.5,1,0.0,,0.0
+25660195,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,,,0.5,2,0.0,1448,,"Annika, Das",,1582.0,False,IND,0.0,1,0.0,,0.0
+25660195,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,,,2.5,8,0.0,1367,,"Rayaan, Saha",,1502.0,False,IND,1.0,1,0.0,,0.0
+25660195,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,,,2.5,8,0.0,1367,,"Mudil, Dharewa",,1646.0,False,IND,0.0,1,0.0,,0.0
+25660195,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,,,2.5,8,0.0,1367,,"Shruti, Sarkar",,1468.0,False,IND,1.0,1,0.0,,0.0
+25660195,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,,,2.5,8,0.0,1367,,"Sayan, Bhattacharjee",,1576.0,False,IND,0.0,1,0.0,,0.0
+25660195,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,,,2.5,8,0.0,1367,,"Eishaanav, Chakraborty",,1482.0,False,IND,0.5,1,0.0,,0.0
+25660195,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,,,2.5,8,0.0,1367,,"Mainak, Chowdhury",,1522.0,False,IND,0.0,1,0.0,,0.0
+25660195,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,,,2.5,8,0.0,1367,,"Aarush, Das",,1425.0,False,IND,0.0,1,0.0,,0.0
+25660195,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,,,2.5,8,0.0,1367,,"Subhajit, Roy",,1440.0,False,IND,0.0,1,0.0,,0.0
+25660195,2024-11-01,0,WB State U-15 Girls Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1591.0,1454.0,0.0,2,-0.64,40,-25.6,"Dakhsha, Rudra",,1665.0,False,IND,0.0,1,-0.23,40.0,-9.2
+25660195,2024-11-01,0,WB State U-15 Girls Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1591.0,1454.0,0.0,2,-0.64,40,-25.6,"Oiendrila, Bhattacharya",,1517.0,False,IND,0.0,1,-0.41,40.0,-16.4
+25660195,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1485.0,1428.0,4.5,11,-0.13,40,-5.2,"Taneesha, Drolia",,1531.0,False,IND,0.0,1,-0.36,40.0,-14.4
+25660195,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1485.0,1428.0,4.5,11,-0.13,40,-5.2,"Muthu, Meenal M",,1446.0,False,IND,0.5,1,0.03,40.0,1.2
+25660195,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1485.0,1428.0,4.5,11,-0.13,40,-5.2,"Aadhya, Krishnavajjala",,1446.0,False,IND,0.5,1,0.03,40.0,1.2
+25660195,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1485.0,1428.0,4.5,11,-0.13,40,-5.2,"Teesha, Byadwal",,1469.0,False,IND,1.0,1,0.56,40.0,22.4
+25660195,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1485.0,1428.0,4.5,11,-0.13,40,-5.2,"Kanishka, Choudhary",,1541.0,False,IND,0.0,1,-0.35,40.0,-14.0
+25660195,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1485.0,1428.0,4.5,11,-0.13,40,-5.2,"Saanvi, Parihar",,1489.0,False,IND,0.0,1,-0.42,40.0,-16.8
+25660195,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1485.0,1428.0,4.5,11,-0.13,40,-5.2,"Nakshatra, G",,1433.0,False,IND,1.0,1,0.51,40.0,20.4
+25660195,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1485.0,1428.0,4.5,11,-0.13,40,-5.2,"Saeeja, Gunesh Dessai",,1497.0,False,IND,0.5,1,0.1,40.0,4.0
+25660195,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1485.0,1428.0,4.5,11,-0.13,40,-5.2,"Rathi, Tanishka",,1487.0,False,IND,0.5,1,0.08,40.0,3.2
+25660195,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1485.0,1428.0,4.5,11,-0.13,40,-5.2,"Ananya, Arora",,1490.0,False,IND,0.5,1,0.09,40.0,3.6
+25660195,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1485.0,1428.0,4.5,11,-0.13,40,-5.2,"Vaishnavi, Vijay Parab",,1503.0,False,IND,0.0,1,-0.4,40.0,-16.0
+25660195,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1673.0,1423.0,0.5,8,-1.1,40,-44.0,"Lakshanaa, R",,1728.0,False,IND,0.0,1,-0.14,40.0,-5.6
+25660195,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1673.0,1423.0,0.5,8,-1.1,40,-44.0,"Borate, Tanvi",,1660.0,False,IND,0.0,1,-0.2,40.0,-8.0
+25660195,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1673.0,1423.0,0.5,8,-1.1,40,-44.0,"Saniya, Rafique Tadavi",,1729.0,False,IND,0.0,1,-0.14,40.0,-5.6
+25660195,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1673.0,1423.0,0.5,8,-1.1,40,-44.0,"Dishita, Dey",,1666.0,False,IND,0.0,1,-0.2,40.0,-8.0
+25660195,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1673.0,1423.0,0.5,8,-1.1,40,-44.0,"Dhinesh, K A",,1651.0,False,IND,0.0,1,-0.21,40.0,-8.4
+25660195,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1673.0,1423.0,0.5,8,-1.1,40,-44.0,"Thakur, Aarit",,1823.0,True,IND,0.0,1,-0.08,40.0,-3.2
+25660195,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1673.0,1423.0,0.5,8,-1.1,40,-44.0,"Dakhsha, Rudra",,1652.0,False,IND,0.0,1,-0.21,40.0,-8.4
+25660195,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1673.0,1423.0,0.5,8,-1.1,40,-44.0,"Saransh, Goel",,1478.0,False,IND,0.5,1,0.08,40.0,3.2
+25660195,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1630.0,1423.0,3.0,8,1.07,40,42.8,"Srujan, Pranayee Ray",,1749.0,False,IND,0.0,1,-0.13,40.0,-5.2
+25660195,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1630.0,1423.0,3.0,8,1.07,40,42.8,"Behera, Snehayukta",,1660.0,False,IND,1.0,1,0.8,40.0,32.0
+25660195,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1630.0,1423.0,3.0,8,1.07,40,42.8,"Pradhan, Lorence",,1600.0,False,IND,0.0,1,-0.27,40.0,-10.8
+25660195,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1630.0,1423.0,3.0,8,1.07,40,42.8,"Sulaxan, K",,1593.0,False,SRI,1.0,1,0.72,40.0,28.8
+25660195,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1630.0,1423.0,3.0,8,1.07,40,42.8,"Behera, N N",,1709.0,False,IND,0.0,1,-0.16,40.0,-6.4
+25660195,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1630.0,1423.0,3.0,8,1.07,40,42.8,"Tripathy, Manoj Ku",,1564.0,False,IND,0.0,1,-0.31,40.0,-12.4
+25660195,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1630.0,1423.0,3.0,8,1.07,40,42.8,"Swaraj, Mishra",,1584.0,False,IND,0.5,1,0.21,40.0,8.4
+25660195,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1630.0,1423.0,3.0,8,1.07,40,42.8,"Soma, Shankara Sharma B",,1584.0,False,IND,0.5,1,0.21,40.0,8.4
+25660195,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1590.0,1422.0,1.5,5,0.11,40,4.4,"Vishesh, Srikant",,1602.0,False,IND,0.5,1,0.24,40.0,9.6
+25660195,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1590.0,1422.0,1.5,5,0.11,40,4.4,"Yashmith, Ram Chaikam",,1632.0,False,KEN,0.0,1,-0.23,40.0,-9.2
+25660195,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1590.0,1422.0,1.5,5,0.11,40,4.4,"Darsh, Ilwadi",,1567.0,False,IND,0.0,1,-0.31,40.0,-12.4
+25660195,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1590.0,1422.0,1.5,5,0.11,40,4.4,"Subramanian, Mahadevan",,1578.0,False,IND,1.0,1,0.71,40.0,28.4
+25660195,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1590.0,1422.0,1.5,5,0.11,40,4.4,"Rounak, Bhattacharya",,1571.0,False,IND,0.0,1,-0.3,40.0,-12.0

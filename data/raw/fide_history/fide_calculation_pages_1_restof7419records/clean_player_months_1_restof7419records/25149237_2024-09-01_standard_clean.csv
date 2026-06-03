@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25149237,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,1555,1502,1.0,4,-0.72,40,-28.8,"Prabhman, Singh Malhotra",,1671.0,False,IND,0.0,1,-0.28,40,-11.2
+25149237,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,1555,1502,1.0,4,-0.72,40,-28.8,"Kanoje, Alok",,1624.0,False,IND,0.0,1,-0.33,40,-13.2
+25149237,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,1555,1502,1.0,4,-0.72,40,-28.8,"Kirat, Singh Gujral",,1436.0,False,IND,1.0,1,0.41,40,16.4
+25149237,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,1555,1502,1.0,4,-0.72,40,-28.8,"Aujsya, Mohta",,1489.0,False,IND,0.0,1,-0.52,40,-20.8

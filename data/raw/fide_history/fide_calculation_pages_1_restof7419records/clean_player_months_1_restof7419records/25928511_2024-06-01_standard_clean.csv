@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25928511,2024-06-01,0,RUDAR IX - FM U2250 ROUND ROBIN,Pozarevac SRB,2024-04-26,2024-05-03,1930,1552,0.5,8,-0.26,40,-10.4,"Tosic, Nebojsa",,1924,False,SRB,0.0,1,-0.1,40,-4.0
+25928511,2024-06-01,0,RUDAR IX - FM U2250 ROUND ROBIN,Pozarevac SRB,2024-04-26,2024-05-03,1930,1552,0.5,8,-0.26,40,-10.4,"Ivkovic, Milos",,1893,False,SRB,0.5,1,0.38,40,15.2
+25928511,2024-06-01,0,RUDAR IX - FM U2250 ROUND ROBIN,Pozarevac SRB,2024-04-26,2024-05-03,1930,1552,0.5,8,-0.26,40,-10.4,"Milunovic, Toni",f,1952,True,SRB,0.0,1,-0.08,40,-3.2
+25928511,2024-06-01,0,RUDAR IX - FM U2250 ROUND ROBIN,Pozarevac SRB,2024-04-26,2024-05-03,1930,1552,0.5,8,-0.26,40,-10.4,"Rajkovic, Aleksandar",,1952,True,SRB,0.0,1,-0.08,40,-3.2
+25928511,2024-06-01,0,RUDAR IX - FM U2250 ROUND ROBIN,Pozarevac SRB,2024-04-26,2024-05-03,1930,1552,0.5,8,-0.26,40,-10.4,"Tosic, Nebojsa",,1924,False,SRB,0.0,1,-0.1,40,-4.0
+25928511,2024-06-01,0,RUDAR IX - FM U2250 ROUND ROBIN,Pozarevac SRB,2024-04-26,2024-05-03,1930,1552,0.5,8,-0.26,40,-10.4,"Ivkovic, Milos",,1893,False,SRB,0.0,1,-0.12,40,-4.8
+25928511,2024-06-01,0,RUDAR IX - FM U2250 ROUND ROBIN,Pozarevac SRB,2024-04-26,2024-05-03,1930,1552,0.5,8,-0.26,40,-10.4,"Milunovic, Toni",f,1952,True,SRB,0.0,1,-0.08,40,-3.2
+25928511,2024-06-01,0,RUDAR IX - FM U2250 ROUND ROBIN,Pozarevac SRB,2024-04-26,2024-05-03,1930,1552,0.5,8,-0.26,40,-10.4,"Rajkovic, Aleksandar",,1952,True,SRB,0.0,1,-0.08,40,-3.2

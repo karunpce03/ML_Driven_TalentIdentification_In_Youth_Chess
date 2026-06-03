@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25962680,2025-01-01,0,Deutsche Schach-Amateurmeisterschaft 2024-2025 Q2 E,Bonn GER,2024-12-20,2024-12-22,1619,1536,2.0,2,1.22,40,48.8,"Roth, Niklas",,1704.0,False,GER,1.0,1,0.72,40,28.8
+25962680,2025-01-01,0,Deutsche Schach-Amateurmeisterschaft 2024-2025 Q2 E,Bonn GER,2024-12-20,2024-12-22,1619,1536,2.0,2,1.22,40,48.8,"Leven, Felix",,1534.0,False,GER,1.0,1,0.5,40,20.0

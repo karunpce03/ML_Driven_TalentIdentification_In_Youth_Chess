@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25100149,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1786,2096,7.0,9,-0.7,35,-24.5,"Varma, Jitendra",,1696,True,IND,1.0,1,0.08,35,2.8
+25100149,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1786,2096,7.0,9,-0.7,35,-24.5,"Aaradhya, Jain",,1733,False,IND,1.0,1,0.1,35,3.5
+25100149,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1786,2096,7.0,9,-0.7,35,-24.5,"Raman, Siddhardh B",,1785,False,IND,1.0,1,0.14,35,4.9
+25100149,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1786,2096,7.0,9,-0.7,35,-24.5,"Oishik, Mondal",,1799,False,IND,1.0,1,0.15,35,5.25
+25100149,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1786,2096,7.0,9,-0.7,35,-24.5,"Shreyash, Singh",,1885,False,IND,0.0,1,-0.77,35,-26.95
+25100149,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1786,2096,7.0,9,-0.7,35,-24.5,"Arghya, Sen",,1804,False,IND,0.0,1,-0.85,35,-29.75
+25100149,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1786,2096,7.0,9,-0.7,35,-24.5,"Bharanidharan, Nedunchezhian",,1696,True,IND,1.0,1,0.08,35,2.8
+25100149,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1786,2096,7.0,9,-0.7,35,-24.5,"Richard, Solomon M",,1800,False,IND,1.0,1,0.15,35,5.25
+25100149,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1786,2096,7.0,9,-0.7,35,-24.5,"Mishra, Sanjeev",,1875,False,IND,1.0,1,0.22,35,7.7
+25100149,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1879,2096,7.0,11,-1.31,35,-45.85,"Advik, Singh Chauhan",,1760,False,IND,1.0,1,0.12,35,4.2
+25100149,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1879,2096,7.0,11,-1.31,35,-45.85,"Goel, Pratyaksh",,1861,False,IND,0.0,1,-0.79,35,-27.65
+25100149,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1879,2096,7.0,11,-1.31,35,-45.85,"Shah, Moxit J",,1809,False,IND,0.0,1,-0.84,35,-29.4
+25100149,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1879,2096,7.0,11,-1.31,35,-45.85,"Shiva, R V",,1729,False,IND,1.0,1,0.1,35,3.5
+25100149,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1879,2096,7.0,11,-1.31,35,-45.85,"Kingshuk, Debnath",,1800,False,IND,1.0,1,0.15,35,5.25
+25100149,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1879,2096,7.0,11,-1.31,35,-45.85,"Gavi, Siddayya",,1847,False,IND,0.5,1,-0.31,35,-10.85
+25100149,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1879,2096,7.0,11,-1.31,35,-45.85,"Godhani, Maharth",,1696,True,IND,1.0,1,0.08,35,2.8
+25100149,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1879,2096,7.0,11,-1.31,35,-45.85,"Badamundi, Tapan",,1921,False,IND,0.5,1,-0.23,35,-8.05
+25100149,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1879,2096,7.0,11,-1.31,35,-45.85,"Om, Nagnath Lamkane",,1914,False,IND,1.0,1,0.26,35,9.1
+25100149,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1879,2096,7.0,11,-1.31,35,-45.85,"Yohan, Yadav Tarala",,1954,False,IND,1.0,1,0.31,35,10.85
+25100149,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1879,2096,7.0,11,-1.31,35,-45.85,"Viani, Antonio Dcunha",m,2378,False,IND,0.0,1,-0.16,35,-5.6

@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+66610699,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1687,1529,2.0,3,1.09,40,43.6,"Karthick, Sai P",,1673.0,False,IND,0.0,1,-0.31,40,-12.4
+66610699,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1687,1529,2.0,3,1.09,40,43.6,"Karthick, Babu",,1818.0,False,IND,1.0,1,0.84,40,33.6
+66610699,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1687,1529,2.0,3,1.09,40,43.6,"Darshan, B",,1570.0,False,IND,1.0,1,0.56,40,22.4

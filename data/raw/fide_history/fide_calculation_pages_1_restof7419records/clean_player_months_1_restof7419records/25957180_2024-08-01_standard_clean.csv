@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25957180,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1754,2033,5.0,6,0.18,40,7.2,"Shyam, Bash B",,1633,True,IND,1.0,1,0.08,40,3.2
+25957180,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1754,2033,5.0,6,0.18,40,7.2,"Inban, R",,1633,True,IND,1.0,1,0.08,40,3.2
+25957180,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1754,2033,5.0,6,0.18,40,7.2,"Dipesh, Seeraj K S",,1639,False,IND,0.0,1,-0.92,40,-36.8
+25957180,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1754,2033,5.0,6,0.18,40,7.2,"Jaiakash, M M",,1718,False,IND,1.0,1,0.14,40,5.6
+25957180,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1754,2033,5.0,6,0.18,40,7.2,"San, Hariharan",,1818,False,IND,1.0,1,0.23,40,9.2
+25957180,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1754,2033,5.0,6,0.18,40,7.2,"Kumaresh, A",,2081,False,IND,1.0,1,0.57,40,22.8

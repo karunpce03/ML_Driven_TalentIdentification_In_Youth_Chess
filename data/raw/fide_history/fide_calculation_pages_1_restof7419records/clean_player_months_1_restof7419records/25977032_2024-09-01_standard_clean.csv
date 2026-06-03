@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25977032,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1574,1804,0.0,3,-2.31,40,-92.4,"Nishant, Bharadwaj",,1449.0,False,IND,0.0,1,-0.89,40,-35.6
+25977032,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1574,1804,0.0,3,-2.31,40,-92.4,"Arbaz, Shekh",,1734.0,False,IND,0.0,1,-0.6,40,-24.0
+25977032,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1574,1804,0.0,3,-2.31,40,-92.4,"Kanak, Dubey",,1539.0,False,IND,0.0,1,-0.82,40,-32.8

@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+30983541,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1648,1479,0.5,4,-0.66,40,-26.4,"Aadinath, Harilal",,1815.0,False,IND,0.0,1,-0.12,40,-4.8
+30983541,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1648,1479,0.5,4,-0.66,40,-26.4,"Alan, Danly",,1605.0,False,IND,0.0,1,-0.33,40,-13.2
+30983541,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1648,1479,0.5,4,-0.66,40,-26.4,"Nishanth, K",,1589.0,False,IND,0.5,1,0.15,40,6.0
+30983541,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1648,1479,0.5,4,-0.66,40,-26.4,"Isshaan, A",,1582.0,False,IND,0.0,1,-0.36,40,-14.4
+30983541,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1612,1479,1.5,4,0.21,40,8.4,"Kavin, E",,1672.0,False,IND,0.0,1,-0.25,40,-10.0
+30983541,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1612,1479,1.5,4,0.21,40,8.4,"Jehoahaz, Jabaneel H",,1639.0,False,IND,0.0,1,-0.29,40,-11.6
+30983541,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1612,1479,1.5,4,0.21,40,8.4,"Brijesh, Poola",,1581.0,False,IND,0.5,1,0.14,40,5.6
+30983541,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1612,1479,1.5,4,0.21,40,8.4,"Krishav, Nikesh N",,1557.0,False,IND,1.0,1,0.61,40,24.4

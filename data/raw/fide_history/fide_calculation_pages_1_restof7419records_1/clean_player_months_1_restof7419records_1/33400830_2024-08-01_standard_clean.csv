@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33400830,2024-08-01,0,7th Annual Queen City of the Prairie Open and Fort Worth Championship,"Fort Worth, TX USA",2024-07-19,2024-07-21,1881,1865,2.0,3,0.55,40,22.0,"Clarke, Daniel J",,1727.0,False,USA,1.0,1,0.31,40,12.4
+33400830,2024-08-01,0,7th Annual Queen City of the Prairie Open and Fort Worth Championship,"Fort Worth, TX USA",2024-07-19,2024-07-21,1881,1865,2.0,3,0.55,40,22.0,"Anandh, Vijay Srinivas",,2073.0,False,USA,1.0,1,0.77,40,30.8
+33400830,2024-08-01,0,7th Annual Queen City of the Prairie Open and Fort Worth Championship,"Fort Worth, TX USA",2024-07-19,2024-07-21,1881,1865,2.0,3,0.55,40,22.0,"Chandran, Harish",,1844.0,False,USA,0.0,1,-0.53,40,-21.2

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25781260,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1610,1432,1.0,5,-0.4,40,-16.0,"Madhavakrishnan, R",,1796.0,False,IND,0.0,1,-0.1,40,-4.0
+25781260,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1610,1432,1.0,5,-0.4,40,-16.0,"Sathvik, Gulakaram",,1618.0,False,IND,0.0,1,-0.26,40,-10.4
+25781260,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1610,1432,1.0,5,-0.4,40,-16.0,"Kumara, Sandilya Somanchi",,1545.0,False,IND,0.0,1,-0.35,40,-14.0
+25781260,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1610,1432,1.0,5,-0.4,40,-16.0,"Timmaraju, Venkata Sathvik",,1542.0,False,IND,0.0,1,-0.35,40,-14.0
+25781260,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1610,1432,1.0,5,-0.4,40,-16.0,"Anvit, Srivastava",,1547.0,False,IND,1.0,1,0.66,40,26.4

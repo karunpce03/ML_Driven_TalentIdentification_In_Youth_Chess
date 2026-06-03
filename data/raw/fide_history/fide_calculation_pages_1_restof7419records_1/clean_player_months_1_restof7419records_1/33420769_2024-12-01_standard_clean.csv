@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33420769,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1789,1821,7.5,11,1.48,40,59.2,"Aarush, Reddy V",,1503,False,IND,1.0,1,0.13,40,5.2
+33420769,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1789,1821,7.5,11,1.48,40,59.2,"Ilamparthi, A R",m,2221,True,IND,0.0,1,-0.08,40,-3.2
+33420769,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1789,1821,7.5,11,1.48,40,59.2,"Vishweswaran, N",,1645,False,IND,1.0,1,0.27,40,10.8
+33420769,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1789,1821,7.5,11,1.48,40,59.2,"Sriram, Sundar V",,1719,False,IND,0.5,1,-0.14,40,-5.6
+33420769,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1789,1821,7.5,11,1.48,40,59.2,"Gitansh, Phogat",,1548,False,IND,1.0,1,0.17,40,6.8
+33420769,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1789,1821,7.5,11,1.48,40,59.2,"Yohan, Yadav Tarala",,1957,False,IND,0.5,1,0.18,40,7.2
+33420769,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1789,1821,7.5,11,1.48,40,59.2,"Haridev, S",,2024,False,IND,0.0,1,-0.24,40,-9.6
+33420769,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1789,1821,7.5,11,1.48,40,59.2,"Gudimetla, Navaneeth Reddy",,1719,False,IND,0.5,1,-0.14,40,-5.6
+33420769,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1789,1821,7.5,11,1.48,40,59.2,"Vrishank, Royadu",,1734,False,IND,1.0,1,0.38,40,15.2
+33420769,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1789,1821,7.5,11,1.48,40,59.2,"Maaz, Iqubal",,1695,False,IND,1.0,1,0.33,40,13.2
+33420769,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1789,1821,7.5,11,1.48,40,59.2,"Aarav, Saish Amonkar",,1910,False,IND,1.0,1,0.62,40,24.8

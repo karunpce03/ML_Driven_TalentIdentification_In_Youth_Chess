@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25981226,2024-09-01,0,Southall FIDE Congress 24-25 August - U2300,London ENG,2024-08-24,2024-08-25,1940,1815,3.0,5,1.23,40,49.2,"Wang, Yu A.",m wg,2215,True,CHN,0.5,1,0.42,40,16.8
+25981226,2024-09-01,0,Southall FIDE Congress 24-25 August - U2300,London ENG,2024-08-24,2024-08-25,1940,1815,3.0,5,1.23,40,49.2,"Collyer, David",,1935,False,ENG,0.5,1,0.16,40,6.4
+25981226,2024-09-01,0,Southall FIDE Congress 24-25 August - U2300,London ENG,2024-08-24,2024-08-25,1940,1815,3.0,5,1.23,40,49.2,"He, Tom Junde",,1942,False,ENG,0.5,1,0.17,40,6.8
+25981226,2024-09-01,0,Southall FIDE Congress 24-25 August - U2300,London ENG,2024-08-24,2024-08-25,1940,1815,3.0,5,1.23,40,49.2,"Sajanani, Vikas",,1885,False,ENG,0.5,1,0.1,40,4.0
+25981226,2024-09-01,0,Southall FIDE Congress 24-25 August - U2300,London ENG,2024-08-24,2024-08-25,1940,1815,3.0,5,1.23,40,49.2,"Nilim, Armaan",,1725,False,ENG,1.0,1,0.38,40,15.2

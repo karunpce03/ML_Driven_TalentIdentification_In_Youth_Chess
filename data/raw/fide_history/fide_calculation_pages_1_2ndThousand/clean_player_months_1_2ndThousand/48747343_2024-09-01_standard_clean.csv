@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48747343,2024-09-01,0,"UIn Sports : 2nd International Below 1800 FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-08-16,2024-08-18,1666,1484,0.0,3,-0.79,40,-31.6,"Ishaan, A Tendolkar",,1693.0,False,IND,0.0,1,-0.23,40,-9.2
+48747343,2024-09-01,0,"UIn Sports : 2nd International Below 1800 FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-08-16,2024-08-18,1666,1484,0.0,3,-0.79,40,-31.6,"Gupta, Mayur A",,1606.0,False,IND,0.0,1,-0.33,40,-13.2
+48747343,2024-09-01,0,"UIn Sports : 2nd International Below 1800 FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-08-16,2024-08-18,1666,1484,0.0,3,-0.79,40,-31.6,"Advik, Reddy Moate",,1698.0,False,IND,0.0,1,-0.23,40,-9.2

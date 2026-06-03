@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33385300,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1865,1957,8.0,11,1.09,40,43.6,"Meiyappan, M",,1625,False,IND,1.0,1,0.12,40,4.8
+33385300,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1865,1957,8.0,11,1.09,40,43.6,"Godhani, Maharth",,1774,False,IND,1.0,1,0.26,40,10.4
+33385300,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1865,1957,8.0,11,1.09,40,43.6,"Malvin, Joshua",,1849,False,IND,1.0,1,0.35,40,14.0
+33385300,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1865,1957,8.0,11,1.09,40,43.6,"Sriram, Adarsh Uppala",,2357,True,IND,0.0,1,-0.08,40,-3.2
+33385300,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1865,1957,8.0,11,1.09,40,43.6,"Aneesh, Adiga",,1825,False,IND,0.5,1,-0.18,40,-7.2
+33385300,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1865,1957,8.0,11,1.09,40,43.6,"Mann, Akbari",,1821,False,IND,0.5,1,-0.18,40,-7.2
+33385300,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1865,1957,8.0,11,1.09,40,43.6,"Dharsh, M",,1787,False,IND,1.0,1,0.28,40,11.2
+33385300,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1865,1957,8.0,11,1.09,40,43.6,"Goutham, Ramesh",,1849,False,IND,1.0,1,0.35,40,14.0
+33385300,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1865,1957,8.0,11,1.09,40,43.6,"Vignesh, Kannan P",,1886,False,IND,0.0,1,-0.6,40,-24.0
+33385300,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1865,1957,8.0,11,1.09,40,43.6,"Shrihan, Sabat",,1877,False,IND,1.0,1,0.39,40,15.6
+33385300,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1865,1957,8.0,11,1.09,40,43.6,"Shashveen, A K",,1866,False,IND,1.0,1,0.38,40,15.2

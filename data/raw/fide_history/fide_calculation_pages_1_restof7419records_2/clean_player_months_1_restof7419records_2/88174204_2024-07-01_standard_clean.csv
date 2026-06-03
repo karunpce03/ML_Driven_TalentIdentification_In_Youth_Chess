@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88174204,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1613,1466,2.0,5,0.49,40,19.6,"Vishwam, Anand",,1655.0,False,IND,0.0,1,-0.25,40,-10.0
+88174204,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1613,1466,2.0,5,0.49,40,19.6,"Vignesh, S",,1575.0,False,IND,1.0,1,0.65,40,26.0
+88174204,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1613,1466,2.0,5,0.49,40,19.6,"Anuj, Chomal",,1622.0,False,IND,0.0,1,-0.29,40,-11.6
+88174204,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1613,1466,2.0,5,0.49,40,19.6,"Soham, Rakshit",,1613.0,False,IND,1.0,1,0.7,40,28.0
+88174204,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1613,1466,2.0,5,0.49,40,19.6,"Aadarsh, Saraswat",,1599.0,False,IND,0.0,1,-0.32,40,-12.8

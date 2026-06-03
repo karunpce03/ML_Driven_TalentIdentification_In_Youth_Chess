@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429024684,2024-12-01,0,2024 Texas Winter FIDE - U1800,"Irving, TX USA",2024-11-15,2024-11-17,,,2.0,3,0.0,1584,,"Krishnamurthy, Adhitya",,1448,False,USA,1.0,1,0.0,,0.0
+429024684,2024-12-01,0,2024 Texas Winter FIDE - U1800,"Irving, TX USA",2024-11-15,2024-11-17,,,2.0,3,0.0,1584,,"Praveen, Aayush",,1639,False,USA,1.0,1,0.0,,0.0
+429024684,2024-12-01,0,2024 Texas Winter FIDE - U1800,"Irving, TX USA",2024-11-15,2024-11-17,,,2.0,3,0.0,1584,,"Ganesan, Vikash",,1604,False,USA,0.0,1,0.0,,0.0

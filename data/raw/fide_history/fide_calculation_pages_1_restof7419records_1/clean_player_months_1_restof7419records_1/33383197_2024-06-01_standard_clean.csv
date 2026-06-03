@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33383197,2024-06-01,0,29th Space Coast Open - Class A,"Melbourne, FL USA",2024-05-03,2024-05-05,1781,1597,1.0,3,0.12,40,4.8,"Mason, Mike",,1997.0,True,USA,0.0,1,-0.08,40,-3.2
+33383197,2024-06-01,0,29th Space Coast Open - Class A,"Melbourne, FL USA",2024-05-03,2024-05-05,1781,1597,1.0,3,0.12,40,4.8,"Yang, Grace",,1733.0,False,USA,1.0,1,0.68,40,27.2
+33383197,2024-06-01,0,29th Space Coast Open - Class A,"Melbourne, FL USA",2024-05-03,2024-05-05,1781,1597,1.0,3,0.12,40,4.8,"Vudutala, Saketh",,1614.0,False,USA,0.0,1,-0.48,40,-19.2
+33383197,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1778,1597,3.0,8,0.84,40,33.6,"Srinivasan, Arjun",,1777.0,False,USA,0.0,1,-0.26,40,-10.4
+33383197,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1778,1597,3.0,8,0.84,40,33.6,"Jackson, Cayden",,1759.0,False,USA,0.0,1,-0.29,40,-11.6
+33383197,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1778,1597,3.0,8,0.84,40,33.6,"Pinero Garcia, Miguel A",,1836.0,False,PUR,1.0,1,0.8,40,32.0
+33383197,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1778,1597,3.0,8,0.84,40,33.6,"Sridhar, Jagadeeshwar Yehamandra",,1799.0,False,USA,0.0,1,-0.24,40,-9.6
+33383197,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1778,1597,3.0,8,0.84,40,33.6,"Yu, Yang",,1783.0,False,USA,0.5,1,0.24,40,9.6
+33383197,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1778,1597,3.0,8,0.84,40,33.6,"Roszkowiak, Robert",,1677.0,False,USA,1.0,1,0.61,40,24.4
+33383197,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1778,1597,3.0,8,0.84,40,33.6,"Zhu, Ryan",,1915.0,False,USA,0.0,1,-0.13,40,-5.2
+33383197,2024-06-01,0,11th Cherry Blossom Classic - U2300,"Dulles, VA USA",2024-05-23,2024-05-27,1778,1597,3.0,8,0.84,40,33.6,"Baim, Emin",,1677.0,False,USA,0.5,1,0.11,40,4.4

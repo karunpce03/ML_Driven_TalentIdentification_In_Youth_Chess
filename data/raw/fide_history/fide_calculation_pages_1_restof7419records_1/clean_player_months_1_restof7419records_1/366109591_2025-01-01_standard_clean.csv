@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366109591,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,,,1.0,3,0.0,1473,,"Nowroozian, Nader",,1750,False,IRI,0.5,1,0.0,,0.0
+366109591,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,,,1.0,3,0.0,1473,,"Qiao, Haobo",,1516,False,CHN,0.5,1,0.0,,0.0
+366109591,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,,,1.0,3,0.0,1473,,"Sinno , Abdul Salam",,1527,False,LBN,0.0,1,0.0,,0.0

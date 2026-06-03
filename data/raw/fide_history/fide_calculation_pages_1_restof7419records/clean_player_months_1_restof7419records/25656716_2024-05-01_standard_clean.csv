@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25656716,2024-05-01,0,Basel Easter Master Open 2024,Basel SUI,2024-03-28,2024-04-01,2127,2051,2.0,8,-1.18,40,-47.2,"Loeffler, Markus",m,2267.0,False,GER,0.0,1,-0.22,40,-8.8
+25656716,2024-05-01,0,Basel Easter Master Open 2024,Basel SUI,2024-03-28,2024-04-01,2127,2051,2.0,8,-1.18,40,-47.2,"Monteverde, Jonathan",,2088.0,False,SUI,0.5,1,0.05,40,2.0
+25656716,2024-05-01,0,Basel Easter Master Open 2024,Basel SUI,2024-03-28,2024-04-01,2127,2051,2.0,8,-1.18,40,-47.2,"Hobson, Kenneth",c,2120.0,False,ENG,0.0,1,-0.4,40,-16.0
+25656716,2024-05-01,0,Basel Easter Master Open 2024,Basel SUI,2024-03-28,2024-04-01,2127,2051,2.0,8,-1.18,40,-47.2,"Hirzel, Cedric",,2023.0,False,SUI,0.5,1,-0.04,40,-1.6
+25656716,2024-05-01,0,Basel Easter Master Open 2024,Basel SUI,2024-03-28,2024-04-01,2127,2051,2.0,8,-1.18,40,-47.2,"Ohler, Julius",f,2223.0,False,GER,0.0,1,-0.27,40,-10.8
+25656716,2024-05-01,0,Basel Easter Master Open 2024,Basel SUI,2024-03-28,2024-04-01,2127,2051,2.0,8,-1.18,40,-47.2,"Pahud, Cedric",,2097.0,False,SUI,0.0,1,-0.44,40,-17.6
+25656716,2024-05-01,0,Basel Easter Master Open 2024,Basel SUI,2024-03-28,2024-04-01,2127,2051,2.0,8,-1.18,40,-47.2,"Shatil, Shir",c,2151.0,False,ISR,1.0,1,0.64,40,25.6
+25656716,2024-05-01,0,Basel Easter Master Open 2024,Basel SUI,2024-03-28,2024-04-01,2127,2051,2.0,8,-1.18,40,-47.2,"Buehler, Michael",,2049.0,False,SUI,0.0,1,-0.5,40,-20.0

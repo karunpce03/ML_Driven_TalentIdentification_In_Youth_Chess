@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33475636,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1633,1477,2.0,6,0.22,40,8.8,"Naitik, Jain",,1672.0,False,IND,1.0,1,0.75,40,30.0
+33475636,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1633,1477,2.0,6,0.22,40,8.8,"Shreyas, Mishra",,1709.0,False,IND,0.0,1,-0.21,40,-8.4
+33475636,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1633,1477,2.0,6,0.22,40,8.8,"Mohan, Naithani",,1614.0,False,IND,0.0,1,-0.32,40,-12.8
+33475636,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1633,1477,2.0,6,0.22,40,8.8,"Shrivastava, Aditi",,1590.0,False,IND,0.0,1,-0.35,40,-14.0
+33475636,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1633,1477,2.0,6,0.22,40,8.8,"Badhwar, Daksh",,1594.0,False,USA,1.0,1,0.66,40,26.4
+33475636,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1633,1477,2.0,6,0.22,40,8.8,"Dhayagude, Aarav",,1617.0,False,IND,0.0,1,-0.31,40,-12.4

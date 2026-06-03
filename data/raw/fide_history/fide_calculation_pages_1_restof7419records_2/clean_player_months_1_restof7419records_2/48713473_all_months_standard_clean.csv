@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48713473,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1635,1468,0.5,3,-0.34,40,-13.6,"Tridev, Buragohain",,1704.0,False,IND,0.5,1,0.3,40,12.0
+48713473,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1635,1468,0.5,3,-0.34,40,-13.6,"Subham, Bhattacharjee",,1634.0,False,IND,0.0,1,-0.28,40,-11.2
+48713473,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1635,1468,0.5,3,-0.34,40,-13.6,"Prakash, Nath",,1567.0,False,IND,0.0,1,-0.36,40,-14.4
+48713473,2025-02-01,0,1st Bihupuria Narayanpur International Chess Tournament 2025,Narayanpur IND,2025-01-16,2025-01-20,1710,1454,1.0,3,0.44,40,17.6,"Dishita, Dey",,1721.0,False,IND,1.0,1,0.82,40,32.8
+48713473,2025-02-01,0,1st Bihupuria Narayanpur International Chess Tournament 2025,Narayanpur IND,2025-01-16,2025-01-20,1710,1454,1.0,3,0.44,40,17.6,"Das, Monaj",,1700.0,False,IND,0.0,1,-0.19,40,-7.6
+48713473,2025-02-01,0,1st Bihupuria Narayanpur International Chess Tournament 2025,Narayanpur IND,2025-01-16,2025-01-20,1710,1454,1.0,3,0.44,40,17.6,"Karu, Julai Londa",,1708.0,False,IND,0.0,1,-0.19,40,-7.6

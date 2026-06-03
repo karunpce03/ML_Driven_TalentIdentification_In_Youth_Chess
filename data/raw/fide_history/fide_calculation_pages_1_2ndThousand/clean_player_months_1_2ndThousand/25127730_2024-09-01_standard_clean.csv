@@ -1,0 +1,26 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25127730,2024-09-01,0,August Classic Chess Tournament,Kuwait KUW,2024-08-01,2024-08-09,1684,1833,6.0,8,0.53,28,14.84,"Abel, Joseph",,1476.0,False,IND,1.0,1,0.11,28,3.08
+25127730,2024-09-01,0,August Classic Chess Tournament,Kuwait KUW,2024-08-01,2024-08-09,1684,1833,6.0,8,0.53,28,14.84,"Rose, Sanju Thomas",,1531.0,False,IND,1.0,1,0.15,28,4.2
+25127730,2024-09-01,0,August Classic Chess Tournament,Kuwait KUW,2024-08-01,2024-08-09,1684,1833,6.0,8,0.53,28,14.84,"Alrefae, Ahmad",,1668.0,False,KUW,1.0,1,0.28,28,7.84
+25127730,2024-09-01,0,August Classic Chess Tournament,Kuwait KUW,2024-08-01,2024-08-09,1684,1833,6.0,8,0.53,28,14.84,"Poliquit, Dennis",,2017.0,False,PHI,0.0,1,-0.26,28,-7.28
+25127730,2024-09-01,0,August Classic Chess Tournament,Kuwait KUW,2024-08-01,2024-08-09,1684,1833,6.0,8,0.53,28,14.84,"Advik, Srinivasan",,1640.0,False,IND,1.0,1,0.25,28,7.0
+25127730,2024-09-01,0,August Classic Chess Tournament,Kuwait KUW,2024-08-01,2024-08-09,1684,1833,6.0,8,0.53,28,14.84,"Khalid, Abu Warda",,1693.0,False,JOR,1.0,1,0.31,28,8.68
+25127730,2024-09-01,0,August Classic Chess Tournament,Kuwait KUW,2024-08-01,2024-08-09,1684,1833,6.0,8,0.53,28,14.84,"Khalid, Lodhi",,1718.0,False,PAK,1.0,1,0.34,28,9.52
+25127730,2024-09-01,0,August Classic Chess Tournament,Kuwait KUW,2024-08-01,2024-08-09,1684,1833,6.0,8,0.53,28,14.84,"Aaron, Sanju Thomas",,1725.0,False,IND,0.0,1,-0.65,28,-18.2
+25127730,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1939,1833,5.5,9,2.19,28,61.32,"Diaz Villagran, Robert",f,2233.0,True,CHI,0.0,1,-0.08,28,-2.24
+25127730,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1939,1833,5.5,9,2.19,28,61.32,"Yashvir, Mohammad",,1648.0,False,IND,1.0,1,0.26,28,7.28
+25127730,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1939,1833,5.5,9,2.19,28,61.32,"Marwan, Al Binali",,1518.0,False,BRN,1.0,1,0.14,28,3.92
+25127730,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1939,1833,5.5,9,2.19,28,61.32,"Estevez Sacristan, Deva",wc,1980.0,False,ESP,0.5,1,0.2,28,5.6
+25127730,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1939,1833,5.5,9,2.19,28,61.32,"Kabinazar, Nurmukhammed",,2002.0,False,KAZ,1.0,1,0.72,28,20.16
+25127730,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1939,1833,5.5,9,2.19,28,61.32,"Daulet, Alikhan",c,2007.0,False,KAZ,0.0,1,-0.27,28,-7.56
+25127730,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1939,1833,5.5,9,2.19,28,61.32,"Khalilov, Ikromjon",,1959.0,False,UZB,1.0,1,0.67,28,18.76
+25127730,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1939,1833,5.5,9,2.19,28,61.32,"Samimi, Armin",,2012.0,False,IRI,1.0,1,0.73,28,20.44
+25127730,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1939,1833,5.5,9,2.19,28,61.32,"Shahinyan, Vladimir",,2094.0,False,ARM,0.0,1,-0.18,28,-5.04
+25127730,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1791,1833,6.0,8,1.59,28,44.52,"Joel, Tojan",,1518.0,False,IND,1.0,1,0.14,28,3.92
+25127730,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1791,1833,6.0,8,1.59,28,44.52,"Al-Kuwari, Hamad",,1594.0,False,QAT,1.0,1,0.2,28,5.6
+25127730,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1791,1833,6.0,8,1.59,28,44.52,"Hamidov, Allahverdi",f,2233.0,True,AZE,0.0,1,-0.08,28,-2.24
+25127730,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1791,1833,6.0,8,1.59,28,44.52,"Mithran, Krishnakumar",,1589.0,False,IND,1.0,1,0.2,28,5.6
+25127730,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1791,1833,6.0,8,1.59,28,44.52,"Yerseit, Amir",,1534.0,False,KAZ,1.0,1,0.15,28,4.2
+25127730,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1791,1833,6.0,8,1.59,28,44.52,"Baghirov, Mahammad",,1889.0,False,AZE,1.0,1,0.58,28,16.24
+25127730,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1791,1833,6.0,8,1.59,28,44.52,"Yu, Zechen",,1952.0,False,CHN,1.0,1,0.66,28,18.48
+25127730,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1791,1833,6.0,8,1.59,28,44.52,"Kakavand, Ramtin",f,2017.0,False,IRI,0.0,1,-0.26,28,-7.28

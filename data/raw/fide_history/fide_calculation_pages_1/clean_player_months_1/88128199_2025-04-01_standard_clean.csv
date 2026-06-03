@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88128199,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1513,1428,1.0,5,-0.94,40,-37.6,"Devadharun, A",,1603.0,False,IND,1.0,1,0.73,40,29.2
+88128199,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1513,1428,1.0,5,-0.94,40,-37.6,"Reshanth, M",,1604.0,False,IND,0.0,1,-0.27,40,-10.8
+88128199,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1513,1428,1.0,5,-0.94,40,-37.6,"Divakaran, Sinddhizhai",,1486.0,False,IND,0.0,1,-0.42,40,-16.8
+88128199,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1513,1428,1.0,5,-0.94,40,-37.6,"Adam, T",,1462.0,False,IND,0.0,1,-0.45,40,-18.0
+88128199,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1513,1428,1.0,5,-0.94,40,-37.6,"Mano, Mariappan",,1408.0,False,IND,0.0,1,-0.53,40,-21.2

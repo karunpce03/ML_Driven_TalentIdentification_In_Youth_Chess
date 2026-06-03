@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+46694919,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2372,2491,6.0,9,0.16,10,1.6,"Paciencia, Enrique",m,2263.0,False,SGP,1.0,1,0.21,10,2.1
+46694919,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2372,2491,6.0,9,0.16,10,1.6,"Neelotpal, Das",g,2356.0,False,IND,1.0,1,0.32,10,3.2
+46694919,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2372,2491,6.0,9,0.16,10,1.6,"Murzin, Volodar",g,2664.0,False,FID,0.5,1,0.23,10,2.3
+46694919,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2372,2491,6.0,9,0.16,10,1.6,"Eljanov, Pavel",g,2672.0,False,UKR,0.5,1,0.24,10,2.4
+46694919,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2372,2491,6.0,9,0.16,10,1.6,"Srija, Seshadri",wg,2216.0,False,IND,0.0,1,-0.83,10,-8.3
+46694919,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2372,2491,6.0,9,0.16,10,1.6,"Bach, Ngoc Thuy Duong",wm,2240.0,False,VIE,1.0,1,0.19,10,1.9
+46694919,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2372,2491,6.0,9,0.16,10,1.6,"Cabe, Arlan",f,2305.0,False,PHI,1.0,1,0.26,10,2.6
+46694919,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2372,2491,6.0,9,0.16,10,1.6,"Winkelman, Albert",f,2278.0,False,AUS,0.0,1,-0.77,10,-7.7
+46694919,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2372,2491,6.0,9,0.16,10,1.6,"Novita, Anjas",m,2350.0,False,INA,1.0,1,0.31,10,3.1

@@ -1,0 +1,76 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33368783,2024-05-01,0,UAE League Chess Championship - U18 Girls,Emirates UAE,2024-02-10,2024-03-10,2222,1532,0.0,1,-0.01,40,-0.4,"Ahlam, Rashed",wf,2222.0,False,UAE,0.0,1,-0.01,40,-0.4
+33368783,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1927,1783,4.5,9,1.63,40,65.2,"Arellano, Bryle",,2023.0,False,PHI,0.5,1,0.3,40,12.0
+33368783,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1927,1783,4.5,9,1.63,40,65.2,"Sureka, Akshat",,2141.0,False,IND,0.0,1,-0.1,40,-4.0
+33368783,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1927,1783,4.5,9,1.63,40,65.2,"Ahmad, Al Romaithi",,1944.0,False,UAE,1.0,1,0.71,40,28.4
+33368783,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1927,1783,4.5,9,1.63,40,65.2,"Krishay, Jain",,1918.0,False,IND,0.0,1,-0.32,40,-12.8
+33368783,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1927,1783,4.5,9,1.63,40,65.2,"Arvind, Ramnath Iyer",,1886.0,False,IND,0.0,1,-0.36,40,-14.4
+33368783,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1927,1783,4.5,9,1.63,40,65.2,"Al Awad, Naser",,1666.0,False,KSA,1.0,1,0.34,40,13.6
+33368783,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1927,1783,4.5,9,1.63,40,65.2,"Muratova, Saltanat",,1860.0,False,KAZ,1.0,1,0.61,40,24.4
+33368783,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1927,1783,4.5,9,1.63,40,65.2,"Abucejo, Armel N",,1937.0,False,PHI,1.0,1,0.71,40,28.4
+33368783,2024-06-01,0,Dubai Police Global Challenge for Chess - Open,Dubai UAE,2024-05-03,2024-05-13,1927,1783,4.5,9,1.63,40,65.2,"Bobomurodova, Maftuna",wm,1966.0,False,UZB,0.0,1,-0.26,40,-10.4
+33368783,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1834,1783,3.5,9,-0.55,40,-22.0,"Al Yaghshi, M. Hisham",,2110.0,False,SYR,0.5,1,0.37,40,14.8
+33368783,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1834,1783,3.5,9,-0.55,40,-22.0,"Aguilera, Felix",,1859.0,False,PHI,1.0,1,0.6,40,24.0
+33368783,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1834,1783,3.5,9,-0.55,40,-22.0,"Vishal, Choudary B",,1940.0,False,IND,0.0,1,-0.29,40,-11.6
+33368783,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1834,1783,3.5,9,-0.55,40,-22.0,"Nadir, Samir",f,2158.0,False,SUD,0.0,1,-0.09,40,-3.6
+33368783,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1834,1783,3.5,9,-0.55,40,-22.0,"Bashaer, Khalil",wc,1704.0,False,UAE,0.5,1,-0.11,40,-4.4
+33368783,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1834,1783,3.5,9,-0.55,40,-22.0,"Saeed, M Nami",,1678.0,False,UAE,0.0,1,-0.64,40,-25.6
+33368783,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1834,1783,3.5,9,-0.55,40,-22.0,"Al Aisaee, Anat",,1673.0,False,OMA,1.0,1,0.35,40,14.0
+33368783,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1834,1783,3.5,9,-0.55,40,-22.0,"Leonardo, Franklin",,1732.0,False,SGP,0.0,1,-0.57,40,-22.8
+33368783,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1834,1783,3.5,9,-0.55,40,-22.0,"Rashid, Husain Alhammadi",,1654.0,False,UAE,0.5,1,-0.17,40,-6.8
+33368783,2024-08-01,0,8th Batumi Municipality Cup (Open B),Batumi GEO,2024-07-05,2024-07-13,1730,1826,4.5,9,-0.98,40,-39.2,"Abalmaz, Pavlo",,1563.0,False,UKR,1.0,1,0.18,40,7.2
+33368783,2024-08-01,0,8th Batumi Municipality Cup (Open B),Batumi GEO,2024-07-05,2024-07-13,1730,1826,4.5,9,-0.98,40,-39.2,"Esadze, Tamari",,1994.0,False,GEO,0.0,1,-0.28,40,-11.2
+33368783,2024-08-01,0,8th Batumi Municipality Cup (Open B),Batumi GEO,2024-07-05,2024-07-13,1730,1826,4.5,9,-0.98,40,-39.2,"Chanturia, Giorgi Gio",,1576.0,False,GEO,1.0,1,0.19,40,7.6
+33368783,2024-08-01,0,8th Batumi Municipality Cup (Open B),Batumi GEO,2024-07-05,2024-07-13,1730,1826,4.5,9,-0.98,40,-39.2,"Simonyan, Arman",,1942.0,False,ARM,0.5,1,0.16,40,6.4
+33368783,2024-08-01,0,8th Batumi Municipality Cup (Open B),Batumi GEO,2024-07-05,2024-07-13,1730,1826,4.5,9,-0.98,40,-39.2,"Shahmoradi, Arash",,1950.0,False,IRI,0.0,1,-0.33,40,-13.2
+33368783,2024-08-01,0,8th Batumi Municipality Cup (Open B),Batumi GEO,2024-07-05,2024-07-13,1730,1826,4.5,9,-0.98,40,-39.2,"Abakelia, Mariam",,1533.0,False,GEO,0.0,1,-0.85,40,-34.0
+33368783,2024-08-01,0,8th Batumi Municipality Cup (Open B),Batumi GEO,2024-07-05,2024-07-13,1730,1826,4.5,9,-0.98,40,-39.2,"Samhita, Pungavanam",,1634.0,False,IND,1.0,1,0.25,40,10.0
+33368783,2024-08-01,0,8th Batumi Municipality Cup (Open B),Batumi GEO,2024-07-05,2024-07-13,1730,1826,4.5,9,-0.98,40,-39.2,"Akramov, Khusan",,1495.0,False,UZB,1.0,1,0.12,40,4.8
+33368783,2024-08-01,0,8th Batumi Municipality Cup (Open B),Batumi GEO,2024-07-05,2024-07-13,1730,1826,4.5,9,-0.98,40,-39.2,"Tevzadze, Mariam",,1886.0,False,GEO,0.0,1,-0.42,40,-16.8
+33368783,2024-08-01,0,"17th Poti Int.""Nana Alexandria Cup (Open-B)",Poti GEO,2024-07-16,2024-07-24,1800,1826,4.0,8,-0.21,40,-8.4,"Danielyan, Rostom",,1499.0,False,ARM,0.0,1,-0.87,40,-34.8
+33368783,2024-08-01,0,"17th Poti Int.""Nana Alexandria Cup (Open-B)",Poti GEO,2024-07-16,2024-07-24,1800,1826,4.0,8,-0.21,40,-8.4,"Nersisyan, Zhora",,1694.0,False,ARM,1.0,1,0.32,40,12.8
+33368783,2024-08-01,0,"17th Poti Int.""Nana Alexandria Cup (Open-B)",Poti GEO,2024-07-16,2024-07-24,1800,1826,4.0,8,-0.21,40,-8.4,"Ashotia, Barbare",,1861.0,False,GEO,1.0,1,0.55,40,22.0
+33368783,2024-08-01,0,"17th Poti Int.""Nana Alexandria Cup (Open-B)",Poti GEO,2024-07-16,2024-07-24,1800,1826,4.0,8,-0.21,40,-8.4,"Tsanatsqenishvili, Alexandre",,1980.0,False,GEO,0.0,1,-0.29,40,-11.6
+33368783,2024-08-01,0,"17th Poti Int.""Nana Alexandria Cup (Open-B)",Poti GEO,2024-07-16,2024-07-24,1800,1826,4.0,8,-0.21,40,-8.4,"Kviriashvili, Andria",,1932.0,False,GEO,0.0,1,-0.36,40,-14.4
+33368783,2024-08-01,0,"17th Poti Int.""Nana Alexandria Cup (Open-B)",Poti GEO,2024-07-16,2024-07-24,1800,1826,4.0,8,-0.21,40,-8.4,"Badalyan, Seda",,1746.0,False,ARM,1.0,1,0.39,40,15.6
+33368783,2024-08-01,0,"17th Poti Int.""Nana Alexandria Cup (Open-B)",Poti GEO,2024-07-16,2024-07-24,1800,1826,4.0,8,-0.21,40,-8.4,"Kristesiashvili, Andria",,1728.0,False,GEO,1.0,1,0.37,40,14.8
+33368783,2024-08-01,0,"17th Poti Int.""Nana Alexandria Cup (Open-B)",Poti GEO,2024-07-16,2024-07-24,1800,1826,4.0,8,-0.21,40,-8.4,"Mesropian, Khachatur",,1958.0,False,ARM,0.0,1,-0.32,40,-12.8
+33368783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1998,1778,4.0,8,2.07,40,82.8,"Tetepoulidis, Ioannis",,2142.0,False,GRE,1.0,1,0.9,40,36.0
+33368783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1998,1778,4.0,8,2.07,40,82.8,"Ashwin, Sairam",,1998.0,False,IND,0.0,1,-0.22,40,-8.8
+33368783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1998,1778,4.0,8,2.07,40,82.8,"Shamsuddin, Sayyid Usmon",,2079.0,False,UZB,0.0,1,-0.15,40,-6.0
+33368783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1998,1778,4.0,8,2.07,40,82.8,"Al-Khulaifi, Ghada",wc,1693.0,False,QAT,1.0,1,0.38,40,15.2
+33368783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1998,1778,4.0,8,2.07,40,82.8,"Kakavand, Ramtin",f,2017.0,False,IRI,1.0,1,0.8,40,32.0
+33368783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1998,1778,4.0,8,2.07,40,82.8,"Mercado, Levi",,2068.0,False,PHI,0.0,1,-0.16,40,-6.4
+33368783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1998,1778,4.0,8,2.07,40,82.8,"Rusu, Lucas",,1907.0,False,ROU,0.0,1,-0.33,40,-13.2
+33368783,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1998,1778,4.0,8,2.07,40,82.8,"Nassr, Lina",wm,2078.0,False,ALG,1.0,1,0.85,40,34.0
+33368783,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1779,1861,7.5,11,0.88,40,35.2,"Divakaran, Sinddhizhai",,1522.0,False,IND,1.0,1,0.12,40,4.8
+33368783,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1779,1861,7.5,11,0.88,40,35.2,"Dhanushkka, S",,1622.0,False,IND,1.0,1,0.2,40,8.0
+33368783,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1779,1861,7.5,11,0.88,40,35.2,"Krupha, S Ukkali",,1741.0,False,IND,0.5,1,-0.16,40,-6.4
+33368783,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1779,1861,7.5,11,0.88,40,35.2,"Sananda, R",,1773.0,False,IND,1.0,1,0.38,40,15.2
+33368783,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1779,1861,7.5,11,0.88,40,35.2,"Sachi, Jain",wf,2050.0,False,IND,0.0,1,-0.25,40,-10.0
+33368783,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1779,1861,7.5,11,0.88,40,35.2,"Sahana, Shainsha",,1714.0,False,IND,1.0,1,0.3,40,12.0
+33368783,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1779,1861,7.5,11,0.88,40,35.2,"Modipalli, Deekshitha",,1787.0,False,IND,0.5,1,-0.1,40,-4.0
+33368783,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1779,1861,7.5,11,0.88,40,35.2,"Aswinika, Mani R",,1759.0,False,IND,1.0,1,0.36,40,14.4
+33368783,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1779,1861,7.5,11,0.88,40,35.2,"Aamuktha, Guntaka",,1868.0,False,IND,0.5,1,0.01,40,0.4
+33368783,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1779,1861,7.5,11,0.88,40,35.2,"Yashvi, Jain",,1935.0,False,IND,1.0,1,0.6,40,24.0
+33368783,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1779,1861,7.5,11,0.88,40,35.2,"Jain, Ashita",,1800.0,False,IND,0.0,1,-0.58,40,-23.2
+33368783,2025-01-01,0,"37th INTERNATIONAL CHAMPIONSHIP OF BELGRADE ""BELGRADE TROPHY 2024""",Beograd SRB,2024-11-23,2024-12-01,1993,1861,5.0,9,1.81,35,63.35,"Stanojoski, Zvonko",g,2261.0,True,MKD,0.0,1,-0.08,35,-2.8
+33368783,2025-01-01,0,"37th INTERNATIONAL CHAMPIONSHIP OF BELGRADE ""BELGRADE TROPHY 2024""",Beograd SRB,2024-11-23,2024-12-01,1993,1861,5.0,9,1.81,35,63.35,"Jovanovic, Milos V",,1687.0,False,SRB,1.0,1,0.27,35,9.45
+33368783,2025-01-01,0,"37th INTERNATIONAL CHAMPIONSHIP OF BELGRADE ""BELGRADE TROPHY 2024""",Beograd SRB,2024-11-23,2024-12-01,1993,1861,5.0,9,1.81,35,63.35,"Slobodiansky, Steven",,2261.0,True,ISR,0.0,1,-0.08,35,-2.8
+33368783,2025-01-01,0,"37th INTERNATIONAL CHAMPIONSHIP OF BELGRADE ""BELGRADE TROPHY 2024""",Beograd SRB,2024-11-23,2024-12-01,1993,1861,5.0,9,1.81,35,63.35,"Mihajlovic, Ivica Lj",,1735.0,False,SRB,1.0,1,0.33,35,11.55
+33368783,2025-01-01,0,"37th INTERNATIONAL CHAMPIONSHIP OF BELGRADE ""BELGRADE TROPHY 2024""",Beograd SRB,2024-11-23,2024-12-01,1993,1861,5.0,9,1.81,35,63.35,"Sperat Czar, Nicolas",,2098.0,False,FRA,0.0,1,-0.2,35,-7.0
+33368783,2025-01-01,0,"37th INTERNATIONAL CHAMPIONSHIP OF BELGRADE ""BELGRADE TROPHY 2024""",Beograd SRB,2024-11-23,2024-12-01,1993,1861,5.0,9,1.81,35,63.35,"Jovanovic, Ivana",,1747.0,False,SRB,1.0,1,0.34,35,11.9
+33368783,2025-01-01,0,"37th INTERNATIONAL CHAMPIONSHIP OF BELGRADE ""BELGRADE TROPHY 2024""",Beograd SRB,2024-11-23,2024-12-01,1993,1861,5.0,9,1.81,35,63.35,"Karisik, Nenad",,2119.0,False,MNE,1.0,1,0.82,35,28.7
+33368783,2025-01-01,0,"37th INTERNATIONAL CHAMPIONSHIP OF BELGRADE ""BELGRADE TROPHY 2024""",Beograd SRB,2024-11-23,2024-12-01,1993,1861,5.0,9,1.81,35,63.35,"Vujcic, Milena",wf,2033.0,False,SRB,0.5,1,0.23,35,8.05
+33368783,2025-01-01,0,"37th INTERNATIONAL CHAMPIONSHIP OF BELGRADE ""BELGRADE TROPHY 2024""",Beograd SRB,2024-11-23,2024-12-01,1993,1861,5.0,9,1.81,35,63.35,"Jovanovic, Dejan R",,1995.0,False,SRB,0.5,1,0.18,35,6.3
+33368783,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1641,1896,7.5,11,-1.37,35,-47.95,"Krittika, Pyne",,1501.0,False,IND,1.0,1,0.08,35,2.8
+33368783,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1641,1896,7.5,11,-1.37,35,-47.95,"Dakhsha, Rudra",,1652.0,False,IND,0.5,1,-0.3,35,-10.5
+33368783,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1641,1896,7.5,11,-1.37,35,-47.95,"Advika, Sarupria",,1628.0,False,IND,0.5,1,-0.33,35,-11.55
+33368783,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1641,1896,7.5,11,-1.37,35,-47.95,Somya,,1585.0,False,IND,1.0,1,0.14,35,4.9
+33368783,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1641,1896,7.5,11,-1.37,35,-47.95,"Sahana, S",,1638.0,False,IND,0.5,1,-0.32,35,-11.2
+33368783,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1641,1896,7.5,11,-1.37,35,-47.95,"Nihira, Koul",,1730.0,False,IND,0.0,1,-0.72,35,-25.2
+33368783,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1641,1896,7.5,11,-1.37,35,-47.95,"Ayushi, Roy",,1563.0,False,IND,0.5,1,-0.38,35,-13.3
+33368783,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1641,1896,7.5,11,-1.37,35,-47.95,"Waghle, Bhumika",,1595.0,False,IND,1.0,1,0.15,35,5.25
+33368783,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1641,1896,7.5,11,-1.37,35,-47.95,"Krupha, S Ukkali",,1701.0,False,IND,1.0,1,0.25,35,8.75
+33368783,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1641,1896,7.5,11,-1.37,35,-47.95,"Rudra, Rajeev",,1747.0,False,IND,1.0,1,0.3,35,10.5
+33368783,2025-01-01,0,37th National U-13 Girls Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1641,1896,7.5,11,-1.37,35,-47.95,"Aditri, Shome",,1716.0,False,IND,0.5,1,-0.24,35,-8.4

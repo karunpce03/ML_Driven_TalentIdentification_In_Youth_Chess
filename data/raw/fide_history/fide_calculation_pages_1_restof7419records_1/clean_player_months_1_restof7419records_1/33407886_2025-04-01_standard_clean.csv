@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33407886,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1609,1831,4.5,6,0.0,35,0.0,"Gauransh, Jaiswal",,1443.0,False,IND,0.5,1,-0.41,35,-14.35
+33407886,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1609,1831,4.5,6,0.0,35,0.0,"Shubh, Srivastava",,1431.0,True,IND,0.5,1,-0.42,35,-14.7
+33407886,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1609,1831,4.5,6,0.0,35,0.0,"Tavish, Bansal",,1509.0,False,IND,1.0,1,0.13,35,4.55
+33407886,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1609,1831,4.5,6,0.0,35,0.0,"Shashwat, Singh",,1511.0,False,IND,1.0,1,0.13,35,4.55
+33407886,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1609,1831,4.5,6,0.0,35,0.0,"Abhiram, Dixit",,1530.0,False,IND,1.0,1,0.15,35,5.25
+33407886,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1609,1831,4.5,6,0.0,35,0.0,"Ajay, Santhosh Parvathareddy",f,2231.0,True,IND,0.5,1,0.42,35,14.7
+33407886,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1655,1831,4.5,6,0.23,35,8.05,"Parth, Gupta",,1489.0,False,IND,1.0,1,0.12,35,4.2
+33407886,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1655,1831,4.5,6,0.23,35,8.05,"Aarav, Agarwal",,1541.0,False,IND,0.5,1,-0.34,35,-11.9
+33407886,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1655,1831,4.5,6,0.23,35,8.05,"Vaibhav, Maurya",,1530.0,False,IND,1.0,1,0.15,35,5.25
+33407886,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1655,1831,4.5,6,0.23,35,8.05,"Lakshya, Nigam",,1652.0,False,IND,1.0,1,0.27,35,9.45
+33407886,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1655,1831,4.5,6,0.23,35,8.05,"Ajay, Santhosh Parvathareddy",f,2231.0,True,IND,0.0,1,-0.08,35,-2.8
+33407886,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1655,1831,4.5,6,0.23,35,8.05,"Atharva, Tyagi",,1485.0,False,IND,1.0,1,0.11,35,3.85
+33407886,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1945,1831,4.5,8,1.6,35,56.0,"Saurabh, Kumar",,1619.0,False,IND,1.0,1,0.23,35,8.05
+33407886,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1945,1831,4.5,8,1.6,35,56.0,"Vatsal, Singla",,1915.0,False,IND,1.0,1,0.62,35,21.7
+33407886,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1945,1831,4.5,8,1.6,35,56.0,"Anadkat, Kartavya",,2176.0,False,IND,1.0,1,0.89,35,31.15
+33407886,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1945,1831,4.5,8,1.6,35,56.0,"Ayaan, Garg",,1983.0,False,IND,0.5,1,0.2,35,7.0
+33407886,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1945,1831,4.5,8,1.6,35,56.0,"Sham, R",,2128.0,False,IND,0.0,1,-0.15,35,-5.25
+33407886,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1945,1831,4.5,8,1.6,35,56.0,"Shahan, Vohra",,1644.0,False,IND,1.0,1,0.26,35,9.1
+33407886,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1945,1831,4.5,8,1.6,35,56.0,"Utkrisht, Tuli",,2019.0,False,IND,0.0,1,-0.26,35,-9.1
+33407886,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1945,1831,4.5,8,1.6,35,56.0,"Daksh, Goyal",,2079.0,False,IND,0.0,1,-0.19,35,-6.65

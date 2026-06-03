@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25140574,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1767,1552,2.0,4,0.94,40,37.6,"Laposte, Nicolas",,1886.0,False,FRA,0.0,1,-0.12,40,-4.8
+25140574,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1767,1552,2.0,4,0.94,40,37.6,"Ishaan, Divesh Nair",,1424.0,False,IND,0.5,1,-0.17,40,-6.8
+25140574,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1767,1552,2.0,4,0.94,40,37.6,"Pahlevansadegh, Hossein",,1952.0,True,IRI,1.0,1,0.92,40,36.8
+25140574,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1767,1552,2.0,4,0.94,40,37.6,"Nadeem, Aziz",,1806.0,False,PAK,0.5,1,0.31,40,12.4
+25140574,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1581,1552,3.5,7,0.16,40,6.4,"Bhuvan, Krishna Prasanth",,1940.0,False,IND,0.0,1,-0.09,40,-3.6
+25140574,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1581,1552,3.5,7,0.16,40,6.4,"Yousuf, Mohammad Shukri",,1443.0,False,UAE,1.0,1,0.35,40,14.0
+25140574,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1581,1552,3.5,7,0.16,40,6.4,"Aaryaveer, Kochhar",,1419.0,False,IND,1.0,1,0.32,40,12.8
+25140574,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1581,1552,3.5,7,0.16,40,6.4,"Hari, Vardan Satheeskumar",,1724.0,False,IND,0.0,1,-0.27,40,-10.8
+25140574,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1581,1552,3.5,7,0.16,40,6.4,"Ishaan, Divesh Nair",,1424.0,False,IND,1.0,1,0.33,40,13.2
+25140574,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1581,1552,3.5,7,0.16,40,6.4,"Yeshwant, Saravanan",,1683.0,False,IND,0.0,1,-0.32,40,-12.8
+25140574,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1581,1552,3.5,7,0.16,40,6.4,"Al Qassabi, Rawda",,1431.0,False,QAT,0.5,1,-0.16,40,-6.4

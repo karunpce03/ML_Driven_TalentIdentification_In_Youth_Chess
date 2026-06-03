@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33334110,2024-05-01,0,23rd Jharkhand State Sub Junior FIDE Rating Chess Championship 2024,Hazaribag IND,2024-04-01,2024-04-04,1539,1414,0.0,3,-0.98,40,-39.2,"Avani, Kumari",,1560.0,False,IND,0.0,1,-0.3,40,-12.0
+33334110,2024-05-01,0,23rd Jharkhand State Sub Junior FIDE Rating Chess Championship 2024,Hazaribag IND,2024-04-01,2024-04-04,1539,1414,0.0,3,-0.98,40,-39.2,"Navieka, Jaiswal",,1536.0,False,IND,0.0,1,-0.33,40,-13.2
+33334110,2024-05-01,0,23rd Jharkhand State Sub Junior FIDE Rating Chess Championship 2024,Hazaribag IND,2024-04-01,2024-04-04,1539,1414,0.0,3,-0.98,40,-39.2,"Anuj, Prakash",,1522.0,False,IND,0.0,1,-0.35,40,-14.0

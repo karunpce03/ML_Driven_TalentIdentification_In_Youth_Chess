@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25193856,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1661,1640,4.0,9,-0.37,40,-14.8,"Lokesh, N.",,2040,True,IND,0.0,1,-0.08,40,-3.2
+25193856,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1661,1640,4.0,9,-0.37,40,-14.8,"Basavaraj, B.s",,1480,False,IND,1.0,1,0.29,40,11.6
+25193856,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1661,1640,4.0,9,-0.37,40,-14.8,"Avantika, Banujit Narayan",,1522,False,IND,1.0,1,0.34,40,13.6
+25193856,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1661,1640,4.0,9,-0.37,40,-14.8,"Shashveen, A K",,1814,False,IND,0.5,1,0.23,40,9.2
+25193856,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1661,1640,4.0,9,-0.37,40,-14.8,"Darsh, Shetty",,1756,False,IND,0.0,1,-0.34,40,-13.6
+25193856,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1661,1640,4.0,9,-0.37,40,-14.8,"Vivaan, Pandey",,1553,False,IND,1.0,1,0.38,40,15.2
+25193856,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1661,1640,4.0,9,-0.37,40,-14.8,"Nivedita, V C",,1745,False,IND,0.0,1,-0.36,40,-14.4
+25193856,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1661,1640,4.0,9,-0.37,40,-14.8,"Rama Mohan Rao, N",,1524,False,IND,0.5,1,-0.16,40,-6.4
+25193856,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1661,1640,4.0,9,-0.37,40,-14.8,"Neel, Prakash Nankani",,1516,False,IND,0.0,1,-0.67,40,-26.8

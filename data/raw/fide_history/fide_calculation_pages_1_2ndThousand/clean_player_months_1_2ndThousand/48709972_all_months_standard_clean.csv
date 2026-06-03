@@ -1,0 +1,37 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48709972,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1623,1437,2.0,6,0.45,40,18.0,"Paramarth, Mitra",,1655.0,False,IND,0.5,1,0.28,40,11.2
+48709972,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1623,1437,2.0,6,0.45,40,18.0,"Agnim, Dutta",,1664.0,False,IND,0.0,1,-0.21,40,-8.4
+48709972,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1623,1437,2.0,6,0.45,40,18.0,"Granthik, Mallick",,1621.0,False,IND,1.0,1,0.74,40,29.6
+48709972,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1623,1437,2.0,6,0.45,40,18.0,"Srijit, Roy",,1605.0,False,IND,0.0,1,-0.28,40,-11.2
+48709972,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1623,1437,2.0,6,0.45,40,18.0,"Samrat, Sutar",,1639.0,False,IND,0.5,1,0.26,40,10.4
+48709972,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1623,1437,2.0,6,0.45,40,18.0,"Chirodeep, Ghosh",,1554.0,False,IND,0.0,1,-0.34,40,-13.6
+48709972,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1607,1455,2.5,7,0.35,40,14.0,"Triparno, Ghosh",,1794.0,False,IND,0.0,1,-0.12,40,-4.8
+48709972,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1607,1455,2.5,7,0.35,40,14.0,"Navaneel, Chhatui",,1626.0,False,IND,0.5,1,0.23,40,9.2
+48709972,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1607,1455,2.5,7,0.35,40,14.0,"Angshu, Ghosh",,1633.0,False,IND,0.0,1,-0.27,40,-10.8
+48709972,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1607,1455,2.5,7,0.35,40,14.0,"Shivam, Sarkar",,1578.0,False,IND,1.0,1,0.67,40,26.8
+48709972,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1607,1455,2.5,7,0.35,40,14.0,"Abhirup, Mukherjee",,1470.0,False,IND,0.5,1,0.02,40,0.8
+48709972,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1607,1455,2.5,7,0.35,40,14.0,"Raunak, Sarkar",,1596.0,False,IND,0.5,1,0.19,40,7.6
+48709972,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1607,1455,2.5,7,0.35,40,14.0,"Sharanyak, Das",,1553.0,False,IND,0.0,1,-0.37,40,-14.8
+48709972,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1502,1469,2.0,4,0.17,40,6.8,"Shrihaan, Barman",,1540.0,False,IND,0.0,1,-0.4,40,-16.0
+48709972,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1502,1469,2.0,4,0.17,40,6.8,"Somiddho, Rajbanshi",,1645.0,False,IND,0.5,1,0.23,40,9.2
+48709972,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1502,1469,2.0,4,0.17,40,6.8,"Vineet, Mahapatra",,1421.0,False,IND,0.5,1,-0.07,40,-2.8
+48709972,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1502,1469,2.0,4,0.17,40,6.8,"Suvranil, Chowdhury",,1403.0,False,IND,1.0,1,0.41,40,16.4
+48709972,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1689,1476,0.5,4,-0.42,40,-16.8,"Swapnabha, Neogi",,1673.0,False,IND,0.5,1,0.25,40,10.0
+48709972,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1689,1476,0.5,4,-0.42,40,-16.8,"Diproneel, Barman",,1718.0,False,IND,0.0,1,-0.2,40,-8.0
+48709972,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1689,1476,0.5,4,-0.42,40,-16.8,"Paramarth, Mitra",,1705.0,False,IND,0.0,1,-0.21,40,-8.4
+48709972,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1689,1476,0.5,4,-0.42,40,-16.8,"Adipto, Nath",,1659.0,False,IND,0.0,1,-0.26,40,-10.4
+48709972,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1591,1459,2.5,9,-0.44,40,-17.6,"Shakya, Singha Modak",,1728.0,False,IND,0.0,1,-0.17,40,-6.8
+48709972,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1591,1459,2.5,9,-0.44,40,-17.6,"Sudarshan, Balaji",,1608.0,False,IND,1.0,1,0.7,40,28.0
+48709972,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1591,1459,2.5,9,-0.44,40,-17.6,"Vaishnav, S",,1655.0,False,IND,0.0,1,-0.25,40,-10.0
+48709972,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1591,1459,2.5,9,-0.44,40,-17.6,"Aryan, Dey",,1505.0,False,IND,0.5,1,0.06,40,2.4
+48709972,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1591,1459,2.5,9,-0.44,40,-17.6,"Abhishek, Bordoloi",,1590.0,False,IND,0.0,1,-0.32,40,-12.8
+48709972,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1591,1459,2.5,9,-0.44,40,-17.6,"Shuvayu, Datta",,1504.0,False,IND,1.0,1,0.56,40,22.4
+48709972,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1591,1459,2.5,9,-0.44,40,-17.6,"Amiyanshu, Bhowal",,1576.0,False,IND,0.0,1,-0.34,40,-13.6
+48709972,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1591,1459,2.5,9,-0.44,40,-17.6,"Maulik, Chawla",,1562.0,False,IND,0.0,1,-0.36,40,-14.4
+48709972,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1591,1459,2.5,9,-0.44,40,-17.6,"Abhineet, Sinha",,1591.0,False,IND,0.0,1,-0.32,40,-12.8
+48709972,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1597,1441,2.5,6,0.72,40,28.8,"Paramarth, Mitra",,1695.0,False,IND,0.0,1,-0.19,40,-7.6
+48709972,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1597,1441,2.5,6,0.72,40,28.8,"Nishan, Mondal",,1632.0,False,IND,0.5,1,0.25,40,10.0
+48709972,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1597,1441,2.5,6,0.72,40,28.8,"Siddharth, Samaddar",,1621.0,False,IND,1.0,1,0.74,40,29.6
+48709972,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1597,1441,2.5,6,0.72,40,28.8,"Amiyanshu, Bhowal",,1583.0,False,IND,0.0,1,-0.31,40,-12.4
+48709972,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1597,1441,2.5,6,0.72,40,28.8,"Trishu, Barai",,1503.0,False,IND,0.5,1,0.09,40,3.6
+48709972,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1597,1441,2.5,6,0.72,40,28.8,"Siddharth, Borgohain",,1547.0,False,IND,0.5,1,0.14,40,5.6

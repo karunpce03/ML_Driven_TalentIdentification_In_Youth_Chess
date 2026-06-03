@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48728306,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1622,1438,0.0,4,-1.12,40,-44.8,"Sidharth, Sreekumar",,1838,True,IND,0.0,1,-0.08,40,-3.2
+48728306,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1622,1438,0.0,4,-1.12,40,-44.8,"Sairam, Bala M",,1552,False,IND,0.0,1,-0.34,40,-13.6
+48728306,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1622,1438,0.0,4,-1.12,40,-44.8,Satyasavit,,1554,False,IND,0.0,1,-0.34,40,-13.6
+48728306,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1622,1438,0.0,4,-1.12,40,-44.8,"Kavin, Prakash",,1542,False,IND,0.0,1,-0.36,40,-14.4

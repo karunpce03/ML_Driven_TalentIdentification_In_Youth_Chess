@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25666231,2024-10-01,0,3rd Annual Beltway Open,"Sterling, VA USA",2024-09-06,2024-09-08,2000,2068,4.5,5,1.53,40,61.2,"Doddapaneni, Viyaan Krishna",,1753.0,False,USA,1.0,1,0.14,40,5.6
+25666231,2024-10-01,0,3rd Annual Beltway Open,"Sterling, VA USA",2024-09-06,2024-09-08,2000,2068,4.5,5,1.53,40,61.2,"Ramnath, Architsai",,1785.0,False,USA,1.0,1,0.16,40,6.4
+25666231,2024-10-01,0,3rd Annual Beltway Open,"Sterling, VA USA",2024-09-06,2024-09-08,2000,2068,4.5,5,1.53,40,61.2,"Liu, Steven",,1896.0,False,USA,1.0,1,0.27,40,10.8
+25666231,2024-10-01,0,3rd Annual Beltway Open,"Sterling, VA USA",2024-09-06,2024-09-08,2000,2068,4.5,5,1.53,40,61.2,"Diao, Matthew Guo",,2097.0,False,USA,1.0,1,0.54,40,21.6
+25666231,2024-10-01,0,3rd Annual Beltway Open,"Sterling, VA USA",2024-09-06,2024-09-08,2000,2068,4.5,5,1.53,40,61.2,"Lenderman, Aleksandr",g,2468.0,True,USA,0.5,1,0.42,40,16.8
+25666231,2024-10-01,0,Blue Ridge Open,"Dulles, VA USA",2024-09-20,2024-09-22,1909,2068,2.5,4,-0.31,40,-12.4,"Haldankar, Ameya",,1838.0,False,USA,1.0,1,0.21,40,8.4
+25666231,2024-10-01,0,Blue Ridge Open,"Dulles, VA USA",2024-09-20,2024-09-22,1909,2068,2.5,4,-0.31,40,-12.4,"Badiee, Barzin Moh",,1860.0,False,USA,0.0,1,-0.77,40,-30.8
+25666231,2024-10-01,0,Blue Ridge Open,"Dulles, VA USA",2024-09-20,2024-09-22,1909,2068,2.5,4,-0.31,40,-12.4,"Sridhar, Jagadeesh",,1848.0,False,USA,1.0,1,0.22,40,8.8
+25666231,2024-10-01,0,Blue Ridge Open,"Dulles, VA USA",2024-09-20,2024-09-22,1909,2068,2.5,4,-0.31,40,-12.4,"Moorhouse, Will",,2091.0,False,USA,0.5,1,0.03,40,1.2

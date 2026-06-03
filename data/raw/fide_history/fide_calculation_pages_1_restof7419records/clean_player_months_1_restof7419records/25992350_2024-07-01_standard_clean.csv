@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25992350,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1640,1460,0.5,5,-0.9,40,-36.0,"Arun, Kataria",,1860,True,IND,0.0,1,-0.08,40,-3.2
+25992350,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1640,1460,0.5,5,-0.9,40,-36.0,"Atamjeet, Singh",,1615,False,IND,0.0,1,-0.29,40,-11.6
+25992350,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1640,1460,0.5,5,-0.9,40,-36.0,"Chirag, Arora",,1580,False,IND,0.5,1,0.16,40,6.4
+25992350,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1640,1460,0.5,5,-0.9,40,-36.0,"Neel, Prakash Nankani",,1572,False,IND,0.0,1,-0.35,40,-14.0
+25992350,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1640,1460,0.5,5,-0.9,40,-36.0,"Yash, Dahiya",,1575,False,IND,0.0,1,-0.34,40,-13.6

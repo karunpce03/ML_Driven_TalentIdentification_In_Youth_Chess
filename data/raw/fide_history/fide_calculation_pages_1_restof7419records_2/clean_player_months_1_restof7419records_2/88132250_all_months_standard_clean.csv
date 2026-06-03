@@ -1,0 +1,16 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88132250,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,,,0.0,1,0.0,928,,"Shankhadeep, Maity",,1728.0,False,IND,0.0,1,0.0,,0.0
+88132250,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,0.0,1,0.0,921,,"Chanda, Ujan",,1721.0,False,IND,0.0,1,0.0,,0.0
+88132250,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,,,0.0,2,0.0,834,,"Sayan, Barua",,1708.0,False,IND,0.0,1,0.0,,0.0
+88132250,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,,,0.0,2,0.0,834,,"Chakraborty, Soumyadeep",,1559.0,False,IND,0.0,1,0.0,,0.0
+88132250,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.0,5,0.0,1343,,"Krishay, Jain",,1800.0,False,IND,0.0,1,0.0,,0.0
+88132250,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.0,5,0.0,1343,,"Adipto, Nath",,1609.0,False,IND,0.0,1,0.0,,0.0
+88132250,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.0,5,0.0,1343,,"Divyam, Singhania",,1457.0,False,IND,1.0,1,0.0,,0.0
+88132250,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.0,5,0.0,1343,,"Shuvayu, Datta",,1542.0,False,IND,0.0,1,0.0,,0.0
+88132250,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.0,5,0.0,1343,,"Khushal, Bagri",,1506.0,False,IND,0.0,1,0.0,,0.0
+88132250,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1767.0,1487.0,0.5,2,0.16,40,6.4,"Shankhadeep, Maity",,1823.0,False,IND,0.0,1,-0.12,40.0,-4.8
+88132250,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1767.0,1487.0,0.5,2,0.16,40,6.4,"Swarnava, Roy",,1710.0,False,IND,0.5,1,0.28,40.0,11.2
+88132250,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1678.0,1493.0,1.0,4,-0.04,40,-1.6,"Anshujit, Kumar Saha",,1664.0,False,IND,1.0,1,0.73,40.0,29.2
+88132250,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1678.0,1493.0,1.0,4,-0.04,40,-1.6,"Ishan, Sinha",,1654.0,False,IND,0.0,1,-0.29,40.0,-11.6
+88132250,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1678.0,1493.0,1.0,4,-0.04,40,-1.6,"Angshu, Ghosh",,1664.0,False,IND,0.0,1,-0.27,40.0,-10.8
+88132250,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1678.0,1493.0,1.0,4,-0.04,40,-1.6,"Tuhin, Dutta",,1728.0,False,IND,0.0,1,-0.21,40.0,-8.4

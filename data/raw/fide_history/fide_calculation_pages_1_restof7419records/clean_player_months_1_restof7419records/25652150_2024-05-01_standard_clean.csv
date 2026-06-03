@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25652150,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2099,1791,4.5,9,3.2,40,128.0,"Patil, Harshal",,2094,False,IND,1.0,1,0.86,40,34.4
+25652150,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2099,1791,4.5,9,3.2,40,128.0,"Winkelman, Albert",f,2191,True,AUS,0.0,1,-0.08,40,-3.2
+25652150,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2099,1791,4.5,9,3.2,40,128.0,"San Diego, Marie Antoinette",wm,2007,False,PHI,0.5,1,0.28,40,11.2
+25652150,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2099,1791,4.5,9,3.2,40,128.0,"Teerapabpaisit, Wisuwat",f,2051,False,THA,1.0,1,0.82,40,32.8
+25652150,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2099,1791,4.5,9,3.2,40,128.0,"Rahman, Md. Taibur",f,2166,False,BAN,0.5,1,0.41,40,16.4
+25652150,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2099,1791,4.5,9,3.2,40,128.0,"Nagare, Akhilesh",,2082,False,IND,0.5,1,0.35,40,14.0
+25652150,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2099,1791,4.5,9,3.2,40,128.0,"Wang, Zijian",,2121,False,CHN,0.5,1,0.38,40,15.2
+25652150,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2099,1791,4.5,9,3.2,40,128.0,"Frayna, Janelle Mae",wg,2189,False,PHI,0.0,1,-0.08,40,-3.2
+25652150,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2099,1791,4.5,9,3.2,40,128.0,"Khazhatuly, Alikhan",c,1989,False,KAZ,0.5,1,0.26,40,10.4

@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33474079,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1499,1517,3.0,4,0.88,40,35.2,"Hussein, Siddig Mohamed",,1732.0,False,SUD,0.0,1,-0.23,40,-9.2
+33474079,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1499,1517,3.0,4,0.88,40,35.2,"Al Wardi, Saif",,1429.0,False,OMA,1.0,1,0.38,40,15.2
+33474079,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1499,1517,3.0,4,0.88,40,35.2,"Al Wardi, Qusai",,1426.0,False,OMA,1.0,1,0.38,40,15.2
+33474079,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1499,1517,3.0,4,0.88,40,35.2,"Niyola, Pinto",,1408.0,False,IND,1.0,1,0.35,40,14.0

@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25138650,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1717,1782,4.0,8,-0.68,40,-27.2,"Nigmatov, Ortik",m,2182.0,True,UZB,0.0,1,-0.08,40,-3.2
+25138650,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1717,1782,4.0,8,-0.68,40,-27.2,"Benigni, Stefano",,1521.0,False,ITA,0.5,1,-0.32,40,-12.8
+25138650,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1717,1782,4.0,8,-0.68,40,-27.2,"Suchitraa, Viswanathan",,1483.0,False,IND,0.5,1,-0.35,40,-14.0
+25138650,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1717,1782,4.0,8,-0.68,40,-27.2,"Al Yousufi, Dawood",,1544.0,False,OMA,1.0,1,0.2,40,8.0
+25138650,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1717,1782,4.0,8,-0.68,40,-27.2,"Barghol, Fatemeh",,1617.0,False,IRI,1.0,1,0.28,40,11.2
+25138650,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1717,1782,4.0,8,-0.68,40,-27.2,"Ababneh, Ghayth",,1965.0,False,JOR,0.0,1,-0.26,40,-10.4
+25138650,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1717,1782,4.0,8,-0.68,40,-27.2,"Ilaan, Shafeek",,1498.0,False,IND,1.0,1,0.16,40,6.4
+25138650,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1717,1782,4.0,8,-0.68,40,-27.2,"Elobeid, Asim Ali",c,1925.0,False,SUD,0.0,1,-0.31,40,-12.4
+25138650,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1593,1782,3.0,4,0.09,40,3.6,"Niyola, Pinto",,1419.0,False,IND,1.0,1,0.1,40,4.0
+25138650,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1593,1782,3.0,4,0.09,40,3.6,"Harshavardhan, V",,1529.0,False,IND,1.0,1,0.19,40,7.6
+25138650,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1593,1782,3.0,4,0.09,40,3.6,"Izaan, Shafeek",,1688.0,False,IND,0.5,1,-0.13,40,-5.2
+25138650,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1593,1782,3.0,4,0.09,40,3.6,"Sinan, Shafeek",,1734.0,False,IND,0.5,1,-0.07,40,-2.8

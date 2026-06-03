@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25120522,2024-10-01,0,h2e Power Systems Maharashtra State Under 13 Open Selection FIDE Rated Chess Championship 2024,Pune IND,2024-09-20,2024-09-22,1424,1514,1.5,3,-0.36,40,-14.4,"Deshmukh, Mitansh",,1438.0,False,IND,0.0,1,-0.6,40,-24.0
+25120522,2024-10-01,0,h2e Power Systems Maharashtra State Under 13 Open Selection FIDE Rated Chess Championship 2024,Pune IND,2024-09-20,2024-09-22,1424,1514,1.5,3,-0.36,40,-14.4,"More, Varad",,1402.0,False,IND,0.5,1,-0.15,40,-6.0
+25120522,2024-10-01,0,h2e Power Systems Maharashtra State Under 13 Open Selection FIDE Rated Chess Championship 2024,Pune IND,2024-09-20,2024-09-22,1424,1514,1.5,3,-0.36,40,-14.4,"Amber, Gangwal",,1433.0,False,IND,1.0,1,0.39,40,15.6

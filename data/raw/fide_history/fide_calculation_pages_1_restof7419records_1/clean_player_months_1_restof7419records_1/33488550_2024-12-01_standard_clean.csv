@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33488550,2024-12-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY BELOW 1700 FIDE RATING TOURNAMENT,Kollam IND,2024-11-08,2024-11-10,1549,1441,1.5,4,0.08,40,3.2,"Sugunesh, Babu",,1551.0,False,IND,0.5,1,0.15,40,6.0
+33488550,2024-12-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY BELOW 1700 FIDE RATING TOURNAMENT,Kollam IND,2024-11-08,2024-11-10,1549,1441,1.5,4,0.08,40,3.2,"M Tulasi Ram, Kumar",,1552.0,False,IND,0.5,1,0.15,40,6.0
+33488550,2024-12-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY BELOW 1700 FIDE RATING TOURNAMENT,Kollam IND,2024-11-08,2024-11-10,1549,1441,1.5,4,0.08,40,3.2,"Venugopal, B",,1547.0,False,IND,0.5,1,0.14,40,5.6
+33488550,2024-12-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY BELOW 1700 FIDE RATING TOURNAMENT,Kollam IND,2024-11-08,2024-11-10,1549,1441,1.5,4,0.08,40,3.2,"Karan, Gupta",,1546.0,False,IND,0.0,1,-0.36,40,-14.4

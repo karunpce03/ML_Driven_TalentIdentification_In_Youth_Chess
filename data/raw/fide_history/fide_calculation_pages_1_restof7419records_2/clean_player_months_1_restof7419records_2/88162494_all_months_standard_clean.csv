@@ -1,0 +1,45 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88162494,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,2.5,7,0.0,1381,,"Muthukumar, M",,1548.0,False,IND,0.0,1,0.0,,0.0
+88162494,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,2.5,7,0.0,1381,,"Alexander, P",,1474.0,False,IND,1.0,1,0.0,,0.0
+88162494,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,2.5,7,0.0,1381,,"Arun, S",,1481.0,False,IND,0.0,1,0.0,,0.0
+88162494,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,2.5,7,0.0,1381,,"Mrinalini, S",,1459.0,False,IND,0.5,1,0.0,,0.0
+88162494,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,2.5,7,0.0,1381,,"Jeevana, N",,1450.0,False,IND,0.0,1,0.0,,0.0
+88162494,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,2.5,7,0.0,1381,,"Sadhana, S N",,1485.0,False,IND,0.5,1,0.0,,0.0
+88162494,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,2.5,7,0.0,1381,,"Sasidhara, Kurup C",,1482.0,False,IND,0.5,1,0.0,,0.0
+88162494,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,2.5,7,0.0,1413,,"Rohith, P",,1635.0,False,IND,0.0,1,0.0,,0.0
+88162494,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,2.5,7,0.0,1413,,"Khishore, Riddhish V",,1410.0,False,IND,0.5,1,0.0,,0.0
+88162494,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,2.5,7,0.0,1413,,"Nanthabalan, V B",,1575.0,False,IND,0.5,1,0.0,,0.0
+88162494,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,2.5,7,0.0,1413,,"Kavin, Prabhakar",,1562.0,False,IND,0.5,1,0.0,,0.0
+88162494,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,2.5,7,0.0,1413,,"Moulish, M",,1486.0,False,IND,0.0,1,0.0,,0.0
+88162494,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,2.5,7,0.0,1413,,"Sohan, Harshad S A",,1450.0,False,IND,0.5,1,0.0,,0.0
+88162494,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,2.5,7,0.0,1413,,"Rithick, Rakshan",,1485.0,False,IND,0.5,1,0.0,,0.0
+88162494,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.0,1,0.0,1441,,"Aakash, G",c,2241.0,False,IND,0.0,1,0.0,,0.0
+88162494,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1581.0,1534.0,0.5,3,-0.81,40,-32.4,"Anoop, K.m",,1557.0,False,IND,0.5,1,0.03,40.0,1.2
+88162494,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1581.0,1534.0,0.5,3,-0.81,40,-32.4,"Sarva, N",,1534.0,False,IND,0.0,1,-0.5,40.0,-20.0
+88162494,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1581.0,1534.0,0.5,3,-0.81,40,-32.4,"Dhruv, S Nair",,1651.0,False,IND,0.0,1,-0.34,40.0,-13.6
+88162494,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1563.0,1534.0,0.0,4,-1.87,40,-74.8,"Sa, Kannan",,1791.0,False,IND,0.0,1,-0.18,40.0,-7.2
+88162494,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1563.0,1534.0,0.0,4,-1.87,40,-74.8,"Yaalvendhan, Vellaichamy",,1552.0,False,IND,0.0,1,-0.47,40.0,-18.8
+88162494,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1563.0,1534.0,0.0,4,-1.87,40,-74.8,"Pondhiya, S",,1454.0,False,IND,0.0,1,-0.61,40.0,-24.4
+88162494,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1563.0,1534.0,0.0,4,-1.87,40,-74.8,"Sai, Ritheesh S",,1454.0,False,IND,0.0,1,-0.61,40.0,-24.4
+88162494,2024-10-01,0,36th Tamilnadu State Under-11 Open FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,1710.0,1427.0,0.0,1,-0.16,40,-6.4,"Anish, Ramkumar",,1710.0,False,IND,0.0,1,-0.16,40.0,-6.4
+88162494,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1579.0,1421.0,0.0,3,-0.87,40,-34.8,"Jayashri, M",,1604.0,False,IND,0.0,1,-0.26,40.0,-10.4
+88162494,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1579.0,1421.0,0.0,3,-0.87,40,-34.8,"Madhav, T",,1573.0,False,IND,0.0,1,-0.3,40.0,-12.0
+88162494,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1579.0,1421.0,0.0,3,-0.87,40,-34.8,"Shri, Shivani G",,1559.0,False,IND,0.0,1,-0.31,40.0,-12.4
+88162494,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,,,4.0,8,0.0,1503,,"Zaeem, Shanavaz",,1552.0,False,IND,0.0,1,0.0,,0.0
+88162494,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,,,4.0,8,0.0,1503,,"Kaviprakash, J",,1498.0,False,IND,1.0,1,0.0,,0.0
+88162494,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,,,4.0,8,0.0,1503,,"Duvesh, Milan P",,1529.0,False,IND,1.0,1,0.0,,0.0
+88162494,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,,,4.0,8,0.0,1503,,"Adwait, Darshan B",,1514.0,False,IND,0.0,1,0.0,,0.0
+88162494,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,,,4.0,8,0.0,1503,,"Sunil, Kumar V T",,1496.0,False,IND,0.0,1,0.0,,0.0
+88162494,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,,,4.0,8,0.0,1503,,"Namrith, Nair",,1479.0,False,IND,1.0,1,0.0,,0.0
+88162494,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,,,4.0,8,0.0,1503,,"Antony, Simethy",,1486.0,False,IND,0.0,1,0.0,,0.0
+88162494,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,,,4.0,8,0.0,1503,,Balasubramaniam.p.a,,1467.0,False,IND,1.0,1,0.0,,0.0
+88162494,2025-03-01,0,SR TROPHY PRESENTS 4TH SSS INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT,Pudukkottai IND,2025-02-01,2025-02-05,1528.0,1562.0,3.5,6,0.22,40,8.8,"Nekilan, B",,1401.0,False,IND,0.5,1,-0.21,40.0,-8.4
+88162494,2025-03-01,0,SR TROPHY PRESENTS 4TH SSS INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT,Pudukkottai IND,2025-02-01,2025-02-05,1528.0,1562.0,3.5,6,0.22,40,8.8,"Yuvan, Akhash",,1440.0,False,IND,1.0,1,0.33,40.0,13.2
+88162494,2025-03-01,0,SR TROPHY PRESENTS 4TH SSS INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT,Pudukkottai IND,2025-02-01,2025-02-05,1528.0,1562.0,3.5,6,0.22,40,8.8,"Nishanth, K V",,1447.0,False,IND,1.0,1,0.34,40.0,13.6
+88162494,2025-03-01,0,SR TROPHY PRESENTS 4TH SSS INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT,Pudukkottai IND,2025-02-01,2025-02-05,1528.0,1562.0,3.5,6,0.22,40,8.8,"Dhevarsh, Sagar V P",,1685.0,False,IND,0.5,1,0.17,40.0,6.8
+88162494,2025-03-01,0,SR TROPHY PRESENTS 4TH SSS INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT,Pudukkottai IND,2025-02-01,2025-02-05,1528.0,1562.0,3.5,6,0.22,40,8.8,"Meenakshi, Sundaram",,1719.0,False,IND,0.0,1,-0.29,40.0,-11.6
+88162494,2025-03-01,0,SR TROPHY PRESENTS 4TH SSS INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT,Pudukkottai IND,2025-02-01,2025-02-05,1528.0,1562.0,3.5,6,0.22,40,8.8,"Gurusharan, P",,1475.0,False,IND,0.5,1,-0.12,40.0,-4.8
+88162494,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1445.0,1571.0,1.5,4,-1.17,40,-46.8,"John, Winnow",,1434.0,False,IND,0.0,1,-0.68,40.0,-27.2
+88162494,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1445.0,1571.0,1.5,4,-1.17,40,-46.8,"Vaishnavi, B",,1465.0,False,IND,0.5,1,-0.14,40.0,-5.6
+88162494,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1445.0,1571.0,1.5,4,-1.17,40,-46.8,"Ashwin, R",,1448.0,False,IND,0.5,1,-0.17,40.0,-6.8
+88162494,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1445.0,1571.0,1.5,4,-1.17,40,-46.8,"Furmaan, C J",,1434.0,False,IND,0.5,1,-0.18,40.0,-7.2

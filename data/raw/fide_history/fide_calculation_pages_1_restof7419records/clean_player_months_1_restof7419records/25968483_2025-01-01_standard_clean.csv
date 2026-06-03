@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25968483,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1796,1669,4.0,9,1.0,40,40.0,"Puspal, Datta",,1791.0,False,IND,0.0,1,-0.33,40,-13.2
+25968483,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1796,1669,4.0,9,1.0,40,40.0,"Anvita, Sathi",,1556.0,False,IND,1.0,1,0.35,40,14.0
+25968483,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1796,1669,4.0,9,1.0,40,40.0,"Vishruth, B",,1796.0,False,IND,1.0,1,0.67,40,26.8
+25968483,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1796,1669,4.0,9,1.0,40,40.0,"Sagnik, Halder",,1811.0,False,IND,0.5,1,0.19,40,7.6
+25968483,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1796,1669,4.0,9,1.0,40,40.0,"Manna, Chiranjit",,1866.0,False,IND,0.0,1,-0.25,40,-10.0
+25968483,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1796,1669,4.0,9,1.0,40,40.0,"Ritesh, Maddukuri",,1833.0,False,IND,1.0,1,0.72,40,28.8
+25968483,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1796,1669,4.0,9,1.0,40,40.0,"Daniel, Ajish",,1875.0,False,IND,0.0,1,-0.24,40,-9.6
+25968483,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1796,1669,4.0,9,1.0,40,40.0,"Aarit, Kapil",,1831.0,False,IND,0.0,1,-0.29,40,-11.6
+25968483,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1796,1669,4.0,9,1.0,40,40.0,"Darsh, Shetty",,1805.0,False,IND,0.5,1,0.18,40,7.2

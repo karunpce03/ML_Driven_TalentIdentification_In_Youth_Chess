@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33404062,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1645,1485,0.0,4,-1.16,40,-46.4,"Aadhya, V",,1694.0,False,IND,0.0,1,-0.23,40,-9.2
+33404062,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1645,1485,0.0,4,-1.16,40,-46.4,"Abhyudaya, Matta",,1644.0,False,IND,0.0,1,-0.29,40,-11.6
+33404062,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1645,1485,0.0,4,-1.16,40,-46.4,"Lakshya, Nigam",,1612.0,False,IND,0.0,1,-0.33,40,-13.2
+33404062,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1645,1485,0.0,4,-1.16,40,-46.4,"Piyush, Ranjan Dubey",,1630.0,False,IND,0.0,1,-0.31,40,-12.4

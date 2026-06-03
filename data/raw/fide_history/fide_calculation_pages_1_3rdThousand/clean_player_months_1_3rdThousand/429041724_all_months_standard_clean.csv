@@ -1,0 +1,41 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429041724,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,,,0.0,4,0.0,650,,"Sangamesh, V Sugandhi",,1475.0,False,IND,0.0,1,0.0,,0.0
+429041724,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,,,0.0,4,0.0,650,,"Shobhit, Agilarasan",,1465.0,False,IND,0.0,1,0.0,,0.0
+429041724,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,,,0.0,4,0.0,650,,"Tejas, Wadhwani",,1458.0,False,IND,0.0,1,0.0,,0.0
+429041724,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,,,0.0,4,0.0,650,,"Angada, H P",,1402.0,False,IND,0.0,1,0.0,,0.0
+429041724,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,5.0,7,0.0,1549,,"Reyaan, Nobis",,1411.0,False,IND,1.0,1,0.0,,0.0
+429041724,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,5.0,7,0.0,1549,,"Perathur, Arjun Srinivasan",,1500.0,False,IND,1.0,1,0.0,,0.0
+429041724,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,5.0,7,0.0,1549,,"Devansh, Darpan Patel",,1543.0,False,IND,1.0,1,0.0,,0.0
+429041724,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,5.0,7,0.0,1549,,"Devanarayanan, Kalliyath",,1539.0,False,IND,0.0,1,0.0,,0.0
+429041724,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,5.0,7,0.0,1549,,"Kavin, Velavan",,1501.0,False,IND,0.0,1,0.0,,0.0
+429041724,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,5.0,7,0.0,1549,,"Aarav, Ravi Jhavar",,1489.0,False,IND,1.0,1,0.0,,0.0
+429041724,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,,,5.0,7,0.0,1549,,"Shri, Hari",,1438.0,False,IND,1.0,1,0.0,,0.0
+429041724,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1573.0,1683.0,1.0,4,-1.54,40,-61.6,"Darshvi, Rai",,1507.0,False,IND,1.0,1,0.27,40.0,10.8
+429041724,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1573.0,1683.0,1.0,4,-1.54,40,-61.6,"Afreed, T Khan",,1891.0,False,IND,0.0,1,-0.23,40.0,-9.2
+429041724,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1573.0,1683.0,1.0,4,-1.54,40,-61.6,"Vivaan, Parangodath",,1488.0,False,IND,0.0,1,-0.75,40.0,-30.0
+429041724,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1573.0,1683.0,1.0,4,-1.54,40,-61.6,"Pranav, Vasanthkumar Rao",,1405.0,False,IND,0.0,1,-0.83,40.0,-33.2
+429041724,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1462.0,1621.0,5.5,10,-1.61,40,-64.4,"Abhyansh, Jha",,1528.0,False,IND,1.0,1,0.37,40.0,14.8
+429041724,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1462.0,1621.0,5.5,10,-1.61,40,-64.4,"Aviraj, Roy",,1455.0,False,IND,0.5,1,-0.22,40.0,-8.8
+429041724,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1462.0,1621.0,5.5,10,-1.61,40,-64.4,"Shah, Aarav",,1463.0,False,IND,1.0,1,0.29,40.0,11.6
+429041724,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1462.0,1621.0,5.5,10,-1.61,40,-64.4,"Advik, Kumar",,1446.0,False,IND,1.0,1,0.27,40.0,10.8
+429041724,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1462.0,1621.0,5.5,10,-1.61,40,-64.4,"Ahaan, Kataruka",,1458.0,False,IND,0.0,1,-0.72,40.0,-28.8
+429041724,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1462.0,1621.0,5.5,10,-1.61,40,-64.4,"Siddharth, Chodisetti",,1409.0,False,IND,1.0,1,0.23,40.0,9.2
+429041724,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1462.0,1621.0,5.5,10,-1.61,40,-64.4,"Rishi, Raj",,1492.0,False,IND,0.0,1,-0.67,40.0,-26.8
+429041724,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1462.0,1621.0,5.5,10,-1.61,40,-64.4,"Bhavyam, Jhawar",,1485.0,False,IND,0.0,1,-0.68,40.0,-27.2
+429041724,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1462.0,1621.0,5.5,10,-1.61,40,-64.4,"Indraneel, V",,1458.0,False,IND,0.0,1,-0.72,40.0,-28.8
+429041724,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1462.0,1621.0,5.5,10,-1.61,40,-64.4,"Aharnish, Nanda",,1423.0,False,IND,1.0,1,0.24,40.0,9.6
+429041724,2025-03-01,0,Sacred Heart College Alumni Association Second International FIDE Rating Below 1800 Chess Tournament,Tirupattur IND,2025-02-14,2025-02-16,1542.0,1557.0,4.5,7,0.85,40,34.0,"Harish, Kumar G",,1406.0,False,IND,1.0,1,0.3,40.0,12.0
+429041724,2025-03-01,0,Sacred Heart College Alumni Association Second International FIDE Rating Below 1800 Chess Tournament,Tirupattur IND,2025-02-14,2025-02-16,1542.0,1557.0,4.5,7,0.85,40,34.0,"Yogesh, Loganathan",,1719.0,False,IND,0.0,1,-0.29,40.0,-11.6
+429041724,2025-03-01,0,Sacred Heart College Alumni Association Second International FIDE Rating Below 1800 Chess Tournament,Tirupattur IND,2025-02-14,2025-02-16,1542.0,1557.0,4.5,7,0.85,40,34.0,"Kathirvel, M S",,1478.0,False,IND,1.0,1,0.39,40.0,15.6
+429041724,2025-03-01,0,Sacred Heart College Alumni Association Second International FIDE Rating Below 1800 Chess Tournament,Tirupattur IND,2025-02-14,2025-02-16,1542.0,1557.0,4.5,7,0.85,40,34.0,"Harini, P",,1409.0,False,IND,1.0,1,0.3,40.0,12.0
+429041724,2025-03-01,0,Sacred Heart College Alumni Association Second International FIDE Rating Below 1800 Chess Tournament,Tirupattur IND,2025-02-14,2025-02-16,1542.0,1557.0,4.5,7,0.85,40,34.0,"Sukant, B A",,1662.0,False,IND,0.5,1,0.14,40.0,5.6
+429041724,2025-03-01,0,Sacred Heart College Alumni Association Second International FIDE Rating Below 1800 Chess Tournament,Tirupattur IND,2025-02-14,2025-02-16,1542.0,1557.0,4.5,7,0.85,40,34.0,"Harshitha, B J",,1670.0,False,IND,0.0,1,-0.35,40.0,-14.0
+429041724,2025-03-01,0,Sacred Heart College Alumni Association Second International FIDE Rating Below 1800 Chess Tournament,Tirupattur IND,2025-02-14,2025-02-16,1542.0,1557.0,4.5,7,0.85,40,34.0,"Mugishvar, K M",,1452.0,False,IND,1.0,1,0.36,40.0,14.4
+429041724,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1627.0,1591.0,5.5,8,1.89,40,75.6,"Surendra, Gupta",,1461.0,False,IND,1.0,1,0.32,40.0,12.8
+429041724,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1627.0,1591.0,5.5,8,1.89,40,75.6,"Aatman, Raval",,1667.0,False,IND,0.5,1,0.1,40.0,4.0
+429041724,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1627.0,1591.0,5.5,8,1.89,40,75.6,"Ripudaman, Singh Brar",,1666.0,False,IND,1.0,1,0.6,40.0,24.0
+429041724,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1627.0,1591.0,5.5,8,1.89,40,75.6,"Sahil, Garg",,1644.0,False,IND,1.0,1,0.57,40.0,22.8
+429041724,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1627.0,1591.0,5.5,8,1.89,40,75.6,"Vamsi, Krishna R",,1620.0,False,IND,0.0,1,-0.46,40.0,-18.4
+429041724,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1627.0,1591.0,5.5,8,1.89,40,75.6,"Sheikh, Jahan",,1639.0,False,IND,1.0,1,0.57,40.0,22.8
+429041724,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1627.0,1591.0,5.5,8,1.89,40,75.6,"Jayesh, Mishra",,1658.0,False,IND,0.0,1,-0.41,40.0,-16.4
+429041724,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1627.0,1591.0,5.5,8,1.89,40,75.6,"Hardev, Sahai",,1663.0,False,IND,1.0,1,0.6,40.0,24.0

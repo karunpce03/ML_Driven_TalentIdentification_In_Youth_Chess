@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429048508,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1550,1471,1.0,5,-0.95,40,-38.0,"Mishra, Rahul",,1564.0,False,IND,0.0,1,-0.37,40,-14.8
+429048508,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1550,1471,1.0,5,-0.95,40,-38.0,"Vasantha Kumar, M",,1548.0,False,IND,0.0,1,-0.39,40,-15.6
+429048508,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1550,1471,1.0,5,-0.95,40,-38.0,"Prakash, Bhardwaj",,1555.0,False,IND,0.0,1,-0.38,40,-15.2
+429048508,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1550,1471,1.0,5,-0.95,40,-38.0,"Prasanth, Kumar U",,1545.0,False,IND,0.5,1,0.1,40,4.0
+429048508,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1550,1471,1.0,5,-0.95,40,-38.0,"Gunaselvaram, T",,1536.0,False,IND,0.5,1,0.09,40,3.6

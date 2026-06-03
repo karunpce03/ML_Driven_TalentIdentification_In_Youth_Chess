@@ -1,0 +1,35 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33479089,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1720,1598,1.0,2,0.23,40,9.2,"Vishal, Choudary B",,1965.0,False,IND,0.0,1,-0.1,40,-4.0
+33479089,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1720,1598,1.0,2,0.23,40,9.2,"Ritul, Saai Praveen Kumar",,1474.0,False,IND,1.0,1,0.33,40,13.2
+33479089,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1600,1607,4.0,8,-0.18,40,-7.2,"Shohradova, Leyla",wc,1963.0,False,TKM,0.5,1,0.39,40,15.6
+33479089,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1600,1607,4.0,8,-0.18,40,-7.2,"Humaidan Mohamed, Alzaabi",,1739.0,False,UAE,0.0,1,-0.32,40,-12.8
+33479089,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1600,1607,4.0,8,-0.18,40,-7.2,"Ziyadullaev, Islom",,1576.0,False,UZB,0.5,1,-0.04,40,-1.6
+33479089,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1600,1607,4.0,8,-0.18,40,-7.2,"Hamad, Shuaib Al Kaff",,1525.0,False,UAE,0.0,1,-0.61,40,-24.4
+33479089,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1600,1607,4.0,8,-0.18,40,-7.2,"Pranav, Thiruppathi",,1482.0,False,IND,1.0,1,0.33,40,13.2
+33479089,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1600,1607,4.0,8,-0.18,40,-7.2,"Abdulazizov, Asilbek",,1529.0,False,UZB,0.5,1,-0.11,40,-4.4
+33479089,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1600,1607,4.0,8,-0.18,40,-7.2,"Olandag, Meghan Gabrielle",,1507.0,False,PHI,1.0,1,0.36,40,14.4
+33479089,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1600,1607,4.0,8,-0.18,40,-7.2,"Zain, Ali Shaheen",,1475.0,False,IND,0.5,1,-0.18,40,-7.2
+33479089,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1533,1607,2.0,3,0.21,40,8.4,"Kavya, Vijay Khachane",,1429.0,False,IND,1.0,1,0.27,40,10.8
+33479089,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1533,1607,2.0,3,0.21,40,8.4,"Rakshit, Raghavendra",,1480.0,False,IND,1.0,1,0.33,40,13.2
+33479089,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1533,1607,2.0,3,0.21,40,8.4,"Adel, Abdulla Saleh",,1690.0,False,YEM,0.0,1,-0.39,40,-15.6
+33479089,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1683,1608,1.5,8,-1.73,40,-69.2,"Darsith, Manoj Nair",,1902.0,False,IND,0.0,1,-0.15,40,-6.0
+33479089,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1683,1608,1.5,8,-1.73,40,-69.2,"Bakhare, Atharva",,1772.0,False,IND,0.5,1,0.22,40,8.8
+33479089,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1683,1608,1.5,8,-1.73,40,-69.2,"Hanya, Shah",,1751.0,False,IND,0.0,1,-0.31,40,-12.4
+33479089,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1683,1608,1.5,8,-1.73,40,-69.2,"Prakash, Vaishnavi",,1731.0,False,IND,0.0,1,-0.33,40,-13.2
+33479089,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1683,1608,1.5,8,-1.73,40,-69.2,"Riskin, Grigory",,1713.0,False,FID,0.0,1,-0.36,40,-14.4
+33479089,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1683,1608,1.5,8,-1.73,40,-69.2,"Al Khoori, Noora Mahmood Abdulla",,1451.0,False,UAE,0.0,1,-0.71,40,-28.4
+33479089,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1683,1608,1.5,8,-1.73,40,-69.2,"Mohamed, Hasan Alfardan",,1428.0,False,UAE,1.0,1,0.26,40,10.4
+33479089,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1683,1608,1.5,8,-1.73,40,-69.2,"Pranav, Ganesh Prabhu",,1719.0,False,IND,0.0,1,-0.35,40,-14.0
+33479089,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1613,1608,2.5,6,-0.53,40,-21.2,"Simsek, Ayaz",,1883.0,False,TUR,0.0,1,-0.17,40,-6.8
+33479089,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1613,1608,2.5,6,-0.53,40,-21.2,"Mohamed Atif, Kareem",,1477.0,False,EGY,1.0,1,0.32,40,12.8
+33479089,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1613,1608,2.5,6,-0.53,40,-21.2,"Mohit, S",,1881.0,False,IND,0.0,1,-0.17,40,-6.8
+33479089,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1613,1608,2.5,6,-0.53,40,-21.2,"Krish Ryan, Krishna",,1458.0,False,IND,0.5,1,-0.2,40,-8.0
+33479089,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1613,1608,2.5,6,-0.53,40,-21.2,"Melkumyan, Gagik",,1518.0,False,ARM,0.0,1,-0.62,40,-24.8
+33479089,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1613,1608,2.5,6,-0.53,40,-21.2,"Nilesh, Karthick",,1463.0,False,IND,1.0,1,0.31,40,12.4
+33479089,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1559,1518,2.0,4,0.21,40,8.4,"Sergazy, Dinmukhamed",,1683.0,False,KAZ,0.0,1,-0.28,40,-11.2
+33479089,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1559,1518,2.0,4,0.21,40,8.4,"Tayyeb, Usman",,1710.0,False,PAK,0.0,1,-0.25,40,-10.0
+33479089,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1559,1518,2.0,4,0.21,40,8.4,"Jawaher, Khalil",,1435.0,False,UAE,1.0,1,0.39,40,15.6
+33479089,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1559,1518,2.0,4,0.21,40,8.4,"Muna, Ali Alnuaimi",,1409.0,False,UAE,1.0,1,0.35,40,14.0
+33479089,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,1552,1526,1.5,3,0.11,40,4.4,"Cresencia, Carl Louiz",,1471.0,False,PHI,1.0,1,0.42,40,16.8
+33479089,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,1552,1526,1.5,3,0.11,40,4.4,"Aryan, Madhav Sarath",,1618.0,False,IND,0.5,1,0.13,40,5.2
+33479089,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,1552,1526,1.5,3,0.11,40,4.4,"Cresencia, Clarence Miguel",,1567.0,False,PHI,0.0,1,-0.44,40,-17.6

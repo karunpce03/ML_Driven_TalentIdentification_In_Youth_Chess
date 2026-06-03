@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48786322,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1655,1466,1.5,4,0.48,40,19.2,"Mohammed, Al Ryami",,1696.0,False,OMA,0.0,1,-0.21,40,-8.4
+48786322,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1655,1466,1.5,4,0.48,40,19.2,"Adhvik, Vigneshwaran",,1642.0,False,IND,1.0,1,0.73,40,29.2
+48786322,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1655,1466,1.5,4,0.48,40,19.2,"Al Hanai, Said Hashil",,1665.0,False,OMA,0.0,1,-0.24,40,-9.6
+48786322,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1655,1466,1.5,4,0.48,40,19.2,"Al Balushi, Rashid Ali",,1617.0,False,OMA,0.5,1,0.2,40,8.0
+48786322,2025-01-01,0,Asian Amateur Chess Championships (Women) U1700,Al Ain UAE,2024-12-15,2024-12-22,1533,1466,1.5,6,-0.97,40,-38.8,"Bhandari, Pooja",,1684.0,False,NEP,0.0,1,-0.22,40,-8.8
+48786322,2025-01-01,0,Asian Amateur Chess Championships (Women) U1700,Al Ain UAE,2024-12-15,2024-12-22,1533,1466,1.5,6,-0.97,40,-38.8,"Mikheeva, Vasilisa",,1436.0,False,FID,1.0,1,0.46,40,18.4
+48786322,2025-01-01,0,Asian Amateur Chess Championships (Women) U1700,Al Ain UAE,2024-12-15,2024-12-22,1533,1466,1.5,6,-0.97,40,-38.8,"Mouza, Nasser Alshamsi",,1588.0,False,UAE,0.0,1,-0.33,40,-13.2
+48786322,2025-01-01,0,Asian Amateur Chess Championships (Women) U1700,Al Ain UAE,2024-12-15,2024-12-22,1533,1466,1.5,6,-0.97,40,-38.8,"Mera, Abdulaziz Aidarous",,1584.0,False,UAE,0.0,1,-0.34,40,-13.6
+48786322,2025-01-01,0,Asian Amateur Chess Championships (Women) U1700,Al Ain UAE,2024-12-15,2024-12-22,1533,1466,1.5,6,-0.97,40,-38.8,"Prakash, Sadhana",,1408.0,False,SGP,0.5,1,-0.08,40,-3.2
+48786322,2025-01-01,0,Asian Amateur Chess Championships (Women) U1700,Al Ain UAE,2024-12-15,2024-12-22,1533,1466,1.5,6,-0.97,40,-38.8,"Al Khoori, Noora Mahmood Abdulla",,1498.0,False,UAE,0.0,1,-0.46,40,-18.4

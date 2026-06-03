@@ -1,0 +1,25 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429021626,2024-06-01,0,UP State U-11 Chess Championship-2024-25 (Open),Bijnor IND,2024-05-16,2024-05-18,1440,1470,0.5,1,-0.04,40,-1.6,"Divam, Talwar",,1440.0,False,IND,0.5,1,-0.04,40,-1.6
+429021626,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1851,1468,0.0,1,-0.09,40,-3.6,"Vinayak, Singh Yadav",,1851.0,False,IND,0.0,1,-0.09,40,-3.6
+429021626,2024-08-01,0,Smt Chanchal Dad Memorial Open International FIDE Rating Chess Tournament-2024,Bhilwara IND,2024-07-24,2024-07-28,1690,1464,0.0,2,-0.51,40,-20.4,"Kishan, Kumar",,1864.0,True,IND,0.0,1,-0.08,40,-3.2
+429021626,2024-08-01,0,Smt Chanchal Dad Memorial Open International FIDE Rating Chess Tournament-2024,Bhilwara IND,2024-07-24,2024-07-28,1690,1464,0.0,2,-0.51,40,-20.4,"Ojas, Maheshwari",,1515.0,False,IND,0.0,1,-0.43,40,-17.2
+429021626,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1665,1444,1.0,5,-0.13,40,-5.2,"Dileep, Tripathi",,1751.0,False,IND,0.0,1,-0.14,40,-5.6
+429021626,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1665,1444,1.0,5,-0.13,40,-5.2,"Jagannath, Behera",,1630.0,False,IND,1.0,1,0.74,40,29.6
+429021626,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1665,1444,1.0,5,-0.13,40,-5.2,"Neelabhro, Bandyopadhyay",,1725.0,False,IND,0.0,1,-0.16,40,-6.4
+429021626,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1665,1444,1.0,5,-0.13,40,-5.2,"Aryan, Verma",,1645.0,False,IND,0.0,1,-0.24,40,-9.6
+429021626,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Open FIDE Rated Chess Tournament,Agra IND,2024-08-04,2024-08-08,1665,1444,1.0,5,-0.13,40,-5.2,"Siddharth, Sarma B",,1573.0,False,IND,0.0,1,-0.33,40,-13.2
+429021626,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1481,1439,0.5,1,0.06,40,2.4,"Ilaan, Shafeek",,1481.0,False,IND,0.5,1,0.06,40,2.4
+429021626,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1607,1441,0.0,2,-0.57,40,-22.8,"Akshat, Kumar Lakhara",,1643.0,False,IND,0.0,1,-0.24,40,-9.6
+429021626,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1607,1441,0.0,2,-0.57,40,-22.8,"Kumar, Salinder",,1570.0,False,IND,0.0,1,-0.33,40,-13.2
+429021626,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1487,1418,1.0,3,-0.23,40,-9.2,"Yuven, Gaurav Jhaveri",,1400.0,False,IND,0.5,1,-0.03,40,-1.2
+429021626,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1487,1418,1.0,3,-0.23,40,-9.2,"Yadhulan, Ramesh",,1552.0,False,IND,0.5,1,0.18,40,7.2
+429021626,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1487,1418,1.0,3,-0.23,40,-9.2,"Kirthik, Vijayabaskar",,1508.0,False,IND,0.0,1,-0.38,40,-15.2
+429021626,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1532,1409,1.0,4,-0.33,40,-13.2,"Ansh, Kabra",,1525.0,False,IND,0.0,1,-0.34,40,-13.6
+429021626,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1532,1409,1.0,4,-0.33,40,-13.2,"Divam, Talwar",,1565.0,False,IND,1.0,1,0.71,40,28.4
+429021626,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1532,1409,1.0,4,-0.33,40,-13.2,"Abhiram, Dixit",,1530.0,False,IND,0.0,1,-0.34,40,-13.6
+429021626,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,1532,1409,1.0,4,-0.33,40,-13.2,"Avichal, Tripathi",,1509.0,False,IND,0.0,1,-0.36,40,-14.4
+429021626,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1586,1409,2.0,5,0.64,40,25.6,"Aditya, Saxena",,1584.0,False,IND,1.0,1,0.73,40,29.2
+429021626,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1586,1409,2.0,5,0.64,40,25.6,"Lakshya, Nigam",,1652.0,False,IND,0.0,1,-0.2,40,-8.0
+429021626,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1586,1409,2.0,5,0.64,40,25.6,"Rishant, Srivastava",,1489.0,False,IND,1.0,1,0.61,40,24.4
+429021626,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1586,1409,2.0,5,0.64,40,25.6,"Chinmay, Vajpayee",,1539.0,False,IND,0.0,1,-0.32,40,-12.8
+429021626,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1586,1409,2.0,5,0.64,40,25.6,"Vardan, Srivastava",,1667.0,False,IND,0.0,1,-0.18,40,-7.2

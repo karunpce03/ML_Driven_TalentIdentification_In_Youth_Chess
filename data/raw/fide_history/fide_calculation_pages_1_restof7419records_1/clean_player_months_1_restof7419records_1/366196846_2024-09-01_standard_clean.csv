@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366196846,2024-09-01,0,RUDAR XXVI - IM ROUND ROBIN,Pozarevac SRB,2024-07-22,2024-07-29,2254,2075,1.0,8,-1.17,40,-46.8,"Sabuk, Piotr",m,2412.0,False,POL,0.0,1,-0.12,40,-4.8
+366196846,2024-09-01,0,RUDAR XXVI - IM ROUND ROBIN,Pozarevac SRB,2024-07-22,2024-07-29,2254,2075,1.0,8,-1.17,40,-46.8,"Phatak, Aanjaneya",,2189.0,False,IND,0.0,1,-0.34,40,-13.6
+366196846,2024-09-01,0,RUDAR XXVI - IM ROUND ROBIN,Pozarevac SRB,2024-07-22,2024-07-29,2254,2075,1.0,8,-1.17,40,-46.8,"Cao, Qingfeng",,2189.0,False,CHN,0.0,1,-0.34,40,-13.6
+366196846,2024-09-01,0,RUDAR XXVI - IM ROUND ROBIN,Pozarevac SRB,2024-07-22,2024-07-29,2254,2075,1.0,8,-1.17,40,-46.8,"Milanovic, Slavisa",m,2312.0,False,MNE,0.0,1,-0.2,40,-8.0
+366196846,2024-09-01,0,RUDAR XXVI - IM ROUND ROBIN,Pozarevac SRB,2024-07-22,2024-07-29,2254,2075,1.0,8,-1.17,40,-46.8,"Md, Imran",f,2170.0,False,IND,0.0,1,-0.37,40,-14.8
+366196846,2024-09-01,0,RUDAR XXVI - IM ROUND ROBIN,Pozarevac SRB,2024-07-22,2024-07-29,2254,2075,1.0,8,-1.17,40,-46.8,"Xi, Qi",,2209.0,False,CHN,0.5,1,0.18,40,7.2
+366196846,2024-09-01,0,RUDAR XXVI - IM ROUND ROBIN,Pozarevac SRB,2024-07-22,2024-07-29,2254,2075,1.0,8,-1.17,40,-46.8,"Ilincic, Zlatko",g,2274.0,False,SRB,0.5,1,0.26,40,10.4
+366196846,2024-09-01,0,RUDAR XXVI - IM ROUND ROBIN,Pozarevac SRB,2024-07-22,2024-07-29,2254,2075,1.0,8,-1.17,40,-46.8,"Aditya, Varun Gampa",f,2277.0,False,IND,0.0,1,-0.24,40,-9.6

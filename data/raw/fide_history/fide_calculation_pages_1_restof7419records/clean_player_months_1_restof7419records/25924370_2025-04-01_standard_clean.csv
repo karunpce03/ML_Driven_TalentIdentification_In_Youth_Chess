@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25924370,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2094,2030,2.0,4,0.23,40,9.2,"Amartya, Saumitra Gupta",,1883,False,IND,1.0,1,0.3,40,12.0
+25924370,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2094,2030,2.0,4,0.23,40,9.2,"Saikat, Nath",,1888,False,IND,1.0,1,0.31,40,12.4
+25924370,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2094,2030,2.0,4,0.23,40,9.2,Harikrishnan.a.ra,m,2430,True,IND,0.0,1,-0.08,40,-3.2
+25924370,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2094,2030,2.0,4,0.23,40,9.2,"Anadkat, Kartavya",,2176,False,IND,0.0,1,-0.3,40,-12.0

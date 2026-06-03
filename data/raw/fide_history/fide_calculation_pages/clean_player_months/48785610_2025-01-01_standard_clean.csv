@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48785610,2025-01-01,0,1st Aquinas International School Below 1800 All India FIDE Rating Chess Tournament 2024,Mumbai IND,2024-12-26,2024-12-28,,,0.0,3,0.0,801,,"Bhogal, Rupesh",,1769,False,IND,0.0,1,0.0,,0.0
+48785610,2025-01-01,0,1st Aquinas International School Below 1800 All India FIDE Rating Chess Tournament 2024,Mumbai IND,2024-12-26,2024-12-28,,,0.0,3,0.0,801,,"Bavishi, Monish",,1517,False,NOR,0.0,1,0.0,,0.0
+48785610,2025-01-01,0,1st Aquinas International School Below 1800 All India FIDE Rating Chess Tournament 2024,Mumbai IND,2024-12-26,2024-12-28,,,0.0,3,0.0,801,,"Mantu, Chatterjee",,1517,False,IND,0.0,1,0.0,,0.0

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88128385,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1550,1435,1.5,5,-0.23,40,-9.2,Manav,,1576.0,False,IND,0.5,1,0.19,40,7.6
+88128385,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1550,1435,1.5,5,-0.23,40,-9.2,"Aarav, Agarwal",,1588.0,False,IND,0.5,1,0.2,40,8.0
+88128385,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1550,1435,1.5,5,-0.23,40,-9.2,"Pratham, Nayyar",,1563.0,False,IND,0.0,1,-0.33,40,-13.2
+88128385,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1550,1435,1.5,5,-0.23,40,-9.2,"Anirudh, Singh",,1511.0,False,IND,0.5,1,0.1,40,4.0
+88128385,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1550,1435,1.5,5,-0.23,40,-9.2,"Gupta, Vihaan Kamalkant",,1512.0,False,IND,0.0,1,-0.39,40,-15.6

@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25181696,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1920,1867,4.0,9,-0.12,35,-4.2,"Ahmed, Shafiq",c,2072.0,False,BAN,1.0,1,0.76,35,26.6
+25181696,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1920,1867,4.0,9,-0.12,35,-4.2,"Saptarshi, Roy",g,2267.0,True,IND,0.0,1,-0.08,35,-2.8
+25181696,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1920,1867,4.0,9,-0.12,35,-4.2,"Ziatdinov, Raset",g,2063.0,False,USA,0.0,1,-0.25,35,-8.75
+25181696,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1920,1867,4.0,9,-0.12,35,-4.2,"Dahale, Rajas",,1720.0,False,IND,0.5,1,-0.2,35,-7.0
+25181696,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1920,1867,4.0,9,-0.12,35,-4.2,"Aditya, Vikram Mishra",,1715.0,False,IND,0.5,1,-0.2,35,-7.0
+25181696,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1920,1867,4.0,9,-0.12,35,-4.2,"Neelabhro, Bandyopadhyay",,1733.0,False,IND,0.5,1,-0.18,35,-6.3
+25181696,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1920,1867,4.0,9,-0.12,35,-4.2,"Sinjan, Roy",,1734.0,False,IND,1.0,1,0.32,35,11.2
+25181696,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1920,1867,4.0,9,-0.12,35,-4.2,"Soboleva, Anastasia",,1711.0,False,RUS,0.5,1,-0.21,35,-7.35
+25181696,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1920,1867,4.0,9,-0.12,35,-4.2,"Ratnakaran, K.",m,2265.0,False,IND,0.0,1,-0.08,35,-2.8
+25181696,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1655,1867,7.0,11,-1.43,35,-50.05,"Barnil, Bikash Borah",,1566.0,False,IND,1.0,1,0.15,35,5.25
+25181696,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1655,1867,7.0,11,-1.43,35,-50.05,"Shaik, Abdul Mannan",,1667.0,False,IND,0.5,1,-0.26,35,-9.1
+25181696,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1655,1867,7.0,11,-1.43,35,-50.05,"Navaneel, Chhatui",,1685.0,False,IND,0.5,1,-0.24,35,-8.4
+25181696,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1655,1867,7.0,11,-1.43,35,-50.05,"Bhuvan, Suhas Shitole",,1687.0,False,IND,0.5,1,-0.24,35,-8.4
+25181696,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1655,1867,7.0,11,-1.43,35,-50.05,"Om, Dayanand Ramgude",,1700.0,False,IND,0.5,1,-0.22,35,-7.7
+25181696,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1655,1867,7.0,11,-1.43,35,-50.05,"Ojas, Joshi",,1705.0,False,IND,0.0,1,-0.71,35,-24.85
+25181696,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1655,1867,7.0,11,-1.43,35,-50.05,"Lakshya, Nigam",,1603.0,False,IND,1.0,1,0.18,35,6.3
+25181696,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1655,1867,7.0,11,-1.43,35,-50.05,"Sameer, Singh Shergill",,1686.0,False,IND,0.5,1,-0.24,35,-8.4
+25181696,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1655,1867,7.0,11,-1.43,35,-50.05,"Adipto, Nath",,1659.0,False,IND,0.5,1,-0.27,35,-9.45
+25181696,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1655,1867,7.0,11,-1.43,35,-50.05,"Siddharth, Samaddar",,1522.0,False,IND,1.0,1,0.11,35,3.85
+25181696,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1655,1867,7.0,11,-1.43,35,-50.05,"Diproneel, Barman",,1729.0,False,IND,1.0,1,0.31,35,10.85

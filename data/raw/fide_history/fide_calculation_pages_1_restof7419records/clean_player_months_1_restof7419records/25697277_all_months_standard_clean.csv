@@ -1,0 +1,30 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25697277,2024-05-01,0,UP State U-17 International Rating Chess Championship-2024-25 (Open),Kaushambi IND,2024-04-22,2024-04-24,1704,1618,4.0,5,2.05,40,82.0,"Shreyash, Singh",,1853.0,False,IND,1.0,1,0.79,40,31.6
+25697277,2024-05-01,0,UP State U-17 International Rating Chess Championship-2024-25 (Open),Kaushambi IND,2024-04-22,2024-04-24,1704,1618,4.0,5,2.05,40,82.0,"Shreyas, Raj",,1712.0,False,IND,1.0,1,0.63,40,25.2
+25697277,2024-05-01,0,UP State U-17 International Rating Chess Championship-2024-25 (Open),Kaushambi IND,2024-04-22,2024-04-24,1704,1618,4.0,5,2.05,40,82.0,"Arnav, Agrawal",,1848.0,False,IND,0.0,1,-0.21,40,-8.4
+25697277,2024-05-01,0,UP State U-17 International Rating Chess Championship-2024-25 (Open),Kaushambi IND,2024-04-22,2024-04-24,1704,1618,4.0,5,2.05,40,82.0,"Aarav, Gupta",,1432.0,False,IND,1.0,1,0.26,40,10.4
+25697277,2024-05-01,0,UP State U-17 International Rating Chess Championship-2024-25 (Open),Kaushambi IND,2024-04-22,2024-04-24,1704,1618,4.0,5,2.05,40,82.0,"Singhal, Keshav",,1675.0,False,IND,1.0,1,0.58,40,23.2
+25697277,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1648,1700,4.5,7,0.5,40,20.0,"Aarohi, Yadav",,1540.0,False,IND,1.0,1,0.29,40,11.6
+25697277,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1648,1700,4.5,7,0.5,40,20.0,"Shreyash, Singh",,1929.0,False,IND,0.5,1,0.29,40,11.6
+25697277,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1648,1700,4.5,7,0.5,40,20.0,"Arnav, Agrawal",,1871.0,False,IND,0.0,1,-0.27,40,-10.8
+25697277,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1648,1700,4.5,7,0.5,40,20.0,"Vidhi, Angelina",,1546.0,False,IND,0.0,1,-0.71,40,-28.4
+25697277,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1648,1700,4.5,7,0.5,40,20.0,"Aditya, Saxena",,1518.0,False,IND,1.0,1,0.26,40,10.4
+25697277,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1648,1700,4.5,7,0.5,40,20.0,"Jitendra, Sharma",,1549.0,False,IND,1.0,1,0.3,40,12.0
+25697277,2024-07-01,0,UP State Chess Championship Open-2024-25,Bijnor IND,2024-06-10,2024-06-14,1648,1700,4.5,7,0.5,40,20.0,"Abhishek, Kumar Mishra",,1580.0,False,IND,1.0,1,0.34,40,13.6
+25697277,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1677,1720,5.5,8,1.07,40,42.8,"Nabhneel, Das",,1541.0,False,IND,1.0,1,0.27,40,10.8
+25697277,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1677,1720,5.5,8,1.07,40,42.8,"Arihant, Srivastav",,1489.0,False,IND,1.0,1,0.21,40,8.4
+25697277,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1677,1720,5.5,8,1.07,40,42.8,"Prakhar, Tripathi",,1844.0,False,IND,0.5,1,0.17,40,6.8
+25697277,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1677,1720,5.5,8,1.07,40,42.8,"Bharat, Bansal",,1759.0,False,IND,0.5,1,0.05,40,2.0
+25697277,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1677,1720,5.5,8,1.07,40,42.8,"Vidhi, Angelina",,1597.0,False,IND,1.0,1,0.33,40,13.2
+25697277,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1677,1720,5.5,8,1.07,40,42.8,"Harshit, Singh",,1909.0,False,IND,0.0,1,-0.25,40,-10.0
+25697277,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1677,1720,5.5,8,1.07,40,42.8,"Maaz, Iqubal",,1734.0,False,IND,0.5,1,0.02,40,0.8
+25697277,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1677,1720,5.5,8,1.07,40,42.8,"Anuj, Keshari",,1545.0,False,IND,1.0,1,0.27,40,10.8
+25697277,2024-08-01,0,UP State U-15 Chess Championship-2024-25 (Open),Ballia IND,2024-07-10,2024-07-12,1796,1720,0.0,3,-1.21,40,-48.4,"Arnav, Agrawal",,1933.0,False,IND,0.0,1,-0.23,40,-9.2
+25697277,2024-08-01,0,UP State U-15 Chess Championship-2024-25 (Open),Ballia IND,2024-07-10,2024-07-12,1796,1720,0.0,3,-1.21,40,-48.4,"Aarav, Gupta",,1515.0,False,IND,0.0,1,-0.76,40,-30.4
+25697277,2024-08-01,0,UP State U-15 Chess Championship-2024-25 (Open),Ballia IND,2024-07-10,2024-07-12,1796,1720,0.0,3,-1.21,40,-48.4,"Shreyash, Singh",,1941.0,False,IND,0.0,1,-0.22,40,-8.8
+25697277,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1594,1714,3.0,6,-0.99,40,-39.6,"Atharva, Tyagi",,1485.0,False,IND,1.0,1,0.21,40,8.4
+25697277,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1594,1714,3.0,6,-0.99,40,-39.6,"Ajay, Santhosh Parvathareddy",f,2114.0,True,IND,0.0,1,-0.08,40,-3.2
+25697277,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1594,1714,3.0,6,-0.99,40,-39.6,"Shivansh, Sharma",,1409.0,False,IND,1.0,1,0.14,40,5.6
+25697277,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1594,1714,3.0,6,-0.99,40,-39.6,"Aarav, Agarwal",,1541.0,False,IND,0.5,1,-0.23,40,-9.2
+25697277,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1594,1714,3.0,6,-0.99,40,-39.6,"Vaibhav, Maurya",,1530.0,False,IND,0.5,1,-0.24,40,-9.6
+25697277,2025-04-01,0,UP State U-19 Chess Championship 2025-26 (Open),Sitapur IND,2025-03-25,2025-03-27,1594,1714,3.0,6,-0.99,40,-39.6,"Viyom, Bansal",,1485.0,False,IND,0.0,1,-0.79,40,-31.6

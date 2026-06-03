@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33466319,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,,,1.0,5,0.0,1266,,"Kamran, Fardad",,1620.0,False,PAK,0.0,1,0.0,,0.0
+33466319,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,,,1.0,5,0.0,1266,,"Ammar, Abdalla",,1505.0,False,UAE,1.0,1,0.0,,0.0
+33466319,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,,,1.0,5,0.0,1266,,"Philip, Sanjoy",,1511.0,False,IND,0.0,1,0.0,,0.0
+33466319,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,,,1.0,5,0.0,1266,,"Aljazi, Jasem Alsuwaidi",,1484.0,False,UAE,0.0,1,0.0,,0.0
+33466319,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,,,1.0,5,0.0,1266,,"Alhanoof, Jasem Alsuwaidi",,1412.0,False,UAE,0.0,1,0.0,,0.0
+33466319,2024-09-01,0,Think &amp; Plan August 2024-Standard,Sharjah UAE,2024-08-10,2024-08-12,1636.0,1432.0,1.0,4,-0.03,40,-1.2,"Sinno , Mohamad-Osman",,1687.0,False,LBN,1.0,1,0.81,40.0,32.4
+33466319,2024-09-01,0,Think &amp; Plan August 2024-Standard,Sharjah UAE,2024-08-10,2024-08-12,1636.0,1432.0,1.0,4,-0.03,40,-1.2,"Fakuade, Babatunde Olabode",,1801.0,False,NGR,0.0,1,-0.1,40.0,-4.0
+33466319,2024-09-01,0,Think &amp; Plan August 2024-Standard,Sharjah UAE,2024-08-10,2024-08-12,1636.0,1432.0,1.0,4,-0.03,40,-1.2,"Mahfoud, Mayyar.",,1518.0,False,SYR,0.0,1,-0.38,40.0,-15.2
+33466319,2024-09-01,0,Think &amp; Plan August 2024-Standard,Sharjah UAE,2024-08-10,2024-08-12,1636.0,1432.0,1.0,4,-0.03,40,-1.2,"Subin, Kurian Thomas",,1538.0,False,IND,0.0,1,-0.36,40.0,-14.4
+33466319,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1549.0,1431.0,0.0,2,-0.69,40,-27.6,"Nikhilesh, Karthick",,1601.0,False,IND,0.0,1,-0.28,40.0,-11.2
+33466319,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1549.0,1431.0,0.0,2,-0.69,40,-27.6,"Rivera, Ariel",,1496.0,False,PHI,0.0,1,-0.41,40.0,-16.4
+33466319,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1636.0,1403.0,1.0,3,0.37,40,14.8,"Abdulla Jassim, Albusmait",,1586.0,False,UAE,0.0,1,-0.26,40.0,-10.4
+33466319,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1636.0,1403.0,1.0,3,0.37,40,14.8,"Reyes, Danilo G.",,1688.0,False,PHI,0.0,1,-0.16,40.0,-6.4
+33466319,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1636.0,1403.0,1.0,3,0.37,40,14.8,"Nimai, Kataria",,1633.0,False,IND,1.0,1,0.79,40.0,31.6

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33397902,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1670,1458,1.5,5,0.3,40,12.0,"Vaishnavi, S K",,1677.0,False,IND,0.0,1,-0.22,40,-8.8
+33397902,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1670,1458,1.5,5,0.3,40,12.0,"Trisha, B",,1630.0,False,IND,1.0,1,0.73,40,29.2
+33397902,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1670,1458,1.5,5,0.3,40,12.0,"Jayashree, P.k.",,1846.0,False,IND,0.0,1,-0.09,40,-3.6
+33397902,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1670,1458,1.5,5,0.3,40,12.0,"Sananda, R",,1614.0,False,IND,0.0,1,-0.29,40,-11.6
+33397902,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1670,1458,1.5,5,0.3,40,12.0,"Sai, Tanishka T",,1583.0,False,IND,0.5,1,0.17,40,6.8

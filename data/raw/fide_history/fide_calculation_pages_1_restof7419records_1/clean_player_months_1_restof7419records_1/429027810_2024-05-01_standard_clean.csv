@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429027810,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1674,1476,1.0,4,-0.05,40,-2.0,"Sharma, Harish",,1876.0,True,IND,0.0,1,-0.08,40,-3.2
+429027810,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1674,1476,1.0,4,-0.05,40,-2.0,"Rakshit, Batra",,1581.0,False,IND,0.0,1,-0.36,40,-14.4
+429027810,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1674,1476,1.0,4,-0.05,40,-2.0,"Naman, Khandelwal",,1622.0,False,IND,0.5,1,0.2,40,8.0
+429027810,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1674,1476,1.0,4,-0.05,40,-2.0,"Jaikishan, Jaiswal",,1615.0,False,IND,0.5,1,0.19,40,7.6
+429027810,2024-05-01,0,UP State U-17 International Rating Chess Championship-2024-25 (Open),Kaushambi IND,2024-04-22,2024-04-24,1681,1476,2.5,5,1.22,40,48.8,"Singhal, Keshav",,1675.0,False,IND,1.0,1,0.76,40,30.4
+429027810,2024-05-01,0,UP State U-17 International Rating Chess Championship-2024-25 (Open),Kaushambi IND,2024-04-22,2024-04-24,1681,1476,2.5,5,1.22,40,48.8,"Arnav, Agrawal",,1848.0,False,IND,0.0,1,-0.1,40,-4.0
+429027810,2024-05-01,0,UP State U-17 International Rating Chess Championship-2024-25 (Open),Kaushambi IND,2024-04-22,2024-04-24,1681,1476,2.5,5,1.22,40,48.8,"Maaz, Iqubal",,1729.0,False,IND,0.5,1,0.31,40,12.4
+429027810,2024-05-01,0,UP State U-17 International Rating Chess Championship-2024-25 (Open),Kaushambi IND,2024-04-22,2024-04-24,1681,1476,2.5,5,1.22,40,48.8,"Arihant, Singh",,1441.0,False,IND,1.0,1,0.45,40,18.0
+429027810,2024-05-01,0,UP State U-17 International Rating Chess Championship-2024-25 (Open),Kaushambi IND,2024-04-22,2024-04-24,1681,1476,2.5,5,1.22,40,48.8,"Shreyas, Raj",,1712.0,False,IND,0.0,1,-0.2,40,-8.0

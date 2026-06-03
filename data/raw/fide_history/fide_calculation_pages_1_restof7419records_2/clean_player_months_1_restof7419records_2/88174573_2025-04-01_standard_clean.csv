@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88174573,2025-04-01,0,1st DPSS Chess For Everyone International FIDE Rating Chess Tournament 2025,Sagar IND,2025-03-23,2025-03-27,1582,1405,1.5,4,0.42,40,16.8,"Jaideep, Yadav",,1596.0,False,IND,0.0,1,-0.25,40,-10.0
+88174573,2025-04-01,0,1st DPSS Chess For Everyone International FIDE Rating Chess Tournament 2025,Sagar IND,2025-03-23,2025-03-27,1582,1405,1.5,4,0.42,40,16.8,"Chaubey, Bharat",,1665.0,False,IND,1.0,1,0.82,40,32.8
+88174573,2025-04-01,0,1st DPSS Chess For Everyone International FIDE Rating Chess Tournament 2025,Sagar IND,2025-03-23,2025-03-27,1582,1405,1.5,4,0.42,40,16.8,"Koshlesh, Gupta",,1523.0,False,IND,0.5,1,0.16,40,6.4
+88174573,2025-04-01,0,1st DPSS Chess For Everyone International FIDE Rating Chess Tournament 2025,Sagar IND,2025-03-23,2025-03-27,1582,1405,1.5,4,0.42,40,16.8,"Anirban, Pahari",,1545.0,False,IND,0.0,1,-0.31,40,-12.4

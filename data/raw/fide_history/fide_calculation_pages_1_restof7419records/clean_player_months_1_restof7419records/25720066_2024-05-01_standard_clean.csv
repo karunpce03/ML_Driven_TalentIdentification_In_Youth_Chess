@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25720066,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1967,1831,3.5,8,0.7,40,28.0,"Utkrisht, Tuli",,1827,False,IND,0.0,1,-0.51,40,-20.4
+25720066,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1967,1831,3.5,8,0.7,40,28.0,"Dhruv, Goel",,1745,False,IND,1.0,1,0.38,40,15.2
+25720066,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1967,1831,3.5,8,0.7,40,28.0,"Mukund, Hemant Agarwal",,2004,False,IND,0.5,1,0.23,40,9.2
+25720066,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1967,1831,3.5,8,0.7,40,28.0,"Srinivasa Rao, M.",f,2059,False,IND,1.0,1,0.79,40,31.6
+25720066,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1967,1831,3.5,8,0.7,40,28.0,"Om, Nagnath Lamkane",,1922,False,IND,0.5,1,0.12,40,4.8
+25720066,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1967,1831,3.5,8,0.7,40,28.0,"Swapnil, S. Dhopade",g,2231,True,IND,0.0,1,-0.08,40,-3.2
+25720066,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1967,1831,3.5,8,0.7,40,28.0,"Ghosh, Diptayan",g,2231,True,IND,0.0,1,-0.08,40,-3.2
+25720066,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1967,1831,3.5,8,0.7,40,28.0,"Mahir, Taneja",,1718,False,IND,0.5,1,-0.15,40,-6.0
+25720066,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2154,1831,5.5,9,4.24,40,169.6,"Frayna, Janelle Mae",wg,2189,False,PHI,0.0,1,-0.1,40,-4.0
+25720066,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2154,1831,5.5,9,4.24,40,169.6,"Lozano, Arvie",,1965,False,PHI,1.0,1,0.68,40,27.2
+25720066,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2154,1831,5.5,9,4.24,40,169.6,"Kondrak, Christoph",,2011,False,AUT,1.0,1,0.74,40,29.6
+25720066,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2154,1831,5.5,9,4.24,40,169.6,"Rahman, Md. Taibur",f,2166,False,BAN,0.5,1,0.38,40,15.2
+25720066,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2154,1831,5.5,9,4.24,40,169.6,"Ajay, Santhosh Parvathareddy",,2170,False,IND,1.0,1,0.88,40,35.2
+25720066,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2154,1831,5.5,9,4.24,40,169.6,"Lye, Lik Zang",f,2231,True,MAS,0.5,1,0.42,40,16.8
+25720066,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2154,1831,5.5,9,4.24,40,169.6,"Wagh, Suyog",f,2231,True,IND,0.5,1,0.42,40,16.8
+25720066,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2154,1831,5.5,9,4.24,40,169.6,"Drummond, Matthew",,2194,False,AUS,0.5,1,0.4,40,16.0
+25720066,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2154,1831,5.5,9,4.24,40,169.6,"Enkhtuul, Altan-Ulzii",wg,2231,True,MGL,0.5,1,0.42,40,16.8

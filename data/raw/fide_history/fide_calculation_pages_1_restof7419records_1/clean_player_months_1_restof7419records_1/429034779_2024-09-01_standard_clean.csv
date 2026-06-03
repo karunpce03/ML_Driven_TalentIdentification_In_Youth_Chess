@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429034779,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1686,1460,4.0,11,1.54,40,61.6,"Shubham, Shukla",,1835.0,False,IND,0.0,1,-0.09,40,-3.6
+429034779,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1686,1460,4.0,11,1.54,40,61.6,"Silseng, N Marak",,1720.0,False,IND,1.0,1,0.82,40,32.8
+429034779,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1686,1460,4.0,11,1.54,40,61.6,"Potluri, Supreetha",wf,1826.0,False,IND,0.0,1,-0.1,40,-4.0
+429034779,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1686,1460,4.0,11,1.54,40,61.6,"Rithwik, Reddy Upparigudam",,1735.0,False,IND,0.0,1,-0.17,40,-6.8
+429034779,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1686,1460,4.0,11,1.54,40,61.6,"Tamchi, Kache",,1681.0,False,IND,0.0,1,-0.22,40,-8.8
+429034779,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1686,1460,4.0,11,1.54,40,61.6,"Abhay, D Pendse",,1600.0,False,IND,1.0,1,0.69,40,27.6
+429034779,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1686,1460,4.0,11,1.54,40,61.6,"Ekam, Singh",,1667.0,False,IND,0.0,1,-0.23,40,-9.2
+429034779,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1686,1460,4.0,11,1.54,40,61.6,"Bensing, G Momin",,1628.0,False,IND,0.0,1,-0.28,40,-11.2
+429034779,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1686,1460,4.0,11,1.54,40,61.6,"Vanshika, Rawat",,1546.0,False,IND,1.0,1,0.62,40,24.8
+429034779,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1686,1460,4.0,11,1.54,40,61.6,"Pratham, Nayyar",,1614.0,False,IND,1.0,1,0.71,40,28.4
+429034779,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1686,1460,4.0,11,1.54,40,61.6,"Varshita, Jain",,1693.0,False,IND,0.0,1,-0.21,40,-8.4

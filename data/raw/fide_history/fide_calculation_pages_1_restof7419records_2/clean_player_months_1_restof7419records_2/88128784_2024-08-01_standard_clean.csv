@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88128784,2024-08-01,0,H2e Power Systems Maharashtra State Under 17 Girls Chess Championship 2024,Mumbai IND,2024-07-06,2024-07-08,1520,1472,2.0,4,0.19,40,7.6,"Anushka, Bapu Kutwal",,1805.0,False,IND,0.0,1,-0.12,40,-4.8
+88128784,2024-08-01,0,H2e Power Systems Maharashtra State Under 17 Girls Chess Championship 2024,Mumbai IND,2024-07-06,2024-07-08,1520,1472,2.0,4,0.19,40,7.6,"Kartiki, Narendra Gulve",,1449.0,False,IND,0.0,1,-0.53,40,-21.2
+88128784,2024-08-01,0,H2e Power Systems Maharashtra State Under 17 Girls Chess Championship 2024,Mumbai IND,2024-07-06,2024-07-08,1520,1472,2.0,4,0.19,40,7.6,"Pal, Parmisha",,1405.0,False,IND,1.0,1,0.41,40,16.4
+88128784,2024-08-01,0,H2e Power Systems Maharashtra State Under 17 Girls Chess Championship 2024,Mumbai IND,2024-07-06,2024-07-08,1520,1472,2.0,4,0.19,40,7.6,"Amaya, Roy",,1421.0,False,IND,1.0,1,0.43,40,17.2

@@ -1,0 +1,74 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366108941,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2161,1938,5.0,9,2.88,40,115.2,"Urazayev, Arystanbek",m,2338.0,True,KAZ,0.0,1,-0.08,40,-3.2
+366108941,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2161,1938,5.0,9,2.88,40,115.2,"Feng, Angela",wc,1802.0,False,AUS,1.0,1,0.32,40,12.8
+366108941,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2161,1938,5.0,9,2.88,40,115.2,"Zhang, Lanlin",,2259.0,False,CHN,1.0,1,0.87,40,34.8
+366108941,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2161,1938,5.0,9,2.88,40,115.2,"Constance, James",,2193.0,False,ENG,0.5,1,0.31,40,12.4
+366108941,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2161,1938,5.0,9,2.88,40,115.2,"Abu Sufian, Shakil",m,2206.0,False,BAN,0.0,1,-0.17,40,-6.8
+366108941,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2161,1938,5.0,9,2.88,40,115.2,"Visweswaran, K.",f,2202.0,False,IND,1.0,1,0.82,40,32.8
+366108941,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2161,1938,5.0,9,2.88,40,115.2,"Kamalsyah, Muhammad",c,2177.0,False,INA,0.5,1,0.3,40,12.0
+366108941,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2161,1938,5.0,9,2.88,40,115.2,"Amores Gago, Javier",,2141.0,False,ESP,0.5,1,0.26,40,10.4
+366108941,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2161,1938,5.0,9,2.88,40,115.2,"Teo, Hong Ming",,2128.0,False,SGP,0.5,1,0.25,40,10.0
+366108941,2024-08-01,0,XLVI Open Internacional Escacs Barbera del Valles 2024 Grup A,Barbera del Valles (Barcelona) ESP,2024-07-04,2024-07-12,2193,2053,6.0,9,3.11,40,124.4,"Kshatriya, Nitin Vekhande",c,2292.0,False,IND,0.5,1,0.3,40,12.0
+366108941,2024-08-01,0,XLVI Open Internacional Escacs Barbera del Valles 2024 Grup A,Barbera del Valles (Barcelona) ESP,2024-07-04,2024-07-12,2193,2053,6.0,9,3.11,40,124.4,"Barath, Kalyan M",c,2086.0,False,IND,0.0,1,-0.45,40,-18.0
+366108941,2024-08-01,0,XLVI Open Internacional Escacs Barbera del Valles 2024 Grup A,Barbera del Valles (Barcelona) ESP,2024-07-04,2024-07-12,2193,2053,6.0,9,3.11,40,124.4,"Lozano Casasayas, Marc",,2105.0,False,ESP,1.0,1,0.57,40,22.8
+366108941,2024-08-01,0,XLVI Open Internacional Escacs Barbera del Valles 2024 Grup A,Barbera del Valles (Barcelona) ESP,2024-07-04,2024-07-12,2193,2053,6.0,9,3.11,40,124.4,"Ocampo, Cristina",wf,2040.0,False,COL,1.0,1,0.48,40,19.2
+366108941,2024-08-01,0,XLVI Open Internacional Escacs Barbera del Valles 2024 Grup A,Barbera del Valles (Barcelona) ESP,2024-07-04,2024-07-12,2193,2053,6.0,9,3.11,40,124.4,"Thakur, Akash",f,2233.0,False,IND,0.0,1,-0.26,40,-10.4
+366108941,2024-08-01,0,XLVI Open Internacional Escacs Barbera del Valles 2024 Grup A,Barbera del Valles (Barcelona) ESP,2024-07-04,2024-07-12,2193,2053,6.0,9,3.11,40,124.4,"Fernandez Climent, Albert",,2138.0,False,ESP,1.0,1,0.62,40,24.8
+366108941,2024-08-01,0,XLVI Open Internacional Escacs Barbera del Valles 2024 Grup A,Barbera del Valles (Barcelona) ESP,2024-07-04,2024-07-12,2193,2053,6.0,9,3.11,40,124.4,"Pimpalkhare, Vedant",c,2254.0,False,IND,0.5,1,0.26,40,10.4
+366108941,2024-08-01,0,XLVI Open Internacional Escacs Barbera del Valles 2024 Grup A,Barbera del Valles (Barcelona) ESP,2024-07-04,2024-07-12,2193,2053,6.0,9,3.11,40,124.4,"Jarocka, Liwia",f wm,2228.0,False,POL,1.0,1,0.73,40,29.2
+366108941,2024-08-01,0,XLVI Open Internacional Escacs Barbera del Valles 2024 Grup A,Barbera del Valles (Barcelona) ESP,2024-07-04,2024-07-12,2193,2053,6.0,9,3.11,40,124.4,"Valenzuela Gomez, Fernando",m,2358.0,False,CHI,1.0,1,0.86,40,34.4
+366108941,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2137,2053,4.5,8,1.15,40,46.0,"Kaustuv, Kundu",m,2403.0,False,IND,0.0,1,-0.11,40,-4.4
+366108941,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2137,2053,4.5,8,1.15,40,46.0,"Sai, Mahati Alapati",wf,1953.0,False,IND,1.0,1,0.36,40,14.4
+366108941,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2137,2053,4.5,8,1.15,40,46.0,"Pawar, Harshit",f,2308.0,False,IND,0.0,1,-0.19,40,-7.6
+366108941,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2137,2053,4.5,8,1.15,40,46.0,"Chaitanya, V.",wf,2002.0,False,IND,1.0,1,0.43,40,17.2
+366108941,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2137,2053,4.5,8,1.15,40,46.0,"Berdayes Ason, Dylan Isidro",g,2453.0,True,CUB,0.0,1,-0.08,40,-3.2
+366108941,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2137,2053,4.5,8,1.15,40,46.0,"Abel, Sajan",,1946.0,False,IND,0.5,1,-0.15,40,-6.0
+366108941,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2137,2053,4.5,8,1.15,40,46.0,"Boda, Gyaneshwar",,1943.0,False,IND,1.0,1,0.35,40,14.0
+366108941,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2137,2053,4.5,8,1.15,40,46.0,"Gutierrez Espinosa, Karen",wf,2084.0,False,CUB,1.0,1,0.54,40,21.6
+366108941,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2244,2053,3.5,8,1.28,40,51.2,"Aloma Vidal, Robert",m,2428.0,False,ESP,0.0,1,-0.09,40,-3.6
+366108941,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2244,2053,3.5,8,1.28,40,51.2,"Sai, Mahati Alapati",wf,1953.0,False,IND,1.0,1,0.36,40,14.4
+366108941,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2244,2053,3.5,8,1.28,40,51.2,"Vitier Vazquez, Cristian",m,2357.0,False,CUB,1.0,1,0.86,40,34.4
+366108941,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2244,2053,3.5,8,1.28,40,51.2,"Francs, Marats",,2135.0,False,LAT,0.5,1,0.11,40,4.4
+366108941,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2244,2053,3.5,8,1.28,40,51.2,"Jankowiak, Piotr",,2126.0,False,POL,0.0,1,-0.4,40,-16.0
+366108941,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2244,2053,3.5,8,1.28,40,51.2,"Webb, Laurence E",f,2237.0,False,ENG,1.0,1,0.74,40,29.6
+366108941,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2244,2053,3.5,8,1.28,40,51.2,"Koziorowicz, Michal",f,2285.0,False,POL,0.0,1,-0.21,40,-8.4
+366108941,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2244,2053,3.5,8,1.28,40,51.2,"Narciso Dublan, Marc",g,2432.0,False,ESP,0.0,1,-0.09,40,-3.6
+366108941,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2350,2274,3.5,9,-0.07,38,-2.66,"Ravi, Teja S.",m,2404.0,False,IND,0.0,1,-0.32,38,-12.16
+366108941,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2350,2274,3.5,9,-0.07,38,-2.66,"Aradhya, Garg",f,2365.0,False,IND,0.5,1,0.12,38,4.56
+366108941,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2350,2274,3.5,9,-0.07,38,-2.66,"Jani, Kushal R",,2326.0,False,IND,0.0,1,-0.43,38,-16.34
+366108941,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2350,2274,3.5,9,-0.07,38,-2.66,"Jinan, Jomon",,2342.0,False,IND,0.5,1,0.09,38,3.42
+366108941,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2350,2274,3.5,9,-0.07,38,-2.66,"Krishnan, Ritvik",f,2303.0,False,IND,1.0,1,0.54,38,20.52
+366108941,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2350,2274,3.5,9,-0.07,38,-2.66,"Schekachikhin, Maksim",m,2353.0,False,FID,0.5,1,0.11,38,4.18
+366108941,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2350,2274,3.5,9,-0.07,38,-2.66,"Chu, Wei Chao",m,2419.0,False,CHN,0.0,1,-0.31,38,-11.78
+366108941,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2350,2274,3.5,9,-0.07,38,-2.66,"Priansh, Das",,2310.0,False,IND,1.0,1,0.55,38,20.9
+366108941,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2350,2274,3.5,9,-0.07,38,-2.66,"Nurman, Alua",wg,2330.0,False,KAZ,0.0,1,-0.42,38,-15.96
+366108941,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2316,2274,1.5,9,-2.49,38,-94.62,"Harsh, Suresh",f,2420.0,False,IND,0.0,1,-0.3,38,-11.4
+366108941,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2316,2274,1.5,9,-2.49,38,-94.62,"Mohamed, Anees M",f,2344.0,False,IND,0.0,1,-0.4,38,-15.2
+366108941,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2316,2274,1.5,9,-2.49,38,-94.62,"Abdulla, Murad",f,2321.0,False,SCO,0.0,1,-0.43,38,-16.34
+366108941,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2316,2274,1.5,9,-2.49,38,-94.62,"Sultan, Ibrahim",m,2205.0,False,UAE,0.0,1,-0.6,38,-22.8
+366108941,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2316,2274,1.5,9,-2.49,38,-94.62,"Yakubbaeva, Nilufar",wg,2241.0,False,UZB,1.0,1,0.45,38,17.1
+366108941,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2316,2274,1.5,9,-2.49,38,-94.62,"Kamalidenova, Meruert",m wg,2378.0,False,KAZ,0.0,1,-0.36,38,-13.68
+366108941,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2316,2274,1.5,9,-2.49,38,-94.62,"Luong, Phuong Hanh",wm,2225.0,False,VIE,0.0,1,-0.57,38,-21.66
+366108941,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2316,2274,1.5,9,-2.49,38,-94.62,"Socko, Monika",g wg,2402.0,False,POL,0.5,1,0.17,38,6.46
+366108941,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2316,2274,1.5,9,-2.49,38,-94.62,"Ezat, Mohamed",m,2312.0,False,EGY,0.0,1,-0.45,38,-17.1
+366108941,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2027,2274,2.0,5,-2.02,40,-80.8,"Mhamane, Sourabh",,2018.0,False,IND,1.0,1,0.19,40,7.6
+366108941,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2027,2274,2.0,5,-2.02,40,-80.8,"Mrinmoy, Rajkhowa",,2007.0,False,IND,0.5,1,-0.32,40,-12.8
+366108941,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2027,2274,2.0,5,-2.02,40,-80.8,"Swarna, Nihal",,2039.0,False,IND,0.0,1,-0.79,40,-31.6
+366108941,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2027,2274,2.0,5,-2.02,40,-80.8,"Ram, S. Krishnan",,2013.0,False,IND,0.5,1,-0.32,40,-12.8
+366108941,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2027,2274,2.0,5,-2.02,40,-80.8,"Hari, Ganesh T",,2056.0,False,IND,0.0,1,-0.78,40,-31.2
+366108941,2025-03-01,0,41e Open International d'echecs de Cappelle la Grande,CAPPELLE LA GRANDE FRA,2025-02-15,2025-02-21,2086,2096,5.5,9,0.96,40,38.4,"Defromont, Benjamin",f,2395.0,False,FRA,0.5,1,0.35,40,14.0
+366108941,2025-03-01,0,41e Open International d'echecs de Cappelle la Grande,CAPPELLE LA GRANDE FRA,2025-02-15,2025-02-21,2086,2096,5.5,9,0.96,40,38.4,"Hutois, Mickael",f,2251.0,False,FRA,0.5,1,0.21,40,8.4
+366108941,2025-03-01,0,41e Open International d'echecs de Cappelle la Grande,CAPPELLE LA GRANDE FRA,2025-02-15,2025-02-21,2086,2096,5.5,9,0.96,40,38.4,"Rousseau, Matthieu",,1898.0,False,FRA,1.0,1,0.24,40,9.6
+366108941,2025-03-01,0,41e Open International d'echecs de Cappelle la Grande,CAPPELLE LA GRANDE FRA,2025-02-15,2025-02-21,2086,2096,5.5,9,0.96,40,38.4,"Bujisho, Benjamin",m,2352.0,False,FRA,0.5,1,0.31,40,12.4
+366108941,2025-03-01,0,41e Open International d'echecs de Cappelle la Grande,CAPPELLE LA GRANDE FRA,2025-02-15,2025-02-21,2086,2096,5.5,9,0.96,40,38.4,"Le Goff, Ronan",f,2240.0,False,FRA,0.0,1,-0.31,40,-12.4
+366108941,2025-03-01,0,41e Open International d'echecs de Cappelle la Grande,CAPPELLE LA GRANDE FRA,2025-02-15,2025-02-21,2086,2096,5.5,9,0.96,40,38.4,"Saad, Gabriel",,2220.0,False,FRA,0.0,1,-0.33,40,-13.2
+366108941,2025-03-01,0,41e Open International d'echecs de Cappelle la Grande,CAPPELLE LA GRANDE FRA,2025-02-15,2025-02-21,2086,2096,5.5,9,0.96,40,38.4,"Dupuich, Pierre",,1696.0,True,FRA,1.0,1,0.08,40,3.2
+366108941,2025-03-01,0,41e Open International d'echecs de Cappelle la Grande,CAPPELLE LA GRANDE FRA,2025-02-15,2025-02-21,2086,2096,5.5,9,0.96,40,38.4,"Bangerter, Ena",,1838.0,False,SUI,1.0,1,0.18,40,7.2
+366108941,2025-03-01,0,41e Open International d'echecs de Cappelle la Grande,CAPPELLE LA GRANDE FRA,2025-02-15,2025-02-21,2086,2096,5.5,9,0.96,40,38.4,"Lion, Maurice",,1881.0,False,BEL,1.0,1,0.23,40,9.2
+366108941,2025-04-01,0,XXIII Rochefort Chess Festival - Masters,ROCHEFORT FRA,2025-02-22,2025-02-28,2110,2096,3.0,7,-0.44,40,-17.6,"Peric, Slavisa",m,1989.0,False,SRB,1.0,1,0.35,40,14.0
+366108941,2025-04-01,0,XXIII Rochefort Chess Festival - Masters,ROCHEFORT FRA,2025-02-22,2025-02-28,2110,2096,3.0,7,-0.44,40,-17.6,"Dgebuadze, Alexandre",g,2422.0,False,BEL,0.0,1,-0.13,40,-5.2
+366108941,2025-04-01,0,XXIII Rochefort Chess Festival - Masters,ROCHEFORT FRA,2025-02-22,2025-02-28,2110,2096,3.0,7,-0.44,40,-17.6,"Jouneau, Quentin",,1933.0,False,FRA,1.0,1,0.28,40,11.2
+366108941,2025-04-01,0,XXIII Rochefort Chess Festival - Masters,ROCHEFORT FRA,2025-02-22,2025-02-28,2110,2096,3.0,7,-0.44,40,-17.6,"Guezennec, Franck",f,2260.0,False,FRA,0.0,1,-0.28,40,-11.2
+366108941,2025-04-01,0,XXIII Rochefort Chess Festival - Masters,ROCHEFORT FRA,2025-02-22,2025-02-28,2110,2096,3.0,7,-0.44,40,-17.6,"Beghin, Ronan",,1975.0,False,FRA,1.0,1,0.34,40,13.6
+366108941,2025-04-01,0,XXIII Rochefort Chess Festival - Masters,ROCHEFORT FRA,2025-02-22,2025-02-28,2110,2096,3.0,7,-0.44,40,-17.6,"Shirazi, Kamran",m,2244.0,False,FRA,0.0,1,-0.3,40,-12.0
+366108941,2025-04-01,0,XXIII Rochefort Chess Festival - Masters,ROCHEFORT FRA,2025-02-22,2025-02-28,2110,2096,3.0,7,-0.44,40,-17.6,"Pavan, Karthikeya Var",,1947.0,False,IND,0.0,1,-0.7,40,-28.0

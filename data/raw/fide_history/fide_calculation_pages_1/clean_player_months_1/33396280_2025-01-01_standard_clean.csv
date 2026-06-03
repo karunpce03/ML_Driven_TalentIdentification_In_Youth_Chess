@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33396280,2025-01-01,0,2024 December Marshall Monthly FIDE - U2400,"New York, NY USA",2024-12-20,2024-12-22,1775,1524,2.5,4,1.69,40,67.6,"Goel, Raben",,1753,False,USA,0.5,1,0.29,40,11.6
+33396280,2025-01-01,0,2024 December Marshall Monthly FIDE - U2400,"New York, NY USA",2024-12-20,2024-12-22,1775,1524,2.5,4,1.69,40,67.6,"Zhou, Abigail",wc,1773,False,USA,0.5,1,0.31,40,12.4
+33396280,2025-01-01,0,2024 December Marshall Monthly FIDE - U2400,"New York, NY USA",2024-12-20,2024-12-22,1775,1524,2.5,4,1.69,40,67.6,"Kashyap, Manish",,1648,False,USA,1.0,1,0.67,40,26.8
+33396280,2025-01-01,0,2024 December Marshall Monthly FIDE - U2400,"New York, NY USA",2024-12-20,2024-12-22,1775,1524,2.5,4,1.69,40,67.6,"You, Eden",,1924,True,USA,0.5,1,0.42,40,16.8

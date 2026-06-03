@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88102777,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,,,0.0,2,0.0,754,,"Hriday, Mundada",,1587.0,False,IND,0.0,1,0.0,,0.0
+88102777,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,,,0.0,2,0.0,754,,"Dhairya, Sharma",,1521.0,False,IND,0.0,1,0.0,,0.0
+88102777,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,,,0.5,5,0.0,1182,,"Sathishkumar, L",,1602.0,False,IND,0.5,1,0.0,,0.0
+88102777,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,,,0.5,5,0.0,1182,,"Vitthal, Tukaram Khillare",,1543.0,False,IND,0.0,1,0.0,,0.0
+88102777,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,,,0.5,5,0.0,1182,,"Surya Prakash Koundinya, V",,1528.0,False,IND,0.0,1,0.0,,0.0
+88102777,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,,,0.5,5,0.0,1182,,"Lakkavathri, Vanshika",,1473.0,False,IND,0.0,1,0.0,,0.0
+88102777,2024-10-01,0,6th Marvel International Below 1800 FIDE Rated Chess Tournament,Hyderabad IND,2024-09-03,2024-09-05,,,0.5,5,0.0,1182,,"Mahathi, M",,1592.0,False,IND,0.0,1,0.0,,0.0
+88102777,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,8,0.0,1400,,"Sayyadh, Raudah",,1535.0,False,IND,0.5,1,0.0,,0.0
+88102777,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,8,0.0,1400,,"Aadhya, Krishnavajjala",,1491.0,False,IND,0.5,1,0.0,,0.0
+88102777,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,8,0.0,1400,,"Laksna, Sri R",,1461.0,False,IND,0.0,1,0.0,,0.0
+88102777,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,8,0.0,1400,,"Samriddhi, Bishnoi",,1497.0,False,IND,1.0,1,0.0,,0.0
+88102777,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,8,0.0,1400,,"Arisapu, Vedhaanshi",,1452.0,False,IND,1.0,1,0.0,,0.0
+88102777,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,8,0.0,1400,,"Aaditri, A Maheshwari",,1467.0,False,IND,0.0,1,0.0,,0.0
+88102777,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,8,0.0,1400,,"Meha, Arin A",,1462.0,False,IND,0.0,1,0.0,,0.0
+88102777,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,8,0.0,1400,,"Aarya, Agarwal",,1533.0,False,IND,0.0,1,0.0,,0.0
+88102777,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1520.0,1478.0,1.0,3,-0.35,40,-14.0,"Chakravarthi, S.v.c.",,1673.0,False,IND,0.0,1,-0.25,40.0,-10.0
+88102777,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1520.0,1478.0,1.0,3,-0.35,40,-14.0,"Jaanvi, Thota",,1443.0,False,IND,0.0,1,-0.55,40.0,-22.0
+88102777,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1520.0,1478.0,1.0,3,-0.35,40,-14.0,"Kavya, A N S S",,1443.0,False,IND,1.0,1,0.45,40.0,18.0
+88102777,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1522.0,1464.0,0.0,2,-0.85,40,-34.0,"Avyukta, Nayyar",,1411.0,False,IND,0.0,1,-0.57,40.0,-22.8
+88102777,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1522.0,1464.0,0.0,2,-0.85,40,-34.0,Pragatha,,1632.0,False,IND,0.0,1,-0.28,40.0,-11.2

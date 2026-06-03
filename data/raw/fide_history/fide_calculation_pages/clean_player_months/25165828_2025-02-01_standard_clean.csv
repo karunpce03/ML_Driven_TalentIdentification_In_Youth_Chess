@@ -1,0 +1,2 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25165828,2025-02-01,0,57th annual Liberty Bell Open - U2100,"Philadelphia, PA USA",2025-01-17,2025-01-20,1668,1499,0.0,1,-0.28,40,-11.2,"Keefe, Chris Patrick",,1668.0,False,USA,0.0,1,-0.28,40,-11.2

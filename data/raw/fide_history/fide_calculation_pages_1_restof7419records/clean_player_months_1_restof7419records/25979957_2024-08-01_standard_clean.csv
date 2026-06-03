@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25979957,2024-08-01,0,37th Tamil Nadu State Under-19 Girls Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1530,1448,1.5,4,-0.08,40,-3.2,"Diya, Jain",,1666.0,False,IND,0.0,1,-0.22,40,-8.8
+25979957,2024-08-01,0,37th Tamil Nadu State Under-19 Girls Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1530,1448,1.5,4,-0.08,40,-3.2,"Dhakshniga, T",,1628.0,False,IND,0.0,1,-0.26,40,-10.4
+25979957,2024-08-01,0,37th Tamil Nadu State Under-19 Girls Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1530,1448,1.5,4,-0.08,40,-3.2,"Hera, S",,1422.0,False,IND,0.5,1,-0.04,40,-1.6
+25979957,2024-08-01,0,37th Tamil Nadu State Under-19 Girls Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1530,1448,1.5,4,-0.08,40,-3.2,"Nishanthini, V",,1405.0,False,IND,1.0,1,0.44,40,17.6
+25979957,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1560,1431,2.0,3,0.91,40,36.4,"Gunasekaran, K.",f,1831.0,True,IND,0.0,1,-0.08,40,-3.2
+25979957,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1560,1431,2.0,3,0.91,40,36.4,"Puviyarasu, K C",,1407.0,False,IND,1.0,1,0.47,40,18.8
+25979957,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1560,1431,2.0,3,0.91,40,36.4,"Kirupa, A B",,1443.0,False,IND,1.0,1,0.52,40,20.8

@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25127705,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1648,1587,1.5,4,-0.17,40,-6.8,"Vedant, Yogesh Kale",,1740.0,False,IND,0.0,1,-0.3,40,-12.0
+25127705,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1648,1587,1.5,4,-0.17,40,-6.8,"Alhasan, Ali",,1431.0,False,KUW,0.5,1,-0.21,40,-8.4
+25127705,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1648,1587,1.5,4,-0.17,40,-6.8,"Sachin, Salam",,1718.0,False,IND,1.0,1,0.68,40,27.2
+25127705,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1648,1587,1.5,4,-0.17,40,-6.8,"Qutaiba, Sadeq Yair Almajbool",,1703.0,False,IRQ,0.0,1,-0.34,40,-13.6

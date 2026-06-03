@@ -1,0 +1,22 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45087822,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2056,2100,5.5,11,-0.83,33,-27.39,"Siddharth, Jagadeesh",m,2500.0,True,SGP,0.0,1,-0.08,33,-2.64
+45087822,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2056,2100,5.5,11,-0.83,33,-27.39,"Insara, S D Nadev",,1874.0,False,SRI,1.0,1,0.21,33,6.93
+45087822,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2056,2100,5.5,11,-0.83,33,-27.39,"Avila Pavas, Santiago",g,2495.0,False,COL,0.0,1,-0.08,33,-2.64
+45087822,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2056,2100,5.5,11,-0.83,33,-27.39,"Swarna, Nihal",,1949.0,False,IND,0.0,1,-0.7,33,-23.1
+45087822,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2056,2100,5.5,11,-0.83,33,-27.39,"Mankga, Thabang",,1817.0,False,RSA,1.0,1,0.16,33,5.28
+45087822,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2056,2100,5.5,11,-0.83,33,-27.39,"Shah, Jeet",,1946.0,False,IND,0.5,1,-0.21,33,-6.93
+45087822,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2056,2100,5.5,11,-0.83,33,-27.39,"Vihaan, Karthikeya N",,1936.0,False,IND,1.0,1,0.28,33,9.24
+45087822,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2056,2100,5.5,11,-0.83,33,-27.39,"Mrithyunjay, Mahadevan",c,1867.0,False,IND,0.0,1,-0.79,33,-26.07
+45087822,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2056,2100,5.5,11,-0.83,33,-27.39,"Sureka, Akshat",,1972.0,False,IND,1.0,1,0.33,33,10.89
+45087822,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2056,2100,5.5,11,-0.83,33,-27.39,"Dishank, Sachin Bajaj",,1893.0,False,IND,1.0,1,0.23,33,7.59
+45087822,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2056,2100,5.5,11,-0.83,33,-27.39,"De Silva, L M S T",m,2364.0,False,SRI,0.0,1,-0.18,33,-5.94
+45087822,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2236,2100,6.5,10,3.12,33,102.96,"Spiridonov, Kirill",,1917.0,False,KGZ,1.0,1,0.26,33,8.58
+45087822,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2236,2100,6.5,10,3.12,33,102.96,"Orozbaev, Eldiar",f,2381.0,False,KGZ,0.0,1,-0.16,33,-5.28
+45087822,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2236,2100,6.5,10,3.12,33,102.96,"Momunaliev, Ruslan",,1904.0,False,KGZ,1.0,1,0.25,33,8.25
+45087822,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2236,2100,6.5,10,3.12,33,102.96,"Egorov, Konstantin",c,2119.0,False,FID,1.0,1,0.53,33,17.49
+45087822,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2236,2100,6.5,10,3.12,33,102.96,"Dzhumaev, Marat",g,2361.0,False,UZB,0.5,1,0.32,33,10.56
+45087822,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2236,2100,6.5,10,3.12,33,102.96,"Kekelidze, Mikheil",g,2358.0,False,GEO,1.0,1,0.82,33,27.06
+45087822,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2236,2100,6.5,10,3.12,33,102.96,"Vahidov, Tair",g,2356.0,False,UZB,0.5,1,0.31,33,10.23
+45087822,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2236,2100,6.5,10,3.12,33,102.96,"Munkhgal, Gombosuren",g,2404.0,False,MGL,0.0,1,-0.14,33,-4.62
+45087822,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2236,2100,6.5,10,3.12,33,102.96,"Ovezdurdyyeva, Jemal",wf,2144.0,False,TKM,1.0,1,0.56,33,18.48
+45087822,2024-07-01,0,ISSYKKUL OPEN-2024 A,"Korumdu, Issyk-Kul KGZ",2024-06-23,2024-06-28,2236,2100,6.5,10,3.12,33,102.96,"Utegaliyev, Azamat",,2418.0,False,KAZ,0.5,1,0.37,33,12.21

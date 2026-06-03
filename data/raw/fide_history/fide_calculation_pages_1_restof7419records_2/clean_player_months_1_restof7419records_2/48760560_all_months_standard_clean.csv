@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48760560,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1700,1577,0.0,2,-0.77,40,-30.8,"Marcos, Marvin",,1959.0,False,PHI,0.0,1,-0.09,40,-3.6
+48760560,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1700,1577,0.0,2,-0.77,40,-30.8,"Zain, Ali Shaheen",,1441.0,False,IND,0.0,1,-0.68,40,-27.2

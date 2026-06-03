@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33415943,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1567,1457,1.5,4,0.09,40,3.6,"Mainak, Chowdhury",,1561.0,False,IND,0.0,1,-0.36,40,-14.4
+33415943,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1567,1457,1.5,4,0.09,40,3.6,"Amarjeet, Singh Bagga",,1542.0,False,IND,0.5,1,0.12,40,4.8
+33415943,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1567,1457,1.5,4,0.09,40,3.6,"Kinjal, Sardar",,1619.0,False,IND,0.5,1,0.21,40,8.4
+33415943,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,1567,1457,1.5,4,0.09,40,3.6,"Shreyan, Bag",,1545.0,False,IND,0.5,1,0.12,40,4.8
+33415943,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1674,1457,1.0,6,-0.49,40,-19.6,"Arindam, Mukherjee",,1857.0,True,IND,0.0,1,-0.08,40,-3.2
+33415943,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1674,1457,1.0,6,-0.49,40,-19.6,"Mitra, Swapan",,1857.0,True,IND,0.0,1,-0.08,40,-3.2
+33415943,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1674,1457,1.0,6,-0.49,40,-19.6,"Navaneel, Chhatui",,1551.0,False,IND,0.0,1,-0.37,40,-14.8
+33415943,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1674,1457,1.0,6,-0.49,40,-19.6,"Tathagata, Ghosh",,1583.0,False,IND,0.5,1,0.17,40,6.8
+33415943,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1674,1457,1.0,6,-0.49,40,-19.6,"Chakrabarti, Tamal",,1673.0,False,IND,0.5,1,0.28,40,11.2
+33415943,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1674,1457,1.0,6,-0.49,40,-19.6,"Ishani, Das",,1524.0,False,IND,0.0,1,-0.41,40,-16.4

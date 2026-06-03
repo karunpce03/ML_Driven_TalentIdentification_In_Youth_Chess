@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33312249,2024-07-01,0,Maharashtra State Women FIDE Rated Chess Championship-2024,Pune IND,2024-05-29,2024-05-31,1503,1435,0.5,2,-0.31,40,-12.4,"Sawant, Sanskruti",,1514.0,False,IND,0.5,1,0.11,40,4.4
+33312249,2024-07-01,0,Maharashtra State Women FIDE Rated Chess Championship-2024,Pune IND,2024-05-29,2024-05-31,1503,1435,0.5,2,-0.31,40,-12.4,"Rathi, Tanishka",,1491.0,False,IND,0.0,1,-0.42,40,-16.8

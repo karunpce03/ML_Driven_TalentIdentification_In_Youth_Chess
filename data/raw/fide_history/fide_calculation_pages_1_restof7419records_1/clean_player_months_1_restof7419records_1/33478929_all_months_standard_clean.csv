@@ -1,0 +1,27 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33478929,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1595,1476,0.0,3,-1.02,40,-40.8,"Manoj, Guru R",,1633.0,False,IND,0.0,1,-0.29,40,-11.6
+33478929,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1595,1476,0.0,3,-1.02,40,-40.8,"Sreeha, G",,1595.0,False,IND,0.0,1,-0.34,40,-13.6
+33478929,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1595,1476,0.0,3,-1.02,40,-40.8,"Aaryavrat, Rasiket Naik Desai",,1557.0,False,IND,0.0,1,-0.39,40,-15.6
+33478929,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1633,1476,2.0,5,0.51,40,20.4,"Mahendar, B",,1622.0,False,IND,0.0,1,-0.3,40,-12.0
+33478929,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1633,1476,2.0,5,0.51,40,20.4,"Shah, Paras Radhey",,1596.0,False,USA,0.0,1,-0.34,40,-13.6
+33478929,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1633,1476,2.0,5,0.51,40,20.4,"Shauryaveer, Raj",,1578.0,False,IND,1.0,1,0.64,40,25.6
+33478929,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1633,1476,2.0,5,0.51,40,20.4,"Syam, Sudhakar Rao R",,1603.0,False,IND,1.0,1,0.67,40,26.8
+33478929,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1633,1476,2.0,5,0.51,40,20.4,"Majji, Ram Charan Teja",,1766.0,False,IND,0.0,1,-0.16,40,-6.4
+33478929,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1578,1456,3.0,8,0.23,40,9.2,"Rejath, Renjith",,1782.0,False,IND,0.0,1,-0.13,40,-5.2
+33478929,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1578,1456,3.0,8,0.23,40,9.2,"Yashvir, Mohammad",,1647.0,False,IND,0.5,1,0.25,40,10.0
+33478929,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1578,1456,3.0,8,0.23,40,9.2,"Rajveer, Patil",,1636.0,False,IND,0.0,1,-0.26,40,-10.4
+33478929,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1578,1456,3.0,8,0.23,40,9.2,"Inban, R",,1663.0,False,IND,0.0,1,-0.23,40,-9.2
+33478929,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1578,1456,3.0,8,0.23,40,9.2,"Harshit, Kolluru",,1419.0,False,IND,0.5,1,-0.05,40,-2.0
+33478929,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1578,1456,3.0,8,0.23,40,9.2,"Siddharth, T",,1470.0,False,IND,1.0,1,0.52,40,20.8
+33478929,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1578,1456,3.0,8,0.23,40,9.2,"Hemanth, Reddy",,1444.0,False,IND,1.0,1,0.48,40,19.2
+33478929,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1578,1456,3.0,8,0.23,40,9.2,"Aarav, Manish Jain",,1565.0,False,IND,0.0,1,-0.35,40,-14.0
+33478929,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1593,1465,1.0,5,-0.66,40,-26.4,Aswin.p.g,,1704.0,False,IND,0.0,1,-0.2,40,-8.0
+33478929,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1593,1465,1.0,5,-0.66,40,-26.4,"Sri, Sai Vedaansh P",,1550.0,False,IND,1.0,1,0.62,40,24.8
+33478929,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1593,1465,1.0,5,-0.66,40,-26.4,"Deepthaashri, Ravi Ganesh",,1592.0,False,IND,0.0,1,-0.33,40,-13.2
+33478929,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1593,1465,1.0,5,-0.66,40,-26.4,"Manish, M",,1563.0,False,IND,0.0,1,-0.37,40,-14.8
+33478929,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1593,1465,1.0,5,-0.66,40,-26.4,"Chaitanya, Vadehra",,1555.0,False,IND,0.0,1,-0.38,40,-15.2
+33478929,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1638,1465,1.0,5,-0.47,40,-18.8,"Yashwant, B",,1863.0,False,IND,0.0,1,-0.08,40,-3.2
+33478929,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1638,1465,1.0,5,-0.47,40,-18.8,"Shaik, Abdul Mannan",,1641.0,False,IND,0.0,1,-0.27,40,-10.8
+33478929,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1638,1465,1.0,5,-0.47,40,-18.8,"Satya, Vikaram Sahi Chitrada",,1445.0,False,IND,1.0,1,0.47,40,18.8
+33478929,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1638,1465,1.0,5,-0.47,40,-18.8,"Dhinesh, K A",,1608.0,False,IND,0.0,1,-0.31,40,-12.4
+33478929,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1638,1465,1.0,5,-0.47,40,-18.8,"Harshvardhnachari, Uttaradi",,1634.0,False,IND,0.0,1,-0.28,40,-11.2

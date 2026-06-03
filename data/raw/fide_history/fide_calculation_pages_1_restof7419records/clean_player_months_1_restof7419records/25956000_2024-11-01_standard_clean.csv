@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25956000,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1602,1757,7.0,9,0.84,40,33.6,"Nikhil, Saikia",,1418.0,False,IND,1.0,1,0.12,40,4.8
+25956000,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1602,1757,7.0,9,0.84,40,33.6,"Arnob, Phukon",,1554.0,False,IND,1.0,1,0.24,40,9.6
+25956000,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1602,1757,7.0,9,0.84,40,33.6,"Rajdip, Das",,1858.0,False,IND,0.0,1,-0.36,40,-14.4
+25956000,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1602,1757,7.0,9,0.84,40,33.6,"Hritik, Gogoi",,1551.0,False,IND,0.0,1,-0.76,40,-30.4
+25956000,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1602,1757,7.0,9,0.84,40,33.6,"Sachchit, Dastidar",,1403.0,False,IND,1.0,1,0.11,40,4.4
+25956000,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1602,1757,7.0,9,0.84,40,33.6,"Pranab, Jyoti Boruah",,1533.0,False,IND,1.0,1,0.22,40,8.8
+25956000,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1602,1757,7.0,9,0.84,40,33.6,"Biswajit, Changmai",,1607.0,False,IND,1.0,1,0.3,40,12.0
+25956000,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1602,1757,7.0,9,0.84,40,33.6,"Nabam, Nikum",,1621.0,False,IND,1.0,1,0.32,40,12.8
+25956000,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1602,1757,7.0,9,0.84,40,33.6,"Rintu, Brahma",,1870.0,False,IND,1.0,1,0.65,40,26.0

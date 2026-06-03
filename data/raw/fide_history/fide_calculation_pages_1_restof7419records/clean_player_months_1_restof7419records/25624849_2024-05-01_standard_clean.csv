@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25624849,2024-05-01,0,Southend Masters 2024,Southend ENG,2024-03-28,2024-04-01,2343,2150,3.5,8,1.41,40,56.4,"Hollan, Martin",f,2347.0,False,CZE,0.0,1,-0.25,40,-10.0
+25624849,2024-05-01,0,Southend Masters 2024,Southend ENG,2024-03-28,2024-04-01,2343,2150,3.5,8,1.41,40,56.4,"Agdelen, Huseyin Can",f,2408.0,False,TUR,1.0,1,0.82,40,32.8
+25624849,2024-05-01,0,Southend Masters 2024,Southend ENG,2024-03-28,2024-04-01,2343,2150,3.5,8,1.41,40,56.4,"Lalic, Bogdan",g,2354.0,False,CRO,0.5,1,0.26,40,10.4
+25624849,2024-05-01,0,Southend Masters 2024,Southend ENG,2024-03-28,2024-04-01,2343,2150,3.5,8,1.41,40,56.4,"Fernandez, Daniel Howard",g,2532.0,False,ENG,0.0,1,-0.09,40,-3.6
+25624849,2024-05-01,0,Southend Masters 2024,Southend ENG,2024-03-28,2024-04-01,2343,2150,3.5,8,1.41,40,56.4,"Jackson, James P",m,2371.0,False,ENG,0.0,1,-0.22,40,-8.8
+25624849,2024-05-01,0,Southend Masters 2024,Southend ENG,2024-03-28,2024-04-01,2343,2150,3.5,8,1.41,40,56.4,"Bezuidenhout, Roland",f,2273.0,False,RSA,1.0,1,0.67,40,26.8
+25624849,2024-05-01,0,Southend Masters 2024,Southend ENG,2024-03-28,2024-04-01,2343,2150,3.5,8,1.41,40,56.4,"Haydon, David L",f,2241.0,False,ENG,0.5,1,0.12,40,4.8
+25624849,2024-05-01,0,Southend Masters 2024,Southend ENG,2024-03-28,2024-04-01,2343,2150,3.5,8,1.41,40,56.4,"Gallagher, Daniel Gh",,2219.0,False,ENG,0.5,1,0.1,40,4.0
+25624849,2024-05-01,0,Beckenham FIDE Rated Club Championship Round 9 - 10 April,Beckenham ENG,2024-04-10,2024-04-10,1962,2124,1.5,2,0.07,40,2.8,"Baltrunas, Evaldas",,1984.0,False,ENG,0.5,1,-0.19,40,-7.6
+25624849,2024-05-01,0,Beckenham FIDE Rated Club Championship Round 9 - 10 April,Beckenham ENG,2024-04-10,2024-04-10,1962,2124,1.5,2,0.07,40,2.8,"Smith, Mark P",,1939.0,False,ENG,1.0,1,0.26,40,10.4

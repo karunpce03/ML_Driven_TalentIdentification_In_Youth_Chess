@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33305099,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1695,1743,5.5,8,0.91,40,36.4,"Sharma, Dinesh K.",m,2143,True,IND,0.0,1,-0.08,40,-3.2
+33305099,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1695,1743,5.5,8,0.91,40,36.4,"Nadeem, Hussain Mir",,1513,False,IND,0.5,1,-0.29,40,-11.6
+33305099,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1695,1743,5.5,8,0.91,40,36.4,"Shaurya, Chaudhary",,1731,False,IND,0.5,1,-0.02,40,-0.8
+33305099,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1695,1743,5.5,8,0.91,40,36.4,"Mangal, Prasad",,1750,False,IND,0.5,1,0.01,40,0.4
+33305099,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1695,1743,5.5,8,0.91,40,36.4,"Goswami, Dr.arvind",,1596,False,IND,1.0,1,0.3,40,12.0
+33305099,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1695,1743,5.5,8,0.91,40,36.4,"Lokesh, Jangid",,1601,False,IND,1.0,1,0.31,40,12.4
+33305099,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1695,1743,5.5,8,0.91,40,36.4,"Dev, Raj",,1744,False,IND,1.0,1,0.5,40,20.0
+33305099,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1695,1743,5.5,8,0.91,40,36.4,"Achyut, Sharma",,1479,False,IND,1.0,1,0.18,40,7.2

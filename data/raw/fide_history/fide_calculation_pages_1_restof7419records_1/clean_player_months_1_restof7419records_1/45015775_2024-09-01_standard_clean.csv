@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45015775,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2360,2458,7.0,9,1.43,10,14.3,"Nilsson, Oliver",,2093.0,False,SWE,1.0,1,0.1,10,1.0
+45015775,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2360,2458,7.0,9,1.43,10,14.3,"Stabulnieks, Klavs",,2240.0,False,LAT,1.0,1,0.22,10,2.2
+45015775,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2360,2458,7.0,9,1.43,10,14.3,"Ostensen, Nicolai Maxime",c,2292.0,False,NOR,0.5,1,-0.22,10,-2.2
+45015775,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2360,2458,7.0,9,1.43,10,14.3,"John, Veny Akkarakaran",f,2322.0,False,IND,0.5,1,-0.18,10,-1.8
+45015775,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2360,2458,7.0,9,1.43,10,14.3,"Eilenberg, Jonas",f,2285.0,False,GER,1.0,1,0.27,10,2.7
+45015775,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2360,2458,7.0,9,1.43,10,14.3,"Kazakouski, Valery",g,2588.0,False,LTU,0.5,1,0.18,10,1.8
+45015775,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2360,2458,7.0,9,1.43,10,14.3,"Povshednyi, Ivan",c,2242.0,False,UKR,1.0,1,0.22,10,2.2
+45015775,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2360,2458,7.0,9,1.43,10,14.3,"Piorun, Kacper",g,2603.0,False,POL,1.0,1,0.69,10,6.9
+45015775,2024-09-01,0,Riga Technical University Open 2024 - Tournament A,Riga LAT,2024-08-05,2024-08-11,2360,2458,7.0,9,1.43,10,14.3,"Laurusas, Tomas",g,2571.0,False,LTU,0.5,1,0.15,10,1.5
+45015775,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2336,2458,4.5,9,-1.48,10,-14.8,"Stevanic, David",f,2312.0,False,SLO,0.5,1,-0.2,10,-2.0
+45015775,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2336,2458,4.5,9,-1.48,10,-14.8,"Nandhidhaa, P V",wg,2323.0,False,IND,0.5,1,-0.18,10,-1.8
+45015775,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2336,2458,4.5,9,-1.48,10,-14.8,"Aziz, Husain",m,2326.0,False,QAT,0.0,1,-0.68,10,-6.8
+45015775,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2336,2458,4.5,9,-1.48,10,-14.8,"Sukiasyan, Vahe A.",f,2347.0,False,ARM,0.5,1,-0.15,10,-1.5
+45015775,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2336,2458,4.5,9,-1.48,10,-14.8,"Aquino, Jethro Dino",f,2316.0,False,PHI,0.0,1,-0.69,10,-6.9
+45015775,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2336,2458,4.5,9,-1.48,10,-14.8,"Rohit, S",f,2311.0,False,IND,1.0,1,0.3,10,3.0
+45015775,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2336,2458,4.5,9,-1.48,10,-14.8,"Aakash Sharadchandra, Dalvi",,2332.0,False,IND,1.0,1,0.33,10,3.3
+45015775,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2336,2458,4.5,9,-1.48,10,-14.8,"Mohamed, Anees M",f,2370.0,False,IND,1.0,1,0.38,10,3.8
+45015775,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2336,2458,4.5,9,-1.48,10,-14.8,"Xie, Kaifan",c,2391.0,False,CHN,0.0,1,-0.59,10,-5.9

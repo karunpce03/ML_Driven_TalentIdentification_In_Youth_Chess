@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Lavyaajyoti, Routray",,1789,True,IND,0.5,1,-0.42,40,-16.8
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Abhinav, Anand",,1794,False,IND,1.0,1,0.08,40,3.2
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Vijay, Kumar",,1885,False,IND,1.0,1,0.14,40,5.6
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Gupta, Abhijeet",g,2583,False,IND,1.0,1,0.92,40,36.8
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Ajay, Karthikeyan",m,2401,False,IND,0.5,1,0.27,40,10.8
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Vignesh, N R",g,2526,False,IND,0.5,1,0.38,40,15.2
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Iniyan, Pa",g,2547,False,IND,0.5,1,0.4,40,16.0
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Soumick, Bandopadhyay",,1857,False,IND,0.5,1,-0.38,40,-15.2
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Mhamane, Sourabh",,1884,False,IND,1.0,1,0.14,40,5.6
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Das, Sayantan",g,2491,False,IND,0.5,1,0.35,40,14.0
+25792059,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2198,2189,7.5,11,2.17,40,86.8,"Deepan, Chakkravarthy J.",g,2423,False,IND,0.5,1,0.29,40,11.6

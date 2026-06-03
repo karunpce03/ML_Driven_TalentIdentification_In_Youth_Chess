@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25116886,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1648,1661,4.5,8,0.4,40,16.0,"Bhupender, Singh Yadav",,1477.0,False,IND,1.0,1,0.26,40,10.4
+25116886,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1648,1661,4.5,8,0.4,40,16.0,"Arnav, Mahesh Koli",,1842.0,False,IND,0.5,1,0.24,40,9.6
+25116886,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1648,1661,4.5,8,0.4,40,16.0,"Gouransh, Sharma",,1775.0,False,IND,1.0,1,0.66,40,26.4
+25116886,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1648,1661,4.5,8,0.4,40,16.0,"Gopal, Krishna Maheshwari",,1770.0,False,IND,0.0,1,-0.35,40,-14.0
+25116886,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1648,1661,4.5,8,0.4,40,16.0,"Mahendra, Singh Umat",,1557.0,False,IND,1.0,1,0.36,40,14.4
+25116886,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1648,1661,4.5,8,0.4,40,16.0,"Ramanuj, Mishra",,1745.0,False,IND,0.0,1,-0.38,40,-15.2
+25116886,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1648,1661,4.5,8,0.4,40,16.0,"Hade, Shantanu",,1564.0,False,IND,0.5,1,-0.13,40,-5.2
+25116886,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1648,1661,4.5,8,0.4,40,16.0,"Ayan, Asthana",,1456.0,False,IND,0.5,1,-0.26,40,-10.4

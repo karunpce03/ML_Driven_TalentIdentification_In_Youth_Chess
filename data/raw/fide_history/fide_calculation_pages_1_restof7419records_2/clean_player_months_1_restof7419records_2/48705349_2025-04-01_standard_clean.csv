@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48705349,2025-04-01,0,SNCL_Division_2_2024-2025 Rounds 5-6,Dunfermline SCO,2025-02-23,2025-02-23,1789,1613,2.0,2,1.45,40,58.0,"Whittaker, Ian P",,1733.0,False,SCO,1.0,1,0.66,40,26.4
+48705349,2025-04-01,0,SNCL_Division_2_2024-2025 Rounds 5-6,Dunfermline SCO,2025-02-23,2025-02-23,1789,1613,2.0,2,1.45,40,58.0,"Watson-McFie, Joseph",,1845.0,False,SCO,1.0,1,0.79,40,31.6

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33444552,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1933,1744,3.5,11,0.37,40,14.8,"Ang, Ern Jie Anderson",c,2144,True,MAS,0.5,1,0.42,40,16.8
+33444552,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1933,1744,3.5,11,0.37,40,14.8,"Stribuk, Artiom",m,2144,True,FID,0.0,1,-0.08,40,-3.2
+33444552,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1933,1744,3.5,11,0.37,40,14.8,"Halynyazov, Vepaly",,2058,False,TKM,0.0,1,-0.14,40,-5.6
+33444552,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1933,1744,3.5,11,0.37,40,14.8,"Matsumura, Cocoro",,2033,False,JPN,1.0,1,0.84,40,33.6
+33444552,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1933,1744,3.5,11,0.37,40,14.8,"Bhoir, Paras Dilip",,2016,False,IND,0.0,1,-0.17,40,-6.8
+33444552,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1933,1744,3.5,11,0.37,40,14.8,"Vihaan, Karthikeya N",,1936,False,IND,0.0,1,-0.25,40,-10.0
+33444552,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1933,1744,3.5,11,0.37,40,14.8,"Bedi, Vaibhav",,1706,False,AHO,1.0,1,0.45,40,18.0
+33444552,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1933,1744,3.5,11,0.37,40,14.8,"Radojicic, Aleksandar M",,2088,False,SRB,0.0,1,-0.12,40,-4.8
+33444552,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1933,1744,3.5,11,0.37,40,14.8,"Makwana, Devam",,1820,False,IND,0.0,1,-0.4,40,-16.0
+33444552,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1933,1744,3.5,11,0.37,40,14.8,"Dhairya, Amit Shroff",,1459,False,CAN,1.0,1,0.16,40,6.4
+33444552,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1933,1744,3.5,11,0.37,40,14.8,"Borkhetariya, Devarsh M",,1864,False,IND,0.0,1,-0.34,40,-13.6

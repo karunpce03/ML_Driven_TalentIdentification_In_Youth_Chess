@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25120387,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2017,1816,6.0,11,3.14,40,125.6,"Dinh, Nho Kiet",f,2216,True,VIE,0.0,1,-0.08,40,-3.2
+25120387,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2017,1816,6.0,11,3.14,40,125.6,"De Bortolo, Artur Mattos",,1634,False,BRA,1.0,1,0.26,40,10.4
+25120387,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2017,1816,6.0,11,3.14,40,125.6,"Federer, Colin",,2185,False,SUI,0.5,1,0.4,40,16.0
+25120387,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2017,1816,6.0,11,3.14,40,125.6,"Calcada, Lucas Galvan",,1961,False,BRA,0.5,1,0.19,40,7.6
+25120387,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2017,1816,6.0,11,3.14,40,125.6,"Kviriashvili, Andria",,2077,False,GEO,0.5,1,0.32,40,12.8
+25120387,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2017,1816,6.0,11,3.14,40,125.6,"Costantino, Claudio Emanuele",,2028,False,ITA,1.0,1,0.77,40,30.8
+25120387,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2017,1816,6.0,11,3.14,40,125.6,"Lehocz, Jozsef Jr.",,2020,False,HUN,0.5,1,0.26,40,10.4
+25120387,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2017,1816,6.0,11,3.14,40,125.6,"Reyes Zavaleta, Cristhian Yamil",,2044,False,PER,1.0,1,0.79,40,31.6
+25120387,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2017,1816,6.0,11,3.14,40,125.6,"Nguyen, Vuong Tung Lam",,2055,False,VIE,0.0,1,-0.2,40,-8.0
+25120387,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2017,1816,6.0,11,3.14,40,125.6,"Omarsson, Josef",,2047,False,ISL,0.0,1,-0.21,40,-8.4
+25120387,2024-12-01,0,FIDE World Youth Chess Championship 2024 U14 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2017,1816,6.0,11,3.14,40,125.6,"Mesic, Ado",,1922,False,BIH,1.0,1,0.64,40,25.6

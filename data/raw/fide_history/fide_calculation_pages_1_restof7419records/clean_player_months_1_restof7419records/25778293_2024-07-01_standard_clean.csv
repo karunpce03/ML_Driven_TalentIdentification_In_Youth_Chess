@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25778293,2024-07-01,0,Muenchner Open A 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-26,2024-06-02,2060,1817,3.0,8,1.38,40,55.2,"Tunka, Philipp",,2027.0,False,GER,0.0,1,-0.23,40,-9.2
+25778293,2024-07-01,0,Muenchner Open A 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-26,2024-06-02,2060,1817,3.0,8,1.38,40,55.2,"Waddington, Mike P",f,1988.0,False,ENG,0.0,1,-0.27,40,-10.8
+25778293,2024-07-01,0,Muenchner Open A 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-26,2024-06-02,2060,1817,3.0,8,1.38,40,55.2,"Kehloul Gutierrez, Sadek",,1981.0,False,ESP,1.0,1,0.72,40,28.8
+25778293,2024-07-01,0,Muenchner Open A 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-26,2024-06-02,2060,1817,3.0,8,1.38,40,55.2,"Kauppala, Pekka",,2025.0,False,FIN,0.5,1,0.27,40,10.8
+25778293,2024-07-01,0,Muenchner Open A 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-26,2024-06-02,2060,1817,3.0,8,1.38,40,55.2,"Turel, Tugrul",,2070.0,False,TUR,1.0,1,0.81,40,32.4
+25778293,2024-07-01,0,Muenchner Open A 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-26,2024-06-02,2060,1817,3.0,8,1.38,40,55.2,"Rozycki, Bartlomiej",,2140.0,False,POL,0.5,1,0.37,40,14.8
+25778293,2024-07-01,0,Muenchner Open A 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-26,2024-06-02,2060,1817,3.0,8,1.38,40,55.2,"Tan, Zhong Kai",,2083.0,False,SGP,0.0,1,-0.18,40,-7.2
+25778293,2024-07-01,0,Muenchner Open A 2024 im 2. Muenchner Schachfestival,Muenchen GER,2024-05-26,2024-06-02,2060,1817,3.0,8,1.38,40,55.2,"Reinhard, Simon",,2165.0,False,GER,0.0,1,-0.11,40,-4.4

@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48779954,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1653,1450,0.5,3,-0.22,40,-8.8,"Al Hanai, Said Hashil",,1665.0,False,OMA,0.0,1,-0.23,40,-9.2
+48779954,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1653,1450,0.5,3,-0.22,40,-8.8,"Izaan, Shafeek",,1651.0,False,IND,0.0,1,-0.24,40,-9.6
+48779954,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1653,1450,0.5,3,-0.22,40,-8.8,"Adhvik, Vigneshwaran",,1642.0,False,IND,0.5,1,0.25,40,10.0

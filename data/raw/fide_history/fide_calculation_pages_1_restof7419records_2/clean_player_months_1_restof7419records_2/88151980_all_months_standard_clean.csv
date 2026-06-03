@@ -1,0 +1,27 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88151980,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,0.0,2,0.0,705,,"Mithilesh, P",,1601.0,False,IND,0.0,1,0.0,,0.0
+88151980,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,0.0,2,0.0,705,,"Vaishnav, Nair",,1408.0,False,IND,0.0,1,0.0,,0.0
+88151980,2024-10-01,0,36th Tamilnadu State Under-11 Girls FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,,,1.5,4,0.0,1439,,"Dhanyashree, R",,1605.0,False,IND,0.5,1,0.0,,0.0
+88151980,2024-10-01,0,36th Tamilnadu State Under-11 Girls FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,,,1.5,4,0.0,1439,,"Laksna, Sri R",,1464.0,False,IND,1.0,1,0.0,,0.0
+88151980,2024-10-01,0,36th Tamilnadu State Under-11 Girls FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,,,1.5,4,0.0,1439,,"Srinika, S",,1598.0,False,IND,0.0,1,0.0,,0.0
+88151980,2024-10-01,0,36th Tamilnadu State Under-11 Girls FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,,,1.5,4,0.0,1439,,"Fecilika, Fiance S",,1438.0,False,IND,0.0,1,0.0,,0.0
+88151980,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1420,,"Dhanyashree, R",,1535.0,False,IND,0.0,1,0.0,,0.0
+88151980,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1420,,"Aaditri, A Maheshwari",,1467.0,False,IND,0.0,1,0.0,,0.0
+88151980,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1420,,"Swara, Deepak Phasge",,1413.0,False,IND,1.0,1,0.0,,0.0
+88151980,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1420,,"Tanishka, Ramasubramanian",,1450.0,False,IND,0.5,1,0.0,,0.0
+88151980,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1420,,"Anointah, A",,1470.0,False,IND,0.0,1,0.0,,0.0
+88151980,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1420,,"Koli, Anuja Ajitkumar",,1617.0,False,IND,1.0,1,0.0,,0.0
+88151980,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1420,,"Avyukta, Nayyar",,1549.0,False,IND,0.5,1,0.0,,0.0
+88151980,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1420,,"Mugdha, Keot",,1485.0,False,IND,0.0,1,0.0,,0.0
+88151980,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1420,,"Aadvika, Sahu",,1486.0,False,IND,1.0,1,0.0,,0.0
+88151980,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,4.0,10,0.0,1420,,"Srijita, Das",,1451.0,False,IND,0.0,1,0.0,,0.0
+88151980,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1640.0,1474.0,0.5,3,-0.4,40,-16.0,"Thiyagarajan, Tamilselvi",,1786.0,False,IND,0.0,1,-0.14,40.0,-5.6
+88151980,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1640.0,1474.0,0.5,3,-0.4,40,-16.0,"Balaji, P",,1666.0,False,IND,0.0,1,-0.25,40.0,-10.0
+88151980,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1640.0,1474.0,0.5,3,-0.4,40,-16.0,"Shree, Hariharan P",,1467.0,False,IND,0.5,1,-0.01,40.0,-0.4
+88151980,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,1720.0,1474.0,1.0,5,-0.03,40,-1.2,"Kanishka, S",,1874.0,True,IND,0.0,1,-0.08,40.0,-3.2
+88151980,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,1720.0,1474.0,1.0,5,-0.03,40,-1.2,"Jayashri, M",,1623.0,False,IND,0.0,1,-0.3,40.0,-12.0
+88151980,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,1720.0,1474.0,1.0,5,-0.03,40,-1.2,"Shiyonika, J",,1653.0,False,IND,1.0,1,0.73,40.0,29.2
+88151980,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,1720.0,1474.0,1.0,5,-0.03,40,-1.2,"Rajasurya, J.",wf,1705.0,False,IND,0.0,1,-0.21,40.0,-8.4
+88151980,2025-02-01,0,54th Tamil Nadu State Women Chess Championship,Thoothukudi IND,2025-01-16,2025-01-20,1720.0,1474.0,1.0,5,-0.03,40,-1.2,"Jegatha, B",,1744.0,False,IND,0.0,1,-0.17,40.0,-6.8
+88151980,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1628.0,1457.0,0.0,2,-0.56,40,-22.4,"Raposo, Maxwell",,1653.0,False,IND,0.0,1,-0.25,40.0,-10.0
+88151980,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1628.0,1457.0,0.0,2,-0.56,40,-22.4,"Dheekshika, G",,1602.0,False,IND,0.0,1,-0.31,40.0,-12.4

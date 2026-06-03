@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88168360,2024-05-01,0,5th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-06,2024-04-07,,,0.0,3,0.0,658,,"Adam, Hamzy",,1542,False,SYR,0.0,1,0.0,,0.0
+88168360,2024-05-01,0,5th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-06,2024-04-07,,,0.0,3,0.0,658,,"Spivakovskyy, Sergiy",,1430,False,UKR,0.0,1,0.0,,0.0
+88168360,2024-05-01,0,5th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-06,2024-04-07,,,0.0,3,0.0,658,,"Vaishnavi, Iyer",,1401,False,IND,0.0,1,0.0,,0.0
+88168360,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,,,2.0,4,0.0,1471,,"Lulwa, Khalifa Alhammadi",,1408,False,UAE,1.0,1,0.0,,0.0
+88168360,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,,,2.0,4,0.0,1471,,"Jai, Anand",,1501,False,IND,0.0,1,0.0,,0.0
+88168360,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,,,2.0,4,0.0,1471,,"Lakshmi, Saikrishna Pachipulusu",,1506,False,IND,0.0,1,0.0,,0.0
+88168360,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,,,2.0,4,0.0,1471,,"Skander, Ali Alblooshi",,1470,False,UAE,1.0,1,0.0,,0.0

@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+46694919,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2271,2352,6.5,11,0.21,20,4.2,"Insara, S D Nadev",,1952,True,SRI,1.0,1,0.08,20,1.6
+46694919,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2271,2352,6.5,11,0.21,20,4.2,"Siddharth, Jagadeesh",m,2525,False,SGP,0.0,1,-0.27,20,-5.4
+46694919,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2271,2352,6.5,11,0.21,20,4.2,"Sharon, Rafael",,2015,False,ZAM,1.0,1,0.12,20,2.4
+46694919,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2271,2352,6.5,11,0.21,20,4.2,"Mishra, Abhimanyu",g,2627,False,USA,1.0,1,0.83,20,16.6
+46694919,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2271,2352,6.5,11,0.21,20,4.2,"Quizon, Daniel",m,2448,False,PHI,0.0,1,-0.37,20,-7.4
+46694919,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2271,2352,6.5,11,0.21,20,4.2,"Jyotshnav, Talukdar",,1952,True,IND,1.0,1,0.08,20,1.6
+46694919,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2271,2352,6.5,11,0.21,20,4.2,"Avila Pavas, Santiago",g,2495,False,COL,0.5,1,0.19,20,3.8
+46694919,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2271,2352,6.5,11,0.21,20,4.2,"Ilamparthi, A R",m,2446,False,IND,0.5,1,0.13,20,2.6
+46694919,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2271,2352,6.5,11,0.21,20,4.2,"Prraneeth, Vuppala",c,2436,False,IND,0.0,1,-0.38,20,-7.6
+46694919,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2271,2352,6.5,11,0.21,20,4.2,"Jihan, Tejas Shah",,1956,False,IND,0.5,1,-0.42,20,-8.4
+46694919,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2271,2352,6.5,11,0.21,20,4.2,"Sushanth, Kamabathula",,2131,False,IND,1.0,1,0.22,20,4.4
+46694919,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2321,2352,5.5,9,0.76,20,15.2,"Kuhn, Morten",,1952,True,DEN,1.0,1,0.08,20,1.6
+46694919,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2321,2352,5.5,9,0.76,20,15.2,"Pattnayak, Nilsu",,2113,False,IND,1.0,1,0.2,20,4.0
+46694919,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2321,2352,5.5,9,0.76,20,15.2,"Babula, Vlastimil",g,2521,False,CZE,0.5,1,0.22,20,4.4
+46694919,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2321,2352,5.5,9,0.76,20,15.2,"Michalik, Peter",g,2576,False,CZE,0.5,1,0.28,20,5.6
+46694919,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2321,2352,5.5,9,0.76,20,15.2,"Kusa, Jakub",f,2423,False,CZE,0.0,1,-0.4,20,-8.0
+46694919,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2321,2352,5.5,9,0.76,20,15.2,"Francs, Marats",,2127,False,LAT,1.0,1,0.22,20,4.4
+46694919,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2321,2352,5.5,9,0.76,20,15.2,"Iturrizaga Bonelli, Eduardo",g,2590,False,ESP,0.5,1,0.3,20,6.0
+46694919,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2321,2352,5.5,9,0.76,20,15.2,"Agmanov, Zhandos",m,2464,False,KAZ,0.5,1,0.15,20,3.0
+46694919,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2321,2352,5.5,9,0.76,20,15.2,"Sultan, Ibrahim",m,2121,False,UAE,0.5,1,-0.29,20,-5.8

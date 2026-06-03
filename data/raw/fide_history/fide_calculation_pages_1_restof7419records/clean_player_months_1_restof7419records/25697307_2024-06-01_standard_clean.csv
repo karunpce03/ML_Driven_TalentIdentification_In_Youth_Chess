@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25697307,2024-06-01,0,45eme Open de l'Ascension d'Issy-les-Moulineaux,ISSY LES MOULINEAUX FRA,2024-05-09,2024-05-12,2084,1921,5.0,6,3.17,40,126.8,"Sperat Czar, Nicolas",,2175.0,False,FRA,1.0,1,0.81,40,32.4
+25697307,2024-06-01,0,45eme Open de l'Ascension d'Issy-les-Moulineaux,ISSY LES MOULINEAUX FRA,2024-05-09,2024-05-12,2084,1921,5.0,6,3.17,40,126.8,"Lapitski, Yaroslav",,2085.0,False,FID,1.0,1,0.72,40,28.8
+25697307,2024-06-01,0,45eme Open de l'Ascension d'Issy-les-Moulineaux,ISSY LES MOULINEAUX FRA,2024-05-09,2024-05-12,2084,1921,5.0,6,3.17,40,126.8,"Guilleux, Fabien",m,2321.0,True,FRA,1.0,1,0.92,40,36.8
+25697307,2024-06-01,0,45eme Open de l'Ascension d'Issy-les-Moulineaux,ISSY LES MOULINEAUX FRA,2024-05-09,2024-05-12,2084,1921,5.0,6,3.17,40,126.8,"Kavciyan, Yega",,2146.0,False,FRA,0.5,1,0.28,40,11.2
+25697307,2024-06-01,0,45eme Open de l'Ascension d'Issy-les-Moulineaux,ISSY LES MOULINEAUX FRA,2024-05-09,2024-05-12,2084,1921,5.0,6,3.17,40,126.8,"Bernard, Noam",,1649.0,False,FRA,1.0,1,0.17,40,6.8
+25697307,2024-06-01,0,45eme Open de l'Ascension d'Issy-les-Moulineaux,ISSY LES MOULINEAUX FRA,2024-05-09,2024-05-12,2084,1921,5.0,6,3.17,40,126.8,"Machin, Guillaume",c,2129.0,False,FRA,0.5,1,0.27,40,10.8
+25697307,2024-06-01,0,SixDays Budapest May 2024 U2250,Budapest HUN,2024-05-16,2024-05-21,1980,1921,4.0,6,1.42,40,56.8,"Tang, Tsz Sang",,1751.0,False,HKG,1.0,1,0.28,40,11.2
+25697307,2024-06-01,0,SixDays Budapest May 2024 U2250,Budapest HUN,2024-05-16,2024-05-21,1980,1921,4.0,6,1.42,40,56.8,"Pasztor, Ferenc",f,2100.0,False,HUN,1.0,1,0.73,40,29.2
+25697307,2024-06-01,0,SixDays Budapest May 2024 U2250,Budapest HUN,2024-05-16,2024-05-21,1980,1921,4.0,6,1.42,40,56.8,"Varga, Csaba Zoltan",f,2149.0,False,HUN,0.0,1,-0.21,40,-8.4
+25697307,2024-06-01,0,SixDays Budapest May 2024 U2250,Budapest HUN,2024-05-16,2024-05-21,1980,1921,4.0,6,1.42,40,56.8,"Smolinski, Wojciech",,1778.0,False,POL,0.5,1,-0.19,40,-7.6
+25697307,2024-06-01,0,SixDays Budapest May 2024 U2250,Budapest HUN,2024-05-16,2024-05-21,1980,1921,4.0,6,1.42,40,56.8,"Wieczorek, Jakub",,1890.0,False,POL,1.0,1,0.46,40,18.4
+25697307,2024-06-01,0,SixDays Budapest May 2024 U2250,Budapest HUN,2024-05-16,2024-05-21,1980,1921,4.0,6,1.42,40,56.8,"Halak, Miklos",f,2212.0,False,HUN,0.5,1,0.35,40,14.0

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33440344,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2093,1805,4.5,9,2.89,40,115.6,"Kapoor, Satvik",,1930,False,SGP,0.0,1,-0.33,40,-13.2
+33440344,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2093,1805,4.5,9,2.89,40,115.6,"Skytte, Robert",,1925,False,DEN,0.5,1,0.16,40,6.4
+33440344,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2093,1805,4.5,9,2.89,40,115.6,"Gatzke, Carolin",,1933,False,GER,1.0,1,0.67,40,26.8
+33440344,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2093,1805,4.5,9,2.89,40,115.6,"Rom, Jasper",,2169,False,PHI,1.0,1,0.9,40,36.0
+33440344,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2093,1805,4.5,9,2.89,40,115.6,"Aquino, Jethro Dino",f,2205,True,PHI,0.5,1,0.42,40,16.8
+33440344,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2093,1805,4.5,9,2.89,40,115.6,"Gong, Qianyun",wg,2205,True,SGP,0.0,1,-0.08,40,-3.2
+33440344,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2093,1805,4.5,9,2.89,40,115.6,"Bivor, Adak",,2060,False,IND,1.0,1,0.81,40,32.4
+33440344,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2093,1805,4.5,9,2.89,40,115.6,"Gong, Daniel Hanwen",f,2205,True,NZL,0.5,1,0.42,40,16.8
+33440344,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2093,1805,4.5,9,2.89,40,115.6,"Dimakiling, Oliver",m,2205,True,PHI,0.0,1,-0.08,40,-3.2

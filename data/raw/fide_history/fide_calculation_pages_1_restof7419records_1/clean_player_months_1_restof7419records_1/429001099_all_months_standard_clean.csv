@@ -1,0 +1,38 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429001099,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,,,0.0,2,0.0,816,,"Tamizhanban, N",,1711.0,False,IND,0.0,1,0.0,,0.0
+429001099,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,,,0.0,2,0.0,816,,"Joe, Gladson L",,1520.0,False,IND,0.0,1,0.0,,0.0
+429001099,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,1.0,3,0.0,1289,,"Jaison, S J",,1420.0,False,IND,0.0,1,0.0,,0.0
+429001099,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,1.0,3,0.0,1289,,Balakrishnan,,1413.0,False,IND,0.5,1,0.0,,0.0
+429001099,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,1.0,3,0.0,1289,,"Navin, T",,1410.0,False,IND,0.5,1,0.0,,0.0
+429001099,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,,,1.5,6,0.0,1348,,"Mayoogh, A N",,1620.0,False,IND,0.0,1,0.0,,0.0
+429001099,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,,,1.5,6,0.0,1348,,"Anirudh, S S",,1538.0,False,IND,0.5,1,0.0,,0.0
+429001099,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,,,1.5,6,0.0,1348,,"Tinu, S",,1532.0,False,IND,0.5,1,0.0,,0.0
+429001099,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,,,1.5,6,0.0,1348,,"Kaushik, S",,1543.0,False,IND,0.0,1,0.0,,0.0
+429001099,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,,,1.5,6,0.0,1348,,"Rohith, S Navneet",,1569.0,False,IND,0.0,1,0.0,,0.0
+429001099,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,,,1.5,6,0.0,1348,,"Mac, Kafel M",,1444.0,False,IND,0.5,1,0.0,,0.0
+429001099,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,1578.0,1421.0,0.0,2,-0.59,40,-23.6,"Murugan, V",,1566.0,False,IND,0.0,1,-0.31,40.0,-12.4
+429001099,2024-10-01,0,International Below 1600 FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-09-13,2024-09-15,1578.0,1421.0,0.0,2,-0.59,40,-23.6,"Sola, Laxminarayana",,1590.0,False,IND,0.0,1,-0.28,40.0,-11.2
+429001099,2024-12-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY BELOW 1700 FIDE RATING TOURNAMENT,Kollam IND,2024-11-08,2024-11-10,,,0.5,4,0.0,1215,,"Chinnadurai, S.",,1534.0,False,IND,0.0,1,0.0,,0.0
+429001099,2024-12-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY BELOW 1700 FIDE RATING TOURNAMENT,Kollam IND,2024-11-08,2024-11-10,,,0.5,4,0.0,1215,,"Abdu, Rahiman Kallangodan",,1548.0,False,IND,0.5,1,0.0,,0.0
+429001099,2024-12-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY BELOW 1700 FIDE RATING TOURNAMENT,Kollam IND,2024-11-08,2024-11-10,,,0.5,4,0.0,1215,,"Jairam, P",,1545.0,False,IND,0.0,1,0.0,,0.0
+429001099,2024-12-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY BELOW 1700 FIDE RATING TOURNAMENT,Kollam IND,2024-11-08,2024-11-10,,,0.5,4,0.0,1215,,"Moidutty, Elangoly",,1522.0,False,IND,0.0,1,0.0,,0.0
+429001099,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1426,,"Chinthapatla, Dhanvin Ram",,1442.0,False,IND,0.5,1,0.0,,0.0
+429001099,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1426,,"Adrush, Karmakar",,1437.0,False,IND,0.0,1,0.0,,0.0
+429001099,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1426,,"Sanikommu, Harshith Reddy",,1444.0,False,IND,1.0,1,0.0,,0.0
+429001099,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1426,,"Lella, Devaansh",,1564.0,False,IND,0.0,1,0.0,,0.0
+429001099,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1426,,"Kavish, Saxena",,1444.0,False,IND,1.0,1,0.0,,0.0
+429001099,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1426,,"Samadarshi, Das",,1483.0,False,IND,0.5,1,0.0,,0.0
+429001099,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1426,,"Hrudesh, Panigrahi",,1464.0,False,IND,0.0,1,0.0,,0.0
+429001099,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1426,,"Prachurjya, Changmai",,1434.0,False,IND,0.0,1,0.0,,0.0
+429001099,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1426,,"Shawn, Joy",,1495.0,False,IND,0.5,1,0.0,,0.0
+429001099,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1426,,"Mantik, Iyer",,1415.0,False,IND,1.0,1,0.0,,0.0
+429001099,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,5.0,8,0.0,1533,,"Sanikommu, Harshith Reddy",,1444.0,False,IND,0.5,1,0.0,,0.0
+429001099,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,5.0,8,0.0,1533,,"Gajjar, Dewarth",,1431.0,False,IND,1.0,1,0.0,,0.0
+429001099,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,5.0,8,0.0,1533,,"Akshith, Done",,1633.0,False,IND,1.0,1,0.0,,0.0
+429001099,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,5.0,8,0.0,1533,,"Vedhik, Viswanath",,1478.0,False,IND,0.0,1,0.0,,0.0
+429001099,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,5.0,8,0.0,1533,,"Kirthik, Vijayabaskar",,1508.0,False,IND,0.5,1,0.0,,0.0
+429001099,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,5.0,8,0.0,1533,,"Nishanth, M S",,1446.0,False,IND,1.0,1,0.0,,0.0
+429001099,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,5.0,8,0.0,1533,,"Yadhulan, Ramesh",,1552.0,False,IND,0.0,1,0.0,,0.0
+429001099,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,5.0,8,0.0,1533,,"Singh, Rivaan",,1449.0,False,IND,1.0,1,0.0,,0.0
+429001099,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1625.0,1484.0,1.0,2,0.29,40,11.6,"Kishore, V",,1838.0,False,IND,0.0,1,-0.11,40.0,-4.4
+429001099,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1625.0,1484.0,1.0,2,0.29,40,11.6,"Dhanabala, Bhoopathy T V",,1412.0,False,IND,1.0,1,0.4,40.0,16.0

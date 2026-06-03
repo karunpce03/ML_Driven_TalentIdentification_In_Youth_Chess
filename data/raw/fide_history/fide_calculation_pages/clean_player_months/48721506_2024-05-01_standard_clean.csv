@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48721506,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Challlenger 2024,Nakhon Nayok THA,2024-04-06,2024-04-09,1527,1578,2.5,4,0.21,40,8.4,"Koh, Hui Qi",,1464.0,False,MAS,1.0,1,0.34,40,13.6
+48721506,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Challlenger 2024,Nakhon Nayok THA,2024-04-06,2024-04-09,1527,1578,2.5,4,0.21,40,8.4,"Saenpoch, Kansak",,1628.0,False,THA,0.5,1,0.07,40,2.8
+48721506,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Challlenger 2024,Nakhon Nayok THA,2024-04-06,2024-04-09,1527,1578,2.5,4,0.21,40,8.4,"Ishchenko-Giller, Matvii",,1507.0,False,UKR,0.5,1,-0.1,40,-4.0
+48721506,2024-05-01,0,2nd Chess CAD Nakhon Nayok International Challlenger 2024,Nakhon Nayok THA,2024-04-06,2024-04-09,1527,1578,2.5,4,0.21,40,8.4,"Jeswin, Jayakumar",,1507.0,False,IND,0.5,1,-0.1,40,-4.0
+48721506,2024-05-01,0,21st Bangkok Chess Club Challenger 2024,Hua Hin THA,2024-04-13,2024-04-21,1736,1578,1.0,5,-0.53,40,-21.2,"Maniero, Andrea",,1861.0,False,ITA,0.0,1,-0.16,40,-6.4
+48721506,2024-05-01,0,21st Bangkok Chess Club Challenger 2024,Hua Hin THA,2024-04-13,2024-04-21,1736,1578,1.0,5,-0.53,40,-21.2,"Olorosisimo, Hans Ezekiel",,1812.0,False,PHI,0.0,1,-0.21,40,-8.4
+48721506,2024-05-01,0,21st Bangkok Chess Club Challenger 2024,Hua Hin THA,2024-04-13,2024-04-21,1736,1578,1.0,5,-0.53,40,-21.2,"Trinkl, Andreas",,1791.0,False,GER,0.5,1,0.27,40,10.8
+48721506,2024-05-01,0,21st Bangkok Chess Club Challenger 2024,Hua Hin THA,2024-04-13,2024-04-21,1736,1578,1.0,5,-0.53,40,-21.2,"Tsang, Bobby",,1468.0,False,ENG,0.5,1,-0.15,40,-6.0
+48721506,2024-05-01,0,21st Bangkok Chess Club Challenger 2024,Hua Hin THA,2024-04-13,2024-04-21,1736,1578,1.0,5,-0.53,40,-21.2,"Tejada, Rizalyn Jasmine",,1746.0,False,PHI,0.0,1,-0.28,40,-11.2

@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88138593,2024-09-01,0,"UIn Sports : 2nd International Below 1800 FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-08-16,2024-08-18,,,0.0,2,0.0,645,,"Swaraj, Kale",,1446,False,IND,0.0,1,0.0,,0.0
+88138593,2024-09-01,0,"UIn Sports : 2nd International Below 1800 FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-08-16,2024-08-18,,,0.0,2,0.0,645,,"Himanshu, Makhija",,1443,False,IND,0.0,1,0.0,,0.0

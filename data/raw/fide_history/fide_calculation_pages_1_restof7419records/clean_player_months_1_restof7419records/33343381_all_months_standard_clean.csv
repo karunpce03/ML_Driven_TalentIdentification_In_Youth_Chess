@@ -1,0 +1,36 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33343381,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1620,1585,2.5,5,0.15,40,6.0,"Rafeaa, Ameer.",,1464.0,False,SYR,1.0,1,0.34,40,13.6
+33343381,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1620,1585,2.5,5,0.15,40,6.0,"Shashish, Subbiah",,1727.0,False,IND,0.0,1,-0.31,40,-12.4
+33343381,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1620,1585,2.5,5,0.15,40,6.0,"Ghaliah Mohamed, Almaeeni",,1448.0,False,UAE,1.0,1,0.32,40,12.8
+33343381,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1620,1585,2.5,5,0.15,40,6.0,"Chakresh, Ganesan",,1516.0,False,IND,0.5,1,-0.1,40,-4.0
+33343381,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1620,1585,2.5,5,0.15,40,6.0,"Sameir, Ramez",,1943.0,False,EGY,0.0,1,-0.1,40,-4.0
+33343381,2024-09-01,0,Think &amp; Plan August 2024-Standard,Sharjah UAE,2024-08-10,2024-08-12,1716,1591,2.5,5,0.68,40,27.2,"Arnab, Jena",,1932.0,False,IND,0.0,1,-0.12,40,-4.8
+33343381,2024-09-01,0,Think &amp; Plan August 2024-Standard,Sharjah UAE,2024-08-10,2024-08-12,1716,1591,2.5,5,0.68,40,27.2,"McDonald, Margaret",,1454.0,False,FRA,1.0,1,0.32,40,12.8
+33343381,2024-09-01,0,Think &amp; Plan August 2024-Standard,Sharjah UAE,2024-08-10,2024-08-12,1716,1591,2.5,5,0.68,40,27.2,"Zain, Ali Shaheen",,1477.0,False,IND,1.0,1,0.34,40,13.6
+33343381,2024-09-01,0,Think &amp; Plan August 2024-Standard,Sharjah UAE,2024-08-10,2024-08-12,1716,1591,2.5,5,0.68,40,27.2,"Rashid, Husain Alhammadi",,1802.0,False,UAE,0.5,1,0.27,40,10.8
+33343381,2024-09-01,0,Think &amp; Plan August 2024-Standard,Sharjah UAE,2024-08-10,2024-08-12,1716,1591,2.5,5,0.68,40,27.2,"Sameir, Ramez",,1915.0,False,EGY,0.0,1,-0.13,40,-5.2
+33343381,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1674,1618,2.0,4,0.22,40,8.8,"Adit, Sood",,1440.0,False,IND,1.0,1,0.27,40,10.8
+33343381,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1674,1618,2.0,4,0.22,40,8.8,"Marcos, Marvin",,1951.0,False,PHI,0.0,1,-0.12,40,-4.8
+33343381,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1674,1618,2.0,4,0.22,40,8.8,"Islam Hamdy, Yamen",,1414.0,False,EGY,1.0,1,0.24,40,9.6
+33343381,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1674,1618,2.0,4,0.22,40,8.8,"Sameir, Ramez",,1891.0,False,EGY,0.0,1,-0.17,40,-6.8
+33343381,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1572,1618,4.0,5,1.2,40,48.0,"Sajin, Dwijendralal",,1438.0,False,IND,1.0,1,0.26,40,10.4
+33343381,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1572,1618,4.0,5,1.2,40,48.0,"Haneen, Gamal Amin",,1449.0,False,UAE,1.0,1,0.28,40,11.2
+33343381,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1572,1618,4.0,5,1.2,40,48.0,"Mokhtar, Omar.",,1724.0,False,SYR,0.0,1,-0.36,40,-14.4
+33343381,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1572,1618,4.0,5,1.2,40,48.0,"Kavyansh, Srivastava",,1448.0,False,IND,1.0,1,0.28,40,11.2
+33343381,2024-10-01,0,Dubai September Standard Tournament 2024,Dubai UAE,2024-09-20,2024-09-22,1572,1618,4.0,5,1.2,40,48.0,"Humaidan Mohamed, Alzaabi",,1799.0,False,UAE,1.0,1,0.74,40,29.6
+33343381,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1710,1675,1.5,4,-0.35,40,-14.0,"Philip, Sanjoy",,1490.0,False,IND,1.0,1,0.26,40,10.4
+33343381,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1710,1675,1.5,4,-0.35,40,-14.0,"Mohamed, Saeed Laily",c,1958.0,False,UAE,0.5,1,0.34,40,13.6
+33343381,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1710,1675,1.5,4,-0.35,40,-14.0,"Shashish, Subbiah",,1831.0,False,IND,0.0,1,-0.29,40,-11.6
+33343381,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1710,1675,1.5,4,-0.35,40,-14.0,"Chakresh, Ganesan",,1561.0,False,IND,0.0,1,-0.66,40,-26.4
+33343381,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1638,1661,5.0,6,1.84,40,73.6,"Kanzah, Fathima Jaser",,1455.0,False,IND,1.0,1,0.24,40,9.6
+33343381,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1638,1661,5.0,6,1.84,40,73.6,"Deshmukh, Omm",,1519.0,False,IND,1.0,1,0.31,40,12.4
+33343381,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1638,1661,5.0,6,1.84,40,73.6,"Mokhtar, Omar.",,1708.0,False,SYR,1.0,1,0.57,40,22.8
+33343381,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1638,1661,5.0,6,1.84,40,73.6,"Muhammad, Shayan Noushad Ibrahim",,1736.0,False,IND,1.0,1,0.6,40,24.0
+33343381,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1638,1661,5.0,6,1.84,40,73.6,"Dev, Sankar S",,1709.0,False,IND,0.0,1,-0.43,40,-17.2
+33343381,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1638,1661,5.0,6,1.84,40,73.6,"Reyes, Danilo G.",,1698.0,False,PHI,1.0,1,0.55,40,22.0
+33343381,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1795,1735,2.5,6,-0.02,40,-0.8,"Sultan, Ahmed Almheiri",,1574.0,False,UAE,1.0,1,0.29,40,11.6
+33343381,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1795,1735,2.5,6,-0.02,40,-0.8,"Elnemr, Mohamed",,1957.0,False,EGY,1.0,1,0.78,40,31.2
+33343381,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1795,1735,2.5,6,-0.02,40,-0.8,"Kamran, Fardad",,1756.0,False,PAK,0.5,1,0.03,40,1.2
+33343381,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1795,1735,2.5,6,-0.02,40,-0.8,"Icamina, Michael",,1908.0,False,PHI,0.0,1,-0.27,40,-10.8
+33343381,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1795,1735,2.5,6,-0.02,40,-0.8,"Vidur, Rajagopal",,1824.0,False,IND,0.0,1,-0.38,40,-15.2
+33343381,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1795,1735,2.5,6,-0.02,40,-0.8,"Kuzma, Ostap",,1753.0,False,UKR,0.0,1,-0.47,40,-18.8

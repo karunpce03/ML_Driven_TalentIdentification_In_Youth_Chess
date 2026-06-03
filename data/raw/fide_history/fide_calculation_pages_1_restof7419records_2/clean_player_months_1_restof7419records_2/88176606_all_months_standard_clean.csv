@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88176606,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,0.0,2,0.0,780,,"Ballyr, Sinha",,1655.0,False,IND,0.0,1,0.0,,0.0
+88176606,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,,,0.0,2,0.0,780,,"Mohak, Das",,1504.0,False,IND,0.0,1,0.0,,0.0
+88176606,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,,,2.0,6,0.0,1504,,"Atembi, Laishram",,1813.0,False,IND,0.0,1,0.0,,0.0
+88176606,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,,,2.0,6,0.0,1504,,"Kinkar, Roy",,1705.0,False,IND,0.0,1,0.0,,0.0
+88176606,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,,,2.0,6,0.0,1504,,"Busen, Dupit",,1563.0,False,IND,0.0,1,0.0,,0.0
+88176606,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,,,2.0,6,0.0,1504,,"Hari, Sadhan Banik",,1534.0,False,IND,1.0,1,0.0,,0.0
+88176606,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,,,2.0,6,0.0,1504,,"Swastik, Majumder",,1608.0,False,IND,0.0,1,0.0,,0.0
+88176606,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,,,2.0,6,0.0,1504,,"Cheaha, Nikgame G Momin",,1553.0,False,IND,1.0,1,0.0,,0.0
+88176606,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1422.0,1585.0,0.5,2,-0.93,40,-37.2,"Abhinav, Deb",,1441.0,False,IND,0.5,1,-0.19,40.0,-7.6
+88176606,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1422.0,1585.0,0.5,2,-0.93,40,-37.2,"Dibyajyoti, Tantubay",,1403.0,False,IND,0.0,1,-0.74,40.0,-29.6

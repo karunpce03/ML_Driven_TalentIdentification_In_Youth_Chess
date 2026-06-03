@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33393826,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1777,1510,0.0,5,-0.97,40,-38.8,"Vignesh, B",,1910,True,IND,0.0,1,-0.08,40,-3.2
+33393826,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1777,1510,0.0,5,-0.97,40,-38.8,"Roy Chowdhury, Saptarshi",g,1910,True,IND,0.0,1,-0.08,40,-3.2
+33393826,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1777,1510,0.0,5,-0.97,40,-38.8,"Cyrus, Eldho",,1644,False,IND,0.0,1,-0.32,40,-12.8
+33393826,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1777,1510,0.0,5,-0.97,40,-38.8,"Eshwar, Veerappan Aiyappan",,1632,False,IND,0.0,1,-0.33,40,-13.2
+33393826,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1777,1510,0.0,5,-0.97,40,-38.8,"Vivaan, Sachdev",,1791,False,IND,0.0,1,-0.16,40,-6.4

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25636260,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1565,1782,3.0,5,-0.87,40,-34.8,"Khambe, Santosh",,1502.0,False,IND,1.0,1,0.16,40,6.4
+25636260,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1565,1782,3.0,5,-0.87,40,-34.8,"Sejpal, Kavyan",,1561.0,False,IND,0.5,1,-0.28,40,-11.2
+25636260,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1565,1782,3.0,5,-0.87,40,-34.8,"Sparsh, Ajay Patil",,1567.0,False,IND,0.5,1,-0.27,40,-10.8
+25636260,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1565,1782,3.0,5,-0.87,40,-34.8,"Tapesnu, Soumendra Bain",,1551.0,False,IND,1.0,1,0.21,40,8.4
+25636260,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1565,1782,3.0,5,-0.87,40,-34.8,"Tvesha, Ashish Jain",,1642.0,False,IND,0.0,1,-0.69,40,-27.6

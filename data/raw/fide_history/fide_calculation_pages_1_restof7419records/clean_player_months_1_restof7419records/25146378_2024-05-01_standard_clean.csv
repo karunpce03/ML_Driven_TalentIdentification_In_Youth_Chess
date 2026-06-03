@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25146378,2024-05-01,0,"17th Tashkent Open, Agzamov Memorial ""A""",Tashkent UZB,2024-03-27,2024-04-03,2130,2041,3.5,9,-0.12,40,-4.8,"Omonov, Asrorjon",f,2401.0,False,UZB,0.0,1,-0.1,40,-4.0
+25146378,2024-05-01,0,"17th Tashkent Open, Agzamov Memorial ""A""",Tashkent UZB,2024-03-27,2024-04-03,2130,2041,3.5,9,-0.12,40,-4.8,"Aleksandrov, Aleksej",g,2418.0,False,BLR,0.0,1,-0.09,40,-3.6
+25146378,2024-05-01,0,"17th Tashkent Open, Agzamov Memorial ""A""",Tashkent UZB,2024-03-27,2024-04-03,2130,2041,3.5,9,-0.12,40,-4.8,"Khamdamov, Siyovush",,1993.0,False,UZB,1.0,1,0.43,40,17.2
+25146378,2024-05-01,0,"17th Tashkent Open, Agzamov Memorial ""A""",Tashkent UZB,2024-03-27,2024-04-03,2130,2041,3.5,9,-0.12,40,-4.8,"Saydaliev, Akobirkhon",,2212.0,False,UZB,0.0,1,-0.27,40,-10.8
+25146378,2024-05-01,0,"17th Tashkent Open, Agzamov Memorial ""A""",Tashkent UZB,2024-03-27,2024-04-03,2130,2041,3.5,9,-0.12,40,-4.8,"Bizhigitov, Zhangir",f,2237.0,False,KAZ,0.0,1,-0.25,40,-10.0
+25146378,2024-05-01,0,"17th Tashkent Open, Agzamov Memorial ""A""",Tashkent UZB,2024-03-27,2024-04-03,2130,2041,3.5,9,-0.12,40,-4.8,"Lyutsinger, Iren",,1971.0,False,FID,1.0,1,0.4,40,16.0
+25146378,2024-05-01,0,"17th Tashkent Open, Agzamov Memorial ""A""",Tashkent UZB,2024-03-27,2024-04-03,2130,2041,3.5,9,-0.12,40,-4.8,"Imomkuzieva, Nilufarkhon",wf,1905.0,False,UZB,0.5,1,-0.18,40,-7.2
+25146378,2024-05-01,0,"17th Tashkent Open, Agzamov Memorial ""A""",Tashkent UZB,2024-03-27,2024-04-03,2130,2041,3.5,9,-0.12,40,-4.8,"Amirkul, Alimzhan",,2038.0,False,KAZ,0.0,1,-0.5,40,-20.0
+25146378,2024-05-01,0,"17th Tashkent Open, Agzamov Memorial ""A""",Tashkent UZB,2024-03-27,2024-04-03,2130,2041,3.5,9,-0.12,40,-4.8,"Suslov, Dmitrii",c,1999.0,False,FID,1.0,1,0.44,40,17.6

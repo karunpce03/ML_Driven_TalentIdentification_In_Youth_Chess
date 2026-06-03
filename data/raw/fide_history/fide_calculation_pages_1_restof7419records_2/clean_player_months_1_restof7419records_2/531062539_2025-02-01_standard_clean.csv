@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531062539,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,,,0.0,4,0.0,681,,"Aubrey, Armstrong A",,1639,False,IND,0.0,1,0.0,,0.0
+531062539,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,,,0.0,4,0.0,681,,"Malavika, Priyesh",,1452,False,IND,0.0,1,0.0,,0.0
+531062539,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,,,0.0,4,0.0,681,,"Al Qasmi, Ahmed",,1410,False,OMA,0.0,1,0.0,,0.0
+531062539,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,,,0.0,4,0.0,681,,"Al Busaidi, Anwar Ali",,1422,False,OMA,0.0,1,0.0,,0.0

@@ -1,0 +1,27 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25642200,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2103,1904,5.5,9,3.02,26,78.52,"Okhotnik, Vladimir",g,2293.0,False,FRA,0.0,1,-0.09,26,-2.34
+25642200,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2103,1904,5.5,9,3.02,26,78.52,"Toth, Charles",,1750.0,False,FRA,1.0,1,0.29,26,7.54
+25642200,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2103,1904,5.5,9,3.02,26,78.52,"Marta, Dominik",,2136.0,False,HUN,0.5,1,0.29,26,7.54
+25642200,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2103,1904,5.5,9,3.02,26,78.52,"Lieber, Lukas",,1920.0,False,CZE,1.0,1,0.52,26,13.52
+25642200,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2103,1904,5.5,9,3.02,26,78.52,"Sipos, Janos",f,2193.0,False,HUN,0.5,1,0.34,26,8.84
+25642200,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2103,1904,5.5,9,3.02,26,78.52,"Borocz, Lorinc",,1947.0,False,HUN,1.0,1,0.56,26,14.56
+25642200,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2103,1904,5.5,9,3.02,26,78.52,"Lauda, Alexandr",c,2198.0,False,MDA,0.5,1,0.35,26,9.1
+25642200,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2103,1904,5.5,9,3.02,26,78.52,"Tompa, Janos",m,2270.0,False,HUN,0.5,1,0.4,26,10.4
+25642200,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2103,1904,5.5,9,3.02,26,78.52,"Torok, Sandor",f,2217.0,False,HUN,0.5,1,0.36,26,9.36
+25642200,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2017,1904,5.0,9,1.66,26,43.16,"Vezzosi, Paolo",m,2086.0,False,ITA,0.5,1,0.24,26,6.24
+25642200,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2017,1904,5.0,9,1.66,26,43.16,"Zimina, Olga",m wg,2304.0,True,ITA,0.0,1,-0.08,26,-2.08
+25642200,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2017,1904,5.0,9,1.66,26,43.16,"Catanzaro, Claudio",,1931.0,False,ITA,0.5,1,0.04,26,1.04
+25642200,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2017,1904,5.0,9,1.66,26,43.16,"Foo, Jiu Weir Brien",,1798.0,False,MAS,1.0,1,0.36,26,9.36
+25642200,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2017,1904,5.0,9,1.66,26,43.16,"Frescura, Davide",,2054.0,False,ITA,1.0,1,0.7,26,18.2
+25642200,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2017,1904,5.0,9,1.66,26,43.16,"Oktem, Ege Tuna",,2055.0,False,TUR,0.0,1,-0.3,26,-7.8
+25642200,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2017,1904,5.0,9,1.66,26,43.16,"Perossa, Nicolas",f,2247.0,False,ITA,0.0,1,-0.12,26,-3.12
+25642200,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2017,1904,5.0,9,1.66,26,43.16,"Lachmair, Erwin",,1908.0,False,AUT,1.0,1,0.51,26,13.26
+25642200,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2017,1904,5.0,9,1.66,26,43.16,"Sharvaanica, A S",,1766.0,False,IND,1.0,1,0.31,26,8.06
+25642200,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1960,1904,5.0,8,1.52,26,39.52,"Papotti, Paolo",,1504.0,True,ITA,1.0,1,0.08,26,2.08
+25642200,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1960,1904,5.0,8,1.52,26,39.52,"Pugliese, Davide Francesco",,1559.0,False,ITA,1.0,1,0.11,26,2.86
+25642200,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1960,1904,5.0,8,1.52,26,39.52,"Carrideo, Simone",,2101.0,False,ITA,1.0,1,0.75,26,19.5
+25642200,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1960,1904,5.0,8,1.52,26,39.52,"Mammi, Samuele",c,2211.0,False,ITA,0.5,1,0.36,26,9.36
+25642200,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1960,1904,5.0,8,1.52,26,39.52,"Gilevych, Artem",m,2304.0,True,ITA,0.0,1,-0.08,26,-2.08
+25642200,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1960,1904,5.0,8,1.52,26,39.52,"Lanzani, Mario Lorenzo",m,2254.0,True,ITA,0.5,1,0.39,26,10.14
+25642200,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1960,1904,5.0,8,1.52,26,39.52,"Kumaresh, A",,1924.0,False,IND,0.0,1,-0.47,26,-12.22
+25642200,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1960,1904,5.0,8,1.52,26,39.52,"Sertorio, Yussef Lorenzo",,1820.0,False,ITA,1.0,1,0.38,26,9.88

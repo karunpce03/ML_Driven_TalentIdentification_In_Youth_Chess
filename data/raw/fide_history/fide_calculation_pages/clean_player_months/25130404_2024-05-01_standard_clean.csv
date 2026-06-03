@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25130404,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1506,1579,3.0,5,0.0,40,0.0,"Arush, A",,1691.0,False,IND,0.0,1,-0.35,40,-14.0
+25130404,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1506,1579,3.0,5,0.0,40,0.0,"Priyanka, Rajan",,1457.0,False,IND,1.0,1,0.33,40,13.2
+25130404,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1506,1579,3.0,5,0.0,40,0.0,"Prabhu, S",,1468.0,False,IND,0.0,1,-0.65,40,-26.0
+25130404,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1506,1579,3.0,5,0.0,40,0.0,"Alan, Pattayil Shajan",,1455.0,False,IND,1.0,1,0.33,40,13.2
+25130404,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1506,1579,3.0,5,0.0,40,0.0,"Raja, C",,1460.0,False,IND,1.0,1,0.34,40,13.6

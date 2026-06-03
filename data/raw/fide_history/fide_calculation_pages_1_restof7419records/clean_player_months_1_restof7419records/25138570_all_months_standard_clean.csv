@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25138570,2024-07-01,0,Summer Cup Classical Below 1800 FIDE Rating Lake City Open Chess Tournament 2024,Udaipur IND,2024-06-15,2024-06-17,1612,1430,0.5,4,-0.56,40,-22.4,"Neeraj, Sah",,1660.0,False,IND,0.5,1,0.29,40,11.6
+25138570,2024-07-01,0,Summer Cup Classical Below 1800 FIDE Rating Lake City Open Chess Tournament 2024,Udaipur IND,2024-06-15,2024-06-17,1612,1430,0.5,4,-0.56,40,-22.4,"Akash, Srivastav",,1659.0,False,IND,0.0,1,-0.21,40,-8.4
+25138570,2024-07-01,0,Summer Cup Classical Below 1800 FIDE Rating Lake City Open Chess Tournament 2024,Udaipur IND,2024-06-15,2024-06-17,1612,1430,0.5,4,-0.56,40,-22.4,"Nirmal, Lalit V",,1545.0,False,IND,0.0,1,-0.34,40,-13.6
+25138570,2024-07-01,0,Summer Cup Classical Below 1800 FIDE Rating Lake City Open Chess Tournament 2024,Udaipur IND,2024-06-15,2024-06-17,1612,1430,0.5,4,-0.56,40,-22.4,"Shah, Ashok Hiralal",,1583.0,False,IND,0.0,1,-0.3,40,-12.0
+25138570,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1657,1408,2.0,5,1.02,40,40.8,"Subrata, Nandy Roy",,1657.0,False,IND,0.5,1,0.31,40,12.4
+25138570,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1657,1408,2.0,5,1.02,40,40.8,"Haikam, Mengise",,1747.0,False,IND,1.0,1,0.88,40,35.2
+25138570,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1657,1408,2.0,5,1.02,40,40.8,"Somraj, Saha",,1679.0,False,IND,0.5,1,0.33,40,13.2
+25138570,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1657,1408,2.0,5,1.02,40,40.8,"Krusen, D Shira",,1654.0,False,IND,0.0,1,-0.19,40,-7.6
+25138570,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1657,1408,2.0,5,1.02,40,40.8,"Rocky, Nalo",,1549.0,False,IND,0.0,1,-0.31,40,-12.4

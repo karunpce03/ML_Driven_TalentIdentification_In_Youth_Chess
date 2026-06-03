@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25112732,2024-08-01,0,Sushama &amp; Dormak All India Open FIDE Rating Chess Tournament 2024,Chandigarh IND,2024-06-28,2024-07-02,1528,1561,1.0,3,-0.64,40,-25.6,"Gopal, Krishna Maheshwari",,1770.0,False,IND,0.0,1,-0.23,40,-9.2
+25112732,2024-08-01,0,Sushama &amp; Dormak All India Open FIDE Rating Chess Tournament 2024,Chandigarh IND,2024-06-28,2024-07-02,1528,1561,1.0,3,-0.64,40,-25.6,"Vansh, Bansal",,1411.0,False,IND,0.0,1,-0.7,40,-28.0
+25112732,2024-08-01,0,Sushama &amp; Dormak All India Open FIDE Rating Chess Tournament 2024,Chandigarh IND,2024-06-28,2024-07-02,1528,1561,1.0,3,-0.64,40,-25.6,"Simranjot, Kaur",,1403.0,False,IND,1.0,1,0.29,40,11.6

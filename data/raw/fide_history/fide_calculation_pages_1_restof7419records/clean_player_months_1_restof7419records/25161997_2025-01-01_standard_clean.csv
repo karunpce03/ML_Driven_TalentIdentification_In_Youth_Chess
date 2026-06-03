@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25161997,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1800,1813,5.0,10,-0.31,40,-12.4,"Chitrak, Naha",,1720,False,IND,0.0,1,-0.63,40,-25.2
+25161997,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1800,1813,5.0,10,-0.31,40,-12.4,"Debopriyo, Dutta",,1620,False,IND,1.0,1,0.25,40,10.0
+25161997,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1800,1813,5.0,10,-0.31,40,-12.4,"Mithilesh, P",,1679,False,IND,1.0,1,0.32,40,12.8
+25161997,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1800,1813,5.0,10,-0.31,40,-12.4,"Nithin, Babu",,2213,True,IND,0.5,1,0.42,40,16.8
+25161997,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1800,1813,5.0,10,-0.31,40,-12.4,"Saparya, Ghosh",wf,1991,False,IND,0.0,1,-0.27,40,-10.8
+25161997,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1800,1813,5.0,10,-0.31,40,-12.4,"Yohan, Yadav Tarala",,2001,False,IND,0.0,1,-0.26,40,-10.4
+25161997,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1800,1813,5.0,10,-0.31,40,-12.4,"Bhanushali, Neemay",,1710,False,IND,0.5,1,-0.14,40,-5.6
+25161997,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1800,1813,5.0,10,-0.31,40,-12.4,"Sanjeeban, Mandal",,1701,False,IND,0.0,1,-0.65,40,-26.0
+25161997,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1800,1813,5.0,10,-0.31,40,-12.4,"Athul, M",,1700,False,IND,1.0,1,0.35,40,14.0
+25161997,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1800,1813,5.0,10,-0.31,40,-12.4,"Dishita, Dey",,1666,False,IND,1.0,1,0.3,40,12.0

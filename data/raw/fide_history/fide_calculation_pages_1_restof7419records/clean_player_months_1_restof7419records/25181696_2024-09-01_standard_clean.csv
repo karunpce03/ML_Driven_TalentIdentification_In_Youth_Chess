@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25181696,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1808,1833,6.0,11,0.27,40,10.8,"Sourabh, Kochar",,1515.0,False,IND,1.0,1,0.13,40,5.2
+25181696,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1808,1833,6.0,11,0.27,40,10.8,"Jyotshnav, Talukdar",,2002.0,False,IND,0.0,1,-0.28,40,-11.2
+25181696,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1808,1833,6.0,11,0.27,40,10.8,"Aadithya, R",,1597.0,False,IND,1.0,1,0.2,40,8.0
+25181696,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1808,1833,6.0,11,0.27,40,10.8,"Kheerthi, Ganta",wf,1982.0,False,IND,0.0,1,-0.3,40,-12.0
+25181696,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1808,1833,6.0,11,0.27,40,10.8,"Jayant, Chauhan",,1664.0,False,IND,1.0,1,0.28,40,11.2
+25181696,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1808,1833,6.0,11,0.27,40,10.8,"Tanmay, Rajbongshi",,1980.0,False,IND,0.5,1,0.2,40,8.0
+25181696,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1808,1833,6.0,11,0.27,40,10.8,"Harshit, Singh",,1957.0,False,IND,1.0,1,0.67,40,26.8
+25181696,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1808,1833,6.0,11,0.27,40,10.8,"Rachit, H Gurnani",,1975.0,False,IND,0.0,1,-0.31,40,-12.4
+25181696,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1808,1833,6.0,11,0.27,40,10.8,"Arshpreet, Singh",,1995.0,False,IND,0.0,1,-0.29,40,-11.6
+25181696,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1808,1833,6.0,11,0.27,40,10.8,"Suryapranjal, Indrajeet S P",,1718.0,False,IND,0.5,1,-0.16,40,-6.4
+25181696,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1808,1833,6.0,11,0.27,40,10.8,"Madhav, Jaydeepbhai Vora",,1507.0,False,IND,1.0,1,0.13,40,5.2

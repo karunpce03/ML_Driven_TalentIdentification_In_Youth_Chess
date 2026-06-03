@@ -1,0 +1,29 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48766372,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1515,1435,2.0,5,0.04,40,1.6,"Khushal, Bagri",,1555.0,False,IND,0.0,1,-0.34,40,-13.6
+48766372,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1515,1435,2.0,5,0.04,40,1.6,"Adrit, Das",,1538.0,False,IND,0.5,1,0.14,40,5.6
+48766372,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1515,1435,2.0,5,0.04,40,1.6,"Aviraj, Roy",,1515.0,False,IND,0.5,1,0.11,40,4.4
+48766372,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1515,1435,2.0,5,0.04,40,1.6,"Samadarshi, Nandi",,1479.0,False,IND,0.5,1,0.06,40,2.4
+48766372,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1515,1435,2.0,5,0.04,40,1.6,"Spandan, Debnath",,1486.0,False,IND,0.5,1,0.07,40,2.8
+48766372,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1513,1437,1.0,3,-0.21,40,-8.4,"Diptanshu, Saha",,1409.0,False,IND,1.0,1,0.46,40,18.4
+48766372,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1513,1437,1.0,3,-0.21,40,-8.4,"Aniket, Das",,1633.0,False,IND,0.0,1,-0.25,40,-10.0
+48766372,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1513,1437,1.0,3,-0.21,40,-8.4,"Eishaanav, Chakraborty",,1496.0,False,IND,0.0,1,-0.42,40,-16.8
+48766372,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1619,1437,2.5,6,0.92,40,36.8,"Anirban, Basu",,1673.0,False,IND,1.0,1,0.8,40,32.0
+48766372,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1619,1437,2.5,6,0.92,40,36.8,"Abir, Mitra",,1646.0,False,IND,0.0,1,-0.23,40,-9.2
+48766372,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1619,1437,2.5,6,0.92,40,36.8,"Tanishk, Kumar",,1569.0,False,IND,0.0,1,-0.32,40,-12.8
+48766372,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1619,1437,2.5,6,0.92,40,36.8,"Ritisha, Pradhan",,1564.0,False,IND,0.5,1,0.17,40,6.8
+48766372,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1619,1437,2.5,6,0.92,40,36.8,"Anmol, Murarka",,1577.0,False,IND,0.0,1,-0.31,40,-12.4
+48766372,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1619,1437,2.5,6,0.92,40,36.8,"Prashant, Kumar Singh",,1684.0,False,IND,1.0,1,0.81,40,32.4
+48766372,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1580,1465,1.5,6,-0.58,40,-23.2,"Ayaanraj, Kottapally",,1561.0,False,IND,0.0,1,-0.37,40,-14.8
+48766372,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1580,1465,1.5,6,-0.58,40,-23.2,"Pratyush, Kumar",,1635.0,False,IND,0.0,1,-0.28,40,-11.2
+48766372,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1580,1465,1.5,6,-0.58,40,-23.2,"Patil, Varad Sayaji",,1556.0,False,IND,0.5,1,0.12,40,4.8
+48766372,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1580,1465,1.5,6,-0.58,40,-23.2,"Anvit, Srivastava",,1619.0,False,IND,0.5,1,0.21,40,8.4
+48766372,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1580,1465,1.5,6,-0.58,40,-23.2,"Viaan, Surana",,1606.0,False,IND,0.5,1,0.19,40,7.6
+48766372,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1580,1465,1.5,6,-0.58,40,-23.2,Manas,,1501.0,False,IND,0.0,1,-0.45,40,-18.0
+48766372,2025-04-01,0,National Amateur Chess Championship Below 2000 (Open),Gaya IND,2025-03-25,2025-03-29,1638,1442,1.5,8,-0.61,40,-24.4,"Archisman, Patra",,1794.0,False,IND,0.0,1,-0.11,40,-4.4
+48766372,2025-04-01,0,National Amateur Chess Championship Below 2000 (Open),Gaya IND,2025-03-25,2025-03-29,1638,1442,1.5,8,-0.61,40,-24.4,"Mohamed, Fadil Syed Ibrahim",,1687.0,False,IND,0.0,1,-0.2,40,-8.0
+48766372,2025-04-01,0,National Amateur Chess Championship Below 2000 (Open),Gaya IND,2025-03-25,2025-03-29,1638,1442,1.5,8,-0.61,40,-24.4,"Pragadesh, P",,1668.0,False,IND,0.0,1,-0.21,40,-8.4
+48766372,2025-04-01,0,National Amateur Chess Championship Below 2000 (Open),Gaya IND,2025-03-25,2025-03-29,1638,1442,1.5,8,-0.61,40,-24.4,"Rathees, Rooban R",,1635.0,False,IND,0.0,1,-0.25,40,-10.0
+48766372,2025-04-01,0,National Amateur Chess Championship Below 2000 (Open),Gaya IND,2025-03-25,2025-03-29,1638,1442,1.5,8,-0.61,40,-24.4,"Menhajul, Hoda",,1732.0,False,IND,1.0,1,0.84,40,33.6
+48766372,2025-04-01,0,National Amateur Chess Championship Below 2000 (Open),Gaya IND,2025-03-25,2025-03-29,1638,1442,1.5,8,-0.61,40,-24.4,"Vibhor, Chopra",,1695.0,False,IND,0.0,1,-0.19,40,-7.6
+48766372,2025-04-01,0,National Amateur Chess Championship Below 2000 (Open),Gaya IND,2025-03-25,2025-03-29,1638,1442,1.5,8,-0.61,40,-24.4,"Aum, Kashyap",,1422.0,False,IND,0.5,1,-0.03,40,-1.2
+48766372,2025-04-01,0,National Amateur Chess Championship Below 2000 (Open),Gaya IND,2025-03-25,2025-03-29,1638,1442,1.5,8,-0.61,40,-24.4,"Jitendra, Kumar",,1474.0,False,IND,0.0,1,-0.46,40,-18.4

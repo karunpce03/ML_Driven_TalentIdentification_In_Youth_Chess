@@ -1,0 +1,23 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33425027,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup B,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,1805,1608,4.5,7,2.77,31,85.87,"Palacios Pena, Gerardo",,1846.0,False,ESP,0.0,1,-0.2,31,-6.2
+33425027,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup B,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,1805,1608,4.5,7,2.77,31,85.87,"Barroso Vilanova, Daniel",,1725.0,False,ESP,1.0,1,0.66,31,20.46
+33425027,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup B,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,1805,1608,4.5,7,2.77,31,85.87,"Duran Pinilla, Daniel",,1798.0,False,ESP,1.0,1,0.75,31,23.25
+33425027,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup B,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,1805,1608,4.5,7,2.77,31,85.87,"Sanchez Esteban, Emilio",,1785.0,False,ESP,1.0,1,0.73,31,22.63
+33425027,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup B,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,1805,1608,4.5,7,2.77,31,85.87,"Carnicer Rovira, Francesc",,1880.0,False,ESP,0.0,1,-0.17,31,-5.27
+33425027,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup B,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,1805,1608,4.5,7,2.77,31,85.87,"Madrid Sole, Antonio",,1762.0,False,ESP,0.5,1,0.21,31,6.51
+33425027,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup B,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,1805,1608,4.5,7,2.77,31,85.87,"Greco, Joseph",,1836.0,False,ENG,1.0,1,0.79,31,24.49
+33425027,2024-09-01,0,SUMMER PRAGUE OPEN 2024 - A - IM open,Praha CZE,2024-08-02,2024-08-09,1848,1608,3.5,7,2.08,31,64.48,"Peitersen, Andreas",,1936.0,False,DEN,0.0,1,-0.13,31,-4.03
+33425027,2024-09-01,0,SUMMER PRAGUE OPEN 2024 - A - IM open,Praha CZE,2024-08-02,2024-08-09,1848,1608,3.5,7,2.08,31,64.48,"Vinnyk, Mykhailo",,1861.0,False,UKR,0.5,1,0.31,31,9.61
+33425027,2024-09-01,0,SUMMER PRAGUE OPEN 2024 - A - IM open,Praha CZE,2024-08-02,2024-08-09,1848,1608,3.5,7,2.08,31,64.48,"Tuna, Baytun",,1797.0,False,TUR,1.0,1,0.75,31,23.25
+33425027,2024-09-01,0,SUMMER PRAGUE OPEN 2024 - A - IM open,Praha CZE,2024-08-02,2024-08-09,1848,1608,3.5,7,2.08,31,64.48,"Lazniewska, Zofia",,1788.0,False,POL,0.0,1,-0.26,31,-8.06
+33425027,2024-09-01,0,SUMMER PRAGUE OPEN 2024 - A - IM open,Praha CZE,2024-08-02,2024-08-09,1848,1608,3.5,7,2.08,31,64.48,"Andersen, Carsten",,1807.0,False,DEN,1.0,1,0.76,31,23.56
+33425027,2024-09-01,0,SUMMER PRAGUE OPEN 2024 - A - IM open,Praha CZE,2024-08-02,2024-08-09,1848,1608,3.5,7,2.08,31,64.48,"Mydliar, Jan",,1868.0,False,SVK,1.0,1,0.82,31,25.42
+33425027,2024-09-01,0,SUMMER PRAGUE OPEN 2024 - A - IM open,Praha CZE,2024-08-02,2024-08-09,1848,1608,3.5,7,2.08,31,64.48,"Chubar, Vladimir",m,1877.0,False,UKR,0.0,1,-0.17,31,-5.27
+33425027,2024-09-01,0,Lichtenberger Sommer 2024,Berlin GER,2024-08-10,2024-08-18,1966,1608,5.0,8,4.14,31,128.34,"Schulz, Jannis",,1897.0,False,GER,1.0,1,0.84,31,26.04
+33425027,2024-09-01,0,Lichtenberger Sommer 2024,Berlin GER,2024-08-10,2024-08-18,1966,1608,5.0,8,4.14,31,128.34,"Sabrowski, Uwe",,1992.0,False,GER,0.0,1,-0.09,31,-2.79
+33425027,2024-09-01,0,Lichtenberger Sommer 2024,Berlin GER,2024-08-10,2024-08-18,1966,1608,5.0,8,4.14,31,128.34,"Gehrke, Karsten",,1890.0,False,GER,1.0,1,0.84,31,26.04
+33425027,2024-09-01,0,Lichtenberger Sommer 2024,Berlin GER,2024-08-10,2024-08-18,1966,1608,5.0,8,4.14,31,128.34,"Muskewitz, Bernd",,1927.0,False,GER,1.0,1,0.87,31,26.97
+33425027,2024-09-01,0,Lichtenberger Sommer 2024,Berlin GER,2024-08-10,2024-08-18,1966,1608,5.0,8,4.14,31,128.34,"Amelang, Thomas",,2008.0,True,GER,0.5,1,0.42,31,13.02
+33425027,2024-09-01,0,Lichtenberger Sommer 2024,Berlin GER,2024-08-10,2024-08-18,1966,1608,5.0,8,4.14,31,128.34,"Jahn, Thomas",,2008.0,True,GER,1.0,1,0.92,31,28.52
+33425027,2024-09-01,0,Lichtenberger Sommer 2024,Berlin GER,2024-08-10,2024-08-18,1966,1608,5.0,8,4.14,31,128.34,"Sieglen, Joachim, Dr.",f,2008.0,True,GER,0.0,1,-0.08,31,-2.48
+33425027,2024-09-01,0,Lichtenberger Sommer 2024,Berlin GER,2024-08-10,2024-08-18,1966,1608,5.0,8,4.14,31,128.34,"Hoffmann, Kay",,2001.0,False,GER,0.5,1,0.42,31,13.02

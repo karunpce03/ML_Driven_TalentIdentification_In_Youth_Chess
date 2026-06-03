@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48703052,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1485,1437,0.5,5,-1.66,40,-66.4,"Kirthik, Vijayabaskar",,1508.0,False,IND,0.0,1,-0.4,40,-16.0
+48703052,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1485,1437,0.5,5,-1.66,40,-66.4,"Rishi, Raj",,1492.0,False,IND,0.0,1,-0.42,40,-16.8
+48703052,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1485,1437,0.5,5,-1.66,40,-66.4,"Harshith, Ram B",,1529.0,False,IND,0.0,1,-0.37,40,-14.8
+48703052,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1485,1437,0.5,5,-1.66,40,-66.4,"Siddharth, Chodisetti",,1409.0,False,IND,0.0,1,-0.54,40,-21.6
+48703052,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1485,1437,0.5,5,-1.66,40,-66.4,"Nyrav, Gopalakrishnan",,1485.0,False,IND,0.5,1,0.07,40,2.8
+48703052,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1595,1475,1.0,3,-0.02,40,-0.8,"Deep, Das",,1646.0,False,IND,0.0,1,-0.27,40,-10.8
+48703052,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1595,1475,1.0,3,-0.02,40,-0.8,"Hiranya, Das",,1604.0,False,IND,0.5,1,0.17,40,6.8
+48703052,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1595,1475,1.0,3,-0.02,40,-0.8,"Emon, Nag",,1535.0,False,IND,0.5,1,0.08,40,3.2

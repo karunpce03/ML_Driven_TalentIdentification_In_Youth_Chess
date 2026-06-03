@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33384134,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1888,1945,5.5,10,-0.43,40,-17.2,"Rios Gomez, Cristhian Camilo",g,2345,True,COL,0.0,1,-0.08,40,-3.2
+33384134,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1888,1945,5.5,10,-0.43,40,-17.2,"Srikara, Darbha",,1758,False,IND,1.0,1,0.26,40,10.4
+33384134,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1888,1945,5.5,10,-0.43,40,-17.2,"Vakcheri, Mohitha",,1797,False,IND,1.0,1,0.3,40,12.0
+33384134,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1888,1945,5.5,10,-0.43,40,-17.2,"Rishit, Sharma",,1764,False,IND,0.0,1,-0.74,40,-29.6
+33384134,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1888,1945,5.5,10,-0.43,40,-17.2,"Pratyasha, Jena",,1787,False,IND,1.0,1,0.29,40,11.6
+33384134,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1888,1945,5.5,10,-0.43,40,-17.2,"Vedant, Yogesh Kale",,1726,False,IND,1.0,1,0.22,40,8.8
+33384134,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1888,1945,5.5,10,-0.43,40,-17.2,"Nithin, Babu",,2282,False,IND,0.0,1,-0.12,40,-4.8
+33384134,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1888,1945,5.5,10,-0.43,40,-17.2,"Lavyaajyoti, Routray",,1833,False,IND,0.0,1,-0.65,40,-26.0
+33384134,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1888,1945,5.5,10,-0.43,40,-17.2,"Shivamshika, G",,1788,False,IND,0.5,1,-0.21,40,-8.4
+33384134,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1888,1945,5.5,10,-0.43,40,-17.2,"Mamombe, Kudzanai",m,1796,False,ZIM,1.0,1,0.3,40,12.0

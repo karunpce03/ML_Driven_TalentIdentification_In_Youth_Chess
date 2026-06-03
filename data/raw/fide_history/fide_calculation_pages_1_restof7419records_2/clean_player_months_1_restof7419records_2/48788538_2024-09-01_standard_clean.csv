@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48788538,2024-09-01,0,CCC Tuesday Night Action 109 - U1600 Round 5,"Charlotte, NC USA",2024-07-30,2024-07-30,,,0.0,1,0.0,721,,"Kumar, Sampath",,1521,False,USA,0.0,1,0.0,,0.0
+48788538,2024-09-01,0,CCC Tuesday Night Action 110 - U1600,"Charlotte, NC USA",2024-08-06,2024-08-27,,,1.0,2,0.0,1652,,"Day, Mike",,1593,False,USA,1.0,1,0.0,,0.0
+48788538,2024-09-01,0,CCC Tuesday Night Action 110 - U1600,"Charlotte, NC USA",2024-08-06,2024-08-27,,,1.0,2,0.0,1652,,"Jenkins, Brent B",,1710,False,USA,0.0,1,0.0,,0.0

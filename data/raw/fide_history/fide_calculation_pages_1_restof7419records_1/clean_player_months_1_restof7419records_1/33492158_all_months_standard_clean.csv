@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33492158,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1610.0,1433.0,0.0,3,-0.82,40,-32.8,"Pranav, Ramkumar",,1595.0,False,IND,0.0,1,-0.29,40.0,-11.6
+33492158,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1610.0,1433.0,0.0,3,-0.82,40,-32.8,"Harikeshav, Naveen",,1566.0,False,IND,0.0,1,-0.32,40.0,-12.8
+33492158,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1610.0,1433.0,0.0,3,-0.82,40,-32.8,"Soumiya, Murugan",,1668.0,False,IND,0.0,1,-0.21,40.0,-8.4
+33492158,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1568.0,1400.0,1.0,4,-0.12,40,-4.8,"Dash, Gagan Behari",,1557.0,False,IND,1.0,1,0.71,40.0,28.4
+33492158,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1568.0,1400.0,1.0,4,-0.12,40,-4.8,"Gatikrushna, Bhuyan",,1605.0,False,IND,0.0,1,-0.24,40.0,-9.6
+33492158,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1568.0,1400.0,1.0,4,-0.12,40,-4.8,"Tanay, Dhar",,1528.0,False,IND,0.0,1,-0.33,40.0,-13.2
+33492158,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,1568.0,1400.0,1.0,4,-0.12,40,-4.8,"Sarthak, Mohanty",,1580.0,False,IND,0.0,1,-0.26,40.0,-10.4
+33492158,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1449,,"Nyrav, Gopalakrishnan",,1485.0,False,IND,0.0,1,0.0,,0.0
+33492158,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1449,,"Anvit, Srivastava",,1619.0,False,IND,0.0,1,0.0,,0.0
+33492158,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1449,,"Naga, Kartikeyan Ponnuru",,1455.0,False,IND,1.0,1,0.0,,0.0
+33492158,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1449,,"Aarav, Ravi Jhavar",,1461.0,False,IND,1.0,1,0.0,,0.0
+33492158,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1449,,"Dhvit, Tapankumar Mehta",,1471.0,False,IND,1.0,1,0.0,,0.0
+33492158,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1449,,"Bhavyam, Jhawar",,1485.0,False,IND,0.5,1,0.0,,0.0
+33492158,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1449,,"Kirthik, Vijayabaskar",,1508.0,False,IND,0.0,1,0.0,,0.0
+33492158,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1449,,"Jayapriyan, Prakash",,1478.0,False,IND,0.0,1,0.0,,0.0
+33492158,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1449,,"Ved, Nair",,1454.0,False,IND,0.0,1,0.0,,0.0
+33492158,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,,,4.5,10,0.0,1449,,"Gaikwad, Anvit",,1438.0,False,IND,1.0,1,0.0,,0.0

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25146378,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2184,2036,4.5,9,1.76,40,70.4,"Kazantzoglou, Stefanos",c,2222.0,False,GRE,0.0,1,-0.26,40,-10.4
+25146378,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2184,2036,4.5,9,1.76,40,70.4,"Can, Melih Kaan",c,2141.0,False,TUR,1.0,1,0.64,40,25.6
+25146378,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2184,2036,4.5,9,1.76,40,70.4,"Tsarsitalidis, Christos",,2210.0,False,GRE,0.0,1,-0.27,40,-10.8
+25146378,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2184,2036,4.5,9,1.76,40,70.4,"Stamatiou, Rodolfos",,2147.0,False,GRE,0.5,1,0.15,40,6.0
+25146378,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2184,2036,4.5,9,1.76,40,70.4,"Frank, Anton 2006",,2131.0,False,SWE,1.0,1,0.63,40,25.2
+25146378,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2184,2036,4.5,9,1.76,40,70.4,"Shah, Vishwa",wf,2177.0,False,IND,0.5,1,0.19,40,7.6
+25146378,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2184,2036,4.5,9,1.76,40,70.4,"Alexakis, Georgios",,2192.0,False,GRE,0.5,1,0.21,40,8.4
+25146378,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2184,2036,4.5,9,1.76,40,70.4,"Abhyuday, Santhosh",,2169.0,False,IND,1.0,1,0.68,40,27.2
+25146378,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2184,2036,4.5,9,1.76,40,70.4,"Deveci, Huseyin Said",c,2267.0,False,TUR,0.0,1,-0.21,40,-8.4

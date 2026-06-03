@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25925342,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1628,1536,0.0,3,-1.15,40,-46.0,"Karyasheel, P",,1733.0,False,IND,0.0,1,-0.25,40,-10.0
+25925342,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1628,1536,0.0,3,-1.15,40,-46.0,"Behera, N N",,1709.0,False,IND,0.0,1,-0.27,40,-10.8
+25925342,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1628,1536,0.0,3,-1.15,40,-46.0,"Suryansu, Mahakud",,1441.0,False,IND,0.0,1,-0.63,40,-25.2

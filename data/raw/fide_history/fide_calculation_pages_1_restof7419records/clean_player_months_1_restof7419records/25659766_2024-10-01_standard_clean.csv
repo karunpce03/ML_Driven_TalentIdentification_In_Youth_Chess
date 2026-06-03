@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25659766,2024-10-01,0,"Piraeus GM Norm Tournament ""Korentinis Memorial""",Piraeus GRE,2024-08-24,2024-09-01,2393,2425,7.0,9,2.1,10,21.0,"Nikcevic, Nebojsa",g,2347.0,False,MNE,1.0,1,0.39,10,3.9
+25659766,2024-10-01,0,"Piraeus GM Norm Tournament ""Korentinis Memorial""",Piraeus GRE,2024-08-24,2024-09-01,2393,2425,7.0,9,2.1,10,21.0,"Moutousis, Konstantinos",m,2303.0,False,GRE,1.0,1,0.33,10,3.3
+25659766,2024-10-01,0,"Piraeus GM Norm Tournament ""Korentinis Memorial""",Piraeus GRE,2024-08-24,2024-09-01,2393,2425,7.0,9,2.1,10,21.0,Harikrishnan.a.ra,m,2468.0,False,IND,0.5,1,0.06,10,0.6
+25659766,2024-10-01,0,"Piraeus GM Norm Tournament ""Korentinis Memorial""",Piraeus GRE,2024-08-24,2024-09-01,2393,2425,7.0,9,2.1,10,21.0,"Krallis, Christos",f,2360.0,False,GRE,0.5,1,-0.09,10,-0.9
+25659766,2024-10-01,0,"Piraeus GM Norm Tournament ""Korentinis Memorial""",Piraeus GRE,2024-08-24,2024-09-01,2393,2425,7.0,9,2.1,10,21.0,"Kapnisis, Spyridon",g,2393.0,False,GRE,1.0,1,0.46,10,4.6
+25659766,2024-10-01,0,"Piraeus GM Norm Tournament ""Korentinis Memorial""",Piraeus GRE,2024-08-24,2024-09-01,2393,2425,7.0,9,2.1,10,21.0,"Kalogridis, Antonios",f,2382.0,False,GRE,1.0,1,0.44,10,4.4
+25659766,2024-10-01,0,"Piraeus GM Norm Tournament ""Korentinis Memorial""",Piraeus GRE,2024-08-24,2024-09-01,2393,2425,7.0,9,2.1,10,21.0,"Kotronias, Vasilios",g,2440.0,False,GRE,0.5,1,0.02,10,0.2
+25659766,2024-10-01,0,"Piraeus GM Norm Tournament ""Korentinis Memorial""",Piraeus GRE,2024-08-24,2024-09-01,2393,2425,7.0,9,2.1,10,21.0,"Liu, Casper",f,2339.0,False,DEN,1.0,1,0.38,10,3.8
+25659766,2024-10-01,0,"Piraeus GM Norm Tournament ""Korentinis Memorial""",Piraeus GRE,2024-08-24,2024-09-01,2393,2425,7.0,9,2.1,10,21.0,"Alexakis, Dimitris",m,2503.0,False,GRE,0.5,1,0.11,10,1.1

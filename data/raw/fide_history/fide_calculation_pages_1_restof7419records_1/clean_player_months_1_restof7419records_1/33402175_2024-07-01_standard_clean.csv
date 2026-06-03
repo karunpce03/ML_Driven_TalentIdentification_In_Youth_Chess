@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33402175,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1635,1458,0.5,4,-0.66,40,-26.4,"Aakash, G",c,1858,True,IND,0.0,1,-0.08,40,-3.2
+33402175,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1635,1458,0.5,4,-0.66,40,-26.4,"Muthukumar, M",,1568,False,IND,0.5,1,0.15,40,6.0
+33402175,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1635,1458,0.5,4,-0.66,40,-26.4,"Abhinav, K",,1557,False,IND,0.0,1,-0.36,40,-14.4
+33402175,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1635,1458,0.5,4,-0.66,40,-26.4,"Sairam, Bala M",,1555,False,IND,0.0,1,-0.37,40,-14.8

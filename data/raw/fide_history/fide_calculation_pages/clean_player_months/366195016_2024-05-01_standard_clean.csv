@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366195016,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2260,2283,3.5,9,-1.27,10,-12.7,"Ganguly, Surya Shekhar",g,2574.0,False,IND,0.0,1,-0.15,10,-1.5
+366195016,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2260,2283,3.5,9,-1.27,10,-12.7,"Holand, Per Fredrik",,2068.0,False,NOR,1.0,1,0.23,10,2.3
+366195016,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2260,2283,3.5,9,-1.27,10,-12.7,"Puranik, Abhimanyu",g,2618.0,False,IND,0.0,1,-0.12,10,-1.2
+366195016,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2260,2283,3.5,9,-1.27,10,-12.7,"Aamodt, Peder Marcus",,1941.0,False,NOR,0.5,1,-0.38,10,-3.8
+366195016,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2260,2283,3.5,9,-1.27,10,-12.7,"Amundsen, Ask",,2069.0,False,NOR,1.0,1,0.23,10,2.3
+366195016,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2260,2283,3.5,9,-1.27,10,-12.7,"Prraneeth, Vuppala",c,2506.0,False,IND,0.5,1,0.28,10,2.8
+366195016,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2260,2283,3.5,9,-1.27,10,-12.7,"Kenneskog, Theodor",f,2358.0,False,SWE,0.5,1,0.1,10,1.0
+366195016,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2260,2283,3.5,9,-1.27,10,-12.7,"Eliseev, Sergey",,2131.0,False,NOR,0.0,1,-0.7,10,-7.0
+366195016,2024-05-01,0,Fagernes Chess International 2024 GM,Fagernes NOR,2024-03-24,2024-03-31,2260,2283,3.5,9,-1.27,10,-12.7,"Zheng, Harry Z",,2077.0,False,ENG,0.0,1,-0.76,10,-7.6
+366195016,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2237,2281,5.5,9,0.57,10,5.7,"Gut, Raphael",,1994.0,False,SUI,1.0,1,0.16,10,1.6
+366195016,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2237,2281,5.5,9,0.57,10,5.7,"Sivuk, Vitaly",g,2551.0,False,SWE,0.0,1,-0.17,10,-1.7
+366195016,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2237,2281,5.5,9,0.57,10,5.7,"Aravindhan, Achyuth",,2071.0,False,NED,1.0,1,0.23,10,2.3
+366195016,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2237,2281,5.5,9,0.57,10,5.7,"Prasad, Devaki V",m,2191.0,False,IND,0.5,1,-0.12,10,-1.2
+366195016,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2237,2281,5.5,9,0.57,10,5.7,"Nayak, Rajesh",c,2136.0,False,IND,1.0,1,0.31,10,3.1
+366195016,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2237,2281,5.5,9,0.57,10,5.7,"Aswath, S",f,2354.0,False,IND,1.0,1,0.6,10,6.0
+366195016,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2237,2281,5.5,9,0.57,10,5.7,"Khamrakulov, Ibragim S.",g,2421.0,False,ESP,0.5,1,0.19,10,1.9
+366195016,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2237,2281,5.5,9,0.57,10,5.7,"Tilicheev, Viacheslav",g,2485.0,False,SRB,0.0,1,-0.24,10,-2.4
+366195016,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2237,2281,5.5,9,0.57,10,5.7,"Sureka, Akshat",,1926.0,False,IND,0.5,1,-0.39,10,-3.9

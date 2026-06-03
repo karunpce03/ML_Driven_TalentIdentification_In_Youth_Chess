@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531041493,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1675,1480,0.0,2,-0.49,40,-19.6,"Saurabh, Mathur",,1651.0,False,IND,0.0,1,-0.27,40,-10.8
+531041493,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1675,1480,0.0,2,-0.49,40,-19.6,"Singh, Amarjit",,1698.0,False,IND,0.0,1,-0.22,40,-8.8

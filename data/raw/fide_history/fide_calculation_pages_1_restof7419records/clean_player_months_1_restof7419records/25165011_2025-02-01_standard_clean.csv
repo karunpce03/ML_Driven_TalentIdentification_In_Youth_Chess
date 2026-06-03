@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25165011,2025-02-01,0,34th Annual North American Open - U2100,"Las Vegas, NV USA",2024-12-26,2024-12-29,1776,1595,2.5,6,0.88,40,35.2,"Qi, Jenny",wf,1833.0,False,USA,0.0,1,-0.2,40,-8.0
+25165011,2025-02-01,0,34th Annual North American Open - U2100,"Las Vegas, NV USA",2024-12-26,2024-12-29,1776,1595,2.5,6,0.88,40,35.2,"Frederick, Benjamin",,1641.0,False,USA,1.0,1,0.56,40,22.4
+25165011,2025-02-01,0,34th Annual North American Open - U2100,"Las Vegas, NV USA",2024-12-26,2024-12-29,1776,1595,2.5,6,0.88,40,35.2,"Mallaghan, Daniel",,1862.0,False,IRL,1.0,1,0.82,40,32.8
+25165011,2025-02-01,0,34th Annual North American Open - U2100,"Las Vegas, NV USA",2024-12-26,2024-12-29,1776,1595,2.5,6,0.88,40,35.2,"Zhou, Huanzhi",,1811.0,False,USA,0.0,1,-0.22,40,-8.8
+25165011,2025-02-01,0,34th Annual North American Open - U2100,"Las Vegas, NV USA",2024-12-26,2024-12-29,1776,1595,2.5,6,0.88,40,35.2,"Menon, Rohan Dileep",,1763.0,False,USA,0.5,1,0.22,40,8.8
+25165011,2025-02-01,0,34th Annual North American Open - U2100,"Las Vegas, NV USA",2024-12-26,2024-12-29,1776,1595,2.5,6,0.88,40,35.2,"Ganapathy, Aishwarya Lakshmi",,1745.0,False,USA,0.0,1,-0.3,40,-12.0

@@ -1,0 +1,49 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33487952,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1654.0,1457.0,0.5,5,-0.78,40,-31.2,"Drishtee, Ghosh",,1737.0,False,IND,0.0,1,-0.16,40.0,-6.4
+33487952,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1654.0,1457.0,0.5,5,-0.78,40,-31.2,"Katari, Sajyotsna",,1599.0,False,IND,0.0,1,-0.31,40.0,-12.4
+33487952,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1654.0,1457.0,0.5,5,-0.78,40,-31.2,"Sahana, S",,1569.0,False,IND,0.5,1,0.15,40.0,6.0
+33487952,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1654.0,1457.0,0.5,5,-0.78,40,-31.2,"Shreya, Rajesh",,1576.0,False,IND,0.0,1,-0.34,40.0,-13.6
+33487952,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1654.0,1457.0,0.5,5,-0.78,40,-31.2,"Kapadi, Yash",,1791.0,False,IND,0.0,1,-0.12,40.0,-4.8
+33487952,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1583.0,1457.0,1.0,5,-0.68,40,-27.2,"Senthil, Kumaran T.h.",,1713.0,False,IND,0.0,1,-0.19,40.0,-7.6
+33487952,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1583.0,1457.0,1.0,5,-0.68,40,-27.2,"Dharmesh, Mukul D",,1545.0,False,IND,0.0,1,-0.38,40.0,-15.2
+33487952,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1583.0,1457.0,1.0,5,-0.68,40,-27.2,"Archisman, Jha",,1536.0,False,IND,0.5,1,0.11,40.0,4.4
+33487952,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1583.0,1457.0,1.0,5,-0.68,40,-27.2,"Achinthya, Bhat",,1584.0,False,IND,0.5,1,0.17,40.0,6.8
+33487952,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1583.0,1457.0,1.0,5,-0.68,40,-27.2,"Sai, Arun Challa",,1536.0,False,IND,0.0,1,-0.39,40.0,-15.6
+33487952,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,,,1.0,6,0.0,1264,,"Abhinav, Anand",,1719.0,False,IND,0.0,1,0.0,,0.0
+33487952,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,,,1.0,6,0.0,1264,,"Virat, Singh",,1529.0,False,IND,0.0,1,0.0,,0.0
+33487952,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,,,1.0,6,0.0,1264,,"Samyam, Girish",,1487.0,False,IND,0.5,1,0.0,,0.0
+33487952,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,,,1.0,6,0.0,1264,,"Aashish, Avinash",,1503.0,False,IND,0.0,1,0.0,,0.0
+33487952,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,,,1.0,6,0.0,1264,,"Leah, R Joseph",,1489.0,False,IND,0.0,1,0.0,,0.0
+33487952,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,,,1.0,6,0.0,1264,,"Sai, Darshith Jaladurgam",,1494.0,False,IND,0.5,1,0.0,,0.0
+33487952,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,2.0,5,0.0,1520,,"Anand, Vittal T R",,1680.0,False,IND,0.5,1,0.0,,0.0
+33487952,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,2.0,5,0.0,1520,,"Harshit, Kiran Nayak",,1520.0,False,IND,0.5,1,0.0,,0.0
+33487952,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,2.0,5,0.0,1520,,"Anandhi, P",,1599.0,False,IND,1.0,1,0.0,,0.0
+33487952,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,2.0,5,0.0,1520,,"Arun, Lobo",,1532.0,False,IND,0.0,1,0.0,,0.0
+33487952,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,2.0,5,0.0,1520,,"Siddhi, Rao",,1631.0,False,IND,0.0,1,0.0,,0.0
+33487952,2024-06-01,0,Karnataka State Under 17 Girls Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,,,2.0,5,0.0,1391,,"Crissal, Violla Vas",,1570.0,False,IND,1.0,1,0.0,,0.0
+33487952,2024-06-01,0,Karnataka State Under 17 Girls Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,,,2.0,5,0.0,1391,,"Lincia, Jocelyn Dsouza",,1423.0,False,IND,0.0,1,0.0,,0.0
+33487952,2024-06-01,0,Karnataka State Under 17 Girls Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,,,2.0,5,0.0,1391,,"Simra, Nadaf",,1436.0,False,IND,1.0,1,0.0,,0.0
+33487952,2024-06-01,0,Karnataka State Under 17 Girls Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,,,2.0,5,0.0,1391,,"Sanvitha, A Shetty",,1424.0,False,IND,0.0,1,0.0,,0.0
+33487952,2024-06-01,0,Karnataka State Under 17 Girls Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,,,2.0,5,0.0,1391,,"Anoushka, Bhatt",,1463.0,False,IND,0.0,1,0.0,,0.0
+33487952,2024-08-01,0,Karnataka State Under 13 Girls Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1482.0,1436.0,1.0,3,-0.3,40,-12.0,"Shashini, Puvi",,1493.0,False,IND,0.0,1,-0.42,40.0,-16.8
+33487952,2024-08-01,0,Karnataka State Under 13 Girls Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1482.0,1436.0,1.0,3,-0.3,40,-12.0,"Niharika, K",,1464.0,False,IND,1.0,1,0.54,40.0,21.6
+33487952,2024-08-01,0,Karnataka State Under 13 Girls Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1482.0,1436.0,1.0,3,-0.3,40,-12.0,"Aarabhi, Madhukar",,1490.0,False,IND,0.0,1,-0.42,40.0,-16.8
+33487952,2024-09-01,0,Karnataka State Under 19 GIRLS FIDE rating Chess Championship -2024,Hassan IND,2024-08-02,2024-08-04,1586.0,1424.0,1.5,5,0.01,40,0.4,"Anandhi, P",,1629.0,False,IND,0.0,1,-0.24,40.0,-9.6
+33487952,2024-09-01,0,Karnataka State Under 19 GIRLS FIDE rating Chess Championship -2024,Hassan IND,2024-08-02,2024-08-04,1586.0,1424.0,1.5,5,0.01,40,0.4,"Prasiddhi, Bhat",,1703.0,False,IND,0.0,1,-0.16,40.0,-6.4
+33487952,2024-09-01,0,Karnataka State Under 19 GIRLS FIDE rating Chess Championship -2024,Hassan IND,2024-08-02,2024-08-04,1586.0,1424.0,1.5,5,0.01,40,0.4,"Disha, U A",,1692.0,False,IND,0.0,1,-0.17,40.0,-6.8
+33487952,2024-09-01,0,Karnataka State Under 19 GIRLS FIDE rating Chess Championship -2024,Hassan IND,2024-08-02,2024-08-04,1586.0,1424.0,1.5,5,0.01,40,0.4,"Mahati, V Rao",,1417.0,False,IND,1.0,1,0.49,40.0,19.6
+33487952,2024-09-01,0,Karnataka State Under 19 GIRLS FIDE rating Chess Championship -2024,Hassan IND,2024-08-02,2024-08-04,1586.0,1424.0,1.5,5,0.01,40,0.4,"Chetana, Gopalakrishnan",,1491.0,False,IND,0.5,1,0.09,40.0,3.6
+33487952,2024-10-01,0,Karnataka State Under 15 GIRLS FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1547.0,1424.0,1.5,4,0.14,40,5.6,"Kaushi, Kulkarni",,1637.0,False,IND,1.0,1,0.77,40.0,30.8
+33487952,2024-10-01,0,Karnataka State Under 15 GIRLS FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1547.0,1424.0,1.5,4,0.14,40,5.6,"Dhanushkka, S",,1592.0,False,IND,0.0,1,-0.28,40.0,-11.2
+33487952,2024-10-01,0,Karnataka State Under 15 GIRLS FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1547.0,1424.0,1.5,4,0.14,40,5.6,"Penmetsa, Lakshmi Harshini",,1453.0,False,IND,0.5,1,0.04,40.0,1.6
+33487952,2024-10-01,0,Karnataka State Under 15 GIRLS FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1547.0,1424.0,1.5,4,0.14,40,5.6,"Ibbani, B G",,1507.0,False,IND,0.0,1,-0.39,40.0,-15.6
+33487952,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1565.0,1430.0,4.0,10,0.75,40,30.0,"Kathakali, Dey",,1739.0,False,IND,0.0,1,-0.14,40.0,-5.6
+33487952,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1565.0,1430.0,4.0,10,0.75,40,30.0,"Deepanjali, Srivastava",,1519.0,False,IND,1.0,1,0.62,40.0,24.8
+33487952,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1565.0,1430.0,4.0,10,0.75,40,30.0,"Anmol, Mathur",,1573.0,False,IND,0.5,1,0.19,40.0,7.6
+33487952,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1565.0,1430.0,4.0,10,0.75,40,30.0,"Shiyonika, J",,1560.0,False,IND,0.0,1,-0.32,40.0,-12.8
+33487952,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1565.0,1430.0,4.0,10,0.75,40,30.0,"Pondhiya, S",,1565.0,False,IND,0.0,1,-0.32,40.0,-12.8
+33487952,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1565.0,1430.0,4.0,10,0.75,40,30.0,"Avyukta, Nayyar",,1482.0,False,IND,1.0,1,0.57,40.0,22.8
+33487952,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1565.0,1430.0,4.0,10,0.75,40,30.0,"Sreesha, Kandi",,1526.0,False,IND,0.5,1,0.13,40.0,5.2
+33487952,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1565.0,1430.0,4.0,10,0.75,40,30.0,"Dheeptha, B",,1522.0,False,IND,0.5,1,0.13,40.0,5.2
+33487952,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1565.0,1430.0,4.0,10,0.75,40,30.0,"Palak, Thakur",,1661.0,False,IND,0.5,1,0.29,40.0,11.6
+33487952,2024-12-01,0,49th National Under 15 Girls Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1565.0,1430.0,4.0,10,0.75,40,30.0,"Hiya, Garg",,1505.0,False,IND,0.0,1,-0.4,40.0,-16.0

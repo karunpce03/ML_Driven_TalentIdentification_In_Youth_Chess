@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48700665,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1608,1466,2.5,5,0.94,40,37.6,"Debopriyo, Dutta",,1673.0,False,IND,0.5,1,0.27,40,10.8
+48700665,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1608,1466,2.5,5,0.94,40,37.6,"Abhirup, Mukherjee",,1533.0,False,IND,0.5,1,0.09,40,3.6
+48700665,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1608,1466,2.5,5,0.94,40,37.6,"Archit, Roy",,1619.0,False,IND,0.5,1,0.2,40,8.0
+48700665,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1608,1466,2.5,5,0.94,40,37.6,"Adhrit, Chatterjee",,1646.0,False,IND,0.0,1,-0.26,40,-10.4
+48700665,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1608,1466,2.5,5,0.94,40,37.6,"Deeptanshu, Roy",,1570.0,False,IND,1.0,1,0.64,40,25.6

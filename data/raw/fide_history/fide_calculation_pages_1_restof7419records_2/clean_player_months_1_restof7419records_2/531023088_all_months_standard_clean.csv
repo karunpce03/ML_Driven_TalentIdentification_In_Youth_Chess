@@ -1,0 +1,23 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531023088,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,0.0,1,0.0,687,,"Sripathi, Punchithaya K",,1487.0,False,IND,0.0,1,0.0,,0.0
+531023088,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,2.0,6,0.0,1357,,"Hridya, Rakesh",,1521.0,False,IND,0.0,1,0.0,,0.0
+531023088,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,2.0,6,0.0,1357,,"Richard, Jaimin",,1538.0,False,IND,0.0,1,0.0,,0.0
+531023088,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,2.0,6,0.0,1357,,"Arun, S",,1472.0,False,IND,1.0,1,0.0,,0.0
+531023088,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,2.0,6,0.0,1357,,"Neellesh, Manub",,1526.0,False,IND,0.0,1,0.0,,0.0
+531023088,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,2.0,6,0.0,1357,,"Noushith, S A",,1433.0,False,IND,0.0,1,0.0,,0.0
+531023088,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,,,2.0,6,0.0,1357,,"Sriharikrishna, S",,1404.0,False,IND,1.0,1,0.0,,0.0
+531023088,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1427.0,1475.0,0.0,2,-1.13,40,-45.2,"Rian, Rohal Gollapalli",,1401.0,False,IND,0.0,1,-0.6,40.0,-24.0
+531023088,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1427.0,1475.0,0.0,2,-1.13,40,-45.2,"Pranit, Rastogi",,1452.0,False,IND,0.0,1,-0.53,40.0,-21.2
+531023088,2024-12-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY BELOW 1700 FIDE RATING TOURNAMENT,Kollam IND,2024-11-08,2024-11-10,1594.0,1430.0,0.0,2,-0.57,40,-22.8,"Francis, N. P.",,1582.0,False,IND,0.0,1,-0.3,40.0,-12.0
+531023088,2024-12-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY BELOW 1700 FIDE RATING TOURNAMENT,Kollam IND,2024-11-08,2024-11-10,1594.0,1430.0,0.0,2,-0.57,40,-22.8,"Ani, Joseph",,1605.0,False,IND,0.0,1,-0.27,40.0,-10.8
+531023088,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1593.0,1407.0,0.0,3,-0.79,40,-31.6,"Paresh, S",,1682.0,False,IND,0.0,1,-0.17,40.0,-6.8
+531023088,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1593.0,1407.0,0.0,3,-0.79,40,-31.6,"Sai, Siddharth U",,1570.0,False,IND,0.0,1,-0.28,40.0,-11.2
+531023088,2025-02-01,0,Athens of the east 4th International FIDE  Rated Chess Tournament- 2024 (Below -1800),Madurai IND,2024-12-28,2024-12-30,1593.0,1407.0,0.0,3,-0.79,40,-31.6,"Danish, Roy Vinoth Kumar",,1528.0,False,IND,0.0,1,-0.34,40.0,-13.6
+531023088,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,,,4.0,8,0.0,1527,,"Mukesh, Kannaa A",,1539.0,False,IND,1.0,1,0.0,,0.0
+531023088,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,,,4.0,8,0.0,1527,,"Sukant, B A",,1607.0,False,IND,0.5,1,0.0,,0.0
+531023088,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,,,4.0,8,0.0,1527,,"Pranava, Gopal K",,1526.0,False,IND,0.0,1,0.0,,0.0
+531023088,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,,,4.0,8,0.0,1527,,"Anto, Akil",,1501.0,False,IND,1.0,1,0.0,,0.0
+531023088,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,,,4.0,8,0.0,1527,,"Thevsri, Venkatesh",,1468.0,False,IND,0.5,1,0.0,,0.0
+531023088,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,,,4.0,8,0.0,1527,,"Harshith, Surianarayanan",,1480.0,False,IND,1.0,1,0.0,,0.0
+531023088,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,,,4.0,8,0.0,1527,,"Boopesh, Kumar",,1586.0,False,IND,0.0,1,0.0,,0.0
+531023088,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,,,4.0,8,0.0,1527,,"Ruben, K",,1511.0,False,IND,0.0,1,0.0,,0.0

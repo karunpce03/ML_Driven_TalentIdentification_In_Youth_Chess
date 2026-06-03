@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33335591,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1900,1698,6.0,10,3.52,40,140.8,"Weerathungalage, W D Malisha Sasv",,1798,False,SRI,1.0,1,0.64,40,25.6
+33335591,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1900,1698,6.0,10,3.52,40,140.8,"Pallie, Ehsha Mishela",wc,1887,False,SRI,0.0,1,-0.25,40,-10.0
+33335591,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1900,1698,6.0,10,3.52,40,140.8,"Nikhil, T L",,1793,False,IND,0.0,1,-0.37,40,-14.8
+33335591,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1900,1698,6.0,10,3.52,40,140.8,"Vihaan, Karthikeya N",,1940,False,IND,1.0,1,0.8,40,32.0
+33335591,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1900,1698,6.0,10,3.52,40,140.8,"Wijerathna, Vinuka Dihain",,1895,False,SRI,1.0,1,0.75,40,30.0
+33335591,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1900,1698,6.0,10,3.52,40,140.8,"Jayaweera, Y",,1870,False,SRI,1.0,1,0.73,40,29.2
+33335591,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1900,1698,6.0,10,3.52,40,140.8,"Senevirathne, S D B K",,1893,False,SRI,0.5,1,0.25,40,10.0
+33335591,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1900,1698,6.0,10,3.52,40,140.8,"Jai, Sankar Subramanian",,2098,True,IND,0.0,1,-0.08,40,-3.2
+33335591,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1900,1698,6.0,10,3.52,40,140.8,"Galappaththi, Chinthaka Anuruddh",f,1924,False,SRI,0.5,1,0.29,40,11.6
+33335591,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1900,1698,6.0,10,3.52,40,140.8,"Karunasena, A P Chenitha Sihas Di",,1900,False,SRI,1.0,1,0.76,40,30.4

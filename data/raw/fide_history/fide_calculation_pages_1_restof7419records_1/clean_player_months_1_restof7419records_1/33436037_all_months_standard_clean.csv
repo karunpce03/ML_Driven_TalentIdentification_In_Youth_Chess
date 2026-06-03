@@ -1,0 +1,49 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33436037,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1550,1643,5.0,8,-0.02,40,-0.8,"Manju, Mahesh",,1479.0,False,IND,1.0,1,0.28,40,11.2
+33436037,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1550,1643,5.0,8,-0.02,40,-0.8,"Abdallah, M Nisthar",,1834.0,False,IND,0.0,1,-0.25,40,-10.0
+33436037,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1550,1643,5.0,8,-0.02,40,-0.8,"Srinivasan, N",,1503.0,False,IND,0.0,1,-0.69,40,-27.6
+33436037,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1550,1643,5.0,8,-0.02,40,-0.8,"Fadhil, M S",,1449.0,False,IND,1.0,1,0.25,40,10.0
+33436037,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1550,1643,5.0,8,-0.02,40,-0.8,"Jathiswaran, Shrihari",,1513.0,False,IND,1.0,1,0.32,40,12.8
+33436037,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1550,1643,5.0,8,-0.02,40,-0.8,"Thavish, S",,1548.0,False,IND,0.5,1,-0.13,40,-5.2
+33436037,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1550,1643,5.0,8,-0.02,40,-0.8,"Bathina, Mokshatra Sri Abhiram",,1550.0,False,IND,0.5,1,-0.13,40,-5.2
+33436037,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1550,1643,5.0,8,-0.02,40,-0.8,"Joe, Gladson L",,1520.0,False,IND,1.0,1,0.33,40,13.2
+33436037,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1822,1642,2.5,5,1.17,40,46.8,"Karthik, K",,1782.0,False,IND,1.0,1,0.69,40,27.6
+33436037,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1822,1642,2.5,5,1.17,40,46.8,"Viswanathan, V N",,1874.0,False,IND,0.5,1,0.29,40,11.6
+33436037,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1822,1642,2.5,5,1.17,40,46.8,"Giridhar, A",,1782.0,False,IND,1.0,1,0.69,40,27.6
+33436037,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1822,1642,2.5,5,1.17,40,46.8,"Ahaz, E U",,1877.0,False,IND,0.0,1,-0.21,40,-8.4
+33436037,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1822,1642,2.5,5,1.17,40,46.8,"Shreyas, Arun",,1797.0,False,IND,0.0,1,-0.29,40,-11.6
+33436037,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1604,1642,4.0,7,0.06,40,2.4,"Arjun, A Menon",,1465.0,False,IND,1.0,1,0.27,40,10.8
+33436037,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1604,1642,4.0,7,0.06,40,2.4,"Srinivasa Rao, M.",f,2013.0,False,IND,0.0,1,-0.1,40,-4.0
+33436037,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1604,1642,4.0,7,0.06,40,2.4,"Deval, Rohit",,1472.0,False,IND,1.0,1,0.28,40,11.2
+33436037,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1604,1642,4.0,7,0.06,40,2.4,"Nikhil, M",,1525.0,False,IND,1.0,1,0.34,40,13.6
+33436037,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1604,1642,4.0,7,0.06,40,2.4,"Aadinath, Harilal",,1782.0,False,IND,0.0,1,-0.31,40,-12.4
+33436037,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1604,1642,4.0,7,0.06,40,2.4,"Varada, S",,1508.0,False,IND,0.0,1,-0.68,40,-27.2
+33436037,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1604,1642,4.0,7,0.06,40,2.4,"Chae, Kuevara J S",,1461.0,False,IND,1.0,1,0.26,40,10.4
+33436037,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1523,1689,6.0,9,-0.43,40,-17.2,"Aadhya, Krishnavajjala",,1425.0,False,IND,1.0,1,0.18,40,7.2
+33436037,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1523,1689,6.0,9,-0.43,40,-17.2,"Rahul, S",,1516.0,False,IND,0.0,1,-0.73,40,-29.2
+33436037,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1523,1689,6.0,9,-0.43,40,-17.2,"Vaishnav, Reshab S H",,1413.0,False,IND,1.0,1,0.17,40,6.8
+33436037,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1523,1689,6.0,9,-0.43,40,-17.2,"Prajith, J",,1507.0,False,IND,1.0,1,0.26,40,10.4
+33436037,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1523,1689,6.0,9,-0.43,40,-17.2,"Manojkumar, R",,1552.0,False,IND,1.0,1,0.32,40,12.8
+33436037,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1523,1689,6.0,9,-0.43,40,-17.2,"Caris, Jeshurun A",,1570.0,False,IND,1.0,1,0.34,40,13.6
+33436037,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1523,1689,6.0,9,-0.43,40,-17.2,"Aron, Rose",,1597.0,False,IND,0.0,1,-0.63,40,-25.2
+33436037,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1523,1689,6.0,9,-0.43,40,-17.2,"Paul, Kattukaren",,1575.0,False,IND,0.5,1,-0.16,40,-6.4
+33436037,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1523,1689,6.0,9,-0.43,40,-17.2,"Katheraswaran, A",,1553.0,False,IND,0.5,1,-0.18,40,-7.2
+33436037,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1638,1674,5.5,8,1.08,40,43.2,"Vedhik, Viswanath",,1476.0,False,IND,1.0,1,0.24,40,9.6
+33436037,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1638,1674,5.5,8,1.08,40,43.2,"Marthandan, K U",,1986.0,False,IND,0.0,1,-0.14,40,-5.6
+33436037,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1638,1674,5.5,8,1.08,40,43.2,"Hridya, Rakesh",,1521.0,False,IND,1.0,1,0.3,40,12.0
+33436037,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1638,1674,5.5,8,1.08,40,43.2,"Leo, Sanish",,1536.0,False,IND,0.5,1,-0.19,40,-7.6
+33436037,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1638,1674,5.5,8,1.08,40,43.2,"Srinivasan, R",,1495.0,False,IND,1.0,1,0.27,40,10.8
+33436037,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1638,1674,5.5,8,1.08,40,43.2,"Joy, Lazar M.a.",,1781.0,False,IND,1.0,1,0.65,40,26.0
+33436037,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1638,1674,5.5,8,1.08,40,43.2,"Mithun, K",,1756.0,False,IND,0.0,1,-0.39,40,-15.6
+33436037,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1638,1674,5.5,8,1.08,40,43.2,"Neerad, P",,1555.0,False,IND,1.0,1,0.34,40,13.6
+33436037,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1739,1717,5.0,11,-0.26,40,-10.4,"Srija, Seshadri",wg,2117.0,True,IND,0.0,1,-0.08,40,-3.2
+33436037,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1739,1717,5.0,11,-0.26,40,-10.4,"Hiya, Garg",,1485.0,False,IND,1.0,1,0.21,40,8.4
+33436037,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1739,1717,5.0,11,-0.26,40,-10.4,"Sherali, Pattnaik",wc,1892.0,False,IND,1.0,1,0.73,40,29.2
+33436037,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1739,1717,5.0,11,-0.26,40,-10.4,"Ananya, Raman",,1874.0,False,IND,0.0,1,-0.29,40,-11.6
+33436037,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1739,1717,5.0,11,-0.26,40,-10.4,"Pratyasha, Jena",,1796.0,False,IND,0.0,1,-0.39,40,-15.6
+33436037,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1739,1717,5.0,11,-0.26,40,-10.4,"Adiba, Ullah",,1552.0,False,IND,1.0,1,0.28,40,11.2
+33436037,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1739,1717,5.0,11,-0.26,40,-10.4,"Saranya, Devi Narahari",,1880.0,False,IND,0.0,1,-0.28,40,-11.2
+33436037,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1739,1717,5.0,11,-0.26,40,-10.4,"Shiyonika, J",,1536.0,False,IND,1.0,1,0.26,40,10.4
+33436037,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1739,1717,5.0,11,-0.26,40,-10.4,"Yashvi, Jain",,1933.0,False,IND,0.0,1,-0.22,40,-8.8
+33436037,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1739,1717,5.0,11,-0.26,40,-10.4,"Palak, Thakur",,1575.0,False,IND,0.0,1,-0.69,40,-27.6
+33436037,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1739,1717,5.0,11,-0.26,40,-10.4,"Aarabhi, Madhukar",,1487.0,False,IND,1.0,1,0.21,40,8.4

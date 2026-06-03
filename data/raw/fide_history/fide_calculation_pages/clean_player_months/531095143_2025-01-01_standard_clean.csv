@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531095143,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1469,1735,1.5,5,-2.62,40,-104.8,"Parichay, Subba",,1471.0,False,IND,0.0,1,-0.82,40,-32.8
+531095143,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1469,1735,1.5,5,-2.62,40,-104.8,"Eric, C Lalhruaitluanga",,1475.0,False,IND,0.0,1,-0.82,40,-32.8
+531095143,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1469,1735,1.5,5,-2.62,40,-104.8,"Lemba, Sougaijam",,1496.0,False,IND,0.5,1,-0.3,40,-12.0
+531095143,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1469,1735,1.5,5,-2.62,40,-104.8,"Monodeep, Dhar",,1456.0,False,IND,0.5,1,-0.34,40,-13.6
+531095143,2025-01-01,0,22nd North East Fide Rating Chess Championship 2024,Gomati IND,2024-12-17,2024-12-21,1469,1735,1.5,5,-2.62,40,-104.8,"Debajit, Sarkar",,1449.0,False,IND,0.5,1,-0.34,40,-13.6

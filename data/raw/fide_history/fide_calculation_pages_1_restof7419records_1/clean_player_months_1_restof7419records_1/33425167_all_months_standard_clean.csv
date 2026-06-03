@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33425167,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1531,1407,1.5,4,0.18,40,7.2,"Dinesh, Kumar Gupta",,1562.0,False,IND,0.5,1,0.21,40,8.4
+33425167,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1531,1407,1.5,4,0.18,40,7.2,"Arhaan, Agrawal",,1523.0,False,IND,0.5,1,0.16,40,6.4
+33425167,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1531,1407,1.5,4,0.18,40,7.2,"Saksham, Goel",,1522.0,False,IND,0.5,1,0.16,40,6.4
+33425167,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1531,1407,1.5,4,0.18,40,7.2,"Bir Singh, Raminder",,1515.0,False,IND,0.0,1,-0.35,40,-14.0
+33425167,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1594,1414,5.0,9,2.52,40,100.8,"Sarkar, Aidan Krishna Benoit",,1811.0,False,SEN,1.0,1,0.92,40,36.8
+33425167,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1594,1414,5.0,9,2.52,40,100.8,"Ateeksh, Singh Jeena",,1559.0,False,IND,0.5,1,0.19,40,7.6
+33425167,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1594,1414,5.0,9,2.52,40,100.8,"Ansh, Setia",,1545.0,False,IND,0.5,1,0.18,40,7.2
+33425167,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1594,1414,5.0,9,2.52,40,100.8,"Jayansh, Dhingra",,1536.0,False,IND,1.0,1,0.67,40,26.8
+33425167,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1594,1414,5.0,9,2.52,40,100.8,"Pazhany, Kaushal Kohli",,1631.0,False,IND,0.0,1,-0.22,40,-8.8
+33425167,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1594,1414,5.0,9,2.52,40,100.8,"Sharma, Pramod Kumar",,1502.0,False,IND,1.0,1,0.62,40,24.8
+33425167,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1594,1414,5.0,9,2.52,40,100.8,"Aarav, Neelkamal Gupta",,1558.0,False,IND,0.5,1,0.19,40,7.6
+33425167,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1594,1414,5.0,9,2.52,40,100.8,"Hariom, Solanki",,1683.0,False,IND,0.0,1,-0.17,40,-6.8
+33425167,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1594,1414,5.0,9,2.52,40,100.8,Shreya,,1517.0,False,IND,0.5,1,0.14,40,5.6
+33425167,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1651,1414,0.5,4,-0.38,40,-15.2,"Kolla, Bhaavan",,1814.0,True,IND,0.0,1,-0.08,40,-3.2
+33425167,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1651,1414,0.5,4,-0.38,40,-15.2,"Samriddhi, Tiwari",,1658.0,False,IND,0.0,1,-0.2,40,-8.0
+33425167,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1651,1414,0.5,4,-0.38,40,-15.2,"Vishesh, Srikant",,1602.0,False,IND,0.0,1,-0.26,40,-10.4
+33425167,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1651,1414,0.5,4,-0.38,40,-15.2,"Bhavin, Malhotra",,1530.0,False,IND,0.5,1,0.16,40,6.4

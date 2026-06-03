@@ -1,0 +1,87 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25184237,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2117,2077,4.5,8,0.77,40,30.8,"Sanjay, Vasu",,1788.0,False,SGP,1.0,1,0.16,40,6.4
+25184237,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2117,2077,4.5,8,0.77,40,30.8,"Morris, James",m,2432.0,False,AUS,1.0,1,0.89,40,35.6
+25184237,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2117,2077,4.5,8,0.77,40,30.8,"Garcia, Jan Emmanuel",m,2408.0,False,PHI,0.5,1,0.38,40,15.2
+25184237,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2117,2077,4.5,8,0.77,40,30.8,"Danilenko, Dmitriy",f,2398.0,False,UKR,0.0,1,-0.13,40,-5.2
+25184237,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2117,2077,4.5,8,0.77,40,30.8,"Badmatsyrenov, Oleg",m,2407.0,False,FID,0.0,1,-0.12,40,-4.8
+25184237,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2117,2077,4.5,8,0.77,40,30.8,"Shanmathi, Sree S",,1801.0,False,IND,0.0,1,-0.83,40,-33.2
+25184237,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2117,2077,4.5,8,0.77,40,30.8,"Ravi, Krishna G",,1870.0,False,IND,1.0,1,0.23,40,9.2
+25184237,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,2117,2077,4.5,8,0.77,40,30.8,"Krishay, Jain",,1828.0,False,IND,1.0,1,0.19,40,7.6
+25184237,2024-08-01,0,XLVI Open Internacional Escacs Barbera del Valles 2024 Grup A,Barbera del Valles (Barcelona) ESP,2024-07-04,2024-07-12,2170,2108,4.0,8,0.43,40,17.2,"Cuartas, Jaime Alexander",g,2508.0,True,COL,0.0,1,-0.08,40,-3.2
+25184237,2024-08-01,0,XLVI Open Internacional Escacs Barbera del Valles 2024 Grup A,Barbera del Valles (Barcelona) ESP,2024-07-04,2024-07-12,2170,2108,4.0,8,0.43,40,17.2,"Barot Lavin, Carlos",,2012.0,False,ESP,1.0,1,0.37,40,14.8
+25184237,2024-08-01,0,XLVI Open Internacional Escacs Barbera del Valles 2024 Grup A,Barbera del Valles (Barcelona) ESP,2024-07-04,2024-07-12,2170,2108,4.0,8,0.43,40,17.2,"Berdayes Ason, Dylan Isidro",g,2508.0,True,CUB,0.0,1,-0.08,40,-3.2
+25184237,2024-08-01,0,XLVI Open Internacional Escacs Barbera del Valles 2024 Grup A,Barbera del Valles (Barcelona) ESP,2024-07-04,2024-07-12,2170,2108,4.0,8,0.43,40,17.2,"Potluri, Saye Srreezza",,2060.0,False,IND,1.0,1,0.43,40,17.2
+25184237,2024-08-01,0,XLVI Open Internacional Escacs Barbera del Valles 2024 Grup A,Barbera del Valles (Barcelona) ESP,2024-07-04,2024-07-12,2170,2108,4.0,8,0.43,40,17.2,"Anustoop, Biswas",,2276.0,False,IND,0.0,1,-0.28,40,-11.2
+25184237,2024-08-01,0,XLVI Open Internacional Escacs Barbera del Valles 2024 Grup A,Barbera del Valles (Barcelona) ESP,2024-07-04,2024-07-12,2170,2108,4.0,8,0.43,40,17.2,"Ambarish, Sharma",,1975.0,False,IND,1.0,1,0.32,40,12.8
+25184237,2024-08-01,0,XLVI Open Internacional Escacs Barbera del Valles 2024 Grup A,Barbera del Valles (Barcelona) ESP,2024-07-04,2024-07-12,2170,2108,4.0,8,0.43,40,17.2,"Abel, Sajan",,1946.0,False,IND,0.0,1,-0.71,40,-28.4
+25184237,2024-08-01,0,XLVI Open Internacional Escacs Barbera del Valles 2024 Grup A,Barbera del Valles (Barcelona) ESP,2024-07-04,2024-07-12,2170,2108,4.0,8,0.43,40,17.2,"Najar Arrieta, Oriol",,2076.0,False,ESP,1.0,1,0.46,40,18.4
+25184237,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2124,2108,6.0,9,1.52,40,60.8,"Vedant, Rupeshbhai Varasada",,1954.0,False,IND,1.0,1,0.29,40,11.6
+25184237,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2124,2108,6.0,9,1.52,40,60.8,"Diaz Perez, Michel Alejandro",m,2486.0,False,CUB,0.0,1,-0.09,40,-3.6
+25184237,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2124,2108,6.0,9,1.52,40,60.8,"Jagreet, Misra",,2009.0,False,IND,0.5,1,-0.14,40,-5.6
+25184237,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2124,2108,6.0,9,1.52,40,60.8,"Ambarish, Sharma",,1975.0,False,IND,0.5,1,-0.18,40,-7.2
+25184237,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2124,2108,6.0,9,1.52,40,60.8,"Reyan, Md.",c,2022.0,False,IND,1.0,1,0.38,40,15.2
+25184237,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2124,2108,6.0,9,1.52,40,60.8,"Sharikov, Alexander",,2039.0,False,FID,0.5,1,-0.1,40,-4.0
+25184237,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2124,2108,6.0,9,1.52,40,60.8,"Bakshi, Rutuja",wf,2058.0,False,IND,1.0,1,0.43,40,17.2
+25184237,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2124,2108,6.0,9,1.52,40,60.8,"Aloma Vidal, Robert",m,2428.0,False,ESP,0.5,1,0.37,40,14.8
+25184237,2024-08-01,0,XXIV Obert Internacional Sant Marti 2024 Grup A,Barcelona ESP,2024-07-13,2024-07-21,2124,2108,6.0,9,1.52,40,60.8,"Navalgund, Niranjan",f,2149.0,False,IND,1.0,1,0.56,40,22.4
+25184237,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2250,2108,5.0,8,2.34,40,93.6,"Valenzuela Gomez, Fernando",m,2358.0,False,CHI,1.0,1,0.81,40,32.4
+25184237,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2250,2108,5.0,8,2.34,40,93.6,"Kshatriya, Nitin Vekhande",c,2292.0,False,IND,1.0,1,0.74,40,29.6
+25184237,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2250,2108,5.0,8,2.34,40,93.6,"Aloma Vidal, Robert",m,2428.0,False,ESP,0.0,1,-0.13,40,-5.2
+25184237,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2250,2108,5.0,8,2.34,40,93.6,"Pimpalkhare, Vedant",c,2254.0,False,IND,0.5,1,0.2,40,8.0
+25184237,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2250,2108,5.0,8,2.34,40,93.6,"Klabis, Rokas",m,2399.0,False,LTU,0.0,1,-0.15,40,-6.0
+25184237,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2250,2108,5.0,8,2.34,40,93.6,"You, Qingyi",,1880.0,False,CHN,1.0,1,0.21,40,8.4
+25184237,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2250,2108,5.0,8,2.34,40,93.6,"Narciso Dublan, Marc",g,2432.0,False,ESP,0.5,1,0.37,40,14.8
+25184237,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2250,2108,5.0,8,2.34,40,93.6,"Vedant, Rupeshbhai Varasada",,1954.0,False,IND,1.0,1,0.29,40,11.6
+25184237,2024-09-01,0,48 Obert Internacional d'Escacs Ciutat de Badalona Grup A,Badalona (Barcelona) ESP,2024-08-02,2024-08-10,2091,2186,6.0,9,0.41,40,16.4,"Jain, Kushagra",,1965.0,False,IND,0.0,1,-0.78,40,-31.2
+25184237,2024-09-01,0,48 Obert Internacional d'Escacs Ciutat de Badalona Grup A,Badalona (Barcelona) ESP,2024-08-02,2024-08-10,2091,2186,6.0,9,0.41,40,16.4,"Rana, Oliver",,1906.0,False,USA,1.0,1,0.16,40,6.4
+25184237,2024-09-01,0,48 Obert Internacional d'Escacs Ciutat de Badalona Grup A,Badalona (Barcelona) ESP,2024-08-02,2024-08-10,2091,2186,6.0,9,0.41,40,16.4,"Martinez Talavera, Jordi",,2019.0,False,ESP,1.0,1,0.28,40,11.2
+25184237,2024-09-01,0,48 Obert Internacional d'Escacs Ciutat de Badalona Grup A,Badalona (Barcelona) ESP,2024-08-02,2024-08-10,2091,2186,6.0,9,0.41,40,16.4,"Santos Izquierdo, Daniel",,2036.0,False,ESP,1.0,1,0.3,40,12.0
+25184237,2024-09-01,0,48 Obert Internacional d'Escacs Ciutat de Badalona Grup A,Badalona (Barcelona) ESP,2024-08-02,2024-08-10,2091,2186,6.0,9,0.41,40,16.4,"Utsab, Chatterjee",m,2289.0,False,IND,0.5,1,0.14,40,5.6
+25184237,2024-09-01,0,48 Obert Internacional d'Escacs Ciutat de Badalona Grup A,Badalona (Barcelona) ESP,2024-08-02,2024-08-10,2091,2186,6.0,9,0.41,40,16.4,"Deepak Ambattu, Rithvik",,2079.0,False,SCO,1.0,1,0.35,40,14.0
+25184237,2024-09-01,0,48 Obert Internacional d'Escacs Ciutat de Badalona Grup A,Badalona (Barcelona) ESP,2024-08-02,2024-08-10,2091,2186,6.0,9,0.41,40,16.4,"Pimpalkhare, Vedant",c,2191.0,False,IND,0.5,1,0.01,40,0.4
+25184237,2024-09-01,0,48 Obert Internacional d'Escacs Ciutat de Badalona Grup A,Badalona (Barcelona) ESP,2024-08-02,2024-08-10,2091,2186,6.0,9,0.41,40,16.4,"Blasco Coll, Andreu",f,2260.0,False,ESP,0.0,1,-0.4,40,-16.0
+25184237,2024-09-01,0,48 Obert Internacional d'Escacs Ciutat de Badalona Grup A,Badalona (Barcelona) ESP,2024-08-02,2024-08-10,2091,2186,6.0,9,0.41,40,16.4,"Marabajan Navas, Saul",,2077.0,False,ESP,1.0,1,0.35,40,14.0
+25184237,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2387,2296,2.5,8,-0.51,40,-20.4,"Begmuratov, Khumoyun",m,2416.0,False,UZB,0.5,1,0.16,40,6.4
+25184237,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2387,2296,2.5,8,-0.51,40,-20.4,"Abdurakhmonov, Mukhammadali",m,2395.0,False,UZB,0.5,1,0.14,40,5.6
+25184237,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2387,2296,2.5,8,-0.51,40,-20.4,"Zarubitski, Viachaslau",m,2389.0,False,FID,0.5,1,0.13,40,5.2
+25184237,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2387,2296,2.5,8,-0.51,40,-20.4,"Goganov, Aleksey",g,2465.0,False,FID,0.5,1,0.22,40,8.8
+25184237,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2387,2296,2.5,8,-0.51,40,-20.4,"Zhang, Ziji",m,2380.0,False,CHN,0.0,1,-0.38,40,-15.2
+25184237,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2387,2296,2.5,8,-0.51,40,-20.4,"Adireddy, Arjun",f,2335.0,False,IND,0.0,1,-0.45,40,-18.0
+25184237,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2387,2296,2.5,8,-0.51,40,-20.4,"Zhu, Hengyi",,2361.0,False,CHN,0.0,1,-0.41,40,-16.4
+25184237,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2387,2296,2.5,8,-0.51,40,-20.4,"Tyurin, Artem",f,2356.0,False,FID,0.5,1,0.08,40,3.2
+25184237,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2404,2296,5.0,9,1.82,40,72.8,"Shyaam, Nikhil P",g,2445.0,False,IND,0.5,1,0.2,40,8.0
+25184237,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2404,2296,5.0,9,1.82,40,72.8,"Begmuratov, Khumoyun",m,2416.0,False,UZB,0.5,1,0.16,40,6.4
+25184237,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2404,2296,5.0,9,1.82,40,72.8,"Gan-Erdene, Sugar",m,2437.0,False,MGL,0.0,1,-0.31,40,-12.4
+25184237,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2404,2296,5.0,9,1.82,40,72.8,"Kamalidenova, Meruert",m wg,2378.0,False,KAZ,1.0,1,0.61,40,24.4
+25184237,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2404,2296,5.0,9,1.82,40,72.8,"Rakhmatullaev, Almas",m,2410.0,False,UZB,0.0,1,-0.34,40,-13.6
+25184237,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2404,2296,5.0,9,1.82,40,72.8,"Shturman, Arseniy",c,2350.0,False,FID,0.0,1,-0.42,40,-16.8
+25184237,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2404,2296,5.0,9,1.82,40,72.8,"Tissir, Mohamed",m,2342.0,False,MAR,1.0,1,0.56,40,22.4
+25184237,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2404,2296,5.0,9,1.82,40,72.8,"Aaditya, Dhingra",m,2448.0,False,IND,1.0,1,0.7,40,28.0
+25184237,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2404,2296,5.0,9,1.82,40,72.8,"Klukin, Kirill",m,2413.0,False,FID,1.0,1,0.66,40,26.4
+25184237,2025-03-01,0,RUDAR XVI - GM ROUND ROBIN,Pozarevac SRB,2025-01-28,2025-02-04,2448,2348,4.5,9,1.22,20,24.4,"Citak, Selim",f,2367.0,False,TUR,0.5,1,0.03,20,0.6
+25184237,2025-03-01,0,RUDAR XVI - GM ROUND ROBIN,Pozarevac SRB,2025-01-28,2025-02-04,2448,2348,4.5,9,1.22,20,24.4,"Tyurin, Artem",f,2361.0,False,FID,1.0,1,0.52,20,10.4
+25184237,2025-03-01,0,RUDAR XVI - GM ROUND ROBIN,Pozarevac SRB,2025-01-28,2025-02-04,2448,2348,4.5,9,1.22,20,24.4,"Akbas, Umut Ata",m,2457.0,False,TUR,1.0,1,0.65,20,13.0
+25184237,2025-03-01,0,RUDAR XVI - GM ROUND ROBIN,Pozarevac SRB,2025-01-28,2025-02-04,2448,2348,4.5,9,1.22,20,24.4,"Klukin, Kirill",m,2398.0,False,FID,1.0,1,0.57,20,11.4
+25184237,2025-03-01,0,RUDAR XVI - GM ROUND ROBIN,Pozarevac SRB,2025-01-28,2025-02-04,2448,2348,4.5,9,1.22,20,24.4,"Afanasiev, Nikita",g,2528.0,False,RUS,0.0,1,-0.26,20,-5.2
+25184237,2025-03-01,0,RUDAR XVI - GM ROUND ROBIN,Pozarevac SRB,2025-01-28,2025-02-04,2448,2348,4.5,9,1.22,20,24.4,"Bryakin, Mikhail",g,2426.0,False,SRB,0.0,1,-0.39,20,-7.8
+25184237,2025-03-01,0,RUDAR XVI - GM ROUND ROBIN,Pozarevac SRB,2025-01-28,2025-02-04,2448,2348,4.5,9,1.22,20,24.4,"Rohith, Krishna S",m,2473.0,False,IND,1.0,1,0.67,20,13.4
+25184237,2025-03-01,0,RUDAR XVI - GM ROUND ROBIN,Pozarevac SRB,2025-01-28,2025-02-04,2448,2348,4.5,9,1.22,20,24.4,"Xu, Zhihang",m,2502.0,False,CHN,0.0,1,-0.29,20,-5.8
+25184237,2025-03-01,0,RUDAR XVI - GM ROUND ROBIN,Pozarevac SRB,2025-01-28,2025-02-04,2448,2348,4.5,9,1.22,20,24.4,"Peng, Li Min",g,2518.0,False,SUI,0.0,1,-0.28,20,-5.6
+25184237,2025-03-01,0,RUDAR XVII - GM ROUND ROBIN,Pozarevac SRB,2025-02-05,2025-02-12,2415,2348,6.5,9,2.82,20,56.4,"Tyurin, Artem",f,2361.0,False,FID,1.0,1,0.52,20,10.4
+25184237,2025-03-01,0,RUDAR XVII - GM ROUND ROBIN,Pozarevac SRB,2025-02-05,2025-02-12,2415,2348,6.5,9,2.82,20,56.4,"Pastar, Slaven",m,2361.0,False,BIH,0.5,1,0.02,20,0.4
+25184237,2025-03-01,0,RUDAR XVII - GM ROUND ROBIN,Pozarevac SRB,2025-02-05,2025-02-12,2415,2348,6.5,9,2.82,20,56.4,"Klukin, Kirill",m,2410.0,False,FID,1.0,1,0.59,20,11.8
+25184237,2025-03-01,0,RUDAR XVII - GM ROUND ROBIN,Pozarevac SRB,2025-02-05,2025-02-12,2415,2348,6.5,9,2.82,20,56.4,"Bogosavljevic, Boban",g,2481.0,False,SRB,1.0,1,0.68,20,13.6
+25184237,2025-03-01,0,RUDAR XVII - GM ROUND ROBIN,Pozarevac SRB,2025-02-05,2025-02-12,2415,2348,6.5,9,2.82,20,56.4,"Xu, Zhihang",m,2503.0,False,CHN,0.5,1,0.21,20,4.2
+25184237,2025-03-01,0,RUDAR XVII - GM ROUND ROBIN,Pozarevac SRB,2025-02-05,2025-02-12,2415,2348,6.5,9,2.82,20,56.4,"Afanasiev, Nikita",g,2520.0,False,RUS,0.5,1,0.23,20,4.6
+25184237,2025-03-01,0,RUDAR XVII - GM ROUND ROBIN,Pozarevac SRB,2025-02-05,2025-02-12,2415,2348,6.5,9,2.82,20,56.4,"Karaoglan, Doruk",c,2316.0,False,TUR,1.0,1,0.46,20,9.2
+25184237,2025-03-01,0,RUDAR XVII - GM ROUND ROBIN,Pozarevac SRB,2025-02-05,2025-02-12,2415,2348,6.5,9,2.82,20,56.4,"Pogorelskikh, Sofia",wm,2319.0,False,SRB,1.0,1,0.46,20,9.2
+25184237,2025-03-01,0,RUDAR XVII - GM ROUND ROBIN,Pozarevac SRB,2025-02-05,2025-02-12,2415,2348,6.5,9,2.82,20,56.4,"Sedlak, Nikola",g,2460.0,False,SRB,0.0,1,-0.35,20,-7.0
+25184237,2025-04-01,0,PILSEN OPEN 2025 A - GM round robin tournament,Plzen CZE,2025-03-15,2025-03-22,2395,2429,3.0,9,-1.93,10,-19.3,"Otsuka, Shou",c,2323.0,False,JPN,1.0,1,0.36,10,3.6
+25184237,2025-04-01,0,PILSEN OPEN 2025 A - GM round robin tournament,Plzen CZE,2025-03-15,2025-03-22,2395,2429,3.0,9,-1.93,10,-19.3,"Mattenberger, Matthias",f,2338.0,False,SUI,0.0,1,-0.62,10,-6.2
+25184237,2025-04-01,0,PILSEN OPEN 2025 A - GM round robin tournament,Plzen CZE,2025-03-15,2025-03-22,2395,2429,3.0,9,-1.93,10,-19.3,"Song, Yuxin",m wg,2367.0,False,CHN,0.0,1,-0.59,10,-5.9
+25184237,2025-04-01,0,PILSEN OPEN 2025 A - GM round robin tournament,Plzen CZE,2025-03-15,2025-03-22,2395,2429,3.0,9,-1.93,10,-19.3,"Pacher, Milan",g,2336.0,False,SVK,0.0,1,-0.63,10,-6.3
+25184237,2025-04-01,0,PILSEN OPEN 2025 A - GM round robin tournament,Plzen CZE,2025-03-15,2025-03-22,2395,2429,3.0,9,-1.93,10,-19.3,"Zhao, Yuanhe",m,2466.0,False,CHN,0.0,1,-0.45,10,-4.5
+25184237,2025-04-01,0,PILSEN OPEN 2025 A - GM round robin tournament,Plzen CZE,2025-03-15,2025-03-22,2395,2429,3.0,9,-1.93,10,-19.3,"Krishna, C R G",m,2418.0,False,IND,0.5,1,-0.02,10,-0.2
+25184237,2025-04-01,0,PILSEN OPEN 2025 A - GM round robin tournament,Plzen CZE,2025-03-15,2025-03-22,2395,2429,3.0,9,-1.93,10,-19.3,"Neuman, Petr",g,2421.0,False,CZE,0.5,1,-0.01,10,-0.1
+25184237,2025-04-01,0,PILSEN OPEN 2025 A - GM round robin tournament,Plzen CZE,2025-03-15,2025-03-22,2395,2429,3.0,9,-1.93,10,-19.3,"Petr, Martin",g,2474.0,False,CZE,0.5,1,0.06,10,0.6
+25184237,2025-04-01,0,PILSEN OPEN 2025 A - GM round robin tournament,Plzen CZE,2025-03-15,2025-03-22,2395,2429,3.0,9,-1.93,10,-19.3,"Kuegel, Tobias",m,2409.0,False,GER,0.5,1,-0.03,10,-0.3

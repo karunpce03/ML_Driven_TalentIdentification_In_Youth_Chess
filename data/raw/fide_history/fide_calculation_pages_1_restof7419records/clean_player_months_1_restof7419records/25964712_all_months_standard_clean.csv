@@ -1,0 +1,42 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25964712,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,3.0,7,0.0,1429,,"Chinmoy, Mukherjee",,1531.0,False,IND,0.5,1,0.0,,0.0
+25964712,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,3.0,7,0.0,1429,,"Riaan, Sen Gupta",,1464.0,False,IND,0.5,1,0.0,,0.0
+25964712,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,3.0,7,0.0,1429,,"Shakya, Kundu",,1474.0,False,IND,0.0,1,0.0,,0.0
+25964712,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,3.0,7,0.0,1429,,"Avighna, Das",,1443.0,False,IND,0.0,1,0.0,,0.0
+25964712,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,3.0,7,0.0,1429,,"Aniket, Das",,1432.0,False,IND,1.0,1,0.0,,0.0
+25964712,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,3.0,7,0.0,1429,,"Maulesh, Konar",,1461.0,False,IND,1.0,1,0.0,,0.0
+25964712,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,,,3.0,7,0.0,1429,,"Navaneel, Chhatui",,1551.0,False,IND,0.0,1,0.0,,0.0
+25964712,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,,,3.0,7,0.0,1432,,"Priyangsu, Sur",,1516.0,False,IND,1.0,1,0.0,,0.0
+25964712,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,,,3.0,7,0.0,1432,,"Rudrasish, Som",,1620.0,False,IND,0.0,1,0.0,,0.0
+25964712,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,,,3.0,7,0.0,1432,,"Oiendrila, Bhattacharya",,1508.0,False,IND,0.0,1,0.0,,0.0
+25964712,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,,,3.0,7,0.0,1432,,"Susanbed, Pal",,1426.0,False,IND,0.5,1,0.0,,0.0
+25964712,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,,,3.0,7,0.0,1432,,"Anurag, Bhadra",,1430.0,False,IND,0.5,1,0.0,,0.0
+25964712,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,,,3.0,7,0.0,1432,,"Ankit, Ganguly",,1417.0,False,IND,1.0,1,0.0,,0.0
+25964712,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,,,3.0,7,0.0,1432,,"Sanchayita, Das",,1458.0,False,IND,0.0,1,0.0,,0.0
+25964712,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1552.0,1510.0,4.0,8,0.45,40,18.0,"Abhiraj, Das",,1517.0,False,IND,1.0,1,0.51,40.0,20.4
+25964712,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1552.0,1510.0,4.0,8,0.45,40,18.0,"Srijan, Chatterjee",,1617.0,False,IND,1.0,1,0.65,40.0,26.0
+25964712,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1552.0,1510.0,4.0,8,0.45,40,18.0,"Debayan, Ray",,1693.0,False,IND,0.0,1,-0.26,40.0,-10.4
+25964712,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1552.0,1510.0,4.0,8,0.45,40,18.0,"Himadri, Bhandari",,1519.0,False,IND,0.0,1,-0.49,40.0,-19.6
+25964712,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1552.0,1510.0,4.0,8,0.45,40,18.0,"Aishik, Satya Chatterjee",,1472.0,False,IND,1.0,1,0.45,40.0,18.0
+25964712,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1552.0,1510.0,4.0,8,0.45,40,18.0,"Diptayan, Debchoudhury",,1508.0,False,IND,1.0,1,0.5,40.0,20.0
+25964712,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1552.0,1510.0,4.0,8,0.45,40,18.0,"Abir, Mitra",,1597.0,False,IND,0.0,1,-0.38,40.0,-15.2
+25964712,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1552.0,1510.0,4.0,8,0.45,40,18.0,"Srianshu, Das",,1489.0,False,IND,0.0,1,-0.53,40.0,-21.2
+25964712,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1513.0,1528.0,2.0,3,0.44,40,17.6,"Kausum, Basu",,1423.0,False,IND,1.0,1,0.36,40.0,14.4
+25964712,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1513.0,1528.0,2.0,3,0.44,40,17.6,"Mayanka, Paul",,1678.0,False,IND,0.0,1,-0.3,40.0,-12.0
+25964712,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1513.0,1528.0,2.0,3,0.44,40,17.6,"Kazi, Adyan Ahmed",,1438.0,False,IND,1.0,1,0.38,40.0,15.2
+25964712,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1556.0,1546.0,1.5,5,-0.93,40,-37.2,"Abhigyan, Das",,1700.0,False,IND,0.0,1,-0.29,40.0,-11.6
+25964712,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1556.0,1546.0,1.5,5,-0.93,40,-37.2,"Adhvik, Nandy",,1474.0,False,IND,0.5,1,-0.1,40.0,-4.0
+25964712,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1556.0,1546.0,1.5,5,-0.93,40,-37.2,"Mayukh, Dey",,1509.0,False,IND,1.0,1,0.45,40.0,18.0
+25964712,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1556.0,1546.0,1.5,5,-0.93,40,-37.2,"Ryan, Gelek",,1653.0,False,IND,0.0,1,-0.35,40.0,-14.0
+25964712,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1556.0,1546.0,1.5,5,-0.93,40,-37.2,"Shivarshi, Chakrabarti",,1446.0,False,IND,0.0,1,-0.64,40.0,-25.6
+25964712,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1702.0,1509.0,2.0,8,-0.04,40,-1.6,"Shubh, Atha",,1790.0,False,IND,0.0,1,-0.16,40.0,-6.4
+25964712,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1702.0,1509.0,2.0,8,-0.04,40,-1.6,"Naitik, Jain",,1656.0,False,IND,1.0,1,0.7,40.0,28.0
+25964712,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1702.0,1509.0,2.0,8,-0.04,40,-1.6,"Karthick, Sai P",,1736.0,False,IND,1.0,1,0.79,40.0,31.6
+25964712,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1702.0,1509.0,2.0,8,-0.04,40,-1.6,"Ritesh, Maddukuri",,1833.0,False,IND,0.0,1,-0.13,40.0,-5.2
+25964712,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1702.0,1509.0,2.0,8,-0.04,40,-1.6,"Ryan, Dominic",,1727.0,False,IND,0.0,1,-0.22,40.0,-8.8
+25964712,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1702.0,1509.0,2.0,8,-0.04,40,-1.6,"Sharvin, Puneet Badave",,1663.0,False,IND,0.0,1,-0.29,40.0,-11.6
+25964712,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1702.0,1509.0,2.0,8,-0.04,40,-1.6,"Lakshya, Nigam",,1603.0,False,IND,0.0,1,-0.37,40.0,-14.8
+25964712,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1702.0,1509.0,2.0,8,-0.04,40,-1.6,"Avighna, Das",,1611.0,False,IND,0.0,1,-0.36,40.0,-14.4
+25964712,2025-03-01,0,2nd WB State Amateur Open Chess Championship 2024 (Below 2300),Hooghly IND,2025-01-28,2025-01-31,1762.0,1507.0,0.0,3,-0.57,40,-22.8,"Arhashirsha, Biswas",,1808.0,False,IND,0.0,1,-0.15,40.0,-6.0
+25964712,2025-03-01,0,2nd WB State Amateur Open Chess Championship 2024 (Below 2300),Hooghly IND,2025-01-28,2025-01-31,1762.0,1507.0,0.0,3,-0.57,40,-22.8,"Avijaan, Roy Choudhury",,1790.0,False,IND,0.0,1,-0.16,40.0,-6.4
+25964712,2025-03-01,0,2nd WB State Amateur Open Chess Championship 2024 (Below 2300),Hooghly IND,2025-01-28,2025-01-31,1762.0,1507.0,0.0,3,-0.57,40,-22.8,"Suravi, Bhattacharya",,1689.0,False,IND,0.0,1,-0.26,40.0,-10.4

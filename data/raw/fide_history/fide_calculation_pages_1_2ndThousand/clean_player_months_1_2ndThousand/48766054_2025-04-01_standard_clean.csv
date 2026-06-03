@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48766054,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1693,1515,0.5,4,-0.64,40,-25.6,"Cheniram, Pegu",,1877.0,False,IND,0.0,1,-0.1,40,-4.0
+48766054,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1693,1515,0.5,4,-0.64,40,-25.6,"Abhraneel, Buragohain",,1691.0,False,IND,0.0,1,-0.27,40,-10.8
+48766054,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1693,1515,0.5,4,-0.64,40,-25.6,"Junmoni, Gogoi",,1613.0,False,IND,0.5,1,0.13,40,5.2
+48766054,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1693,1515,0.5,4,-0.64,40,-25.6,"Abhilekh, Hridoy Gogoi",,1591.0,False,IND,0.0,1,-0.4,40,-16.0

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33424837,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1582,1559,3.0,5,0.55,40,22.0,"Daksh, Goyal",,1948.0,False,IND,0.0,1,-0.09,40,-3.6
+33424837,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1582,1559,3.0,5,0.55,40,22.0,"Rudra, Shakti Madan",,1408.0,False,IND,1.0,1,0.3,40,12.0
+33424837,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1582,1559,3.0,5,0.55,40,22.0,"Kunsh, Malhotra",,1439.0,False,IND,1.0,1,0.34,40,13.6
+33424837,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1582,1559,3.0,5,0.55,40,22.0,"Advik, Singh Chauhan",,1675.0,False,IND,0.0,1,-0.34,40,-13.6
+33424837,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1582,1559,3.0,5,0.55,40,22.0,"Diwan, Singh",,1438.0,False,IND,1.0,1,0.34,40,13.6

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33426678,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1779,1546,1.0,4,0.11,40,4.4,"Aleksanyan, Davit",,1887.0,False,ARM,0.0,1,-0.12,40,-4.8
+33426678,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1779,1546,1.0,4,0.11,40,4.4,"Bitoon, Jerson",,1774.0,False,PHI,0.0,1,-0.21,40,-8.4
+33426678,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1779,1546,1.0,4,0.11,40,4.4,"Babrak, Osman.d",,1834.0,False,AFG,0.5,1,0.34,40,13.6
+33426678,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1779,1546,1.0,4,0.11,40,4.4,"Shivam, Jitendra Pethkar",,1619.0,False,IND,0.5,1,0.1,40,4.0
+33426678,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1822,1546,3.0,6,1.96,40,78.4,"Baghirov, Mahammad",,1889.0,False,AZE,0.0,1,-0.12,40,-4.8
+33426678,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1822,1546,3.0,6,1.96,40,78.4,"Dev, Sankar S",,1758.0,False,IND,1.0,1,0.77,40,30.8
+33426678,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1822,1546,3.0,6,1.96,40,78.4,"Darvishi, Matin",,1815.0,False,IRI,1.0,1,0.83,40,33.2
+33426678,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1822,1546,3.0,6,1.96,40,78.4,"Gowrishankar, Jayaraj",,1924.0,False,IND,0.0,1,-0.09,40,-3.6
+33426678,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1822,1546,3.0,6,1.96,40,78.4,"Rishi, N",,1738.0,False,IND,0.0,1,-0.25,40,-10.0
+33426678,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1822,1546,3.0,6,1.96,40,78.4,"Abhinav, Benny",,1805.0,False,IND,1.0,1,0.82,40,32.8

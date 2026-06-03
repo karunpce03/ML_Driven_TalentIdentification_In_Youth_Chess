@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48735230,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,,,0.0,3,0.0,821,,"Al Nadabi, Yomna",,1627,False,OMA,0.0,1,0.0,,0.0
+48735230,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,,,0.0,3,0.0,821,,"Buck, Oliver",,1641,False,AUS,0.0,1,0.0,,0.0
+48735230,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,,,0.0,3,0.0,821,,"Nyrav, Gopalakrishnan",,1594,False,IND,0.0,1,0.0,,0.0
+48735230,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,,,1.0,5,0.0,1290,,Ananthnarayan,,1647,False,IND,0.0,1,0.0,,0.0
+48735230,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,,,1.0,5,0.0,1290,,"Nirvaan, Ashish Modi",,1510,False,IND,0.0,1,0.0,,0.0
+48735230,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,,,1.0,5,0.0,1290,,"Alia, Saud Nasser Marzooq",,1483,False,UAE,1.0,1,0.0,,0.0
+48735230,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,,,1.0,5,0.0,1290,,"Amr Iftikhar, Hashmi",,1491,False,PAK,0.0,1,0.0,,0.0
+48735230,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,,,1.0,5,0.0,1290,,"Kurt, Arda",,1519,False,TUR,0.0,1,0.0,,0.0

@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25979876,2024-12-01,0,24th Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-11-11,2024-11-27,1603,1585,0.0,3,-1.44,40,-57.6,"Alem, Ali Hussain",,1792.0,False,KSA,0.0,1,-0.23,40,-9.2
+25979876,2024-12-01,0,24th Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-11-11,2024-11-27,1603,1585,0.0,3,-1.44,40,-57.6,"Husain, Sabt",,1551.0,False,BRN,0.0,1,-0.55,40,-22.0
+25979876,2024-12-01,0,24th Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-11-11,2024-11-27,1603,1585,0.0,3,-1.44,40,-57.6,"Almutawa, Jassim",,1465.0,False,BRN,0.0,1,-0.66,40,-26.4

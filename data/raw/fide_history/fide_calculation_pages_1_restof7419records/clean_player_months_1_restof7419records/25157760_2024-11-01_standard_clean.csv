@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25157760,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,1953,1963,6.0,9,1.42,40,56.8,"Rott, Georg",,2104.0,False,GER,1.0,1,0.69,40,27.6
+25157760,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,1953,1963,6.0,9,1.42,40,56.8,"Reller, Ole",,2135.0,False,GER,0.0,1,-0.27,40,-10.8
+25157760,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,1953,1963,6.0,9,1.42,40,56.8,"Weeke, Tom",,1739.0,False,GER,0.5,1,-0.28,40,-11.2
+25157760,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,1953,1963,6.0,9,1.42,40,56.8,"Schmidt, Sebastian",,1705.0,False,GER,1.0,1,0.18,40,7.2
+25157760,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,1953,1963,6.0,9,1.42,40,56.8,"Winkler, Yonathan",,2147.0,False,GER,0.0,1,-0.26,40,-10.4
+25157760,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,1953,1963,6.0,9,1.42,40,56.8,"Schulte, Tobias",,1876.0,False,GER,1.0,1,0.38,40,15.2
+25157760,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,1953,1963,6.0,9,1.42,40,56.8,"Marcziter, Alex",,2059.0,False,GER,0.5,1,0.13,40,5.2
+25157760,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,1953,1963,6.0,9,1.42,40,56.8,"Heidemann, Kristjan",,1764.0,False,GER,1.0,1,0.24,40,9.6
+25157760,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,1953,1963,6.0,9,1.42,40,56.8,"Sunko, Sviatoslav",,2045.0,False,GER,1.0,1,0.61,40,24.4
+25157760,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2195,1963,4.0,8,2.21,40,88.4,"Gemelli, Romain",,2239.0,False,SUI,1.0,1,0.83,40,33.2
+25157760,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2195,1963,4.0,8,2.21,40,88.4,"Sankalp, Gupta",g,2363.0,True,IND,0.0,1,-0.08,40,-3.2
+25157760,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2195,1963,4.0,8,2.21,40,88.4,"Nagare, Akhilesh",c,2245.0,False,IND,0.0,1,-0.16,40,-6.4
+25157760,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2195,1963,4.0,8,2.21,40,88.4,"Vidic, Teja",wm,2128.0,False,SLO,0.5,1,0.22,40,8.8
+25157760,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2195,1963,4.0,8,2.21,40,88.4,"Alibabaei, Sasan",,2096.0,False,IRI,0.0,1,-0.32,40,-12.8
+25157760,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2195,1963,4.0,8,2.21,40,88.4,"Klings, Peter",,2017.0,False,GER,1.0,1,0.58,40,23.2
+25157760,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2195,1963,4.0,8,2.21,40,88.4,"Schmid, Pablo",,2157.0,False,SUI,1.0,1,0.75,40,30.0
+25157760,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2195,1963,4.0,8,2.21,40,88.4,"Sahoo, Utkal Ranjan",,2317.0,False,IND,0.5,1,0.39,40,15.6

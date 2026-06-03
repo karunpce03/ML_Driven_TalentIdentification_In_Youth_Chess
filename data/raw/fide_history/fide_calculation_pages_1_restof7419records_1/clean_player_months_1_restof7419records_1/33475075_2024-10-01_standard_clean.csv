@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33475075,2024-10-01,0,Karnataka State Under 11 Open FIDE Rated Chess Championship 2024,Belgavi IND,2024-08-30,2024-09-01,1552,1424,1.0,4,-0.33,40,-13.2,"Vihaan, Shetty",,1557.0,False,IND,0.0,1,-0.32,40,-12.8
+33475075,2024-10-01,0,Karnataka State Under 11 Open FIDE Rated Chess Championship 2024,Belgavi IND,2024-08-30,2024-09-01,1552,1424,1.0,4,-0.33,40,-13.2,"Aarav, Das",,1635.0,False,IND,0.0,1,-0.23,40,-9.2
+33475075,2024-10-01,0,Karnataka State Under 11 Open FIDE Rated Chess Championship 2024,Belgavi IND,2024-08-30,2024-09-01,1552,1424,1.0,4,-0.33,40,-13.2,"Vihaan, Sinha",,1415.0,False,IND,1.0,1,0.49,40,19.6
+33475075,2024-10-01,0,Karnataka State Under 11 Open FIDE Rated Chess Championship 2024,Belgavi IND,2024-08-30,2024-09-01,1552,1424,1.0,4,-0.33,40,-13.2,"Vihaan, Aadarsh Lobo",,1599.0,False,IND,0.0,1,-0.27,40,-10.8
+33475075,2024-10-01,0,Karnataka State Under 15 OPEN FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1661,1493,1.0,4,-0.21,40,-8.4,"Abhinav, Anand",,1844.0,False,IND,0.0,1,-0.11,40,-4.4
+33475075,2024-10-01,0,Karnataka State Under 15 OPEN FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1661,1493,1.0,4,-0.21,40,-8.4,"Yug, Tarun Khiani",,1692.0,False,IND,0.0,1,-0.24,40,-9.6
+33475075,2024-10-01,0,Karnataka State Under 15 OPEN FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1661,1493,1.0,4,-0.21,40,-8.4,"Shashank, Savanth M",,1708.0,False,IND,0.0,1,-0.23,40,-9.2
+33475075,2024-10-01,0,Karnataka State Under 15 OPEN FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1661,1493,1.0,4,-0.21,40,-8.4,"Dhruv, K Dileep",,1400.0,False,IND,1.0,1,0.37,40,14.8

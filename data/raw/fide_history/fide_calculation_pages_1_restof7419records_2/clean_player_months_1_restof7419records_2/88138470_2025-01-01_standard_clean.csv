@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88138470,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1689,1574,1.0,5,-0.87,40,-34.8,"Rishabh, Nishad",,1969.0,False,IND,0.0,1,-0.08,40,-3.2
+88138470,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1689,1574,1.0,5,-0.87,40,-34.8,"Aabhas, Kumar Srivastava",,1768.0,False,IND,0.0,1,-0.25,40,-10.0
+88138470,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1689,1574,1.0,5,-0.87,40,-34.8,"Parth, Gupta",,1421.0,False,IND,1.0,1,0.3,40,12.0
+88138470,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1689,1574,1.0,5,-0.87,40,-34.8,"Rathore, S.k.",f,1817.0,False,IND,0.0,1,-0.2,40,-8.0
+88138470,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1689,1574,1.0,5,-0.87,40,-34.8,"Patlolla, Indra Reddy",,1469.0,False,IND,0.0,1,-0.64,40,-25.6

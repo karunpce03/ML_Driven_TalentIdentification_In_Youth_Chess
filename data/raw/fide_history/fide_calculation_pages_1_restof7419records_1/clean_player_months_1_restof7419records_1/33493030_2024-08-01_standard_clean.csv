@@ -1,0 +1,17 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33493030,2024-08-01,0,FIDE WORLD CUP U08 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1588,1722,4.0,6,0.04,40,1.6,"Novikov, Vladimir Dm",,1458.0,False,FID,1.0,1,0.18,40,7.2
+33493030,2024-08-01,0,FIDE WORLD CUP U08 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1588,1722,4.0,6,0.04,40,1.6,"Sattwik, Swain",,1567.0,False,IND,0.0,1,-0.71,40,-28.4
+33493030,2024-08-01,0,FIDE WORLD CUP U08 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1588,1722,4.0,6,0.04,40,1.6,"Protopopescu, Luca",,1896.0,False,FRA,1.0,1,0.73,40,29.2
+33493030,2024-08-01,0,FIDE WORLD CUP U08 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1588,1722,4.0,6,0.04,40,1.6,"Sivan, Leeor",,1461.0,False,ISR,1.0,1,0.18,40,7.2
+33493030,2024-08-01,0,FIDE WORLD CUP U08 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1588,1722,4.0,6,0.04,40,1.6,"Ulan, Rizat",,1733.0,False,KAZ,0.0,1,-0.48,40,-19.2
+33493030,2024-08-01,0,FIDE WORLD CUP U08 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1588,1722,4.0,6,0.04,40,1.6,"Ambartsumyan, Roman Vlad",,1413.0,False,FID,1.0,1,0.14,40,5.6
+33493030,2024-08-01,0,FIDE WORLD CUP U08 Open (Stage-II),Batumi GEO,2024-07-01,2024-07-02,1753,1722,1.5,2,0.58,40,23.2,"Mani, Sarbartho",,1753.0,False,IND,1.0,1,0.54,40,21.6
+33493030,2024-08-01,0,FIDE WORLD CUP U08 Open (Stage-II),Batumi GEO,2024-07-01,2024-07-02,1753,1722,1.5,2,0.58,40,23.2,"Mani, Sarbartho",,1753.0,False,IND,0.5,1,0.04,40,1.6
+33493030,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1649,1722,7.0,8,2.25,40,90.0,"Nani, Babu Bandaru",,1501.0,False,IND,1.0,1,0.22,40,8.8
+33493030,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1649,1722,7.0,8,2.25,40,90.0,"Kesava, Bhuvanagiri",,1557.0,False,IND,1.0,1,0.28,40,11.2
+33493030,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1649,1722,7.0,8,2.25,40,90.0,"Subba, Raju S.",,1621.0,False,IND,1.0,1,0.36,40,14.4
+33493030,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1649,1722,7.0,8,2.25,40,90.0,"Arnav, Krishna Sripadam",,1529.0,False,IND,1.0,1,0.25,40,10.0
+33493030,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1649,1722,7.0,8,2.25,40,90.0,"Karjee, Manindra",,1751.0,False,IND,1.0,1,0.54,40,21.6
+33493030,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1649,1722,7.0,8,2.25,40,90.0,"Suresh, Duvvala",,1791.0,False,IND,1.0,1,0.6,40,24.0
+33493030,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1649,1722,7.0,8,2.25,40,90.0,"Kesavan, G",,1721.0,False,IND,0.5,1,0.0,40,0.0
+33493030,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1649,1722,7.0,8,2.25,40,90.0,"Shanmukha, Pulli",,1722.0,False,IND,0.5,1,0.0,40,0.0

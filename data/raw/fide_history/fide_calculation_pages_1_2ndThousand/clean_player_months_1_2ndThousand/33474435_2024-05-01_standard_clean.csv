@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33474435,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1670,1462,2.0,4,1.05,40,42.0,"Naga, Sai Sarthak Karanam",,1778.0,False,IND,0.0,1,-0.13,40,-5.2
+33474435,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1670,1462,2.0,4,1.05,40,42.0,"Ashok, Jasma Vollepore",,1594.0,False,IND,1.0,1,0.68,40,27.2
+33474435,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1670,1462,2.0,4,1.05,40,42.0,"Atharv, Venkatesh",,1617.0,False,IND,1.0,1,0.71,40,28.4
+33474435,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1670,1462,2.0,4,1.05,40,42.0,"Aneesh, Adiga",,1690.0,False,IND,0.0,1,-0.21,40,-8.4
+33474435,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1640,1462,3.5,6,1.84,40,73.6,"Satyam, Prakash",,1798.0,False,IND,0.0,1,-0.12,40,-4.8
+33474435,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1640,1462,3.5,6,1.84,40,73.6,"Ravi, Palsule",,1684.0,False,IND,0.0,1,-0.22,40,-8.8
+33474435,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1640,1462,3.5,6,1.84,40,73.6,"Chandi, Sachin",,1596.0,False,IND,1.0,1,0.68,40,27.2
+33474435,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1640,1462,3.5,6,1.84,40,73.6,"Sai, Arun Challa",,1536.0,False,IND,1.0,1,0.6,40,24.0
+33474435,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1640,1462,3.5,6,1.84,40,73.6,"Madesh, N Prakash",,1579.0,False,IND,1.0,1,0.66,40,26.4
+33474435,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1640,1462,3.5,6,1.84,40,73.6,"Nishant, T.r.",,1648.0,False,IND,0.5,1,0.24,40,9.6

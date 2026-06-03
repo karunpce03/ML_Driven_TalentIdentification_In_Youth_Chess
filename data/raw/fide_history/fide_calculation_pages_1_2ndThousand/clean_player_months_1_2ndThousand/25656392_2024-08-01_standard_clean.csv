@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25656392,2024-08-01,0,7th Annual Queen City of the Prairie Open and Fort Worth Championship,"Fort Worth, TX USA",2024-07-19,2024-07-21,1708,1883,2.0,4,-0.91,40,-36.4,"Seelam, Tanish",,1675.0,False,USA,1.0,1,0.23,40,9.2
+25656392,2024-08-01,0,7th Annual Queen City of the Prairie Open and Fort Worth Championship,"Fort Worth, TX USA",2024-07-19,2024-07-21,1708,1883,2.0,4,-0.91,40,-36.4,"Horvath, Andras",,1814.0,False,USA,0.0,1,-0.6,40,-24.0
+25656392,2024-08-01,0,7th Annual Queen City of the Prairie Open and Fort Worth Championship,"Fort Worth, TX USA",2024-07-19,2024-07-21,1708,1883,2.0,4,-0.91,40,-36.4,"Kolli, Rishi",,1669.0,False,USA,0.0,1,-0.77,40,-30.8
+25656392,2024-08-01,0,7th Annual Queen City of the Prairie Open and Fort Worth Championship,"Fort Worth, TX USA",2024-07-19,2024-07-21,1708,1883,2.0,4,-0.91,40,-36.4,"Sunil, Arush",,1674.0,False,USA,1.0,1,0.23,40,9.2
+25656392,2024-08-01,0,25th annual Pittsburgh Open - Major,"Pittsburgh, PA USA",2024-07-26,2024-07-28,2012,1883,2.0,5,0.35,40,14.0,"Tay, Brian",,2035.0,False,USA,0.5,1,0.2,40,8.0
+25656392,2024-08-01,0,25th annual Pittsburgh Open - Major,"Pittsburgh, PA USA",2024-07-26,2024-07-28,2012,1883,2.0,5,0.35,40,14.0,"Shehata, Akram",,2014.0,False,EGY,0.5,1,0.18,40,7.2
+25656392,2024-08-01,0,25th annual Pittsburgh Open - Major,"Pittsburgh, PA USA",2024-07-26,2024-07-28,2012,1883,2.0,5,0.35,40,14.0,"Li, William Hongyu",c,2104.0,False,CAN,0.0,1,-0.22,40,-8.8
+25656392,2024-08-01,0,25th annual Pittsburgh Open - Major,"Pittsburgh, PA USA",2024-07-26,2024-07-28,2012,1883,2.0,5,0.35,40,14.0,"Moore, Johnson",,1874.0,False,USA,1.0,1,0.49,40,19.6
+25656392,2024-08-01,0,25th annual Pittsburgh Open - Major,"Pittsburgh, PA USA",2024-07-26,2024-07-28,2012,1883,2.0,5,0.35,40,14.0,"Radhakrishnan, Sharath",,2033.0,False,USA,0.0,1,-0.3,40,-12.0

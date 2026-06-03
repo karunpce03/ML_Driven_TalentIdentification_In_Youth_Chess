@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25123661,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1768,1968,5.0,7,-0.04,40,-1.6,"Karan, Sharadbhai Dassani",,1568,True,IND,1.0,1,0.08,40,3.2
+25123661,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1768,1968,5.0,7,-0.04,40,-1.6,"Baviskar, Shubham C",,1604,False,IND,0.5,1,-0.4,40,-16.0
+25123661,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1768,1968,5.0,7,-0.04,40,-1.6,"Guruprasad, Patil",,1593,False,IND,1.0,1,0.09,40,3.6
+25123661,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1768,1968,5.0,7,-0.04,40,-1.6,"Laddad, Aadhavan Atish",,1657,False,IND,1.0,1,0.14,40,5.6
+25123661,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1768,1968,5.0,7,-0.04,40,-1.6,"Gada, Om",,1805,False,IND,1.0,1,0.28,40,11.2
+25123661,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1768,1968,5.0,7,-0.04,40,-1.6,"Watarkar, Yash",,1963,False,IND,0.5,1,-0.01,40,-0.4
+25123661,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1768,1968,5.0,7,-0.04,40,-1.6,"Kulkarni, Vikramaditya",m,2185,False,IND,0.0,1,-0.22,40,-8.8

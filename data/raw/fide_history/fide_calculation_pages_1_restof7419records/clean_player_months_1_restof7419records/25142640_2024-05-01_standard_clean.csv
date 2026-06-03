@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25142640,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1639,1427,0.0,3,-0.74,40,-29.6,"Prawin, K",,1783.0,False,IND,0.0,1,-0.11,40,-4.4
+25142640,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1639,1427,0.0,3,-0.74,40,-29.6,"Aron, S P",,1620.0,False,IND,0.0,1,-0.25,40,-10.0
+25142640,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1639,1427,0.0,3,-0.74,40,-29.6,"Ahashik, J H",,1514.0,False,IND,0.0,1,-0.38,40,-15.2
+25142640,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1527,1427,2.5,7,-0.05,40,-2.0,"Amanlal, A",,1575.0,False,IND,0.0,1,-0.3,40,-12.0
+25142640,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1527,1427,2.5,7,-0.05,40,-2.0,"Laiju, Ct",,1535.0,False,IND,0.5,1,0.15,40,6.0
+25142640,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1527,1427,2.5,7,-0.05,40,-2.0,"Twinkle, Riju",,1540.0,False,IND,0.5,1,0.15,40,6.0
+25142640,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1527,1427,2.5,7,-0.05,40,-2.0,"Rabindra Kumar, Moharana",,1505.0,False,IND,1.0,1,0.61,40,24.4
+25142640,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1527,1427,2.5,7,-0.05,40,-2.0,"Shivnandan, S",,1530.0,False,IND,0.0,1,-0.36,40,-14.4
+25142640,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1527,1427,2.5,7,-0.05,40,-2.0,"Abhi, Ram M B",,1518.0,False,IND,0.5,1,0.12,40,4.8
+25142640,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1527,1427,2.5,7,-0.05,40,-2.0,"Mathai, Bince",,1483.0,False,IND,0.0,1,-0.42,40,-16.8

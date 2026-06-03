@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25922475,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2035,2087,6.0,9,1.03,38,39.14,"Freitas, Carlos",,1687,True,POR,1.0,1,0.08,38,3.04
+25922475,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2035,2087,6.0,9,1.03,38,39.14,"Sousa, Diogo Miguel Braz",,1687,True,POR,1.0,1,0.08,38,3.04
+25922475,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2035,2087,6.0,9,1.03,38,39.14,"Cernov, Vadim",m,2258,False,ROU,0.0,1,-0.27,38,-10.26
+25922475,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2035,2087,6.0,9,1.03,38,39.14,"De Kruif, Kees",,1868,False,NED,1.0,1,0.22,38,8.36
+25922475,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2035,2087,6.0,9,1.03,38,39.14,"Veiga, Jose Francisco R P Neves",m,2412,False,POR,1.0,1,0.87,38,33.06
+25922475,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2035,2087,6.0,9,1.03,38,39.14,"Strikovic, Aleksa",g,2365,False,SRB,0.0,1,-0.17,38,-6.46
+25922475,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2035,2087,6.0,9,1.03,38,39.14,"Bittner, Titus",,1905,False,GER,1.0,1,0.26,38,9.88
+25922475,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2035,2087,6.0,9,1.03,38,39.14,"Santagati, Alessandro",f,2225,False,ITA,0.0,1,-0.31,38,-11.78
+25922475,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2035,2087,6.0,9,1.03,38,39.14,"Amoes, Francisco",,1908,False,POR,1.0,1,0.27,38,10.26
+25922475,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2334,2203,6.0,9,3.03,38,115.14,"Rodrigues, Dinis",,1803,True,POR,1.0,1,0.08,38,3.04
+25922475,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2334,2203,6.0,9,3.03,38,115.14,"Sousa, Andre Ventura",m,2394,False,POR,1.0,1,0.75,38,28.5
+25922475,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2334,2203,6.0,9,3.03,38,115.14,"Grigoryan, Karen H.",g,2603,True,ARM,0.0,1,-0.08,38,-3.04
+25922475,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2334,2203,6.0,9,3.03,38,115.14,"Povshednyi, Ivan",c,2351,False,UKR,1.0,1,0.7,38,26.6
+25922475,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2334,2203,6.0,9,3.03,38,115.14,"Navrotescu, Andreea",wg,2338,False,FRA,1.0,1,0.68,38,25.84
+25922475,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2334,2203,6.0,9,3.03,38,115.14,"Martins, Bruno Andre Leite",f,2323,False,POR,0.5,1,0.16,38,6.08
+25922475,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2334,2203,6.0,9,3.03,38,115.14,"Prraneeth, Vuppala",c,2459,False,IND,0.0,1,-0.19,38,-7.22
+25922475,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2334,2203,6.0,9,3.03,38,115.14,"Elissalt Cardenas, Hector",m,2335,False,ESP,1.0,1,0.68,38,25.84
+25922475,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2334,2203,6.0,9,3.03,38,115.14,"Stella, Andrea",g,2398,False,ITA,0.5,1,0.25,38,9.5

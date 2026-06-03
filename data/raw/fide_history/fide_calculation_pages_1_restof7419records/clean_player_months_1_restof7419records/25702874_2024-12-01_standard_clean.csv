@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25702874,2024-12-01,0,Singapore National Age Group Chess Championships U16 and 20,Singapore SGP,2024-11-24,2024-11-28,1668,1506,1.5,5,-0.09,40,-3.6,"Siddharth, Sai",,1871.0,False,SGP,0.0,1,-0.1,40,-4.0
+25702874,2024-12-01,0,Singapore National Age Group Chess Championships U16 and 20,Singapore SGP,2024-11-24,2024-11-28,1668,1506,1.5,5,-0.09,40,-3.6,"Yu, Bei Hao",,1786.0,False,SGP,0.0,1,-0.16,40,-6.4
+25702874,2024-12-01,0,Singapore National Age Group Chess Championships U16 and 20,Singapore SGP,2024-11-24,2024-11-28,1668,1506,1.5,5,-0.09,40,-3.6,"Toh, Jun Yu Zondus",,1439.0,False,SGP,1.0,1,0.41,40,16.4
+25702874,2024-12-01,0,Singapore National Age Group Chess Championships U16 and 20,Singapore SGP,2024-11-24,2024-11-28,1668,1506,1.5,5,-0.09,40,-3.6,"Yadav, Atharv",,1449.0,False,SGP,0.5,1,-0.08,40,-3.2
+25702874,2024-12-01,0,Singapore National Age Group Chess Championships U16 and 20,Singapore SGP,2024-11-24,2024-11-28,1668,1506,1.5,5,-0.09,40,-3.6,"Kong, Zi Yau Bernadette",wc,1796.0,False,SGP,0.0,1,-0.16,40,-6.4

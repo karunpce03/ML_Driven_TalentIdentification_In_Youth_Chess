@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25998420,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1657,1853,6.5,9,-0.17,40,-6.8,"Divam, Talwar",,1453,True,IND,1.0,1,0.08,40,3.2
+25998420,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1657,1853,6.5,9,-0.17,40,-6.8,"Yash, Dahiya",,1575,False,IND,1.0,1,0.17,40,6.8
+25998420,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1657,1853,6.5,9,-0.17,40,-6.8,"Ojas, Joshi",,1658,False,IND,0.5,1,-0.25,40,-10.0
+25998420,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1657,1853,6.5,9,-0.17,40,-6.8,"Meetansh, Dixit",,1669,False,IND,1.0,1,0.26,40,10.4
+25998420,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1657,1853,6.5,9,-0.17,40,-6.8,"Aayush, Bhojak",,1725,False,IND,1.0,1,0.33,40,13.2
+25998420,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1657,1853,6.5,9,-0.17,40,-6.8,"Gopal, Krishna Maheshwari",,1770,False,IND,0.0,1,-0.61,40,-24.4
+25998420,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1657,1853,6.5,9,-0.17,40,-6.8,"Parigyan, Chakraborty",,1674,False,IND,1.0,1,0.27,40,10.8
+25998420,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1657,1853,6.5,9,-0.17,40,-6.8,"Gagan, Sahu",,1723,False,IND,0.0,1,-0.68,40,-27.2
+25998420,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1657,1853,6.5,9,-0.17,40,-6.8,"Kathan, Khurana",,1667,False,IND,1.0,1,0.26,40,10.4

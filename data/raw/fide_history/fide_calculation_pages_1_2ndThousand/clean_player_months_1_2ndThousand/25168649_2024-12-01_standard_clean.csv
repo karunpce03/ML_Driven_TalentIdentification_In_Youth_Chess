@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25168649,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1819,1925,7.5,11,0.47,35,16.45,"Hem, Harsanth B S",,1591.0,False,IND,1.0,1,0.12,35,4.2
+25168649,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1819,1925,7.5,11,0.47,35,16.45,"Koshin, Das",,1760.0,False,IND,1.0,1,0.28,35,9.8
+25168649,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1819,1925,7.5,11,0.47,35,16.45,"Chaitanya, V Gaonkar",,1800.0,False,IND,0.5,1,-0.17,35,-5.95
+25168649,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1819,1925,7.5,11,0.47,35,16.45,"Shashveen, A K",,1866.0,False,IND,0.5,1,-0.08,35,-2.8
+25168649,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1819,1925,7.5,11,0.47,35,16.45,"Aadinath, Harilal",,1796.0,False,IND,0.5,1,-0.17,35,-5.95
+25168649,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1819,1925,7.5,11,0.47,35,16.45,"Yeshas, H",,1792.0,False,IND,0.5,1,-0.18,35,-6.3
+25168649,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1819,1925,7.5,11,0.47,35,16.45,"Aaradhya, Jain",,1796.0,False,IND,1.0,1,0.33,35,11.55
+25168649,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1819,1925,7.5,11,0.47,35,16.45,"Thanish, S A",,1746.0,False,IND,1.0,1,0.27,35,9.45
+25168649,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1819,1925,7.5,11,0.47,35,16.45,"Reyan, Md.",c,2219.0,False,IND,0.0,1,-0.15,35,-5.25
+25168649,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1819,1925,7.5,11,0.47,35,16.45,"Arush, A",,1789.0,False,IND,0.5,1,-0.18,35,-6.3
+25168649,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1819,1925,7.5,11,0.47,35,16.45,"Mitul, K H",,1853.0,False,IND,1.0,1,0.4,35,14.0
+25168649,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1701,1925,7.0,9,0.08,35,2.8,"Sudhanva, Srirangam",,1525.0,True,IND,1.0,1,0.08,35,2.8
+25168649,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1701,1925,7.0,9,0.08,35,2.8,"Bhat, K R",,1556.0,False,IND,1.0,1,0.1,35,3.5
+25168649,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1701,1925,7.0,9,0.08,35,2.8,"Magizhini, M",,1692.0,False,IND,0.5,1,-0.29,35,-10.15
+25168649,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1701,1925,7.0,9,0.08,35,2.8,"Guhan, Nelamangala Harsha",,1653.0,False,IND,1.0,1,0.17,35,5.95
+25168649,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1701,1925,7.0,9,0.08,35,2.8,"Chirag, Hirinja G J",,1845.0,False,IND,0.5,1,-0.11,35,-3.85
+25168649,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1701,1925,7.0,9,0.08,35,2.8,"Suhail, Rasheed",,1679.0,False,IND,1.0,1,0.19,35,6.65
+25168649,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1701,1925,7.0,9,0.08,35,2.8,"Samaksh, Ashok",,1785.0,False,IND,1.0,1,0.31,35,10.85
+25168649,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1701,1925,7.0,9,0.08,35,2.8,"Aaditya, Ranjan Sahu",,1750.0,False,IND,0.5,1,-0.23,35,-8.05
+25168649,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1701,1925,7.0,9,0.08,35,2.8,"Aneesh, Adiga",,1825.0,False,IND,0.5,1,-0.14,35,-4.9

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25775677,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1920,1891,5.0,10,0.29,40,11.6,"Kiyaselie, Mere",,1583,False,IND,1.0,1,0.14,40,5.6
+25775677,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1920,1891,5.0,10,0.29,40,11.6,"Sriram, Jha",g,2291,True,IND,0.0,1,-0.08,40,-3.2
+25775677,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1920,1891,5.0,10,0.29,40,11.6,"Jatinder, Kapoor",,1717,False,IND,1.0,1,0.27,40,10.8
+25775677,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1920,1891,5.0,10,0.29,40,11.6,"Jai, Sankar Subramanian",,2099,False,IND,0.5,1,0.27,40,10.8
+25775677,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1920,1891,5.0,10,0.29,40,11.6,"Arpith, S Bijoy",,2114,False,IND,1.0,1,0.78,40,31.2
+25775677,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1920,1891,5.0,10,0.29,40,11.6,"Shubhi, Gupta",wf,2063,False,IND,0.0,1,-0.27,40,-10.8
+25775677,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1920,1891,5.0,10,0.29,40,11.6,"Thanki, Hemal Karsanji",,2074,False,IND,0.0,1,-0.26,40,-10.4
+25775677,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1920,1891,5.0,10,0.29,40,11.6,"Narayan, Joshi",,1746,False,IND,0.0,1,-0.69,40,-27.6
+25775677,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1920,1891,5.0,10,0.29,40,11.6,"Sameer, Choudhary",,1728,False,IND,1.0,1,0.28,40,11.2
+25775677,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1920,1891,5.0,10,0.29,40,11.6,"Lalbiak, Mawia",,1781,False,IND,0.5,1,-0.15,40,-6.0

@@ -1,0 +1,28 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33321094,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1505,1595,6.0,9,0.4,40,16.0,"Gautham, Vadivelan",,1400.0,False,IND,1.0,1,0.25,40,10.0
+33321094,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1505,1595,6.0,9,0.4,40,16.0,"Vishwesvar, S",,1459.0,False,IND,0.5,1,-0.18,40,-7.2
+33321094,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1505,1595,6.0,9,0.4,40,16.0,"Ramji, S",,1441.0,False,IND,1.0,1,0.29,40,11.6
+33321094,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1505,1595,6.0,9,0.4,40,16.0,"Saisarvesh, S",,1813.0,False,IND,0.0,1,-0.22,40,-8.8
+33321094,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1505,1595,6.0,9,0.4,40,16.0,"Darshan, G",,1479.0,False,IND,1.0,1,0.34,40,13.6
+33321094,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1505,1595,6.0,9,0.4,40,16.0,"Sajeev, R R",,1466.0,False,IND,0.5,1,-0.17,40,-6.8
+33321094,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1505,1595,6.0,9,0.4,40,16.0,"Vishnuram, Kishore",,1492.0,False,IND,0.0,1,-0.64,40,-25.6
+33321094,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1505,1595,6.0,9,0.4,40,16.0,"Abinanthan, A K",,1468.0,False,IND,1.0,1,0.33,40,13.2
+33321094,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1505,1595,6.0,9,0.4,40,16.0,"Thirumalaivasan, R",,1524.0,False,IND,1.0,1,0.4,40,16.0
+33321094,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1554,1595,4.0,7,0.1,40,4.0,"Kashthuri, Bhai R",,1756.0,False,IND,0.0,1,-0.29,40,-11.6
+33321094,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1554,1595,4.0,7,0.1,40,4.0,"Thashvi, M",,1470.0,False,IND,1.0,1,0.33,40,13.2
+33321094,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1554,1595,4.0,7,0.1,40,4.0,"Jeevika, S",,1793.0,False,IND,0.0,1,-0.24,40,-9.6
+33321094,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1554,1595,4.0,7,0.1,40,4.0,"Pranava, Selvan M V",,1459.0,False,IND,0.5,1,-0.18,40,-7.2
+33321094,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1554,1595,4.0,7,0.1,40,4.0,"Mohamed, Thaariq R",,1470.0,False,IND,0.5,1,-0.17,40,-6.8
+33321094,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1554,1595,4.0,7,0.1,40,4.0,"Ahmed, Nafees M",,1461.0,False,IND,1.0,1,0.32,40,12.8
+33321094,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1554,1595,4.0,7,0.1,40,4.0,"Vedanth, S",,1467.0,False,IND,1.0,1,0.33,40,13.2
+33321094,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1615,4.5,11,1.43,40,57.2,"Sri, Charan Sandipagu",,1942.0,False,IND,1.0,1,0.87,40,34.8
+33321094,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1615,4.5,11,1.43,40,57.2,"Malvin, Joshua",,1849.0,False,IND,0.0,1,-0.21,40,-8.4
+33321094,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1615,4.5,11,1.43,40,57.2,"Meetansh, Dixit",,1793.0,False,IND,1.0,1,0.73,40,29.2
+33321094,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1615,4.5,11,1.43,40,57.2,"Shreyas, Raj",,1821.0,False,IND,0.5,1,0.26,40,10.4
+33321094,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1615,4.5,11,1.43,40,57.2,"Mahish, S A",,1970.0,False,IND,0.5,1,0.39,40,15.6
+33321094,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1615,4.5,11,1.43,40,57.2,"Rithwik, Reddy Upparigudam",,1780.0,False,IND,0.0,1,-0.28,40,-11.2
+33321094,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1615,4.5,11,1.43,40,57.2,"Vishwajit, S",,1781.0,False,IND,0.5,1,0.22,40,8.8
+33321094,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1615,4.5,11,1.43,40,57.2,"Souryadipta, Sarkar",,1754.0,False,IND,0.0,1,-0.31,40,-12.4
+33321094,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1615,4.5,11,1.43,40,57.2,"Ramchandran, T R",,1488.0,False,IND,1.0,1,0.33,40,13.2
+33321094,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1615,4.5,11,1.43,40,57.2,"Sriram, Sundar V",,1719.0,False,IND,0.0,1,-0.36,40,-14.4
+33321094,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1795,1615,4.5,11,1.43,40,57.2,"Rishit, Sharma",,1843.0,False,IND,0.0,1,-0.21,40,-8.4

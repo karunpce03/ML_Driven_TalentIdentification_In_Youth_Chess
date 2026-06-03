@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25942077,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1695,1721,3.5,8,-0.85,40,-34.0,"Wafa, Shahenda",wg,2103.0,False,EGY,0.0,1,-0.09,40,-3.6
+25942077,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1695,1721,3.5,8,-0.85,40,-34.0,"Suchitraa, Viswanathan",,1483.0,False,IND,0.5,1,-0.3,40,-12.0
+25942077,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1695,1721,3.5,8,-0.85,40,-34.0,"Benigni, Stefano",,1521.0,False,ITA,1.0,1,0.24,40,9.6
+25942077,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1695,1721,3.5,8,-0.85,40,-34.0,"Sharma, Taksh",,1864.0,False,IND,0.0,1,-0.31,40,-12.4
+25942077,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1695,1721,3.5,8,-0.85,40,-34.0,"Al-Mansouri, Fahad",,1507.0,False,QAT,0.5,1,-0.27,40,-10.8
+25942077,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1695,1721,3.5,8,-0.85,40,-34.0,"Sara, Mohamed",,1527.0,False,SUD,1.0,1,0.25,40,10.0
+25942077,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1695,1721,3.5,8,-0.85,40,-34.0,"Nair, Aayush",,1635.0,False,IND,0.5,1,-0.12,40,-4.8
+25942077,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1695,1721,3.5,8,-0.85,40,-34.0,"Al Mashikhi, Mohammed Alyan",c,1916.0,False,OMA,0.0,1,-0.25,40,-10.0

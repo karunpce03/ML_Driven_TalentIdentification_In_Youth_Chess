@@ -1,0 +1,28 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48752452,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1597,1564,3.5,7,0.28,40,11.2,"Babel, T Divyanshu",,1808.0,False,IND,0.0,1,-0.2,40,-8.0
+48752452,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1597,1564,3.5,7,0.28,40,11.2,"Vinamra, Dhoot",,1409.0,False,IND,1.0,1,0.29,40,11.6
+48752452,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1597,1564,3.5,7,0.28,40,11.2,"Milind, Parle",,1665.0,False,IND,0.0,1,-0.36,40,-14.4
+48752452,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1597,1564,3.5,7,0.28,40,11.2,"Divam, Talwar",,1440.0,False,IND,1.0,1,0.33,40,13.2
+48752452,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1597,1564,3.5,7,0.28,40,11.2,"Homil, Madaan",,1688.0,False,IND,0.0,1,-0.33,40,-13.2
+48752452,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1597,1564,3.5,7,0.28,40,11.2,"Ayush, Satish Singh",,1433.0,False,IND,1.0,1,0.32,40,12.8
+48752452,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1597,1564,3.5,7,0.28,40,11.2,"Jain, Hitansh",,1737.0,False,IND,0.5,1,0.23,40,9.2
+48752452,2024-08-01,0,Sushama &amp; Dormak All India Open FIDE Rating Chess Tournament 2024,Chandigarh IND,2024-06-28,2024-07-02,1635,1564,2.5,4,0.78,40,31.2,"Akshay, Anand",,1919.0,False,IND,0.0,1,-0.11,40,-4.4
+48752452,2024-08-01,0,Sushama &amp; Dormak All India Open FIDE Rating Chess Tournament 2024,Chandigarh IND,2024-06-28,2024-07-02,1635,1564,2.5,4,0.78,40,31.2,"Jasmeet, Kaur",,1416.0,False,IND,1.0,1,0.3,40,12.0
+48752452,2024-08-01,0,Sushama &amp; Dormak All India Open FIDE Rating Chess Tournament 2024,Chandigarh IND,2024-06-28,2024-07-02,1635,1564,2.5,4,0.78,40,31.2,"Vansh, Dharmani",,1450.0,False,IND,1.0,1,0.34,40,13.6
+48752452,2024-08-01,0,Sushama &amp; Dormak All India Open FIDE Rating Chess Tournament 2024,Chandigarh IND,2024-06-28,2024-07-02,1635,1564,2.5,4,0.78,40,31.2,"Shreyas, Raj",,1755.0,False,IND,0.5,1,0.25,40,10.0
+48752452,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1792,1606,3.5,7,1.49,40,59.6,"Prasanna, Karthick M",,1883.0,False,IND,0.5,1,0.33,40,13.2
+48752452,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1792,1606,3.5,7,1.49,40,59.6,"Naga, Sai Sarthak Karanam",,2006.0,True,IND,0.0,1,-0.08,40,-3.2
+48752452,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1792,1606,3.5,7,1.49,40,59.6,"Sriram, Sundar V",,1814.0,False,IND,1.0,1,0.77,40,30.8
+48752452,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1792,1606,3.5,7,1.49,40,59.6,"Shubhankar, Bamalia",,1701.0,False,IND,0.0,1,-0.37,40,-14.8
+48752452,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1792,1606,3.5,7,1.49,40,59.6,"Kadam, Arnav",,1972.0,False,IND,0.0,1,-0.1,40,-4.0
+48752452,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1792,1606,3.5,7,1.49,40,59.6,"Virat, J S",,1621.0,False,IND,1.0,1,0.52,40,20.8
+48752452,2025-02-01,0,U 17 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1792,1606,3.5,7,1.49,40,59.6,"Jagrut, Anand Devadiga",,1549.0,False,IND,1.0,1,0.42,40,16.8
+48752452,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1547,1666,7.0,9,1.07,40,42.8,"Ajay, Kumar",,1435.0,False,IND,1.0,1,0.21,40,8.4
+48752452,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1547,1666,7.0,9,1.07,40,42.8,"Paswan, Ramesh",,1523.0,False,IND,1.0,1,0.31,40,12.4
+48752452,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1547,1666,7.0,9,1.07,40,42.8,"Himanshu, Gujjar",,1576.0,False,IND,0.5,1,-0.12,40,-4.8
+48752452,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1547,1666,7.0,9,1.07,40,42.8,"Shreyansh, Das",,1591.0,False,IND,0.0,1,-0.6,40,-24.0
+48752452,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1547,1666,7.0,9,1.07,40,42.8,"Bangarapu, Sreenivas",,1516.0,False,IND,1.0,1,0.3,40,12.0
+48752452,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1547,1666,7.0,9,1.07,40,42.8,"Kumar, Rishit",,1533.0,False,IND,1.0,1,0.32,40,12.8
+48752452,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1547,1666,7.0,9,1.07,40,42.8,"Muthu, Kannan Sundaram",,1536.0,False,IND,1.0,1,0.32,40,12.8
+48752452,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1547,1666,7.0,9,1.07,40,42.8,"Saravanan, Arun Kumar B",,1623.0,False,IND,0.5,1,-0.06,40,-2.4
+48752452,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1547,1666,7.0,9,1.07,40,42.8,"Avyay, Sharma",,1586.0,False,IND,1.0,1,0.39,40,15.6

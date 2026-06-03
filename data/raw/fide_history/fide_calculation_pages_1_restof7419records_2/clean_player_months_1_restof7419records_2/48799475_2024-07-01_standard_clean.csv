@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48799475,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,1690,1411,0.5,3,-0.02,40,-0.8,"Mohamed, Sadiq Chanthana",,1811,True,IND,0.0,1,-0.08,40,-3.2
+48799475,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,1690,1411,0.5,3,-0.02,40,-0.8,"Mithran, Krishnakumar",,1647,False,IND,0.5,1,0.3,40,12.0
+48799475,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,1690,1411,0.5,3,-0.02,40,-0.8,"Advik, Praveen",,1612,False,IND,0.0,1,-0.24,40,-9.6

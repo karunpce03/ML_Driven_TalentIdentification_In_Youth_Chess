@@ -1,0 +1,40 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25982915,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1723,1715,6.0,8,1.97,40,78.8,"Eishaanav, Chakraborty",,1499.0,False,IND,1.0,1,0.22,40,8.8
+25982915,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1723,1715,6.0,8,1.97,40,78.8,"Kushal, O",,2115.0,True,IND,0.0,1,-0.08,40,-3.2
+25982915,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1723,1715,6.0,8,1.97,40,78.8,"Mohit, Das",,1528.0,False,IND,1.0,1,0.26,40,10.4
+25982915,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1723,1715,6.0,8,1.97,40,78.8,"Hridhant, Sharma",,1589.0,False,IND,1.0,1,0.33,40,13.2
+25982915,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1723,1715,6.0,8,1.97,40,78.8,"Anurag, Jaiswal",c,1892.0,False,IND,0.5,1,0.23,40,9.2
+25982915,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1723,1715,6.0,8,1.97,40,78.8,"Kishan, Kumar",,1918.0,False,IND,0.5,1,0.26,40,10.4
+25982915,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1723,1715,6.0,8,1.97,40,78.8,"Snehasish, Das",,1581.0,False,IND,1.0,1,0.32,40,12.8
+25982915,2024-08-01,0,"6th Ayodhana International Fide Rating Chess Tournament-2024, Assam",Guwahati IND,2024-07-09,2024-07-14,1723,1715,6.0,8,1.97,40,78.8,"Barnil, Kumar Das",,1663.0,False,IND,1.0,1,0.43,40,17.2
+25982915,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1700,1794,6.5,9,0.96,40,38.4,"Shibantak, Saha",,1455.0,False,IND,1.0,1,0.12,40,4.8
+25982915,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1700,1794,6.5,9,0.96,40,38.4,"Spandan, Debnath",,1550.0,False,IND,1.0,1,0.2,40,8.0
+25982915,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1700,1794,6.5,9,0.96,40,38.4,"Sumoy, Chattopadhyay",,1671.0,False,IND,1.0,1,0.33,40,13.2
+25982915,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1700,1794,6.5,9,0.96,40,38.4,"Somiddho, Rajbanshi",,1701.0,False,IND,1.0,1,0.37,40,14.8
+25982915,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1700,1794,6.5,9,0.96,40,38.4,"Sagnik, Dutta",,1729.0,False,IND,0.0,1,-0.59,40,-23.6
+25982915,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1700,1794,6.5,9,0.96,40,38.4,"Debopriyo, Dutta",,1696.0,False,IND,1.0,1,0.37,40,14.8
+25982915,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1700,1794,6.5,9,0.96,40,38.4,"Bivor, Adak",,1932.0,False,IND,0.5,1,0.19,40,7.6
+25982915,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1700,1794,6.5,9,0.96,40,38.4,"Ayan, Pal",,1891.0,False,IND,0.0,1,-0.37,40,-14.8
+25982915,2024-09-01,0,WB State U-19 Boys Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1700,1794,6.5,9,0.96,40,38.4,"Diproneel, Barman",,1677.0,False,IND,1.0,1,0.34,40,13.6
+25982915,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1669,1832,4.5,6,0.27,40,10.8,"Mohak, Das",,1542.0,False,IND,1.0,1,0.16,40,6.4
+25982915,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1669,1832,4.5,6,0.27,40,10.8,"Swapnabha, Neogi",,1673.0,False,IND,0.5,1,-0.21,40,-8.4
+25982915,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1669,1832,4.5,6,0.27,40,10.8,"Samrat, Sutar",,1647.0,False,IND,0.5,1,-0.24,40,-9.6
+25982915,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1669,1832,4.5,6,0.27,40,10.8,"Aniket, Das",,1633.0,False,IND,1.0,1,0.24,40,9.6
+25982915,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1669,1832,4.5,6,0.27,40,10.8,"Srijan, Chatterjee",,1596.0,False,IND,1.0,1,0.2,40,8.0
+25982915,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1669,1832,4.5,6,0.27,40,10.8,"Soham, Roy",,1922.0,False,IND,0.5,1,0.12,40,4.8
+25982915,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1696,1843,6.5,9,0.29,40,11.6,"Dayanand, Thoudam",,1536.0,False,IND,0.5,1,-0.36,40,-14.4
+25982915,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1696,1843,6.5,9,0.29,40,11.6,"Anish, Goswami",,1503.0,False,IND,1.0,1,0.12,40,4.8
+25982915,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1696,1843,6.5,9,0.29,40,11.6,"Gunajit, Khataniar",,1657.0,False,IND,1.0,1,0.26,40,10.4
+25982915,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1696,1843,6.5,9,0.29,40,11.6,"Himanish, Kumar Sarma",,1653.0,False,IND,0.5,1,-0.25,40,-10.0
+25982915,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1696,1843,6.5,9,0.29,40,11.6,"Ananga, Harsha Borthakur",,1667.0,False,IND,1.0,1,0.27,40,10.8
+25982915,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1696,1843,6.5,9,0.29,40,11.6,"Shivajyoti, Saha",,1556.0,False,IND,1.0,1,0.16,40,6.4
+25982915,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1696,1843,6.5,9,0.29,40,11.6,"Anustoop, Biswas",,2243.0,True,IND,0.0,1,-0.08,40,-3.2
+25982915,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1696,1843,6.5,9,0.29,40,11.6,"Robi, Singh Jeron",,1725.0,False,IND,1.0,1,0.34,40,13.6
+25982915,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1696,1843,6.5,9,0.29,40,11.6,"Rangeet, Majumdar",,1721.0,False,IND,0.5,1,-0.17,40,-6.8
+25982915,2025-03-01,0,2nd WB State Amateur Open Chess Championship 2024 (Below 2300),Hooghly IND,2025-01-28,2025-01-31,1601,1843,4.5,7,-1.05,40,-42.0,"Ankit, Saha",,1519.0,False,IND,1.0,1,0.13,40,5.2
+25982915,2025-03-01,0,2nd WB State Amateur Open Chess Championship 2024 (Below 2300),Hooghly IND,2025-01-28,2025-01-31,1601,1843,4.5,7,-1.05,40,-42.0,"Aayan, Gupta",,1592.0,False,IND,0.5,1,-0.31,40,-12.4
+25982915,2025-03-01,0,2nd WB State Amateur Open Chess Championship 2024 (Below 2300),Hooghly IND,2025-01-28,2025-01-31,1601,1843,4.5,7,-1.05,40,-42.0,"Megha, Mondal",,1630.0,False,IND,0.5,1,-0.27,40,-10.8
+25982915,2025-03-01,0,2nd WB State Amateur Open Chess Championship 2024 (Below 2300),Hooghly IND,2025-01-28,2025-01-31,1601,1843,4.5,7,-1.05,40,-42.0,"Aditya, Baksi",,1596.0,False,IND,1.0,1,0.19,40,7.6
+25982915,2025-03-01,0,2nd WB State Amateur Open Chess Championship 2024 (Below 2300),Hooghly IND,2025-01-28,2025-01-31,1601,1843,4.5,7,-1.05,40,-42.0,"Kathakali, Dey",,1707.0,False,IND,0.0,1,-0.68,40,-27.2
+25982915,2025-03-01,0,2nd WB State Amateur Open Chess Championship 2024 (Below 2300),Hooghly IND,2025-01-28,2025-01-31,1601,1843,4.5,7,-1.05,40,-42.0,"Arya, Ray",,1476.0,False,IND,1.0,1,0.1,40,4.0
+25982915,2025-03-01,0,2nd WB State Amateur Open Chess Championship 2024 (Below 2300),Hooghly IND,2025-01-28,2025-01-31,1601,1843,4.5,7,-1.05,40,-42.0,"Suravi, Bhattacharya",,1689.0,False,IND,0.5,1,-0.21,40,-8.4

@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48747831,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1525,1454,0.0,3,-1.22,40,-48.8,"Surya, A",,1602.0,False,IND,0.0,1,-0.3,40,-12.0
+48747831,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1525,1454,0.0,3,-1.22,40,-48.8,"Vedanth, M",,1574.0,False,IND,0.0,1,-0.34,40,-13.6
+48747831,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1525,1454,0.0,3,-1.22,40,-48.8,"Gautham, Vadivelan",,1400.0,False,IND,0.0,1,-0.58,40,-23.2
+48747831,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1572,1405,1.5,5,0.02,40,0.8,"Abhinav, Anand",,1792.0,False,IND,0.0,1,-0.09,40,-3.6
+48747831,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1572,1405,1.5,5,0.02,40,0.8,"Moovendhan, A B",,1570.0,False,IND,0.5,1,0.22,40,8.8
+48747831,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1572,1405,1.5,5,0.02,40,0.8,"John, Winnow L",,1523.0,False,IND,0.0,1,-0.34,40,-13.6
+48747831,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1572,1405,1.5,5,0.02,40,0.8,"Shara, M",,1468.0,False,IND,1.0,1,0.59,40,23.6
+48747831,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1572,1405,1.5,5,0.02,40,0.8,"Shanmugam, D",,1509.0,False,IND,0.0,1,-0.36,40,-14.4

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25922491,2024-09-01,0,IM SWISS MIX Grocka 1,Beograd SRB,2024-08-02,2024-08-07,2205,2236,5.0,9,0.28,40,11.2,"Mandic, Milenko",,1836,True,SRB,1.0,1,0.08,40,3.2
+25922491,2024-09-01,0,IM SWISS MIX Grocka 1,Beograd SRB,2024-08-02,2024-08-07,2205,2236,5.0,9,0.28,40,11.2,"Milosevic, Milos",m,2315,False,SRB,0.5,1,0.11,40,4.4
+25922491,2024-09-01,0,IM SWISS MIX Grocka 1,Beograd SRB,2024-08-02,2024-08-07,2205,2236,5.0,9,0.28,40,11.2,"Mezentsev, Ivan",f,2321,False,KAZ,0.0,1,-0.38,40,-15.2
+25922491,2024-09-01,0,IM SWISS MIX Grocka 1,Beograd SRB,2024-08-02,2024-08-07,2205,2236,5.0,9,0.28,40,11.2,"Marjanovic, Rastko",,2201,False,SRB,0.5,1,-0.05,40,-2.0
+25922491,2024-09-01,0,IM SWISS MIX Grocka 1,Beograd SRB,2024-08-02,2024-08-07,2205,2236,5.0,9,0.28,40,11.2,"Zivkovic, Vladislav",f,2022,False,SRB,1.0,1,0.23,40,9.2
+25922491,2024-09-01,0,IM SWISS MIX Grocka 1,Beograd SRB,2024-08-02,2024-08-07,2205,2236,5.0,9,0.28,40,11.2,"Suleymanli, Suleyman",f,2290,False,AZE,1.0,1,0.58,40,23.2
+25922491,2024-09-01,0,IM SWISS MIX Grocka 1,Beograd SRB,2024-08-02,2024-08-07,2205,2236,5.0,9,0.28,40,11.2,"Adarsh, Tripathi",f,2368,False,IND,0.0,1,-0.32,40,-12.8
+25922491,2024-09-01,0,IM SWISS MIX Grocka 1,Beograd SRB,2024-08-02,2024-08-07,2205,2236,5.0,9,0.28,40,11.2,"Aslanov, Umid",c,2148,False,AZE,1.0,1,0.38,40,15.2
+25922491,2024-09-01,0,IM SWISS MIX Grocka 1,Beograd SRB,2024-08-02,2024-08-07,2205,2236,5.0,9,0.28,40,11.2,"Aayush, Bhattacherjee",c,2345,False,IND,0.0,1,-0.35,40,-14.0

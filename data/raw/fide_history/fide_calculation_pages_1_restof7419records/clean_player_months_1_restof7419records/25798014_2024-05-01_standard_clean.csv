@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25798014,2024-05-01,0,2nd Lt Diloo Dhar Memorial FIDE Rating Chess Tournament-2024,Silchar IND,2024-04-01,2024-04-06,1646,1856,5.0,5,1.25,40,50.0,"Abhijit, Barbhuiya",,1477.0,False,IND,1.0,1,0.09,40,3.6
+25798014,2024-05-01,0,2nd Lt Diloo Dhar Memorial FIDE Rating Chess Tournament-2024,Silchar IND,2024-04-01,2024-04-06,1646,1856,5.0,5,1.25,40,50.0,"Dayanand, Thoudam",,1549.0,False,IND,1.0,1,0.14,40,5.6
+25798014,2024-05-01,0,2nd Lt Diloo Dhar Memorial FIDE Rating Chess Tournament-2024,Silchar IND,2024-04-01,2024-04-06,1646,1856,5.0,5,1.25,40,50.0,"Subrata, Nandy Roy",,1638.0,False,IND,1.0,1,0.22,40,8.8
+25798014,2024-05-01,0,2nd Lt Diloo Dhar Memorial FIDE Rating Chess Tournament-2024,Silchar IND,2024-04-01,2024-04-06,1646,1856,5.0,5,1.25,40,50.0,"Ishan, Das",,1739.0,False,IND,1.0,1,0.34,40,13.6
+25798014,2024-05-01,0,2nd Lt Diloo Dhar Memorial FIDE Rating Chess Tournament-2024,Silchar IND,2024-04-01,2024-04-06,1646,1856,5.0,5,1.25,40,50.0,"Rajdip, Das",,1825.0,False,IND,1.0,1,0.46,40,18.4

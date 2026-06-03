@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33486646,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1647,1466,0.5,5,-0.9,40,-36.0,"Tijil, Singh",,1860.0,False,IND,0.0,1,-0.08,40,-3.2
+33486646,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1647,1466,0.5,5,-0.9,40,-36.0,"Sreesha, Kandi",,1649.0,False,IND,0.0,1,-0.26,40,-10.4
+33486646,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1647,1466,0.5,5,-0.9,40,-36.0,"Aadithya, R",,1647.0,False,IND,0.0,1,-0.26,40,-10.4
+33486646,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1647,1466,0.5,5,-0.9,40,-36.0,"Shreyan, Thipparthi",,1572.0,False,IND,0.5,1,0.14,40,5.6
+33486646,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1647,1466,0.5,5,-0.9,40,-36.0,"Aadarsh, Mishra",,1506.0,False,IND,0.0,1,-0.44,40,-17.6

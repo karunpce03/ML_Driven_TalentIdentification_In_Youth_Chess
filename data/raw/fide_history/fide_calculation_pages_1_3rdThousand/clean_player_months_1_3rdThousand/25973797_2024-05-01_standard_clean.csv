@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25973797,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1694,1530,1.0,5,-0.43,40,-17.2,"Niladri, Banerjee",,1771.0,False,IND,0.0,1,-0.2,40,-8.0
+25973797,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1694,1530,1.0,5,-0.43,40,-17.2,"Ahanjit, Banerjee",,1711.0,False,IND,0.5,1,0.24,40,9.6
+25973797,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1694,1530,1.0,5,-0.43,40,-17.2,"Soumen, Mondal",,1683.0,False,IND,0.0,1,-0.3,40,-12.0
+25973797,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1694,1530,1.0,5,-0.43,40,-17.2,"Amit, Tiwari",,1650.0,False,IND,0.5,1,0.16,40,6.4
+25973797,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1694,1530,1.0,5,-0.43,40,-17.2,"Sunetra, Dey",,1654.0,False,IND,0.0,1,-0.33,40,-13.2

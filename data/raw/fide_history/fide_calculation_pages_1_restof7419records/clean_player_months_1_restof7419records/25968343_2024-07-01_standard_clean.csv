@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25968343,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2036,2085,5.5,11,-0.92,40,-36.8,"Subelj, Jan",g,2485,True,SLO,0.0,1,-0.08,40,-3.2
+25968343,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2036,2085,5.5,11,-0.92,40,-36.8,"Rohith, S",,1866,False,IND,0.5,1,-0.28,40,-11.2
+25968343,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2036,2085,5.5,11,-0.92,40,-36.8,"Sharnarthi, Shlok",,1838,False,IND,1.0,1,0.19,40,7.6
+25968343,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2036,2085,5.5,11,-0.92,40,-36.8,"Aaditya, Dhingra",m,2485,True,IND,0.5,1,0.42,40,16.8
+25968343,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2036,2085,5.5,11,-0.92,40,-36.8,"Mishra, Abhimanyu",g,2485,True,USA,0.0,1,-0.08,40,-3.2
+25968343,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2036,2085,5.5,11,-0.92,40,-36.8,"Guru, Prakash",,1817,False,IND,0.5,1,-0.33,40,-13.2
+25968343,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2036,2085,5.5,11,-0.92,40,-36.8,"Yohan, Yadav Tarala",,1810,False,IND,0.0,1,-0.83,40,-33.2
+25968343,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2036,2085,5.5,11,-0.92,40,-36.8,"Mrinmoy, Rajkhowa",,1942,False,IND,0.0,1,-0.69,40,-27.6
+25968343,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2036,2085,5.5,11,-0.92,40,-36.8,"Boricha, Yohan",,1811,False,IND,1.0,1,0.17,40,6.8
+25968343,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2036,2085,5.5,11,-0.92,40,-36.8,"Jyotshnav, Talukdar",,1898,False,IND,1.0,1,0.26,40,10.4
+25968343,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2036,2085,5.5,11,-0.92,40,-36.8,"Gaikwad, Manas",,1957,False,IND,1.0,1,0.33,40,13.2

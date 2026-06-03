@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33324530,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1598,1500,3.5,6,1.25,40,50.0,"Devnath, Bijesh",,1761.0,False,IND,0.5,1,0.32,40,12.8
+33324530,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1598,1500,3.5,6,1.25,40,50.0,"Shreyas, K Patil",,1691.0,False,IND,0.5,1,0.25,40,10.0
+33324530,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1598,1500,3.5,6,1.25,40,50.0,"Adith, Sanjay",,1426.0,False,IND,1.0,1,0.4,40,16.0
+33324530,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1598,1500,3.5,6,1.25,40,50.0,"Sarvesh, E",,1643.0,False,IND,0.0,1,-0.31,40,-12.4
+33324530,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1598,1500,3.5,6,1.25,40,50.0,"Nivedh, Srambikkal",,1417.0,False,IND,1.0,1,0.39,40,15.6
+33324530,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1598,1500,3.5,6,1.25,40,50.0,"Samarth, Arun Upadhyaya",,1650.0,False,IND,0.5,1,0.2,40,8.0

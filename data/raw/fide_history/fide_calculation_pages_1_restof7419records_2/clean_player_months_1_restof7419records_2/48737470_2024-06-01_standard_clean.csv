@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48737470,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1637,1467,1.0,4,-0.12,40,-4.8,"Devnath, Bijesh",,1718.0,False,IND,0.0,1,-0.19,40,-7.6
+48737470,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1637,1467,1.0,4,-0.12,40,-4.8,"Sandeep, Santhosh",,1669.0,False,IND,0.5,1,0.26,40,10.4
+48737470,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1637,1467,1.0,4,-0.12,40,-4.8,"Kanishk, S R",,1592.0,False,IND,0.5,1,0.17,40,6.8
+48737470,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1637,1467,1.0,4,-0.12,40,-4.8,"Sanjeeth, P",,1568.0,False,IND,0.0,1,-0.36,40,-14.4
+48737470,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1600,1467,2.0,6,0.06,40,2.4,"Anirudh, Narendran",,1661.0,False,IND,0.5,1,0.25,40,10.0
+48737470,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1600,1467,2.0,6,0.06,40,2.4,"Balaprashanth, M",,1592.0,False,IND,0.0,1,-0.33,40,-13.2
+48737470,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1600,1467,2.0,6,0.06,40,2.4,"Dhruv, Gupta",,1588.0,False,IND,0.0,1,-0.34,40,-13.6
+48737470,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1600,1467,2.0,6,0.06,40,2.4,"Samhith, M",,1595.0,False,IND,1.0,1,0.67,40,26.8
+48737470,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1600,1467,2.0,6,0.06,40,2.4,"Gurupranav, P",,1630.0,False,IND,0.0,1,-0.28,40,-11.2
+48737470,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1600,1467,2.0,6,0.06,40,2.4,"Lishanth, B",,1534.0,False,IND,0.5,1,0.09,40,3.6

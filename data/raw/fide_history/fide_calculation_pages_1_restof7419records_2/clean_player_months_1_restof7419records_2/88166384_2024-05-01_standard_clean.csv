@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88166384,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,,,0.0,3,0.0,885,,"Khalid, Habib",,1653,False,PAK,0.0,1,0.0,,0.0
+88166384,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,,,0.0,3,0.0,885,,"Obado, Sean Adrich",,1614,False,PHI,0.0,1,0.0,,0.0
+88166384,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,,,0.0,3,0.0,885,,"Omer, Marof Mohamed",,1788,False,SUD,0.0,1,0.0,,0.0

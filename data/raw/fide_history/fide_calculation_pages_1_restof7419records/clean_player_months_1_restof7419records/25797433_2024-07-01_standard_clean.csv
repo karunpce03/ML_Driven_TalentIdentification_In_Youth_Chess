@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25797433,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1694,1674,5.0,7,1.67,40,66.8,"Madhav, T",,1466.0,False,IND,1.0,1,0.23,40,9.2
+25797433,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1694,1674,5.0,7,1.67,40,66.8,"Angelo, Paul",,1459.0,False,IND,1.0,1,0.23,40,9.2
+25797433,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1694,1674,5.0,7,1.67,40,66.8,"Prashanth, J Naik",,1837.0,False,IND,1.0,1,0.72,40,28.8
+25797433,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1694,1674,5.0,7,1.67,40,66.8,"Siddhanth, Poonja",,1939.0,False,IND,0.0,1,-0.18,40,-7.2
+25797433,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1694,1674,5.0,7,1.67,40,66.8,"Uthara, S",,1575.0,False,IND,1.0,1,0.36,40,14.4
+25797433,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1694,1674,5.0,7,1.67,40,66.8,"Rejath, Renjith",,1756.0,False,IND,0.5,1,0.11,40,4.4
+25797433,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1694,1674,5.0,7,1.67,40,66.8,"Ajeesh, Antony",,1825.0,False,IND,0.5,1,0.2,40,8.0
+25797433,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1615,1674,4.5,7,0.48,40,19.2,"Kabilesh, K",,1462.0,False,IND,0.5,1,-0.27,40,-10.8
+25797433,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1615,1674,4.5,7,0.48,40,19.2,"Mayeesha, Zabin S",,1455.0,False,IND,1.0,1,0.22,40,8.8
+25797433,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1615,1674,4.5,7,0.48,40,19.2,"Ayyappan, P Santhana Prabu",,1838.0,False,IND,0.0,1,-0.28,40,-11.2
+25797433,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1615,1674,4.5,7,0.48,40,19.2,"Joe, Gladson L",,1464.0,False,IND,1.0,1,0.23,40,9.2
+25797433,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1615,1674,4.5,7,0.48,40,19.2,"Kalidass, C.",,1567.0,False,IND,1.0,1,0.35,40,14.0
+25797433,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1615,1674,4.5,7,0.48,40,19.2,"Revlin, Ram R H",,1737.0,False,IND,0.5,1,0.09,40,3.6
+25797433,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1615,1674,4.5,7,0.48,40,19.2,"Premshankar, B U",,1780.0,False,IND,0.5,1,0.14,40,5.6

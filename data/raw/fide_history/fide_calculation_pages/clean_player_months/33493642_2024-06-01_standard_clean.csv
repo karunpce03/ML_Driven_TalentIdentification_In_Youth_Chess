@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33493642,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1683,1499,2.5,6,0.85,40,34.0,"Adhiadhavan, G",,1725.0,False,IND,0.5,1,0.29,40,11.6
+33493642,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1683,1499,2.5,6,0.85,40,34.0,"Mukhund, A",,1679.0,False,IND,0.0,1,-0.26,40,-10.4
+33493642,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1683,1499,2.5,6,0.85,40,34.0,"Hari, Ganesh T",,1899.0,True,IND,0.0,1,-0.08,40,-3.2
+33493642,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1683,1499,2.5,6,0.85,40,34.0,"Prabakaran, S",,1596.0,False,IND,0.5,1,0.13,40,5.2
+33493642,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1683,1499,2.5,6,0.85,40,34.0,"Sarvajith, Muthukumar",,1587.0,False,IND,1.0,1,0.62,40,24.8
+33493642,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1683,1499,2.5,6,0.85,40,34.0,"Harith, R",,1610.0,False,IND,0.5,1,0.15,40,6.0
+33493642,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1627,1499,1.0,4,-0.34,40,-13.6,"Iniyan, R S",,1729.0,False,IND,0.0,1,-0.21,40,-8.4
+33493642,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1627,1499,1.0,4,-0.34,40,-13.6,"Karthick, Sai P",,1653.0,False,IND,0.0,1,-0.29,40,-11.6
+33493642,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1627,1499,1.0,4,-0.34,40,-13.6,"Mathiyazhagan, M",,1684.0,False,IND,0.0,1,-0.26,40,-10.4
+33493642,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1627,1499,1.0,4,-0.34,40,-13.6,"Leela, Nandini Kandikonda",,1441.0,False,IND,1.0,1,0.42,40,16.8

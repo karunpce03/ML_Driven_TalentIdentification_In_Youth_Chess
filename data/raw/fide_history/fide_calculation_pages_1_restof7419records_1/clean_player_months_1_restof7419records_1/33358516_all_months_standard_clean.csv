@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33358516,2024-12-01,0,2024 MCC Greg Hjorth Open,Melbourne AUS,2024-11-01,2024-11-05,,,1.0,5,0.0,1411,,"Salasan, Haran",c,1992,False,AUS,0.0,1,0.0,,0.0
+33358516,2024-12-01,0,2024 MCC Greg Hjorth Open,Melbourne AUS,2024-11-01,2024-11-05,,,1.0,5,0.0,1411,,"Yu, Lok Lan",,1608,False,AUS,0.0,1,0.0,,0.0
+33358516,2024-12-01,0,2024 MCC Greg Hjorth Open,Melbourne AUS,2024-11-01,2024-11-05,,,1.0,5,0.0,1411,,"Zhang, Daniel",,1631,False,AUS,0.0,1,0.0,,0.0
+33358516,2024-12-01,0,2024 MCC Greg Hjorth Open,Melbourne AUS,2024-11-01,2024-11-05,,,1.0,5,0.0,1411,,"Thompson, Selby",,1454,False,AUS,0.0,1,0.0,,0.0
+33358516,2024-12-01,0,2024 MCC Greg Hjorth Open,Melbourne AUS,2024-11-01,2024-11-05,,,1.0,5,0.0,1411,,"Wan, Oscar",,1572,False,AUS,1.0,1,0.0,,0.0

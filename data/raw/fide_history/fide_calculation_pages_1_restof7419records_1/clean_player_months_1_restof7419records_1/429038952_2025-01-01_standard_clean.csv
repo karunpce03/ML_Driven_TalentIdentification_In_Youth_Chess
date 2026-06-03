@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429038952,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1785,1474,0.5,3,0.02,40,0.8,"Sharma, Vivek",,1872,False,IND,0.5,1,0.42,40,16.8
+429038952,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1785,1474,0.5,3,0.02,40,0.8,"Srivastava, Y.p.",,1874,True,IND,0.0,1,-0.08,40,-3.2
+429038952,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1785,1474,0.5,3,0.02,40,0.8,"Prashant, Kumar Singh",,1610,False,IND,0.0,1,-0.32,40,-12.8

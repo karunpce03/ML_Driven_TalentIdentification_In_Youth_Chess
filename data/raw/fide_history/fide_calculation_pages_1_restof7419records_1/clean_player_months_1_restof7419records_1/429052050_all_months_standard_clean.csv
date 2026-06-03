@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429052050,2024-07-01,0,47th Meghalaya State FIDE Rating Chess Championship 2024,North Tura IND,2024-06-12,2024-06-15,1503,1446,1.0,3,-0.27,40,-10.8,"Mayukh, Sah",,1408.0,False,IND,0.5,1,-0.05,40,-2.0
+429052050,2024-07-01,0,47th Meghalaya State FIDE Rating Chess Championship 2024,North Tura IND,2024-06-12,2024-06-15,1503,1446,1.0,3,-0.27,40,-10.8,"Tartush, R Marak",,1498.0,False,IND,0.5,1,0.07,40,2.8
+429052050,2024-07-01,0,47th Meghalaya State FIDE Rating Chess Championship 2024,North Tura IND,2024-06-12,2024-06-15,1503,1446,1.0,3,-0.27,40,-10.8,"Francis, A Sangma",,1602.0,False,IND,0.0,1,-0.29,40,-11.6

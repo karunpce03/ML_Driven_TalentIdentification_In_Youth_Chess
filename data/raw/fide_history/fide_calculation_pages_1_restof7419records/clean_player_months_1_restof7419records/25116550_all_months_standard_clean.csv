@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25116550,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1685,1581,4.0,8,1.08,40,43.2,"Aayush, Bhojak",,1693.0,False,IND,0.0,1,-0.35,40,-14.0
+25116550,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1685,1581,4.0,8,1.08,40,43.2,"Dushyant, Singh",,1542.0,False,IND,0.5,1,-0.05,40,-2.0
+25116550,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1685,1581,4.0,8,1.08,40,43.2,"Sudhakar, Prem Dutt",,1816.0,False,IND,0.5,1,0.29,40,11.6
+25116550,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1685,1581,4.0,8,1.08,40,43.2,"Himanshu, Moudgil",,1684.0,False,IND,0.0,1,-0.36,40,-14.4
+25116550,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1685,1581,4.0,8,1.08,40,43.2,"Gajendra, Singh",,1798.0,False,IND,1.0,1,0.78,40,31.2
+25116550,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1685,1581,4.0,8,1.08,40,43.2,"Shahid, Farooq",,1474.0,False,IND,1.0,1,0.35,40,14.0
+25116550,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1685,1581,4.0,8,1.08,40,43.2,"Maaz, Iqubal",,1729.0,False,IND,0.0,1,-0.3,40,-12.0
+25116550,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1685,1581,4.0,8,1.08,40,43.2,"Shashi, Nand Kumar",,1746.0,False,IND,1.0,1,0.72,40,28.8
+25116550,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1733,1624,5.0,10,1.27,40,50.8,"Jval, Saurin Patel",,2024.0,True,IND,0.0,1,-0.08,40,-3.2
+25116550,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1733,1624,5.0,10,1.27,40,50.8,"Sukant, Mohindra",,1414.0,False,IND,1.0,1,0.23,40,9.2
+25116550,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1733,1624,5.0,10,1.27,40,50.8,"Niladri, Banerjee",,1924.0,False,IND,0.0,1,-0.15,40,-6.0
+25116550,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1733,1624,5.0,10,1.27,40,50.8,"Suryansh, Kuksal",,1436.0,False,IND,1.0,1,0.26,40,10.4
+25116550,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1733,1624,5.0,10,1.27,40,50.8,"Vikramaditya, Abhijit Chavan",,1792.0,False,IND,0.0,1,-0.28,40,-11.2
+25116550,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1733,1624,5.0,10,1.27,40,50.8,"Keshav, Sood",,1491.0,False,IND,1.0,1,0.32,40,12.8
+25116550,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1733,1624,5.0,10,1.27,40,50.8,"Arya, G Mallar",,1836.0,False,IND,0.5,1,0.27,40,10.8
+25116550,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1733,1624,5.0,10,1.27,40,50.8,"Srikara, Darbha",,1777.0,False,IND,0.5,1,0.2,40,8.0
+25116550,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1733,1624,5.0,10,1.27,40,50.8,"Vyom, Malhotra",,1803.0,False,IND,1.0,1,0.73,40,29.2
+25116550,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1733,1624,5.0,10,1.27,40,50.8,"Vandan, Alankar Sawai",,1836.0,False,IND,0.0,1,-0.23,40,-9.2

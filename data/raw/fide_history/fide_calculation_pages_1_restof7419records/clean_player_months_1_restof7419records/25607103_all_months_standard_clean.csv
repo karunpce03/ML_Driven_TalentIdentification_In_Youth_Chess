@@ -1,0 +1,70 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25607103,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1807,1957,7.0,8,1.62,40,64.8,"Krishnangshu, Kumar De",,1557.0,True,IND,1.0,1,0.08,40,3.2
+25607103,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1807,1957,7.0,8,1.62,40,64.8,"Kinjal, Sardar",,1597.0,False,IND,1.0,1,0.1,40,4.0
+25607103,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1807,1957,7.0,8,1.62,40,64.8,"Sourav, Biswas",,1674.0,False,IND,1.0,1,0.16,40,6.4
+25607103,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1807,1957,7.0,8,1.62,40,64.8,"Aatreya, Saha",,1770.0,False,IND,1.0,1,0.26,40,10.4
+25607103,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1807,1957,7.0,8,1.62,40,64.8,"Rupam, Mukherjee",,1922.0,False,IND,1.0,1,0.45,40,18.0
+25607103,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1807,1957,7.0,8,1.62,40,64.8,"Ritabrata, Chakraborty",,1934.0,False,IND,0.5,1,-0.03,40,-1.2
+25607103,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1807,1957,7.0,8,1.62,40,64.8,"Shuvam, Roy",,1857.0,False,IND,1.0,1,0.36,40,14.4
+25607103,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1807,1957,7.0,8,1.62,40,64.8,"Alekhya, Mukhopadhyay",,2145.0,False,IND,0.5,1,0.24,40,9.6
+25607103,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,2048,2022,4.5,9,0.28,40,11.2,"Ahmed, Moeed Yousuf",,1698.0,False,PAK,1.0,1,0.13,40,5.2
+25607103,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,2048,2022,4.5,9,0.28,40,11.2,"Goh, Zi Han",f,2306.0,False,SGP,0.0,1,-0.16,40,-6.4
+25607103,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,2048,2022,4.5,9,0.28,40,11.2,"Daulet, Alikhan",,1877.0,False,KAZ,1.0,1,0.31,40,12.4
+25607103,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,2048,2022,4.5,9,0.28,40,11.2,"Esentay, Arsen",,1812.0,False,KAZ,1.0,1,0.23,40,9.2
+25607103,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,2048,2022,4.5,9,0.28,40,11.2,"Bayantas, Asman",,2140.0,False,KAZ,1.0,1,0.66,40,26.4
+25607103,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,2048,2022,4.5,9,0.28,40,11.2,"Parpiev, Isaak",c,2318.0,False,FID,0.0,1,-0.15,40,-6.0
+25607103,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,2048,2022,4.5,9,0.28,40,11.2,"Maslovskiy, Vladimir",,2293.0,False,FID,0.0,1,-0.17,40,-6.8
+25607103,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,2048,2022,4.5,9,0.28,40,11.2,"Gusev, Kirill",,2126.0,False,FID,0.0,1,-0.36,40,-14.4
+25607103,2024-07-01,0,26th Asian Youth Chess Championship U16 group,Almaty KAZ,2024-06-12,2024-06-19,2048,2022,4.5,9,0.28,40,11.2,"Danilov, Dmitryi",,1860.0,False,KAZ,0.5,1,-0.21,40,-8.4
+25607103,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1660,2022,7.0,9,-1.06,40,-42.4,"Kavya, Agrawal",,1622.0,True,IND,1.0,1,0.08,40,3.2
+25607103,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1660,2022,7.0,9,-1.06,40,-42.4,"Chirag, Arora",,1622.0,True,IND,1.0,1,0.08,40,3.2
+25607103,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1660,2022,7.0,9,-1.06,40,-42.4,"Advik, Singh Chauhan",,1675.0,False,IND,0.0,1,-0.89,40,-35.6
+25607103,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1660,2022,7.0,9,-1.06,40,-42.4,"Saksham, Arora",,1622.0,True,IND,1.0,1,0.08,40,3.2
+25607103,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1660,2022,7.0,9,-1.06,40,-42.4,"Aahna, Gulati",,1635.0,False,IND,1.0,1,0.09,40,3.6
+25607103,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1660,2022,7.0,9,-1.06,40,-42.4,"Shaurya, Chaudhary",,1743.0,False,IND,0.0,1,-0.84,40,-33.6
+25607103,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1660,2022,7.0,9,-1.06,40,-42.4,"Abhishek, Kumar Mishra",,1622.0,True,IND,1.0,1,0.08,40,3.2
+25607103,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1660,2022,7.0,9,-1.06,40,-42.4,"Keshav, Arora",,1660.0,False,IND,1.0,1,0.1,40,4.0
+25607103,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1660,2022,7.0,9,-1.06,40,-42.4,"Arhan, Jain",,1740.0,False,IND,1.0,1,0.16,40,6.4
+25607103,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2007,1991,7.5,11,2.07,40,82.8,"Todwal, Sudeep",,1704.0,False,IND,0.0,1,-0.84,40,-33.6
+25607103,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2007,1991,7.5,11,2.07,40,82.8,"Aahna, Gulati",,1694.0,False,IND,1.0,1,0.15,40,6.0
+25607103,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2007,1991,7.5,11,2.07,40,82.8,"Karjee, Manindra",,1772.0,False,IND,1.0,1,0.22,40,8.8
+25607103,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2007,1991,7.5,11,2.07,40,82.8,"Challa, Saharsha",,1857.0,False,IND,1.0,1,0.32,40,12.8
+25607103,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2007,1991,7.5,11,2.07,40,82.8,"Utkrisht, Tuli",,1892.0,False,IND,0.5,1,-0.14,40,-5.6
+25607103,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2007,1991,7.5,11,2.07,40,82.8,"Boricha, Yohan",,1846.0,False,IND,1.0,1,0.31,40,12.4
+25607103,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2007,1991,7.5,11,2.07,40,82.8,"Deepan, Chakkravarthy J.",g,2391.0,True,IND,0.5,1,0.42,40,16.8
+25607103,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2007,1991,7.5,11,2.07,40,82.8,"Venkatesh, M.r.",g,2387.0,False,IND,0.5,1,0.42,40,16.8
+25607103,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2007,1991,7.5,11,2.07,40,82.8,"Koustuv, Dash",,2124.0,False,IND,0.5,1,0.18,40,7.2
+25607103,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2007,1991,7.5,11,2.07,40,82.8,"Mukund, Hemant Agarwal",,2114.0,False,IND,1.0,1,0.67,40,26.8
+25607103,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2007,1991,7.5,11,2.07,40,82.8,"Sahoo, Utkal Ranjan",,2300.0,False,IND,0.5,1,0.36,40,14.4
+25607103,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1884,2074,7.5,11,-0.66,40,-26.4,"Sameer, Choudhary",,1752.0,False,IND,1.0,1,0.13,40,5.2
+25607103,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1884,2074,7.5,11,-0.66,40,-26.4,"Andabatla, Satvik",,1840.0,False,IND,0.5,1,-0.29,40,-11.6
+25607103,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1884,2074,7.5,11,-0.66,40,-26.4,"Atharva, Kale",,1908.0,False,IND,0.5,1,-0.22,40,-8.8
+25607103,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1884,2074,7.5,11,-0.66,40,-26.4,"Safal, Fazil",,1840.0,False,IND,1.0,1,0.21,40,8.4
+25607103,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1884,2074,7.5,11,-0.66,40,-26.4,"Druvesh, Dondapati",,1896.0,False,IND,1.0,1,0.27,40,10.8
+25607103,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1884,2074,7.5,11,-0.66,40,-26.4,"Sri, Charan Sandipagu",,1964.0,False,IND,0.0,1,-0.65,40,-26.0
+25607103,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1884,2074,7.5,11,-0.66,40,-26.4,"Mahir, Taneja",,1844.0,False,IND,1.0,1,0.21,40,8.4
+25607103,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1884,2074,7.5,11,-0.66,40,-26.4,"Arul, Prakash N",,1922.0,False,IND,0.5,1,-0.2,40,-8.0
+25607103,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1884,2074,7.5,11,-0.66,40,-26.4,"Shadhursshaan, R",c,1933.0,False,IND,0.5,1,-0.19,40,-7.6
+25607103,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1884,2074,7.5,11,-0.66,40,-26.4,"Nirnay, Garg",,1886.0,False,IND,0.5,1,-0.24,40,-9.6
+25607103,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1884,2074,7.5,11,-0.66,40,-26.4,"Vishal, Choudary B",,1934.0,False,IND,1.0,1,0.31,40,12.4
+25607103,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2173,2048,7.0,11,3.13,40,125.2,"Habans Aguerrea, Javier",f,2405.0,False,ESP,0.0,1,-0.11,40,-4.4
+25607103,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2173,2048,7.0,11,3.13,40,125.2,"Angeles Vera, Mario Alberto",,1785.0,False,MEX,1.0,1,0.18,40,7.2
+25607103,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2173,2048,7.0,11,3.13,40,125.2,"Paikens, Reinis",,2295.0,False,LAT,1.0,1,0.81,40,32.4
+25607103,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2173,2048,7.0,11,3.13,40,125.2,"Religa, Marek",,2209.0,False,SWE,0.5,1,0.21,40,8.4
+25607103,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2173,2048,7.0,11,3.13,40,125.2,"Bolat, Inayat",f,2218.0,False,KAZ,0.5,1,0.22,40,8.8
+25607103,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2173,2048,7.0,11,3.13,40,125.2,"Lazic, Emanuel",f,2230.0,False,BIH,0.5,1,0.24,40,9.6
+25607103,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2173,2048,7.0,11,3.13,40,125.2,"Latorre, Vincent",c,2257.0,False,CAN,0.0,1,-0.23,40,-9.2
+25607103,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2173,2048,7.0,11,3.13,40,125.2,"Huang, Zi-Chen",,1838.0,False,TPE,1.0,1,0.23,40,9.2
+25607103,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2173,2048,7.0,11,3.13,40,125.2,"Blagoev, Denislav",,1942.0,False,BUL,1.0,1,0.36,40,14.4
+25607103,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2173,2048,7.0,11,3.13,40,125.2,"Anand, Batsukh",f,2313.0,False,MGL,1.0,1,0.82,40,32.8
+25607103,2024-12-01,0,FIDE World Youth Chess Championship 2024 U16 Open,Florianopolis SC BRA,2024-10-28,2024-11-09,2173,2048,7.0,11,3.13,40,125.2,"Perea Fruet, Lorenzo",f,2411.0,False,ESP,0.5,1,0.4,40,16.0
+25607103,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1939,2173,8.5,10,0.91,40,36.4,"Williamba, Moirangthem",,1773.0,True,IND,1.0,1,0.08,40,3.2
+25607103,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1939,2173,8.5,10,0.91,40,36.4,"Moharnab, Das",,1773.0,True,IND,1.0,1,0.08,40,3.2
+25607103,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1939,2173,8.5,10,0.91,40,36.4,"Koshin, Das",,1773.0,True,IND,1.0,1,0.08,40,3.2
+25607103,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1939,2173,8.5,10,0.91,40,36.4,"Venkatesh, Das",,1792.0,False,IND,1.0,1,0.09,40,3.6
+25607103,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1939,2173,8.5,10,0.91,40,36.4,"Jagajit, Sinha",,1908.0,False,IND,1.0,1,0.18,40,7.2
+25607103,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1939,2173,8.5,10,0.91,40,36.4,"Gurung, Rohit",,1894.0,False,IND,1.0,1,0.16,40,6.4
+25607103,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1939,2173,8.5,10,0.91,40,36.4,"Gurung, Rahul",,1972.0,False,IND,1.0,1,0.24,40,9.6
+25607103,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1939,2173,8.5,10,0.91,40,36.4,"Mayank, Chakraborty",m,2472.0,False,IND,0.5,1,0.35,40,14.0
+25607103,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1939,2173,8.5,10,0.91,40,36.4,"Kulkarni, Vikramaditya",m,2198.0,False,IND,0.0,1,-0.47,40,-18.8
+25607103,2025-02-01,0,SPS Guwahati India Open International Rating Chess Tournament 2024,Guwahati IND,2024-12-25,2024-12-30,1939,2173,8.5,10,0.91,40,36.4,"Shubham, Kumar",,1830.0,False,IND,1.0,1,0.12,40,4.8

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88166325,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1549,1564,2.0,5,-0.61,40,-24.4,"Dhrupad, Lohidas",,1548.0,False,IND,1.0,1,0.48,40,19.2
+88166325,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1549,1564,2.0,5,-0.61,40,-24.4,"Navaneet, Sreekanth",,1732.0,False,IND,0.0,1,-0.28,40,-11.2
+88166325,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1549,1564,2.0,5,-0.61,40,-24.4,"Palaash, Suyog Mapara",,1501.0,False,IND,0.0,1,-0.59,40,-23.6
+88166325,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1549,1564,2.0,5,-0.61,40,-24.4,"Nyrav, Gopalakrishnan",,1437.0,False,IND,0.0,1,-0.67,40,-26.8
+88166325,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,1549,1564,2.0,5,-0.61,40,-24.4,"Gabriel, Vivek Joseph",,1529.0,False,IND,1.0,1,0.45,40,18.0
+88166325,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1558,1564,3.0,5,0.44,40,17.6,"Tissir, Hamza",,1523.0,False,MAR,1.0,1,0.44,40,17.6
+88166325,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1558,1564,3.0,5,0.44,40,17.6,"Kanushi, Kishore",,1502.0,False,IND,0.5,1,-0.09,40,-3.6
+88166325,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1558,1564,3.0,5,0.44,40,17.6,"Gabriel, Vivek Joseph",,1552.0,False,IND,0.0,1,-0.52,40,-20.8
+88166325,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1558,1564,3.0,5,0.44,40,17.6,"Sanjana, Selvaraj",,1451.0,False,IND,1.0,1,0.35,40,14.0
+88166325,2024-07-01,0,23rd Bahrain Chess Academy Classic Fide Rated,Manama BRN,2024-06-06,2024-06-28,1558,1564,3.0,5,0.44,40,17.6,"Taqi, Mohamed",,1764.0,False,BRN,0.5,1,0.26,40,10.4

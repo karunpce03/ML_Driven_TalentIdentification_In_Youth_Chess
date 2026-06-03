@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33321124,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1883,1881,4.5,8,0.52,40,20.8,"Rashid, Husain Alhammadi",,1654.0,False,UAE,1.0,1,0.21,40,8.4
+33321124,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1883,1881,4.5,8,0.52,40,20.8,"Lopez, Henry",,2097.0,False,PHI,1.0,1,0.78,40,31.2
+33321124,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1883,1881,4.5,8,0.52,40,20.8,"Steiners, Emils",,2069.0,False,LAT,0.5,1,0.24,40,9.6
+33321124,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1883,1881,4.5,8,0.52,40,20.8,"Temirov, Bakhyt",f,2114.0,False,KAZ,0.0,1,-0.21,40,-8.4
+33321124,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1883,1881,4.5,8,0.52,40,20.8,"Daiwik, Jain",,1702.0,False,IND,0.0,1,-0.73,40,-29.2
+33321124,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1883,1881,4.5,8,0.52,40,20.8,"Yeshwant, Saravanan",,1684.0,False,IND,1.0,1,0.25,40,10.0
+33321124,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1883,1881,4.5,8,0.52,40,20.8,"Vedant, Yogesh Kale",,1714.0,False,IND,1.0,1,0.28,40,11.2
+33321124,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1883,1881,4.5,8,0.52,40,20.8,"Redor, Menandro",,2032.0,False,PHI,0.0,1,-0.3,40,-12.0

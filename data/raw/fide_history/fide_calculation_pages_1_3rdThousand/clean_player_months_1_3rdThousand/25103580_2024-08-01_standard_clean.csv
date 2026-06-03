@@ -1,0 +1,2 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25103580,2024-08-01,0,23rd Wilkerson Memorial Tournament - Under 1600,"San Francisco, CA USA",2024-07-27,2024-07-28,1585,1537,0.5,1,0.07,40,2.8,"Viswanath, Avyukth Ganapathy",,1585.0,False,USA,0.5,1,0.07,40,2.8

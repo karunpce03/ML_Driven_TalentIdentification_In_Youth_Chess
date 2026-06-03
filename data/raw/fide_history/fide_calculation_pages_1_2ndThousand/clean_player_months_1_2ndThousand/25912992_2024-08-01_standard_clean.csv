@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25912992,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1772,1550,1.0,3,0.16,40,6.4,"Yashwant, B",,1941,False,IND,0.0,1,-0.09,40,-3.6
+25912992,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1772,1550,1.0,3,0.16,40,6.4,"Rajan, K B",,1424,False,IND,1.0,1,0.33,40,13.2
+25912992,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1772,1550,1.0,3,0.16,40,6.4,"Maheswaran, P.",f,1950,True,IND,0.0,1,-0.08,40,-3.2

@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48727393,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1572,1514,1.0,3,-0.27,40,-10.8,"Chakrabarti, Tamal",,1683.0,False,IND,0.0,1,-0.28,40,-11.2
+48727393,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1572,1514,1.0,3,-0.27,40,-10.8,"Debargho, Mukherjee",,1404.0,False,IND,0.5,1,-0.15,40,-6.0
+48727393,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1572,1514,1.0,3,-0.27,40,-10.8,"Somiddho, Rajbanshi",,1630.0,False,IND,0.5,1,0.16,40,6.4

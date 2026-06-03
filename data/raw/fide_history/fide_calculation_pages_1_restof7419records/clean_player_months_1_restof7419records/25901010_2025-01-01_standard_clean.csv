@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Van Der Merwe, Alexander",,2105.0,False,RSA,1.0,1,0.86,38,32.68
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Gholami Orimi, Mahdi",m,2200.0,True,IRI,0.0,1,-0.08,38,-3.04
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Merkel, Luis",,2056.0,False,GER,1.0,1,0.81,38,30.78
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Koudounis, Vasileios",,2190.0,False,GRE,0.0,1,-0.09,38,-3.42
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Rechberger, Franz",,2087.0,False,AUT,0.0,1,-0.16,38,-6.08
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Donghvani, Nia",,2044.0,False,GEO,1.0,1,0.8,38,30.4
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Ghazaryan, Raffi",,2097.0,False,ARM,0.5,1,0.35,38,13.3
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Degraeve, Remy",m,2200.0,True,FRA,0.0,1,-0.08,38,-3.04
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Muth, Matthias Potisarath",,2026.0,False,GER,0.0,1,-0.21,38,-7.98
+25901010,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2099,1800,4.5,10,2.94,38,111.72,"Graells, Ricardo",,1987.0,False,SUI,1.0,1,0.74,38,28.12
+25901010,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1767,1800,7.0,8,2.68,38,101.84,"Parthiv, Senrayan Velmurugan",,1452.0,False,IND,1.0,1,0.11,38,4.18
+25901010,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1767,1800,7.0,8,2.68,38,101.84,"Saud, Bader Huwair Alzarooni",,1648.0,False,UAE,1.0,1,0.3,38,11.4
+25901010,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1767,1800,7.0,8,2.68,38,101.84,"Saqar, Essa Khamis",,1684.0,False,UAE,1.0,1,0.34,38,12.92
+25901010,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1767,1800,7.0,8,2.68,38,101.84,"Hamad, Shuaib Al Kaff",,1710.0,False,UAE,1.0,1,0.38,38,14.44
+25901010,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1767,1800,7.0,8,2.68,38,101.84,"Marcos, Marvin",,1960.0,False,PHI,0.5,1,0.21,38,7.98
+25901010,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1767,1800,7.0,8,2.68,38,101.84,"Mosallam, Mohammad",,1753.0,False,UAE,1.0,1,0.43,38,16.34
+25901010,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1767,1800,7.0,8,2.68,38,101.84,"Chudinovskikh, Alexander M",m,2054.0,False,RUS,1.0,1,0.81,38,30.78
+25901010,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1767,1800,7.0,8,2.68,38,101.84,"Birjukov, Sergey",f,1874.0,False,RUS,0.5,1,0.1,38,3.8

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25786113,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1727,1669,5.5,9,1.6,40,64.0,"Swarang, Joshi",,1418,False,IND,1.0,1,0.19,40,7.6
+25786113,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1727,1669,5.5,9,1.6,40,64.0,"Ratnakaran, K.",m,2069,True,IND,0.0,1,-0.08,40,-3.2
+25786113,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1727,1669,5.5,9,1.6,40,64.0,"Aditya, Saxena",,1510,False,IND,1.0,1,0.29,40,11.6
+25786113,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1727,1669,5.5,9,1.6,40,64.0,"Ishan, Arjun P Y",,1485,False,IND,1.0,1,0.26,40,10.4
+25786113,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1727,1669,5.5,9,1.6,40,64.0,"Anushka, Bapu Kutwal",,1821,False,IND,1.0,1,0.7,40,28.0
+25786113,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1727,1669,5.5,9,1.6,40,64.0,"Gorli, Nyna",,1775,False,IND,0.0,1,-0.36,40,-14.4
+25786113,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1727,1669,5.5,9,1.6,40,64.0,"Sagnik, Halder",,1814,False,IND,0.5,1,0.19,40,7.6
+25786113,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1727,1669,5.5,9,1.6,40,64.0,"Soumick, Bandopadhyay",,1812,False,IND,0.5,1,0.19,40,7.6
+25786113,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1727,1669,5.5,9,1.6,40,64.0,"Suman, Saideep",,1836,False,IND,0.5,1,0.22,40,8.8

@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48703567,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1552,1502,2.5,4,0.74,40,29.6,"Oishik, Mondal",,1751.0,False,IND,0.0,1,-0.19,40,-7.6
+48703567,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1552,1502,2.5,4,0.74,40,29.6,"Vaaswar, Basak",,1408.0,False,IND,1.0,1,0.37,40,14.8
+48703567,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1552,1502,2.5,4,0.74,40,29.6,"Reyansh, Rawani",,1416.0,False,IND,0.5,1,-0.12,40,-4.8
+48703567,2024-11-01,0,WB State U-9 Open Chess Championship'24,Kolkata IND,2024-10-02,2024-10-05,1552,1502,2.5,4,0.74,40,29.6,"Aniket, Das",,1633.0,False,IND,1.0,1,0.68,40,27.2
+48703567,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1542,1502,0.0,4,-1.91,40,-76.4,"Niladri, Banerjee",,1902.0,True,IND,0.0,1,-0.08,40,-3.2
+48703567,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1542,1502,0.0,4,-1.91,40,-76.4,"Dipro, Mandal",,1432.0,False,IND,0.0,1,-0.6,40,-24.0
+48703567,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1542,1502,0.0,4,-1.91,40,-76.4,"Aishik, Satya Chatterjee",,1419.0,False,IND,0.0,1,-0.61,40,-24.4
+48703567,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1542,1502,0.0,4,-1.91,40,-76.4,"Sahnan, Alam",,1414.0,False,IND,0.0,1,-0.62,40,-24.8

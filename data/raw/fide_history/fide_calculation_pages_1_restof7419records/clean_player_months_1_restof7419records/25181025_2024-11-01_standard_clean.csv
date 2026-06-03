@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25181025,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1636,1466,2.5,9,-0.24,40,-9.6,"Patil, Divya",,1866,True,IND,0.0,1,-0.08,40,-3.2
+25181025,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1636,1466,2.5,9,-0.24,40,-9.6,"Tharunika, G",,1778,False,IND,0.0,1,-0.14,40,-5.6
+25181025,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1636,1466,2.5,9,-0.24,40,-9.6,"Aditi, Arun",,1784,False,IND,0.0,1,-0.13,40,-5.2
+25181025,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1636,1466,2.5,9,-0.24,40,-9.6,"Mahisha, Prathab",,1455,False,IND,1.0,1,0.48,40,19.2
+25181025,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1636,1466,2.5,9,-0.24,40,-9.6,"Varshita, Jain",,1700,False,IND,0.0,1,-0.21,40,-8.4
+25181025,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1636,1466,2.5,9,-0.24,40,-9.6,"Sinha, Pari",,1462,False,IND,1.0,1,0.49,40,19.6
+25181025,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1636,1466,2.5,9,-0.24,40,-9.6,"Trisha, B",,1722,False,IND,0.0,1,-0.19,40,-7.6
+25181025,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1636,1466,2.5,9,-0.24,40,-9.6,"Sharon, Rachel Aby",,1472,False,IND,0.0,1,-0.49,40,-19.6
+25181025,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1636,1466,2.5,9,-0.24,40,-9.6,"Kanishri, R P",,1489,False,IND,0.5,1,0.03,40,1.2

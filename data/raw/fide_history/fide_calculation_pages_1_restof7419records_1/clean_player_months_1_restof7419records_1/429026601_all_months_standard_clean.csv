@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429026601,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,,,3.5,7,0.0,1514,,"Sreenivasulu, P V",,1603.0,False,IND,1.0,1,0.0,,0.0
+429026601,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,,,3.5,7,0.0,1514,,Raghunandan,,1591.0,False,IND,0.0,1,0.0,,0.0
+429026601,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,,,3.5,7,0.0,1514,,"Keshav, Sivaramakrishnan",,1515.0,False,IND,0.0,1,0.0,,0.0
+429026601,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,,,3.5,7,0.0,1514,,"Hari, Prasath R",,1425.0,False,IND,1.0,1,0.0,,0.0
+429026601,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,,,3.5,7,0.0,1514,,"Sarvesh, G",,1490.0,False,IND,0.5,1,0.0,,0.0
+429026601,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,,,3.5,7,0.0,1514,,"Raghavan, Saravanan",,1463.0,False,IND,0.0,1,0.0,,0.0
+429026601,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,,,3.5,7,0.0,1514,,Satyasavit,,1511.0,False,IND,1.0,1,0.0,,0.0
+429026601,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1540.0,1479.0,2.0,4,0.2,40,8.0,"Gokula, Vishnu R",,1870.0,False,IND,0.0,1,-0.09,40.0,-3.6
+429026601,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1540.0,1479.0,2.0,4,0.2,40,8.0,"Puviya, Sureshkumar",,1400.0,False,IND,0.5,1,-0.11,40.0,-4.4
+429026601,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1540.0,1479.0,2.0,4,0.2,40,8.0,"Kavinesh, S",,1424.0,False,IND,0.5,1,-0.08,40.0,-3.2
+429026601,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1540.0,1479.0,2.0,4,0.2,40,8.0,"Ajaykumar, Prabu",,1465.0,False,IND,1.0,1,0.48,40.0,19.2
+429026601,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1695.0,1487.0,0.0,1,-0.23,40,-9.2,"Muthuraman, Kesavamoorthy",,1695.0,False,IND,0.0,1,-0.23,40.0,-9.2

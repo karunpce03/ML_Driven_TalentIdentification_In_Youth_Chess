@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25674366,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1825,1744,1.0,6,-1.51,40,-60.4,"Das, Sayantan",g,2144,True,IND,0.0,1,-0.08,40,-3.2
+25674366,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1825,1744,1.0,6,-1.51,40,-60.4,"Chehal, Nikhil",,1749,False,IND,0.0,1,-0.49,40,-19.6
+25674366,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1825,1744,1.0,6,-1.51,40,-60.4,"Lokesh, Jangid",,1601,False,IND,1.0,1,0.31,40,12.4
+25674366,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1825,1744,1.0,6,-1.51,40,-60.4,"Sharnarthi, Viresh",,2036,False,IND,0.0,1,-0.15,40,-6.0
+25674366,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1825,1744,1.0,6,-1.51,40,-60.4,"Atiksh, Thakur",,1675,False,IND,0.0,1,-0.6,40,-24.0
+25674366,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1825,1744,1.0,6,-1.51,40,-60.4,"Tanna, Krish Alpeshbhai",,1743,False,IND,0.0,1,-0.5,40,-20.0

@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25169041,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,,,0.5,4,0.0,1221,,"Jayesh, Gupta",,1519.0,False,IND,0.0,1,0.0,,0.0
+25169041,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,,,0.5,4,0.0,1221,,"Tanav, Sahani",,1450.0,False,IND,0.5,1,0.0,,0.0
+25169041,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,,,0.5,4,0.0,1221,,"Harshit, Sharma",,1745.0,False,IND,0.0,1,0.0,,0.0
+25169041,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,,,0.5,4,0.0,1221,,"Tia, Bedi",,1456.0,False,IND,0.0,1,0.0,,0.0
+25169041,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,,,2.5,7,0.0,1459,,Anubhav,,1542.0,False,IND,0.5,1,0.0,,0.0
+25169041,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,,,2.5,7,0.0,1459,,"Yogesh, Solanki",,1672.0,False,IND,0.0,1,0.0,,0.0
+25169041,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,,,2.5,7,0.0,1459,,"Dhairya, Sehgal",,1439.0,False,IND,1.0,1,0.0,,0.0
+25169041,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,,,2.5,7,0.0,1459,,"Abhyudaya, Matta",,1699.0,False,IND,0.0,1,0.0,,0.0
+25169041,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,,,2.5,7,0.0,1459,,"Kavish, Agrawal",,1477.0,False,IND,0.0,1,0.0,,0.0
+25169041,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,,,2.5,7,0.0,1459,,"Harsh, Aggarwal",,1647.0,False,IND,0.5,1,0.0,,0.0
+25169041,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,,,2.5,7,0.0,1459,,"Soham, Mittal",,1451.0,False,IND,0.5,1,0.0,,0.0
+25169041,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1404.0,1534.0,0.5,1,-0.18,40,-7.2,Hitansh,,1404.0,False,IND,0.5,1,-0.18,40.0,-7.2
+25169041,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1684.0,1527.0,0.0,2,-0.58,40,-23.2,"Anil, Shivpuri",,1681.0,False,IND,0.0,1,-0.29,40.0,-11.6
+25169041,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1684.0,1527.0,0.0,2,-0.58,40,-23.2,"Mansimar, Singh Rawal",,1686.0,False,IND,0.0,1,-0.29,40.0,-11.6

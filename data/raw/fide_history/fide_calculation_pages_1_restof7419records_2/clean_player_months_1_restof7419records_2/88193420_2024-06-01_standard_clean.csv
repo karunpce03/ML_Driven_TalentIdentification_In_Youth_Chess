@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88193420,2024-06-01,0,4th Big Rook International Chess Festival - Challenger,Bangkok THA,2024-05-02,2024-05-06,,,2.0,4,0.0,1598,,"Azzamy, Khalid Shafwan",,1802,False,INA,0.0,1,0.0,,0.0
+88193420,2024-06-01,0,4th Big Rook International Chess Festival - Challenger,Bangkok THA,2024-05-02,2024-05-06,,,2.0,4,0.0,1598,,"Romualdez, Danry Seth",,1594,False,PHI,0.0,1,0.0,,0.0
+88193420,2024-06-01,0,4th Big Rook International Chess Festival - Challenger,Bangkok THA,2024-05-02,2024-05-06,,,2.0,4,0.0,1598,,"Jiang, Yanze",,1427,False,CHN,1.0,1,0.0,,0.0
+88193420,2024-06-01,0,4th Big Rook International Chess Festival - Challenger,Bangkok THA,2024-05-02,2024-05-06,,,2.0,4,0.0,1598,,"Sheridan, Wallace",,1568,False,AUS,1.0,1,0.0,,0.0

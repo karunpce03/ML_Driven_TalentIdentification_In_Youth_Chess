@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25689924,2024-08-01,0,CZECH OPEN 2024 - B - open rating tournament,Pardubice CZE,2024-07-20,2024-07-27,1914,1796,5.5,9,2.4,40,96.0,"Koenig, Dirk",,1999.0,False,GER,0.5,1,0.26,40,10.4
+25689924,2024-08-01,0,CZECH OPEN 2024 - B - open rating tournament,Pardubice CZE,2024-07-20,2024-07-27,1914,1796,5.5,9,2.4,40,96.0,"Dehmel, Jens",,1980.0,False,GER,1.0,1,0.74,40,29.6
+25689924,2024-08-01,0,CZECH OPEN 2024 - B - open rating tournament,Pardubice CZE,2024-07-20,2024-07-27,1914,1796,5.5,9,2.4,40,96.0,"Orlik, Sandra",,1927.0,False,POL,0.0,1,-0.32,40,-12.8
+25689924,2024-08-01,0,CZECH OPEN 2024 - B - open rating tournament,Pardubice CZE,2024-07-20,2024-07-27,1914,1796,5.5,9,2.4,40,96.0,"Siebenburger, Vlastimil",,1961.0,False,CZE,0.5,1,0.22,40,8.8
+25689924,2024-08-01,0,CZECH OPEN 2024 - B - open rating tournament,Pardubice CZE,2024-07-20,2024-07-27,1914,1796,5.5,9,2.4,40,96.0,"Thenhausen, Dirk",,1970.0,False,GER,0.5,1,0.23,40,9.2
+25689924,2024-08-01,0,CZECH OPEN 2024 - B - open rating tournament,Pardubice CZE,2024-07-20,2024-07-27,1914,1796,5.5,9,2.4,40,96.0,"Vokurka, Vilem",,1664.0,False,CZE,1.0,1,0.32,40,12.8
+25689924,2024-08-01,0,CZECH OPEN 2024 - B - open rating tournament,Pardubice CZE,2024-07-20,2024-07-27,1914,1796,5.5,9,2.4,40,96.0,"Cwiek, Stefan",,1929.0,False,POL,0.5,1,0.18,40,7.2
+25689924,2024-08-01,0,CZECH OPEN 2024 - B - open rating tournament,Pardubice CZE,2024-07-20,2024-07-27,1914,1796,5.5,9,2.4,40,96.0,"Ruessel, Bernhard",,1879.0,False,GER,0.5,1,0.11,40,4.4
+25689924,2024-08-01,0,CZECH OPEN 2024 - B - open rating tournament,Pardubice CZE,2024-07-20,2024-07-27,1914,1796,5.5,9,2.4,40,96.0,"Zavodsky, Jiri",,1915.0,False,CZE,1.0,1,0.66,40,26.4

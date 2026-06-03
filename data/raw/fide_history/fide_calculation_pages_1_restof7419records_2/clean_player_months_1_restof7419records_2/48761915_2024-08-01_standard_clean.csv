@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48761915,2024-08-01,0,SERBIA OPEN 2024 - Amateurs,Beograd SRB,2024-07-12,2024-07-17,1581,1541,4.0,5,1.77,40,70.8,"Yavic, Adnan",,1739.0,False,TUR,1.0,1,0.76,40,30.4
+48761915,2024-08-01,0,SERBIA OPEN 2024 - Amateurs,Beograd SRB,2024-07-12,2024-07-17,1581,1541,4.0,5,1.77,40,70.8,"Nyrav, Gopalakrishnan",,1511.0,False,IND,1.0,1,0.46,40,18.4
+48761915,2024-08-01,0,SERBIA OPEN 2024 - Amateurs,Beograd SRB,2024-07-12,2024-07-17,1581,1541,4.0,5,1.77,40,70.8,"Naranzaya, Zorigoo",,1534.0,False,MGL,1.0,1,0.49,40,19.6
+48761915,2024-08-01,0,SERBIA OPEN 2024 - Amateurs,Beograd SRB,2024-07-12,2024-07-17,1581,1541,4.0,5,1.77,40,70.8,"Mehmetoglu, Eldar",,1502.0,False,TUR,0.5,1,-0.05,40,-2.0
+48761915,2024-08-01,0,SERBIA OPEN 2024 - Amateurs,Beograd SRB,2024-07-12,2024-07-17,1581,1541,4.0,5,1.77,40,70.8,"Senicar, Filip",,1619.0,False,SRB,0.5,1,0.11,40,4.4
+48761915,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1867,1541,2.5,6,1.71,40,68.4,"Milenkovic, Pavle",,1925.0,False,SRB,0.0,1,-0.09,40,-3.6
+48761915,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1867,1541,2.5,6,1.71,40,68.4,"Lagashin, Pavel",,1941.0,True,FID,0.5,1,0.42,40,16.8
+48761915,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1867,1541,2.5,6,1.71,40,68.4,"Mihailovic, Slobodan C",,1798.0,False,SRB,1.0,1,0.82,40,32.8
+48761915,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1867,1541,2.5,6,1.71,40,68.4,"Brankov, Kristina",,1920.0,False,SRB,0.5,1,0.41,40,16.4
+48761915,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1867,1541,2.5,6,1.71,40,68.4,"Jelicic, Hugo",,1796.0,False,SUI,0.0,1,-0.19,40,-7.6
+48761915,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1867,1541,2.5,6,1.71,40,68.4,"Dobric, Vitomir",,1822.0,False,SRB,0.5,1,0.34,40,13.6

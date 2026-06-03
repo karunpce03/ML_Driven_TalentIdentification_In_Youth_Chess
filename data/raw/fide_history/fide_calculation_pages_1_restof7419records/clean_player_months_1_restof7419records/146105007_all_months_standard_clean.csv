@@ -1,0 +1,47 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+146105007,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1540,1466,1.0,3,-0.21,40,-8.4,"Nabatlao, Jason",,1618.0,False,PHI,0.0,1,-0.3,40,-12.0
+146105007,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1540,1466,1.0,3,-0.21,40,-8.4,"Sandra, Nair",,1542.0,False,IND,0.0,1,-0.4,40,-16.0
+146105007,2024-05-01,0,4th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-03-30,2024-03-31,1540,1466,1.0,3,-0.21,40,-8.4,Danish,,1460.0,False,IND,1.0,1,0.49,40,19.6
+146105007,2024-05-01,0,5th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-06,2024-04-07,1626,1453,1.5,4,0.37,40,14.8,"Shashish, Subbiah",,1754.0,False,IND,0.0,1,-0.15,40,-6.0
+146105007,2024-05-01,0,5th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-06,2024-04-07,1626,1453,1.5,4,0.37,40,14.8,"Akhil, Vijayakumar",,1629.0,False,IND,0.5,1,0.23,40,9.2
+146105007,2024-05-01,0,5th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-06,2024-04-07,1626,1453,1.5,4,0.37,40,14.8,"Yashvir, Mohammad",,1593.0,False,IND,0.0,1,-0.31,40,-12.4
+146105007,2024-05-01,0,5th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-06,2024-04-07,1626,1453,1.5,4,0.37,40,14.8,"Divya, Gowrisankar",,1529.0,False,IND,1.0,1,0.6,40,24.0
+146105007,2024-06-01,0,6th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-27,2024-04-28,1452,1453,2.0,2,1.0,40,40.0,"Vyom, Jain",,1453.0,False,NGR,1.0,1,0.5,40,20.0
+146105007,2024-06-01,0,6th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-04-27,2024-04-28,1452,1453,2.0,2,1.0,40,40.0,"Nikil, Reddy Thalamarla",,1451.0,False,IND,1.0,1,0.5,40,20.0
+146105007,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1463,1499,1.5,3,-0.15,40,-6.0,"Gandasarakula, Nibhish",,1421.0,False,RSA,0.5,1,-0.11,40,-4.4
+146105007,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1463,1499,1.5,3,-0.15,40,-6.0,"Vir, Dhawan",,1482.0,False,IND,1.0,1,0.48,40,19.2
+146105007,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1463,1499,1.5,3,-0.15,40,-6.0,"Rithik, Heman Odhrani",,1485.0,False,IND,0.0,1,-0.52,40,-20.8
+146105007,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1635,1499,0.0,1,-0.32,40,-12.8,"Kindipan, Zyralle",,1635.0,False,PHI,0.0,1,-0.32,40,-12.8
+146105007,2024-08-01,0,10th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-07-20,2024-07-21,1634,1499,0.0,4,-1.34,40,-53.6,"Tecirli, Musa",,1814.0,False,TUR,0.0,1,-0.14,40,-5.6
+146105007,2024-08-01,0,10th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-07-20,2024-07-21,1634,1499,0.0,4,-1.34,40,-53.6,"Gandasarakula, Nibhish",,1421.0,False,RSA,0.0,1,-0.61,40,-24.4
+146105007,2024-08-01,0,10th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-07-20,2024-07-21,1634,1499,0.0,4,-1.34,40,-53.6,"Nookala, Nikhil Sriram",,1629.0,False,IND,0.0,1,-0.32,40,-12.8
+146105007,2024-08-01,0,10th Chess Lab Classic Rating Tournament U2200,Dubai UAE,2024-07-20,2024-07-21,1634,1499,0.0,4,-1.34,40,-53.6,"Reyes, Danilo G.",,1671.0,False,PHI,0.0,1,-0.27,40,-10.8
+146105007,2024-08-01,0,Grand Prix Chess Lab Classic U2200,Dubai UAE,2024-07-27,2024-07-28,1606,1499,1.0,4,-0.55,40,-22.0,"Vishal, Choudary B",,1899.0,True,IND,0.0,1,-0.08,40,-3.2
+146105007,2024-08-01,0,Grand Prix Chess Lab Classic U2200,Dubai UAE,2024-07-27,2024-07-28,1606,1499,1.0,4,-0.55,40,-22.0,"Reyes, Danilo G.",,1671.0,False,PHI,0.0,1,-0.27,40,-10.8
+146105007,2024-08-01,0,Grand Prix Chess Lab Classic U2200,Dubai UAE,2024-07-27,2024-07-28,1606,1499,1.0,4,-0.55,40,-22.0,"Minesh, Patil",,1432.0,False,IND,0.0,1,-0.59,40,-23.6
+146105007,2024-08-01,0,Grand Prix Chess Lab Classic U2200,Dubai UAE,2024-07-27,2024-07-28,1606,1499,1.0,4,-0.55,40,-22.0,"Gandasarakula, Nibhish",,1421.0,False,RSA,1.0,1,0.39,40,15.6
+146105007,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1632,1405,3.5,6,2.09,40,83.6,"Mokhtar, Omar.",,1724.0,False,SYR,1.0,1,0.87,40,34.8
+146105007,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1632,1405,3.5,6,2.09,40,83.6,"Kuzma, Ostap",,1717.0,False,UKR,1.0,1,0.86,40,34.4
+146105007,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1632,1405,3.5,6,2.09,40,83.6,"Rachel, Pereira",,1549.0,False,IND,0.0,1,-0.31,40,-12.4
+146105007,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1632,1405,3.5,6,2.09,40,83.6,"Jain, Arnav Shirish",,1550.0,False,IND,0.5,1,0.19,40,7.6
+146105007,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1632,1405,3.5,6,2.09,40,83.6,"Rochel, Pereira",,1447.0,False,IND,1.0,1,0.56,40,22.4
+146105007,2024-11-01,0,Chess Lab Classic Rating Tournament,Dubai UAE,2024-09-06,2024-09-08,1632,1405,3.5,6,2.09,40,83.6,"De Silva, Rasheen",,1805.0,True,SRI,0.0,1,-0.08,40,-3.2
+146105007,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1497,1405,3.0,6,0.75,40,30.0,"Manlla Hasan, Ahmad",,1517.0,False,FID,1.0,1,0.65,40,26.0
+146105007,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1497,1405,3.0,6,0.75,40,30.0,"Nambiar, Niranjan Sujith",,1559.0,False,IND,0.0,1,-0.29,40,-11.6
+146105007,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1497,1405,3.0,6,0.75,40,30.0,"Sajin, Dwijendralal",,1473.0,False,IND,0.0,1,-0.41,40,-16.4
+146105007,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1497,1405,3.0,6,0.75,40,30.0,"Keertiganesh, S R",,1521.0,False,IND,1.0,1,0.66,40,26.4
+146105007,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1497,1405,3.0,6,0.75,40,30.0,"Amal, Abishan",,1450.0,False,IND,1.0,1,0.56,40,22.4
+146105007,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1497,1405,3.0,6,0.75,40,30.0,"Rajendra, Sawant",,1464.0,False,IND,0.0,1,-0.42,40,-16.8
+146105007,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1589,1519,0.0,3,-1.23,40,-49.2,"Sarish, Rajesh Shetty",,1661.0,False,IND,0.0,1,-0.31,40,-12.4
+146105007,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1589,1519,0.0,3,-1.23,40,-49.2,"Reyes, Danilo G.",,1698.0,False,PHI,0.0,1,-0.27,40,-10.8
+146105007,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1589,1519,0.0,3,-1.23,40,-49.2,"Muna, Ali Alnuaimi",,1409.0,False,UAE,0.0,1,-0.65,40,-26.0
+146105007,2025-01-01,0,Chess Lab U1800 Classic Tournament-November,Dubai UAE,2024-11-29,2024-11-30,1579,1519,1.0,3,-0.27,40,-10.8,"Reyes, Danilo G.",,1698.0,False,PHI,0.0,1,-0.27,40,-10.8
+146105007,2025-01-01,0,Chess Lab U1800 Classic Tournament-November,Dubai UAE,2024-11-29,2024-11-30,1579,1519,1.0,3,-0.27,40,-10.8,"Reyansh, Amit Bodkhe",,1493.0,False,IND,1.0,1,0.46,40,18.4
+146105007,2025-01-01,0,Chess Lab U1800 Classic Tournament-November,Dubai UAE,2024-11-29,2024-11-30,1579,1519,1.0,3,-0.27,40,-10.8,"Nikil, Reddy Thalamarla",,1547.0,False,IND,0.0,1,-0.46,40,-18.4
+146105007,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,1648,1470,2.5,4,1.39,40,55.6,"Cresencia, Clarence Miguel",,1567.0,False,PHI,0.0,1,-0.37,40,-14.8
+146105007,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,1648,1470,2.5,4,1.39,40,55.6,"Gavrylchenko, Illia",,1543.0,False,GER,1.0,1,0.6,40,24.0
+146105007,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,1648,1470,2.5,4,1.39,40,55.6,"Nowroozian, Nader",,1750.0,False,IRI,0.5,1,0.34,40,13.6
+146105007,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,1648,1470,2.5,4,1.39,40,55.6,"Kaushika, Sridharan",,1733.0,False,IND,1.0,1,0.82,40,32.8
+146105007,2025-04-01,0,Chess Lab Classic Tournament-March,Dubai UAE,2025-03-08,2025-03-09,1626,1515,1.0,3,-0.09,40,-3.6,"Raihan, Bin Anzar",,1794.0,False,IND,0.0,1,-0.16,40,-6.4
+146105007,2025-04-01,0,Chess Lab Classic Tournament-March,Dubai UAE,2025-03-08,2025-03-09,1626,1515,1.0,3,-0.09,40,-3.6,"Keertiganesh, S R",,1650.0,False,IND,0.0,1,-0.32,40,-12.8
+146105007,2025-04-01,0,Chess Lab Classic Tournament-March,Dubai UAE,2025-03-08,2025-03-09,1626,1515,1.0,3,-0.09,40,-3.6,"Qiao, Haobo",,1435.0,False,CHN,1.0,1,0.39,40,15.6

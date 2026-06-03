@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25100149,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1828,2079,6.5,9,-0.71,40,-28.4,"Rishen, Jilowa",,1777.0,False,IND,1.0,1,0.15,40,6.0
+25100149,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1828,2079,6.5,9,-0.71,40,-28.4,Shreyas,,1797.0,False,IND,0.0,1,-0.84,40,-33.6
+25100149,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1828,2079,6.5,9,-0.71,40,-28.4,"Aishani, Pathak",,1769.0,False,IND,1.0,1,0.14,40,5.6
+25100149,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1828,2079,6.5,9,-0.71,40,-28.4,"Utkrisht, Tuli",,2019.0,False,IND,0.0,1,-0.58,40,-23.2
+25100149,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1828,2079,6.5,9,-0.71,40,-28.4,"Ishan, Ghosh (siliguri)",,1770.0,False,IND,1.0,1,0.14,40,5.6
+25100149,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1828,2079,6.5,9,-0.71,40,-28.4,"Pratiyush, Kumar",,1815.0,False,IND,1.0,1,0.18,40,7.2
+25100149,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1828,2079,6.5,9,-0.71,40,-28.4,"Aabhas, Kumar Srivastava",,1757.0,False,IND,1.0,1,0.13,40,5.2
+25100149,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1828,2079,6.5,9,-0.71,40,-28.4,"Arhan, Jain",,1914.0,False,IND,0.5,1,-0.22,40,-8.8
+25100149,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1828,2079,6.5,9,-0.71,40,-28.4,"Vidit, Sethi",,1831.0,False,IND,1.0,1,0.19,40,7.6

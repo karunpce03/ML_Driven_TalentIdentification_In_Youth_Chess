@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33472548,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1557,1485,3.5,5,1.46,40,58.4,"Japon, Jeric",,1620.0,False,PHI,1.0,1,0.68,40,27.2
+33472548,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1557,1485,3.5,5,1.46,40,58.4,"Nabatlao, Jason",,1736.0,False,PHI,0.0,1,-0.19,40,-7.6
+33472548,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1557,1485,3.5,5,1.46,40,58.4,"Aditya, Shah",,1511.0,False,IND,1.0,1,0.54,40,21.6
+33472548,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1557,1485,3.5,5,1.46,40,58.4,"Gandasarakula, Nibhish",,1421.0,False,RSA,0.5,1,-0.09,40,-3.6
+33472548,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1557,1485,3.5,5,1.46,40,58.4,"Deshmukh, Omm",,1499.0,False,IND,1.0,1,0.52,40,20.8
+33472548,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1614,1485,0.0,3,-0.99,40,-39.6,"Nookala, Nikhil Sriram",,1629.0,False,IND,0.0,1,-0.31,40,-12.4
+33472548,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1614,1485,0.0,3,-0.99,40,-39.6,"Sai, Hridhay S",,1677.0,False,IND,0.0,1,-0.25,40,-10.0
+33472548,2024-08-01,0,9  th Classic ChessLab U2200 (Grandprix),Dubai UAE,2024-07-06,2024-07-07,1614,1485,0.0,3,-0.99,40,-39.6,"Subin, Kurian Thomas",,1536.0,False,IND,0.0,1,-0.43,40,-17.2

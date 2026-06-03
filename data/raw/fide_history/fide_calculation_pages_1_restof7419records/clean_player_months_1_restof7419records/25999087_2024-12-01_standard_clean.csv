@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25999087,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1973,2219,8.0,11,-0.57,38,-21.66,"Jion, Ghosh",,1819,True,IND,1.0,1,0.08,38,3.04
+25999087,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1973,2219,8.0,11,-0.57,38,-21.66,"Ramanuj, Mishra",,1819,True,IND,1.0,1,0.08,38,3.04
+25999087,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1973,2219,8.0,11,-0.57,38,-21.66,"Shashish, Subbiah",,1900,False,IND,1.0,1,0.13,38,4.94
+25999087,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1973,2219,8.0,11,-0.57,38,-21.66,"Vedant, Garg",,1942,False,IND,1.0,1,0.17,38,6.46
+25999087,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1973,2219,8.0,11,-0.57,38,-21.66,"Arnav, Agrawal",,1940,False,IND,0.5,1,-0.34,38,-12.92
+25999087,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1973,2219,8.0,11,-0.57,38,-21.66,"Abhinav, Raj",,1915,False,IND,1.0,1,0.14,38,5.32
+25999087,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1973,2219,8.0,11,-0.57,38,-21.66,"Ilamparthi, A R",m,2457,False,IND,0.0,1,-0.2,38,-7.6
+25999087,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1973,2219,8.0,11,-0.57,38,-21.66,"Prasanna, Karthick M",,1901,False,IND,0.5,1,-0.37,38,-14.06
+25999087,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1973,2219,8.0,11,-0.57,38,-21.66,"Madhesh, Kumar S",,1925,False,IND,1.0,1,0.15,38,5.7
+25999087,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1973,2219,8.0,11,-0.57,38,-21.66,"Vignesh, Kannan P",,1886,False,IND,1.0,1,0.12,38,4.56
+25999087,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1973,2219,8.0,11,-0.57,38,-21.66,"Madhvendra, Pratap Sharma",c,2201,False,IND,0.0,1,-0.53,38,-20.14
+25999087,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1830,2219,6.0,7,-0.39,38,-14.82,"Rittik, Kumar",,1819,True,IND,1.0,1,0.08,38,3.04
+25999087,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1830,2219,6.0,7,-0.39,38,-14.82,"Menhajul, Hoda",,1819,True,IND,0.5,1,-0.42,38,-15.96
+25999087,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1830,2219,6.0,7,-0.39,38,-14.82,"Tejas, Shandilya",,1819,True,IND,1.0,1,0.08,38,3.04
+25999087,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1830,2219,6.0,7,-0.39,38,-14.82,"Harsh, Himanshu",,1830,False,IND,1.0,1,0.09,38,3.42
+25999087,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1830,2219,6.0,7,-0.39,38,-14.82,"Ashutosh, Kumar",,1852,False,IND,1.0,1,0.1,38,3.8
+25999087,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1830,2219,6.0,7,-0.39,38,-14.82,"Sharma, Vivek",,1849,False,IND,0.5,1,-0.4,38,-15.2
+25999087,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1830,2219,6.0,7,-0.39,38,-14.82,"Vijendra, Kumar",,1819,True,IND,1.0,1,0.08,38,3.04

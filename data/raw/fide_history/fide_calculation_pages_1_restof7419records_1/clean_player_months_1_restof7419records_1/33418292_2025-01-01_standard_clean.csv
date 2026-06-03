@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33418292,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1591,1481,2.0,6,-0.12,40,-4.8,"Vishwesh, Sivanantham",,1676.0,False,IND,0.5,1,0.25,40,10.0
+33418292,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1591,1481,2.0,6,-0.12,40,-4.8,"Mohsen, Hussain",,1459.0,False,EGY,1.0,1,0.47,40,18.8
+33418292,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1591,1481,2.0,6,-0.12,40,-4.8,"Nehan, Abdullah",,1585.0,False,BAN,0.0,1,-0.36,40,-14.4
+33418292,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1591,1481,2.0,6,-0.12,40,-4.8,"Alduwaisan, Hamad",,1551.0,False,KUW,0.0,1,-0.4,40,-16.0
+33418292,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1591,1481,2.0,6,-0.12,40,-4.8,"Alsayer, Bader",,1661.0,False,KUW,0.5,1,0.24,40,9.6
+33418292,2025-01-01,0,December classic chess tournament 2024,Kiwait KUW,2024-12-04,2024-12-11,1591,1481,2.0,6,-0.12,40,-4.8,"Abel, Joseph",,1613.0,False,IND,0.0,1,-0.32,40,-12.8

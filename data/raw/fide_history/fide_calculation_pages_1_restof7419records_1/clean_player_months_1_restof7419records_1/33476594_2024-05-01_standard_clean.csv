@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33476594,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1713,1516,1.5,5,0.2,40,8.0,"Palit, Somak",m,1916.0,True,IND,0.0,1,-0.08,40,-3.2
+33476594,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1713,1516,1.5,5,0.2,40,8.0,"Rahul, Kumar Raj",,1722.0,False,IND,0.5,1,0.26,40,10.4
+33476594,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1713,1516,1.5,5,0.2,40,8.0,"Nishant, T.r.",,1648.0,False,IND,0.0,1,-0.32,40,-12.8
+33476594,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1713,1516,1.5,5,0.2,40,8.0,"Shinde, Kunal",,1639.0,False,IND,0.0,1,-0.33,40,-13.2
+33476594,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1713,1516,1.5,5,0.2,40,8.0,"Krupha, S Ukkali",,1640.0,False,IND,1.0,1,0.67,40,26.8
+33476594,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1644,1516,3.5,7,1.21,40,48.4,"Shriman, K",,1687.0,False,IND,0.0,1,-0.27,40,-10.8
+33476594,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1644,1516,3.5,7,1.21,40,48.4,"Lakshmi, Raja Perumal K",,1652.0,False,IND,1.0,1,0.68,40,27.2
+33476594,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1644,1516,3.5,7,1.21,40,48.4,"Karthik, S",,1629.0,False,IND,1.0,1,0.65,40,26.0
+33476594,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1644,1516,3.5,7,1.21,40,48.4,"Shouvik, Dutta",,1617.0,False,IND,0.0,1,-0.36,40,-14.4
+33476594,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1644,1516,3.5,7,1.21,40,48.4,"Muhammed, Reja C",,1605.0,False,IND,0.5,1,0.12,40,4.8
+33476594,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1644,1516,3.5,7,1.21,40,48.4,"Magizhini, M",,1662.0,False,IND,0.5,1,0.2,40,8.0
+33476594,2024-05-01,0,10th ICA Open Below 1800 FIDE Rating  Chess Tournament,Bangalore IND,2024-04-12,2024-04-14,1644,1516,3.5,7,1.21,40,48.4,"Subramanian, V",,1657.0,False,IND,0.5,1,0.19,40,7.6

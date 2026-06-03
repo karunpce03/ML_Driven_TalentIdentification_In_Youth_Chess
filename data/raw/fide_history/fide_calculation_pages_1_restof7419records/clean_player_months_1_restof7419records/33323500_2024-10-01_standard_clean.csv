@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33323500,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2013,2220,5.0,9,-1.53,40,-61.2,"Rice, Leah",,1820,True,SGP,0.0,1,-0.92,40,-36.8
+33323500,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2013,2220,5.0,9,-1.53,40,-61.2,"Jayasundara, J M Theruni V",,1820,True,SRI,1.0,1,0.08,40,3.2
+33323500,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2013,2220,5.0,9,-1.53,40,-61.2,"Wijesuriya, G P Y",wc,1865,False,SRI,1.0,1,0.11,40,4.4
+33323500,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2013,2220,5.0,9,-1.53,40,-61.2,"Insara, S D Nadev",,1837,False,SRI,1.0,1,0.09,40,3.6
+33323500,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2013,2220,5.0,9,-1.53,40,-61.2,"Deepan, Chakkravarthy J.",g,2423,False,IND,0.0,1,-0.24,40,-9.6
+33323500,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2013,2220,5.0,9,-1.53,40,-61.2,"Induwara, T H D Thisarindu",,1960,False,SRI,1.0,1,0.18,40,7.2
+33323500,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2013,2220,5.0,9,-1.53,40,-61.2,"Iniyan, Pa",g,2547,False,IND,0.0,1,-0.13,40,-5.2
+33323500,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2013,2220,5.0,9,-1.53,40,-61.2,"Janukshan, B",,1874,False,SRI,0.5,1,-0.39,40,-15.6
+33323500,2024-10-01,0,Commonwealth Chess Championship 2024,Kaluthara SRI,2024-08-28,2024-09-05,2013,2220,5.0,9,-1.53,40,-61.2,"Sivathanujan, S",,1968,False,SRI,0.5,1,-0.31,40,-12.4

@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25666231,2024-11-01,0,1st Annual Capital Open,"Sterling, VA USA",2024-09-27,2024-09-29,1975,2068,4.0,5,0.85,40,34.0,"Murugan Ayyappan, Adhiraiyan",,1807.0,False,USA,1.0,1,0.18,40,7.2
+25666231,2024-11-01,0,1st Annual Capital Open,"Sterling, VA USA",2024-09-27,2024-09-29,1975,2068,4.0,5,0.85,40,34.0,"Thimmasamudram, Sandeep",,1774.0,False,USA,1.0,1,0.15,40,6.0
+25666231,2024-11-01,0,1st Annual Capital Open,"Sterling, VA USA",2024-09-27,2024-09-29,1975,2068,4.0,5,0.85,40,34.0,"Zhuang, Kyle",,1986.0,False,USA,1.0,1,0.39,40,15.6
+25666231,2024-11-01,0,1st Annual Capital Open,"Sterling, VA USA",2024-09-27,2024-09-29,1975,2068,4.0,5,0.85,40,34.0,"Baron, Tal",g,2459.0,False,ISR,0.0,1,-0.09,40,-3.6
+25666231,2024-11-01,0,1st Annual Capital Open,"Sterling, VA USA",2024-09-27,2024-09-29,1975,2068,4.0,5,0.85,40,34.0,"Sridhar, Jagadeeshwar Y",,1848.0,False,USA,1.0,1,0.22,40,8.8
+25666231,2024-11-01,0,3rd Skyline Open - Open,"Dulles, VA USA",2024-10-10,2024-10-14,2060,2117,5.0,8,0.34,40,13.6,"Carey, Michael P",,1899.0,False,USA,1.0,1,0.22,40,8.8
+25666231,2024-11-01,0,3rd Skyline Open - Open,"Dulles, VA USA",2024-10-10,2024-10-14,2060,2117,5.0,8,0.34,40,13.6,"Anandh, Vijay Srinivas",,1969.0,False,USA,1.0,1,0.3,40,12.0
+25666231,2024-11-01,0,3rd Skyline Open - Open,"Dulles, VA USA",2024-10-10,2024-10-14,2060,2117,5.0,8,0.34,40,13.6,"Paragua, Mark",g,2453.0,False,PHI,0.5,1,0.38,40,15.2
+25666231,2024-11-01,0,3rd Skyline Open - Open,"Dulles, VA USA",2024-10-10,2024-10-14,2060,2117,5.0,8,0.34,40,13.6,"Das, Aditeya",c,1961.0,False,USA,0.5,1,-0.21,40,-8.4
+25666231,2024-11-01,0,3rd Skyline Open - Open,"Dulles, VA USA",2024-10-10,2024-10-14,2060,2117,5.0,8,0.34,40,13.6,"Levine, Owen",,1934.0,False,USA,1.0,1,0.26,40,10.4
+25666231,2024-11-01,0,3rd Skyline Open - Open,"Dulles, VA USA",2024-10-10,2024-10-14,2060,2117,5.0,8,0.34,40,13.6,"Panda, Vedic",,2143.0,False,USA,1.0,1,0.54,40,21.6
+25666231,2024-11-01,0,3rd Skyline Open - Open,"Dulles, VA USA",2024-10-10,2024-10-14,2060,2117,5.0,8,0.34,40,13.6,"Wilson, Ronen",,2049.0,False,USA,0.0,1,-0.59,40,-23.6
+25666231,2024-11-01,0,3rd Skyline Open - Open,"Dulles, VA USA",2024-10-10,2024-10-14,2060,2117,5.0,8,0.34,40,13.6,"Moorhouse, Will",,2075.0,False,USA,0.0,1,-0.56,40,-22.4

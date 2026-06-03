@@ -1,0 +1,116 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25611151,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2090,2244,3.0,8,-2.45,20,-49.0,"Mansurova, Mumtozbegim",wc,1920.0,False,UZB,1.0,1,0.13,20,2.6
+25611151,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2090,2244,3.0,8,-2.45,20,-49.0,"Viani, Antonio Dcunha",m,2386.0,False,IND,0.0,1,-0.31,20,-6.2
+25611151,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2090,2244,3.0,8,-2.45,20,-49.0,"Huseynova, Lala",,1967.0,False,AZE,1.0,1,0.17,20,3.4
+25611151,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2090,2244,3.0,8,-2.45,20,-49.0,"Mohammad Fahad, Rahman",m,2431.0,False,BAN,0.0,1,-0.26,20,-5.2
+25611151,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2090,2244,3.0,8,-2.45,20,-49.0,"Abdulrahman Mohammad, Al Taher",f,2016.0,False,UAE,0.0,1,-0.79,20,-15.8
+25611151,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2090,2244,3.0,8,-2.45,20,-49.0,"Steiners, Emils",,2069.0,False,LAT,0.5,1,-0.23,20,-4.6
+25611151,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2090,2244,3.0,8,-2.45,20,-49.0,"Abuazizah, Raji",,1896.0,False,PLE,0.5,1,-0.39,20,-7.8
+25611151,2024-06-01,0,7th Sharjah Challengers 2024,Sharjah UAE,2024-05-14,2024-05-22,2090,2244,3.0,8,-2.45,20,-49.0,"Kakavand, Ramtin",c,2034.0,False,IRI,0.0,1,-0.77,20,-15.4
+25611151,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2259,2244,3.0,9,-1.31,20,-26.2,"Nagarkatte, Vedant",f,2299.0,False,IND,1.0,1,0.58,20,11.6
+25611151,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2259,2244,3.0,9,-1.31,20,-26.2,"Kochavi, Ori",f,2406.0,False,ISR,0.5,1,0.21,20,4.2
+25611151,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2259,2244,3.0,9,-1.31,20,-26.2,"Hacker, Jonas",m,2391.0,False,GER,0.5,1,0.2,20,4.0
+25611151,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2259,2244,3.0,9,-1.31,20,-26.2,"Arhan, Chethan Anand",f,2366.0,False,IND,0.0,1,-0.33,20,-6.6
+25611151,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2259,2244,3.0,9,-1.31,20,-26.2,"Nemeth, Miklos",m,2444.0,False,HUN,0.0,1,-0.24,20,-4.8
+25611151,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2259,2244,3.0,9,-1.31,20,-26.2,"Sakthivel, Heamish Kanha",,2189.0,False,IND,0.0,1,-0.58,20,-11.6
+25611151,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2259,2244,3.0,9,-1.31,20,-26.2,"Boros, Krisztian Levente",,2065.0,False,HUN,0.0,1,-0.73,20,-14.6
+25611151,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2259,2244,3.0,9,-1.31,20,-26.2,"Farago, Sandor",m,2058.0,False,HUN,1.0,1,0.26,20,5.2
+25611151,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2259,2244,3.0,9,-1.31,20,-26.2,"Horvath, Kristof",,2109.0,False,HUN,0.0,1,-0.68,20,-13.6
+25611151,2024-07-01,0,SixDays Budapest June 2024 IM,Budapest HUN,2024-06-03,2024-06-08,2256,2195,6.0,9,2.26,20,45.2,"Mouhamad, Joachim",f,2322.0,False,FRA,0.0,1,-0.33,20,-6.6
+25611151,2024-07-01,0,SixDays Budapest June 2024 IM,Budapest HUN,2024-06-03,2024-06-08,2256,2195,6.0,9,2.26,20,45.2,"Tregubenko, Nikolay",,2246.0,False,FID,1.0,1,0.57,20,11.4
+25611151,2024-07-01,0,SixDays Budapest June 2024 IM,Budapest HUN,2024-06-03,2024-06-08,2256,2195,6.0,9,2.26,20,45.2,"Dushatov, Timur",c,2228.0,False,KAZ,1.0,1,0.55,20,11.0
+25611151,2024-07-01,0,SixDays Budapest June 2024 IM,Budapest HUN,2024-06-03,2024-06-08,2256,2195,6.0,9,2.26,20,45.2,"Szeberenyi, Adam",m,2257.0,False,HUN,0.5,1,0.09,20,1.8
+25611151,2024-07-01,0,SixDays Budapest June 2024 IM,Budapest HUN,2024-06-03,2024-06-08,2256,2195,6.0,9,2.26,20,45.2,"Szalay-Ocsak, Bank",c,2279.0,False,HUN,1.0,1,0.62,20,12.4
+25611151,2024-07-01,0,SixDays Budapest June 2024 IM,Budapest HUN,2024-06-03,2024-06-08,2256,2195,6.0,9,2.26,20,45.2,"Neverov, Valeriy",g,2395.0,False,UKR,0.5,1,0.26,20,5.2
+25611151,2024-07-01,0,SixDays Budapest June 2024 IM,Budapest HUN,2024-06-03,2024-06-08,2256,2195,6.0,9,2.26,20,45.2,"Rohrer, Christophe",f,2241.0,False,SUI,0.5,1,0.06,20,1.2
+25611151,2024-07-01,0,SixDays Budapest June 2024 IM,Budapest HUN,2024-06-03,2024-06-08,2256,2195,6.0,9,2.26,20,45.2,"Pavan, Karthikeya Varma Gunturi",,2029.0,False,IND,1.0,1,0.28,20,5.6
+25611151,2024-07-01,0,SixDays Budapest June 2024 IM,Budapest HUN,2024-06-03,2024-06-08,2256,2195,6.0,9,2.26,20,45.2,"To, Nhat Minh",m,2311.0,False,HUN,0.5,1,0.16,20,3.2
+25611151,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,2001,2214,8.5,11,0.3,20,6.0,"Srikar, G V B",,1814.0,True,IND,1.0,1,0.08,20,1.6
+25611151,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,2001,2214,8.5,11,0.3,20,6.0,"Vyom, Malhotra",,1814.0,True,IND,1.0,1,0.08,20,1.6
+25611151,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,2001,2214,8.5,11,0.3,20,6.0,"Vandan, Alankar Sawai",,1836.0,False,IND,1.0,1,0.09,20,1.8
+25611151,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,2001,2214,8.5,11,0.3,20,6.0,"Swastik, Singhal",,1912.0,False,IND,1.0,1,0.15,20,3.0
+25611151,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,2001,2214,8.5,11,0.3,20,6.0,"Swarna, Nihal",,2013.0,False,IND,1.0,1,0.24,20,4.8
+25611151,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,2001,2214,8.5,11,0.3,20,6.0,"Rohith, S",,1996.0,False,IND,1.0,1,0.22,20,4.4
+25611151,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,2001,2214,8.5,11,0.3,20,6.0,"Koustuv, Dash",,2101.0,False,IND,0.0,1,-0.65,20,-13.0
+25611151,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,2001,2214,8.5,11,0.3,20,6.0,"Vignesh, Advaith Vemula",,2200.0,False,IND,0.0,1,-0.52,20,-10.4
+25611151,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,2001,2214,8.5,11,0.3,20,6.0,"Yohan, Yadav Tarala",,1928.0,False,IND,1.0,1,0.16,20,3.2
+25611151,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,2001,2214,8.5,11,0.3,20,6.0,"Bagwe, Gaurang",f,2281.0,False,IND,1.0,1,0.59,20,11.8
+25611151,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,2001,2214,8.5,11,0.3,20,6.0,"Sriram, Adarsh Uppala",,2114.0,False,IND,0.5,1,-0.14,20,-2.8
+25611151,2024-09-01,0,24th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-14,2024-08-20,2233,2220,5.0,9,0.65,20,13.0,"Slizhevsky, Alexander",m,2381.0,False,RUS,0.0,1,-0.29,20,-5.8
+25611151,2024-09-01,0,24th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-14,2024-08-20,2233,2220,5.0,9,0.65,20,13.0,"Annageldyev, Orazly",g,2271.0,False,TKM,1.0,1,0.57,20,11.4
+25611151,2024-09-01,0,24th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-14,2024-08-20,2233,2220,5.0,9,0.65,20,13.0,"Kunal, M.",f,2245.0,False,IND,0.0,1,-0.47,20,-9.4
+25611151,2024-09-01,0,24th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-14,2024-08-20,2233,2220,5.0,9,0.65,20,13.0,"Raghav, V",,2056.0,False,IND,0.5,1,-0.22,20,-4.4
+25611151,2024-09-01,0,24th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-14,2024-08-20,2233,2220,5.0,9,0.65,20,13.0,"Manik, Mikulas",g,2320.0,False,SVK,0.5,1,0.14,20,2.8
+25611151,2024-09-01,0,24th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-14,2024-08-20,2233,2220,5.0,9,0.65,20,13.0,"Surendran, N",,2159.0,False,IND,1.0,1,0.42,20,8.4
+25611151,2024-09-01,0,24th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-14,2024-08-20,2233,2220,5.0,9,0.65,20,13.0,"Uuriintuya, Uurtsaikh",wg,2212.0,False,MGL,1.0,1,0.49,20,9.8
+25611151,2024-09-01,0,24th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-14,2024-08-20,2233,2220,5.0,9,0.65,20,13.0,"Gochelashvili, David",m,2230.0,False,RUS,0.0,1,-0.49,20,-9.8
+25611151,2024-09-01,0,24th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-14,2024-08-20,2233,2220,5.0,9,0.65,20,13.0,"Kalyani, Sirin",wf,2220.0,False,IND,1.0,1,0.5,20,10.0
+25611151,2024-09-01,0,25th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-22,2024-08-28,2271,2220,4.5,9,0.64,20,12.8,"Manik, Mikulas",g,2320.0,False,SVK,0.0,1,-0.36,20,-7.2
+25611151,2024-09-01,0,25th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-22,2024-08-28,2271,2220,4.5,9,0.64,20,12.8,"Sriram, Adarsh Uppala",,2195.0,False,IND,0.0,1,-0.53,20,-10.6
+25611151,2024-09-01,0,25th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-22,2024-08-28,2271,2220,4.5,9,0.64,20,12.8,"Daakshin, Arun",f,2290.0,False,IND,1.0,1,0.6,20,12.0
+25611151,2024-09-01,0,25th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-22,2024-08-28,2271,2220,4.5,9,0.64,20,12.8,"Slizhevsky, Alexander",m,2381.0,False,RUS,0.0,1,-0.29,20,-5.8
+25611151,2024-09-01,0,25th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-22,2024-08-28,2271,2220,4.5,9,0.64,20,12.8,"Uuriintuya, Uurtsaikh",wg,2212.0,False,MGL,1.0,1,0.49,20,9.8
+25611151,2024-09-01,0,25th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-22,2024-08-28,2271,2220,4.5,9,0.64,20,12.8,"Adharsh, K",,2268.0,False,IND,1.0,1,0.57,20,11.4
+25611151,2024-09-01,0,25th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-22,2024-08-28,2271,2220,4.5,9,0.64,20,12.8,"Annageldyev, Orazly",g,2271.0,False,TKM,0.5,1,0.07,20,1.4
+25611151,2024-09-01,0,25th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-22,2024-08-28,2271,2220,4.5,9,0.64,20,12.8,"Harshad, S",f,2275.0,False,IND,0.5,1,0.08,20,1.6
+25611151,2024-09-01,0,25th Tamil Nadu IM Norm Closed Circuit Chess Tournament - Chennai,Chennai IND,2024-08-22,2024-08-28,2271,2220,4.5,9,0.64,20,12.8,"Gochelashvili, David",m,2230.0,False,RUS,0.5,1,0.01,20,0.2
+25611151,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1981,2246,8.5,11,-0.2,20,-4.0,"Aniket, Ranjan",,1846.0,True,IND,1.0,1,0.08,20,1.6
+25611151,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1981,2246,8.5,11,-0.2,20,-4.0,"Mohammed, Tharig S",,1865.0,False,IND,1.0,1,0.09,20,1.8
+25611151,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1981,2246,8.5,11,-0.2,20,-4.0,"Bivor, Adak",,1917.0,False,IND,0.0,1,-0.88,20,-17.6
+25611151,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1981,2246,8.5,11,-0.2,20,-4.0,"Sadbhav, Rautela",,1846.0,True,IND,0.5,1,-0.42,20,-8.4
+25611151,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1981,2246,8.5,11,-0.2,20,-4.0,"Vatsal, Singla",,1846.0,True,IND,1.0,1,0.08,20,1.6
+25611151,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1981,2246,8.5,11,-0.2,20,-4.0,"Advik, Amit Agrawal",,1931.0,False,IND,1.0,1,0.14,20,2.8
+25611151,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1981,2246,8.5,11,-0.2,20,-4.0,"Arnav, Agrawal",,1889.0,False,IND,1.0,1,0.11,20,2.2
+25611151,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1981,2246,8.5,11,-0.2,20,-4.0,"Nagarkatte, Vedant",f,2260.0,False,IND,1.0,1,0.52,20,10.4
+25611151,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1981,2246,8.5,11,-0.2,20,-4.0,"Adireddy, Arjun",f,2342.0,False,IND,0.0,1,-0.37,20,-7.4
+25611151,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1981,2246,8.5,11,-0.2,20,-4.0,"Shah, Moxit J",,1952.0,False,IND,1.0,1,0.15,20,3.0
+25611151,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1981,2246,8.5,11,-0.2,20,-4.0,"Alekhya, Mukhopadhyay",,2094.0,False,IND,1.0,1,0.3,20,6.0
+25611151,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2290,2242,5.5,9,1.57,20,31.4,"Anes, Thomas",,1965.0,False,FRA,1.0,1,0.17,20,3.4
+25611151,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2290,2242,5.5,9,1.57,20,31.4,"Bournel, Antoine",m,2391.0,False,FRA,0.0,1,-0.3,20,-6.0
+25611151,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2290,2242,5.5,9,1.57,20,31.4,"Lissillour, Baptiste",,2085.0,False,FRA,0.5,1,-0.21,20,-4.2
+25611151,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2290,2242,5.5,9,1.57,20,31.4,"Alibabaei, Sasan",,2096.0,False,IRI,1.0,1,0.3,20,6.0
+25611151,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2290,2242,5.5,9,1.57,20,31.4,"Joie, Sebastien",m,2364.0,False,FRA,1.0,1,0.67,20,13.4
+25611151,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2290,2242,5.5,9,1.57,20,31.4,"Sankalp, Gupta",g,2534.0,False,IND,0.0,1,-0.15,20,-3.0
+25611151,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2290,2242,5.5,9,1.57,20,31.4,"Erdogdu, Aziz Mert",g,2413.0,False,TUR,1.0,1,0.73,20,14.6
+25611151,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2290,2242,5.5,9,1.57,20,31.4,"Das, Sayantan",g,2471.0,False,IND,0.0,1,-0.21,20,-4.2
+25611151,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Maitre,ANNEMASSE FRA,2024-10-19,2024-10-25,2290,2242,5.5,9,1.57,20,31.4,"Gautier, Anand",,2293.0,False,FRA,1.0,1,0.57,20,11.4
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Sundar, Guhan",,1873.0,True,IND,1.0,1,0.08,20,1.6
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Yuvanesh, A",,1873.0,True,IND,1.0,1,0.08,20,1.6
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Gadhavi, Veerbhadrasinh",,1900.0,False,IND,0.5,1,-0.4,20,-8.0
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Jack, Samuel",,1873.0,True,IND,1.0,1,0.08,20,1.6
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Aarav, Saish Amonkar",,1910.0,False,IND,1.0,1,0.1,20,2.0
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Siddhanth, Poonja",,2006.0,False,IND,0.5,1,-0.32,20,-6.4
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Arnav, Agrawal",,1940.0,False,IND,1.0,1,0.12,20,2.4
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Vaz, Ethan",m,2370.0,False,IND,0.5,1,0.13,20,2.6
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Abhinav, Raj",,1915.0,False,IND,1.0,1,0.1,20,2.0
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Sherla, Prathamesh",,2041.0,False,IND,1.0,1,0.21,20,4.2
+25611151,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,2014,2273,8.5,11,-0.08,20,-1.6,"Ilamparthi, A R",m,2457.0,False,IND,0.0,1,-0.26,20,-5.2
+25611151,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2347,2273,3.5,9,-0.08,20,-1.6,"Nazari, Arad",m,2401.0,False,IRI,0.0,1,-0.33,20,-6.6
+25611151,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2347,2273,3.5,9,-0.08,20,-1.6,"Timoshin, Maxim",f,2361.0,False,FID,0.0,1,-0.38,20,-7.6
+25611151,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2347,2273,3.5,9,-0.08,20,-1.6,"Bukreev, Stanislav",f,2384.0,False,FID,0.0,1,-0.35,20,-7.0
+25611151,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2347,2273,3.5,9,-0.08,20,-1.6,"Apaar, Saxena",c,2333.0,False,IND,1.0,1,0.58,20,11.6
+25611151,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2347,2273,3.5,9,-0.08,20,-1.6,"Bagwe, Gaurang",f,2302.0,False,IND,0.5,1,0.04,20,0.8
+25611151,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2347,2273,3.5,9,-0.08,20,-1.6,"Aliyev, Ravan",m,2338.0,False,AZE,0.0,1,-0.41,20,-8.2
+25611151,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2347,2273,3.5,9,-0.08,20,-1.6,"Aakash Sharadchandra, Dalvi",f,2321.0,False,IND,0.5,1,0.07,20,1.4
+25611151,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2347,2273,3.5,9,-0.08,20,-1.6,"Ankit, Ray",f,2320.0,False,IND,0.5,1,0.07,20,1.4
+25611151,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2347,2273,3.5,9,-0.08,20,-1.6,"Aradhya, Garg",f,2365.0,False,IND,1.0,1,0.63,20,12.6
+25611151,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2361,2271,2.5,9,-0.91,20,-18.2,"Begmuratov, Khumoyun",m,2416.0,False,UZB,0.5,1,0.19,20,3.8
+25611151,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2361,2271,2.5,9,-0.91,20,-18.2,"Rakhmatullaev, Almas",m,2410.0,False,UZB,0.5,1,0.19,20,3.8
+25611151,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2361,2271,2.5,9,-0.91,20,-18.2,"Harsh, Suresh",f,2420.0,False,IND,0.0,1,-0.3,20,-6.0
+25611151,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2361,2271,2.5,9,-0.91,20,-18.2,"Bukreev, Stanislav",f,2384.0,False,FID,0.0,1,-0.35,20,-7.0
+25611151,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2361,2271,2.5,9,-0.91,20,-18.2,"Omar, Noaman",m,2315.0,False,UAE,1.0,1,0.56,20,11.2
+25611151,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2361,2271,2.5,9,-0.91,20,-18.2,"Mohamed, Anees M",f,2344.0,False,IND,0.5,1,0.1,20,2.0
+25611151,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2361,2271,2.5,9,-0.91,20,-18.2,"Aziz, Husain",m,2329.0,False,QAT,0.0,1,-0.42,20,-8.4
+25611151,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2361,2271,2.5,9,-0.91,20,-18.2,"Moosavifar, Seyed Abolfazl",f,2308.0,False,IRI,0.0,1,-0.45,20,-9.0
+25611151,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2361,2271,2.5,9,-0.91,20,-18.2,"Abdulla, Murad",f,2321.0,False,SCO,0.0,1,-0.43,20,-8.6
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Royal, Shreyas",g,2488.0,False,ENG,0.5,1,0.3,20,6.0
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Amar, Elham",g,2537.0,False,NOR,0.0,1,-0.16,20,-3.2
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Rohith, Krishna S",m,2481.0,False,IND,0.0,1,-0.21,20,-4.2
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Kaloki, Hawi",,1990.0,False,KEN,1.0,1,0.18,20,3.6
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Lamaze, Simon",m,2447.0,False,FRA,0.5,1,0.25,20,5.0
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Shtavica, Alaudin",,1983.0,False,KOS,1.0,1,0.17,20,3.4
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Omonov, Asrorjon",f,2399.0,False,UZB,1.0,1,0.7,20,14.0
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Ilinca, Felix-Antonio",m,2412.0,False,ROU,1.0,1,0.71,20,14.2
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Begmuratov, Khumoyun",m,2409.0,False,UZB,0.0,1,-0.29,20,-5.8
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Yaniv, Yuval",f,2415.0,False,ISR,0.0,1,-0.28,20,-5.6
+25611151,2025-04-01,0,FIDE World Junior Championship 2025 - Open,Petrovac MNE,2025-02-24,2025-03-07,2356,2251,5.5,11,1.52,20,30.4,"Cordoba Roa, Angel Gabriel",f,2358.0,False,COL,0.5,1,0.15,20,3.0

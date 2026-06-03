@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33472505,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1615,1443,1.0,3,0.16,40,6.4,"Nambiar, Niranjan Sujith",,1564.0,False,IND,0.5,1,0.16,40,6.4
+33472505,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1615,1443,1.0,3,0.16,40,6.4,"Sinan, Shafeek",,1722.0,False,FID,0.5,1,0.34,40,13.6
+33472505,2024-06-01,0,Think and Plan Teams April 2024,Sharjah UAE,2024-04-27,2024-04-28,1615,1443,1.0,3,0.16,40,6.4,"Ahmed, Ali Bamatraf",,1560.0,False,UAE,0.0,1,-0.34,40,-13.6

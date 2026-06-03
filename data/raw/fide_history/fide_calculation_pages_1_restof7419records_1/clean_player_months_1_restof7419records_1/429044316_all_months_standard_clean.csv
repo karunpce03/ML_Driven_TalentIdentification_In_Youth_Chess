@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429044316,2024-08-01,0,1st Tinsukia Open International FIDE Rating Chess Tournament,Tinsukia IND,2024-07-21,2024-07-26,1678,1457,0.5,1,0.28,40,11.2,"Montu, Hatimuria",,1678.0,False,IND,0.5,1,0.28,40,11.2
+429044316,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1681,1468,0.0,2,-0.51,40,-20.4,"Rituraj, Tamuli",,1812.0,False,IND,0.0,1,-0.12,40,-4.8
+429044316,2024-11-01,0,5th CPPA Open International FIDE rating Chess Tournament 2024,Dibrugarh IND,2024-10-09,2024-10-14,1681,1468,0.0,2,-0.51,40,-20.4,"Siddharth, Borgohain",,1549.0,False,IND,0.0,1,-0.39,40,-15.6
+429044316,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1693,1448,1.0,5,-0.02,40,-0.8,"Paramarth, Mitra",,1695.0,False,IND,0.5,1,0.31,40,12.4
+429044316,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1693,1448,1.0,5,-0.02,40,-0.8,"Palit, Somak",m,1848.0,True,IND,0.0,1,-0.08,40,-3.2
+429044316,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1693,1448,1.0,5,-0.02,40,-0.8,"Kalpamoy, Konwar",,1671.0,False,IND,0.0,1,-0.22,40,-8.8
+429044316,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1693,1448,1.0,5,-0.02,40,-0.8,"Nishan, Mondal",,1632.0,False,IND,0.5,1,0.24,40,9.6
+429044316,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1693,1448,1.0,5,-0.02,40,-0.8,"Siddharth, Samaddar",,1621.0,False,IND,0.0,1,-0.27,40,-10.8

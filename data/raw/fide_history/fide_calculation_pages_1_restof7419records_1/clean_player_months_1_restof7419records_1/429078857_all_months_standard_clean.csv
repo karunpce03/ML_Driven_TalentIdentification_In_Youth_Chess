@@ -1,0 +1,16 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429078857,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,,,0.5,3,0.0,1377,,"Prashant, Kumar Singh",,1614.0,False,IND,0.0,1,0.0,,0.0
+429078857,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,,,0.5,3,0.0,1377,,"Krishna, Mohan",,1605.0,False,IND,0.0,1,0.0,,0.0
+429078857,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,,,0.5,3,0.0,1377,,"Shiv, Priya Bhardwaj",,1731.0,False,IND,0.5,1,0.0,,0.0
+429078857,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1556.0,1502.0,1.0,2,0.13,40,5.2,"Vishal, Sharma",,1710.0,False,IND,0.0,1,-0.23,40.0,-9.2
+429078857,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1556.0,1502.0,1.0,2,0.13,40,5.2,"Satya, Prakash Prasad",,1402.0,False,IND,1.0,1,0.36,40.0,14.4
+429078857,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1798.0,1507.0,0.5,4,-0.15,40,-6.0,"Rishan, Debnath",,1843.0,False,IND,0.0,1,-0.12,40.0,-4.8
+429078857,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1798.0,1507.0,0.5,4,-0.15,40,-6.0,"Singh, Suman Kumar",,1907.0,True,IND,0.5,1,0.42,40.0,16.8
+429078857,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1798.0,1507.0,0.5,4,-0.15,40,-6.0,"Aishani, Pathak",,1725.0,False,IND,0.0,1,-0.22,40.0,-8.8
+429078857,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1798.0,1507.0,0.5,4,-0.15,40,-6.0,"Menhajul, Hoda",,1718.0,False,IND,0.0,1,-0.23,40.0,-9.2
+429078857,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1536.0,1501.0,3.0,6,0.27,40,10.8,"Hardev, Sahai",,1663.0,False,IND,0.0,1,-0.29,40.0,-11.6
+429078857,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1536.0,1501.0,3.0,6,0.27,40,10.8,"Nirav, Dhakal",,1418.0,False,IND,1.0,1,0.39,40.0,15.6
+429078857,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1536.0,1501.0,3.0,6,0.27,40,10.8,"Aditya, Ashish Patel",,1651.0,False,IND,0.0,1,-0.3,40.0,-12.0
+429078857,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1536.0,1501.0,3.0,6,0.27,40,10.8,"Sanjeet, Kumar Saurav",,1438.0,False,IND,1.0,1,0.41,40.0,16.4
+429078857,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1536.0,1501.0,3.0,6,0.27,40,10.8,"Harsh, Kumar",,1614.0,False,IND,0.0,1,-0.35,40.0,-14.0
+429078857,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1536.0,1501.0,3.0,6,0.27,40,10.8,"Manoj, Kumar Kohli",,1433.0,False,IND,1.0,1,0.41,40.0,16.4

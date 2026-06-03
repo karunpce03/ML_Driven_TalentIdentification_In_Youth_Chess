@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33393613,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1565,1775,5.0,5,1.23,40,49.2,"Rajendra, Sawant",,1464.0,False,IND,1.0,1,0.14,40,5.6
+33393613,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1565,1775,5.0,5,1.23,40,49.2,"Asher, Selvin Jayaseelan",,1542.0,False,IND,1.0,1,0.21,40,8.4
+33393613,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1565,1775,5.0,5,1.23,40,49.2,"Tayyeb, Usman",,1705.0,False,PAK,1.0,1,0.4,40,16.0
+33393613,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1565,1775,5.0,5,1.23,40,49.2,"Vikrant, Suganthan",,1443.0,False,IND,1.0,1,0.12,40,4.8
+33393613,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1565,1775,5.0,5,1.23,40,49.2,"Jaiswal, Prince",,1672.0,False,IND,1.0,1,0.36,40,14.4

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25720066,2024-10-01,0,Vezerkepzo IM August 2024,Budapest HUN,2024-08-28,2024-09-05,2240,2071,4.0,9,1.37,40,54.8,"Pacher, Milan",g,2365.0,False,SVK,0.0,1,-0.15,40,-6.0
+25720066,2024-10-01,0,Vezerkepzo IM August 2024,Budapest HUN,2024-08-28,2024-09-05,2240,2071,4.0,9,1.37,40,54.8,"Kolagatla, Alana Meenakshi",wf,2200.0,False,IND,1.0,1,0.67,40,26.8
+25720066,2024-10-01,0,Vezerkepzo IM August 2024,Budapest HUN,2024-08-28,2024-09-05,2240,2071,4.0,9,1.37,40,54.8,"Czebe, Attila",g,2302.0,False,HUN,0.5,1,0.29,40,11.6
+25720066,2024-10-01,0,Vezerkepzo IM August 2024,Budapest HUN,2024-08-28,2024-09-05,2240,2071,4.0,9,1.37,40,54.8,"Varga, Zoltan",g,2321.0,False,HUN,0.0,1,-0.19,40,-7.6
+25720066,2024-10-01,0,Vezerkepzo IM August 2024,Budapest HUN,2024-08-28,2024-09-05,2240,2071,4.0,9,1.37,40,54.8,"Nemeth, Zalan",f,2185.0,False,IRL,0.5,1,0.16,40,6.4
+25720066,2024-10-01,0,Vezerkepzo IM August 2024,Budapest HUN,2024-08-28,2024-09-05,2240,2071,4.0,9,1.37,40,54.8,"Saketh, Pedagandham",,2051.0,False,IND,1.0,1,0.47,40,18.8
+25720066,2024-10-01,0,Vezerkepzo IM August 2024,Budapest HUN,2024-08-28,2024-09-05,2240,2071,4.0,9,1.37,40,54.8,"Neverov, Valeriy",g,2412.0,False,UKR,0.0,1,-0.12,40,-4.8
+25720066,2024-10-01,0,Vezerkepzo IM August 2024,Budapest HUN,2024-08-28,2024-09-05,2240,2071,4.0,9,1.37,40,54.8,"Cong, Dingzhou",,2074.0,False,CHN,0.5,1,0.0,40,0.0
+25720066,2024-10-01,0,Vezerkepzo IM August 2024,Budapest HUN,2024-08-28,2024-09-05,2240,2071,4.0,9,1.37,40,54.8,"Jakab, Attila",m,2252.0,False,HUN,0.5,1,0.24,40,9.6

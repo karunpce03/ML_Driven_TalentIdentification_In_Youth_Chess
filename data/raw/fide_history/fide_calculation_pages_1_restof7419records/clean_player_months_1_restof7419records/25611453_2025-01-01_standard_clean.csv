@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25611453,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1768,1552,0.5,4,-0.46,40,-18.4,"Rangeet, Majumdar",,1721.0,False,IND,0.0,1,-0.28,40,-11.2
+25611453,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1768,1552,0.5,4,-0.46,40,-18.4,"Srivastava, Y.p.",,1950.0,False,IND,0.5,1,0.42,40,16.8
+25611453,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1768,1552,0.5,4,-0.46,40,-18.4,"Swarnava, Roy",,1703.0,False,IND,0.0,1,-0.3,40,-12.0
+25611453,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1768,1552,0.5,4,-0.46,40,-18.4,"Samriddhi, Tiwari",,1698.0,False,IND,0.0,1,-0.3,40,-12.0

@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33479720,2024-10-01,0,Karnataka State Under 11 Open FIDE Rated Chess Championship 2024,Belgavi IND,2024-08-30,2024-09-01,,,0.0,3,0.0,774,,"Indrajit, Majumdar",,1688,False,IND,0.0,1,0.0,,0.0
+33479720,2024-10-01,0,Karnataka State Under 11 Open FIDE Rated Chess Championship 2024,Belgavi IND,2024-08-30,2024-09-01,,,0.0,3,0.0,774,,"Samanth, Nataraj Naidu",,1562,False,IND,0.0,1,0.0,,0.0
+33479720,2024-10-01,0,Karnataka State Under 11 Open FIDE Rated Chess Championship 2024,Belgavi IND,2024-08-30,2024-09-01,,,0.0,3,0.0,774,,"Aasapu, Mohith Praneel",,1472,False,IND,0.0,1,0.0,,0.0

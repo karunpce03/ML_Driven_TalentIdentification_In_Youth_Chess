@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88177378,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1656,1428,1.5,5,0.32,40,12.8,"Nivedita, V C",,1828,True,IND,0.0,1,-0.08,40,-3.2
+88177378,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1656,1428,1.5,5,0.32,40,12.8,"Shitiz, Prasad",,1804,False,IND,0.5,1,0.41,40,16.4
+88177378,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1656,1428,1.5,5,0.32,40,12.8,"Pranav, V B",,1559,False,IND,0.5,1,0.18,40,7.2
+88177378,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1656,1428,1.5,5,0.32,40,12.8,"Vignesh, Prasanna Shankar",,1556,False,IND,0.5,1,0.17,40,6.8
+88177378,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1656,1428,1.5,5,0.32,40,12.8,"Krishav, Nikesh N",,1533,False,IND,0.0,1,-0.36,40,-14.4

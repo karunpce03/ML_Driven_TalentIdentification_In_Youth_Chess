@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88195775,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1549,1427,1.5,6,-0.58,40,-23.2,"Krithik, Muthukumar",,1765.0,False,IND,0.0,1,-0.12,40,-4.8
+88195775,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1549,1427,1.5,6,-0.58,40,-23.2,"Suryansh, Kuksal",,1530.0,False,IND,0.0,1,-0.36,40,-14.4
+88195775,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1549,1427,1.5,6,-0.58,40,-23.2,"Dayama, Abhedya",,1508.0,False,IND,1.0,1,0.61,40,24.4
+88195775,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1549,1427,1.5,6,-0.58,40,-23.2,"Siddhartha, Mallick",,1484.0,False,IND,0.0,1,-0.42,40,-16.8
+88195775,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1549,1427,1.5,6,-0.58,40,-23.2,"Dhvit, Tapankumar Mehta",,1471.0,False,IND,0.5,1,0.06,40,2.4
+88195775,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1549,1427,1.5,6,-0.58,40,-23.2,"Pradhyot, Mishra",,1535.0,False,IND,0.0,1,-0.35,40,-14.0
+88195775,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1624,1427,1.0,6,-0.5,40,-20.0,"Sidharth, Upadhyay",,1714.0,False,IND,0.0,1,-0.16,40,-6.4
+88195775,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1624,1427,1.0,6,-0.5,40,-20.0,"Pramod, Kr. Kushwaha",,1609.0,False,IND,0.0,1,-0.26,40,-10.4
+88195775,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1624,1427,1.0,6,-0.5,40,-20.0,"Piyush, Pathak",,1661.0,False,IND,1.0,1,0.79,40,31.6
+88195775,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1624,1427,1.0,6,-0.5,40,-20.0,Rajat,,1575.0,False,IND,0.0,1,-0.3,40,-12.0
+88195775,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1624,1427,1.0,6,-0.5,40,-20.0,"Amit, Mishra",,1548.0,False,IND,0.0,1,-0.34,40,-13.6
+88195775,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1624,1427,1.0,6,-0.5,40,-20.0,"Bargali, Devesh",,1637.0,False,IND,0.0,1,-0.23,40,-9.2

@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25146858,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1674,1835,6.5,9,0.15,35,5.25,"Shamkumar, Malayil",,1512.0,False,IND,1.0,1,0.13,35,4.55
+25146858,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1674,1835,6.5,9,0.15,35,5.25,"Kumbhar, Kartik",,1623.0,False,IND,1.0,1,0.23,35,8.05
+25146858,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1674,1835,6.5,9,0.15,35,5.25,"Kabnurakar, Sharvari",,1666.0,False,IND,1.0,1,0.28,35,9.8
+25146858,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1674,1835,6.5,9,0.15,35,5.25,"Soni, Vivan",,1678.0,False,IND,0.5,1,-0.21,35,-7.35
+25146858,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1674,1835,6.5,9,0.15,35,5.25,"Shounak, Mazumder",,1796.0,False,IND,0.0,1,-0.55,35,-19.25
+25146858,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1674,1835,6.5,9,0.15,35,5.25,"Jagadale, Ishwari",,1707.0,False,IND,0.5,1,-0.17,35,-5.95
+25146858,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1674,1835,6.5,9,0.15,35,5.25,"Krishnasai, Ramesh Vandanapu",,1666.0,False,IND,1.0,1,0.28,35,9.8
+25146858,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1674,1835,6.5,9,0.15,35,5.25,"Sourav, Suresh",,1707.0,False,IND,0.5,1,-0.17,35,-5.95
+25146858,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1674,1835,6.5,9,0.15,35,5.25,"Om, Dayanand Ramgude",,1709.0,False,IND,1.0,1,0.33,35,11.55
+25146858,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1823,1842,5.0,11,-0.68,35,-23.8,"Arz, Bhatia",,1482.0,False,IND,1.0,1,0.1,35,3.5
+25146858,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1823,1842,5.0,11,-0.68,35,-23.8,"Madhvendra, Pratap Sharma",c,2034.0,False,IND,0.0,1,-0.25,35,-8.75
+25146858,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1823,1842,5.0,11,-0.68,35,-23.8,"Arjun, Singh",,1621.0,False,IND,1.0,1,0.22,35,7.7
+25146858,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1823,1842,5.0,11,-0.68,35,-23.8,"Santu, Mondal",,1986.0,False,IND,0.0,1,-0.31,35,-10.85
+25146858,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1823,1842,5.0,11,-0.68,35,-23.8,"Mishka, Mathur",,1669.0,False,IND,0.5,1,-0.23,35,-8.05
+25146858,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1823,1842,5.0,11,-0.68,35,-23.8,"Adithya, Vishveshwaran M",,1598.0,False,IND,1.0,1,0.2,35,7.0
+25146858,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1823,1842,5.0,11,-0.68,35,-23.8,"Arshpreet, Singh",,1995.0,False,IND,1.0,1,0.7,35,24.5
+25146858,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1823,1842,5.0,11,-0.68,35,-23.8,"Sherla, Prathamesh",,1994.0,False,IND,0.5,1,0.2,35,7.0
+25146858,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1823,1842,5.0,11,-0.68,35,-23.8,"Mrithyunjay, Mahadevan",c,2062.0,False,IND,0.0,1,-0.22,35,-7.7
+25146858,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1823,1842,5.0,11,-0.68,35,-23.8,"Sivan, S Roshan",,1966.0,False,IND,0.0,1,-0.33,35,-11.55
+25146858,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1823,1842,5.0,11,-0.68,35,-23.8,"Atharv, Singh Bisht",,1644.0,False,IND,0.0,1,-0.76,35,-26.6

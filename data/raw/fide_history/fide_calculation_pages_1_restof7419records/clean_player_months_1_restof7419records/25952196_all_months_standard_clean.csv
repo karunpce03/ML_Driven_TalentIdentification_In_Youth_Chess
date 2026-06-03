@@ -1,0 +1,52 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25952196,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1604,1691,6.0,8,1.08,40,43.2,"Abhinav, M B",,1512.0,False,IND,0.5,1,-0.23,40,-9.2
+25952196,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1604,1691,6.0,8,1.08,40,43.2,"Leah, R Joseph",,1501.0,False,IND,0.5,1,-0.25,40,-10.0
+25952196,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1604,1691,6.0,8,1.08,40,43.2,"Arav, Vinod",,1541.0,False,IND,1.0,1,0.3,40,12.0
+25952196,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1604,1691,6.0,8,1.08,40,43.2,"Nanthabalan, V B",,1580.0,False,IND,1.0,1,0.35,40,14.0
+25952196,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1604,1691,6.0,8,1.08,40,43.2,"Allen, B Judwin",,1544.0,False,IND,0.5,1,-0.2,40,-8.0
+25952196,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1604,1691,6.0,8,1.08,40,43.2,"Parteev, Sunil",,1796.0,False,IND,0.5,1,0.14,40,5.6
+25952196,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1604,1691,6.0,8,1.08,40,43.2,"Yug, Tarun Khiani",,1577.0,False,IND,1.0,1,0.34,40,13.6
+25952196,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1604,1691,6.0,8,1.08,40,43.2,"Prawin, K",,1783.0,False,IND,1.0,1,0.63,40,25.2
+25952196,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1527,1691,5.5,8,-0.22,40,-8.8,"Nalan, Arumugam S",,1485.0,False,IND,1.0,1,0.24,40,9.6
+25952196,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1527,1691,5.5,8,-0.22,40,-8.8,"Amanlal, A",,1575.0,False,IND,0.5,1,-0.16,40,-6.4
+25952196,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1527,1691,5.5,8,-0.22,40,-8.8,"Aravind, Pradeepkumar Nair",,1500.0,False,IND,0.5,1,-0.25,40,-10.0
+25952196,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1527,1691,5.5,8,-0.22,40,-8.8,"Muthukumar, M",,1548.0,False,IND,0.5,1,-0.19,40,-7.6
+25952196,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1527,1691,5.5,8,-0.22,40,-8.8,"Athulkrishna, P",,1526.0,False,IND,0.5,1,-0.22,40,-8.8
+25952196,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1527,1691,5.5,8,-0.22,40,-8.8,"Akash, Chandran",,1494.0,False,IND,0.5,1,-0.25,40,-10.0
+25952196,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1527,1691,5.5,8,-0.22,40,-8.8,"Mathai, Bince",,1483.0,False,IND,1.0,1,0.23,40,9.2
+25952196,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1527,1691,5.5,8,-0.22,40,-8.8,"Aditi, Arun",,1603.0,False,IND,1.0,1,0.38,40,15.2
+25952196,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1636,1725,7.5,10,1.44,20,28.8,"Angada, H P",,1402.0,False,IND,0.5,1,-0.37,20,-7.4
+25952196,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1636,1725,7.5,10,1.44,20,28.8,"Kishore, Krishnamurthy",,1413.0,False,IND,1.0,1,0.14,20,2.8
+25952196,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1636,1725,7.5,10,1.44,20,28.8,"Sanchit, P Sugur",,1500.0,False,IND,1.0,1,0.22,20,4.4
+25952196,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1636,1725,7.5,10,1.44,20,28.8,"Advaith, U P",,1607.0,False,IND,1.0,1,0.34,20,6.8
+25952196,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1636,1725,7.5,10,1.44,20,28.8,"Aadwik, Abhinav Krishna",,1529.0,False,IND,0.5,1,-0.25,20,-5.0
+25952196,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1636,1725,7.5,10,1.44,20,28.8,"Shreyas, Jayaraman",,1610.0,False,IND,0.5,1,-0.16,20,-3.2
+25952196,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1636,1725,7.5,10,1.44,20,28.8,"Atharv, Venkatesh",,1602.0,False,IND,1.0,1,0.33,20,6.6
+25952196,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1636,1725,7.5,10,1.44,20,28.8,"Naveen, S Hegde",,1863.0,False,IND,1.0,1,0.69,20,13.8
+25952196,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1636,1725,7.5,10,1.44,20,28.8,"Siddhanth, Poonja",,1939.0,False,IND,0.5,1,0.27,20,5.4
+25952196,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1636,1725,7.5,10,1.44,20,28.8,"Medhansh, Rathi",,1899.0,False,IND,0.5,1,0.23,20,4.6
+25952196,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1550,1725,6.5,9,-0.01,20,-0.2,"Parkhi, Anand",,1406.0,False,IND,1.0,1,0.13,20,2.6
+25952196,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1550,1725,6.5,9,-0.01,20,-0.2,"Bodda, Sri Jayya Mohan",,1507.0,False,IND,1.0,1,0.22,20,4.4
+25952196,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1550,1725,6.5,9,-0.01,20,-0.2,"Vedanth, M",,1574.0,False,IND,1.0,1,0.3,20,6.0
+25952196,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1550,1725,6.5,9,-0.01,20,-0.2,"Ranade, Mayank",,1615.0,False,IND,0.5,1,-0.15,20,-3.0
+25952196,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1550,1725,6.5,9,-0.01,20,-0.2,"Anish, Ramkumar",,1620.0,False,IND,0.5,1,-0.14,20,-2.8
+25952196,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1550,1725,6.5,9,-0.01,20,-0.2,"Sanikommu, Jaideep Reddy",,1564.0,False,IND,0.0,1,-0.71,20,-14.2
+25952196,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1550,1725,6.5,9,-0.01,20,-0.2,"Vedant, A Agarwal",,1503.0,False,IND,1.0,1,0.22,20,4.4
+25952196,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1550,1725,6.5,9,-0.01,20,-0.2,"Shaik, Mohammed Irfan",,1563.0,False,IND,1.0,1,0.29,20,5.8
+25952196,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1550,1725,6.5,9,-0.01,20,-0.2,"Mithilesh, P",,1601.0,False,IND,0.5,1,-0.17,20,-3.4
+25952196,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1560,1725,5.5,8,-0.22,20,-4.4,"Aarabhi, Madhukar",,1500.0,False,IND,1.0,1,0.22,20,4.4
+25952196,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1560,1725,5.5,8,-0.22,20,-4.4,"Ayaan, Phutane",,1553.0,False,IND,0.5,1,-0.23,20,-4.6
+25952196,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1560,1725,5.5,8,-0.22,20,-4.4,"Dhanushkka, S",,1573.0,False,IND,0.5,1,-0.2,20,-4.0
+25952196,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1560,1725,5.5,8,-0.22,20,-4.4,"Ruthvik, Srikanth",,1539.0,False,IND,1.0,1,0.26,20,5.2
+25952196,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1560,1725,5.5,8,-0.22,20,-4.4,"Shreesuday, Behera",,1581.0,False,IND,0.0,1,-0.69,20,-13.8
+25952196,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1560,1725,5.5,8,-0.22,20,-4.4,"Arun, Lobo",,1532.0,False,IND,1.0,1,0.25,20,5.0
+25952196,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1560,1725,5.5,8,-0.22,20,-4.4,"Pracheth, P",,1556.0,False,IND,1.0,1,0.28,20,5.6
+25952196,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1560,1725,5.5,8,-0.22,20,-4.4,"Aarya, Satish Chikodi",,1648.0,False,IND,0.5,1,-0.11,20,-2.2
+25952196,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1589,1725,4.5,8,-0.92,20,-18.4,"Karthik, S Alva",,1452.0,False,IND,1.0,1,0.17,20,3.4
+25952196,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1589,1725,4.5,8,-0.92,20,-18.4,"Aditya, P Talekar",,1568.0,False,IND,0.5,1,-0.21,20,-4.2
+25952196,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1589,1725,4.5,8,-0.92,20,-18.4,"Abhineeth, Bhat",,1546.0,False,IND,0.5,1,-0.23,20,-4.6
+25952196,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1589,1725,4.5,8,-0.92,20,-18.4,"Vihaan, Aadarsh Lobo",,1489.0,False,IND,1.0,1,0.2,20,4.0
+25952196,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1589,1725,4.5,8,-0.92,20,-18.4,"Aradyo, Bhattacharyya",,1579.0,False,IND,1.0,1,0.3,20,6.0
+25952196,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1589,1725,4.5,8,-0.92,20,-18.4,"Siddhanth, Poonja",,1939.0,False,IND,0.0,1,-0.23,20,-4.6
+25952196,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1589,1725,4.5,8,-0.92,20,-18.4,"Akanksh, U D",,1560.0,False,IND,0.5,1,-0.22,20,-4.4
+25952196,2024-06-01,0,Karnataka State Under 17 Open Chess Championship 2024,Mangalore IND,2024-05-17,2024-05-19,1589,1725,4.5,8,-0.92,20,-18.4,"Aadya, Gowda",,1575.0,False,IND,0.0,1,-0.7,20,-14.0

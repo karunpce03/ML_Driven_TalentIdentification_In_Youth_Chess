@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+46660445,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN B,Piestany SVK,2024-07-09,2024-07-17,1793,1630,2.5,8,0.0,40,0.0,"Deak, Gabriel",,1927,False,SVK,0.0,1,-0.15,40,-6.0
+46660445,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN B,Piestany SVK,2024-07-09,2024-07-17,1793,1630,2.5,8,0.0,40,0.0,"Durana, Jonas",,2030,True,SVK,1.0,1,0.92,40,36.8
+46660445,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN B,Piestany SVK,2024-07-09,2024-07-17,1793,1630,2.5,8,0.0,40,0.0,"Kruzliak, Damian",,1814,False,SVK,0.0,1,-0.26,40,-10.4
+46660445,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN B,Piestany SVK,2024-07-09,2024-07-17,1793,1630,2.5,8,0.0,40,0.0,"Pietinen, Pekka",,1969,False,FIN,0.5,1,0.38,40,15.2
+46660445,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN B,Piestany SVK,2024-07-09,2024-07-17,1793,1630,2.5,8,0.0,40,0.0,"Carnecky, Viliam",,1769,False,SVK,0.0,1,-0.31,40,-12.4
+46660445,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN B,Piestany SVK,2024-07-09,2024-07-17,1793,1630,2.5,8,0.0,40,0.0,"Osvald, Jakub",,1513,False,SVK,0.5,1,-0.16,40,-6.4
+46660445,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN B,Piestany SVK,2024-07-09,2024-07-17,1793,1630,2.5,8,0.0,40,0.0,"Filo, David",,1771,False,SVK,0.0,1,-0.31,40,-12.4
+46660445,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN B,Piestany SVK,2024-07-09,2024-07-17,1793,1630,2.5,8,0.0,40,0.0,"Hanzel, Richard",,1549,False,SVK,0.5,1,-0.11,40,-4.4
+46660445,2024-08-01,0,Vezerkepzo Summer U2300,Budapest HUN,2024-07-22,2024-07-27,1875,1630,4.5,9,2.53,40,101.2,"Kahn, Evarth Dr.",m,1957,False,HUN,0.0,1,-0.13,40,-5.2
+46660445,2024-08-01,0,Vezerkepzo Summer U2300,Budapest HUN,2024-07-22,2024-07-27,1875,1630,4.5,9,2.53,40,101.2,"Jarai, Csenge",,1749,False,SUI,1.0,1,0.66,40,26.4
+46660445,2024-08-01,0,Vezerkepzo Summer U2300,Budapest HUN,2024-07-22,2024-07-27,1875,1630,4.5,9,2.53,40,101.2,"Ladanyi, Tibor",,2019,False,HUN,0.0,1,-0.09,40,-3.6
+46660445,2024-08-01,0,Vezerkepzo Summer U2300,Budapest HUN,2024-07-22,2024-07-27,1875,1630,4.5,9,2.53,40,101.2,"Zhang, Ruijia",,1735,False,CHN,0.5,1,0.14,40,5.6
+46660445,2024-08-01,0,Vezerkepzo Summer U2300,Budapest HUN,2024-07-22,2024-07-27,1875,1630,4.5,9,2.53,40,101.2,"Zhu, Zile",,1749,False,CHN,0.5,1,0.16,40,6.4
+46660445,2024-08-01,0,Vezerkepzo Summer U2300,Budapest HUN,2024-07-22,2024-07-27,1875,1630,4.5,9,2.53,40,101.2,"Szabo, Bela",,1745,False,HUN,1.0,1,0.66,40,26.4
+46660445,2024-08-01,0,Vezerkepzo Summer U2300,Budapest HUN,2024-07-22,2024-07-27,1875,1630,4.5,9,2.53,40,101.2,"Szalanczi, Emil",m,1863,False,HUN,0.5,1,0.29,40,11.6
+46660445,2024-08-01,0,Vezerkepzo Summer U2300,Budapest HUN,2024-07-22,2024-07-27,1875,1630,4.5,9,2.53,40,101.2,"Vuelban, Virgilio",m,2030,True,PHI,0.0,1,-0.08,40,-3.2
+46660445,2024-08-01,0,Vezerkepzo Summer U2300,Budapest HUN,2024-07-22,2024-07-27,1875,1630,4.5,9,2.53,40,101.2,"Farago, Sandor",m,2030,True,HUN,1.0,1,0.92,40,36.8

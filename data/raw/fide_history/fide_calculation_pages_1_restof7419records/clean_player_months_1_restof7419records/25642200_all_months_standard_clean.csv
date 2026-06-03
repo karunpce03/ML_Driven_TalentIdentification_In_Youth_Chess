@@ -1,0 +1,82 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25642200,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2103,1904,5.5,9,3.02,26,78.52,"Okhotnik, Vladimir",g,2293.0,False,FRA,0.0,1,-0.09,26,-2.34
+25642200,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2103,1904,5.5,9,3.02,26,78.52,"Toth, Charles",,1750.0,False,FRA,1.0,1,0.29,26,7.54
+25642200,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2103,1904,5.5,9,3.02,26,78.52,"Marta, Dominik",,2136.0,False,HUN,0.5,1,0.29,26,7.54
+25642200,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2103,1904,5.5,9,3.02,26,78.52,"Lieber, Lukas",,1920.0,False,CZE,1.0,1,0.52,26,13.52
+25642200,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2103,1904,5.5,9,3.02,26,78.52,"Sipos, Janos",f,2193.0,False,HUN,0.5,1,0.34,26,8.84
+25642200,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2103,1904,5.5,9,3.02,26,78.52,"Borocz, Lorinc",,1947.0,False,HUN,1.0,1,0.56,26,14.56
+25642200,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2103,1904,5.5,9,3.02,26,78.52,"Lauda, Alexandr",c,2198.0,False,MDA,0.5,1,0.35,26,9.1
+25642200,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2103,1904,5.5,9,3.02,26,78.52,"Tompa, Janos",m,2270.0,False,HUN,0.5,1,0.4,26,10.4
+25642200,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2103,1904,5.5,9,3.02,26,78.52,"Torok, Sandor",f,2217.0,False,HUN,0.5,1,0.36,26,9.36
+25642200,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2017,1904,5.0,9,1.66,26,43.16,"Vezzosi, Paolo",m,2086.0,False,ITA,0.5,1,0.24,26,6.24
+25642200,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2017,1904,5.0,9,1.66,26,43.16,"Zimina, Olga",m wg,2304.0,True,ITA,0.0,1,-0.08,26,-2.08
+25642200,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2017,1904,5.0,9,1.66,26,43.16,"Catanzaro, Claudio",,1931.0,False,ITA,0.5,1,0.04,26,1.04
+25642200,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2017,1904,5.0,9,1.66,26,43.16,"Foo, Jiu Weir Brien",,1798.0,False,MAS,1.0,1,0.36,26,9.36
+25642200,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2017,1904,5.0,9,1.66,26,43.16,"Frescura, Davide",,2054.0,False,ITA,1.0,1,0.7,26,18.2
+25642200,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2017,1904,5.0,9,1.66,26,43.16,"Oktem, Ege Tuna",,2055.0,False,TUR,0.0,1,-0.3,26,-7.8
+25642200,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2017,1904,5.0,9,1.66,26,43.16,"Perossa, Nicolas",f,2247.0,False,ITA,0.0,1,-0.12,26,-3.12
+25642200,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2017,1904,5.0,9,1.66,26,43.16,"Lachmair, Erwin",,1908.0,False,AUT,1.0,1,0.51,26,13.26
+25642200,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2017,1904,5.0,9,1.66,26,43.16,"Sharvaanica, A S",,1766.0,False,IND,1.0,1,0.31,26,8.06
+25642200,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1960,1904,5.0,8,1.52,26,39.52,"Papotti, Paolo",,1504.0,True,ITA,1.0,1,0.08,26,2.08
+25642200,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1960,1904,5.0,8,1.52,26,39.52,"Pugliese, Davide Francesco",,1559.0,False,ITA,1.0,1,0.11,26,2.86
+25642200,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1960,1904,5.0,8,1.52,26,39.52,"Carrideo, Simone",,2101.0,False,ITA,1.0,1,0.75,26,19.5
+25642200,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1960,1904,5.0,8,1.52,26,39.52,"Mammi, Samuele",c,2211.0,False,ITA,0.5,1,0.36,26,9.36
+25642200,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1960,1904,5.0,8,1.52,26,39.52,"Gilevych, Artem",m,2304.0,True,ITA,0.0,1,-0.08,26,-2.08
+25642200,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1960,1904,5.0,8,1.52,26,39.52,"Lanzani, Mario Lorenzo",m,2254.0,True,ITA,0.5,1,0.39,26,10.14
+25642200,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1960,1904,5.0,8,1.52,26,39.52,"Kumaresh, A",,1924.0,False,IND,0.0,1,-0.47,26,-12.22
+25642200,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1960,1904,5.0,8,1.52,26,39.52,"Sertorio, Yussef Lorenzo",,1820.0,False,ITA,1.0,1,0.38,26,9.88
+25642200,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1826,2065,6.0,10,-1.92,33,-63.36,"Nivedita, V C",,1877.0,False,IND,0.5,1,-0.24,33,-7.92
+25642200,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1826,2065,6.0,10,-1.92,33,-63.36,"Manuwaruna, Sethun Neththaru",,1871.0,False,SRI,0.0,1,-0.75,33,-24.75
+25642200,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1826,2065,6.0,10,-1.92,33,-63.36,"Sathsindu, W M Minura",,1795.0,False,SRI,0.5,1,-0.33,33,-10.89
+25642200,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1826,2065,6.0,10,-1.92,33,-63.36,"Abiru, K A Aken",,1791.0,False,SRI,1.0,1,0.17,33,5.61
+25642200,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1826,2065,6.0,10,-1.92,33,-63.36,"Wijekoon, Chandana",c,1833.0,False,SRI,0.5,1,-0.29,33,-9.57
+25642200,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1826,2065,6.0,10,-1.92,33,-63.36,"Insara, S D Nadev",,1859.0,False,SRI,1.0,1,0.24,33,7.92
+25642200,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1826,2065,6.0,10,-1.92,33,-63.36,"Amarasinghe, A A C B",c,1889.0,False,SRI,0.0,1,-0.73,33,-24.09
+25642200,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1826,2065,6.0,10,-1.92,33,-63.36,"Senarathne, A A H M B",,1822.0,False,SRI,0.5,1,-0.3,33,-9.9
+25642200,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1826,2065,6.0,10,-1.92,33,-63.36,"Yapa, Y P G P",,1665.0,True,SRI,1.0,1,0.08,33,2.64
+25642200,2024-09-01,0,DINI International Grandmaster Chess Championships 2024,Colombo SRI,2024-07-29,2024-08-04,1826,2065,6.0,10,-1.92,33,-63.36,"Suthershun, A",,1858.0,False,IND,1.0,1,0.23,33,7.59
+25642200,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,2065,5.5,11,-3.35,33,-110.55,"Arnav, Dhamija",,1752.0,False,IND,1.0,1,0.14,33,4.62
+25642200,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,2065,5.5,11,-3.35,33,-110.55,"Soumick, Bandopadhyay",,1857.0,False,IND,0.0,1,-0.77,33,-25.41
+25642200,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,2065,5.5,11,-3.35,33,-110.55,"Divyanshu, Kumar Singh",,1807.0,False,IND,1.0,1,0.18,33,5.94
+25642200,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,2065,5.5,11,-3.35,33,-110.55,"Aarav, Saish Amonkar",,1885.0,False,IND,1.0,1,0.26,33,8.58
+25642200,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,2065,5.5,11,-3.35,33,-110.55,"Badamundi, Tapan",,1921.0,False,IND,0.0,1,-0.69,33,-22.77
+25642200,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,2065,5.5,11,-3.35,33,-110.55,"Atiksh, Thakur",,1843.0,False,IND,0.5,1,-0.28,33,-9.24
+25642200,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,2065,5.5,11,-3.35,33,-110.55,"Shreyash, Singh",,1885.0,False,IND,0.0,1,-0.74,33,-24.42
+25642200,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,2065,5.5,11,-3.35,33,-110.55,"Vivaan, Sardana",,1828.0,False,IND,0.0,1,-0.8,33,-26.4
+25642200,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,2065,5.5,11,-3.35,33,-110.55,"Saurabh, Jain",,1665.0,True,IND,0.5,1,-0.42,33,-13.86
+25642200,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,2065,5.5,11,-3.35,33,-110.55,"Drishtee, Ghosh",,1730.0,False,IND,0.5,1,-0.38,33,-12.54
+25642200,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,2065,5.5,11,-3.35,33,-110.55,"Siddhant, Nath Jha",,1765.0,False,IND,1.0,1,0.15,33,4.95
+25642200,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2091,1891,6.0,9,3.67,40,146.8,"Siol, Juergen",,1801.0,False,GER,1.0,1,0.38,40,15.2
+25642200,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2091,1891,6.0,9,3.67,40,146.8,"Mueller, Riyanna",wc,2014.0,False,GER,0.5,1,0.17,40,6.8
+25642200,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2091,1891,6.0,9,3.67,40,146.8,"Stewart, Neil",f,2216.0,False,GER,0.5,1,0.37,40,14.8
+25642200,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2091,1891,6.0,9,3.67,40,146.8,"Woestmann, Hans-Joachim",,2074.0,False,GER,1.0,1,0.74,40,29.6
+25642200,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2091,1891,6.0,9,3.67,40,146.8,"Raghav, V",,2087.0,False,IND,1.0,1,0.75,40,30.0
+25642200,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2091,1891,6.0,9,3.67,40,146.8,"Scholz, Christian, Dr.",m,2291.0,True,GER,0.5,1,0.42,40,16.8
+25642200,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2091,1891,6.0,9,3.67,40,146.8,"Lutze, Max",,2148.0,False,GER,1.0,1,0.82,40,32.8
+25642200,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2091,1891,6.0,9,3.67,40,146.8,"Schmitzer, Klaus",f,2140.0,False,GER,0.5,1,0.31,40,12.4
+25642200,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2091,1891,6.0,9,3.67,40,146.8,"Boesel, Alexander",,2045.0,False,GER,0.0,1,-0.29,40,-11.6
+25642200,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Accession,ANNEMASSE FRA,2024-10-19,2024-10-25,1723,1891,5.0,8,-0.7,40,-28.0,"Rousseau-Cavasse, Aymeric",,1703.0,False,FRA,0.0,1,-0.74,40,-29.6
+25642200,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Accession,ANNEMASSE FRA,2024-10-19,2024-10-25,1723,1891,5.0,8,-0.7,40,-28.0,"Garin-Laurel, Matheo",,1607.0,False,FRA,1.0,1,0.16,40,6.4
+25642200,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Accession,ANNEMASSE FRA,2024-10-19,2024-10-25,1723,1891,5.0,8,-0.7,40,-28.0,"Kirakosyan, Emil",,1788.0,False,FRA,1.0,1,0.36,40,14.4
+25642200,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Accession,ANNEMASSE FRA,2024-10-19,2024-10-25,1723,1891,5.0,8,-0.7,40,-28.0,"Exbrayat, Theo",,1688.0,False,FRA,1.0,1,0.24,40,9.6
+25642200,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Accession,ANNEMASSE FRA,2024-10-19,2024-10-25,1723,1891,5.0,8,-0.7,40,-28.0,"Carissan, Matteo",,1658.0,False,FRA,0.0,1,-0.79,40,-31.6
+25642200,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Accession,ANNEMASSE FRA,2024-10-19,2024-10-25,1723,1891,5.0,8,-0.7,40,-28.0,"Eleze, Greg",,1802.0,False,FRA,1.0,1,0.38,40,15.2
+25642200,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Accession,ANNEMASSE FRA,2024-10-19,2024-10-25,1723,1891,5.0,8,-0.7,40,-28.0,"Metzger, Raphael",,1655.0,False,FRA,1.0,1,0.2,40,8.0
+25642200,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Accession,ANNEMASSE FRA,2024-10-19,2024-10-25,1723,1891,5.0,8,-0.7,40,-28.0,"Minde, Baptiste",,1886.0,False,FRA,0.0,1,-0.51,40,-20.4
+25642200,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2079,1891,5.0,8,2.76,40,110.4,"Santos, Antonio P",f,2196.0,False,POR,0.0,1,-0.14,40,-5.6
+25642200,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2079,1891,5.0,8,2.76,40,110.4,"Buchwald, Filip",,1574.0,False,POL,1.0,1,0.13,40,5.2
+25642200,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2079,1891,5.0,8,2.76,40,110.4,"Cohn, Max Eduardo",,2131.0,False,BRA,0.5,1,0.3,40,12.0
+25642200,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2079,1891,5.0,8,2.76,40,110.4,"Mortensen, John",,2015.0,False,DEN,1.0,1,0.67,40,26.8
+25642200,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2079,1891,5.0,8,2.76,40,110.4,"Escalona Landi, Samid Eduardo",f,2291.0,True,VEN,0.0,1,-0.08,40,-3.2
+25642200,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2079,1891,5.0,8,2.76,40,110.4,"Cordes, Steffen",,1990.0,False,DEN,1.0,1,0.64,40,25.6
+25642200,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2079,1891,5.0,8,2.76,40,110.4,"Nagare, Akhilesh",c,2245.0,False,IND,0.5,1,0.39,40,15.6
+25642200,2024-12-01,0,II Open Internacional Cidade de Lagos - Hotel Vila Gale,Lagos POR,2024-10-26,2024-11-02,2079,1891,5.0,8,2.76,40,110.4,"Nagtegaal, Kees",f,2188.0,False,NED,1.0,1,0.85,40,34.0
+25642200,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2017,2010,4.0,9,-0.55,40,-22.0,"Del Rio De Angelis, Salvador G.",g,2400.0,False,ESP,0.0,1,-0.09,40,-3.6
+25642200,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2017,2010,4.0,9,-0.55,40,-22.0,"Batista, Sandro Manuel Almeida",,1792.0,False,POR,1.0,1,0.22,40,8.8
+25642200,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2017,2010,4.0,9,-0.55,40,-22.0,"Goncalves, Samuel Jesus P",,2304.0,False,POR,0.0,1,-0.15,40,-6.0
+25642200,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2017,2010,4.0,9,-0.55,40,-22.0,"Silva, Reinaldo",,1815.0,False,POR,1.0,1,0.25,40,10.0
+25642200,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2017,2010,4.0,9,-0.55,40,-22.0,"Faryma, Matviy",,2143.0,False,POR,0.5,1,0.18,40,7.2
+25642200,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2017,2010,4.0,9,-0.55,40,-22.0,"Sharvaanica, A S",wc,2048.0,False,IND,0.0,1,-0.45,40,-18.0
+25642200,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2017,2010,4.0,9,-0.55,40,-22.0,"Cruz, Francisco Manuel Nunes M.",,1897.0,False,POR,0.5,1,-0.15,40,-6.0
+25642200,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2017,2010,4.0,9,-0.55,40,-22.0,"Silva, Ana Ines Teixeira Da",wf,1875.0,False,POR,0.5,1,-0.18,40,-7.2
+25642200,2024-12-01,0,XVIII Festival Internacional da Figueira da Foz,Figueira da Foz POR,2024-11-09,2024-11-16,2017,2010,4.0,9,-0.55,40,-22.0,"Avelino, Camila Biscaya",,1878.0,False,POR,0.5,1,-0.18,40,-7.2

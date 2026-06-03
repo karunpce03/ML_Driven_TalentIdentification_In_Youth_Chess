@@ -1,0 +1,17 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429026610,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1654,1483,0.5,3,-0.44,40,-17.6,"Yashwanth, Raj S",,1675.0,False,IND,0.5,1,0.25,40,10.0
+429026610,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1654,1483,0.5,3,-0.44,40,-17.6,"Sridharan, Ramanathan",,1883.0,True,IND,0.0,1,-0.08,40,-3.2
+429026610,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1654,1483,0.5,3,-0.44,40,-17.6,"Lalithish, D S",,1405.0,False,IND,0.0,1,-0.61,40,-24.4
+429026610,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1606,1465,1.5,4,0.26,40,10.4,"Vedanth, M",,1579.0,False,IND,1.0,1,0.66,40,26.4
+429026610,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1606,1465,1.5,4,0.26,40,10.4,"Inban, R",,1647.0,False,IND,0.0,1,-0.26,40,-10.4
+429026610,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1606,1465,1.5,4,0.26,40,10.4,"Shivaghuru, P",,1591.0,False,IND,0.5,1,0.17,40,6.8
+429026610,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1606,1465,1.5,4,0.26,40,10.4,"Thavish, S",,1607.0,False,IND,0.0,1,-0.31,40,-12.4
+429026610,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1631,1475,1.5,3,0.62,40,24.8,"Sivaram, Ambikasaran",,1600.0,False,IND,1.0,1,0.67,40,26.8
+429026610,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1631,1475,1.5,3,0.62,40,24.8,"Anandhi, P",,1651.0,False,IND,0.5,1,0.23,40,9.2
+429026610,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1631,1475,1.5,3,0.62,40,24.8,"Sai, Karthick S",,1641.0,False,IND,0.0,1,-0.28,40,-11.2
+429026610,2025-02-01,0,2024 SACA December Classical,Adelaide AUS,2024-12-29,2024-12-30,1770,1500,1.0,3,0.46,40,18.4,"Prenter, David",,1881.0,False,AUS,0.5,1,0.41,40,16.4
+429026610,2025-02-01,0,2024 SACA December Classical,Adelaide AUS,2024-12-29,2024-12-30,1770,1500,1.0,3,0.46,40,18.4,"Dash, Shourya",,1671.0,False,IND,0.5,1,0.23,40,9.2
+429026610,2025-02-01,0,2024 SACA December Classical,Adelaide AUS,2024-12-29,2024-12-30,1770,1500,1.0,3,0.46,40,18.4,"Pattison, Hamish",,1759.0,False,AUS,0.0,1,-0.18,40,-7.2
+429026610,2025-02-01,0,2025 SACA January Classical,Adelaide AUS,2025-01-25,2025-01-26,1595,1500,1.5,3,0.38,40,15.2,"Rowberry, Jacob",,1638.0,False,AUS,0.0,1,-0.31,40,-12.4
+429026610,2025-02-01,0,2025 SACA January Classical,Adelaide AUS,2025-01-25,2025-01-26,1595,1500,1.5,3,0.38,40,15.2,"Cirami, Oliver",,1439.0,False,AUS,1.0,1,0.42,40,16.8
+429026610,2025-02-01,0,2025 SACA January Classical,Adelaide AUS,2025-01-25,2025-01-26,1595,1500,1.5,3,0.38,40,15.2,"Retnaraja, Athena-Malar",,1709.0,False,AUS,0.5,1,0.27,40,10.8

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33435871,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1771,1794,5.0,11,-0.98,40,-39.2,"Swapnil, S. Dhopade",g,2194,True,IND,0.0,1,-0.08,40,-3.2
+33435871,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1771,1794,5.0,11,-0.98,40,-39.2,"Arjun, Singh",,1621,False,IND,0.0,1,-0.73,40,-29.2
+33435871,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1771,1794,5.0,11,-0.98,40,-39.2,"Sheikh, Jahan",,1613,False,IND,1.0,1,0.26,40,10.4
+33435871,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1771,1794,5.0,11,-0.98,40,-39.2,"Jayant, Chauhan",,1664,False,IND,0.0,1,-0.68,40,-27.2
+33435871,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1771,1794,5.0,11,-0.98,40,-39.2,"Krishnan, Kundan",,1568,False,IND,1.0,1,0.21,40,8.4
+33435871,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1771,1794,5.0,11,-0.98,40,-39.2,"Kavyansh, Agrawal",,1764,False,IND,0.0,1,-0.54,40,-21.6
+33435871,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1771,1794,5.0,11,-0.98,40,-39.2,"Khillo, Purna",,1637,False,IND,1.0,1,0.29,40,11.6
+33435871,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1771,1794,5.0,11,-0.98,40,-39.2,"Dutta, Umashankar",,1714,False,IND,1.0,1,0.39,40,15.6
+33435871,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1771,1794,5.0,11,-0.98,40,-39.2,"Peter Anand, A",,1996,False,IND,0.5,1,0.26,40,10.4
+33435871,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1771,1794,5.0,11,-0.98,40,-39.2,"Jagreet, Misra",,2026,False,IND,0.0,1,-0.21,40,-8.4
+33435871,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1771,1794,5.0,11,-0.98,40,-39.2,"Amartya, Saumitra Gupta",,1685,False,IND,0.5,1,-0.15,40,-6.0

@@ -1,0 +1,50 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88171736,2024-08-01,0,Aditya Birla Memorial 23rd Jharkhand State FIDE Rating Chess Championship - 2024,Ranchi IND,2024-07-20,2024-07-23,1606,1592,1.5,4,-0.44,40,-17.6,"Arnav, Baibhaw",,1476.0,False,IND,0.0,1,-0.66,40,-26.4
+88171736,2024-08-01,0,Aditya Birla Memorial 23rd Jharkhand State FIDE Rating Chess Championship - 2024,Ranchi IND,2024-07-20,2024-07-23,1606,1592,1.5,4,-0.44,40,-17.6,"Rajdeep, Pramanik",,1493.0,False,IND,1.0,1,0.36,40,14.4
+88171736,2024-08-01,0,Aditya Birla Memorial 23rd Jharkhand State FIDE Rating Chess Championship - 2024,Ranchi IND,2024-07-20,2024-07-23,1606,1592,1.5,4,-0.44,40,-17.6,"Ansh, Kumar",,1676.0,False,IND,0.5,1,0.12,40,4.8
+88171736,2024-08-01,0,Aditya Birla Memorial 23rd Jharkhand State FIDE Rating Chess Championship - 2024,Ranchi IND,2024-07-20,2024-07-23,1606,1592,1.5,4,-0.44,40,-17.6,"Manish, Sharma",,1780.0,False,IND,0.0,1,-0.26,40,-10.4
+88171736,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1682,1574,4.5,10,0.87,40,34.8,"Aarav, Saish Amonkar",,1885.0,False,IND,0.0,1,-0.14,40,-5.6
+88171736,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1682,1574,4.5,10,0.87,40,34.8,"Chehal, Nikhil",,1767.0,False,IND,0.0,1,-0.25,40,-10.0
+88171736,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1682,1574,4.5,10,0.87,40,34.8,"Sambhav, Setiya",,1691.0,False,IND,0.0,1,-0.34,40,-13.6
+88171736,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1682,1574,4.5,10,0.87,40,34.8,Moksh,,1407.0,False,IND,1.0,1,0.28,40,11.2
+88171736,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1682,1574,4.5,10,0.87,40,34.8,"Sourabh, Kochar",,1515.0,False,IND,1.0,1,0.42,40,16.8
+88171736,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1682,1574,4.5,10,0.87,40,34.8,"Asim, Billah Wali",,1743.0,False,IND,0.5,1,0.22,40,8.8
+88171736,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1682,1574,4.5,10,0.87,40,34.8,"Shubh, Singh Saini",,1702.0,False,IND,0.5,1,0.17,40,6.8
+88171736,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1682,1574,4.5,10,0.87,40,34.8,"Talin, Nimpu",,1710.0,False,IND,0.0,1,-0.32,40,-12.8
+88171736,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1682,1574,4.5,10,0.87,40,34.8,"Mudaliar, Nandini",,1687.0,False,IND,1.0,1,0.65,40,26.0
+88171736,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1682,1574,4.5,10,0.87,40,34.8,"Vishwam, Anand",,1710.0,False,IND,0.5,1,0.18,40,7.2
+88171736,2024-10-01,0,23rd Jharkhand State Junior FIDE Rating Chess Championship - 2024,Ranchi IND,2024-08-30,2024-09-01,1565,1574,2.5,5,-0.07,40,-2.8,"Ansh, Kumar",,1689.0,False,IND,0.0,1,-0.34,40,-13.6
+88171736,2024-10-01,0,23rd Jharkhand State Junior FIDE Rating Chess Championship - 2024,Ranchi IND,2024-08-30,2024-09-01,1565,1574,2.5,5,-0.07,40,-2.8,"Shubh, Anubhav Kujur",,1460.0,False,IND,1.0,1,0.34,40,13.6
+88171736,2024-10-01,0,23rd Jharkhand State Junior FIDE Rating Chess Championship - 2024,Ranchi IND,2024-08-30,2024-09-01,1565,1574,2.5,5,-0.07,40,-2.8,"Arijit, Ghosh",,1601.0,False,IND,0.0,1,-0.46,40,-18.4
+88171736,2024-10-01,0,23rd Jharkhand State Junior FIDE Rating Chess Championship - 2024,Ranchi IND,2024-08-30,2024-09-01,1565,1574,2.5,5,-0.07,40,-2.8,"Harshvi, Matalia",,1474.0,False,IND,1.0,1,0.36,40,14.4
+88171736,2024-10-01,0,23rd Jharkhand State Junior FIDE Rating Chess Championship - 2024,Ranchi IND,2024-08-30,2024-09-01,1565,1574,2.5,5,-0.07,40,-2.8,"Aniket, Verma",,1599.0,False,IND,0.5,1,0.03,40,1.2
+88171736,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1595,1606,5.0,8,0.87,40,34.8,"Prashanto, Kumar Roy",,1405.0,False,IND,1.0,1,0.24,40,9.6
+88171736,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1595,1606,5.0,8,0.87,40,34.8,"Rupesh, B Ramchandra",,1839.0,False,IND,0.0,1,-0.21,40,-8.4
+88171736,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1595,1606,5.0,8,0.87,40,34.8,"Ishan, Mukherjee",,1434.0,False,IND,1.0,1,0.27,40,10.8
+88171736,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1595,1606,5.0,8,0.87,40,34.8,"Raihan, Nehal Sk.",,1459.0,False,IND,1.0,1,0.3,40,12.0
+88171736,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1595,1606,5.0,8,0.87,40,34.8,"Pallab, Bala",,1709.0,False,IND,0.0,1,-0.36,40,-14.4
+88171736,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1595,1606,5.0,8,0.87,40,34.8,Riturajtewari,,1462.0,False,IND,1.0,1,0.31,40,12.4
+88171736,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1595,1606,5.0,8,0.87,40,34.8,"Arijit, Ghosh",,1658.0,False,IND,1.0,1,0.57,40,22.8
+88171736,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1595,1606,5.0,8,0.87,40,34.8,"Md, Tabsheer Alam",,1796.0,False,IND,0.0,1,-0.25,40,-10.0
+88171736,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1611,1641,1.5,3,-0.12,40,-4.8,"Agastya, Mittal",,1451.0,False,IND,0.5,1,-0.25,40,-10.0
+88171736,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1611,1641,1.5,3,-0.12,40,-4.8,"Tanmay, Kashyap",,1649.0,False,IND,1.0,1,0.51,40,20.4
+88171736,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1611,1641,1.5,3,-0.12,40,-4.8,"Aniket, Ranjan",,1732.0,False,IND,0.0,1,-0.38,40,-15.2
+88171736,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1460,1636,5.5,7,0.39,40,15.6,"Yuvan, Saini",,1429.0,False,IND,0.5,1,-0.27,40,-10.8
+88171736,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1460,1636,5.5,7,0.39,40,15.6,Hitansh,,1441.0,False,IND,0.5,1,-0.25,40,-10.0
+88171736,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1460,1636,5.5,7,0.39,40,15.6,"Vivaan, Agarwal",,1416.0,False,IND,1.0,1,0.22,40,8.8
+88171736,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1460,1636,5.5,7,0.39,40,15.6,"Rudra, Shakti Madan",,1459.0,False,IND,0.5,1,-0.23,40,-9.2
+88171736,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1460,1636,5.5,7,0.39,40,15.6,"Aaditya, Pajni",,1477.0,False,IND,1.0,1,0.29,40,11.6
+88171736,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1460,1636,5.5,7,0.39,40,15.6,"Arnav, Singh",,1478.0,False,IND,1.0,1,0.29,40,11.6
+88171736,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1460,1636,5.5,7,0.39,40,15.6,"Vihaan, Bagga",,1518.0,False,IND,1.0,1,0.34,40,13.6
+88171736,2025-02-01,0,Jharkhand Secondary School Level FIDE Rating Chess Tournament 2025,Hazaribag IND,2025-01-16,2025-01-19,1468,1636,3.0,5,-0.61,40,-24.4,"Rudra, Nil Roy",,1465.0,False,IND,0.5,1,-0.23,40,-9.2
+88171736,2025-02-01,0,Jharkhand Secondary School Level FIDE Rating Chess Tournament 2025,Hazaribag IND,2025-01-16,2025-01-19,1468,1636,3.0,5,-0.61,40,-24.4,"Shubh, Anubhav Kujur",,1468.0,False,IND,0.5,1,-0.22,40,-8.8
+88171736,2025-02-01,0,Jharkhand Secondary School Level FIDE Rating Chess Tournament 2025,Hazaribag IND,2025-01-16,2025-01-19,1468,1636,3.0,5,-0.61,40,-24.4,"Ujan, Mandal",,1428.0,False,IND,1.0,1,0.23,40,9.2
+88171736,2025-02-01,0,Jharkhand Secondary School Level FIDE Rating Chess Tournament 2025,Hazaribag IND,2025-01-16,2025-01-19,1468,1636,3.0,5,-0.61,40,-24.4,Riturajtewari,,1476.0,False,IND,0.5,1,-0.21,40,-8.4
+88171736,2025-02-01,0,Jharkhand Secondary School Level FIDE Rating Chess Tournament 2025,Hazaribag IND,2025-01-16,2025-01-19,1468,1636,3.0,5,-0.61,40,-24.4,"Jayvardhan, Das",,1501.0,False,IND,0.5,1,-0.18,40,-7.2
+88171736,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1511,1627,5.0,7,0.41,40,16.4,"Cheetransh, Malhotra",,1516.0,False,IND,1.0,1,0.35,40,14.0
+88171736,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1511,1627,5.0,7,0.41,40,16.4,"Yatharth, Nathani",,1551.0,False,IND,1.0,1,0.4,40,16.0
+88171736,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1511,1627,5.0,7,0.41,40,16.4,"Bibek, Rai",,1482.0,False,IND,0.0,1,-0.69,40,-27.6
+88171736,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1511,1627,5.0,7,0.41,40,16.4,"Avinash, Kumar Yadav",,1542.0,False,IND,1.0,1,0.38,40,15.2
+88171736,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1511,1627,5.0,7,0.41,40,16.4,"Shashank, Seshan",,1486.0,False,IND,0.0,1,-0.69,40,-27.6
+88171736,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1511,1627,5.0,7,0.41,40,16.4,"Devansh, Khandelwal",,1526.0,False,IND,1.0,1,0.36,40,14.4
+88171736,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1511,1627,5.0,7,0.41,40,16.4,"Advik, Kumar",,1474.0,False,IND,1.0,1,0.3,40,12.0

@@ -1,0 +1,24 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33429260,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1596,1672,5.0,8,0.15,30,4.5,"Akshat, K",,1498.0,False,IND,1.0,1,0.27,30,8.1
+33429260,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1596,1672,5.0,8,0.15,30,4.5,"Sham, R",,1953.0,False,IND,0.0,1,-0.16,30,-4.8
+33429260,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1596,1672,5.0,8,0.15,30,4.5,"Tinu, S",,1530.0,False,IND,0.5,1,-0.19,30,-5.7
+33429260,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1596,1672,5.0,8,0.15,30,4.5,"Pavan, Kalyan",,1498.0,False,IND,1.0,1,0.27,30,8.1
+33429260,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1596,1672,5.0,8,0.15,30,4.5,"Yug, Tarun Khiani",,1577.0,False,IND,0.5,1,-0.13,30,-3.9
+33429260,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1596,1672,5.0,8,0.15,30,4.5,"Dhairyakumar, Mistry",,1571.0,False,IND,1.0,1,0.36,30,10.8
+33429260,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1596,1672,5.0,8,0.15,30,4.5,"Adwait, Soman",,1560.0,False,IND,0.0,1,-0.65,30,-19.5
+33429260,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1596,1672,5.0,8,0.15,30,4.5,"Chandra, Prasad V",,1582.0,False,IND,1.0,1,0.38,30,11.4
+33429260,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1567,1672,5.0,8,-0.11,30,-3.3,"Arun, S",,1481.0,False,IND,1.0,1,0.25,30,7.5
+33429260,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1567,1672,5.0,8,-0.11,30,-3.3,"Antony, Simethy",,1535.0,False,IND,1.0,1,0.32,30,9.6
+33429260,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1567,1672,5.0,8,-0.11,30,-3.3,"Harikrishna, C",,1571.0,False,IND,1.0,1,0.36,30,10.8
+33429260,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1567,1672,5.0,8,-0.11,30,-3.3,"Mridav, M",,1751.0,False,IND,0.0,1,-0.39,30,-11.7
+33429260,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1567,1672,5.0,8,-0.11,30,-3.3,"Johan, Sunil",,1557.0,False,IND,1.0,1,0.34,30,10.2
+33429260,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1567,1672,5.0,8,-0.11,30,-3.3,"Amresh, S Kumar",,1519.0,False,IND,0.0,1,-0.7,30,-21.0
+33429260,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1567,1672,5.0,8,-0.11,30,-3.3,"Ishaan, K Sibin",,1543.0,False,IND,1.0,1,0.33,30,9.9
+33429260,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1567,1672,5.0,8,-0.11,30,-3.3,"Jowett, Jibin",,1582.0,False,IND,0.0,1,-0.62,30,-18.6
+33429260,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1738,1672,4.5,7,1.59,30,47.7,"Senthil, Aditya",,1479.0,False,IND,1.0,1,0.25,30,7.5
+33429260,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1738,1672,4.5,7,1.59,30,47.7,"Varchas, Krishna Jayaraman",,1473.0,False,IND,1.0,1,0.24,30,7.2
+33429260,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1738,1672,4.5,7,1.59,30,47.7,"Vijay, Shreeram P",,1914.0,False,IND,0.5,1,0.3,30,9.0
+33429260,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1738,1672,4.5,7,1.59,30,47.7,"Sridhar, C S",,1783.0,False,IND,1.0,1,0.65,30,19.5
+33429260,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1738,1672,4.5,7,1.59,30,47.7,"Jackson, V X",,1815.0,False,IND,1.0,1,0.69,30,20.7
+33429260,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1738,1672,4.5,7,1.59,30,47.7,"Ayushh, Ravikumar",f,1933.0,False,IND,0.0,1,-0.18,30,-5.4
+33429260,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1738,1672,4.5,7,1.59,30,47.7,"Gokulraam, Sankar",,1771.0,False,IND,0.0,1,-0.36,30,-10.8

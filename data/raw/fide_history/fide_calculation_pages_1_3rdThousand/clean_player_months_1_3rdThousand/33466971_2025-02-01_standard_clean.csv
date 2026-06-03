@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33466971,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1492,1620,6.5,10,-0.22,40,-8.8,"Saketh, Jijesh",,1461.0,False,IND,1.0,1,0.29,40,11.6
+33466971,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1492,1620,6.5,10,-0.22,40,-8.8,"Samadarshi, Das",,1483.0,False,IND,0.5,1,-0.18,40,-7.2
+33466971,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1492,1620,6.5,10,-0.22,40,-8.8,"Bhavyam, Jhawar",,1485.0,False,IND,0.5,1,-0.18,40,-7.2
+33466971,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1492,1620,6.5,10,-0.22,40,-8.8,"Imadabattini, Joel",,1481.0,False,IND,0.5,1,-0.19,40,-7.6
+33466971,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1492,1620,6.5,10,-0.22,40,-8.8,"Harshith, Ram B",,1529.0,False,IND,1.0,1,0.38,40,15.2
+33466971,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1492,1620,6.5,10,-0.22,40,-8.8,"Eishaanav, Chakraborty",,1512.0,False,IND,0.0,1,-0.65,40,-26.0
+33466971,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1492,1620,6.5,10,-0.22,40,-8.8,"Siddharth, Chodisetti",,1409.0,False,IND,1.0,1,0.23,40,9.2
+33466971,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1492,1620,6.5,10,-0.22,40,-8.8,"Gawas, Rishit",,1520.0,False,IND,0.5,1,-0.14,40,-5.6
+33466971,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1492,1620,6.5,10,-0.22,40,-8.8,"Yuvraj, Vaishnav",,1513.0,False,IND,1.0,1,0.35,40,14.0
+33466971,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1492,1620,6.5,10,-0.22,40,-8.8,"Reddy, Heyan",,1523.0,False,IND,0.5,1,-0.13,40,-5.2

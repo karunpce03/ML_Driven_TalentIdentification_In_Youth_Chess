@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25741128,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,1591,1731,5.5,8,0.07,36,2.52,"Rudra, Pratap Mishra",,1404.0,False,IND,1.0,1,0.13,36,4.68
+25741128,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,1591,1731,5.5,8,0.07,36,2.52,"Jayalakshmi, Sahoo",,1551.0,False,IND,1.0,1,0.26,36,9.36
+25741128,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,1591,1731,5.5,8,0.07,36,2.52,"Sai, Shakti Panda",,1538.0,False,IND,0.5,1,-0.25,36,-9.0
+25741128,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,1591,1731,5.5,8,0.07,36,2.52,"Sahoo, Stitaprangya",,1689.0,False,IND,0.0,1,-0.56,36,-20.16
+25741128,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,1591,1731,5.5,8,0.07,36,2.52,"Khan, Almas",,1587.0,False,IND,1.0,1,0.31,36,11.16
+25741128,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,1591,1731,5.5,8,0.07,36,2.52,"Bihari, P.k.",,1687.0,False,IND,0.0,1,-0.56,36,-20.16
+25741128,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,1591,1731,5.5,8,0.07,36,2.52,"Sattwik, Swain",,1567.0,False,IND,1.0,1,0.28,36,10.08
+25741128,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,1591,1731,5.5,8,0.07,36,2.52,"Gobardhan, Behera",,1704.0,False,IND,1.0,1,0.46,36,16.56
+25741128,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,1770,5.0,11,-0.07,36,-2.52,"Vignesh, Advaith Vemula",,2170.0,True,IND,0.5,1,0.42,36,15.12
+25741128,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,1770,5.0,11,-0.07,36,-2.52,"Koustuv, Dash",,2124.0,False,IND,0.5,1,0.39,36,14.04
+25741128,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,1770,5.0,11,-0.07,36,-2.52,"Vihaan, Karthikeya N",,1977.0,False,IND,1.0,1,0.77,36,27.72
+25741128,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,1770,5.0,11,-0.07,36,-2.52,"Saisarvesh, S",,1937.0,False,IND,0.0,1,-0.28,36,-10.08
+25741128,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,1770,5.0,11,-0.07,36,-2.52,"Peter Anand, A",,1996.0,False,IND,0.0,1,-0.21,36,-7.56
+25741128,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,1770,5.0,11,-0.07,36,-2.52,"Armaan, Singh Bakshi",,1610.0,False,IND,0.0,1,-0.71,36,-25.56
+25741128,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,1770,5.0,11,-0.07,36,-2.52,"Krishnan, Kundan",,1568.0,False,IND,1.0,1,0.24,36,8.64
+25741128,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,1770,5.0,11,-0.07,36,-2.52,"Jayant, Chauhan",,1664.0,False,IND,0.0,1,-0.64,36,-23.04
+25741128,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,1770,5.0,11,-0.07,36,-2.52,"Ekam, Singh",,1667.0,False,IND,0.0,1,-0.64,36,-23.04
+25741128,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,1770,5.0,11,-0.07,36,-2.52,"Poorvi, Rajpoot",,1581.0,False,IND,1.0,1,0.25,36,9.0
+25741128,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1813,1770,5.0,11,-0.07,36,-2.52,"Sunetra, Dey",,1652.0,False,IND,1.0,1,0.34,36,12.24

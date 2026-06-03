@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48713155,2025-02-01,0,1st Bihupuria Narayanpur International Chess Tournament 2025,Narayanpur IND,2025-01-16,2025-01-20,1777,1516,1.5,5,0.54,40,21.6,"Gurung, Rahul",,1916,True,IND,1.0,1,0.92,40,36.8
+48713155,2025-02-01,0,1st Bihupuria Narayanpur International Chess Tournament 2025,Narayanpur IND,2025-01-16,2025-01-20,1777,1516,1.5,5,0.54,40,21.6,"Rituraj, Tamuli",,1817,False,IND,0.5,1,0.35,40,14.0
+48713155,2025-02-01,0,1st Bihupuria Narayanpur International Chess Tournament 2025,Narayanpur IND,2025-01-16,2025-01-20,1777,1516,1.5,5,0.54,40,21.6,"Elangbam, Shashikanta Singh",,1761,False,IND,0.0,1,-0.2,40,-8.0
+48713155,2025-02-01,0,1st Bihupuria Narayanpur International Chess Tournament 2025,Narayanpur IND,2025-01-16,2025-01-20,1777,1516,1.5,5,0.54,40,21.6,"Anurag, Pritam Medhi",,1704,False,IND,0.0,1,-0.26,40,-10.4
+48713155,2025-02-01,0,1st Bihupuria Narayanpur International Chess Tournament 2025,Narayanpur IND,2025-01-16,2025-01-20,1777,1516,1.5,5,0.54,40,21.6,"Talin, Nimpu",,1687,False,IND,0.0,1,-0.27,40,-10.8

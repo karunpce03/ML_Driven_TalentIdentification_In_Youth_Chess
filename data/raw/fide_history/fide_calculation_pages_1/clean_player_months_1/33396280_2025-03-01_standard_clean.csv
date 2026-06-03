@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33396280,2025-03-01,0,2025 February Marshall Monthly FIDE - U2400,"New York, NY USA",2025-02-21,2025-02-23,1684,1573,1.0,3,-0.06,40,-2.4,"Pang, Owen J",,1641.0,False,USA,0.0,1,-0.41,40,-16.4
+33396280,2025-03-01,0,2025 February Marshall Monthly FIDE - U2400,"New York, NY USA",2025-02-21,2025-02-23,1684,1573,1.0,3,-0.06,40,-2.4,"Nguyen, Sarah",,1725.0,False,USA,0.5,1,0.2,40,8.0
+33396280,2025-03-01,0,2025 February Marshall Monthly FIDE - U2400,"New York, NY USA",2025-02-21,2025-02-23,1684,1573,1.0,3,-0.06,40,-2.4,"Yu, Allyson",,1686.0,False,USA,0.5,1,0.15,40,6.0

@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88121860,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1730,1521,1.0,4,0.06,40,2.4,"Alka, Das",,1810.0,False,IND,0.0,1,-0.16,40,-6.4
+88121860,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1730,1521,1.0,4,0.06,40,2.4,"Gaurav, Nishad",,1686.0,False,IND,0.0,1,-0.28,40,-11.2
+88121860,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1730,1521,1.0,4,0.06,40,2.4,"Vivek, Kaushal",,1705.0,False,IND,1.0,1,0.74,40,29.6
+88121860,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1730,1521,1.0,4,0.06,40,2.4,"Ojas, Joshi",,1720.0,False,IND,0.0,1,-0.24,40,-9.6

@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25683012,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2030,2290,5.0,8,-1.32,20,-26.4,"Can, Emre",g,2559,False,TUR,0.0,1,-0.17,20,-3.4
+25683012,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2030,2290,5.0,8,-1.32,20,-26.4,"Doan, Thi Hong Nhung",,1944,False,VIE,0.5,1,-0.39,20,-7.8
+25683012,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2030,2290,5.0,8,-1.32,20,-26.4,"Poberezovsky, Daniel",,1959,False,AUS,1.0,1,0.12,20,2.4
+25683012,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2030,2290,5.0,8,-1.32,20,-26.4,"Liu, William Rui",,1890,True,NZL,0.5,1,-0.42,20,-8.4
+25683012,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2030,2290,5.0,8,-1.32,20,-26.4,"Deboushnik, De",,1927,False,IND,1.0,1,0.1,20,2.0
+25683012,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2030,2290,5.0,8,-1.32,20,-26.4,"Gowrishankar, Jayaraj",,1938,False,IND,0.5,1,-0.39,20,-7.8
+25683012,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2030,2290,5.0,8,-1.32,20,-26.4,"Xu, Ziyuan",,1955,False,CHN,0.5,1,-0.38,20,-7.6
+25683012,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2030,2290,5.0,8,-1.32,20,-26.4,"Felix, Raphael",c,2064,False,RSA,1.0,1,0.21,20,4.2

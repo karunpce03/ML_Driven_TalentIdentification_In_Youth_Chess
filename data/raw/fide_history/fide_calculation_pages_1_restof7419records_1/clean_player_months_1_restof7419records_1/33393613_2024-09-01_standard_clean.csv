@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33393613,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1852,1674,5.0,9,2.53,40,101.2,"German, Santiago",,1957.0,False,PHI,0.0,1,-0.16,40,-6.4
+33393613,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1852,1674,5.0,9,2.53,40,101.2,"Kaushika, Sridharan",,1671.0,False,IND,1.0,1,0.5,40,20.0
+33393613,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1852,1674,5.0,9,2.53,40,101.2,"Gharibyan, Mane",,1896.0,False,ARM,0.5,1,0.28,40,11.2
+33393613,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1852,1674,5.0,9,2.53,40,101.2,"Alrahily, Saud",,1863.0,False,KSA,1.0,1,0.75,40,30.0
+33393613,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1852,1674,5.0,9,2.53,40,101.2,"Soud, Jaber",,1962.0,False,UAE,0.0,1,-0.16,40,-6.4
+33393613,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1852,1674,5.0,9,2.53,40,101.2,"Vivaan, Rana",,1838.0,False,IND,0.5,1,0.22,40,8.8
+33393613,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1852,1674,5.0,9,2.53,40,101.2,"Shashish, Subbiah",,1836.0,False,IND,0.0,1,-0.29,40,-11.6
+33393613,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1852,1674,5.0,9,2.53,40,101.2,"Al Mansouri, Moza",wf,1768.0,False,UAE,1.0,1,0.63,40,25.2
+33393613,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1852,1674,5.0,9,2.53,40,101.2,"Nurahmad, Tabriz",,1875.0,False,AZE,1.0,1,0.76,40,30.4

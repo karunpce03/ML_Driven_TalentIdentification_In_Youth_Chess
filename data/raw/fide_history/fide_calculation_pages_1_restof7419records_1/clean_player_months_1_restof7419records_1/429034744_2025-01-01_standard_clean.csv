@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429034744,2025-01-01,0,2nd Kingdom of Chess International Below 1800 FIDE Rated Chess Tournament 2024,Udaipur IND,2024-12-21,2024-12-23,1650,1538,1.0,3,-0.04,40,-1.6,"Aashi, Upadhyay",,1647.0,False,IND,0.5,1,0.15,40,6.0
+429034744,2025-01-01,0,2nd Kingdom of Chess International Below 1800 FIDE Rated Chess Tournament 2024,Udaipur IND,2024-12-21,2024-12-23,1650,1538,1.0,3,-0.04,40,-1.6,"Vishwanath, Purohit",,1616.0,False,IND,0.0,1,-0.39,40,-15.6
+429034744,2025-01-01,0,2nd Kingdom of Chess International Below 1800 FIDE Rated Chess Tournament 2024,Udaipur IND,2024-12-21,2024-12-23,1650,1538,1.0,3,-0.04,40,-1.6,"Mandloi, Mukesh",,1688.0,False,IND,0.5,1,0.2,40,8.0

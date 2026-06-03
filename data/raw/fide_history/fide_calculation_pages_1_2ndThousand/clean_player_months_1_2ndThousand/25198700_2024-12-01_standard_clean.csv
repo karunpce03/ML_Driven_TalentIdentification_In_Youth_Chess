@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25198700,2024-12-01,0,Singapore National Age Group Chess Championships U10,Singapore SGP,2024-11-24,2024-11-28,1516,1517,0.5,2,-0.51,40,-20.4,"Christopher, George Oscar",,1584.0,False,SGP,0.5,1,0.09,40,3.6
+25198700,2024-12-01,0,Singapore National Age Group Chess Championships U10,Singapore SGP,2024-11-24,2024-11-28,1516,1517,0.5,2,-0.51,40,-20.4,"Raman, Kanav",,1448.0,False,SGP,0.0,1,-0.6,40,-24.0

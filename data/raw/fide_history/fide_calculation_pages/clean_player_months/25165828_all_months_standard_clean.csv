@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25165828,2025-01-01,0,49th Annual Eastern Open - U2200,"Arlington, VA USA",2024-12-26,2024-12-29,1739,1468,2.0,7,0.77,40,30.8,"Lin, Michael",,1770.0,False,USA,1.0,1,0.85,40,34.0
+25165828,2025-01-01,0,49th Annual Eastern Open - U2200,"Arlington, VA USA",2024-12-26,2024-12-29,1739,1468,2.0,7,0.77,40,30.8,"Danduprolu, Ridhi Varma",,1799.0,False,USA,0.0,1,-0.12,40,-4.8
+25165828,2025-01-01,0,49th Annual Eastern Open - U2200,"Arlington, VA USA",2024-12-26,2024-12-29,1739,1468,2.0,7,0.77,40,30.8,"Demirel, Esat Omer",,1753.0,False,USA,0.5,1,0.34,40,13.6
+25165828,2025-01-01,0,49th Annual Eastern Open - U2200,"Arlington, VA USA",2024-12-26,2024-12-29,1739,1468,2.0,7,0.77,40,30.8,"Baim, Emin",,1778.0,False,USA,0.5,1,0.36,40,14.4
+25165828,2025-01-01,0,49th Annual Eastern Open - U2200,"Arlington, VA USA",2024-12-26,2024-12-29,1739,1468,2.0,7,0.77,40,30.8,"Zhou, Alexander Zheng",,1683.0,False,USA,0.0,1,-0.23,40,-9.2
+25165828,2025-01-01,0,49th Annual Eastern Open - U2200,"Arlington, VA USA",2024-12-26,2024-12-29,1739,1468,2.0,7,0.77,40,30.8,"Egelhof, Thomas",,1666.0,False,USA,0.0,1,-0.24,40,-9.6
+25165828,2025-01-01,0,49th Annual Eastern Open - U2200,"Arlington, VA USA",2024-12-26,2024-12-29,1739,1468,2.0,7,0.77,40,30.8,"Prasanna, Pranav",,1723.0,False,USA,0.0,1,-0.19,40,-7.6
+25165828,2025-02-01,0,57th annual Liberty Bell Open - U2100,"Philadelphia, PA USA",2025-01-17,2025-01-20,1668,1499,0.0,1,-0.28,40,-11.2,"Keefe, Chris Patrick",,1668.0,False,USA,0.0,1,-0.28,40,-11.2

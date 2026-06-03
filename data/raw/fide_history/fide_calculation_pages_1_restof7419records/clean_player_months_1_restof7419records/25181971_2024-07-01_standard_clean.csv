@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25181971,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1959,1744,6.0,11,3.36,40,134.4,"Donghvani, Nia",,2070,False,GEO,1.0,1,0.87,40,34.8
+25181971,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1959,1744,6.0,11,3.36,40,134.4,"Tejaswini, G",wm,2059,False,IND,0.0,1,-0.14,40,-5.6
+25181971,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1959,1744,6.0,11,3.36,40,134.4,"Sherali, Pattnaik",,1955,False,IND,0.5,1,0.27,40,10.8
+25181971,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1959,1744,6.0,11,3.36,40,134.4,"Padmini, S",,1872,False,IND,1.0,1,0.67,40,26.8
+25181971,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1959,1744,6.0,11,3.36,40,134.4,"Kanyamarala, Trisha",wm,2144,True,IRL,0.0,1,-0.08,40,-3.2
+25181971,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1959,1744,6.0,11,3.36,40,134.4,"Nagyova, Daniela",,1958,False,CZE,1.0,1,0.77,40,30.8
+25181971,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1959,1744,6.0,11,3.36,40,134.4,"Kheerthi, Ganta",wf,1987,False,IND,0.5,1,0.3,40,12.0
+25181971,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1959,1744,6.0,11,3.36,40,134.4,"Marium, Fatima",,1905,False,IND,0.0,1,-0.29,40,-11.6
+25181971,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1959,1744,6.0,11,3.36,40,134.4,"Singgih, Diajeng Theresa",wm,1918,False,INA,0.0,1,-0.27,40,-10.8
+25181971,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1959,1744,6.0,11,3.36,40,134.4,"Shivamshika, G",,1846,False,IND,1.0,1,0.64,40,25.6
+25181971,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1959,1744,6.0,11,3.36,40,134.4,"Akshaya, Sathi",,1832,False,IND,1.0,1,0.62,40,24.8

@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33474249,2024-08-01,0,Brahmaputra Valley English Academy Assam FIDE Rating U-16 Open School Chess Selection Championship 2024,Kamrup IND,2024-06-28,2024-06-30,1560,1437,1.5,3,0.38,40,15.2,"Mrinmoy, Rajkhowa",,1837.0,True,IND,0.0,1,-0.08,40,-3.2
+33474249,2024-08-01,0,Brahmaputra Valley English Academy Assam FIDE Rating U-16 Open School Chess Selection Championship 2024,Kamrup IND,2024-06-28,2024-06-30,1560,1437,1.5,3,0.38,40,15.2,"Ritisha, Mayra Rajbongshi",,1415.0,False,IND,0.5,1,-0.03,40,-1.2
+33474249,2024-08-01,0,Brahmaputra Valley English Academy Assam FIDE Rating U-16 Open School Chess Selection Championship 2024,Kamrup IND,2024-06-28,2024-06-30,1560,1437,1.5,3,0.38,40,15.2,"Darshil, Das",,1427.0,False,IND,1.0,1,0.49,40,19.6
+33474249,2024-08-01,0,47th All Assam Men's Open Rating Tournament 2024,Nagaon IND,2024-07-16,2024-07-20,1707,1437,1.5,5,0.61,40,24.4,"Abinash, P Gogoi",,1708.0,False,IND,0.0,1,-0.17,40,-6.8
+33474249,2024-08-01,0,47th All Assam Men's Open Rating Tournament 2024,Nagaon IND,2024-07-16,2024-07-20,1707,1437,1.5,5,0.61,40,24.4,"Ballyr, Sinha",,1655.0,False,IND,1.0,1,0.78,40,31.2
+33474249,2024-08-01,0,47th All Assam Men's Open Rating Tournament 2024,Nagaon IND,2024-07-16,2024-07-20,1707,1437,1.5,5,0.61,40,24.4,"Nalinakhya, Kashyap",,1712.0,False,IND,0.0,1,-0.17,40,-6.8
+33474249,2024-08-01,0,47th All Assam Men's Open Rating Tournament 2024,Nagaon IND,2024-07-16,2024-07-20,1707,1437,1.5,5,0.61,40,24.4,"Bindipal, Doley",,1626.0,False,IND,0.5,1,0.25,40,10.0
+33474249,2024-08-01,0,47th All Assam Men's Open Rating Tournament 2024,Nagaon IND,2024-07-16,2024-07-20,1707,1437,1.5,5,0.61,40,24.4,"Protul, Gogoi",,1833.0,False,IND,0.0,1,-0.08,40,-3.2

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Johan, Jobsy",,1730,False,IND,1.0,1,0.15,40,6.0
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Tanna, Krish Alpeshbhai",,1846,False,IND,0.5,1,-0.23,40,-9.2
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Shourya, Paul",,1848,False,IND,1.0,1,0.27,40,10.8
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Ravi, Teja S.",m,2416,False,IND,0.5,1,0.41,40,16.4
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Sheikh, Idu",,1933,False,IND,1.0,1,0.37,40,14.8
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Lalit, Babu M R",g,2425,True,IND,0.0,1,-0.08,40,-3.2
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Arul, Anandh S P K",,1913,False,IND,0.0,1,-0.65,40,-26.0
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Sree, Shaunak Chanda",,1874,False,IND,1.0,1,0.3,40,12.0
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Yashvi, Jain",,1891,False,IND,1.0,1,0.32,40,12.8
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Sengupta, Deep",g,2425,True,IND,0.0,1,-0.08,40,-3.2
+46656391,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,2020,2025,7.0,11,1.13,40,45.2,"Dubey, Sanchay",,1917,False,IND,1.0,1,0.35,40,14.0

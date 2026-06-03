@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33419272,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1605,1765,8.0,11,0.31,35,10.85,"Prabhav, Atwal",,1427.0,False,IND,1.0,1,0.12,35,4.2
+33419272,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1605,1765,8.0,11,0.31,35,10.85,"Saransh, Goel",,1478.0,False,IND,1.0,1,0.16,35,5.6
+33419272,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1605,1765,8.0,11,0.31,35,10.85,"Adit, Nammilikkara",,1516.0,False,IND,1.0,1,0.19,35,6.65
+33419272,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1605,1765,8.0,11,0.31,35,10.85,"Vishprajesh, Anand",,1558.0,False,IND,0.0,1,-0.77,35,-26.95
+33419272,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1605,1765,8.0,11,0.31,35,10.85,"Balgude, Sarvadnya",,1497.0,False,IND,1.0,1,0.17,35,5.95
+33419272,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1605,1765,8.0,11,0.31,35,10.85,"Gawas, Rishit",,1520.0,False,IND,1.0,1,0.2,35,7.0
+33419272,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1605,1765,8.0,11,0.31,35,10.85,"Devansh, Keshri",,1595.0,False,IND,1.0,1,0.28,35,9.8
+33419272,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1605,1765,8.0,11,0.31,35,10.85,"Advik, Amit Agrawal",,2064.0,False,IND,0.5,1,0.35,35,12.25
+33419272,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1605,1765,8.0,11,0.31,35,10.85,"Dhyaan, Patel",,1567.0,False,IND,1.0,1,0.24,35,8.4
+33419272,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1605,1765,8.0,11,0.31,35,10.85,"Nidhish, Shyamal",,1848.0,False,IND,0.0,1,-0.39,35,-13.65
+33419272,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1605,1765,8.0,11,0.31,35,10.85,"Parv, H Hakani",,1580.0,False,IND,0.5,1,-0.24,35,-8.4
+33419272,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1690,1849,8.0,9,1.7,35,59.5,"Alduwaisan, Hamad",,1513.0,False,KUW,1.0,1,0.12,35,4.2
+33419272,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1690,1849,8.0,9,1.7,35,59.5,"Eidi, Eisa",,1615.0,False,KUW,1.0,1,0.21,35,7.35
+33419272,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1690,1849,8.0,9,1.7,35,59.5,"Khalid, Lodhi",,1679.0,False,PAK,1.0,1,0.28,35,9.8
+33419272,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1690,1849,8.0,9,1.7,35,59.5,"Bhavanya, Panchumarthi",,1668.0,False,IND,1.0,1,0.26,35,9.1
+33419272,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1690,1849,8.0,9,1.7,35,59.5,"Humaidan Mohamed, Alzaabi",,1850.0,False,UAE,0.5,1,0.0,35,0.0
+33419272,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1690,1849,8.0,9,1.7,35,59.5,"Ezhil, Aadhav Kaladharan",,1637.0,False,IND,0.5,1,-0.27,35,-9.45
+33419272,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1690,1849,8.0,9,1.7,35,59.5,"Shah, Meet",,1826.0,False,ENG,1.0,1,0.47,35,16.45
+33419272,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1690,1849,8.0,9,1.7,35,59.5,"Vedant, Yogesh Kale",,1740.0,False,IND,1.0,1,0.35,35,12.25
+33419272,2025-02-01,0,1st Kuwait International Chess Festival - Challengers Open Tournament 2025,Kuwait KUW,2025-01-05,2025-01-13,1690,1849,8.0,9,1.7,35,59.5,"Jai, Khalish S",,1685.0,False,IND,1.0,1,0.28,35,9.8

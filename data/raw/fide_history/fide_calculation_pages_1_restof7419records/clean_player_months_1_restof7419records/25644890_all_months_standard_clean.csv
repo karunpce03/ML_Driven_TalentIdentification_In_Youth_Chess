@@ -1,0 +1,26 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25644890,2024-05-01,0,Basel Easter Master Open 2024,Basel SUI,2024-03-28,2024-04-01,2299,2064,5.0,9,3.12,40,124.8,"Rohrer, Christophe",f,2327.0,False,SUI,0.5,1,0.32,40,12.8
+25644890,2024-05-01,0,Basel Easter Master Open 2024,Basel SUI,2024-03-28,2024-04-01,2299,2064,5.0,9,3.12,40,124.8,"Aguera Naredo, Javier",m,2335.0,False,ESP,0.5,1,0.33,40,13.2
+25644890,2024-05-01,0,Basel Easter Master Open 2024,Basel SUI,2024-03-28,2024-04-01,2299,2064,5.0,9,3.12,40,124.8,"Nemitz, Alfred",f,2238.0,False,GER,1.0,1,0.73,40,29.2
+25644890,2024-05-01,0,Basel Easter Master Open 2024,Basel SUI,2024-03-28,2024-04-01,2299,2064,5.0,9,3.12,40,124.8,"Karacsonyi, Gellert",m,2386.0,False,HUN,0.0,1,-0.13,40,-5.2
+25644890,2024-05-01,0,Basel Easter Master Open 2024,Basel SUI,2024-03-28,2024-04-01,2299,2064,5.0,9,3.12,40,124.8,"Ribiere, Damien",,2215.0,False,FRA,1.0,1,0.7,40,28.0
+25644890,2024-05-01,0,Basel Easter Master Open 2024,Basel SUI,2024-03-28,2024-04-01,2299,2064,5.0,9,3.12,40,124.8,"Bournel, Antoine",m,2332.0,False,FRA,0.5,1,0.33,40,13.2
+25644890,2024-05-01,0,Basel Easter Master Open 2024,Basel SUI,2024-03-28,2024-04-01,2299,2064,5.0,9,3.12,40,124.8,"Collin, Moritz Valentin",,2246.0,False,SUI,0.0,1,-0.26,40,-10.4
+25644890,2024-05-01,0,Basel Easter Master Open 2024,Basel SUI,2024-03-28,2024-04-01,2299,2064,5.0,9,3.12,40,124.8,"Sorbe, Stephane",f,2347.0,False,FRA,0.5,1,0.34,40,13.6
+25644890,2024-05-01,0,Basel Easter Master Open 2024,Basel SUI,2024-03-28,2024-04-01,2299,2064,5.0,9,3.12,40,124.8,"Loeffler, Markus",m,2267.0,False,GER,1.0,1,0.76,40,30.4
+25644890,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2227,2064,4.5,9,1.87,40,74.8,"Savitha, Shri B",wg,2363.0,False,IND,0.0,1,-0.15,40,-6.0
+25644890,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2227,2064,4.5,9,1.87,40,74.8,"Kurmangaliyeva, Liya",f,2230.0,False,KAZ,0.0,1,-0.28,40,-11.2
+25644890,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2227,2064,4.5,9,1.87,40,74.8,"Bartolozzi, Roberto",,1965.0,False,ITA,1.0,1,0.36,40,14.4
+25644890,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2227,2064,4.5,9,1.87,40,74.8,"Roesch, Mario",,2207.0,False,GER,1.0,1,0.69,40,27.6
+25644890,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2227,2064,4.5,9,1.87,40,74.8,"Yilmaz, Baver",c,2277.0,False,TUR,0.0,1,-0.23,40,-9.2
+25644890,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2227,2064,4.5,9,1.87,40,74.8,"Selbes, Tamer Tarik",f,2218.0,False,TUR,0.5,1,0.21,40,8.4
+25644890,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2227,2064,4.5,9,1.87,40,74.8,"Maldonado Gonzales, Stefano",,2218.0,False,ITA,1.0,1,0.71,40,28.4
+25644890,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2227,2064,4.5,9,1.87,40,74.8,"Kanyamarala, Trisha",wm,2285.0,False,IRL,0.5,1,0.28,40,11.2
+25644890,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2227,2064,4.5,9,1.87,40,74.8,"Fava, Lorenzo",,2281.0,False,ITA,0.5,1,0.28,40,11.2
+25644890,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2291,2189,3.5,7,0.93,40,37.2,"Shagbazyan, Taron",f,2402.0,False,UKR,0.5,1,0.27,40,10.8
+25644890,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2291,2189,3.5,7,0.93,40,37.2,"Shohat, Yotam",f,2409.0,False,ISR,0.0,1,-0.22,40,-8.8
+25644890,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2291,2189,3.5,7,0.93,40,37.2,"Liashkevich, Lizaveta",,2034.0,False,FID,1.0,1,0.29,40,11.6
+25644890,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2291,2189,3.5,7,0.93,40,37.2,"Dixit, Nikhil",f,2334.0,False,IND,0.5,1,0.19,40,7.6
+25644890,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2291,2189,3.5,7,0.93,40,37.2,"Weber, Samuel",f,2315.0,False,GER,0.0,1,-0.33,40,-13.2
+25644890,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2291,2189,3.5,7,0.93,40,37.2,"Jaiveer, Mahendru",f,2244.0,False,IND,1.0,1,0.58,40,23.2
+25644890,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2291,2189,3.5,7,0.93,40,37.2,"Krishnan, Ritvik",f,2296.0,False,IND,0.5,1,0.15,40,6.0

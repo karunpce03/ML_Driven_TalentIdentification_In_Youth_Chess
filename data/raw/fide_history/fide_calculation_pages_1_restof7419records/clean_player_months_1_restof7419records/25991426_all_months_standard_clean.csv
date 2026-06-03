@@ -1,0 +1,108 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25991426,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1632,1636,5.0,8,0.83,40,33.2,"Balkishan, A.",,2036.0,True,IND,0.0,1,-0.08,40,-3.2
+25991426,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1632,1636,5.0,8,0.83,40,33.2,"Ishaan, Bhowmick",,1473.0,False,IND,0.5,1,-0.22,40,-8.8
+25991426,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1632,1636,5.0,8,0.83,40,33.2,"Chittesh, Pandeeshwaran",,1504.0,False,IND,1.0,1,0.32,40,12.8
+25991426,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1632,1636,5.0,8,0.83,40,33.2,"Aadwik, Abhinav Krishna",,1456.0,False,IND,1.0,1,0.26,40,10.4
+25991426,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1632,1636,5.0,8,0.83,40,33.2,"Shashveen, A K",,1814.0,False,IND,0.0,1,-0.27,40,-10.8
+25991426,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1632,1636,5.0,8,0.83,40,33.2,"Nirav, Premchand",,1530.0,False,IND,1.0,1,0.36,40,14.4
+25991426,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1632,1636,5.0,8,0.83,40,33.2,"Tvesha, Ashish Jain",,1496.0,False,IND,1.0,1,0.31,40,12.4
+25991426,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1632,1636,5.0,8,0.83,40,33.2,"Lalitaditaayyanar, Boominathan",,1746.0,False,IND,0.5,1,0.15,40,6.0
+25991426,2024-06-01,0,4th Big Rook International Chess Festival - Open,Bangkok THA,2024-05-01,2024-05-06,1816,1669,3.5,9,0.53,38,20.14,"Salvador, Louie",,2069.0,True,PHI,0.0,1,-0.08,38,-3.04
+25991426,2024-06-01,0,4th Big Rook International Chess Festival - Open,Bangkok THA,2024-05-01,2024-05-06,1816,1669,3.5,9,0.53,38,20.14,"Romualdez, Davin Sean",,1812.0,False,PHI,0.0,1,-0.31,38,-11.78
+25991426,2024-06-01,0,4th Big Rook International Chess Festival - Open,Bangkok THA,2024-05-01,2024-05-06,1816,1669,3.5,9,0.53,38,20.14,"Tugstuguldur, Erdenebat",,1805.0,False,MGL,0.0,1,-0.32,38,-12.16
+25991426,2024-06-01,0,4th Big Rook International Chess Festival - Open,Bangkok THA,2024-05-01,2024-05-06,1816,1669,3.5,9,0.53,38,20.14,"Haresh, Venkata Narayanaswamy",,1822.0,False,SGP,1.0,1,0.7,38,26.6
+25991426,2024-06-01,0,4th Big Rook International Chess Festival - Open,Bangkok THA,2024-05-01,2024-05-06,1816,1669,3.5,9,0.53,38,20.14,"Chao, Tzu-Chi Angie",,1486.0,False,TPE,0.5,1,-0.24,38,-9.12
+25991426,2024-06-01,0,4th Big Rook International Chess Festival - Open,Bangkok THA,2024-05-01,2024-05-06,1816,1669,3.5,9,0.53,38,20.14,"Frost, Peter",,1785.0,False,AUS,1.0,1,0.66,38,25.08
+25991426,2024-06-01,0,4th Big Rook International Chess Festival - Open,Bangkok THA,2024-05-01,2024-05-06,1816,1669,3.5,9,0.53,38,20.14,"Dolas, Aarush",,1877.0,False,IND,0.5,1,0.27,38,10.26
+25991426,2024-06-01,0,4th Big Rook International Chess Festival - Open,Bangkok THA,2024-05-01,2024-05-06,1816,1669,3.5,9,0.53,38,20.14,"Cahaya, Satria Duta",f,2069.0,True,INA,0.0,1,-0.08,38,-3.04
+25991426,2024-06-01,0,4th Big Rook International Chess Festival - Open,Bangkok THA,2024-05-01,2024-05-06,1816,1669,3.5,9,0.53,38,20.14,"Huang, Aaron Yu-Hsi",,1617.0,False,TPE,0.5,1,-0.07,38,-2.66
+25991426,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1625,1669,5.0,9,-0.14,38,-5.32,"Spandan, Dnyaneshwar Shinde",,1421.0,False,IND,1.0,1,0.19,38,7.22
+25991426,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1625,1669,5.0,9,-0.14,38,-5.32,"Ghosh, Diptayan",g,2069.0,True,IND,0.0,1,-0.08,38,-3.04
+25991426,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1625,1669,5.0,9,-0.14,38,-5.32,"Nabhneel, Das",,1520.0,False,IND,1.0,1,0.3,38,11.4
+25991426,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1625,1669,5.0,9,-0.14,38,-5.32,"Heet, Baldawa",,1543.0,False,IND,0.5,1,-0.17,38,-6.46
+25991426,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1625,1669,5.0,9,-0.14,38,-5.32,"Kushagra, Pratap Singh",,1565.0,False,IND,1.0,1,0.36,38,13.68
+25991426,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1625,1669,5.0,9,-0.14,38,-5.32,"Anirudh, R",,1806.0,False,IND,0.0,1,-0.32,38,-12.16
+25991426,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1625,1669,5.0,9,-0.14,38,-5.32,"Kanoje, Alok",,1574.0,False,IND,0.5,1,-0.13,38,-4.94
+25991426,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1625,1669,5.0,9,-0.14,38,-5.32,"Rasesh, Srivastava",,1575.0,False,IND,0.5,1,-0.13,38,-4.94
+25991426,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1625,1669,5.0,9,-0.14,38,-5.32,"Yati, Agarwal",,1555.0,False,IND,0.5,1,-0.16,38,-6.08
+25991426,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1543,1684,3.5,8,-1.98,40,-79.2,"Adrush, Karmakar",,1434.0,False,IND,0.5,1,-0.31,40,-12.4
+25991426,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1543,1684,3.5,8,-1.98,40,-79.2,"Akhilesh, Ghose",,1444.0,False,IND,1.0,1,0.2,40,8.0
+25991426,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1543,1684,3.5,8,-1.98,40,-79.2,"Kumar, Gaurav",f,2058.0,False,IND,0.0,1,-0.1,40,-4.0
+25991426,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1543,1684,3.5,8,-1.98,40,-79.2,"Susmita, Bhowmick",,1543.0,False,IND,0.0,1,-0.69,40,-27.6
+25991426,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1543,1684,3.5,8,-1.98,40,-79.2,"Arpan, Bose",,1426.0,False,IND,0.0,1,-0.82,40,-32.8
+25991426,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1543,1684,3.5,8,-1.98,40,-79.2,"Manthan, Lahkar Master",,1406.0,False,IND,1.0,1,0.17,40,6.8
+25991426,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1543,1684,3.5,8,-1.98,40,-79.2,"Debabrata, Nath",,1479.0,False,IND,1.0,1,0.24,40,9.6
+25991426,2024-08-01,0,Guwahati Smart City International Open Fide Rating Chess Tournament,Guwahati IND,2024-07-02,2024-07-07,1543,1684,3.5,8,-1.98,40,-79.2,"Dishita, Dey",,1556.0,False,IND,0.0,1,-0.67,40,-26.8
+25991426,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1763,1684,4.5,9,0.89,40,35.6,"Amin-Erdene, Bayanmunkh",wf,2044.0,False,MGL,0.0,1,-0.1,40,-4.0
+25991426,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1763,1684,4.5,9,0.89,40,35.6,"Aramvareekul, Aten Parit",,1483.0,False,THA,1.0,1,0.24,40,9.6
+25991426,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1763,1684,4.5,9,0.89,40,35.6,"Ren, Yibai",,1850.0,False,CHN,0.5,1,0.22,40,8.8
+25991426,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1763,1684,4.5,9,0.89,40,35.6,"Sung, Tze Shyan Evin",,1757.0,False,SGP,0.0,1,-0.4,40,-16.0
+25991426,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1763,1684,4.5,9,0.89,40,35.6,"Cheishvili, Nani",,1821.0,False,FRA,0.5,1,0.18,40,7.2
+25991426,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1763,1684,4.5,9,0.89,40,35.6,"Chua, Siang-Zhe",,1476.0,False,MAS,1.0,1,0.23,40,9.2
+25991426,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1763,1684,4.5,9,0.89,40,35.6,"Kuipers, Miles Yongkang",,1789.0,False,USA,1.0,1,0.64,40,25.6
+25991426,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1763,1684,4.5,9,0.89,40,35.6,"Chen, Andrea",,1835.0,False,USA,0.5,1,0.2,40,8.0
+25991426,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1763,1684,4.5,9,0.89,40,35.6,"Mahir, Taneja",,1814.0,False,IND,0.0,1,-0.32,40,-12.8
+25991426,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 12 Girls,Kaluthara SRI,2024-08-28,2024-09-05,1650,1640,6.0,9,1.63,40,65.2,"Gunasinghe, Devhara Methsandi",,1446.0,False,SRI,1.0,1,0.25,40,10.0
+25991426,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 12 Girls,Kaluthara SRI,2024-08-28,2024-09-05,1650,1640,6.0,9,1.63,40,65.2,"Palliyage, Sethumlee Devhara",,1787.0,False,SRI,1.0,1,0.7,40,28.0
+25991426,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 12 Girls,Kaluthara SRI,2024-08-28,2024-09-05,1650,1640,6.0,9,1.63,40,65.2,"Hasansee, P Y S",,1411.0,False,SRI,0.5,1,-0.29,40,-11.6
+25991426,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 12 Girls,Kaluthara SRI,2024-08-28,2024-09-05,1650,1640,6.0,9,1.63,40,65.2,"Ameya, A R",,1726.0,False,IND,1.0,1,0.62,40,24.8
+25991426,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 12 Girls,Kaluthara SRI,2024-08-28,2024-09-05,1650,1640,6.0,9,1.63,40,65.2,"Hanya, Shah",,1751.0,False,IND,1.0,1,0.65,40,26.0
+25991426,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 12 Girls,Kaluthara SRI,2024-08-28,2024-09-05,1650,1640,6.0,9,1.63,40,65.2,"Pratitee, Bordoloi",wc,1900.0,False,IND,0.0,1,-0.18,40,-7.2
+25991426,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 12 Girls,Kaluthara SRI,2024-08-28,2024-09-05,1650,1640,6.0,9,1.63,40,65.2,"Kularathna, M Sanindee Niwetha",,1528.0,False,SRI,0.5,1,-0.15,40,-6.0
+25991426,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 12 Girls,Kaluthara SRI,2024-08-28,2024-09-05,1650,1640,6.0,9,1.63,40,65.2,"Akuratiya, A G Hansadie Aradhya",,1602.0,False,SRI,1.0,1,0.45,40,18.0
+25991426,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 12 Girls,Kaluthara SRI,2024-08-28,2024-09-05,1650,1640,6.0,9,1.63,40,65.2,"Siddhi, Rao",,1695.0,False,IND,0.0,1,-0.42,40,-16.8
+25991426,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1647,1705,7.0,10,1.25,40,50.0,"Nakshatra, Gumudavelly",,1447.0,False,IND,0.5,1,-0.32,40,-12.8
+25991426,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1647,1705,7.0,10,1.25,40,50.0,"Meha, Arin A",,1462.0,False,IND,1.0,1,0.2,40,8.0
+25991426,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1647,1705,7.0,10,1.25,40,50.0,"Sayee, Atreyi Mohapatra",,1519.0,False,IND,1.0,1,0.26,40,10.4
+25991426,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1647,1705,7.0,10,1.25,40,50.0,"Manya, Abhishek Drolia",,1571.0,False,IND,1.0,1,0.32,40,12.8
+25991426,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1647,1705,7.0,10,1.25,40,50.0,"Dishita, Dey",,1548.0,False,IND,0.5,1,-0.21,40,-8.4
+25991426,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1647,1705,7.0,10,1.25,40,50.0,"Bhavanya, Panchumarthi",,1543.0,False,IND,1.0,1,0.29,40,11.6
+25991426,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1647,1705,7.0,10,1.25,40,50.0,"Arpita, Patankar",,1681.0,False,IND,0.5,1,-0.03,40,-1.2
+25991426,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1647,1705,7.0,10,1.25,40,50.0,"Pavithra, R V",,1915.0,False,IND,1.0,1,0.77,40,30.8
+25991426,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1647,1705,7.0,10,1.25,40,50.0,"Pratitee, Bordoloi",wc,1948.0,False,IND,0.5,1,0.3,40,12.0
+25991426,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1647,1705,7.0,10,1.25,40,50.0,"Divi, Bijesh",,1831.0,False,IND,0.0,1,-0.33,40,-13.2
+25991426,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1738,1755,5.5,11,-0.26,40,-10.4,"Liang, Candice",,1551.0,False,USA,1.0,1,0.24,40,9.6
+25991426,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1738,1755,5.5,11,-0.26,40,-10.4,"Siddhi, Rao",,1678.0,False,IND,0.0,1,-0.61,40,-24.4
+25991426,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1738,1755,5.5,11,-0.26,40,-10.4,"Ordonez Alarcon, Daniela",,1606.0,False,MEX,1.0,1,0.3,40,12.0
+25991426,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1738,1755,5.5,11,-0.26,40,-10.4,"Stepankova, Linda",,1624.0,False,CZE,1.0,1,0.32,40,12.8
+25991426,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1738,1755,5.5,11,-0.26,40,-10.4,"Pavithra, R V",,1858.0,False,IND,0.0,1,-0.36,40,-14.4
+25991426,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1738,1755,5.5,11,-0.26,40,-10.4,"Huang, Lucia",,1621.0,False,USA,1.0,1,0.32,40,12.8
+25991426,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1738,1755,5.5,11,-0.26,40,-10.4,"Xu, Luna Yuexiu",wc,1819.0,False,NZL,1.0,1,0.59,40,23.6
+25991426,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1738,1755,5.5,11,-0.26,40,-10.4,"Illes-Nagy, Nora",,1802.0,False,HUN,0.0,1,-0.43,40,-17.2
+25991426,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1738,1755,5.5,11,-0.26,40,-10.4,"Siskou, Evangelia",wf,1884.0,False,GRE,0.5,1,0.17,40,6.8
+25991426,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1738,1755,5.5,11,-0.26,40,-10.4,"Qiu, Laurie",wf,1993.0,False,USA,0.0,1,-0.2,40,-8.0
+25991426,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U12 - Girls,Montesilvano ITA,2024-11-15,2024-11-26,1738,1755,5.5,11,-0.26,40,-10.4,"Sri, Darshini T",,1680.0,False,IND,0.0,1,-0.6,40,-24.0
+25991426,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2033,1755,3.0,8,1.62,38,61.56,"Tolonen, Mikko",,2096.0,False,FIN,0.5,1,0.38,38,14.44
+25991426,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2033,1755,3.0,8,1.62,38,61.56,"Arkell, Keith C",g,2155.0,True,ENG,0.0,1,-0.08,38,-3.04
+25991426,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2033,1755,3.0,8,1.62,38,61.56,"Tenfjord Engelsen, Teodor",,2044.0,False,NOR,0.0,1,-0.16,38,-6.08
+25991426,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2033,1755,3.0,8,1.62,38,61.56,"Holliman, Bob",,2000.0,False,USA,1.0,1,0.8,38,30.4
+25991426,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2033,1755,3.0,8,1.62,38,61.56,"Estevez Sacristan, Deva",c wc,1995.0,False,ESP,0.5,1,0.3,38,11.4
+25991426,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2033,1755,3.0,8,1.62,38,61.56,"Bech, Havard Eriksen",,2016.0,False,NOR,0.0,1,-0.18,38,-6.84
+25991426,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2033,1755,3.0,8,1.62,38,61.56,"Odriozola Coscolin, Dani",,1958.0,False,ESP,0.5,1,0.26,38,9.88
+25991426,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2033,1755,3.0,8,1.62,38,61.56,"Kandic, Milan",f,1996.0,False,SRB,0.5,1,0.3,38,11.4
+25991426,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2041,1745,4.0,10,2.48,38,94.24,"Duke, Michael",,2090.0,False,SCO,0.5,1,0.39,38,14.82
+25991426,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2041,1745,4.0,10,2.48,38,94.24,"Costache, Andrei Eugeniu",,2076.0,False,ROU,0.0,1,-0.12,38,-4.56
+25991426,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2041,1745,4.0,10,2.48,38,94.24,"Adarsh, D",,1987.0,False,IND,0.5,1,0.3,38,11.4
+25991426,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2041,1745,4.0,10,2.48,38,94.24,"Devecchi, Jorge",,1995.0,False,FRA,1.0,1,0.81,38,30.78
+25991426,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2041,1745,4.0,10,2.48,38,94.24,"Yonemitsu, Kohei",,2076.0,False,JPN,0.5,1,0.38,38,14.44
+25991426,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2041,1745,4.0,10,2.48,38,94.24,"Fellowes, Billy",,2091.0,False,ENG,0.5,1,0.39,38,14.82
+25991426,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2041,1745,4.0,10,2.48,38,94.24,"Fondrat, Johan",,2057.0,False,FRA,0.0,1,-0.14,38,-5.32
+25991426,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2041,1745,4.0,10,2.48,38,94.24,"Huseynova, Lala",wc,2021.0,False,AZE,0.0,1,-0.17,38,-6.46
+25991426,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2041,1745,4.0,10,2.48,38,94.24,"Legrand, Stephane",,2056.0,False,FRA,0.0,1,-0.14,38,-5.32
+25991426,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2041,1745,4.0,10,2.48,38,94.24,"McCallum, Elliot",,1962.0,False,CAN,1.0,1,0.78,38,29.64
+25991426,2025-03-01,0,1st Dede Erno Memorial,Hajduszoboszlo HUN,2025-02-06,2025-02-09,2140,1901,3.5,7,2.08,40,83.2,"Onodi, Miklos",,2080.0,False,HUN,1.0,1,0.73,40,29.2
+25991426,2025-03-01,0,1st Dede Erno Memorial,Hajduszoboszlo HUN,2025-02-06,2025-02-09,2140,1901,3.5,7,2.08,40,83.2,"Varga, Marcell",,2158.0,False,HUN,1.0,1,0.82,40,32.8
+25991426,2025-03-01,0,1st Dede Erno Memorial,Hajduszoboszlo HUN,2025-02-06,2025-02-09,2140,1901,3.5,7,2.08,40,83.2,"Sagi, Bence",,2231.0,False,HUN,0.0,1,-0.12,40,-4.8
+25991426,2025-03-01,0,1st Dede Erno Memorial,Hajduszoboszlo HUN,2025-02-06,2025-02-09,2140,1901,3.5,7,2.08,40,83.2,"Marta, Dominik",,2148.0,False,HUN,0.5,1,0.31,40,12.4
+25991426,2025-03-01,0,1st Dede Erno Memorial,Hajduszoboszlo HUN,2025-02-06,2025-02-09,2140,1901,3.5,7,2.08,40,83.2,"Kormos, Adam",,2118.0,False,HUN,0.0,1,-0.22,40,-8.8
+25991426,2025-03-01,0,1st Dede Erno Memorial,Hajduszoboszlo HUN,2025-02-06,2025-02-09,2140,1901,3.5,7,2.08,40,83.2,"Dobai, Szabolcs",,2129.0,False,HUN,1.0,1,0.79,40,31.6
+25991426,2025-03-01,0,1st Dede Erno Memorial,Hajduszoboszlo HUN,2025-02-06,2025-02-09,2140,1901,3.5,7,2.08,40,83.2,"Ilko-Toth, Andras",,2116.0,False,HUN,0.0,1,-0.23,40,-9.2
+25991426,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2062,1901,2.0,9,-0.72,40,-28.8,"Dhulipalla, Bala Chandra Prasad",m,2301.0,True,IND,0.0,1,-0.08,40,-3.2
+25991426,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2062,1901,2.0,9,-0.72,40,-28.8,"Mamikonyan, Artem T",,2087.0,False,FID,0.5,1,0.24,40,9.6
+25991426,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2062,1901,2.0,9,-0.72,40,-28.8,"Tabak, Stefan",f,2194.0,False,NED,0.0,1,-0.15,40,-6.0
+25991426,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2062,1901,2.0,9,-0.72,40,-28.8,"Kreutz, Jonas",,2022.0,False,GER,0.5,1,0.16,40,6.4
+25991426,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2062,1901,2.0,9,-0.72,40,-28.8,"Pintor, Simao",,2038.0,False,POR,0.0,1,-0.32,40,-12.8
+25991426,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2062,1901,2.0,9,-0.72,40,-28.8,"Bacquele, Fabrice",,2019.0,False,GER,0.0,1,-0.34,40,-13.6
+25991426,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2062,1901,2.0,9,-0.72,40,-28.8,"Yin, Milo",,1966.0,False,FRA,0.0,1,-0.41,40,-16.4
+25991426,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2062,1901,2.0,9,-0.72,40,-28.8,"Bajer, Tomasz",,1957.0,False,POL,1.0,1,0.58,40,23.2
+25991426,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2062,1901,2.0,9,-0.72,40,-28.8,"Segizbayev, Iskander",,1976.0,False,KAZ,0.0,1,-0.4,40,-16.0

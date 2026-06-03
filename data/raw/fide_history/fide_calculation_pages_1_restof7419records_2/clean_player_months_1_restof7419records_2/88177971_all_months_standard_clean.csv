@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88177971,2024-06-01,0,UP State U-11 Chess Championship-2024-25 (Open),Bijnor IND,2024-05-16,2024-05-18,,,0.5,3,0.0,1264,,"Atharva, Tyagi",,1485.0,False,IND,0.5,1,0.0,,0.0
+88177971,2024-06-01,0,UP State U-11 Chess Championship-2024-25 (Open),Bijnor IND,2024-05-16,2024-05-18,,,0.5,3,0.0,1264,,"Mohd, Ismail Siddiqui",,1618.0,False,IND,0.0,1,0.0,,0.0
+88177971,2024-06-01,0,UP State U-11 Chess Championship-2024-25 (Open),Bijnor IND,2024-05-16,2024-05-18,,,0.5,3,0.0,1264,,"Ojas, Rathi",,1507.0,False,IND,0.0,1,0.0,,0.0
+88177971,2024-07-01,0,UP State U-13 Chess Championship-2024-25 (Open),Bijnor IND,2024-06-07,2024-06-09,,,2.0,5,0.0,1524,,"Ayansh, Singh",,1691.0,False,IND,0.5,1,0.0,,0.0
+88177971,2024-07-01,0,UP State U-13 Chess Championship-2024-25 (Open),Bijnor IND,2024-06-07,2024-06-09,,,2.0,5,0.0,1524,,"Aryan, Kumar",,1634.0,False,IND,0.5,1,0.0,,0.0
+88177971,2024-07-01,0,UP State U-13 Chess Championship-2024-25 (Open),Bijnor IND,2024-06-07,2024-06-09,,,2.0,5,0.0,1524,,"Devansh, Rathore",,1591.0,False,IND,0.0,1,0.0,,0.0
+88177971,2024-07-01,0,UP State U-13 Chess Championship-2024-25 (Open),Bijnor IND,2024-06-07,2024-06-09,,,2.0,5,0.0,1524,,"Aarav, Agarwal",,1562.0,False,IND,1.0,1,0.0,,0.0
+88177971,2024-07-01,0,UP State U-13 Chess Championship-2024-25 (Open),Bijnor IND,2024-06-07,2024-06-09,,,2.0,5,0.0,1524,,"Rakshit, Shekhar Dwivedi",,1504.0,False,IND,0.0,1,0.0,,0.0
+88177971,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1791.0,1509.0,0.0,2,-0.33,40,-13.2,"Shrivastava, Kushagra",,1810.0,False,IND,0.0,1,-0.15,40.0,-6.0
+88177971,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,1791.0,1509.0,0.0,2,-0.33,40,-13.2,"Chaturvedi, Dewansh",,1772.0,False,IND,0.0,1,-0.18,40.0,-7.2

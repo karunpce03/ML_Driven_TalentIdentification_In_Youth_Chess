@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33473277,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1642,1527,1.0,4,-0.44,40,-17.6,"Vidit, Sethi",,1844.0,False,IND,0.0,1,-0.13,40,-5.2
+33473277,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1642,1527,1.0,4,-0.44,40,-17.6,"Samarth, Jain",,1670.0,False,IND,0.0,1,-0.31,40,-12.4
+33473277,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1642,1527,1.0,4,-0.44,40,-17.6,"Hrishit, Shukla",,1404.0,False,IND,1.0,1,0.33,40,13.2
+33473277,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1642,1527,1.0,4,-0.44,40,-17.6,"Abhibhav, Kumar",,1651.0,False,IND,0.0,1,-0.33,40,-13.2

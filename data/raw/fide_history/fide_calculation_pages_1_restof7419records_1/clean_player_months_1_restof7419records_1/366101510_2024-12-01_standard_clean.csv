@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366101510,2024-12-01,0,2024 CCC Grand Tour Leg 2 Future Masters Under 1500,"Calgary, Alberta CAN",2024-10-15,2024-11-12,1591,1476,1.0,1,0.66,40,26.4,"Karabanov, Youri",,1591.0,False,CAN,1.0,1,0.66,40,26.4
+366101510,2024-12-01,0,2024 Banff Open Over 1600,"Banff, Alberta CAN",2024-11-09,2024-11-11,1697,1603,1.5,5,-0.41,40,-16.4,"Yearwood, Roy",,1878.0,False,CAN,0.0,1,-0.17,40,-6.8
+366101510,2024-12-01,0,2024 Banff Open Over 1600,"Banff, Alberta CAN",2024-11-09,2024-11-11,1697,1603,1.5,5,-0.41,40,-16.4,"Dunn, Garth",,1664.0,False,CAN,0.5,1,0.08,40,3.2
+366101510,2024-12-01,0,2024 Banff Open Over 1600,"Banff, Alberta CAN",2024-11-09,2024-11-11,1697,1603,1.5,5,-0.41,40,-16.4,"Poncelet, Niklas",,1768.0,False,CAN,0.0,1,-0.28,40,-11.2
+366101510,2024-12-01,0,2024 Banff Open Over 1600,"Banff, Alberta CAN",2024-11-09,2024-11-11,1697,1603,1.5,5,-0.41,40,-16.4,"Li, Moses",,1515.0,False,CAN,0.0,1,-0.62,40,-24.8
+366101510,2024-12-01,0,2024 Banff Open Over 1600,"Banff, Alberta CAN",2024-11-09,2024-11-11,1697,1603,1.5,5,-0.41,40,-16.4,"Odetola, David",,1659.0,False,CAN,1.0,1,0.58,40,23.2
+366101510,2024-12-01,0,2024 Southern Alberta Open,"Calgary, Alberta CAN",2024-11-23,2024-11-24,1801,1603,2.0,4,0.85,40,34.0,"Chandra, Anand Rishi",,2003.0,True,CAN,0.0,1,-0.08,40,-3.2
+366101510,2024-12-01,0,2024 Southern Alberta Open,"Calgary, Alberta CAN",2024-11-23,2024-11-24,1801,1603,2.0,4,0.85,40,34.0,"Verma, Audvik",,1732.0,False,CAN,1.0,1,0.67,40,26.8
+366101510,2024-12-01,0,2024 Southern Alberta Open,"Calgary, Alberta CAN",2024-11-23,2024-11-24,1801,1603,2.0,4,0.85,40,34.0,"Darvekar, Yash",,1969.0,False,CAN,0.0,1,-0.1,40,-4.0
+366101510,2024-12-01,0,2024 Southern Alberta Open,"Calgary, Alberta CAN",2024-11-23,2024-11-24,1801,1603,2.0,4,0.85,40,34.0,"Mohanakrishnan, Madhav",,1498.0,False,BOT,1.0,1,0.36,40,14.4

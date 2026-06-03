@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48790532,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1540,1449,2.0,5,0.11,40,4.4,"Priyanuj, Gogoi",,1411.0,False,IND,0.5,1,-0.05,40,-2.0
+48790532,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1540,1449,2.0,5,0.11,40,4.4,"Amiyanshu, Bhowal",,1583.0,False,IND,0.0,1,-0.32,40,-12.8
+48790532,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1540,1449,2.0,5,0.11,40,4.4,"Nishan, Mondal",,1632.0,False,IND,0.5,1,0.24,40,9.6
+48790532,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1540,1449,2.0,5,0.11,40,4.4,"Arnabjyoti, Gogoi",,1569.0,False,IND,0.0,1,-0.34,40,-13.6
+48790532,2025-04-01,0,9th Kurukshetra Open FIDE Rating Chess Tournament,Dibrugarh IND,2025-03-19,2025-03-23,1540,1449,2.0,5,0.11,40,4.4,"Trishu, Barai",,1503.0,False,IND,1.0,1,0.58,40,23.2

@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33394830,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2185,2009,3.0,8,0.72,36,25.92,"Pawar, Harshit",f,2308.0,False,IND,0.0,1,-0.15,36,-5.4
+33394830,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2185,2009,3.0,8,0.72,36,25.92,"Rojas Keim, Luis",m,2362.0,False,CHI,1.0,1,0.89,36,32.04
+33394830,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2185,2009,3.0,8,0.72,36,25.92,"Panek, Bartosz",c,2207.0,False,POL,0.5,1,0.26,36,9.36
+33394830,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2185,2009,3.0,8,0.72,36,25.92,"Shamatava, Nikolozi",,2127.0,False,GEO,0.0,1,-0.34,36,-12.24
+33394830,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2185,2009,3.0,8,0.72,36,25.92,"Lau, Lut Yin Luke",,2120.0,False,HKG,0.0,1,-0.35,36,-12.6
+33394830,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2185,2009,3.0,8,0.72,36,25.92,"Fernandez Vicente, Carmelo",,1990.0,False,ESP,1.0,1,0.47,36,16.92
+33394830,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2185,2009,3.0,8,0.72,36,25.92,"Nagare, Kaivalya Sandip",c,2109.0,False,IND,0.0,1,-0.36,36,-12.96
+33394830,2024-09-01,0,48e Open Internacional d'Escacs Vila de Sitges Grup A,Sitges (Barcelona) ESP,2024-07-22,2024-07-30,2185,2009,3.0,8,0.72,36,25.92,"Pimpalkhare, Vedant",c,2254.0,False,IND,0.5,1,0.3,36,10.8
+33394830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1800,2026,6.0,11,-2.59,36,-93.24,"Rithwik, Reddy Upparigudam",,1735.0,False,IND,0.5,1,-0.35,36,-12.6
+33394830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1800,2026,6.0,11,-2.59,36,-93.24,"Arhan, Jain",,1761.0,False,IND,0.0,1,-0.82,36,-29.52
+33394830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1800,2026,6.0,11,-2.59,36,-93.24,"Ashutosh, Jamwal",,1685.0,False,IND,1.0,1,0.12,36,4.32
+33394830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1800,2026,6.0,11,-2.59,36,-93.24,"Prishita, Gupta",wc,1795.0,False,IND,1.0,1,0.21,36,7.56
+33394830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1800,2026,6.0,11,-2.59,36,-93.24,"Soumick, Bandopadhyay",,1857.0,False,IND,0.0,1,-0.72,36,-25.92
+33394830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1800,2026,6.0,11,-2.59,36,-93.24,"Abhinav, Anand",,1794.0,False,IND,1.0,1,0.21,36,7.56
+33394830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1800,2026,6.0,11,-2.59,36,-93.24,"Gavi, Siddayya",,1847.0,False,IND,0.5,1,-0.23,36,-8.28
+33394830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1800,2026,6.0,11,-2.59,36,-93.24,"Vijay, Kumar",,1885.0,False,IND,0.0,1,-0.69,36,-24.84
+33394830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1800,2026,6.0,11,-2.59,36,-93.24,"Banik, Hrishikesh Kumar",,1796.0,False,IND,0.5,1,-0.29,36,-10.44
+33394830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1800,2026,6.0,11,-2.59,36,-93.24,"Rishabh, Pradhan",,1794.0,False,IND,1.0,1,0.21,36,7.56
+33394830,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1800,2026,6.0,11,-2.59,36,-93.24,"Tanna, Krish Alpeshbhai",,1846.0,False,IND,0.5,1,-0.24,36,-8.64

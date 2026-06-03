@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531014380,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1649,1516,3.0,6,0.92,40,36.8,"Devnath, Bijesh",,1792.0,False,IND,0.0,1,-0.17,40,-6.8
+531014380,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1649,1516,3.0,6,0.92,40,36.8,"Dakshina, R",,1407.0,False,IND,1.0,1,0.35,40,14.0
+531014380,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1649,1516,3.0,6,0.92,40,36.8,"Anandhu, P B",,1462.0,False,IND,0.5,1,-0.08,40,-3.2
+531014380,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1649,1516,3.0,6,0.92,40,36.8,"Praveen, Kumar K.",,1880.0,False,IND,0.5,1,0.4,40,16.0
+531014380,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1649,1516,3.0,6,0.92,40,36.8,"Mugunth, Parthasarthe",,1651.0,False,IND,0.5,1,0.18,40,7.2
+531014380,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1649,1516,3.0,6,0.92,40,36.8,"Rajith, V.",,1703.0,False,IND,0.5,1,0.24,40,9.6

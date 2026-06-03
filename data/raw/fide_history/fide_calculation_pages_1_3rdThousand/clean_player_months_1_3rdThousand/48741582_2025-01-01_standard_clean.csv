@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48741582,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1637,1488,1.5,5,-0.01,40,-0.4,"Karthik, G Iyer",,1641.0,False,IND,0.0,1,-0.3,40,-12.0
+48741582,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1637,1488,1.5,5,-0.01,40,-0.4,"Rahul, V",,1628.0,False,IND,1.0,1,0.69,40,27.6
+48741582,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1637,1488,1.5,5,-0.01,40,-0.4,"Bagdia, Shourya",,1620.0,False,IND,0.5,1,0.18,40,7.2
+48741582,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1637,1488,1.5,5,-0.01,40,-0.4,"Aadwik, Abhinav Krishna",,1649.0,False,IND,0.0,1,-0.29,40,-11.6
+48741582,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1637,1488,1.5,5,-0.01,40,-0.4,Jeevanandham,,1645.0,False,IND,0.0,1,-0.29,40,-11.6

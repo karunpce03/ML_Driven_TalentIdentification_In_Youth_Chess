@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33366950,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1617,1410,3.0,6,1.52,40,60.8,"Khalid, Lodhi",,1683.0,False,PAK,0.0,1,-0.17,40,-6.8
+33366950,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1617,1410,3.0,6,1.52,40,60.8,"Alenezi, Khaled",,1541.0,False,KUW,1.0,1,0.68,40,27.2
+33366950,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1617,1410,3.0,6,1.52,40,60.8,"Sudhanshu, Muluka",,1620.0,False,IND,0.0,1,-0.23,40,-9.2
+33366950,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1617,1410,3.0,6,1.52,40,60.8,"Nathanael, Xavier",,1454.0,False,IND,1.0,1,0.56,40,22.4
+33366950,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1617,1410,3.0,6,1.52,40,60.8,"Adriel, Job",,1617.0,False,IND,1.0,1,0.77,40,30.8
+33366950,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1617,1410,3.0,6,1.52,40,60.8,"Advik, Srinivasan",,1788.0,False,IND,0.0,1,-0.09,40,-3.6

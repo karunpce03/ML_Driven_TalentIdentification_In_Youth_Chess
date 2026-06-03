@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48740624,2024-12-01,0,2024 Washington Challenger's Cup - Gukesh Open,"Bellevue, WA USA",2024-11-10,2024-11-11,1932,1743,2.0,4,0.89,40,35.6,"Lu, Yiding",c,2143,True,USA,0.5,1,0.42,40,16.8
+48740624,2024-12-01,0,2024 Washington Challenger's Cup - Gukesh Open,"Bellevue, WA USA",2024-11-10,2024-11-11,1932,1743,2.0,4,0.89,40,35.6,"Palathingal, Rafael",,1872,False,USA,0.5,1,0.17,40,6.8
+48740624,2024-12-01,0,2024 Washington Challenger's Cup - Gukesh Open,"Bellevue, WA USA",2024-11-10,2024-11-11,1932,1743,2.0,4,0.89,40,35.6,"Wong-Godfrey, Emerson",,1834,False,USA,0.0,1,-0.38,40,-15.2
+48740624,2024-12-01,0,2024 Washington Challenger's Cup - Gukesh Open,"Bellevue, WA USA",2024-11-10,2024-11-11,1932,1743,2.0,4,0.89,40,35.6,"Pupols, Viktors",,1878,False,USA,1.0,1,0.68,40,27.2

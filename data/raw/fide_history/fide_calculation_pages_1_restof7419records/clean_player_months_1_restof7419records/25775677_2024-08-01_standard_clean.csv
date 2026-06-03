@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25775677,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1710,1800,6.0,9,0.53,35,18.55,"Kaarthikeyan, S",,1446.0,False,IND,1.0,1,0.11,35,3.85
+25775677,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1710,1800,6.0,9,0.53,35,18.55,"Abijith, S",,1604.0,False,IND,1.0,1,0.25,35,8.75
+25775677,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1710,1800,6.0,9,0.53,35,18.55,"Gokul, Krishna S",,1956.0,False,IND,0.0,1,-0.29,35,-10.15
+25775677,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1710,1800,6.0,9,0.53,35,18.55,"Aadvik, A S",,1614.0,False,IND,1.0,1,0.26,35,9.1
+25775677,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1710,1800,6.0,9,0.53,35,18.55,"Jishnurajan, V",,1647.0,False,IND,0.5,1,-0.2,35,-7.0
+25775677,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1710,1800,6.0,9,0.53,35,18.55,"Maniswar, C",,1598.0,False,IND,1.0,1,0.24,35,8.4
+25775677,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1710,1800,6.0,9,0.53,35,18.55,"Yashwant, B",,1883.0,False,IND,0.5,1,0.11,35,3.85
+25775677,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1710,1800,6.0,9,0.53,35,18.55,"Shadhursshaan, R",c,1912.0,False,IND,0.0,1,-0.35,35,-12.25
+25775677,2024-08-01,0,52nd Tamil Nadu State Under-19 Open Chess Championships 2024,Hosur IND,2024-06-26,2024-06-30,1710,1800,6.0,9,0.53,35,18.55,"Kanishkaraj, V",,1731.0,False,IND,1.0,1,0.4,35,14.0
+25775677,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1837,1845,6.5,11,0.79,35,27.65,"Akshun, Punchhi",,1506.0,False,IND,1.0,1,0.12,35,4.2
+25775677,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1837,1845,6.5,11,0.79,35,27.65,"Arjun, Singh",,1715.0,False,IND,1.0,1,0.32,35,11.2
+25775677,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1837,1845,6.5,11,0.79,35,27.65,"Vignesh, Advaith Vemula",,2200.0,False,IND,0.5,1,0.39,35,13.65
+25775677,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1837,1845,6.5,11,0.79,35,27.65,"Jagesia, Daksh",,1717.0,False,IND,1.0,1,0.33,35,11.55
+25775677,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1837,1845,6.5,11,0.79,35,27.65,"Sriram, Adarsh Uppala",,2114.0,False,IND,0.0,1,-0.17,35,-5.95
+25775677,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1837,1845,6.5,11,0.79,35,27.65,"Dev, Raj",,1684.0,False,IND,1.0,1,0.29,35,10.15
+25775677,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1837,1845,6.5,11,0.79,35,27.65,"Bagwe, Gaurang",f,2245.0,True,IND,0.0,1,-0.08,35,-2.8
+25775677,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1837,1845,6.5,11,0.79,35,27.65,"Sidharth, Bhargav",,1481.0,False,IND,0.0,1,-0.9,35,-31.5
+25775677,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1837,1845,6.5,11,0.79,35,27.65,"Aditri, Shome",,1741.0,False,IND,1.0,1,0.36,35,12.6
+25775677,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1837,1845,6.5,11,0.79,35,27.65,"Darsh, Shetty",,1711.0,False,IND,1.0,1,0.32,35,11.2
+25775677,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1837,1845,6.5,11,0.79,35,27.65,"Jihan, Tejas Shah",,2091.0,False,IND,0.0,1,-0.19,35,-6.65

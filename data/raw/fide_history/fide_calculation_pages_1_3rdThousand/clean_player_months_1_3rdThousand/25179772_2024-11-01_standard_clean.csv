@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25179772,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1575,1749,3.0,9,-3.48,40,-139.2,"Shreyas, Mani",,1420,False,IND,1.0,1,0.12,40,4.8
+25179772,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1575,1749,3.0,9,-3.48,40,-139.2,"Krishna, Varenya Potnuru",,1529,False,IND,1.0,1,0.22,40,8.8
+25179772,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1575,1749,3.0,9,-3.48,40,-139.2,"Ashank, Kailas Goliwadekar",,1580,False,IND,1.0,1,0.28,40,11.2
+25179772,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1575,1749,3.0,9,-3.48,40,-139.2,"Aarav, A",c,2149,True,IND,0.0,1,-0.08,40,-3.2
+25179772,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1575,1749,3.0,9,-3.48,40,-139.2,"Vasireddy, Arjun",,1595,False,IND,0.0,1,-0.71,40,-28.4
+25179772,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1575,1749,3.0,9,-3.48,40,-139.2,"Heet, Baldawa",,1508,False,IND,0.0,1,-0.8,40,-32.0
+25179772,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1575,1749,3.0,9,-3.48,40,-139.2,"Pamidi, Jaswanth",,1460,False,IND,0.0,1,-0.84,40,-33.6
+25179772,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1575,1749,3.0,9,-3.48,40,-139.2,"Dev, Pratap",,1471,False,IND,0.0,1,-0.83,40,-33.2
+25179772,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1575,1749,3.0,9,-3.48,40,-139.2,"Devansh, Nammi",,1462,False,IND,0.0,1,-0.84,40,-33.6

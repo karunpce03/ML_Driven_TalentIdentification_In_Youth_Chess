@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48705985,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1600,1517,2.0,5,0.05,40,2.0,"Aravinda, B R",,1655.0,False,IND,0.0,1,-0.31,40,-12.4
+48705985,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1600,1517,2.0,5,0.05,40,2.0,"Nagasri, Saikanth",,1705.0,False,IND,0.0,1,-0.26,40,-10.4
+48705985,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1600,1517,2.0,5,0.05,40,2.0,"Hithesh, Sai Saketh Moyida",,1429.0,False,IND,1.0,1,0.38,40,15.2
+48705985,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1600,1517,2.0,5,0.05,40,2.0,"Subba, Raju S.",,1614.0,False,IND,0.5,1,0.13,40,5.2
+48705985,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1600,1517,2.0,5,0.05,40,2.0,"Dinesh, Kumar H",,1597.0,False,IND,0.5,1,0.11,40,4.4

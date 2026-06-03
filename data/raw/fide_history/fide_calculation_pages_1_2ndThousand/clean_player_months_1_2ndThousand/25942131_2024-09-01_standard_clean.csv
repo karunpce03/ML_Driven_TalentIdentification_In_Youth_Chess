@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1729,1580,2.0,4,0.67,40,26.8,"Sailesh, R",,1980,True,IND,0.0,1,-0.08,40,-3.2
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1729,1580,2.0,4,0.67,40,26.8,"Al Qassabi, Layan",,1445,False,QAT,1.0,1,0.32,40,12.8
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1729,1580,2.0,4,0.67,40,26.8,"Pitts, Daniel",,1700,False,ENG,1.0,1,0.66,40,26.4
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open B),Abu Dhabi UAE,2024-08-14,2024-08-25,1729,1580,2.0,4,0.67,40,26.8,"Avhad, Prajwal",,1792,False,IND,0.0,1,-0.23,40,-9.2
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1583,1580,3.0,6,-0.09,40,-3.6,"Ajay, Santhosh Parvathareddy",,1980,True,IND,0.0,1,-0.08,40,-3.2
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1583,1580,3.0,6,-0.09,40,-3.6,"Kavya, Vijay Khachane",,1419,False,IND,0.5,1,-0.21,40,-8.4
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1583,1580,3.0,6,-0.09,40,-3.6,"Nilesh, Karthick",,1463,False,IND,1.0,1,0.34,40,13.6
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1583,1580,3.0,6,-0.09,40,-3.6,"Aljamaat, Khaled",,1731,False,QAT,0.0,1,-0.3,40,-12.0
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1583,1580,3.0,6,-0.09,40,-3.6,"Skurygina, Sofiya",,1453,False,KAZ,0.5,1,-0.17,40,-6.8
+25942131,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1583,1580,3.0,6,-0.09,40,-3.6,"Amna, Saqer Almarri",,1452,False,UAE,1.0,1,0.33,40,13.2

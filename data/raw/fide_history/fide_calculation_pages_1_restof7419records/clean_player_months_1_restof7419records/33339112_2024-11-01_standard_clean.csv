@@ -1,0 +1,24 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33339112,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1664,1615,5.5,10,1.12,30,33.6,"Pranav, Varshan A S",,1480.0,False,IND,1.0,1,0.32,30,9.6
+33339112,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1664,1615,5.5,10,1.12,30,33.6,"Nijesh, R",,1849.0,False,IND,0.5,1,0.29,30,8.7
+33339112,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1664,1615,5.5,10,1.12,30,33.6,"Soni, Vivan",,1789.0,False,IND,0.0,1,-0.27,30,-8.1
+33339112,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1664,1615,5.5,10,1.12,30,33.6,"Vidhu, Thota",,1514.0,False,IND,1.0,1,0.36,30,10.8
+33339112,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1664,1615,5.5,10,1.12,30,33.6,"Ayaan, Arora",,1752.0,False,IND,0.5,1,0.18,30,5.4
+33339112,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1664,1615,5.5,10,1.12,30,33.6,"Nalan, Arumugam S",,1474.0,False,IND,1.0,1,0.31,30,9.3
+33339112,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1664,1615,5.5,10,1.12,30,33.6,"Sayan, Barua",,1708.0,False,IND,1.0,1,0.63,30,18.9
+33339112,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1664,1615,5.5,10,1.12,30,33.6,"Dharsh, M",,1836.0,False,IND,0.0,1,-0.22,30,-6.6
+33339112,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1664,1615,5.5,10,1.12,30,33.6,"Amanlal, A",,1722.0,False,IND,0.0,1,-0.35,30,-10.5
+33339112,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1664,1615,5.5,10,1.12,30,33.6,"Aditya, Ashish Patel",,1518.0,False,IND,0.5,1,-0.13,30,-3.9
+33339112,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1552,1615,4.0,7,-0.1,30,-3.0,"Shivarshi, Chakrabarti",,1446.0,False,IND,0.5,1,-0.22,30,-6.6
+33339112,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1552,1615,4.0,7,-0.1,30,-3.0,"Kartik, Reddy",,1434.0,False,IND,1.0,1,0.26,30,7.8
+33339112,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1552,1615,4.0,7,-0.1,30,-3.0,"Arhan, Chatterjee",,1476.0,False,IND,0.5,1,-0.19,30,-5.7
+33339112,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1552,1615,4.0,7,-0.1,30,-3.0,"Dipro, Mandal",,1432.0,False,IND,1.0,1,0.26,30,7.8
+33339112,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1552,1615,4.0,7,-0.1,30,-3.0,"Shreyan, Gupta Barman",,1753.0,False,IND,0.0,1,-0.31,30,-9.3
+33339112,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1552,1615,4.0,7,-0.1,30,-3.0,"Abhiraj, Das",,1453.0,False,IND,1.0,1,0.29,30,8.7
+33339112,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1552,1615,4.0,7,-0.1,30,-3.0,"Parambrata, Sarkar",,1870.0,False,IND,0.0,1,-0.19,30,-5.7
+33339112,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1551,1615,3.0,6,-0.51,30,-15.3,"Mitrasish, Deb",,1422.0,False,IND,1.0,1,0.25,30,7.5
+33339112,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1551,1615,3.0,6,-0.51,30,-15.3,"Dhritiman, Majumdar",,1459.0,False,IND,0.5,1,-0.21,30,-6.3
+33339112,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1551,1615,3.0,6,-0.51,30,-15.3,"Ratul, Majumder",,1716.0,False,IND,0.5,1,0.14,30,4.2
+33339112,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1551,1615,3.0,6,-0.51,30,-15.3,"Aatreya, Saha",,1791.0,False,IND,0.0,1,-0.27,30,-8.1
+33339112,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1551,1615,3.0,6,-0.51,30,-15.3,"Arhan, Chatterjee",,1476.0,False,IND,0.0,1,-0.69,30,-20.7
+33339112,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1551,1615,3.0,6,-0.51,30,-15.3,"Bihaan, Sarkar",,1442.0,False,IND,1.0,1,0.27,30,8.1

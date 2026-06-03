@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33396299,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1611,1486,1.5,5,-0.19,40,-7.6,"Jaiswal, Sanskrit",,1600.0,False,USA,1.0,1,0.66,40,26.4
+33396299,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1611,1486,1.5,5,-0.19,40,-7.6,"Sinjan, Roy",,1745.0,False,IND,0.0,1,-0.18,40,-7.2
+33396299,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1611,1486,1.5,5,-0.19,40,-7.6,"Diproneel, Barman",,1687.0,False,IND,0.0,1,-0.24,40,-9.6
+33396299,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1611,1486,1.5,5,-0.19,40,-7.6,"Adipto, Nath",,1609.0,False,IND,0.0,1,-0.33,40,-13.2
+33396299,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1611,1486,1.5,5,-0.19,40,-7.6,"Abhirup, Mukherjee",,1412.0,False,IND,0.5,1,-0.1,40,-4.0

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25174657,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2214,1924,5.5,11,3.65,40,146.0,"De Silva, L M S T",m,2324,True,SRI,1.0,1,0.92,40,36.8
+25174657,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2214,1924,5.5,11,3.65,40,146.0,"Apoorv, Kamble",f,2324,True,IND,0.5,1,0.42,40,16.8
+25174657,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2214,1924,5.5,11,3.65,40,146.0,"Jares, Michal",f,2324,True,CZE,0.5,1,0.42,40,16.8
+25174657,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2214,1924,5.5,11,3.65,40,146.0,"Sanket, Chakravarty",m,2324,True,IND,0.0,1,-0.08,40,-3.2
+25174657,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2214,1924,5.5,11,3.65,40,146.0,"Alekhya, Mukhopadhyay",,2130,False,IND,0.0,1,-0.24,40,-9.6
+25174657,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2214,1924,5.5,11,3.65,40,146.0,"Talgatov, Nazar",,2108,False,KAZ,1.0,1,0.74,40,29.6
+25174657,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2214,1924,5.5,11,3.65,40,146.0,"Jani, Kushal R",,2192,False,IND,0.0,1,-0.17,40,-6.8
+25174657,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2214,1924,5.5,11,3.65,40,146.0,"Mizzi, Jack",c,2051,False,MLT,0.5,1,0.17,40,6.8
+25174657,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2214,1924,5.5,11,3.65,40,146.0,"Nainys, Zanas",,2152,False,LTU,1.0,1,0.79,40,31.6
+25174657,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2214,1924,5.5,11,3.65,40,146.0,"Ang, Ern Jie Anderson",c,2197,False,MAS,1.0,1,0.83,40,33.2
+25174657,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2214,1924,5.5,11,3.65,40,146.0,"Keleberda, Tymur",f,2223,False,CAN,0.0,1,-0.15,40,-6.0

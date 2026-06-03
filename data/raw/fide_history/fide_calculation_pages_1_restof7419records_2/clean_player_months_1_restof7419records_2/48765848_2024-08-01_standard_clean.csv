@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48765848,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1756,1466,2.5,7,1.23,40,49.2,"Zakharova, Evgeniya",,1866,True,FID,0.0,1,-0.08,40,-3.2
+48765848,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1756,1466,2.5,7,1.23,40,49.2,"Gerasimova, Svetlana",wf,1866,True,FID,0.0,1,-0.08,40,-3.2
+48765848,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1756,1466,2.5,7,1.23,40,49.2,"Shchukina, Ekaterina",,1663,False,FID,1.0,1,0.75,40,30.0
+48765848,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1756,1466,2.5,7,1.23,40,49.2,"Roehrig, Uwe",,1806,False,GER,1.0,1,0.88,40,35.2
+48765848,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1756,1466,2.5,7,1.23,40,49.2,"Markov, Ilja",,1848,False,FID,0.5,1,0.41,40,16.4
+48765848,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1756,1466,2.5,7,1.23,40,49.2,"Khlypovka, Lada",,1790,False,FID,0.0,1,-0.13,40,-5.2
+48765848,2024-08-01,0,23rd IPCA World Individual Chess Championship 2024,Gyumri ARM,2024-07-19,2024-07-28,1756,1466,2.5,7,1.23,40,49.2,"Melkonyan, Mayis",,1450,False,ARM,0.0,1,-0.52,40,-20.8

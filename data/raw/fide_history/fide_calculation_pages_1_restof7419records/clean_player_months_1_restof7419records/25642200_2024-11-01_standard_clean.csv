@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25642200,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2091,1891,6.0,9,3.67,40,146.8,"Siol, Juergen",,1801.0,False,GER,1.0,1,0.38,40,15.2
+25642200,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2091,1891,6.0,9,3.67,40,146.8,"Mueller, Riyanna",wc,2014.0,False,GER,0.5,1,0.17,40,6.8
+25642200,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2091,1891,6.0,9,3.67,40,146.8,"Stewart, Neil",f,2216.0,False,GER,0.5,1,0.37,40,14.8
+25642200,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2091,1891,6.0,9,3.67,40,146.8,"Woestmann, Hans-Joachim",,2074.0,False,GER,1.0,1,0.74,40,29.6
+25642200,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2091,1891,6.0,9,3.67,40,146.8,"Raghav, V",,2087.0,False,IND,1.0,1,0.75,40,30.0
+25642200,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2091,1891,6.0,9,3.67,40,146.8,"Scholz, Christian, Dr.",m,2291.0,True,GER,0.5,1,0.42,40,16.8
+25642200,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2091,1891,6.0,9,3.67,40,146.8,"Lutze, Max",,2148.0,False,GER,1.0,1,0.82,40,32.8
+25642200,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2091,1891,6.0,9,3.67,40,146.8,"Schmitzer, Klaus",f,2140.0,False,GER,0.5,1,0.31,40,12.4
+25642200,2024-11-01,0,41. Muensterland-Open,Muenster GER,2024-10-12,2024-10-19,2091,1891,6.0,9,3.67,40,146.8,"Boesel, Alexander",,2045.0,False,GER,0.0,1,-0.29,40,-11.6
+25642200,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Accession,ANNEMASSE FRA,2024-10-19,2024-10-25,1723,1891,5.0,8,-0.7,40,-28.0,"Rousseau-Cavasse, Aymeric",,1703.0,False,FRA,0.0,1,-0.74,40,-29.6
+25642200,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Accession,ANNEMASSE FRA,2024-10-19,2024-10-25,1723,1891,5.0,8,-0.7,40,-28.0,"Garin-Laurel, Matheo",,1607.0,False,FRA,1.0,1,0.16,40,6.4
+25642200,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Accession,ANNEMASSE FRA,2024-10-19,2024-10-25,1723,1891,5.0,8,-0.7,40,-28.0,"Kirakosyan, Emil",,1788.0,False,FRA,1.0,1,0.36,40,14.4
+25642200,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Accession,ANNEMASSE FRA,2024-10-19,2024-10-25,1723,1891,5.0,8,-0.7,40,-28.0,"Exbrayat, Theo",,1688.0,False,FRA,1.0,1,0.24,40,9.6
+25642200,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Accession,ANNEMASSE FRA,2024-10-19,2024-10-25,1723,1891,5.0,8,-0.7,40,-28.0,"Carissan, Matteo",,1658.0,False,FRA,0.0,1,-0.79,40,-31.6
+25642200,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Accession,ANNEMASSE FRA,2024-10-19,2024-10-25,1723,1891,5.0,8,-0.7,40,-28.0,"Eleze, Greg",,1802.0,False,FRA,1.0,1,0.38,40,15.2
+25642200,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Accession,ANNEMASSE FRA,2024-10-19,2024-10-25,1723,1891,5.0,8,-0.7,40,-28.0,"Metzger, Raphael",,1655.0,False,FRA,1.0,1,0.2,40,8.0
+25642200,2024-11-01,0,2eme Festival international d'Annemasse - Tournoi Accession,ANNEMASSE FRA,2024-10-19,2024-10-25,1723,1891,5.0,8,-0.7,40,-28.0,"Minde, Baptiste",,1886.0,False,FRA,0.0,1,-0.51,40,-20.4

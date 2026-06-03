@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25924230,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1810,1803,6.5,11,1.04,36,37.44,"Charan, S Raju",,1514.0,False,IND,1.0,1,0.16,36,5.76
+25924230,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1810,1803,6.5,11,1.04,36,37.44,"Jaiveer, Mahendru",f,2203.0,True,IND,0.0,1,-0.08,36,-2.88
+25924230,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1810,1803,6.5,11,1.04,36,37.44,"Kesavamoorthy, G",,1635.0,False,IND,1.0,1,0.28,36,10.08
+25924230,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1810,1803,6.5,11,1.04,36,37.44,"Shree, Hari Palaniappa S",,1717.0,False,IND,1.0,1,0.38,36,13.68
+25924230,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1810,1803,6.5,11,1.04,36,37.44,"Sri, Charan Sandipagu",,1942.0,False,IND,0.5,1,0.19,36,6.84
+25924230,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1810,1803,6.5,11,1.04,36,37.44,"Banik, Hrishikesh Kumar",,1942.0,False,IND,1.0,1,0.69,36,24.84
+25924230,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1810,1803,6.5,11,1.04,36,37.44,"Advik, Amit Agrawal",,1984.0,False,IND,0.0,1,-0.26,36,-9.36
+25924230,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1810,1803,6.5,11,1.04,36,37.44,"Medhvansh, Madeti",,1919.0,False,IND,0.0,1,-0.34,36,-12.24
+25924230,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1810,1803,6.5,11,1.04,36,37.44,"Gudimetla, Navaneeth Reddy",,1719.0,False,IND,1.0,1,0.38,36,13.68
+25924230,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1810,1803,6.5,11,1.04,36,37.44,"Pratiyush, Kumar",,1645.0,False,IND,0.0,1,-0.71,36,-25.56
+25924230,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1810,1803,6.5,11,1.04,36,37.44,"Maaz, Iqubal",,1695.0,False,IND,1.0,1,0.35,36,12.6
+25924230,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1679,1803,5.0,8,-0.24,36,-8.64,"Brahmaiah, V.j",,1514.0,False,IND,1.0,1,0.16,36,5.76
+25924230,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1679,1803,5.0,8,-0.24,36,-8.64,Jeevanandham,,1623.0,False,IND,0.0,1,-0.74,36,-26.64
+25924230,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1679,1803,5.0,8,-0.24,36,-8.64,"Dvij, Ekanthalingam",,1535.0,False,IND,1.0,1,0.17,36,6.12
+25924230,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1679,1803,5.0,8,-0.24,36,-8.64,"Vivan, Hota",,1587.0,False,IND,0.5,1,-0.28,36,-10.08
+25924230,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1679,1803,5.0,8,-0.24,36,-8.64,"Darsha, Bhat",,1623.0,False,IND,1.0,1,0.26,36,9.36
+25924230,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1679,1803,5.0,8,-0.24,36,-8.64,"Magizhini, M",,1692.0,False,IND,1.0,1,0.35,36,12.6
+25924230,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1679,1803,5.0,8,-0.24,36,-8.64,"Divi, Bijesh",,1905.0,False,IND,0.5,1,0.14,36,5.04
+25924230,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1679,1803,5.0,8,-0.24,36,-8.64,"Hegde, Ravi Gopal",m,1949.0,False,IND,0.0,1,-0.3,36,-10.8

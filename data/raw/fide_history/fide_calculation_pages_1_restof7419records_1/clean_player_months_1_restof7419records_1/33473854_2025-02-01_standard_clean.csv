@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33473854,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1778,1811,2.0,6,-1.35,40,-54.0,"Abdisalimov, Abdimalik",g,2211,True,UZB,0.0,1,-0.08,40,-3.2
+33473854,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1778,1811,2.0,6,-1.35,40,-54.0,"Anush, Bansal",,1557,False,IND,1.0,1,0.19,40,7.6
+33473854,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1778,1811,2.0,6,-1.35,40,-54.0,"Baharlouei, Rasta",,1639,False,IRI,1.0,1,0.27,40,10.8
+33473854,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1778,1811,2.0,6,-1.35,40,-54.0,"Velavaa, Ragavesh",c,2075,False,IND,0.0,1,-0.18,40,-7.2
+33473854,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1778,1811,2.0,6,-1.35,40,-54.0,"Aubrey, Armstrong A",,1639,False,IND,0.0,1,-0.73,40,-29.2
+33473854,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1778,1811,2.0,6,-1.35,40,-54.0,"Al Yousufi, Dawood",,1544,False,OMA,0.0,1,-0.82,40,-32.8

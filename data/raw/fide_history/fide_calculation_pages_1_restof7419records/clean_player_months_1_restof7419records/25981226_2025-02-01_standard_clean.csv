@@ -1,0 +1,16 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25981226,2025-02-01,0,2024 London Christmas Chess Congress - Open,London ENG,2024-12-28,2024-12-30,1781,1893,3.5,5,0.25,40,10.0,"Venkatesh, Anuj",,1703.0,False,ENG,1.0,1,0.25,40,10.0
+25981226,2025-02-01,0,2024 London Christmas Chess Congress - Open,London ENG,2024-12-28,2024-12-30,1781,1893,3.5,5,0.25,40,10.0,"McLean, Rory",,1755.0,False,ENG,0.5,1,-0.19,40,-7.6
+25981226,2025-02-01,0,2024 London Christmas Chess Congress - Open,London ENG,2024-12-28,2024-12-30,1781,1893,3.5,5,0.25,40,10.0,"Killick, Tristan",,1764.0,False,ENG,0.5,1,-0.17,40,-6.8
+25981226,2025-02-01,0,2024 London Christmas Chess Congress - Open,London ENG,2024-12-28,2024-12-30,1781,1893,3.5,5,0.25,40,10.0,"Anshuman, Ganguly",,1896.0,False,IND,0.5,1,0.0,40,0.0
+25981226,2025-02-01,0,2024 London Christmas Chess Congress - Open,London ENG,2024-12-28,2024-12-30,1781,1893,3.5,5,0.25,40,10.0,"Ding, Yiwen",,1789.0,False,ENG,1.0,1,0.36,40,14.4
+25981226,2025-02-01,0,London Chess League FIDE Weekender Jan 2025 - Open,London ENG,2025-01-03,2025-01-05,1864,1838,2.5,5,0.17,40,6.8,"Pereslavtsev, Alexandr",,2000.0,False,ENG,0.0,1,-0.29,40,-11.6
+25981226,2025-02-01,0,London Chess League FIDE Weekender Jan 2025 - Open,London ENG,2025-01-03,2025-01-05,1864,1838,2.5,5,0.17,40,6.8,"Mittal, Aditya",,1859.0,False,ENG,0.5,1,0.03,40,1.2
+25981226,2025-02-01,0,London Chess League FIDE Weekender Jan 2025 - Open,London ENG,2025-01-03,2025-01-05,1864,1838,2.5,5,0.17,40,6.8,"Ward, Cian",,1911.0,False,ENG,0.5,1,0.1,40,4.0
+25981226,2025-02-01,0,London Chess League FIDE Weekender Jan 2025 - Open,London ENG,2025-01-03,2025-01-05,1864,1838,2.5,5,0.17,40,6.8,"Dincer, Mehmet Alper",,1828.0,False,TUR,1.0,1,0.49,40,19.6
+25981226,2025-02-01,0,London Chess League FIDE Weekender Jan 2025 - Open,London ENG,2025-01-03,2025-01-05,1864,1838,2.5,5,0.17,40,6.8,"Veeturi, Yashvardhan",,1724.0,False,ENG,0.5,1,-0.16,40,-6.4
+25981226,2025-02-01,0,2024-25 4NCL Division 3 Bishops Rounds 3-4,Peterborough ENG,2025-01-11,2025-01-12,1805,1838,1.5,2,0.41,40,16.4,"Durrant, Paul Eo",,1698.0,False,ENG,1.0,1,0.31,40,12.4
+25981226,2025-02-01,0,2024-25 4NCL Division 3 Bishops Rounds 3-4,Peterborough ENG,2025-01-11,2025-01-12,1805,1838,1.5,2,0.41,40,16.4,"Combie, Alex B",,1912.0,False,ENG,0.5,1,0.1,40,4.0
+25981226,2025-02-01,0,Southall FIDE Congress January 2025 - U2400,Southall ENG,2025-01-18,2025-01-19,1910,1838,0.5,3,-0.71,40,-28.4,"Udovenko, Daniel",,1972.0,False,ENG,0.0,1,-0.32,40,-12.8
+25981226,2025-02-01,0,Southall FIDE Congress January 2025 - U2400,Southall ENG,2025-01-18,2025-01-19,1910,1838,0.5,3,-0.71,40,-28.4,"Avinash, Vaidyanathan",,1846.0,False,IND,0.5,1,0.01,40,0.4
+25981226,2025-02-01,0,Southall FIDE Congress January 2025 - U2400,Southall ENG,2025-01-18,2025-01-19,1910,1838,0.5,3,-0.71,40,-28.4,"Simon, Marek",,1912.0,False,POL,0.0,1,-0.4,40,-16.0

@@ -1,0 +1,39 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25903713,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1684,1813,6.0,11,-1.25,40,-50.0,"Paras, Kalia",,1466.0,False,IND,0.5,1,-0.39,40,-15.6
+25903713,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1684,1813,6.0,11,-1.25,40,-50.0,"Sarvaiya, Harsh Manishbhai",,1548.0,False,IND,0.5,1,-0.32,40,-12.8
+25903713,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1684,1813,6.0,11,-1.25,40,-50.0,"Aarav, Gupta",,1569.0,False,IND,1.0,1,0.2,40,8.0
+25903713,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1684,1813,6.0,11,-1.25,40,-50.0,"Paarshva, Parmar",,1682.0,False,IND,1.0,1,0.32,40,12.8
+25903713,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1684,1813,6.0,11,-1.25,40,-50.0,"Yohan, Yadav Tarala",,1928.0,False,IND,0.0,1,-0.34,40,-13.6
+25903713,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1684,1813,6.0,11,-1.25,40,-50.0,"Aaryan, Amol Waghmare",,1733.0,False,IND,0.0,1,-0.61,40,-24.4
+25903713,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1684,1813,6.0,11,-1.25,40,-50.0,"Granthik, Mallick",,1591.0,False,IND,1.0,1,0.22,40,8.8
+25903713,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1684,1813,6.0,11,-1.25,40,-50.0,"Dev, Raj",,1684.0,False,IND,1.0,1,0.33,40,13.2
+25903713,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1684,1813,6.0,11,-1.25,40,-50.0,"Kavin, Vijayakumar",,1969.0,False,IND,0.0,1,-0.29,40,-11.6
+25903713,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1684,1813,6.0,11,-1.25,40,-50.0,"Arnav, Dhamija",,1695.0,False,IND,0.0,1,-0.66,40,-26.4
+25903713,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1684,1813,6.0,11,-1.25,40,-50.0,"Srikar, G V B",,1658.0,False,IND,1.0,1,0.29,40,11.6
+25903713,2024-12-01,0,FIDE WORLD AMATEUR Open U2000,Rhodes GRE,2024-10-27,2024-11-04,1919,1763,6.0,9,3.32,40,132.8,"Amgalanbaatar, Ravdanlkhumbuu",,1916.0,False,MGL,0.0,1,-0.3,40,-12.0
+25903713,2024-12-01,0,FIDE WORLD AMATEUR Open U2000,Rhodes GRE,2024-10-27,2024-11-04,1919,1763,6.0,9,3.32,40,132.8,"Hoareau, Hugues",,1876.0,False,FRA,1.0,1,0.65,40,26.0
+25903713,2024-12-01,0,FIDE WORLD AMATEUR Open U2000,Rhodes GRE,2024-10-27,2024-11-04,1919,1763,6.0,9,3.32,40,132.8,"Zielinski, Olgierd",,1926.0,False,POL,0.5,1,0.22,40,8.8
+25903713,2024-12-01,0,FIDE WORLD AMATEUR Open U2000,Rhodes GRE,2024-10-27,2024-11-04,1919,1763,6.0,9,3.32,40,132.8,"Kazakis, Mattheos Konstantinos",,1900.0,False,GRE,1.0,1,0.68,40,27.2
+25903713,2024-12-01,0,FIDE WORLD AMATEUR Open U2000,Rhodes GRE,2024-10-27,2024-11-04,1919,1763,6.0,9,3.32,40,132.8,"Tqavadze, Giorgi",,1995.0,False,GEO,1.0,1,0.79,40,31.6
+25903713,2024-12-01,0,FIDE WORLD AMATEUR Open U2000,Rhodes GRE,2024-10-27,2024-11-04,1919,1763,6.0,9,3.32,40,132.8,"Paricharak, Shardul",,1929.0,False,AHO,1.0,1,0.72,40,28.8
+25903713,2024-12-01,0,FIDE WORLD AMATEUR Open U2000,Rhodes GRE,2024-10-27,2024-11-04,1919,1763,6.0,9,3.32,40,132.8,"Danzanjunai, Ganbat",,1997.0,False,MGL,1.0,1,0.79,40,31.6
+25903713,2024-12-01,0,FIDE WORLD AMATEUR Open U2000,Rhodes GRE,2024-10-27,2024-11-04,1919,1763,6.0,9,3.32,40,132.8,"Ahmadzadeh Razavi, Seyed Shaahin",,1933.0,False,GER,0.0,1,-0.28,40,-11.2
+25903713,2024-12-01,0,FIDE WORLD AMATEUR Open U2000,Rhodes GRE,2024-10-27,2024-11-04,1919,1763,6.0,9,3.32,40,132.8,"Sharma, Pankaj",c,1799.0,False,IND,0.5,1,0.05,40,2.0
+25903713,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1835,1896,5.5,9,0.26,40,10.4,"Al Hosni, Khalfan",,1749.0,False,OMA,1.0,1,0.3,40,12.0
+25903713,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1835,1896,5.5,9,0.26,40,10.4,"Kalikhan, Abilmansur",,1730.0,False,KAZ,1.0,1,0.28,40,11.2
+25903713,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1835,1896,5.5,9,0.26,40,10.4,"Mohamed, Saeed Laily",c,1984.0,False,UAE,0.0,1,-0.38,40,-15.2
+25903713,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1835,1896,5.5,9,0.26,40,10.4,"Shelke, Omkar",,1765.0,False,IND,0.0,1,-0.68,40,-27.2
+25903713,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1835,1896,5.5,9,0.26,40,10.4,"Adel, Tahseen Khalil",,1833.0,False,IRQ,1.0,1,0.41,40,16.4
+25903713,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1835,1896,5.5,9,0.26,40,10.4,"Dadabaev, Zhanybek",,1927.0,False,KGZ,0.0,1,-0.46,40,-18.4
+25903713,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1835,1896,5.5,9,0.26,40,10.4,"Alviz, Joshua Ezekiel",,1767.0,False,PHI,1.0,1,0.33,40,13.2
+25903713,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1835,1896,5.5,9,0.26,40,10.4,"Godhani, Maharth",,1798.0,False,IND,0.5,1,-0.13,40,-5.2
+25903713,2025-01-01,0,Asian Amateur Chess Championships (Men) U2000,Al Ain UAE,2024-12-15,2024-12-22,1835,1896,5.5,9,0.26,40,10.4,"Khalifah, Khaled",c,1962.0,False,UAE,1.0,1,0.59,40,23.6
+25903713,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1958,1896,6.5,9,2.54,40,101.6,"Al Hadidi, Mahmood",,1496.0,True,OMA,1.0,1,0.08,40,3.2
+25903713,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1958,1896,6.5,9,2.54,40,101.6,"Baharlouei, Rasta",,1639.0,False,IRI,1.0,1,0.18,40,7.2
+25903713,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1958,1896,6.5,9,2.54,40,101.6,"Mosadeghpour, Masoud",g,2296.0,True,IRI,0.0,1,-0.08,40,-3.2
+25903713,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1958,1896,6.5,9,2.54,40,101.6,"Hussein, Siddig Mohamed",,1703.0,False,SUD,1.0,1,0.25,40,10.0
+25903713,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1958,1896,6.5,9,2.54,40,101.6,"Al Mamari, Said Ahmed",,1707.0,False,OMA,1.0,1,0.25,40,10.0
+25903713,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1958,1896,6.5,9,2.54,40,101.6,"Barsov, Alexei",g,2296.0,True,UZB,0.5,1,0.42,40,16.8
+25903713,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1958,1896,6.5,9,2.54,40,101.6,"Aziz, Husain",m,2296.0,True,QAT,0.5,1,0.42,40,16.8
+25903713,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1958,1896,6.5,9,2.54,40,101.6,"Wafa, Shahenda",wg,2103.0,False,EGY,1.0,1,0.77,40,30.8
+25903713,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1958,1896,6.5,9,2.54,40,101.6,"Poormosavi, Seyed Kanan",,2090.0,False,IRI,0.5,1,0.25,40,10.0

@@ -1,0 +1,16 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25720708,2025-02-01,0,21e Bois-Colombes Chess Master - Open B,BOIS COLOMBES FRA,2024-12-26,2024-12-30,1709,1601,2.5,8,-0.34,40,-13.6,"Fan, Sizhuo",,1765.0,False,FRA,0.0,1,-0.28,40,-11.2
+25720708,2025-02-01,0,21e Bois-Colombes Chess Master - Open B,BOIS COLOMBES FRA,2024-12-26,2024-12-30,1709,1601,2.5,8,-0.34,40,-13.6,"Pissarev, Kirill",,1707.0,False,FRA,1.0,1,0.64,40,25.6
+25720708,2025-02-01,0,21e Bois-Colombes Chess Master - Open B,BOIS COLOMBES FRA,2024-12-26,2024-12-30,1709,1601,2.5,8,-0.34,40,-13.6,"Estin-Charbonnel, Lucie",,1838.0,False,FRA,0.0,1,-0.2,40,-8.0
+25720708,2025-02-01,0,21e Bois-Colombes Chess Master - Open B,BOIS COLOMBES FRA,2024-12-26,2024-12-30,1709,1601,2.5,8,-0.34,40,-13.6,"Turin, Flavien",,1710.0,False,FRA,0.0,1,-0.35,40,-14.0
+25720708,2025-02-01,0,21e Bois-Colombes Chess Master - Open B,BOIS COLOMBES FRA,2024-12-26,2024-12-30,1709,1601,2.5,8,-0.34,40,-13.6,"Fruchard, Alois",,1696.0,False,FRA,0.0,1,-0.37,40,-14.8
+25720708,2025-02-01,0,21e Bois-Colombes Chess Master - Open B,BOIS COLOMBES FRA,2024-12-26,2024-12-30,1709,1601,2.5,8,-0.34,40,-13.6,"Gobert, Simon",,1644.0,False,FRA,1.0,1,0.56,40,22.4
+25720708,2025-02-01,0,21e Bois-Colombes Chess Master - Open B,BOIS COLOMBES FRA,2024-12-26,2024-12-30,1709,1601,2.5,8,-0.34,40,-13.6,"Marques, Gil",,1648.0,False,POR,0.5,1,0.07,40,2.8
+25720708,2025-02-01,0,21e Bois-Colombes Chess Master - Open B,BOIS COLOMBES FRA,2024-12-26,2024-12-30,1709,1601,2.5,8,-0.34,40,-13.6,"Nait-Makhlouf, Ali",,1667.0,False,FRA,0.0,1,-0.41,40,-16.4
+25720708,2025-02-01,0,15e Open International de Corbas tournoi A,CORBAS FRA,2025-01-02,2025-01-05,1852,1601,4.5,7,3.15,40,126.0,"Orfeuvre, Valentin",,1826.0,False,FRA,1.0,1,0.78,40,31.2
+25720708,2025-02-01,0,15e Open International de Corbas tournoi A,CORBAS FRA,2025-01-02,2025-01-05,1852,1601,4.5,7,3.15,40,126.0,"Budin, Florent",,1817.0,False,FRA,0.5,1,0.28,40,11.2
+25720708,2025-02-01,0,15e Open International de Corbas tournoi A,CORBAS FRA,2025-01-02,2025-01-05,1852,1601,4.5,7,3.15,40,126.0,"Laruaz, Maxime",,1831.0,False,FRA,0.5,1,0.29,40,11.6
+25720708,2025-02-01,0,15e Open International de Corbas tournoi A,CORBAS FRA,2025-01-02,2025-01-05,1852,1601,4.5,7,3.15,40,126.0,"Verroust, Valentin",,1796.0,False,FRA,1.0,1,0.75,40,30.0
+25720708,2025-02-01,0,15e Open International de Corbas tournoi A,CORBAS FRA,2025-01-02,2025-01-05,1852,1601,4.5,7,3.15,40,126.0,"Ghazaryan, Gurgen",,1880.0,False,FRA,1.0,1,0.84,40,33.6
+25720708,2025-02-01,0,15e Open International de Corbas tournoi A,CORBAS FRA,2025-01-02,2025-01-05,1852,1601,4.5,7,3.15,40,126.0,"Thivin, Nicolas",,1852.0,False,FRA,0.5,1,0.31,40,12.4
+25720708,2025-02-01,0,15e Open International de Corbas tournoi A,CORBAS FRA,2025-01-02,2025-01-05,1852,1601,4.5,7,3.15,40,126.0,"Acikgoz, Tuncay",,1964.0,False,FRA,0.0,1,-0.1,40,-4.0

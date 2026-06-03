@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48720763,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,,,0.0,2,0.0,809,,"Siddharthan, Anandan",,1678.0,False,IND,0.0,1,0.0,,0.0
+48720763,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,,,0.0,2,0.0,809,,"Raghava, Prabhakaran Kumar",,1539.0,False,IND,0.0,1,0.0,,0.0
+48720763,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,,,1.0,3,0.0,1459,,"Prajit, Ravishankar",,1783.0,False,IND,0.0,1,0.0,,0.0
+48720763,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,,,1.0,3,0.0,1459,,"Naren, P",,1471.0,False,IND,1.0,1,0.0,,0.0
+48720763,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,,,1.0,3,0.0,1459,,"Kaavya, G S",,1498.0,False,IND,0.0,1,0.0,,0.0
+48720763,2024-11-01,0,37TH TAMIL NADU STATE UNDER 09 GIRLS CHESS CHAMPIONSHIP 2024,MADURAI IND,2024-09-28,2024-10-02,,,2.0,4,0.0,1464,,"Hariprana, B",,1455.0,False,IND,1.0,1,0.0,,0.0
+48720763,2024-11-01,0,37TH TAMIL NADU STATE UNDER 09 GIRLS CHESS CHAMPIONSHIP 2024,MADURAI IND,2024-09-28,2024-10-02,,,2.0,4,0.0,1464,,"Sathvika, S",,1494.0,False,IND,0.0,1,0.0,,0.0
+48720763,2024-11-01,0,37TH TAMIL NADU STATE UNDER 09 GIRLS CHESS CHAMPIONSHIP 2024,MADURAI IND,2024-09-28,2024-10-02,,,2.0,4,0.0,1464,,"Deniya, V",,1488.0,False,IND,0.0,1,0.0,,0.0
+48720763,2024-11-01,0,37TH TAMIL NADU STATE UNDER 09 GIRLS CHESS CHAMPIONSHIP 2024,MADURAI IND,2024-09-28,2024-10-02,,,2.0,4,0.0,1464,,"Arshitha, S",,1418.0,False,IND,1.0,1,0.0,,0.0
+48720763,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1490.0,1536.0,1.0,3,-0.68,40,-27.2,"Hariheshwaran, P",,1400.0,False,IND,1.0,1,0.32,40.0,12.8
+48720763,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1490.0,1536.0,1.0,3,-0.68,40,-27.2,"Siddarth, S J",,1643.0,False,IND,0.0,1,-0.35,40.0,-14.0
+48720763,2024-12-01,0,"""SINGH'S GAMBIT 2024"" International FIDE Rated Open Chess Tournament",Chennai IND,2024-11-14,2024-11-17,1490.0,1536.0,1.0,3,-0.68,40,-27.2,"Shreyas, Srinivasan",,1428.0,False,IND,0.0,1,-0.65,40.0,-26.0

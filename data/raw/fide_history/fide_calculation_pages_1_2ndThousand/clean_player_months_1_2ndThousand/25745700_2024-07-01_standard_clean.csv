@@ -1,0 +1,28 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25745700,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2279,2413,5.5,9,-0.61,10,-6.1,"Leszko, Bence",f,2206.0,False,HUN,1.0,1,0.23,10,2.3
+25745700,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2279,2413,5.5,9,-0.61,10,-6.1,"Papp, Bence",f,2286.0,False,HUN,0.5,1,-0.17,10,-1.7
+25745700,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2279,2413,5.5,9,-0.61,10,-6.1,"Krishnan, Ritvik",f,2296.0,False,IND,0.0,1,-0.66,10,-6.6
+25745700,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2279,2413,5.5,9,-0.61,10,-6.1,"Gov, Guy",,2229.0,False,ISR,1.0,1,0.26,10,2.6
+25745700,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2279,2413,5.5,9,-0.61,10,-6.1,"Kozlovic, Jernej",f,2301.0,False,SLO,1.0,1,0.35,10,3.5
+25745700,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2279,2413,5.5,9,-0.61,10,-6.1,"Yeganegi, Barad",f,2278.0,False,IRI,0.5,1,-0.18,10,-1.8
+25745700,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2279,2413,5.5,9,-0.61,10,-6.1,"Sahib, Singh",f,2290.0,False,IND,0.0,1,-0.67,10,-6.7
+25745700,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2279,2413,5.5,9,-0.61,10,-6.1,"Chubakov, Sultan",f,2304.0,False,KGZ,0.5,1,-0.15,10,-1.5
+25745700,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2279,2413,5.5,9,-0.61,10,-6.1,"Borocz, Istvan",m,2324.0,False,HUN,1.0,1,0.38,10,3.8
+25745700,2024-07-01,0,SixDays Budapest June GM B,Budapest HUN,2024-06-03,2024-06-08,2384,2389,4.0,9,-0.58,10,-5.8,"Nguyen, Huynh Minh Huy",g,2435.0,False,VIE,0.0,1,-0.44,10,-4.4
+25745700,2024-07-01,0,SixDays Budapest June GM B,Budapest HUN,2024-06-03,2024-06-08,2384,2389,4.0,9,-0.58,10,-5.8,"Perunovic, Milos",g,2531.0,False,SRB,0.0,1,-0.31,10,-3.1
+25745700,2024-07-01,0,SixDays Budapest June GM B,Budapest HUN,2024-06-03,2024-06-08,2384,2389,4.0,9,-0.58,10,-5.8,"Ivanisevic, Ivan",g,2536.0,False,SRB,1.0,1,0.7,10,7.0
+25745700,2024-07-01,0,SixDays Budapest June GM B,Budapest HUN,2024-06-03,2024-06-08,2384,2389,4.0,9,-0.58,10,-5.8,"Kolimar, Kristof Pal",f,2332.0,False,HUN,1.0,1,0.42,10,4.2
+25745700,2024-07-01,0,SixDays Budapest June GM B,Budapest HUN,2024-06-03,2024-06-08,2384,2389,4.0,9,-0.58,10,-5.8,"Lohia, Sohum",f,2270.0,False,ENG,1.0,1,0.34,10,3.4
+25745700,2024-07-01,0,SixDays Budapest June GM B,Budapest HUN,2024-06-03,2024-06-08,2384,2389,4.0,9,-0.58,10,-5.8,"Jeet, Jain",f,2303.0,False,IND,0.5,1,-0.12,10,-1.2
+25745700,2024-07-01,0,SixDays Budapest June GM B,Budapest HUN,2024-06-03,2024-06-08,2384,2389,4.0,9,-0.58,10,-5.8,"Pribelszky, Bence",f,2363.0,False,HUN,0.0,1,-0.54,10,-5.4
+25745700,2024-07-01,0,SixDays Budapest June GM B,Budapest HUN,2024-06-03,2024-06-08,2384,2389,4.0,9,-0.58,10,-5.8,"Yeganegi, Barad",f,2301.0,False,IRI,0.5,1,-0.12,10,-1.2
+25745700,2024-07-01,0,SixDays Budapest June GM B,Budapest HUN,2024-06-03,2024-06-08,2384,2389,4.0,9,-0.58,10,-5.8,"Molenda, Marcin",f,2384.0,False,POL,0.0,1,-0.51,10,-5.1
+25745700,2024-07-01,0,3rd Rigo Janos Memorial GM,Balatonlelle HUN,2024-06-12,2024-06-20,2391,2389,4.5,9,0.03,10,0.3,"Geher, Koppany",,2271.0,False,HUN,0.0,1,-0.66,10,-6.6
+25745700,2024-07-01,0,3rd Rigo Janos Memorial GM,Balatonlelle HUN,2024-06-12,2024-06-20,2391,2389,4.5,9,0.03,10,0.3,"Pap, Misa",g,2374.0,False,SRB,0.0,1,-0.52,10,-5.2
+25745700,2024-07-01,0,3rd Rigo Janos Memorial GM,Balatonlelle HUN,2024-06-12,2024-06-20,2391,2389,4.5,9,0.03,10,0.3,"Moksh, Amit Doshi",m,2358.0,False,IND,1.0,1,0.46,10,4.6
+25745700,2024-07-01,0,3rd Rigo Janos Memorial GM,Balatonlelle HUN,2024-06-12,2024-06-20,2391,2389,4.5,9,0.03,10,0.3,"Nemeth, Miklos",m,2449.0,False,HUN,0.0,1,-0.42,10,-4.2
+25745700,2024-07-01,0,3rd Rigo Janos Memorial GM,Balatonlelle HUN,2024-06-12,2024-06-20,2391,2389,4.5,9,0.03,10,0.3,"Paszewski, Mateusz",f,2349.0,False,POL,1.0,1,0.44,10,4.4
+25745700,2024-07-01,0,3rd Rigo Janos Memorial GM,Balatonlelle HUN,2024-06-12,2024-06-20,2391,2389,4.5,9,0.03,10,0.3,"Ramoutar, Alan-Safar",m,2357.0,False,TTO,1.0,1,0.46,10,4.6
+25745700,2024-07-01,0,3rd Rigo Janos Memorial GM,Balatonlelle HUN,2024-06-12,2024-06-20,2391,2389,4.5,9,0.03,10,0.3,"Vetoshko, Volodymyr",g,2505.0,False,UKR,0.5,1,0.16,10,1.6
+25745700,2024-07-01,0,3rd Rigo Janos Memorial GM,Balatonlelle HUN,2024-06-12,2024-06-20,2391,2389,4.5,9,0.03,10,0.3,"Berczes, David",g,2425.0,False,HUN,1.0,1,0.55,10,5.5
+25745700,2024-07-01,0,3rd Rigo Janos Memorial GM,Balatonlelle HUN,2024-06-12,2024-06-20,2391,2389,4.5,9,0.03,10,0.3,"Deuer, Marius",m,2435.0,False,GER,0.0,1,-0.44,10,-4.4

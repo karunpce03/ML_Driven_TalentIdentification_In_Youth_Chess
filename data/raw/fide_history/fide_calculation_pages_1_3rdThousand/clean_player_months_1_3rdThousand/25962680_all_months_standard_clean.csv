@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25962680,2025-01-01,0,Deutsche Schach-Amateurmeisterschaft 2024-2025 Q2 E,Bonn GER,2024-12-20,2024-12-22,1619,1536,2.0,2,1.22,40,48.8,"Roth, Niklas",,1704.0,False,GER,1.0,1,0.72,40,28.8
+25962680,2025-01-01,0,Deutsche Schach-Amateurmeisterschaft 2024-2025 Q2 E,Bonn GER,2024-12-20,2024-12-22,1619,1536,2.0,2,1.22,40,48.8,"Leven, Felix",,1534.0,False,GER,1.0,1,0.5,40,20.0
+25962680,2025-02-01,0,Jugendverbandseinzelmeisterschaft Niederrhein 2025 U16,Kranenburg GER,2025-01-02,2025-01-06,1795,1585,1.5,4,0.49,40,19.6,"Ramolla, Jan",,1809.0,False,GER,0.0,1,-0.22,40,-8.8
+25962680,2025-02-01,0,Jugendverbandseinzelmeisterschaft Niederrhein 2025 U16,Kranenburg GER,2025-01-02,2025-01-06,1795,1585,1.5,4,0.49,40,19.6,"Hesse, Frederik",,1706.0,False,GER,0.5,1,0.16,40,6.4
+25962680,2025-02-01,0,Jugendverbandseinzelmeisterschaft Niederrhein 2025 U16,Kranenburg GER,2025-01-02,2025-01-06,1795,1585,1.5,4,0.49,40,19.6,"Sutanto, Jonas",,1681.0,False,GER,1.0,1,0.63,40,25.2
+25962680,2025-02-01,0,Jugendverbandseinzelmeisterschaft Niederrhein 2025 U16,Kranenburg GER,2025-01-02,2025-01-06,1795,1585,1.5,4,0.49,40,19.6,"Li, Hewei",,1985.0,True,GER,0.0,1,-0.08,40,-3.2

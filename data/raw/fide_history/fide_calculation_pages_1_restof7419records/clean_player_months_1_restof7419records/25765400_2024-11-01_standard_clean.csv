@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25765400,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1713,1658,4.0,7,0.91,40,36.4,"Subhayan, Kundu",,2058,True,IND,0.0,1,-0.08,40,-3.2
+25765400,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1713,1658,4.0,7,0.91,40,36.4,"Ramlal, Khatri",,1426,False,IND,1.0,1,0.21,40,8.4
+25765400,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1713,1658,4.0,7,0.91,40,36.4,"Heet, Baldawa",,1508,False,IND,1.0,1,0.3,40,12.0
+25765400,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1713,1658,4.0,7,0.91,40,36.4,"Borse, Vaibhav",,1798,False,IND,0.0,1,-0.31,40,-12.4
+25765400,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1713,1658,4.0,7,0.91,40,36.4,Pranitkumar,,1558,False,IND,1.0,1,0.36,40,14.4
+25765400,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1713,1658,4.0,7,0.91,40,36.4,"Shubh, Atha",,1836,False,IND,0.5,1,0.23,40,9.2
+25765400,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1713,1658,4.0,7,0.91,40,36.4,"Babel, T Divyanshu",,1806,False,IND,0.5,1,0.2,40,8.0

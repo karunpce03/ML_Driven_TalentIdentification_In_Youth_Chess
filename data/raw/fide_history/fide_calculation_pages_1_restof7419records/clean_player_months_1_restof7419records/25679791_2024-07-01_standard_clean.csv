@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25679791,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2108,2196,5.0,11,-1.6,40,-64.0,"Bedi, Vaibhav",,1796,True,AHO,1.0,1,0.08,40,3.2
+25679791,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2108,2196,5.0,11,-1.6,40,-64.0,"Ilamparthi, A R",m,2446,False,IND,0.5,1,0.31,40,12.4
+25679791,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2108,2196,5.0,11,-1.6,40,-64.0,"Fromm, Marius",f,2465,False,GER,0.0,1,-0.17,40,-6.8
+25679791,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2108,2196,5.0,11,-1.6,40,-64.0,"Rodrigue-Lemieux, Shawn",g,2510,False,CAN,0.5,1,0.36,40,14.4
+25679791,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2108,2196,5.0,11,-1.6,40,-64.0,"Borkhetariya, Devarsh M",,1864,False,IND,0.5,1,-0.38,40,-15.2
+25679791,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2108,2196,5.0,11,-1.6,40,-64.0,"Wafa, Hamed",m,2396,False,EGY,0.0,1,-0.24,40,-9.6
+25679791,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2108,2196,5.0,11,-1.6,40,-64.0,"Shah, Jeet",,1946,False,IND,0.5,1,-0.31,40,-12.4
+25679791,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2108,2196,5.0,11,-1.6,40,-64.0,"Bhoir, Paras Dilip",,2016,False,IND,0.0,1,-0.74,40,-29.6
+25679791,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2108,2196,5.0,11,-1.6,40,-64.0,"Swarna, Nihal",,1949,False,IND,1.0,1,0.19,40,7.6
+25679791,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2108,2196,5.0,11,-1.6,40,-64.0,"Arshpreet, Singh",,1932,False,IND,1.0,1,0.18,40,7.2
+25679791,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2108,2196,5.0,11,-1.6,40,-64.0,"Mrithyunjay, Mahadevan",c,1867,False,IND,0.0,1,-0.88,40,-35.2

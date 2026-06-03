@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25163795,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1766,1778,5.0,10,-0.15,40,-6.0,"Pragnya, H G",wf,2002,False,IND,0.0,1,-0.22,40,-8.8
+25163795,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1766,1778,5.0,10,-0.15,40,-6.0,"Puviya, Sureshkumar",,1466,False,IND,1.0,1,0.14,40,5.6
+25163795,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1766,1778,5.0,10,-0.15,40,-6.0,"Arshiya, Das",wc,2035,False,IND,0.0,1,-0.18,40,-7.2
+25163795,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1766,1778,5.0,10,-0.15,40,-6.0,"Harshini, A",,1643,False,IND,0.0,1,-0.68,40,-27.2
+25163795,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1766,1778,5.0,10,-0.15,40,-6.0,"Durkasri, M",,1486,False,IND,1.0,1,0.15,40,6.0
+25163795,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1766,1778,5.0,10,-0.15,40,-6.0,"Arpita, Mukherjee",wm,2178,True,IND,0.5,1,0.42,40,16.8
+25163795,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1766,1778,5.0,10,-0.15,40,-6.0,"Mudaliar, Nandini",,1584,False,IND,1.0,1,0.25,40,10.0
+25163795,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1766,1778,5.0,10,-0.15,40,-6.0,"Aamuktha, Guntaka",,1899,False,IND,0.5,1,0.16,40,6.4
+25163795,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1766,1778,5.0,10,-0.15,40,-6.0,"Harini, S.",,1903,False,IND,0.0,1,-0.33,40,-13.2
+25163795,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1766,1778,5.0,10,-0.15,40,-6.0,"Sanchee, Sahoo",,1465,False,IND,1.0,1,0.14,40,5.6

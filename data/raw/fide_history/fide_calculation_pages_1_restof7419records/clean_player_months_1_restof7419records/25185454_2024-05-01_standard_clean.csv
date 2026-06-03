@@ -1,0 +1,28 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25185454,2024-05-01,0,SixDays Budapest March 2024 IM,Budapest HUN,2024-03-30,2024-04-04,2260,2125,1.0,9,-1.92,25,-48.0,"Horvath, David",m,2330.0,False,HUN,0.0,1,-0.24,25,-6.0
+25185454,2024-05-01,0,SixDays Budapest March 2024 IM,Budapest HUN,2024-03-30,2024-04-04,2260,2125,1.0,9,-1.92,25,-48.0,"Radzimski, Antoni",,2198.0,False,POL,0.0,1,-0.4,25,-10.0
+25185454,2024-05-01,0,SixDays Budapest March 2024 IM,Budapest HUN,2024-03-30,2024-04-04,2260,2125,1.0,9,-1.92,25,-48.0,"Hesham, Abdelrahman",g,2366.0,False,FID,0.0,1,-0.2,25,-5.0
+25185454,2024-05-01,0,SixDays Budapest March 2024 IM,Budapest HUN,2024-03-30,2024-04-04,2260,2125,1.0,9,-1.92,25,-48.0,"Demeter, Dorina",wf,2296.0,False,HUN,0.0,1,-0.27,25,-6.75
+25185454,2024-05-01,0,SixDays Budapest March 2024 IM,Budapest HUN,2024-03-30,2024-04-04,2260,2125,1.0,9,-1.92,25,-48.0,"Gu, Crystal Jiuzhou",wf,2059.0,False,USA,1.0,1,0.41,25,10.25
+25185454,2024-05-01,0,SixDays Budapest March 2024 IM,Budapest HUN,2024-03-30,2024-04-04,2260,2125,1.0,9,-1.92,25,-48.0,"Toth-Goczo, Melinda",wm,2189.0,False,HUN,0.0,1,-0.41,25,-10.25
+25185454,2024-05-01,0,SixDays Budapest March 2024 IM,Budapest HUN,2024-03-30,2024-04-04,2260,2125,1.0,9,-1.92,25,-48.0,"Mouhamad, Joachim",f,2278.0,False,FRA,0.0,1,-0.3,25,-7.5
+25185454,2024-05-01,0,SixDays Budapest March 2024 IM,Budapest HUN,2024-03-30,2024-04-04,2260,2125,1.0,9,-1.92,25,-48.0,"Krizsany, Laszlo",m,2341.0,False,HUN,0.0,1,-0.22,25,-5.5
+25185454,2024-05-01,0,SixDays Budapest March 2024 IM,Budapest HUN,2024-03-30,2024-04-04,2260,2125,1.0,9,-1.92,25,-48.0,"Miszler, Levente",c,2287.0,False,HUN,0.0,1,-0.29,25,-7.25
+25185454,2024-05-01,0,First Saturday IM April 2024,Budapest HUN,2024-04-06,2024-04-16,2305,2125,2.0,9,-0.45,25,-11.25,"Sahithi, Varshini M",f wm,2254.0,False,IND,0.0,1,-0.33,25,-8.25
+25185454,2024-05-01,0,First Saturday IM April 2024,Budapest HUN,2024-04-06,2024-04-16,2305,2125,2.0,9,-0.45,25,-11.25,"Kovalev, Andrei",g,2413.0,False,BLR,0.0,1,-0.16,25,-4.0
+25185454,2024-05-01,0,First Saturday IM April 2024,Budapest HUN,2024-04-06,2024-04-16,2305,2125,2.0,9,-0.45,25,-11.25,"Palczert, Matyas",f,2333.0,False,HUN,0.0,1,-0.23,25,-5.75
+25185454,2024-05-01,0,First Saturday IM April 2024,Budapest HUN,2024-04-06,2024-04-16,2305,2125,2.0,9,-0.45,25,-11.25,"Neverov, Valeriy",g,2405.0,False,UKR,0.0,1,-0.16,25,-4.0
+25185454,2024-05-01,0,First Saturday IM April 2024,Budapest HUN,2024-04-06,2024-04-16,2305,2125,2.0,9,-0.45,25,-11.25,"Szalay-Ocsak, Bank",c,2210.0,False,HUN,0.5,1,0.12,25,3.0
+25185454,2024-05-01,0,First Saturday IM April 2024,Budapest HUN,2024-04-06,2024-04-16,2305,2125,2.0,9,-0.45,25,-11.25,"Sharma, Isha",wm,2224.0,False,IND,0.5,1,0.14,25,3.5
+25185454,2024-05-01,0,First Saturday IM April 2024,Budapest HUN,2024-04-06,2024-04-16,2305,2125,2.0,9,-0.45,25,-11.25,"Orujov, Farid",f,2258.0,False,AZE,0.0,1,-0.32,25,-8.0
+25185454,2024-05-01,0,First Saturday IM April 2024,Budapest HUN,2024-04-06,2024-04-16,2305,2125,2.0,9,-0.45,25,-11.25,"Mihok-Juhasz, Barbara",wm,2235.0,False,HUN,1.0,1,0.65,25,16.25
+25185454,2024-05-01,0,First Saturday IM April 2024,Budapest HUN,2024-04-06,2024-04-16,2305,2125,2.0,9,-0.45,25,-11.25,"Pacher, Milan",g,2415.0,False,SVK,0.0,1,-0.16,25,-4.0
+25185454,2024-05-01,0,Vezerkepzo IM April,Budapest HUN,2024-04-17,2024-04-26,2259,2125,3.0,9,0.02,25,0.5,"Kwon, Sehyun",f,2222.0,False,KOR,0.0,1,-0.37,25,-9.25
+25185454,2024-05-01,0,Vezerkepzo IM April,Budapest HUN,2024-04-17,2024-04-26,2259,2125,3.0,9,0.02,25,0.5,"Pacher, Milan",g,2415.0,False,SVK,0.0,1,-0.16,25,-4.0
+25185454,2024-05-01,0,Vezerkepzo IM April,Budapest HUN,2024-04-17,2024-04-26,2259,2125,3.0,9,0.02,25,0.5,"Jakab, Attila",m,2277.0,False,HUN,0.5,1,0.2,25,5.0
+25185454,2024-05-01,0,Vezerkepzo IM April,Budapest HUN,2024-04-17,2024-04-26,2259,2125,3.0,9,0.02,25,0.5,"Papp, Levente",f,2355.0,False,HUN,0.5,1,0.29,25,7.25
+25185454,2024-05-01,0,Vezerkepzo IM April,Budapest HUN,2024-04-17,2024-04-26,2259,2125,3.0,9,0.02,25,0.5,"Lee, Kyungseok",,2053.0,False,KOR,0.5,1,-0.1,25,-2.5
+25185454,2024-05-01,0,Vezerkepzo IM April,Budapest HUN,2024-04-17,2024-04-26,2259,2125,3.0,9,0.02,25,0.5,"Sharma, Isha",wm,2224.0,False,IND,0.0,1,-0.36,25,-9.0
+25185454,2024-05-01,0,Vezerkepzo IM April,Budapest HUN,2024-04-17,2024-04-26,2259,2125,3.0,9,0.02,25,0.5,"Czebe, Attila",g,2343.0,False,HUN,0.5,1,0.28,25,7.0
+25185454,2024-05-01,0,Vezerkepzo IM April,Budapest HUN,2024-04-17,2024-04-26,2259,2125,3.0,9,0.02,25,0.5,"Varga, Zoltan",g,2319.0,False,HUN,0.5,1,0.25,25,6.25
+25185454,2024-05-01,0,Vezerkepzo IM April,Budapest HUN,2024-04-17,2024-04-26,2259,2125,3.0,9,0.02,25,0.5,"Chubakov, Sultan",,2121.0,False,KGZ,0.5,1,-0.01,25,-0.25

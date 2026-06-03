@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33351147,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1536,1548,0.5,3,-1.05,40,-42.0,"Chavan, Aditya",,1713.0,False,IND,0.0,1,-0.28,40,-11.2
+33351147,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1536,1548,0.5,3,-1.05,40,-42.0,"Anirudh, Dattatreyarao Dasari",,1415.0,False,IND,0.0,1,-0.68,40,-27.2
+33351147,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1536,1548,0.5,3,-1.05,40,-42.0,"Rajdeep, Manik",,1481.0,False,IND,0.5,1,-0.09,40,-3.6

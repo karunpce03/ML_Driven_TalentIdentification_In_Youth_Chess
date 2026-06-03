@@ -1,0 +1,23 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48753629,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1837,1984,8.5,11,0.93,31,28.83,"Amiyanshu, Bhowal",,1640.0,False,IND,1.0,1,0.12,31,3.72
+48753629,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1837,1984,8.5,11,0.93,31,28.83,"Rithwik, Reddy Upparigudam",,1780.0,False,IND,0.5,1,-0.26,31,-8.06
+48753629,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1837,1984,8.5,11,0.93,31,28.83,"Archisman, Patra",,1792.0,False,IND,1.0,1,0.25,31,7.75
+48753629,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1837,1984,8.5,11,0.93,31,28.83,"Aarav, Saish Amonkar",,1910.0,False,IND,0.0,1,-0.6,31,-18.6
+48753629,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1837,1984,8.5,11,0.93,31,28.83,"Anecx, Kanjiravila B C",,1807.0,False,IND,1.0,1,0.27,31,8.37
+48753629,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1837,1984,8.5,11,0.93,31,28.83,"Aneesh, Adiga",,1825.0,False,IND,1.0,1,0.29,31,8.99
+48753629,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1837,1984,8.5,11,0.93,31,28.83,"Yuvanesh, A",,1803.0,False,IND,1.0,1,0.26,31,8.06
+48753629,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1837,1984,8.5,11,0.93,31,28.83,"Abhinav, Raj",,1915.0,False,IND,0.0,1,-0.6,31,-18.6
+48753629,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1837,1984,8.5,11,0.93,31,28.83,"Vivaan, Rana",,1873.0,False,IND,1.0,1,0.35,31,10.85
+48753629,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1837,1984,8.5,11,0.93,31,28.83,"Medhvansh, Madeti",,1919.0,False,IND,1.0,1,0.41,31,12.71
+48753629,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1837,1984,8.5,11,0.93,31,28.83,"Vedant, Garg",,1942.0,False,IND,1.0,1,0.44,31,13.64
+48753629,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1957,1984,7.5,11,1.66,31,51.46,"Della Penna, Leonardo",,1675.0,False,ITA,1.0,1,0.14,31,4.34
+48753629,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1957,1984,7.5,11,1.66,31,51.46,"Katta, Sriansh",,1767.0,False,USA,1.0,1,0.22,31,6.82
+48753629,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1957,1984,7.5,11,1.66,31,51.46,"Azimov, Yasin",,1757.0,False,AZE,1.0,1,0.21,31,6.51
+48753629,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1957,1984,7.5,11,1.66,31,51.46,"Zhou, Guoyu",,1810.0,False,CHN,1.0,1,0.27,31,8.37
+48753629,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1957,1984,7.5,11,1.66,31,51.46,"Sameh Mohamed, Abdalrahman",c,2238.0,False,EGY,0.5,1,0.31,31,9.61
+48753629,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1957,1984,7.5,11,1.66,31,51.46,"Llari, Marc",c,2201.0,False,FRA,0.5,1,0.28,31,8.68
+48753629,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1957,1984,7.5,11,1.66,31,51.46,"Anand, Tsogtbileg",,1974.0,False,MGL,1.0,1,0.49,31,15.19
+48753629,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1957,1984,7.5,11,1.66,31,51.46,"Zhang, Junyi",,2060.0,False,ENG,1.0,1,0.6,31,18.6
+48753629,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1957,1984,7.5,11,1.66,31,51.46,"Shogdzhiev, Roman",c,2202.0,False,FID,0.0,1,-0.22,31,-6.82
+48753629,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1957,1984,7.5,11,1.66,31,51.46,"Mirzhanov, Arlan",,1716.0,False,KAZ,0.0,1,-0.83,31,-25.73
+48753629,2024-12-01,0,FIDE World Cadet Chess Championships 2024 - U10 - Open,Montesilvano ITA,2024-11-15,2024-11-26,1957,1984,7.5,11,1.66,31,51.46,"Annapureddy, Rheyansh Reddy",c,2122.0,False,AUS,0.5,1,0.19,31,5.89

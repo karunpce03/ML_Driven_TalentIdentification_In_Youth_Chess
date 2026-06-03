@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25119982,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1636,1491,1.0,4,-0.22,40,-8.8,"Phani, Kanuri",,1702.0,False,IND,0.0,1,-0.23,40,-9.2
+25119982,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1636,1491,1.0,4,-0.22,40,-8.8,"Kavyasree, T V S",,1622.0,False,IND,0.5,1,0.18,40,7.2
+25119982,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1636,1491,1.0,4,-0.22,40,-8.8,"Aadithya, R",,1599.0,False,IND,0.5,1,0.15,40,6.0
+25119982,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1636,1491,1.0,4,-0.22,40,-8.8,"Subba, Raju S.",,1621.0,False,IND,0.0,1,-0.32,40,-12.8

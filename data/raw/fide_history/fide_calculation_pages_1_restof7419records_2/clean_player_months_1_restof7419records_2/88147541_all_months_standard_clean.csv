@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88147541,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1672.0,1413.0,0.0,3,-0.56,40,-22.4,"Borse, Vaibhav",,1758.0,False,IND,0.0,1,-0.11,40.0,-4.4
+88147541,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1672.0,1413.0,0.0,3,-0.56,40,-22.4,"Dhamgaye, Pramod",,1682.0,False,IND,0.0,1,-0.17,40.0,-6.8
+88147541,2024-07-01,0,17th GH Raisoni Memorial International Open FIDE Rating Chess Tournament,Nagpur IND,2024-06-09,2024-06-14,1672.0,1413.0,0.0,3,-0.56,40,-22.4,"Agrawal, Riddhi",,1576.0,False,IND,0.0,1,-0.28,40.0,-11.2
+88147541,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,3.0,8,0.0,1365,,"Apratim, Yadav",,1498.0,False,IND,0.0,1,0.0,,0.0
+88147541,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,3.0,8,0.0,1365,,"Tanmay, Karkar",,1446.0,False,IND,0.0,1,0.0,,0.0
+88147541,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,3.0,8,0.0,1365,,"Rajpathak, Bhushan",,1401.0,False,IND,1.0,1,0.0,,0.0
+88147541,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,3.0,8,0.0,1365,,"Jain, Medant",,1465.0,False,IND,0.5,1,0.0,,0.0
+88147541,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,3.0,8,0.0,1365,,"Ramteke, Pramod J",,1480.0,False,IND,0.0,1,0.0,,0.0
+88147541,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,3.0,8,0.0,1365,,"Sawant, G L",,1453.0,False,IND,0.0,1,0.0,,0.0
+88147541,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,3.0,8,0.0,1365,,"Mallick, Mehul",,1421.0,False,IND,1.0,1,0.0,,0.0
+88147541,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,,,3.0,8,0.0,1365,,"Bhava, Pranitha",,1451.0,False,IND,0.5,1,0.0,,0.0

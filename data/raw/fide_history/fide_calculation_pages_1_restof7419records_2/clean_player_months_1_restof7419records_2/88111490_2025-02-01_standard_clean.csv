@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88111490,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1680,1543,2.5,6,0.55,40,22.0,"Dahale, Rajas",,1752.0,False,IND,0.0,1,-0.23,40,-9.2
+88111490,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1680,1543,2.5,6,0.55,40,22.0,"Walvekar, Praveen",,1690.0,False,IND,1.0,1,0.7,40,28.0
+88111490,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1680,1543,2.5,6,0.55,40,22.0,"Kashyap, Brijesh Khakharia",,1666.0,False,IND,0.5,1,0.17,40,6.8
+88111490,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1680,1543,2.5,6,0.55,40,22.0,"Aravinda, B R",,1715.0,False,IND,0.0,1,-0.27,40,-10.8
+88111490,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1680,1543,2.5,6,0.55,40,22.0,"Akshat, Upadhyay",,1410.0,False,IND,1.0,1,0.32,40,12.8
+88111490,2025-02-01,0,All India FIDE Open Rating Chess Tournament,Belgaum IND,2025-01-04,2025-01-08,1680,1543,2.5,6,0.55,40,22.0,"Jagadale, Ishwari",,1846.0,False,IND,0.0,1,-0.14,40,-5.6
+88111490,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1525,1543,2.5,6,-0.77,40,-30.8,"Niladri, Banerjee",,1943.0,True,IND,0.0,1,-0.08,40,-3.2
+88111490,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1525,1543,2.5,6,-0.77,40,-30.8,"Sarvesh, G",,1437.0,False,IND,0.0,1,-0.64,40,-25.6
+88111490,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1525,1543,2.5,6,-0.77,40,-30.8,"Aresetty, Vaibhav",,1422.0,False,IND,1.0,1,0.34,40,13.6
+88111490,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1525,1543,2.5,6,-0.77,40,-30.8,"Charith, Sai Alahari",,1435.0,False,IND,0.0,1,-0.65,40,-26.0
+88111490,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1525,1543,2.5,6,-0.77,40,-30.8,"Aswin, S",,1471.0,False,IND,1.0,1,0.4,40,16.0
+88111490,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1525,1543,2.5,6,-0.77,40,-30.8,"Kola, Akshith",,1444.0,False,IND,0.5,1,-0.14,40,-5.6

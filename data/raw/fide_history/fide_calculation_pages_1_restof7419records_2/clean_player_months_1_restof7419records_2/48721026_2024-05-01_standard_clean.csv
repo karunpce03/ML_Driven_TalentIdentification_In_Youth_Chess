@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48721026,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1617,1411,0.5,6,-0.99,40,-39.6,"Aditya, Saxena",,1692,False,IND,0.5,1,0.34,40,13.6
+48721026,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1617,1411,0.5,6,-0.99,40,-39.6,"Prudhvi, Kumar V",,1811,True,IND,0.0,1,-0.08,40,-3.2
+48721026,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1617,1411,0.5,6,-0.99,40,-39.6,"Thavish, S",,1548,False,IND,0.0,1,-0.32,40,-12.8
+48721026,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1617,1411,0.5,6,-0.99,40,-39.6,"Shravan, Balram",,1574,False,IND,0.0,1,-0.28,40,-11.2
+48721026,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1617,1411,0.5,6,-0.99,40,-39.6,"Tvesha, Ashish Jain",,1496,False,IND,0.0,1,-0.38,40,-15.2
+48721026,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1617,1411,0.5,6,-0.99,40,-39.6,"Isshaan, A",,1582,False,IND,0.0,1,-0.27,40,-10.8
+48721026,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,1811,1411,0.0,1,-0.08,40,-3.2,"Ravindran, G",,1811,True,IND,0.0,1,-0.08,40,-3.2

@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33408262,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1594,1481,0.0,2,-0.7,40,-28.0,"Kathan, Khurana",,1557.0,False,IND,0.0,1,-0.4,40,-16.0
+33408262,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1594,1481,0.0,2,-0.7,40,-28.0,"Aarav, Maheshwari",,1630.0,False,IND,0.0,1,-0.3,40,-12.0
+33408262,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1539,1453,2.0,4,0.46,40,18.4,"Vinat, Aggarwal",,1403.0,False,IND,1.0,1,0.43,40,17.2
+33408262,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1539,1453,2.0,4,0.46,40,18.4,"Bir Singh, Raminder",,1515.0,False,IND,1.0,1,0.59,40,23.6
+33408262,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1539,1453,2.0,4,0.46,40,18.4,"Aadhya, Jain",,1612.0,False,IND,0.0,1,-0.29,40,-11.6
+33408262,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,1539,1453,2.0,4,0.46,40,18.4,"Aditya, Bhalla",,1626.0,False,IND,0.0,1,-0.27,40,-10.8
+33408262,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1644,1471,1.0,5,-0.37,40,-14.8,"Garvit, Jain",,1643.0,False,IND,0.5,1,0.23,40,9.2
+33408262,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1644,1471,1.0,5,-0.37,40,-14.8,"Divyanshu, Joshi",,1668.0,False,IND,0.5,1,0.25,40,10.0
+33408262,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1644,1471,1.0,5,-0.37,40,-14.8,"Anurag, Singh",,1615.0,False,IND,0.0,1,-0.31,40,-12.4
+33408262,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1644,1471,1.0,5,-0.37,40,-14.8,"Pazhany, Kaushal Kohli",,1683.0,False,IND,0.0,1,-0.23,40,-9.2
+33408262,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1644,1471,1.0,5,-0.37,40,-14.8,"Aryan, Pandey",,1610.0,False,IND,0.0,1,-0.31,40,-12.4
+33408262,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1615,1456,0.5,3,-0.37,40,-14.8,"Ayaan, Trikha",,1703.0,False,IND,0.0,1,-0.19,40,-7.6
+33408262,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1615,1456,0.5,3,-0.37,40,-14.8,"Kartik, Khetwal",,1571.0,False,IND,0.0,1,-0.34,40,-13.6
+33408262,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1615,1456,0.5,3,-0.37,40,-14.8,"Arun, Wahi",,1570.0,False,IND,0.5,1,0.16,40,6.4

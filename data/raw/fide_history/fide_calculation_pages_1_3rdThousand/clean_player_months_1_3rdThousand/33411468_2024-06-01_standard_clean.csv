@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33411468,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1820,1465,0.0,2,-0.22,40,-8.8,"Amer, Basha Sk",,1775.0,False,IND,0.0,1,-0.14,40,-5.6
+33411468,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1820,1465,0.0,2,-0.22,40,-8.8,"Srinivasa Rao, M.",f,1865.0,True,IND,0.0,1,-0.08,40,-3.2
+33411468,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1637,1465,0.5,5,-0.93,40,-37.2,"Bhavanya, Panchumarthi",,1624.0,False,IND,0.5,1,0.21,40,8.4
+33411468,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1637,1465,0.5,5,-0.93,40,-37.2,"Kirthika, B",,1809.0,False,IND,0.0,1,-0.12,40,-4.8
+33411468,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1637,1465,0.5,5,-0.93,40,-37.2,"Ishaan, Kandi",,1555.0,False,IND,0.0,1,-0.38,40,-15.2
+33411468,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1637,1465,0.5,5,-0.93,40,-37.2,"Abhiram, Vaddi",,1640.0,False,IND,0.0,1,-0.27,40,-10.8
+33411468,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1637,1465,0.5,5,-0.93,40,-37.2,"Kalikiri, Latish Reddy",,1557.0,False,IND,0.0,1,-0.37,40,-14.8
+33411468,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1615,1465,0.0,3,-0.9,40,-36.0,"Vinod, S",,1605.0,False,IND,0.0,1,-0.31,40,-12.4
+33411468,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1615,1465,0.0,3,-0.9,40,-36.0,"Shauryaveer, Raj",,1578.0,False,IND,0.0,1,-0.35,40,-14.0
+33411468,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1615,1465,0.0,3,-0.9,40,-36.0,"Aragonda, Mohan",,1663.0,False,IND,0.0,1,-0.24,40,-9.6

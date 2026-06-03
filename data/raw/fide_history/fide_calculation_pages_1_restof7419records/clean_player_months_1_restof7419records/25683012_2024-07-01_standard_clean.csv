@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25683012,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1997,2369,4.0,10,-5.01,20,-100.2,"Sri, Charan Sandipagu",,1969,True,IND,0.5,1,-0.42,20,-8.4
+25683012,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1997,2369,4.0,10,-5.01,20,-100.2,"Gubatayev, Ahmet",,2055,False,TKM,0.5,1,-0.36,20,-7.2
+25683012,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1997,2369,4.0,10,-5.01,20,-100.2,"Nandish, V S",,1981,False,IND,0.0,1,-0.91,20,-18.2
+25683012,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1997,2369,4.0,10,-5.01,20,-100.2,"Saryyev, Azym",,1999,False,TKM,0.0,1,-0.9,20,-18.0
+25683012,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1997,2369,4.0,10,-5.01,20,-100.2,"Singh, Siddharth",,2050,False,USA,0.0,1,-0.87,20,-17.4
+25683012,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1997,2369,4.0,10,-5.01,20,-100.2,"Mrithyunjay, Mahadevan",c,1969,True,IND,0.0,1,-0.92,20,-18.4
+25683012,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1997,2369,4.0,10,-5.01,20,-100.2,"Katta, Sriansh",,1969,True,USA,1.0,1,0.08,20,1.6
+25683012,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1997,2369,4.0,10,-5.01,20,-100.2,"Ayushh, Ravikumar",f,1969,True,IND,1.0,1,0.08,20,1.6
+25683012,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1997,2369,4.0,10,-5.01,20,-100.2,"Bhoir, Paras Dilip",,2016,False,IND,0.0,1,-0.89,20,-17.8
+25683012,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1997,2369,4.0,10,-5.01,20,-100.2,"Jain, Kushagra",,1996,False,IND,1.0,1,0.1,20,2.0

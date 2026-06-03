@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88152561,2024-08-01,0,H2e Power Systems Maharashtra State Under 17 Open Chess Championship 2024,Mumbai IND,2024-07-06,2024-07-08,1682,1472,1.0,4,0.0,40,0.0,"Ram, Vishal Parab",,1872,True,IND,0.0,1,-0.08,40,-3.2
+88152561,2024-08-01,0,H2e Power Systems Maharashtra State Under 17 Open Chess Championship 2024,Mumbai IND,2024-07-06,2024-07-08,1682,1472,1.0,4,0.0,40,0.0,"Caleb, Vihaan John",,1583,False,IND,1.0,1,0.65,40,26.0
+88152561,2024-08-01,0,H2e Power Systems Maharashtra State Under 17 Open Chess Championship 2024,Mumbai IND,2024-07-06,2024-07-08,1682,1472,1.0,4,0.0,40,0.0,"Kush, Ajay Agarwal",,1698,False,IND,0.0,1,-0.21,40,-8.4
+88152561,2024-08-01,0,H2e Power Systems Maharashtra State Under 17 Open Chess Championship 2024,Mumbai IND,2024-07-06,2024-07-08,1682,1472,1.0,4,0.0,40,0.0,"Chauhan, Janmesh",,1576,False,IND,0.0,1,-0.36,40,-14.4

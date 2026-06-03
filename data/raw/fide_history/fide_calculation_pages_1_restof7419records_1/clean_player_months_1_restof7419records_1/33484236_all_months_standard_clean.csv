@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33484236,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,,,0.5,5,0.0,1325,,"Falak, Joni Naik",,1681.0,False,IND,0.0,1,0.0,,0.0
+33484236,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,,,0.5,5,0.0,1325,,"Pammi, Rani",,1630.0,False,IND,0.0,1,0.0,,0.0
+33484236,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,,,0.5,5,0.0,1325,,"Kiran, Manisha Mohanty",wg,2037.0,False,IND,0.0,1,0.0,,0.0
+33484236,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,,,0.5,5,0.0,1325,,Keshavi,,1471.0,False,IND,0.5,1,0.0,,0.0
+33484236,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,,,0.5,5,0.0,1325,,"Abishna, Anojan",,1635.0,False,IND,0.0,1,0.0,,0.0
+33484236,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1592.0,1461.0,0.0,2,-0.65,40,-26.0,"Yagya, Gupta",,1594.0,False,IND,0.0,1,-0.32,40.0,-12.8
+33484236,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1592.0,1461.0,0.0,2,-0.65,40,-26.0,"Vibhor, Chopra",,1590.0,False,IND,0.0,1,-0.33,40.0,-13.2

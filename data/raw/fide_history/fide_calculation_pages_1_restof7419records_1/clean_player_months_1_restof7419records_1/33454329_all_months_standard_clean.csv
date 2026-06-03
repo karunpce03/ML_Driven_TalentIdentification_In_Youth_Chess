@@ -1,0 +1,18 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33454329,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,0.0,2,0.0,632,,"Manav, Kirsi Binoy",,1440.0,False,IND,0.0,1,0.0,,0.0
+33454329,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,0.0,2,0.0,632,,"Mohit, M",,1423.0,False,IND,0.0,1,0.0,,0.0
+33454329,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,,,2.5,6,0.0,1440,,"Marksim Karki Abirami, Sriiyuktha",,1466.0,False,IND,0.0,1,0.0,,0.0
+33454329,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,,,2.5,6,0.0,1440,,"Niyola, Pinto",,1422.0,False,IND,1.0,1,0.0,,0.0
+33454329,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,,,2.5,6,0.0,1440,,"Aswanthram, Sankar Ganesh Kannan",,1566.0,False,IND,0.0,1,0.0,,0.0
+33454329,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,,,2.5,6,0.0,1440,,"Al Breiki, Mohammed",,1537.0,False,OMA,0.5,1,0.0,,0.0
+33454329,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,,,2.5,6,0.0,1440,,"Al Hatmi, Ammar",,1543.0,False,OMA,1.0,1,0.0,,0.0
+33454329,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,,,2.5,6,0.0,1440,,"Stuthi, Nayak",,1450.0,False,IND,0.0,1,0.0,,0.0
+33454329,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1455.0,1530.0,5.0,9,-0.41,40,-16.4,"Trishika, Patnaik",,1434.0,False,IND,1.0,1,0.37,40.0,14.8
+33454329,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1455.0,1530.0,5.0,9,-0.41,40,-16.4,"Swara, Rahul Gandhi",,1451.0,False,IND,0.0,1,-0.61,40.0,-24.4
+33454329,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1455.0,1530.0,5.0,9,-0.41,40,-16.4,Anishka,,1448.0,False,IND,1.0,1,0.39,40.0,15.6
+33454329,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1455.0,1530.0,5.0,9,-0.41,40,-16.4,"Srijani, Naskar",,1470.0,False,IND,0.0,1,-0.58,40.0,-23.2
+33454329,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1455.0,1530.0,5.0,9,-0.41,40,-16.4,"Dia, Jain",,1447.0,False,IND,1.0,1,0.39,40.0,15.6
+33454329,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1455.0,1530.0,5.0,9,-0.41,40,-16.4,"Soukhya, K R",,1417.0,False,IND,1.0,1,0.35,40.0,14.0
+33454329,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1455.0,1530.0,5.0,9,-0.41,40,-16.4,"Nakshatra, Gumudavelly",,1489.0,False,IND,0.5,1,-0.06,40.0,-2.4
+33454329,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1455.0,1530.0,5.0,9,-0.41,40,-16.4,"Hariprana, B",,1436.0,False,IND,0.5,1,-0.13,40.0,-5.2
+33454329,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1455.0,1530.0,5.0,9,-0.41,40,-16.4,"Sai, Anshitha Puvvala",,1507.0,False,IND,0.0,1,-0.53,40.0,-21.2

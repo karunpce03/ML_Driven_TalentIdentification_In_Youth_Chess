@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88113116,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1485,1431,2.5,5,0.36,40,14.4,"Ishaan, Mukund Laddha",,1418.0,False,IND,0.0,1,-0.52,40,-20.8
+88113116,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1485,1431,2.5,5,0.36,40,14.4,"Sayansh, Das",,1412.0,False,IND,1.0,1,0.47,40,18.8
+88113116,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1485,1431,2.5,5,0.36,40,14.4,"Medhansh, Dinesh Poojary",,1521.0,False,IND,0.0,1,-0.38,40,-15.2
+88113116,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1485,1431,2.5,5,0.36,40,14.4,"Bhondave, Shourya",,1504.0,False,IND,1.0,1,0.6,40,24.0
+88113116,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1485,1431,2.5,5,0.36,40,14.4,"Aniket, Das",,1570.0,False,IND,0.5,1,0.19,40,7.6
+88113116,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1514,1431,2.0,4,0.45,40,18.0,"Aaradhyo, Guin",,1551.0,False,IND,0.5,1,0.16,40,6.4
+88113116,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1514,1431,2.0,4,0.45,40,18.0,"Yuven, Gaurav Jhaveri",,1400.0,False,IND,0.0,1,-0.54,40,-21.6
+88113116,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1514,1431,2.0,4,0.45,40,18.0,"Ansh, Kabra",,1509.0,False,IND,1.0,1,0.61,40,24.4
+88113116,2025-02-01,0,U 09 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1514,1431,2.0,4,0.45,40,18.0,"Agrawal, Anay",,1595.0,False,IND,0.5,1,0.22,40,8.8

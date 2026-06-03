@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48758078,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1660,1494,3.0,7,1.03,40,41.2,"Tanmay, Kashyap",,1688.0,False,IND,0.5,1,0.25,40,10.0
+48758078,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1660,1494,3.0,7,1.03,40,41.2,"Pawan, Sain",,1657.0,False,IND,0.0,1,-0.28,40,-11.2
+48758078,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1660,1494,3.0,7,1.03,40,41.2,Abeer,,1641.0,False,IND,1.0,1,0.7,40,28.0
+48758078,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1660,1494,3.0,7,1.03,40,41.2,"Bhosale, Saarth",,1729.0,False,IND,0.0,1,-0.21,40,-8.4
+48758078,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1660,1494,3.0,7,1.03,40,41.2,"Kacha, Akshit",,1639.0,False,IND,0.5,1,0.19,40,7.6
+48758078,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1660,1494,3.0,7,1.03,40,41.2,"Supratim, Bhadra",,1618.0,False,IND,0.5,1,0.17,40,6.8
+48758078,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1660,1494,3.0,7,1.03,40,41.2,"Kholia, Kishan",,1648.0,False,IND,0.5,1,0.21,40,8.4

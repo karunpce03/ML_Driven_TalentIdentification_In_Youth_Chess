@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88140504,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1540,1401,3.0,7,0.79,40,31.6,"Himanish, Srivatsa A",,1534.0,False,IND,1.0,1,0.68,40,27.2
+88140504,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1540,1401,3.0,7,0.79,40,31.6,"Syam, Sudhakar Rao R",,1603.0,False,IND,0.5,1,0.26,40,10.4
+88140504,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1540,1401,3.0,7,0.79,40,31.6,"Bhaskar, V",,1603.0,False,IND,0.0,1,-0.24,40,-9.6
+88140504,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1540,1401,3.0,7,0.79,40,31.6,"Hemanth, Seera",,1498.0,False,IND,1.0,1,0.63,40,25.2
+88140504,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1540,1401,3.0,7,0.79,40,31.6,"Chippada, Varaha Narasimhulu",,1544.0,False,IND,0.0,1,-0.31,40,-12.4
+88140504,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1540,1401,3.0,7,0.79,40,31.6,"Telagamsetty, Nikshit",,1496.0,False,IND,0.5,1,0.13,40,5.2
+88140504,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1540,1401,3.0,7,0.79,40,31.6,"Vedant, A Agarwal",,1503.0,False,IND,0.0,1,-0.36,40,-14.4

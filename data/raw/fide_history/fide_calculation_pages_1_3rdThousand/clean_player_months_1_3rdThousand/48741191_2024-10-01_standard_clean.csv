@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48741191,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1577,1473,2.0,5,0.08,40,3.2,"Sagnik, Dutta",,1808.0,False,IND,0.0,1,-0.12,40,-4.8
+48741191,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1577,1473,2.0,5,0.08,40,3.2,"Narendra, Agarwal",,1770.0,False,IND,0.0,1,-0.15,40,-6.0
+48741191,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1577,1473,2.0,5,0.08,40,3.2,"Abhyansh, Jha",,1406.0,False,IND,1.0,1,0.41,40,16.4
+48741191,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1577,1473,2.0,5,0.08,40,3.2,"Riddhiman, Das",,1464.0,False,IND,1.0,1,0.49,40,19.6
+48741191,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1577,1473,2.0,5,0.08,40,3.2,"Aayan, Gupta",,1438.0,False,IND,0.0,1,-0.55,40,-22.0

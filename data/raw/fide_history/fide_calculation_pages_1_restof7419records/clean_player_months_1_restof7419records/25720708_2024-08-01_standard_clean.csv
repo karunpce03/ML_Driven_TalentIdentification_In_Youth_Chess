@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25720708,2024-08-01,0,SERBIA OPEN 2024 - Challengers,Beograd SRB,2024-07-12,2024-07-17,1764,1568,3.0,8,0.95,40,38.0,"Emujin, Enkh-Amgalan",wc,1849.0,False,MGL,0.5,1,0.34,40,13.6
+25720708,2024-08-01,0,SERBIA OPEN 2024 - Challengers,Beograd SRB,2024-07-12,2024-07-17,1764,1568,3.0,8,0.95,40,38.0,"Jevtic, Miroljub",,1928.0,False,SRB,0.0,1,-0.1,40,-4.0
+25720708,2024-08-01,0,SERBIA OPEN 2024 - Challengers,Beograd SRB,2024-07-12,2024-07-17,1764,1568,3.0,8,0.95,40,38.0,"Petrova, Maria",,1838.0,False,BUL,0.0,1,-0.17,40,-6.8
+25720708,2024-08-01,0,SERBIA OPEN 2024 - Challengers,Beograd SRB,2024-07-12,2024-07-17,1764,1568,3.0,8,0.95,40,38.0,"Mandzhieva, Altana",,1712.0,False,AUT,0.5,1,0.19,40,7.6
+25720708,2024-08-01,0,SERBIA OPEN 2024 - Challengers,Beograd SRB,2024-07-12,2024-07-17,1764,1568,3.0,8,0.95,40,38.0,"Bjelica, Danilo",,1691.0,False,SRB,0.0,1,-0.33,40,-13.2
+25720708,2024-08-01,0,SERBIA OPEN 2024 - Challengers,Beograd SRB,2024-07-12,2024-07-17,1764,1568,3.0,8,0.95,40,38.0,"Colovic, Vuk",,1689.0,False,SRB,0.5,1,0.16,40,6.4
+25720708,2024-08-01,0,SERBIA OPEN 2024 - Challengers,Beograd SRB,2024-07-12,2024-07-17,1764,1568,3.0,8,0.95,40,38.0,"Zahariev, Velislav",,1668.0,False,BUL,1.0,1,0.64,40,25.6
+25720708,2024-08-01,0,SERBIA OPEN 2024 - Challengers,Beograd SRB,2024-07-12,2024-07-17,1764,1568,3.0,8,0.95,40,38.0,"Nikonov, Kirill",,1733.0,False,SRB,0.5,1,0.22,40,8.8
+25720708,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1649,1568,2.0,5,-0.13,40,-5.2,"Stankovic, Andrea",,1954.0,False,SRB,0.0,1,-0.09,40,-3.6
+25720708,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1649,1568,2.0,5,-0.13,40,-5.2,"Ozdogan, Boran",,1460.0,False,TUR,1.0,1,0.35,40,14.0
+25720708,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1649,1568,2.0,5,-0.13,40,-5.2,"Bjelanovic, Nemanja",,1857.0,False,SRB,0.0,1,-0.16,40,-6.4
+25720708,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1649,1568,2.0,5,-0.13,40,-5.2,"Munkh-Ayalguu, Dorjderem",,1506.0,False,MGL,0.0,1,-0.59,40,-23.6
+25720708,2024-08-01,0,SERBIA OPEN 2024 - Weekend,Beograd SRB,2024-07-18,2024-07-21,1649,1568,2.0,5,-0.13,40,-5.2,"Ayaan, Hashmi",,1466.0,False,IND,1.0,1,0.36,40,14.4

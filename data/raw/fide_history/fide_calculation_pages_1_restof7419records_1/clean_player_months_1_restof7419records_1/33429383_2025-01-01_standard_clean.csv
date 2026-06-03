@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33429383,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1722,1651,3.0,5,0.92,40,36.8,"Napone, Emerson",,1930.0,False,PHI,0.0,1,-0.16,40,-6.4
+33429383,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1722,1651,3.0,5,0.92,40,36.8,"Thamizh, Thalavam R",,1457.0,False,IND,1.0,1,0.25,40,10.0
+33429383,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1722,1651,3.0,5,0.92,40,36.8,"Stuthi, Nayak",,1450.0,False,IND,1.0,1,0.24,40,9.6
+33429383,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1722,1651,3.0,5,0.92,40,36.8,"Fathi Tavani, Farhoud",,1880.0,False,IRI,0.0,1,-0.21,40,-8.4
+33429383,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1722,1651,3.0,5,0.92,40,36.8,"Aly, Talal",,1893.0,False,EGY,1.0,1,0.8,40,32.0

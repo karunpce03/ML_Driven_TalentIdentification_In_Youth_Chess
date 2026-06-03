@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25156527,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1657,1766,7.0,9,1.17,40,46.8,"Aarav, Gupta",,1415.0,False,IND,1.0,1,0.11,40,4.4
+25156527,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1657,1766,7.0,9,1.17,40,46.8,"Purushotham, Joshi",,1548.0,False,IND,1.0,1,0.22,40,8.8
+25156527,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1657,1766,7.0,9,1.17,40,46.8,"Devarsh, Kinra",,1635.0,False,IND,1.0,1,0.32,40,12.8
+25156527,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1657,1766,7.0,9,1.17,40,46.8,"Anadkat, Kartavya",,2152.0,False,IND,0.5,1,0.41,40,16.4
+25156527,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1657,1766,7.0,9,1.17,40,46.8,"Vishwam, Anand",,1655.0,False,IND,0.5,1,-0.15,40,-6.0
+25156527,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1657,1766,7.0,9,1.17,40,46.8,"Chandan, Chawla",,1662.0,False,IND,0.0,1,-0.64,40,-25.6
+25156527,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1657,1766,7.0,9,1.17,40,46.8,"Dahale, Rajas",,1608.0,False,IND,1.0,1,0.29,40,11.6
+25156527,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1657,1766,7.0,9,1.17,40,46.8,"Alokik, Maheshwari",,1636.0,False,IND,1.0,1,0.32,40,12.8
+25156527,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1657,1766,7.0,9,1.17,40,46.8,"Puneet, Verma",,1606.0,False,IND,1.0,1,0.29,40,11.6
+25156527,2024-07-01,0,1st Khelo Chess India Classical International FIDE Rating Tournament,Bhopal IND,2024-06-04,2024-06-09,1636,1860,5.0,5,1.19,40,47.6,"Shreshth, Singh Tomar",,1460.0,True,IND,1.0,1,0.08,40,3.2
+25156527,2024-07-01,0,1st Khelo Chess India Classical International FIDE Rating Tournament,Bhopal IND,2024-06-04,2024-06-09,1636,1860,5.0,5,1.19,40,47.6,"Shourya, Pratap Singh",,1545.0,False,IND,1.0,1,0.14,40,5.6
+25156527,2024-07-01,0,1st Khelo Chess India Classical International FIDE Rating Tournament,Bhopal IND,2024-06-04,2024-06-09,1636,1860,5.0,5,1.19,40,47.6,"Srikar, G V B",,1673.0,False,IND,1.0,1,0.26,40,10.4
+25156527,2024-07-01,0,1st Khelo Chess India Classical International FIDE Rating Tournament,Bhopal IND,2024-06-04,2024-06-09,1636,1860,5.0,5,1.19,40,47.6,"Jain, Nitin",,1740.0,False,IND,1.0,1,0.34,40,13.6
+25156527,2024-07-01,0,1st Khelo Chess India Classical International FIDE Rating Tournament,Bhopal IND,2024-06-04,2024-06-09,1636,1860,5.0,5,1.19,40,47.6,"Parihar, Rajeev Singh",,1762.0,False,IND,1.0,1,0.37,40,14.8

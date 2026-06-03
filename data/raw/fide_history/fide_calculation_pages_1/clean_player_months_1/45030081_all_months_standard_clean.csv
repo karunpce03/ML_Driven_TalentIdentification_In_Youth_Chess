@@ -1,0 +1,127 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45030081,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,1950,1916,4.0,8,0.27,40,10.8,"Doraszelski, Alexander",,2277.0,False,GER,0.0,1,-0.1,40,-4.0
+45030081,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,1950,1916,4.0,8,0.27,40,10.8,"Tudela Gonzalez, Victor",,2066.0,False,ESP,0.0,1,-0.3,40,-12.0
+45030081,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,1950,1916,4.0,8,0.27,40,10.8,"Alepuz Cintas, Pablo",,1821.0,False,ESP,1.0,1,0.37,40,14.8
+45030081,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,1950,1916,4.0,8,0.27,40,10.8,"Sempere Domenech, Abel",,1999.0,False,ESP,0.0,1,-0.39,40,-15.6
+45030081,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,1950,1916,4.0,8,0.27,40,10.8,"Gaitan Galstyan, Narek",,1782.0,False,ESP,0.0,1,-0.68,40,-27.2
+45030081,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,1950,1916,4.0,8,0.27,40,10.8,"Blanter, Sofya",,1824.0,False,NED,1.0,1,0.37,40,14.8
+45030081,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,1950,1916,4.0,8,0.27,40,10.8,"Torres, Lucas",,1781.0,False,SWE,1.0,1,0.32,40,12.8
+45030081,2024-05-01,0,VIII Open Internacional Semana Santa San Vicente del Raspeig 2024 G-A,San Vicente del Raspeig (Alicante) ESP,2024-03-27,2024-04-01,1950,1916,4.0,8,0.27,40,10.8,"Sanz Losada, Victoriano",c,2049.0,False,ESP,1.0,1,0.68,40,27.2
+45030081,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2164,1916,4.0,9,2.22,40,88.8,"Tulliez, Andre",,2157.0,False,FRA,0.0,1,-0.2,40,-8.0
+45030081,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2164,1916,4.0,9,2.22,40,88.8,"Goudriaan, Rafael",,2030.0,False,NED,1.0,1,0.66,40,26.4
+45030081,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2164,1916,4.0,9,2.22,40,88.8,"Kavciyan, Yega",,2165.0,False,FRA,1.0,1,0.81,40,32.4
+45030081,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2164,1916,4.0,9,2.22,40,88.8,"Rudolf, Michal",f,2267.0,False,POL,0.0,1,-0.11,40,-4.4
+45030081,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2164,1916,4.0,9,2.22,40,88.8,"Midy, Robin",c,2174.0,False,FRA,0.5,1,0.32,40,12.8
+45030081,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2164,1916,4.0,9,2.22,40,88.8,"Babaud, Antoine",,2136.0,False,FRA,0.5,1,0.28,40,11.2
+45030081,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2164,1916,4.0,9,2.22,40,88.8,"Boeren, Jurriaan",,2141.0,False,NED,0.5,1,0.28,40,11.2
+45030081,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2164,1916,4.0,9,2.22,40,88.8,"Prasad, Devaki V",m,2191.0,False,IND,0.5,1,0.33,40,13.2
+45030081,2024-05-01,0,9eme Open International d'Echecs de Noisiel Open A (plus 1900 Elo),NOISIEL FRA,2024-04-06,2024-04-11,2164,1916,4.0,9,2.22,40,88.8,"Dubourg, Pierrick",,2218.0,False,FRA,0.0,1,-0.15,40,-6.0
+45030081,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2247,2016,5.5,11,2.79,35,97.65,"Fromm, Marius",f,2416.0,True,GER,0.0,1,-0.08,35,-2.8
+45030081,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2247,2016,5.5,11,2.79,35,97.65,"Mankga, Thabang",,1817.0,False,RSA,1.0,1,0.24,35,8.4
+45030081,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2247,2016,5.5,11,2.79,35,97.65,"Sanket, Chakravarty",m,2357.0,False,IND,0.0,1,-0.12,35,-4.2
+45030081,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2247,2016,5.5,11,2.79,35,97.65,"Dishank, Sachin Bajaj",,1893.0,False,IND,1.0,1,0.33,35,11.55
+45030081,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2247,2016,5.5,11,2.79,35,97.65,"Jares, Michal",f,2382.0,False,CZE,1.0,1,0.9,35,31.5
+45030081,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2247,2016,5.5,11,2.79,35,97.65,"Davtyan, Arsen",m,2415.0,False,ARM,0.5,1,0.42,35,14.7
+45030081,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2247,2016,5.5,11,2.79,35,97.65,"Ozenir, Ekin Baris",m,2390.0,False,TUR,0.5,1,0.4,35,14.0
+45030081,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2247,2016,5.5,11,2.79,35,97.65,"Kanyamarala, Tarun",m,2333.0,False,IRL,0.0,1,-0.13,35,-4.55
+45030081,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2247,2016,5.5,11,2.79,35,97.65,"Smirnov, Mark",c,2203.0,False,KAZ,1.0,1,0.74,35,25.9
+45030081,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2247,2016,5.5,11,2.79,35,97.65,"Koziorowicz, Michal",f,2304.0,False,POL,0.0,1,-0.16,35,-5.6
+45030081,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2247,2016,5.5,11,2.79,35,97.65,"Vrashank, Chouhan",f,2209.0,False,IND,0.5,1,0.25,35,8.75
+45030081,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2156,2016,5.0,9,2.01,35,70.35,"Kurmann, Oliver",m,2416.0,True,SUI,0.0,1,-0.08,35,-2.8
+45030081,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2156,2016,5.0,9,2.01,35,70.35,"Dmitruk, Volodymyr",,1837.0,False,UKR,1.0,1,0.27,35,9.45
+45030081,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2156,2016,5.0,9,2.01,35,70.35,"Cai, Chaoruo",c,2241.0,False,CHN,0.0,1,-0.22,35,-7.7
+45030081,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2156,2016,5.0,9,2.01,35,70.35,"Kalvach, Ladislav",,1873.0,False,CZE,1.0,1,0.31,35,10.85
+45030081,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2156,2016,5.0,9,2.01,35,70.35,"Sykora, Marek",,2240.0,False,CZE,0.0,1,-0.22,35,-7.7
+45030081,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2156,2016,5.0,9,2.01,35,70.35,"Othman, A. Moussa",f,2241.0,False,UAE,1.0,1,0.78,35,27.3
+45030081,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2156,2016,5.0,9,2.01,35,70.35,"Stigar, Petter",f,2160.0,False,NOR,0.5,1,0.19,35,6.65
+45030081,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2156,2016,5.0,9,2.01,35,70.35,"Herega, Nejc",,2225.0,False,SLO,0.5,1,0.27,35,9.45
+45030081,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,2156,2016,5.0,9,2.01,35,70.35,"Richterova, Natasa",wm,2171.0,False,CZE,1.0,1,0.71,35,24.85
+45030081,2024-08-01,0,9e Open International de Porticcio - Tournoi plus 1900 Elo,GROSSETO PRUGNA FRA,2024-06-29,2024-07-05,2217,2016,4.0,9,1.77,25,44.25,"Manoeuvre, Antoine",f,2316.0,False,FRA,0.5,1,0.35,25,8.75
+45030081,2024-08-01,0,9e Open International de Porticcio - Tournoi plus 1900 Elo,GROSSETO PRUGNA FRA,2024-06-29,2024-07-05,2217,2016,4.0,9,1.77,25,44.25,"Ouellet, Maili-Jade",wg,2290.0,False,CAN,0.0,1,-0.17,25,-4.25
+45030081,2024-08-01,0,9e Open International de Porticcio - Tournoi plus 1900 Elo,GROSSETO PRUGNA FRA,2024-06-29,2024-07-05,2217,2016,4.0,9,1.77,25,44.25,"Grigorian, Roudolph",,2116.0,False,FRA,1.0,1,0.64,25,16.0
+45030081,2024-08-01,0,9e Open International de Porticcio - Tournoi plus 1900 Elo,GROSSETO PRUGNA FRA,2024-06-29,2024-07-05,2217,2016,4.0,9,1.77,25,44.25,"Bracker, Frank",m,2296.0,False,GER,0.5,1,0.34,25,8.5
+45030081,2024-08-01,0,9e Open International de Porticcio - Tournoi plus 1900 Elo,GROSSETO PRUGNA FRA,2024-06-29,2024-07-05,2217,2016,4.0,9,1.77,25,44.25,"De Balmann, Marc",,2194.0,False,FRA,0.0,1,-0.27,25,-6.75
+45030081,2024-08-01,0,9e Open International de Porticcio - Tournoi plus 1900 Elo,GROSSETO PRUGNA FRA,2024-06-29,2024-07-05,2217,2016,4.0,9,1.77,25,44.25,"Ipek, Egehan",c,2162.0,False,TUR,1.0,1,0.7,25,17.5
+45030081,2024-08-01,0,9e Open International de Porticcio - Tournoi plus 1900 Elo,GROSSETO PRUGNA FRA,2024-06-29,2024-07-05,2217,2016,4.0,9,1.77,25,44.25,"Ratier-Fontana, Matteo",,2153.0,False,FRA,1.0,1,0.68,25,17.0
+45030081,2024-08-01,0,9e Open International de Porticcio - Tournoi plus 1900 Elo,GROSSETO PRUGNA FRA,2024-06-29,2024-07-05,2217,2016,4.0,9,1.77,25,44.25,"Malassagne, Raphael",f,2259.0,False,FRA,0.0,1,-0.2,25,-5.0
+45030081,2024-08-01,0,9e Open International de Porticcio - Tournoi plus 1900 Elo,GROSSETO PRUGNA FRA,2024-06-29,2024-07-05,2217,2016,4.0,9,1.77,25,44.25,"Ha, Yihan",,2166.0,False,CHN,0.0,1,-0.3,25,-7.5
+45030081,2024-08-01,0,4eme Festival international d'echecs de La Plagne Soleil - Tournoi Maitre,LA PLAGNE TARENTAISE FRA,2024-07-06,2024-07-12,2279,2184,5.0,9,1.47,25,36.75,"Aryan, Chopra",g,2584.0,True,IND,0.0,1,-0.08,25,-2.0
+45030081,2024-08-01,0,4eme Festival international d'echecs de La Plagne Soleil - Tournoi Maitre,LA PLAGNE TARENTAISE FRA,2024-07-06,2024-07-12,2279,2184,5.0,9,1.47,25,36.75,"Pierrot, Yohann",,2033.0,False,FRA,1.0,1,0.3,25,7.5
+45030081,2024-08-01,0,4eme Festival international d'echecs de La Plagne Soleil - Tournoi Maitre,LA PLAGNE TARENTAISE FRA,2024-07-06,2024-07-12,2279,2184,5.0,9,1.47,25,36.75,"Leniart, Arkadiusz",g,2496.0,False,POL,0.5,1,0.36,25,9.0
+45030081,2024-08-01,0,4eme Festival international d'echecs de La Plagne Soleil - Tournoi Maitre,LA PLAGNE TARENTAISE FRA,2024-07-06,2024-07-12,2279,2184,5.0,9,1.47,25,36.75,"Berger, Justin",,1993.0,False,FRA,0.5,1,-0.25,25,-6.25
+45030081,2024-08-01,0,4eme Festival international d'echecs de La Plagne Soleil - Tournoi Maitre,LA PLAGNE TARENTAISE FRA,2024-07-06,2024-07-12,2279,2184,5.0,9,1.47,25,36.75,"Stoll, Lucia",,1950.0,False,FRA,1.0,1,0.21,25,5.25
+45030081,2024-08-01,0,4eme Festival international d'echecs de La Plagne Soleil - Tournoi Maitre,LA PLAGNE TARENTAISE FRA,2024-07-06,2024-07-12,2279,2184,5.0,9,1.47,25,36.75,"Ayush, Sharma",f,2342.0,False,IND,0.5,1,0.21,25,5.25
+45030081,2024-08-01,0,4eme Festival international d'echecs de La Plagne Soleil - Tournoi Maitre,LA PLAGNE TARENTAISE FRA,2024-07-06,2024-07-12,2279,2184,5.0,9,1.47,25,36.75,"Krastev, Alexander",m,2427.0,False,GER,0.5,1,0.3,25,7.5
+45030081,2024-08-01,0,4eme Festival international d'echecs de La Plagne Soleil - Tournoi Maitre,LA PLAGNE TARENTAISE FRA,2024-07-06,2024-07-12,2279,2184,5.0,9,1.47,25,36.75,"Song, Julien",m,2312.0,False,FRA,1.0,1,0.67,25,16.75
+45030081,2024-08-01,0,4eme Festival international d'echecs de La Plagne Soleil - Tournoi Maitre,LA PLAGNE TARENTAISE FRA,2024-07-06,2024-07-12,2279,2184,5.0,9,1.47,25,36.75,"Sammed Jaykumar, Shete",m,2373.0,False,IND,0.0,1,-0.25,25,-6.25
+45030081,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2260,2184,4.5,9,0.83,25,20.75,"Mohammad, Nubairshah",m,2434.0,False,IND,0.0,1,-0.19,25,-4.75
+45030081,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2260,2184,4.5,9,0.83,25,20.75,"Belkaid, Sohan",f,2418.0,False,FRA,0.0,1,-0.21,25,-5.25
+45030081,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2260,2184,4.5,9,0.83,25,20.75,"Degraeve, Remy",m,2428.0,False,FRA,0.0,1,-0.2,25,-5.0
+45030081,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2260,2184,4.5,9,0.83,25,20.75,"Bailleul, Adrien",,2114.0,False,FRA,1.0,1,0.4,25,10.0
+45030081,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2260,2184,4.5,9,0.83,25,20.75,"Albaric, Etienne",,2144.0,False,FRA,0.0,1,-0.56,25,-14.0
+45030081,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2260,2184,4.5,9,0.83,25,20.75,"Midoux, Sebastien",,2153.0,False,FRA,1.0,1,0.46,25,11.5
+45030081,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2260,2184,4.5,9,0.83,25,20.75,"Tureshbayev, Anuar",,2142.0,False,FRA,0.5,1,-0.06,25,-1.5
+45030081,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2260,2184,4.5,9,0.83,25,20.75,"Bottazzi, Ulysse",f,2270.0,False,FRA,1.0,1,0.62,25,15.5
+45030081,2024-08-01,0,Open International d'Aix en Provence - Trophee Dole France 2024 - Grand Prix Nextlane (2100 Elo),AIX EN PROVENCE FRA,2024-07-20,2024-07-28,2260,2184,4.5,9,0.83,25,20.75,"Gertosio, Franck",f,2235.0,False,FRA,1.0,1,0.57,25,14.25
+45030081,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2386,2286,4.5,9,1.24,40,49.6,"Nitish, Belurkar",m,2432.0,False,IND,0.5,1,0.2,40,8.0
+45030081,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2386,2286,4.5,9,1.24,40,49.6,"Mammadov, Zaur",g,2424.0,False,AZE,0.5,1,0.19,40,7.6
+45030081,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2386,2286,4.5,9,1.24,40,49.6,"Aradhya, Garg",f,2412.0,False,IND,0.5,1,0.17,40,6.8
+45030081,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2386,2286,4.5,9,1.24,40,49.6,"Begmuratov, Khumoyun",m,2416.0,False,UZB,0.0,1,-0.32,40,-12.8
+45030081,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2386,2286,4.5,9,1.24,40,49.6,"Manish, Anto Cristiano F",m,2378.0,False,IND,0.0,1,-0.37,40,-14.8
+45030081,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2386,2286,4.5,9,1.24,40,49.6,"Namitbir, Singh Walia",f,2367.0,False,IND,0.5,1,0.11,40,4.4
+45030081,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2386,2286,4.5,9,1.24,40,49.6,"Tan, Jun Ying",c,2330.0,False,MAS,0.5,1,0.06,40,2.4
+45030081,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2386,2286,4.5,9,1.24,40,49.6,"Jinan, Jomon",,2348.0,False,IND,1.0,1,0.59,40,23.6
+45030081,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2386,2286,4.5,9,1.24,40,49.6,"Kiolbasa, Oliwia",m wm,2367.0,False,POL,1.0,1,0.61,40,24.4
+45030081,2024-11-01,0,First Saturday 2024 October GM,Budapest HUN,2024-10-05,2024-10-12,2400,2336,3.5,9,-0.2,20,-4.0,"Mohammad Fahad, Rahman",m,2431.0,False,BAN,0.0,1,-0.37,20,-7.4
+45030081,2024-11-01,0,First Saturday 2024 October GM,Budapest HUN,2024-10-05,2024-10-12,2400,2336,3.5,9,-0.2,20,-4.0,"Manon, Reja Neer",f,2419.0,False,BAN,0.5,1,0.11,20,2.2
+45030081,2024-11-01,0,First Saturday 2024 October GM,Budapest HUN,2024-10-05,2024-10-12,2400,2336,3.5,9,-0.2,20,-4.0,"Neverov, Valeriy",g,2423.0,False,UKR,1.0,1,0.62,20,12.4
+45030081,2024-11-01,0,First Saturday 2024 October GM,Budapest HUN,2024-10-05,2024-10-12,2400,2336,3.5,9,-0.2,20,-4.0,"Panesar, Vedant",f,2420.0,False,IND,0.5,1,0.12,20,2.4
+45030081,2024-11-01,0,First Saturday 2024 October GM,Budapest HUN,2024-10-05,2024-10-12,2400,2336,3.5,9,-0.2,20,-4.0,"Md, Imran",f,2391.0,False,IND,0.5,1,0.08,20,1.6
+45030081,2024-11-01,0,First Saturday 2024 October GM,Budapest HUN,2024-10-05,2024-10-12,2400,2336,3.5,9,-0.2,20,-4.0,"Kovalev, Andrei",g,2412.0,False,BLR,0.5,1,0.1,20,2.0
+45030081,2024-11-01,0,First Saturday 2024 October GM,Budapest HUN,2024-10-05,2024-10-12,2400,2336,3.5,9,-0.2,20,-4.0,"Berczes, David",g,2400.0,False,HUN,0.0,1,-0.41,20,-8.2
+45030081,2024-11-01,0,First Saturday 2024 October GM,Budapest HUN,2024-10-05,2024-10-12,2400,2336,3.5,9,-0.2,20,-4.0,"Egresi, Mate",f,2363.0,False,HUN,0.0,1,-0.46,20,-9.2
+45030081,2024-11-01,0,First Saturday 2024 October GM,Budapest HUN,2024-10-05,2024-10-12,2400,2336,3.5,9,-0.2,20,-4.0,"Wagh, Suyog",f,2341.0,False,IND,0.5,1,0.01,20,0.2
+45030081,2024-11-01,0,Vezerkepzo Harvest 2024 GM,Budapest HUN,2024-10-14,2024-10-19,2390,2336,3.0,9,-0.83,20,-16.6,"Kovalev, Andrei",g,2412.0,False,BLR,0.5,1,0.1,20,2.0
+45030081,2024-11-01,0,Vezerkepzo Harvest 2024 GM,Budapest HUN,2024-10-14,2024-10-19,2390,2336,3.0,9,-0.83,20,-16.6,"Lohia, Sohum",f,2388.0,False,ENG,0.5,1,0.07,20,1.4
+45030081,2024-11-01,0,Vezerkepzo Harvest 2024 GM,Budapest HUN,2024-10-14,2024-10-19,2390,2336,3.0,9,-0.83,20,-16.6,"Panesar, Vedant",f,2420.0,False,IND,0.0,1,-0.38,20,-7.6
+45030081,2024-11-01,0,Vezerkepzo Harvest 2024 GM,Budapest HUN,2024-10-14,2024-10-19,2390,2336,3.0,9,-0.83,20,-16.6,"Galyas, Miklos",g,2394.0,False,HUN,0.5,1,0.08,20,1.6
+45030081,2024-11-01,0,Vezerkepzo Harvest 2024 GM,Budapest HUN,2024-10-14,2024-10-19,2390,2336,3.0,9,-0.83,20,-16.6,"Savitha, Shri B",wg,2348.0,False,IND,0.0,1,-0.48,20,-9.6
+45030081,2024-11-01,0,Vezerkepzo Harvest 2024 GM,Budapest HUN,2024-10-14,2024-10-19,2390,2336,3.0,9,-0.83,20,-16.6,"Priansh, Das",,2317.0,False,IND,1.0,1,0.47,20,9.4
+45030081,2024-11-01,0,Vezerkepzo Harvest 2024 GM,Budapest HUN,2024-10-14,2024-10-19,2390,2336,3.0,9,-0.83,20,-16.6,"Neverov, Valeriy",g,2423.0,False,UKR,0.5,1,0.12,20,2.4
+45030081,2024-11-01,0,Vezerkepzo Harvest 2024 GM,Budapest HUN,2024-10-14,2024-10-19,2390,2336,3.0,9,-0.83,20,-16.6,"Juhasz, Agoston",f,2414.0,False,HUN,0.0,1,-0.39,20,-7.8
+45030081,2024-11-01,0,Vezerkepzo Harvest 2024 GM,Budapest HUN,2024-10-14,2024-10-19,2390,2336,3.0,9,-0.83,20,-16.6,"Md, Imran",f,2391.0,False,IND,0.0,1,-0.42,20,-8.4
+45030081,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2388,2315,4.0,9,0.41,20,8.2,"Aaditya, Dhingra",m,2448.0,False,IND,0.5,1,0.18,20,3.6
+45030081,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2388,2315,4.0,9,0.41,20,8.2,"Shyaam, Nikhil P",g,2445.0,False,IND,0.0,1,-0.32,20,-6.4
+45030081,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2388,2315,4.0,9,0.41,20,8.2,"Panda, Sambit",m,2380.0,False,IND,0.0,1,-0.41,20,-8.2
+45030081,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2388,2315,4.0,9,0.41,20,8.2,"Abdukhakimov, Akbarali",f,2271.0,False,UZB,1.0,1,0.44,20,8.8
+45030081,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2388,2315,4.0,9,0.41,20,8.2,"Zverev, Lev",m,2441.0,False,FID,1.0,1,0.67,20,13.4
+45030081,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2388,2315,4.0,9,0.41,20,8.2,"Sahib, Singh",f,2438.0,False,IND,0.5,1,0.17,20,3.4
+45030081,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2388,2315,4.0,9,0.41,20,8.2,"Zarubitski, Viachaslau",m,2389.0,False,FID,0.0,1,-0.4,20,-8.0
+45030081,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2388,2315,4.0,9,0.41,20,8.2,"Bharadia, Yash",c,2385.0,False,IND,0.5,1,0.1,20,2.0
+45030081,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2388,2315,4.0,9,0.41,20,8.2,"Vershinin, Igor",f,2298.0,False,FID,0.5,1,-0.02,20,-0.4
+45030081,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2384,2315,3.0,9,-0.63,20,-12.6,"Kazhgaleyev, Murtas",g,2488.0,False,KAZ,0.0,1,-0.27,20,-5.4
+45030081,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2384,2315,3.0,9,-0.63,20,-12.6,"Pham, Le Thao Nguyen",m wg,2384.0,False,VIE,0.5,1,0.1,20,2.0
+45030081,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2384,2315,3.0,9,-0.63,20,-12.6,"Abdurakhmonov, Mukhammadali",m,2395.0,False,UZB,0.5,1,0.11,20,2.2
+45030081,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2384,2315,3.0,9,-0.63,20,-12.6,"Amartuvshin, Ganzorig",m,2392.0,False,MGL,0.5,1,0.11,20,2.2
+45030081,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2384,2315,3.0,9,-0.63,20,-12.6,"Bukreev, Stanislav",f,2384.0,False,FID,0.0,1,-0.4,20,-8.0
+45030081,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2384,2315,3.0,9,-0.63,20,-12.6,"Dixit, Nikhil",f,2361.0,False,IND,0.5,1,0.06,20,1.2
+45030081,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2384,2315,3.0,9,-0.63,20,-12.6,"Prraneeth, Vuppala",c,2461.0,False,IND,0.0,1,-0.3,20,-6.0
+45030081,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2384,2315,3.0,9,-0.63,20,-12.6,"Luong, Phuong Hanh",wm,2225.0,False,VIE,1.0,1,0.38,20,7.6
+45030081,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2384,2315,3.0,9,-0.63,20,-12.6,"Arun, Kataria",f,2370.0,False,IND,0.0,1,-0.42,20,-8.4
+45030081,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2113,2315,6.0,10,-1.23,20,-24.6,"Ishvi, Aggarwal",wc,1943.0,False,IND,0.5,1,-0.4,20,-8.0
+45030081,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2113,2315,6.0,10,-1.23,20,-24.6,"Dakshita, Kumawat",,1939.0,False,IND,1.0,1,0.09,20,1.8
+45030081,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2113,2315,6.0,10,-1.23,20,-24.6,"Tiwari, Shivansh",,2035.0,False,IND,1.0,1,0.16,20,3.2
+45030081,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2113,2315,6.0,10,-1.23,20,-24.6,"Md, Imran",f,2430.0,False,IND,0.5,1,0.16,20,3.2
+45030081,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2113,2315,6.0,10,-1.23,20,-24.6,"Viani, Antonio Dcunha",m,2383.0,False,IND,0.0,1,-0.41,20,-8.2
+45030081,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2113,2315,6.0,10,-1.23,20,-24.6,"Karan, J P",,1969.0,False,IND,1.0,1,0.11,20,2.2
+45030081,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2113,2315,6.0,10,-1.23,20,-24.6,"Kaustuv, Kundu",m,2427.0,False,IND,0.0,1,-0.35,20,-7.0
+45030081,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2113,2315,6.0,10,-1.23,20,-24.6,"Janukshan, B",,2024.0,False,SRI,1.0,1,0.15,20,3.0
+45030081,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2113,2315,6.0,10,-1.23,20,-24.6,"Ayaan, Garg",,1922.0,False,IND,0.0,1,-0.92,20,-18.4
+45030081,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2113,2315,6.0,10,-1.23,20,-24.6,"Mrudul, Dehankar",wm,2055.0,False,IND,1.0,1,0.18,20,3.6
+45030081,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2233,2286,3.5,7,-0.38,20,-7.6,"Parmod, Kumar",,1886.0,True,IND,1.0,1,0.08,20,1.6
+45030081,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2233,2286,3.5,7,-0.38,20,-7.6,"Balkishan, A.",,2119.0,False,IND,1.0,1,0.28,20,5.6
+45030081,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2233,2286,3.5,7,-0.38,20,-7.6,"Srihari, L",m,2366.0,False,IND,0.0,1,-0.39,20,-7.8
+45030081,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2233,2286,3.5,7,-0.38,20,-7.6,"Neelash, Saha",m,2460.0,False,IND,0.5,1,0.23,20,4.6
+45030081,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2233,2286,3.5,7,-0.38,20,-7.6,"Ajay, Santhosh Parvathareddy",f,2245.0,False,IND,0.0,1,-0.56,20,-11.2
+45030081,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2233,2286,3.5,7,-0.38,20,-7.6,"Vignesh, N R",g,2537.0,False,IND,0.0,1,-0.19,20,-3.8
+45030081,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2233,2286,3.5,7,-0.38,20,-7.6,"Sree, Shaunak Chanda",,2015.0,False,IND,1.0,1,0.17,20,3.4

@@ -1,0 +1,51 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25137131,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2001,1756,5.0,9,3.14,28,87.92,"Borocz, Lorinc",,1947.0,False,HUN,0.5,1,0.25,28,7.0
+25137131,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2001,1756,5.0,9,3.14,28,87.92,"Hrbolka, Ladislav",f,2032.0,False,CZE,0.5,1,0.33,28,9.24
+25137131,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2001,1756,5.0,9,3.14,28,87.92,"Stifter, Ewald",,1931.0,False,AUT,1.0,1,0.73,28,20.44
+25137131,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2001,1756,5.0,9,3.14,28,87.92,"Marta, Dominik",,2136.0,False,HUN,0.0,1,-0.09,28,-2.52
+25137131,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2001,1756,5.0,9,3.14,28,87.92,"Borbely, Zsombor",,1840.0,False,HUN,1.0,1,0.62,28,17.36
+25137131,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2001,1756,5.0,9,3.14,28,87.92,"Biro, Sandor",m,2087.0,False,ROU,0.0,1,-0.12,28,-3.36
+25137131,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2001,1756,5.0,9,3.14,28,87.92,"Babits, Andras",,2061.0,False,HUN,0.5,1,0.36,28,10.08
+25137131,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2001,1756,5.0,9,3.14,28,87.92,"Korcz, Sandor",,1907.0,False,HUN,1.0,1,0.7,28,19.6
+25137131,2024-07-01,0,Zalakaros Chess Festival Barczay Laszlo Memorial 2024,Zalakaros HUN,2024-05-25,2024-06-02,2001,1756,5.0,9,3.14,28,87.92,"Boronyak, Arpad",f,2066.0,False,HUN,0.5,1,0.36,28,10.08
+25137131,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2032,1756,3.5,8,1.99,28,55.72,"Maldonado Gonzales, Stefano",,2156.0,True,ITA,1.0,1,0.92,28,25.76
+25137131,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2032,1756,3.5,8,1.99,28,55.72,"Solomon, Kenny",g,2156.0,True,RSA,0.0,1,-0.08,28,-2.24
+25137131,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2032,1756,3.5,8,1.99,28,55.72,"Bordignon, Angelo",,2072.0,False,ITA,0.5,1,0.37,28,10.36
+25137131,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2032,1756,3.5,8,1.99,28,55.72,"Perossa, Nicolas",f,2156.0,True,ITA,0.5,1,0.42,28,11.76
+25137131,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2032,1756,3.5,8,1.99,28,55.72,"Kumaresh, A",,1924.0,False,IND,0.0,1,-0.28,28,-7.84
+25137131,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2032,1756,3.5,8,1.99,28,55.72,"Altissimo, Tiziano",,1973.0,False,ITA,0.5,1,0.28,28,7.84
+25137131,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2032,1756,3.5,8,1.99,28,55.72,"Sharvaanica, A S",,1766.0,False,IND,0.5,1,0.01,28,0.28
+25137131,2024-07-01,0,FE 15 Dolomiti - A,Forni di Sopra ITA,2024-06-08,2024-06-15,2032,1756,3.5,8,1.99,28,55.72,"Frescura, Davide",,2054.0,False,ITA,0.5,1,0.35,28,9.8
+25137131,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1972,1756,5.0,8,3.13,28,87.64,"Cirelli, Alessandro",,1940.0,False,ITA,1.0,1,0.74,28,20.72
+25137131,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1972,1756,5.0,8,3.13,28,87.64,"Fasiello, Andrea Jonathan",,1964.0,False,ITA,0.5,1,0.27,28,7.56
+25137131,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1972,1756,5.0,8,3.13,28,87.64,"Djuric, Stefan",g,2156.0,True,SRB,0.0,1,-0.08,28,-2.24
+25137131,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1972,1756,5.0,8,3.13,28,87.64,"Lo Martire, Vincenzo",,1849.0,False,ITA,1.0,1,0.63,28,17.64
+25137131,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1972,1756,5.0,8,3.13,28,87.64,"Di Trapani, Luca",,1954.0,False,ITA,0.5,1,0.26,28,7.28
+25137131,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1972,1756,5.0,8,3.13,28,87.64,"Bettazzi, Daniele",,2018.0,False,ITA,0.5,1,0.32,28,8.96
+25137131,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1972,1756,5.0,8,3.13,28,87.64,"Trevisan, Stefano",,1872.0,False,ITA,0.5,1,0.16,28,4.48
+25137131,2024-07-01,0,OP 3 Scacchi in fortezza,San Leo ITA,2024-06-17,2024-06-23,1972,1756,5.0,8,3.13,28,87.64,"Griffa, Roberto Antonio Giuliano",,2024.0,False,ITA,1.0,1,0.83,28,23.24
+25137131,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2225,1987,5.0,8,3.35,40,134.0,"Jirasek, Pavel",f,2268.0,False,CZE,1.0,1,0.84,40,33.6
+25137131,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2225,1987,5.0,8,3.35,40,134.0,"Iglesias Ferreira, Andres",f,2289.0,False,ESP,0.0,1,-0.15,40,-6.0
+25137131,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2225,1987,5.0,8,3.35,40,134.0,"Gomez Sanjuan, Hector Fernando",,2152.0,False,ESP,0.5,1,0.22,40,8.8
+25137131,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2225,1987,5.0,8,3.35,40,134.0,"Aamodt, Peder Marcus",,2177.0,False,NOR,1.0,1,0.75,40,30.0
+25137131,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2225,1987,5.0,8,3.35,40,134.0,"Gomez Carreno, Martin",c,2220.0,False,ESP,1.0,1,0.79,40,31.6
+25137131,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2225,1987,5.0,8,3.35,40,134.0,"Ashwath, R.",f,2333.0,False,IND,0.0,1,-0.11,40,-4.4
+25137131,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2225,1987,5.0,8,3.35,40,134.0,"Sanz Gorospe, Ibai",,2167.0,False,ESP,0.5,1,0.24,40,9.6
+25137131,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2225,1987,5.0,8,3.35,40,134.0,"Gomez Pastrana, Juan",,2197.0,False,ESP,1.0,1,0.77,40,30.8
+25137131,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2005,1987,3.0,8,-0.72,40,-28.8,"Lacasa Diaz, Josep Anton",m,2324.0,False,ESP,0.5,1,0.38,40,15.2
+25137131,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2005,1987,3.0,8,-0.72,40,-28.8,"Savitha, Shri B",wg,2329.0,False,IND,0.0,1,-0.12,40,-4.8
+25137131,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2005,1987,3.0,8,-0.72,40,-28.8,"Aadya, Ranganath",,1745.0,False,IND,0.5,1,-0.3,40,-12.0
+25137131,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2005,1987,3.0,8,-0.72,40,-28.8,"Rice, Lana",,1587.0,True,SGP,1.0,1,0.08,40,3.2
+25137131,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2005,1987,3.0,8,-0.72,40,-28.8,"Montes Molina, Ivan",,2144.0,False,ESP,0.0,1,-0.29,40,-11.6
+25137131,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2005,1987,3.0,8,-0.72,40,-28.8,"Villar Reymundo, Juan Antonio",,2147.0,False,PER,0.0,1,-0.29,40,-11.6
+25137131,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2005,1987,3.0,8,-0.72,40,-28.8,"Chia, Zhi Kai Aaron",,1614.0,False,SGP,1.0,1,0.1,40,4.0
+25137131,2025-01-01,0,XI Sunway Sitges International Chess Festival - Group A,Sitges (Barcelona) ESP,2024-12-12,2024-12-22,2005,1987,3.0,8,-0.72,40,-28.8,"Lyutsinger, Iren",,2150.0,False,FID,0.0,1,-0.28,40,-11.2
+25137131,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2060,1987,4.0,9,0.22,40,8.8,"Vignesh, N R",g,2387.0,True,IND,0.0,1,-0.08,40,-3.2
+25137131,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2060,1987,4.0,9,0.22,40,8.8,"Romero Garcia, Jose Luis",,1842.0,False,ESP,1.0,1,0.31,40,12.4
+25137131,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2060,1987,4.0,9,0.22,40,8.8,"Piedra Salabarria, Ernesto",f,2272.0,False,CUB,0.5,1,0.34,40,13.6
+25137131,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2060,1987,4.0,9,0.22,40,8.8,"Bercaru, Vlad Ionut",,2065.0,False,ESP,0.5,1,0.11,40,4.4
+25137131,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2060,1987,4.0,9,0.22,40,8.8,"Carrascoso Morales, Abel",f,2182.0,False,ESP,0.0,1,-0.25,40,-10.0
+25137131,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2060,1987,4.0,9,0.22,40,8.8,"Cano Mateos, Pablo",,2067.0,False,ESP,0.5,1,0.11,40,4.4
+25137131,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2060,1987,4.0,9,0.22,40,8.8,"Jansone, Melanija Luize",,1885.0,False,LAT,0.5,1,-0.14,40,-5.6
+25137131,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2060,1987,4.0,9,0.22,40,8.8,"Medhvansh, Madeti",,1878.0,False,IND,0.5,1,-0.15,40,-6.0
+25137131,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2060,1987,4.0,9,0.22,40,8.8,"Vaddhireddy, Sai",,1962.0,False,ENG,0.5,1,-0.03,40,-1.2

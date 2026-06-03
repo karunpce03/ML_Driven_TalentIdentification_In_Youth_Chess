@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33483442,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1571,1437,0.0,3,-1.02,40,-40.8,"Anirudh, Rajan P",,1760.0,False,IND,0.0,1,-0.13,40,-5.2
+33483442,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1571,1437,0.0,3,-1.02,40,-40.8,"Puviya, Sureshkumar",,1400.0,False,IND,0.0,1,-0.55,40,-22.0
+33483442,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1571,1437,0.0,3,-1.02,40,-40.8,"Sairam, Bala M",,1552.0,False,IND,0.0,1,-0.34,40,-13.6

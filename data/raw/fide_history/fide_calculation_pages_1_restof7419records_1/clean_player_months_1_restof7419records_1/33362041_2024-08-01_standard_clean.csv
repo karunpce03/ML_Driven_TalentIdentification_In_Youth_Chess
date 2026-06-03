@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33362041,2024-08-01,0,FIDE WORLD CUP U12 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1857,1852,4.5,7,1.13,40,45.2,"Cronje, Johannes Christiaan",,1504.0,False,NAM,1.0,1,0.11,40,4.4
+33362041,2024-08-01,0,FIDE WORLD CUP U12 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1857,1852,4.5,7,1.13,40,45.2,"Tatvidze, Davit",,2001.0,False,GEO,0.0,1,-0.3,40,-12.0
+33362041,2024-08-01,0,FIDE WORLD CUP U12 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1857,1852,4.5,7,1.13,40,45.2,"Amreyev, Azat",,1703.0,False,KAZ,1.0,1,0.3,40,12.0
+33362041,2024-08-01,0,FIDE WORLD CUP U12 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1857,1852,4.5,7,1.13,40,45.2,"Diaz Guerrero, Jesus Daniel",c,2032.0,False,MEX,1.0,1,0.74,40,29.6
+33362041,2024-08-01,0,FIDE WORLD CUP U12 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1857,1852,4.5,7,1.13,40,45.2,"Zhang, Haoxuan(zj)",,1907.0,False,CHN,1.0,1,0.58,40,23.2
+33362041,2024-08-01,0,FIDE WORLD CUP U12 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1857,1852,4.5,7,1.13,40,45.2,"Qu, Haoming",,1877.0,False,CHN,0.0,1,-0.47,40,-18.8
+33362041,2024-08-01,0,FIDE WORLD CUP U12 Open (Group-B),Batumi GEO,2024-06-23,2024-06-29,1857,1852,4.5,7,1.13,40,45.2,"Gabadadze, Gabriel",,1975.0,False,GEO,0.5,1,0.17,40,6.8
+33362041,2024-08-01,0,FIDE WORLD CUP U12 Open (Stage-II),Batumi GEO,2024-07-01,2024-07-02,2034,1962,0.5,2,-0.3,40,-12.0,"Wang, Ted",,2034.0,False,USA,0.0,1,-0.4,40,-16.0
+33362041,2024-08-01,0,FIDE WORLD CUP U12 Open (Stage-II),Batumi GEO,2024-07-01,2024-07-02,2034,1962,0.5,2,-0.3,40,-12.0,"Wang, Ted",,2034.0,False,USA,0.5,1,0.1,40,4.0

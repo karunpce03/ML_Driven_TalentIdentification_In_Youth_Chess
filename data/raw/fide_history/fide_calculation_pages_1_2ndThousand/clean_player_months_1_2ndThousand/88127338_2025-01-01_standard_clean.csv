@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88127338,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1762,1525,2.0,7,0.24,40,9.6,"Khulan, Enkhsaikhan",f,1925,True,MGL,0.0,1,-0.08,40,-3.2
+88127338,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1762,1525,2.0,7,0.24,40,9.6,"Alotaibi, Maitha Abdulrahman A",,1777,False,KSA,1.0,1,0.81,40,32.4
+88127338,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1762,1525,2.0,7,0.24,40,9.6,"Wazwaz, Amjad",,1925,True,PLE,0.0,1,-0.08,40,-3.2
+88127338,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1762,1525,2.0,7,0.24,40,9.6,"Rashid, Husain Alhammadi",,1911,False,UAE,0.0,1,-0.09,40,-3.6
+88127338,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1762,1525,2.0,7,0.24,40,9.6,"Miswadah, Baha",c,1925,True,PLE,0.0,1,-0.08,40,-3.2
+88127338,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1762,1525,2.0,7,0.24,40,9.6,"Seward, Abby",,1431,False,ENG,1.0,1,0.37,40,14.8
+88127338,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1762,1525,2.0,7,0.24,40,9.6,"Umaraliev, Maqsudali",,1443,False,UZB,0.0,1,-0.61,40,-24.4

@@ -1,0 +1,2 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48725641,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1472,1464,0.0,1,-0.49,40,-19.6,"Vijayakumar, Vidvath Bharadwaj",,1472.0,False,IND,0.0,1,-0.49,40,-19.6

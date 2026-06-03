@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33313229,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1696,1500,0.5,3,-0.25,40,-10.0,"Shreyas, K Patil",,1725.0,False,IND,0.0,1,-0.22,40,-8.8
+33313229,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1696,1500,0.5,3,-0.25,40,-10.0,"Manjunath, Jain",,1659.0,False,IND,0.5,1,0.21,40,8.4
+33313229,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,1696,1500,0.5,3,-0.25,40,-10.0,"Arushi, Severin Helen D Silva",,1703.0,False,IND,0.0,1,-0.24,40,-9.6

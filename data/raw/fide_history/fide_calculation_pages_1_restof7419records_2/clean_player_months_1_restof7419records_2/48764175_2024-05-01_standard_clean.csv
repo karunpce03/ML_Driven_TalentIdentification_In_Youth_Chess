@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48764175,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1671,1486,2.0,7,0.11,40,4.4,"Subramanian, R M",,1878.0,False,IND,0.0,1,-0.08,40,-3.2
+48764175,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1671,1486,2.0,7,0.11,40,4.4,"Srinivasa, Rao G.v.",,1702.0,False,IND,1.0,1,0.78,40,31.2
+48764175,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1671,1486,2.0,7,0.11,40,4.4,"Anandhi, P",,1608.0,False,IND,0.0,1,-0.33,40,-13.2
+48764175,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1671,1486,2.0,7,0.11,40,4.4,"Pranav, Ganesh Prabhu",,1692.0,False,IND,0.0,1,-0.24,40,-9.6
+48764175,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1671,1486,2.0,7,0.11,40,4.4,"Yashmith, Ram Chaikam",,1599.0,False,KEN,0.5,1,0.15,40,6.0
+48764175,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1671,1486,2.0,7,0.11,40,4.4,"Kabir, Jeirath",,1591.0,False,IND,0.5,1,0.14,40,5.6
+48764175,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1671,1486,2.0,7,0.11,40,4.4,"Harshini, A",,1628.0,False,IND,0.0,1,-0.31,40,-12.4

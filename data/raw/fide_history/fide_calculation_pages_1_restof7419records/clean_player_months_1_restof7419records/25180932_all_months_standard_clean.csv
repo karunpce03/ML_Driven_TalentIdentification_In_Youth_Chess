@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25180932,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1527,1416,2.0,5,0.25,40,10.0,"Anusha, Sreejith",,1560.0,False,IND,0.5,1,0.19,40,7.6
+25180932,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1527,1416,2.0,5,0.25,40,10.0,"Siddhanth, Prabhu M",,1527.0,False,IND,0.5,1,0.15,40,6.0
+25180932,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1527,1416,2.0,5,0.25,40,10.0,"Kavuthick, Ram B",,1533.0,False,IND,0.5,1,0.16,40,6.4
+25180932,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1527,1416,2.0,5,0.25,40,10.0,"Janaki, S D",,1524.0,False,IND,0.0,1,-0.35,40,-14.0
+25180932,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1527,1416,2.0,5,0.25,40,10.0,"Mahadev, Sreejith",,1490.0,False,IND,0.5,1,0.1,40,4.0
+25180932,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1620,1416,1.0,5,-0.26,40,-10.4,"Ayyappan, P Santhana Prabu",,1816.0,True,IND,0.0,1,-0.08,40,-3.2
+25180932,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1620,1416,1.0,5,-0.26,40,-10.4,"Venkata, Naga Karthik Malladi",,1587.0,False,IND,0.0,1,-0.27,40,-10.8
+25180932,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1620,1416,1.0,5,-0.26,40,-10.4,"Rithish, Senthilkumar",,1595.0,False,IND,0.0,1,-0.27,40,-10.8
+25180932,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1620,1416,1.0,5,-0.26,40,-10.4,"Sai, Aradhana R",,1553.0,False,IND,0.5,1,0.18,40,7.2
+25180932,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1620,1416,1.0,5,-0.26,40,-10.4,"Vishwabharathi, Sakthivel",,1547.0,False,IND,0.5,1,0.18,40,7.2

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+35093118,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1541,1617,2.5,5,-0.52,40,-20.8,"Protyay, Bhowmick",,1510.0,False,IND,0.0,1,-0.65,40,-26.0
+35093118,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1541,1617,2.5,5,-0.52,40,-20.8,"Dipro, Mandal",,1463.0,False,IND,1.0,1,0.29,40,11.6
+35093118,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1541,1617,2.5,5,-0.52,40,-20.8,"Aahil, Patra",,1836.0,False,IND,0.0,1,-0.22,40,-8.8
+35093118,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1541,1617,2.5,5,-0.52,40,-20.8,"Nilabhra, Ghosh",,1422.0,False,IND,0.5,1,-0.25,40,-10.0
+35093118,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1541,1617,2.5,5,-0.52,40,-20.8,"Arit, Chakraborty",,1476.0,False,IND,1.0,1,0.31,40,12.4

@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25656392,2024-09-01,0,2024 Austin Chess Club Summer Open - Championship,"Austin, TX USA",2024-08-16,2024-08-18,1893,1861,2.0,5,-0.28,40,-11.2,"Elliott, Scott Alan",,1919.0,False,USA,0.0,1,-0.42,40,-16.8
+25656392,2024-09-01,0,2024 Austin Chess Club Summer Open - Championship,"Austin, TX USA",2024-08-16,2024-08-18,1893,1861,2.0,5,-0.28,40,-11.2,"Miller, Collin Alexander",,1856.0,False,USA,1.0,1,0.49,40,19.6
+25656392,2024-09-01,0,2024 Austin Chess Club Summer Open - Championship,"Austin, TX USA",2024-08-16,2024-08-18,1893,1861,2.0,5,-0.28,40,-11.2,"Bist, Atharva",,1987.0,False,USA,0.0,1,-0.33,40,-13.2
+25656392,2024-09-01,0,2024 Austin Chess Club Summer Open - Championship,"Austin, TX USA",2024-08-16,2024-08-18,1893,1861,2.0,5,-0.28,40,-11.2,"He, Justin Shandong",,1874.0,False,USA,0.0,1,-0.48,40,-19.2
+25656392,2024-09-01,0,2024 Austin Chess Club Summer Open - Championship,"Austin, TX USA",2024-08-16,2024-08-18,1893,1861,2.0,5,-0.28,40,-11.2,"Jimenez, Luis A",,1830.0,False,USA,1.0,1,0.46,40,18.4

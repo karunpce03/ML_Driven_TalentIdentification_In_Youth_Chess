@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33391084,2024-10-01,0,Karnataka State Under 15 OPEN FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1696,1590,1.5,4,0.05,40,2.0,"Samaksh, Ashok",,1817.0,False,IND,0.0,1,-0.21,40,-8.4
+33391084,2024-10-01,0,Karnataka State Under 15 OPEN FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1696,1590,1.5,4,0.05,40,2.0,"Purvaj, M V",,1470.0,False,IND,1.0,1,0.34,40,13.6
+33391084,2024-10-01,0,Karnataka State Under 15 OPEN FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1696,1590,1.5,4,0.05,40,2.0,"Charith, Bhat",,1746.0,False,IND,0.0,1,-0.29,40,-11.6
+33391084,2024-10-01,0,Karnataka State Under 15 OPEN FIDE rating Chess Championship -2024,Hassan IND,2024-09-13,2024-09-15,1696,1590,1.5,4,0.05,40,2.0,"Vivaan, Sachdev",,1751.0,False,IND,0.5,1,0.21,40,8.4

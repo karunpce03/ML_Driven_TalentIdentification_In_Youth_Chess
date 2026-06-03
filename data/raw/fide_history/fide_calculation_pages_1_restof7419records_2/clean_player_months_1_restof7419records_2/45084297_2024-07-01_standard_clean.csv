@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45084297,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1742,1899,7.5,9,1.29,35,45.15,"Adhul, Adithyan J",,1499,True,IND,1.0,1,0.08,35,2.8
+45084297,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1742,1899,7.5,9,1.29,35,45.15,"Gowtham, K P",,1556,False,IND,1.0,1,0.12,35,4.2
+45084297,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1742,1899,7.5,9,1.29,35,45.15,"Aadarsh, Kumar M E",,1665,False,IND,1.0,1,0.21,35,7.35
+45084297,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1742,1899,7.5,9,1.29,35,45.15,"Kanishkaraj, V",,1725,False,IND,0.5,1,-0.23,35,-8.05
+45084297,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1742,1899,7.5,9,1.29,35,45.15,"Devadarshaan, I",,1693,False,IND,1.0,1,0.24,35,8.4
+45084297,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1742,1899,7.5,9,1.29,35,45.15,"Saisarvesh, S",,1813,False,IND,0.5,1,-0.12,35,-4.2
+45084297,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1742,1899,7.5,9,1.29,35,45.15,"Balamurugan, Senthilkumar",,1704,False,IND,1.0,1,0.25,35,8.75
+45084297,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1742,1899,7.5,9,1.29,35,45.15,"Tarun, V",,1807,False,IND,1.0,1,0.37,35,12.95
+45084297,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1742,1899,7.5,9,1.29,35,45.15,"Vignesh, B",,2220,False,IND,0.5,1,0.37,35,12.95
+45084297,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2368,1981,5.5,11,4.53,35,158.55,"Stribuk, Artiom",m,2381,True,FID,1.0,1,0.92,35,32.2
+45084297,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2368,1981,5.5,11,4.53,35,158.55,"Wafa, Hamed",m,2381,True,EGY,0.0,1,-0.08,35,-2.8
+45084297,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2368,1981,5.5,11,4.53,35,158.55,"Pozzari, Simone",f,2276,False,ITA,1.0,1,0.85,35,29.75
+45084297,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2368,1981,5.5,11,4.53,35,158.55,"Apoorv, Kamble",f,2369,False,IND,1.0,1,0.91,35,31.85
+45084297,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2368,1981,5.5,11,4.53,35,158.55,"Davtyan, Arsen",m,2381,True,ARM,1.0,1,0.92,35,32.2
+45084297,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2368,1981,5.5,11,4.53,35,158.55,"Fromm, Marius",f,2381,True,GER,0.5,1,0.42,35,14.7
+45084297,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2368,1981,5.5,11,4.53,35,158.55,"Gharibyan, Mamikon",g,2381,True,ARM,0.0,1,-0.08,35,-2.8
+45084297,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2368,1981,5.5,11,4.53,35,158.55,"Pham, Tran Gia Phuc",f,2381,True,VIE,0.0,1,-0.08,35,-2.8
+45084297,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2368,1981,5.5,11,4.53,35,158.55,"Dudin, Gleb",g,2381,True,HUN,0.0,1,-0.08,35,-2.8
+45084297,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2368,1981,5.5,11,4.53,35,158.55,"Jares, Michal",f,2381,True,CZE,1.0,1,0.92,35,32.2
+45084297,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2368,1981,5.5,11,4.53,35,158.55,"Sanket, Chakravarty",m,2357,False,IND,0.0,1,-0.09,35,-3.15

@@ -1,0 +1,16 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429011760,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,,,0.0,1,0.0,748,,"Prithiv, Arokiadass",,1548.0,False,IND,0.0,1,0.0,,0.0
+429011760,2024-10-01,0,36th Tamilnadu State Under-11 Open FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,,,1.0,3,0.0,1387,,"Siddharth, S S",,1419.0,False,IND,0.0,1,0.0,,0.0
+429011760,2024-10-01,0,36th Tamilnadu State Under-11 Open FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,,,1.0,3,0.0,1387,,"Aadvik, A S",,1588.0,False,IND,0.5,1,0.0,,0.0
+429011760,2024-10-01,0,36th Tamilnadu State Under-11 Open FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,,,1.0,3,0.0,1387,,"Vickash, S",,1528.0,False,IND,0.5,1,0.0,,0.0
+429011760,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,,,0.5,4,0.0,1366,,"Sundar, Divij P",,1734.0,False,IND,0.0,1,0.0,,0.0
+429011760,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,,,0.5,4,0.0,1366,,"Sri, Charan Sandipagu",,2036.0,False,IND,0.0,1,0.0,,0.0
+429011760,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,,,0.5,4,0.0,1366,,"Ram, Nachiketh Chilakabathini",,1503.0,False,IND,0.5,1,0.0,,0.0
+429011760,2024-11-01,0,Bharatiya Naveena Kreeda Ustav 1st International Chess Festival -2024,Vijayawada IND,2024-10-22,2024-10-26,,,0.5,4,0.0,1366,,"Pooru, Lakshith",,1479.0,False,IND,0.0,1,0.0,,0.0
+429011760,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1530.0,1488.0,1.0,3,-0.36,40,-14.4,"Sai, Vijay P",,1722.0,False,IND,0.0,1,-0.21,40.0,-8.4
+429011760,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1530.0,1488.0,1.0,3,-0.36,40,-14.4,"Karnish, Hariraman",,1425.0,False,IND,0.5,1,-0.09,40.0,-3.6
+429011760,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1530.0,1488.0,1.0,3,-0.36,40,-14.4,"Padmesh, C K S",,1444.0,False,IND,0.5,1,-0.06,40.0,-2.4
+429011760,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1582.0,1474.0,1.0,4,-0.5,40,-20.0,"Rishen, Jilowa",,1774.0,False,IND,0.0,1,-0.15,40.0,-6.0
+429011760,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1582.0,1474.0,1.0,4,-0.5,40,-20.0,"Mokshith, Gannamani",,1405.0,False,IND,1.0,1,0.4,40.0,16.0
+429011760,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1582.0,1474.0,1.0,4,-0.5,40,-20.0,"Ishan, Arjun P Y",,1705.0,False,IND,0.0,1,-0.21,40.0,-8.4
+429011760,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1582.0,1474.0,1.0,4,-0.5,40,-20.0,"Sujay, Yelamarthi",,1445.0,False,IND,0.0,1,-0.54,40.0,-21.6

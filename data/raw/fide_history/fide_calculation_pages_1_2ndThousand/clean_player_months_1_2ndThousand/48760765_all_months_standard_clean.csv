@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48760765,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1654,1503,1.0,3,-0.01,40,-0.4,"Md, Imran",f,1903,True,IND,0.0,1,-0.08,40,-3.2
+48760765,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1654,1503,1.0,3,-0.01,40,-0.4,"Gadam, Setty Sohan",,1407,False,IND,1.0,1,0.37,40,14.8
+48760765,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1654,1503,1.0,3,-0.01,40,-0.4,"Amar, C S",,1653,False,IND,0.0,1,-0.3,40,-12.0

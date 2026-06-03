@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33479089,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1600,1607,4.0,8,-0.18,40,-7.2,"Shohradova, Leyla",wc,1963.0,False,TKM,0.5,1,0.39,40,15.6
+33479089,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1600,1607,4.0,8,-0.18,40,-7.2,"Humaidan Mohamed, Alzaabi",,1739.0,False,UAE,0.0,1,-0.32,40,-12.8
+33479089,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1600,1607,4.0,8,-0.18,40,-7.2,"Ziyadullaev, Islom",,1576.0,False,UZB,0.5,1,-0.04,40,-1.6
+33479089,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1600,1607,4.0,8,-0.18,40,-7.2,"Hamad, Shuaib Al Kaff",,1525.0,False,UAE,0.0,1,-0.61,40,-24.4
+33479089,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1600,1607,4.0,8,-0.18,40,-7.2,"Pranav, Thiruppathi",,1482.0,False,IND,1.0,1,0.33,40,13.2
+33479089,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1600,1607,4.0,8,-0.18,40,-7.2,"Abdulazizov, Asilbek",,1529.0,False,UZB,0.5,1,-0.11,40,-4.4
+33479089,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1600,1607,4.0,8,-0.18,40,-7.2,"Olandag, Meghan Gabrielle",,1507.0,False,PHI,1.0,1,0.36,40,14.4
+33479089,2024-06-01,0,Dubai Police Global Challenge for Chess - Youth U18,Dubai UAE,2024-05-03,2024-05-13,1600,1607,4.0,8,-0.18,40,-7.2,"Zain, Ali Shaheen",,1475.0,False,IND,0.5,1,-0.18,40,-7.2
+33479089,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1533,1607,2.0,3,0.21,40,8.4,"Kavya, Vijay Khachane",,1429.0,False,IND,1.0,1,0.27,40,10.8
+33479089,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1533,1607,2.0,3,0.21,40,8.4,"Rakshit, Raghavendra",,1480.0,False,IND,1.0,1,0.33,40,13.2
+33479089,2024-06-01,0,32nd Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-05-24,2024-05-26,1533,1607,2.0,3,0.21,40,8.4,"Adel, Abdulla Saleh",,1690.0,False,YEM,0.0,1,-0.39,40,-15.6

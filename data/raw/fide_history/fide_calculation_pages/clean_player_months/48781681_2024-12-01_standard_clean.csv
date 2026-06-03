@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48781681,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1628,1418,4.0,7,2.3,40,92.0,"Debayan, Ray",,1818,True,IND,0.0,1,-0.08,40,-3.2
+48781681,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1628,1418,4.0,7,2.3,40,92.0,"Reyansh, Arora",,1651,False,IND,0.0,1,-0.21,40,-8.4
+48781681,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1628,1418,4.0,7,2.3,40,92.0,"Khush, Dholaria",,1603,False,IND,1.0,1,0.74,40,29.6
+48781681,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1628,1418,4.0,7,2.3,40,92.0,"Hriday, Garg",,1595,False,IND,0.0,1,-0.27,40,-10.8
+48781681,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1628,1418,4.0,7,2.3,40,92.0,"Chaubey, Bharat",,1603,False,IND,1.0,1,0.74,40,29.6
+48781681,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1628,1418,4.0,7,2.3,40,92.0,"Advay, Aggarwal",,1545,False,IND,1.0,1,0.67,40,26.8
+48781681,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1628,1418,4.0,7,2.3,40,92.0,"Kartik, Khetwal",,1580,False,IND,1.0,1,0.71,40,28.4

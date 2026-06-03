@@ -1,0 +1,24 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33418705,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.5,3,0.0,1255,,"Harikrishna, C",,1571,False,IND,0.0,1,0.0,,0.0
+33418705,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.5,3,0.0,1255,,"Twinkle, Riju",,1540,False,IND,0.5,1,0.0,,0.0
+33418705,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.5,3,0.0,1255,,"Haritha, R",,1473,False,IND,0.0,1,0.0,,0.0
+33418705,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,0.0,3,0.0,717,,"Palaniswamy, Atman",,1606,False,USA,0.0,1,0.0,,0.0
+33418705,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,0.0,3,0.0,717,,"Hyder, Ali Mohammed",,1479,False,IND,0.0,1,0.0,,0.0
+33418705,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,,,0.0,3,0.0,717,,"Karthick, Raja P",,1467,False,IND,0.0,1,0.0,,0.0
+33418705,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,,,0.0,4,0.0,781,,"Vishnu, Ram M",,1717,False,IND,0.0,1,0.0,,0.0
+33418705,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,,,0.0,4,0.0,781,,"Ari, Shivamani S A",,1510,False,IND,0.0,1,0.0,,0.0
+33418705,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,,,0.0,4,0.0,781,,"Dheekshika, G",,1524,False,IND,0.0,1,0.0,,0.0
+33418705,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,,,0.0,4,0.0,781,,"Yuvan, Akhash",,1573,False,IND,0.0,1,0.0,,0.0
+33418705,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,,,0.0,7,0.0,777,,"Shirodkar, Aayush",,1809,False,IND,0.0,1,0.0,,0.0
+33418705,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,,,0.0,7,0.0,777,,"Shubh, Vishnu Borkar",,1693,False,IND,0.0,1,0.0,,0.0
+33418705,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,,,0.0,7,0.0,777,,"Aayush, Garg",,1571,False,IND,0.0,1,0.0,,0.0
+33418705,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,,,0.0,7,0.0,777,,"Akshat, Kaushik",,1500,False,IND,0.0,1,0.0,,0.0
+33418705,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,,,0.0,7,0.0,777,,"Aryan, Mehta",,1535,False,IND,0.0,1,0.0,,0.0
+33418705,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,,,0.0,7,0.0,777,,"Ayaan, Goel",,1449,False,IND,0.0,1,0.0,,0.0
+33418705,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,,,0.0,7,0.0,777,,"Debaryo, Basu",,1480,False,IND,0.0,1,0.0,,0.0
+33418705,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,1.5,6,0.0,1340,,"Viaan, Surana",,1606,False,IND,0.0,1,0.0,,0.0
+33418705,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,1.5,6,0.0,1340,,"Mozhivendhan, P L",,1520,False,IND,0.0,1,0.0,,0.0
+33418705,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,1.5,6,0.0,1340,,"Adhvik, Chandra",,1513,False,IND,1.0,1,0.0,,0.0
+33418705,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,1.5,6,0.0,1340,,"Penjarla, Poojit Ayaan",,1499,False,IND,0.5,1,0.0,,0.0
+33418705,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,1.5,6,0.0,1340,,"Konada, Jayant",,1543,False,IND,0.0,1,0.0,,0.0
+33418705,2025-02-01,0,U 11 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,,,1.5,6,0.0,1340,,"Shivam, Sabat",,1515,False,IND,0.0,1,0.0,,0.0

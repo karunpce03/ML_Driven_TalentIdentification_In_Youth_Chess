@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48790532,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1657,1499,0.0,4,-1.24,40,-49.6,"Kriti, Mayur Patel",wc,1785.0,False,IND,0.0,1,-0.16,40,-6.4
+48790532,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1657,1499,0.0,4,-1.24,40,-49.6,Pushpendra,,1773.0,False,IND,0.0,1,-0.17,40,-6.8
+48790532,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1657,1499,0.0,4,-1.24,40,-49.6,"Bharanidharan, Nedunchezhian",,1668.0,False,IND,0.0,1,-0.28,40,-11.2
+48790532,2024-09-01,0,Shri Dhanpat Rai Sachdeva Memorial Below 1800 FIDE Rated Chess Tournament,Agra IND,2024-08-09,2024-08-11,1657,1499,0.0,4,-1.24,40,-49.6,"Chirag, Aggarwal",,1401.0,False,IND,0.0,1,-0.63,40,-25.2

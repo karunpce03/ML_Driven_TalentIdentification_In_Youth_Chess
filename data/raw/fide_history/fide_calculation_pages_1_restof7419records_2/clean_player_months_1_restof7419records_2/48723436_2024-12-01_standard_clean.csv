@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48723436,2024-12-01,0,SS Manhem Dam-KM 2024,Goteborg SWE,2024-11-09,2024-11-10,1511,1548,1.5,4,-0.7,40,-28.0,"Kristiansen, Celina",,1463.0,False,SWE,0.0,1,-0.62,40,-24.8
+48723436,2024-12-01,0,SS Manhem Dam-KM 2024,Goteborg SWE,2024-11-09,2024-11-10,1511,1548,1.5,4,-0.7,40,-28.0,"Sreedvan, Shrishti",,1465.0,False,SWE,0.0,1,-0.61,40,-24.4
+48723436,2024-12-01,0,SS Manhem Dam-KM 2024,Goteborg SWE,2024-11-09,2024-11-10,1511,1548,1.5,4,-0.7,40,-28.0,"Mironova, Olga K",,1450.0,False,SWE,1.0,1,0.37,40,14.8
+48723436,2024-12-01,0,SS Manhem Dam-KM 2024,Goteborg SWE,2024-11-09,2024-11-10,1511,1548,1.5,4,-0.7,40,-28.0,"Moller, Moa",,1667.0,False,SWE,0.5,1,0.16,40,6.4

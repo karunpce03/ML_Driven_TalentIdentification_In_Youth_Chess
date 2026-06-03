@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33382069,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1679,1483,0.0,4,-1.0,40,-40.0,"Rishan, Debnath",,1783.0,False,IND,0.0,1,-0.15,40,-6.0
+33382069,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1679,1483,0.0,4,-1.0,40,-40.0,"Samrat, Sutar",,1639.0,False,IND,0.0,1,-0.29,40,-11.6
+33382069,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1679,1483,0.0,4,-1.0,40,-40.0,"Mayanka, Paul",,1672.0,False,IND,0.0,1,-0.25,40,-10.0
+33382069,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1679,1483,0.0,4,-1.0,40,-40.0,"Shubhomit, Banerjee",,1621.0,False,IND,0.0,1,-0.31,40,-12.4

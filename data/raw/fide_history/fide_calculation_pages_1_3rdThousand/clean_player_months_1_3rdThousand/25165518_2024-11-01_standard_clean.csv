@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25165518,2024-11-01,0,Open international de Liffre 2024 - A,LIFFRE FRA,2024-10-19,2024-10-25,1932,1944,4.0,9,-0.7,40,-28.0,"Holcman, Jeremy",,2084.0,False,FRA,0.0,1,-0.31,40,-12.4
+25165518,2024-11-01,0,Open international de Liffre 2024 - A,LIFFRE FRA,2024-10-19,2024-10-25,1932,1944,4.0,9,-0.7,40,-28.0,"Dhanesh, Venkata Narayanaswam",,1871.0,False,SGP,1.0,1,0.4,40,16.0
+25165518,2024-11-01,0,Open international de Liffre 2024 - A,LIFFRE FRA,2024-10-19,2024-10-25,1932,1944,4.0,9,-0.7,40,-28.0,"Vallee, Louis",f,2314.0,False,FRA,0.0,1,-0.1,40,-4.0
+25165518,2024-11-01,0,Open international de Liffre 2024 - A,LIFFRE FRA,2024-10-19,2024-10-25,1932,1944,4.0,9,-0.7,40,-28.0,"Martineau, Arthur",,1878.0,False,FRA,0.5,1,-0.09,40,-3.6
+25165518,2024-11-01,0,Open international de Liffre 2024 - A,LIFFRE FRA,2024-10-19,2024-10-25,1932,1944,4.0,9,-0.7,40,-28.0,"Masson, Alexandre",,1844.0,False,FRA,0.5,1,-0.14,40,-5.6
+25165518,2024-11-01,0,Open international de Liffre 2024 - A,LIFFRE FRA,2024-10-19,2024-10-25,1932,1944,4.0,9,-0.7,40,-28.0,"Sagi, Elisha",,2078.0,False,FRA,0.0,1,-0.32,40,-12.8
+25165518,2024-11-01,0,Open international de Liffre 2024 - A,LIFFRE FRA,2024-10-19,2024-10-25,1932,1944,4.0,9,-0.7,40,-28.0,"Carnac, Vincent",,1899.0,False,FRA,0.0,1,-0.56,40,-22.4
+25165518,2024-11-01,0,Open international de Liffre 2024 - A,LIFFRE FRA,2024-10-19,2024-10-25,1932,1944,4.0,9,-0.7,40,-28.0,"Bonnet, Titouan",,1688.0,False,FRA,1.0,1,0.19,40,7.6
+25165518,2024-11-01,0,Open international de Liffre 2024 - A,LIFFRE FRA,2024-10-19,2024-10-25,1932,1944,4.0,9,-0.7,40,-28.0,"Delmas, Alexi",,1735.0,False,FRA,1.0,1,0.23,40,9.2

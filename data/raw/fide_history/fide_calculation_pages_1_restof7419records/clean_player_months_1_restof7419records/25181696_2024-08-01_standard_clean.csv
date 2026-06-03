@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25181696,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1777,1814,5.5,9,0.48,40,19.2,"Clark, Peter",,1562,False,AUS,1.0,1,0.19,40,7.6
+25181696,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1777,1814,5.5,9,0.48,40,19.2,"Ko, Ko Ohn",f,2087,False,MYA,0.0,1,-0.17,40,-6.8
+25181696,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1777,1814,5.5,9,0.48,40,19.2,"Khangai, Khurelbat",,1669,False,MGL,1.0,1,0.31,40,12.4
+25181696,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1777,1814,5.5,9,0.48,40,19.2,"Smirnov, Maksim M.",,1552,False,FID,1.0,1,0.18,40,7.2
+25181696,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1777,1814,5.5,9,0.48,40,19.2,"Makarov, Nikolai Val.",f,2214,True,FID,0.0,1,-0.08,40,-3.2
+25181696,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1777,1814,5.5,9,0.48,40,19.2,"Nguyen, Paul Ashton",,1644,False,HKG,0.5,1,-0.22,40,-8.8
+25181696,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1777,1814,5.5,9,0.48,40,19.2,"Romualdez, Danry Seth",,1592,False,PHI,1.0,1,0.22,40,8.8
+25181696,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1777,1814,5.5,9,0.48,40,19.2,"Anusha, N L V",wf,1986,False,IND,0.0,1,-0.27,40,-10.8
+25181696,2024-08-01,0,3rd Blue Chevaliers International Open,Phuket THA,2024-07-21,2024-07-27,1777,1814,5.5,9,0.48,40,19.2,"Aadya, Ranganath",,1684,False,IND,1.0,1,0.32,40,12.8

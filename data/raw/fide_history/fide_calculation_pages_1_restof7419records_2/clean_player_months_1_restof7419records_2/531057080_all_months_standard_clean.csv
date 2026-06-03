@@ -1,0 +1,17 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531057080,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,,,0.5,3,0.0,1252,,"Sananda, R",,1628.0,False,IND,0.5,1,0.0,,0.0
+531057080,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,,,0.5,3,0.0,1252,,"Karthikeyan, M",,1518.0,False,IND,0.0,1,0.0,,0.0
+531057080,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,,,0.5,3,0.0,1252,,"Meeran, Raees S",,1430.0,False,IND,0.0,1,0.0,,0.0
+531057080,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,,,4.0,8,0.0,1478,,"Bharath, A",,1557.0,False,IND,0.0,1,0.0,,0.0
+531057080,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,,,4.0,8,0.0,1478,,"Mithresh, Dharani",,1438.0,False,IND,1.0,1,0.0,,0.0
+531057080,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,,,4.0,8,0.0,1478,,"Thamizhini, S",,1472.0,False,IND,0.5,1,0.0,,0.0
+531057080,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,,,4.0,8,0.0,1478,,"Subramanian, P V",,1483.0,False,IND,0.5,1,0.0,,0.0
+531057080,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,,,4.0,8,0.0,1478,,"Mahendraa, Ram Prasad",,1476.0,False,IND,0.0,1,0.0,,0.0
+531057080,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,,,4.0,8,0.0,1478,,"Muthusamy, Krishnasaamy Harsha",,1481.0,False,IND,0.5,1,0.0,,0.0
+531057080,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,,,4.0,8,0.0,1478,,"Vignesh, Srinivasan",,1471.0,False,IND,1.0,1,0.0,,0.0
+531057080,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,,,4.0,8,0.0,1478,,"Prakanyaa, M M",,1442.0,False,IND,0.5,1,0.0,,0.0
+531057080,2025-03-01,0,SR TROPHY PRESENTS 4TH SSS INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT,Pudukkottai IND,2025-02-01,2025-02-05,1606.0,1481.0,2.0,5,0.32,40,12.8,"Dhinesh, Kannan",,1708.0,False,IND,0.0,1,-0.21,40.0,-8.4
+531057080,2025-03-01,0,SR TROPHY PRESENTS 4TH SSS INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT,Pudukkottai IND,2025-02-01,2025-02-05,1606.0,1481.0,2.0,5,0.32,40,12.8,"Rathees, Rooban R",,1670.0,False,IND,0.0,1,-0.25,40.0,-10.0
+531057080,2025-03-01,0,SR TROPHY PRESENTS 4TH SSS INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT,Pudukkottai IND,2025-02-01,2025-02-05,1606.0,1481.0,2.0,5,0.32,40,12.8,"Surhenthar, J",,1429.0,False,IND,1.0,1,0.43,40.0,17.2
+531057080,2025-03-01,0,SR TROPHY PRESENTS 4TH SSS INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT,Pudukkottai IND,2025-02-01,2025-02-05,1606.0,1481.0,2.0,5,0.32,40,12.8,"Shrikkanth, Avyukth",,1649.0,False,USA,0.5,1,0.22,40.0,8.8
+531057080,2025-03-01,0,SR TROPHY PRESENTS 4TH SSS INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT,Pudukkottai IND,2025-02-01,2025-02-05,1606.0,1481.0,2.0,5,0.32,40,12.8,"Santhosh, Varma S",,1575.0,False,IND,0.5,1,0.13,40.0,5.2

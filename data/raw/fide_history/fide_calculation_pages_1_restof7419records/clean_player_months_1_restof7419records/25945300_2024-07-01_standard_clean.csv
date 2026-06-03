@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25945300,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1660,1476,0.0,3,-0.8,40,-32.0,"Soumick, Bandopadhyay",,1771.0,False,IND,0.0,1,-0.15,40,-6.0
+25945300,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1660,1476,0.0,3,-0.8,40,-32.0,"Anirban, Mondal",,1640.0,False,IND,0.0,1,-0.28,40,-11.2
+25945300,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1660,1476,0.0,3,-0.8,40,-32.0,"Abhirup, Majumder",,1568.0,False,IND,0.0,1,-0.37,40,-14.8

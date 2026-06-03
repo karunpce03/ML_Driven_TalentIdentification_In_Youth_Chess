@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25780204,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2068,1979,3.5,9,-0.27,35,-9.45,"Mendoza, Jemaicah Yap",,1844.0,False,PHI,1.0,1,0.32,35,11.2
+25780204,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2068,1979,3.5,9,-0.27,35,-9.45,"Wahono, Awam",m,2280.0,False,INA,0.5,1,0.35,35,12.25
+25780204,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2068,1979,3.5,9,-0.27,35,-9.45,"Bacojo, Mark Jay",f,2308.0,False,PHI,0.0,1,-0.12,35,-4.2
+25780204,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2068,1979,3.5,9,-0.27,35,-9.45,"Venkatesh, M.r.",g,2366.0,False,IND,0.0,1,-0.09,35,-3.15
+25780204,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2068,1979,3.5,9,-0.27,35,-9.45,"Dimakiling, Oliver",m,2379.0,True,PHI,0.0,1,-0.08,35,-2.8
+25780204,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2068,1979,3.5,9,-0.27,35,-9.45,"Cera, Dagariya",,1857.0,False,IND,0.0,1,-0.67,35,-23.45
+25780204,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2068,1979,3.5,9,-0.27,35,-9.45,"Wong, Yen-Hsiu Elliot",,1886.0,False,SGP,1.0,1,0.37,35,12.95
+25780204,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2068,1979,3.5,9,-0.27,35,-9.45,"Kirpesh, I",,1829.0,False,IND,0.5,1,-0.2,35,-7.0
+25780204,2025-01-01,0,Singapore International Open Group A,Singapore SGP,2024-11-29,2024-12-05,2068,1979,3.5,9,-0.27,35,-9.45,"Saravanan, Durga",,1867.0,False,SGP,0.5,1,-0.15,35,-5.25
+25780204,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1820,1959,7.5,11,0.05,35,1.75,"Avighna, Das",,1611.0,False,IND,1.0,1,0.11,35,3.85
+25780204,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1820,1959,7.5,11,0.05,35,1.75,"Nivaan, Raghavendra",,1712.0,False,IND,0.5,1,-0.31,35,-10.85
+25780204,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1820,1959,7.5,11,0.05,35,1.75,"Mudil, Dharewa",,1723.0,False,IND,1.0,1,0.2,35,7.0
+25780204,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1820,1959,7.5,11,0.05,35,1.75,"Aaditya, Ranjan Sahu",,1799.0,False,IND,1.0,1,0.29,35,10.15
+25780204,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1820,1959,7.5,11,0.05,35,1.75,"Andabatla, Satvik",,1829.0,False,IND,1.0,1,0.32,35,11.2
+25780204,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1820,1959,7.5,11,0.05,35,1.75,"Reyan, Md.",c,2183.0,False,IND,0.0,1,-0.22,35,-7.7
+25780204,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1820,1959,7.5,11,0.05,35,1.75,"Sagnik, Halder",,1811.0,False,IND,1.0,1,0.3,35,10.5
+25780204,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1820,1959,7.5,11,0.05,35,1.75,"Premshankar, B U",,1931.0,False,IND,0.5,1,-0.04,35,-1.4
+25780204,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1820,1959,7.5,11,0.05,35,1.75,"Atiksh, Thakur",,1878.0,False,IND,0.0,1,-0.61,35,-21.35
+25780204,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1820,1959,7.5,11,0.05,35,1.75,"Ryan, Dominic",,1727.0,False,IND,1.0,1,0.21,35,7.35
+25780204,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1820,1959,7.5,11,0.05,35,1.75,"Amartya, Saumitra Gupta",,1811.0,False,IND,0.5,1,-0.2,35,-7.0

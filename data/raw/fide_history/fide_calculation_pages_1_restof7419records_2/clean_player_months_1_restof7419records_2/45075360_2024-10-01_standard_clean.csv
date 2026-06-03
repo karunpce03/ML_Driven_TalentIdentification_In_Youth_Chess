@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45075360,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 16,Kaluthara SRI,2024-08-28,2024-09-05,1968,2031,6.5,9,1.34,35,46.9,"Yanakan, P",,1722.0,False,SRI,1.0,1,0.14,35,4.9
+45075360,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 16,Kaluthara SRI,2024-08-28,2024-09-05,1968,2031,6.5,9,1.34,35,46.9,"Kodithuwakku, K K Dinujaya",,1916.0,False,SRI,1.0,1,0.34,35,11.9
+45075360,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 16,Kaluthara SRI,2024-08-28,2024-09-05,1968,2031,6.5,9,1.34,35,46.9,"Daksh, Goyal",,2096.0,False,IND,1.0,1,0.59,35,20.65
+45075360,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 16,Kaluthara SRI,2024-08-28,2024-09-05,1968,2031,6.5,9,1.34,35,46.9,"Jihan, Tejas Shah",,2031.0,False,IND,0.5,1,0.0,35,0.0
+45075360,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 16,Kaluthara SRI,2024-08-28,2024-09-05,1968,2031,6.5,9,1.34,35,46.9,"Vaz, Ethan",m,2392.0,False,IND,0.0,1,-0.1,35,-3.5
+45075360,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 16,Kaluthara SRI,2024-08-28,2024-09-05,1968,2031,6.5,9,1.34,35,46.9,"Vedant, Rupeshbhai Varasada",,2152.0,False,IND,0.5,1,0.16,35,5.6
+45075360,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 16,Kaluthara SRI,2024-08-28,2024-09-05,1968,2031,6.5,9,1.34,35,46.9,"Pranay, Akula",,1963.0,False,IND,1.0,1,0.41,35,14.35
+45075360,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 16,Kaluthara SRI,2024-08-28,2024-09-05,1968,2031,6.5,9,1.34,35,46.9,"Nissanka, N M Thenura Yasendra",,1632.0,False,SRI,1.0,1,0.08,35,2.8
+45075360,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 16,Kaluthara SRI,2024-08-28,2024-09-05,1968,2031,6.5,9,1.34,35,46.9,"Sathsindu, W M Minura",,1806.0,False,SRI,0.5,1,-0.28,35,-9.8
+45075360,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1828,2031,7.0,11,-1.25,35,-43.75,"Shreyas, Raj",,1729.0,False,IND,0.0,1,-0.85,35,-29.75
+45075360,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1828,2031,7.0,11,-1.25,35,-43.75,"Arpit, Kumar Singh",,1631.0,True,IND,1.0,1,0.08,35,2.8
+45075360,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1828,2031,7.0,11,-1.25,35,-43.75,"Amartya, Saumitra Gupta",,1755.0,False,IND,1.0,1,0.17,35,5.95
+45075360,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1828,2031,7.0,11,-1.25,35,-43.75,"Ayaan, Phutane",,1821.0,False,IND,1.0,1,0.23,35,8.05
+45075360,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1828,2031,7.0,11,-1.25,35,-43.75,"Arnav, Agrawal",,1889.0,False,IND,0.5,1,-0.19,35,-6.65
+45075360,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1828,2031,7.0,11,-1.25,35,-43.75,"Lakshmi, Charan Naidu G",,1912.0,False,IND,0.0,1,-0.66,35,-23.1
+45075360,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1828,2031,7.0,11,-1.25,35,-43.75,"Ayaan, Garg",,1881.0,False,IND,1.0,1,0.3,35,10.5
+45075360,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1828,2031,7.0,11,-1.25,35,-43.75,"Vishal, Choudary B",,1934.0,False,IND,0.0,1,-0.63,35,-22.05
+45075360,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1828,2031,7.0,11,-1.25,35,-43.75,"Safal, Fazil",,1840.0,False,IND,1.0,1,0.25,35,8.75
+45075360,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1828,2031,7.0,11,-1.25,35,-43.75,"Kavin, Vijayakumar",,1853.0,False,IND,1.0,1,0.27,35,9.45
+45075360,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1828,2031,7.0,11,-1.25,35,-43.75,"Mishra, Kamad",,1864.0,False,IND,0.5,1,-0.22,35,-7.7

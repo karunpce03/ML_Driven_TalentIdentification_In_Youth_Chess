@@ -1,0 +1,15 @@
+Variable Group,Variable,Category,Count,Percentage
+Player profile,sex,M,822,82.2
+Player profile,sex,F,178,17.8
+Player profile,title,Missing,989,98.9
+Player profile,title,FM,4,0.4
+Player profile,title,CM,3,0.3
+Player profile,title,WFM,3,0.3
+Player profile,title,IM,1,0.1
+Baseline rating,rating_band,1400-1599,862,86.2
+Baseline rating,rating_band,1600-1799,107,10.7
+Baseline rating,rating_band,1800-1999,20,2.0
+Baseline rating,rating_band,2000+,10,1.0
+Baseline rating,rating_band,1200-1399,1,0.1
+Enrichment availability,has_calculation_data,1,629,62.9
+Enrichment availability,has_calculation_data,0,371,37.1

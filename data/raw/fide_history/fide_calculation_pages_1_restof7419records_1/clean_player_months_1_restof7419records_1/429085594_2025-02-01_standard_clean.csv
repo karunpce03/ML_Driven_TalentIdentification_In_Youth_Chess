@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429085594,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1587,1611,2.0,4,-0.23,40,-9.2,"Abdisalimov, Abdimalik",g,2011,True,UZB,0.0,1,-0.08,40,-3.2
+429085594,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1587,1611,2.0,4,-0.23,40,-9.2,"Apoorva, Rai",,1426,False,IND,0.5,1,-0.24,40,-9.6
+429085594,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1587,1611,2.0,4,-0.23,40,-9.2,"Farhan, Fakkih",,1475,False,IND,1.0,1,0.32,40,12.8
+429085594,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1587,1611,2.0,4,-0.23,40,-9.2,"Al Kindi, Said",,1436,False,OMA,0.5,1,-0.23,40,-9.2

@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88102360,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,2,0.0,744,,"Chidanand, S Pillai",,1604,False,IND,0.0,1,0.0,,0.0
+88102360,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,0.0,2,0.0,744,,"Harikrishnan, P M",,1483,False,IND,0.0,1,0.0,,0.0
+88102360,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,,,0.0,2,0.0,899,,"German, Santiago",,1876,False,PHI,0.0,1,0.0,,0.0
+88102360,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,,,0.0,2,0.0,899,,"Mahfoud, Ebrahim.",,1522,False,SYR,0.0,1,0.0,,0.0
+88102360,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,,,1.0,4,0.0,1437,,"Tom, Mathew",,1655,False,IND,0.0,1,0.0,,0.0
+88102360,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,,,1.0,4,0.0,1437,,"Alhammadi, Khalifa Mohamed",,1747,False,UAE,0.0,1,0.0,,0.0
+88102360,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,,,1.0,4,0.0,1437,,"Mohammad, Najemeddin",,1496,False,JOR,1.0,1,0.0,,0.0
+88102360,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,,,1.0,4,0.0,1437,,"Saqar, Essa Khamis",,1620,False,UAE,0.0,1,0.0,,0.0
+88102360,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,,,0.5,3,0.0,1257,,"Saud, Bader Huwair Alzarooni",,1620,False,UAE,0.0,1,0.0,,0.0
+88102360,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,,,0.5,3,0.0,1257,,"Kshitij, Lapaliakr",,1474,False,IND,0.5,1,0.0,,0.0
+88102360,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,,,0.5,3,0.0,1257,,"Khalid, Alhaway",,1496,False,UAE,0.0,1,0.0,,0.0
+88102360,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1726.0,1468.0,0.0,3,-0.59,40,-23.6,"Birjukov, Sergey",f,1868,True,RUS,0.0,1,-0.08,40.0,-3.2
+88102360,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1726.0,1468.0,0.0,3,-0.59,40,-23.6,"Saqar, Essa Khamis",,1684,False,UAE,0.0,1,-0.22,40.0,-8.8
+88102360,2025-01-01,0,4th Ali Abu Khalil Memorial December,Sharjah UAE,2024-12-23,2024-12-28,1726.0,1468.0,0.0,3,-0.59,40,-23.6,"Ratheesh, Gnanadoss",,1625,False,IND,0.0,1,-0.29,40.0,-11.6

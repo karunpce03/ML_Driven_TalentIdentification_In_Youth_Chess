@@ -1,0 +1,17 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45003521,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2225,1931,5.5,9,4.08,40,163.2,"Eliseev, Sergey",f,2202,False,NOR,1.0,1,0.83,40,33.2
+45003521,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2225,1931,5.5,9,4.08,40,163.2,"Salvador Buiza, Victor",,2254,False,ESP,0.5,1,0.37,40,14.8
+45003521,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2225,1931,5.5,9,4.08,40,163.2,"Tulchynskyi, Feliks",f,2325,False,UKR,0.0,1,-0.08,40,-3.2
+45003521,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2225,1931,5.5,9,4.08,40,163.2,"Ribera Cebolla, Marc",,2141,False,ESP,1.0,1,0.77,40,30.8
+45003521,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2225,1931,5.5,9,4.08,40,163.2,"Bravo De La Vega, Alvaro",c,2226,False,ESP,1.0,1,0.85,40,34.0
+45003521,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2225,1931,5.5,9,4.08,40,163.2,"Liu, Zexu",,2331,True,CHN,0.0,1,-0.08,40,-3.2
+45003521,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2225,1931,5.5,9,4.08,40,163.2,"Gomez Pastrana, Juan",,2197,False,ESP,0.5,1,0.32,40,12.8
+45003521,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2225,1931,5.5,9,4.08,40,163.2,"Korneev Leskova, Svyatoslav",c,2181,False,ESP,0.5,1,0.31,40,12.4
+45003521,2025-01-01,0,XXI Torneo Internacional Gran Hotel Bali Grupo A,Benidorm (Alicante) ESP,2024-11-29,2024-12-05,2225,1931,5.5,9,4.08,40,163.2,"Rodriguez Lopez, Rafael",m,2164,False,ESP,1.0,1,0.79,40,31.6
+45003521,2025-01-01,0,IV Open Sub-2400 Marcos Frechin Memorial Mercedes Parron,Zaragoza ESP,2024-12-06,2024-12-08,2065,2116,5.5,7,1.64,40,65.6,"Fornas Bellido, Rafael",,1716,True,ESP,1.0,1,0.08,40,3.2
+45003521,2025-01-01,0,IV Open Sub-2400 Marcos Frechin Memorial Mercedes Parron,Zaragoza ESP,2024-12-06,2024-12-08,2065,2116,5.5,7,1.64,40,65.6,"Boshoma, Chisomo",wc,1879,False,RSA,1.0,1,0.2,40,8.0
+45003521,2025-01-01,0,IV Open Sub-2400 Marcos Frechin Memorial Mercedes Parron,Zaragoza ESP,2024-12-06,2024-12-08,2065,2116,5.5,7,1.64,40,65.6,"Campos Rodriguez, Alvaro",,1943,False,ESP,1.0,1,0.27,40,10.8
+45003521,2025-01-01,0,IV Open Sub-2400 Marcos Frechin Memorial Mercedes Parron,Zaragoza ESP,2024-12-06,2024-12-08,2065,2116,5.5,7,1.64,40,65.6,"Villalba Embid, Marcos",,2180,False,ESP,0.5,1,0.09,40,3.6
+45003521,2025-01-01,0,IV Open Sub-2400 Marcos Frechin Memorial Mercedes Parron,Zaragoza ESP,2024-12-06,2024-12-08,2065,2116,5.5,7,1.64,40,65.6,"Lana Rodriguez, David",f,2365,False,ESP,1.0,1,0.81,40,32.4
+45003521,2025-01-01,0,IV Open Sub-2400 Marcos Frechin Memorial Mercedes Parron,Zaragoza ESP,2024-12-06,2024-12-08,2065,2116,5.5,7,1.64,40,65.6,"Jimenez Munoz, Nicolas",,2132,False,ESP,1.0,1,0.52,40,20.8
+45003521,2025-01-01,0,IV Open Sub-2400 Marcos Frechin Memorial Mercedes Parron,Zaragoza ESP,2024-12-06,2024-12-08,2065,2116,5.5,7,1.64,40,65.6,"Gomez Falagan, Daniel",f,2238,False,ESP,0.0,1,-0.33,40,-13.2

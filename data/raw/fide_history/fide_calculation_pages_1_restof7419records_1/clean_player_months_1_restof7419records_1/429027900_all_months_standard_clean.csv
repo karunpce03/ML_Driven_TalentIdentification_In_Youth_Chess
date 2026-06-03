@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429027900,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,,,3.0,6,0.0,1452,,"Lavya, Gupta",,1407.0,False,IND,0.5,1,0.0,,0.0
+429027900,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,,,3.0,6,0.0,1452,,"Purvaansh, Badwal",,1440.0,False,IND,0.0,1,0.0,,0.0
+429027900,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,,,3.0,6,0.0,1452,,"Dhvani, Vijay",,1411.0,False,IND,1.0,1,0.0,,0.0
+429027900,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,,,3.0,6,0.0,1452,,"Dinesh, Kumar Gupta",,1562.0,False,IND,0.5,1,0.0,,0.0
+429027900,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,,,3.0,6,0.0,1452,,"Siddharth, Singh",,1449.0,False,IND,0.5,1,0.0,,0.0
+429027900,2024-06-01,0,Delhi State Chess Championship-2024,Delhi IND,2024-05-26,2024-05-28,,,3.0,6,0.0,1452,,"Shourya, Singh Rawat",,1444.0,False,IND,0.5,1,0.0,,0.0
+429027900,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1702.0,1539.0,1.5,4,0.24,40,9.6,"Mrinank, Singh",,1406.0,False,IND,1.0,1,0.32,40.0,12.8
+429027900,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1702.0,1539.0,1.5,4,0.24,40,9.6,"Himanshu, Ranjan",,1828.0,False,IND,0.0,1,-0.16,40.0,-6.4
+429027900,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1702.0,1539.0,1.5,4,0.24,40,9.6,"Barisch, Florian",,1900.0,False,GER,0.5,1,0.4,40.0,16.0
+429027900,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1702.0,1539.0,1.5,4,0.24,40,9.6,"Mohit, Ambwani",,1672.0,False,IND,0.0,1,-0.32,40.0,-12.8
+429027900,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1590.0,1549.0,1.5,5,-0.84,40,-33.6,"Banik, Hrishikesh Kumar",,1942.0,False,IND,0.0,1,-0.08,40.0,-3.2
+429027900,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1590.0,1549.0,1.5,5,-0.84,40,-33.6,"Rudra, Kavia",,1732.0,False,IND,0.0,1,-0.26,40.0,-10.4
+429027900,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1590.0,1549.0,1.5,5,-0.84,40,-33.6,"Paritosh, Dhanaraju",,1424.0,False,IND,0.5,1,-0.17,40.0,-6.8
+429027900,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1590.0,1549.0,1.5,5,-0.84,40,-33.6,"Sanyam, Verma",,1415.0,False,IND,0.5,1,-0.18,40.0,-7.2
+429027900,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1590.0,1549.0,1.5,5,-0.84,40,-33.6,"Vaibhav, Kumar Jha",,1439.0,False,IND,0.5,1,-0.15,40.0,-6.0
+429027900,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1837.0,1515.0,0.0,2,-0.27,40,-10.8,"Raj, Kapoor",,1790.0,False,IND,0.0,1,-0.17,40.0,-6.8
+429027900,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1837.0,1515.0,0.0,2,-0.27,40,-10.8,"Mohit, Kumar Soni",,1883.0,False,IND,0.0,1,-0.1,40.0,-4.0
+429027900,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1689.0,1515.0,0.0,2,-0.54,40,-21.6,"Garth, Pande",,1699.0,False,IND,0.0,1,-0.26,40.0,-10.4
+429027900,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1689.0,1515.0,0.0,2,-0.54,40,-21.6,"Yitish, Kumar Gangwani",,1678.0,False,IND,0.0,1,-0.28,40.0,-11.2

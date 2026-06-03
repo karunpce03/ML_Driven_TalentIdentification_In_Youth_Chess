@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33489343,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1627,1550,2.0,5,0.0,40,0.0,"Devnath, Bijesh",,1761.0,False,IND,0.0,1,-0.23,40,-9.2
+33489343,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1627,1550,2.0,5,0.0,40,0.0,"Jahnvi, Ashok",,1626.0,False,IND,0.0,1,-0.4,40,-16.0
+33489343,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1627,1550,2.0,5,0.0,40,0.0,"Pavan, Vinayak",,1458.0,False,IND,1.0,1,0.37,40,14.8
+33489343,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1627,1550,2.0,5,0.0,40,0.0,"Pournami, S D",,1643.0,False,IND,0.5,1,0.13,40,5.2
+33489343,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1627,1550,2.0,5,0.0,40,0.0,"Pournami, S",,1645.0,False,IND,0.5,1,0.13,40,5.2
+33489343,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1656,1550,3.0,8,0.14,40,5.6,"Suresh, Kolavapalli",,1732.0,False,IND,0.0,1,-0.26,40,-10.4
+33489343,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1656,1550,3.0,8,0.14,40,5.6,"Sanchith, Sundararam K",,1664.0,False,IND,0.5,1,0.16,40,6.4
+33489343,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1656,1550,3.0,8,0.14,40,5.6,"Mithilesh, P",,1638.0,False,IND,0.5,1,0.12,40,4.8
+33489343,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1656,1550,3.0,8,0.14,40,5.6,"Vikrant, Krishnakumar",,1650.0,False,IND,1.0,1,0.64,40,25.6
+33489343,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1656,1550,3.0,8,0.14,40,5.6,"Amith, A",,1717.0,False,IND,0.0,1,-0.28,40,-11.2
+33489343,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1656,1550,3.0,8,0.14,40,5.6,"Vegi, Bhavishnu Sai Sivaji",,1705.0,False,IND,0.5,1,0.21,40,8.4
+33489343,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1656,1550,3.0,8,0.14,40,5.6,"Shah, Veer Kunjan",,1678.0,False,IND,0.0,1,-0.33,40,-13.2
+33489343,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1656,1550,3.0,8,0.14,40,5.6,"Prahalad, Moola",,1463.0,False,IND,0.5,1,-0.12,40,-4.8

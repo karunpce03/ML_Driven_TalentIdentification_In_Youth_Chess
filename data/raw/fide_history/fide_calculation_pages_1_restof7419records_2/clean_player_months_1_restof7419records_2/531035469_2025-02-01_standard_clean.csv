@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531035469,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1654,1403,1.5,6,0.3,40,12.0,"Kumar, Gaurav",f,1803,True,IND,0.0,1,-0.08,40,-3.2
+531035469,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1654,1403,1.5,6,0.3,40,12.0,Zosangluaia,,1722,False,IND,0.5,1,0.37,40,14.8
+531035469,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1654,1403,1.5,6,0.3,40,12.0,"Abhijit, Barbhuiya",,1510,False,IND,0.0,1,-0.35,40,-14.0
+531035469,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1654,1403,1.5,6,0.3,40,12.0,"Arghyadiptya, Halder",,1585,False,IND,1.0,1,0.74,40,29.6
+531035469,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1654,1403,1.5,6,0.3,40,12.0,"Bhargab, Debnath",,1631,False,IND,0.0,1,-0.21,40,-8.4
+531035469,2025-02-01,0,3rd LT. Diloo Dhar International FIDE Rating Chess Tournament,Sadarghat IND,2025-01-24,2025-01-28,1654,1403,1.5,6,0.3,40,12.0,"Moirangthem, Modhusudon",,1672,False,IND,0.0,1,-0.17,40,-6.8

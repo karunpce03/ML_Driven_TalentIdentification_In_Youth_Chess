@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25748530,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup A,Barcelona ESP,2024-08-23,2024-09-01,2115,2220,6.0,10,-0.36,40,-14.4,"Mimkes, Pavel",,1929.0,False,GER,1.0,1,0.15,40,6.0
+25748530,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup A,Barcelona ESP,2024-08-23,2024-09-01,2115,2220,6.0,10,-0.36,40,-14.4,"Benedetti, Antonella",,1939.0,False,ARG,1.0,1,0.16,40,6.4
+25748530,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup A,Barcelona ESP,2024-08-23,2024-09-01,2115,2220,6.0,10,-0.36,40,-14.4,"Favaloro, Andrea",f,2428.0,False,ITA,0.0,1,-0.23,40,-9.2
+25748530,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup A,Barcelona ESP,2024-08-23,2024-09-01,2115,2220,6.0,10,-0.36,40,-14.4,"Segura Del Frago, Imanol",,2007.0,False,ESP,1.0,1,0.23,40,9.2
+25748530,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup A,Barcelona ESP,2024-08-23,2024-09-01,2115,2220,6.0,10,-0.36,40,-14.4,"Beerdsen, Thomas",g,2512.0,False,NED,0.0,1,-0.15,40,-6.0
+25748530,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup A,Barcelona ESP,2024-08-23,2024-09-01,2115,2220,6.0,10,-0.36,40,-14.4,"Emans, Job",,2083.0,False,NED,0.5,1,-0.18,40,-7.2
+25748530,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup A,Barcelona ESP,2024-08-23,2024-09-01,2115,2220,6.0,10,-0.36,40,-14.4,"Perez Pastora, Evarist",,2070.0,False,ESP,0.5,1,-0.2,40,-8.0
+25748530,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup A,Barcelona ESP,2024-08-23,2024-09-01,2115,2220,6.0,10,-0.36,40,-14.4,"Jaksland, Tim",f,2088.0,False,DEN,0.0,1,-0.68,40,-27.2
+25748530,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup A,Barcelona ESP,2024-08-23,2024-09-01,2115,2220,6.0,10,-0.36,40,-14.4,"Herms Agullo, Jordi",,2043.0,False,ESP,1.0,1,0.27,40,10.8
+25748530,2024-10-01,0,Open Internacional de Sants - Ciutat de Barcelona 2024 Grup A,Barcelona ESP,2024-08-23,2024-09-01,2115,2220,6.0,10,-0.36,40,-14.4,"Zhao, Yunqing",,2048.0,False,CHN,1.0,1,0.27,40,10.8

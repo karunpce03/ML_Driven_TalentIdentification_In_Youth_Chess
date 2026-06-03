@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48720429,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,1668,1501,1.5,5,0.08,40,3.2,Ananthnarayan,,1731.0,False,IND,0.0,1,-0.21,40,-8.4
+48720429,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,1668,1501,1.5,5,0.08,40,3.2,"Latifah, Darmaki",,1668.0,False,UAE,1.0,1,0.72,40,28.8
+48720429,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,1668,1501,1.5,5,0.08,40,3.2,"Akhil, Vijayakumar",,1629.0,False,IND,0.5,1,0.17,40,6.8
+48720429,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,1668,1501,1.5,5,0.08,40,3.2,"Pitts, Daniel",,1711.0,False,ENG,0.0,1,-0.23,40,-9.2
+48720429,2024-05-01,0,30th Abu Dhabi Amateur Chess Tournament,Abu Dhabi UAE,2024-04-19,2024-04-21,1668,1501,1.5,5,0.08,40,3.2,"Fedianin, Dmytro",,1599.0,False,UKR,0.0,1,-0.37,40,-14.8

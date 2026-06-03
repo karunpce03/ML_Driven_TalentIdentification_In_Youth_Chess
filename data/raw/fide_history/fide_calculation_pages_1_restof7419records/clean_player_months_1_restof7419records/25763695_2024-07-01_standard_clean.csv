@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25763695,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2197,2016,5.0,11,1.62,40,64.8,"Budisavljevic, Luka",g,2416,True,SRB,0.0,1,-0.08,40,-3.2
+25763695,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2197,2016,5.0,11,1.62,40,64.8,"Boricha, Yohan",,1811,False,IND,1.0,1,0.24,40,9.6
+25763695,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2197,2016,5.0,11,1.62,40,64.8,"Koelle, Tobias",m,2416,True,GER,0.0,1,-0.08,40,-3.2
+25763695,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2197,2016,5.0,11,1.62,40,64.8,"Yohan, Yadav Tarala",,1810,False,IND,0.5,1,-0.26,40,-10.4
+25763695,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2197,2016,5.0,11,1.62,40,64.8,"Eugen, Mehul Shah",,1744,False,IND,1.0,1,0.17,40,6.8
+25763695,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2197,2016,5.0,11,1.62,40,64.8,"Fecker, Noah",f,2390,False,SUI,0.5,1,0.4,40,16.0
+25763695,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2197,2016,5.0,11,1.62,40,64.8,"Srihari, L",m,2400,False,IND,0.0,1,-0.09,40,-3.6
+25763695,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2197,2016,5.0,11,1.62,40,64.8,"Mukund, Hemant Agarwal",,2196,False,IND,1.0,1,0.74,40,29.6
+25763695,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2197,2016,5.0,11,1.62,40,64.8,"Avinash, Ramesh",m,2252,False,IND,0.0,1,-0.2,40,-8.0
+25763695,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2197,2016,5.0,11,1.62,40,64.8,"Apoorv, Kamble",f,2369,False,IND,1.0,1,0.89,40,35.6
+25763695,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2197,2016,5.0,11,1.62,40,64.8,"Panda, Sambit",m,2363,False,IND,0.0,1,-0.11,40,-4.4

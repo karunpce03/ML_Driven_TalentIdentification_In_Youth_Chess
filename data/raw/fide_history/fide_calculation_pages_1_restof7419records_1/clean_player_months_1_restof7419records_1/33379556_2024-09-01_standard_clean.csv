@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33379556,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1913,1784,4.5,9,1.24,40,49.6,"Waseem, Akram",c,2152.0,False,PAK,0.0,1,-0.1,40,-4.0
+33379556,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1913,1784,4.5,9,1.24,40,49.6,"Lu, Yichen",,1601.0,False,CHN,1.0,1,0.26,40,10.4
+33379556,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1913,1784,4.5,9,1.24,40,49.6,"Tetepoulidis, Ioannis",,2142.0,False,GRE,0.0,1,-0.1,40,-4.0
+33379556,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1913,1784,4.5,9,1.24,40,49.6,"Talal, Murdy Alzahrani",,1698.0,False,KSA,1.0,1,0.38,40,15.2
+33379556,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1913,1784,4.5,9,1.24,40,49.6,"Al-Blooshi, Hamad Essa",c,2078.0,False,UAE,0.5,1,0.35,40,14.0
+33379556,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1913,1784,4.5,9,1.24,40,49.6,"Shamsuddin, Sayyid Usmon",,2079.0,False,UZB,0.0,1,-0.15,40,-6.0
+33379556,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1913,1784,4.5,9,1.24,40,49.6,"Elemes, Beibarys",,1688.0,False,KAZ,0.5,1,-0.13,40,-5.2
+33379556,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1913,1784,4.5,9,1.24,40,49.6,"Al-Khulaifi, Ghada",wc,1693.0,False,QAT,1.0,1,0.38,40,15.2
+33379556,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Open A),Abu Dhabi UAE,2024-08-14,2024-08-25,1913,1784,4.5,9,1.24,40,49.6,"Yunusov, Adkham",,2085.0,False,UZB,0.5,1,0.35,40,14.0

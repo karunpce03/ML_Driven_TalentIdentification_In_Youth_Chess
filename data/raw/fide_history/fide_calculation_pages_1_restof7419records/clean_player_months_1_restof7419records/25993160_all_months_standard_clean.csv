@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25993160,2024-08-01,0,4th Annual Joe Yun Memorial - U2000,"Akron, OH USA",2024-07-19,2024-07-21,1704,1566,1.0,1,0.69,40,27.6,"Kunapuli, Siddarth Sriaditya",,1704.0,False,USA,1.0,1,0.69,40,27.6
+25993160,2024-10-01,0,2024 Ohio Chess Congress,"Newark, OH USA",2024-08-30,2024-09-01,1788,1594,1.5,3,0.75,40,30.0,"Gu, Minghao",,1754.0,False,USA,0.5,1,0.21,40,8.4
+25993160,2024-10-01,0,2024 Ohio Chess Congress,"Newark, OH USA",2024-08-30,2024-09-01,1788,1594,1.5,3,0.75,40,30.0,"Sheaf, Michael Anthony",,1834.0,False,USA,0.0,1,-0.2,40,-8.0
+25993160,2024-10-01,0,2024 Ohio Chess Congress,"Newark, OH USA",2024-08-30,2024-09-01,1788,1594,1.5,3,0.75,40,30.0,"Wu, Mason",,1777.0,False,USA,1.0,1,0.74,40,29.6
+25993160,2024-10-01,0,2024 Twinsburg FIDE Open,"Twinsburg, OH USA",2024-09-20,2024-09-22,1808,1594,1.5,3,0.8,40,32.0,"Broihier, Ian",,1893.0,False,USA,0.0,1,-0.15,40,-6.0
+25993160,2024-10-01,0,2024 Twinsburg FIDE Open,"Twinsburg, OH USA",2024-09-20,2024-09-22,1808,1594,1.5,3,0.8,40,32.0,"Samanta, Aayansh",,1778.0,False,USA,1.0,1,0.74,40,29.6
+25993160,2024-10-01,0,2024 Twinsburg FIDE Open,"Twinsburg, OH USA",2024-09-20,2024-09-22,1808,1594,1.5,3,0.8,40,32.0,"Gu, Minghao",,1754.0,False,USA,0.5,1,0.21,40,8.4
+25993160,2025-02-01,0,The 2025 Cardinal Open - U2200,"Akron, OH USA",2025-01-24,2025-01-26,1847,1656,2.0,2,1.48,40,59.2,"Guzman, Carlos M",,1926.0,False,PUR,1.0,1,0.83,40,33.2
+25993160,2025-02-01,0,The 2025 Cardinal Open - U2200,"Akron, OH USA",2025-01-24,2025-01-26,1847,1656,2.0,2,1.48,40,59.2,"Samanta, Aayansh",,1768.0,False,USA,1.0,1,0.65,40,26.0

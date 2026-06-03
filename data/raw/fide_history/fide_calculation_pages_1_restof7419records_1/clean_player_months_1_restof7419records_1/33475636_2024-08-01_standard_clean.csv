@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33475636,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1614,1524,0.0,4,-1.62,40,-64.8,"Mishra, Sanjeev",,1875.0,False,IND,0.0,1,-0.11,40,-4.4
+33475636,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1614,1524,0.0,4,-1.62,40,-64.8,"Sajid, Khan",,1741.0,False,IND,0.0,1,-0.22,40,-8.8
+33475636,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1614,1524,0.0,4,-1.62,40,-64.8,"Diwan, Singh",,1438.0,False,IND,0.0,1,-0.62,40,-24.8
+33475636,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1614,1524,0.0,4,-1.62,40,-64.8,"Sivabhargav, Gorugantu Venkata",,1401.0,False,IND,0.0,1,-0.67,40,-26.8

@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33478066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2312,2217,3.5,8,0.52,40,20.8,"Nemeth, Miklos",m,2444.0,False,HUN,0.5,1,0.29,40,11.6
+33478066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2312,2217,3.5,8,0.52,40,20.8,"Kushko, Dmitriy",m,2445.0,False,UKR,0.5,1,0.29,40,11.6
+33478066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2312,2217,3.5,8,0.52,40,20.8,"Sinz, Bernhard",f,2335.0,False,GER,0.0,1,-0.34,40,-13.6
+33478066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2312,2217,3.5,8,0.52,40,20.8,"Al Thebaiti, Ahmed M",c,2009.0,False,KSA,1.0,1,0.23,40,9.2
+33478066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2312,2217,3.5,8,0.52,40,20.8,"Milosevic, Milos",m,2328.0,False,SRB,0.5,1,0.15,40,6.0
+33478066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2312,2217,3.5,8,0.52,40,20.8,"Song, Julien",m,2312.0,False,FRA,0.5,1,0.13,40,5.2
+33478066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2312,2217,3.5,8,0.52,40,20.8,"Borocz, Istvan",m,2324.0,False,HUN,0.5,1,0.15,40,6.0
+33478066,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2312,2217,3.5,8,0.52,40,20.8,"Kozlovic, Jernej",f,2301.0,False,SLO,0.0,1,-0.38,40,-15.2

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33397686,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1865,1761,5.5,11,1.41,40,56.4,"Abel, Sajan",,2097.0,False,IND,0.5,1,0.38,40,15.2
+33397686,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1865,1761,5.5,11,1.41,40,56.4,"Jagreet, Misra",,2026.0,False,IND,1.0,1,0.82,40,32.8
+33397686,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1865,1761,5.5,11,1.41,40,56.4,"Dinesh, Kumar Jaganathan",,1914.0,False,IND,0.0,1,-0.3,40,-12.0
+33397686,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1865,1761,5.5,11,1.41,40,56.4,"Abhinav, Raj",,1953.0,False,IND,0.0,1,-0.25,40,-10.0
+33397686,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1865,1761,5.5,11,1.41,40,56.4,"Pringprang, Ch Marak",,1543.0,False,IND,1.0,1,0.22,40,8.8
+33397686,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1865,1761,5.5,11,1.41,40,56.4,"Arnav, Agrawal",,1935.0,False,IND,0.0,1,-0.27,40,-10.8
+33397686,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1865,1761,5.5,11,1.41,40,56.4,"Saurabh, Jain",,1649.0,False,IND,0.5,1,-0.15,40,-6.0
+33397686,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1865,1761,5.5,11,1.41,40,56.4,"Akshit, Kukkar",,1648.0,False,IND,0.5,1,-0.15,40,-6.0
+33397686,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1865,1761,5.5,11,1.41,40,56.4,"Jyotshnav, Talukdar",,2002.0,False,IND,1.0,1,0.8,40,32.0
+33397686,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1865,1761,5.5,11,1.41,40,56.4,"Shourya, Paul",,1848.0,False,IND,1.0,1,0.62,40,24.8
+33397686,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1865,1761,5.5,11,1.41,40,56.4,"Mayukh, Majumder",,1904.0,False,IND,0.0,1,-0.31,40,-12.4

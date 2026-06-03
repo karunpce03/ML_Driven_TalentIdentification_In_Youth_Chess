@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25181823,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1941,1962,6.0,10,0.66,40,26.4,"Mishka, Mathur",,1669,False,IND,1.0,1,0.15,40,6.0
+25181823,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1941,1962,6.0,10,0.66,40,26.4,"Ganguly, Surya Shekhar",g,2362,True,IND,0.0,1,-0.08,40,-3.2
+25181823,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1941,1962,6.0,10,0.66,40,26.4,"Dhruv, Singh Bisht",,1786,False,IND,1.0,1,0.27,40,10.8
+25181823,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1941,1962,6.0,10,0.66,40,26.4,"Banik, Hrishikesh Kumar",,1796,False,IND,0.0,1,-0.72,40,-28.8
+25181823,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1941,1962,6.0,10,0.66,40,26.4,"Nithik, Reddy Bhavanam",,1766,False,IND,1.0,1,0.25,40,10.0
+25181823,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1941,1962,6.0,10,0.66,40,26.4,"Raihaan, Zahid",,2136,False,IND,0.0,1,-0.27,40,-10.8
+25181823,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1941,1962,6.0,10,0.66,40,26.4,"Gavi, Siddayya",,1847,False,IND,1.0,1,0.34,40,13.6
+25181823,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1941,1962,6.0,10,0.66,40,26.4,"Rosh, Jain",f,2131,False,IND,0.5,1,0.22,40,8.8
+25181823,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1941,1962,6.0,10,0.66,40,26.4,"Advik, Amit Agrawal",,1859,False,IND,1.0,1,0.36,40,14.4
+25181823,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1941,1962,6.0,10,0.66,40,26.4,"Mrithyunjay, Mahadevan",c,2062,False,IND,0.5,1,0.14,40,5.6

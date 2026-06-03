@@ -1,0 +1,41 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88109810,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,3.0,8,0.0,1435,,"Dhairyakumar, Mistry",,1571.0,False,IND,0.0,1,0.0,,0.0
+88109810,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,3.0,8,0.0,1435,,"Sadhana, S N",,1485.0,False,IND,1.0,1,0.0,,0.0
+88109810,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,3.0,8,0.0,1435,,"Aravind, S",,1492.0,False,IND,1.0,1,0.0,,0.0
+88109810,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,3.0,8,0.0,1435,,"Vishweswaran, N",,1695.0,False,IND,0.0,1,0.0,,0.0
+88109810,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,3.0,8,0.0,1435,,"Nandana, Mooketh",,1487.0,False,IND,0.0,1,0.0,,0.0
+88109810,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,3.0,8,0.0,1435,,"Vedhik, Viswanath",,1492.0,False,IND,0.5,1,0.0,,0.0
+88109810,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,3.0,8,0.0,1435,,"Muhammad, Ihsan",,1501.0,False,IND,0.5,1,0.0,,0.0
+88109810,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,,,3.0,8,0.0,1435,,"Yeshwanth, Srinivasan",,1452.0,False,IND,0.0,1,0.0,,0.0
+88109810,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1551.0,1431.0,1.0,3,-0.02,40,-0.8,"Mohamed, Ihshan I",,1576.0,False,IND,0.0,1,-0.31,40.0,-12.4
+88109810,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1551.0,1431.0,1.0,3,-0.02,40,-0.8,"Devanarayanan, Kalliyath",,1559.0,False,IND,0.0,1,-0.33,40.0,-13.2
+88109810,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1551.0,1431.0,1.0,3,-0.02,40,-0.8,"Askkar, Ali P",,1517.0,False,IND,1.0,1,0.62,40.0,24.8
+88109810,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1623.0,1431.0,1.0,5,-0.32,40,-12.8,"Merryston, David Scanny",,1743.0,False,IND,0.0,1,-0.14,40.0,-5.6
+88109810,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1623.0,1431.0,1.0,5,-0.32,40,-12.8,"Abdul Majeed, N.",,1759.0,False,IND,0.0,1,-0.13,40.0,-5.2
+88109810,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1623.0,1431.0,1.0,5,-0.32,40,-12.8,"Stephin, Joy",,1532.0,False,IND,0.5,1,0.14,40.0,5.6
+88109810,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1623.0,1431.0,1.0,5,-0.32,40,-12.8,"Mithun, Raj N T",,1545.0,False,IND,0.5,1,0.16,40.0,6.4
+88109810,2024-07-01,0,4th ISC Triumph Cup : (Below 1800) International Chess Festival 2024,Trivandrum IND,2024-06-15,2024-06-17,1623.0,1431.0,1.0,5,-0.32,40,-12.8,"Anirudh, S S",,1538.0,False,IND,0.0,1,-0.35,40.0,-14.0
+88109810,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1591.0,1417.0,0.0,4,-1.09,40,-43.6,"Arif, A",,1657.0,False,IND,0.0,1,-0.2,40.0,-8.0
+88109810,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1591.0,1417.0,0.0,4,-1.09,40,-43.6,"Neerad, P",,1555.0,False,IND,0.0,1,-0.31,40.0,-12.4
+88109810,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1591.0,1417.0,0.0,4,-1.09,40,-43.6,"Prasath, K R",,1615.0,False,IND,0.0,1,-0.24,40.0,-9.6
+88109810,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1591.0,1417.0,0.0,4,-1.09,40,-43.6,"Leo, Sanish",,1536.0,False,IND,0.0,1,-0.34,40.0,-13.6
+88109810,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,4.5,8,0.0,1530,,"Aarav, Ajith",,1584.0,False,IND,0.0,1,0.0,,0.0
+88109810,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,4.5,8,0.0,1530,,"Pragyan, S Rao",,1440.0,False,IND,1.0,1,0.0,,0.0
+88109810,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,4.5,8,0.0,1530,,"Adwait, Darshan B",,1463.0,False,IND,0.0,1,0.0,,0.0
+88109810,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,4.5,8,0.0,1530,,"Jineesh, E",,1509.0,False,IND,1.0,1,0.0,,0.0
+88109810,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,4.5,8,0.0,1530,,"Brahmaiah, V.j",,1494.0,False,IND,0.5,1,0.0,,0.0
+88109810,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,4.5,8,0.0,1530,,"Athavan, A",,1553.0,False,IND,1.0,1,0.0,,0.0
+88109810,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,4.5,8,0.0,1530,,"Sanoosh, B Shibu",,1533.0,False,IND,0.0,1,0.0,,0.0
+88109810,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,4.5,8,0.0,1530,,"Suresh, R",,1506.0,False,IND,1.0,1,0.0,,0.0
+88109810,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1456.0,1604.0,4.5,6,0.33,40,13.2,"Niranjan, A",,1438.0,False,IND,1.0,1,0.28,40.0,11.2
+88109810,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1456.0,1604.0,4.5,6,0.33,40,13.2,"Ananya, Ranjithkumar",,1483.0,False,IND,0.5,1,-0.16,40.0,-6.4
+88109810,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1456.0,1604.0,4.5,6,0.33,40,13.2,"Dakshayani, Ganesan",,1463.0,False,IND,0.0,1,-0.69,40.0,-27.6
+88109810,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1456.0,1604.0,4.5,6,0.33,40,13.2,"Abinesh, Sakkaravarthy",,1462.0,False,IND,1.0,1,0.31,40.0,12.4
+88109810,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1456.0,1604.0,4.5,6,0.33,40,13.2,"Lenin, A G",,1492.0,False,IND,1.0,1,0.35,40.0,14.0
+88109810,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1456.0,1604.0,4.5,6,0.33,40,13.2,"Sohan, Harshad S A",,1400.0,False,IND,1.0,1,0.24,40.0,9.6
+88109810,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1621.0,1617.0,3.5,6,0.42,40,16.8,"Kirpesh, I",,1807.0,False,IND,0.0,1,-0.25,40.0,-10.0
+88109810,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1621.0,1617.0,3.5,6,0.42,40,16.8,"Vaishnavi, B",,1465.0,False,IND,1.0,1,0.3,40.0,12.0
+88109810,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1621.0,1617.0,3.5,6,0.42,40,16.8,"Ram, S. Krishnan",,2017.0,True,IND,0.0,1,-0.08,40.0,-3.2
+88109810,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1621.0,1617.0,3.5,6,0.42,40,16.8,"Anointah, A",,1480.0,False,IND,1.0,1,0.32,40.0,12.8
+88109810,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1621.0,1617.0,3.5,6,0.42,40,16.8,"Dhanesh, G R",,1461.0,False,IND,0.5,1,-0.21,40.0,-8.4
+88109810,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1621.0,1617.0,3.5,6,0.42,40,16.8,"Selvaluxmi, S",,1498.0,False,IND,1.0,1,0.34,40.0,13.6

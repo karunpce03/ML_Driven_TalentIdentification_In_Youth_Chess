@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33410127,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1645,1475,2.0,5,0.61,40,24.4,"Sarath Kr, Nanda",,1665.0,False,IND,0.0,1,-0.25,40,-10.0
+33410127,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1645,1475,2.0,5,0.61,40,24.4,"Joglekar, Abhijit",,1683.0,False,IND,0.0,1,-0.23,40,-9.2
+33410127,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1645,1475,2.0,5,0.61,40,24.4,"Sangamesh, V Sugandhi",,1628.0,False,IND,1.0,1,0.7,40,28.0
+33410127,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1645,1475,2.0,5,0.61,40,24.4,"Sudeep, S",,1612.0,False,IND,1.0,1,0.68,40,27.2
+33410127,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1645,1475,2.0,5,0.61,40,24.4,"Shravan, Ambaru",,1635.0,False,IND,0.0,1,-0.29,40,-11.6

@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33300526,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1927,1901,4.5,8,0.69,40,27.6,"Laohawirapap, Prin",m,2301,True,THA,0.5,1,0.42,40,16.8
+33300526,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1927,1901,4.5,8,0.69,40,27.6,"Baba, Masahiro",f,2172,False,JPN,0.0,1,-0.17,40,-6.8
+33300526,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1927,1901,4.5,8,0.69,40,27.6,"Lee, Donghyun C",,1583,False,KOR,0.0,1,-0.87,40,-34.8
+33300526,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1927,1901,4.5,8,0.69,40,27.6,"Frost, Peter",,1785,False,AUS,1.0,1,0.34,40,13.6
+33300526,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1927,1901,4.5,8,0.69,40,27.6,"Suman, Saideep",,1689,False,IND,0.5,1,-0.27,40,-10.8
+33300526,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1927,1901,4.5,8,0.69,40,27.6,"Tobin, Paul Nicholas",,1596,False,SGP,0.5,1,-0.36,40,-14.4
+33300526,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1927,1901,4.5,8,0.69,40,27.6,"Visweswaran, K.",f,2202,False,IND,1.0,1,0.85,40,34.0
+33300526,2024-05-01,0,21st Bangkok Chess Club Open 2024,Hua Hin THA,2024-04-13,2024-04-21,1927,1901,4.5,8,0.69,40,27.6,"Sidabutar, Uriel Noah Oloan",,2090,False,INA,1.0,1,0.75,40,30.0

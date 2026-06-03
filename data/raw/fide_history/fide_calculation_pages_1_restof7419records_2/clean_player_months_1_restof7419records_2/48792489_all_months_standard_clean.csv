@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48792489,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1823,1439,0.0,1,-0.09,40,-3.6,"Aarit, Kapil",,1823.0,False,IND,0.0,1,-0.09,40,-3.6
+48792489,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1648,1435,0.5,3,-0.26,40,-10.4,"Banerjee, Sushant",,1835.0,True,IND,0.0,1,-0.08,40,-3.2
+48792489,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1648,1435,0.5,3,-0.26,40,-10.4,"Cheetransh, Malhotra",,1529.0,False,IND,0.5,1,0.13,40,5.2
+48792489,2025-02-01,0,4th Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2025-01-03,2025-01-07,1648,1435,0.5,3,-0.26,40,-10.4,"Supratim, Bhadra",,1580.0,False,IND,0.0,1,-0.31,40,-12.4
+48792489,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1660,1435,0.5,3,-0.15,40,-6.0,"Singh, Vimlesh Kumar",,1716.0,False,IND,0.0,1,-0.16,40,-6.4
+48792489,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1660,1435,0.5,3,-0.15,40,-6.0,"Singla, Utsav",,1617.0,False,IND,0.5,1,0.24,40,9.6
+48792489,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1660,1435,0.5,3,-0.15,40,-6.0,"Panday, Sanjay",,1648.0,False,IND,0.0,1,-0.23,40,-9.2

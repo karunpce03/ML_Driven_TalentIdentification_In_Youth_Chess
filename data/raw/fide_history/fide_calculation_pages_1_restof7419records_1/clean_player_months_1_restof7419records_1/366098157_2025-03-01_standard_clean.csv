@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366098157,2025-03-01,0,Go Checkmate 15th FIDE Rated Standard Chess Tournament 2025,Singapore SGP,2025-01-29,2025-01-30,1633,1599,0.5,3,-0.87,40,-34.8,"Naresh, Kumar",,1625.0,False,IND,0.0,1,-0.46,40,-18.4
+366098157,2025-03-01,0,Go Checkmate 15th FIDE Rated Standard Chess Tournament 2025,Singapore SGP,2025-01-29,2025-01-30,1633,1599,0.5,3,-0.87,40,-34.8,"Wang, Mi Ya Mia",,1472.0,False,SGP,0.5,1,-0.17,40,-6.8
+366098157,2025-03-01,0,Go Checkmate 15th FIDE Rated Standard Chess Tournament 2025,Singapore SGP,2025-01-29,2025-01-30,1633,1599,0.5,3,-0.87,40,-34.8,"Teoh, Yi Hearn Lawrence",,1801.0,False,MAS,0.0,1,-0.24,40,-9.6
+366098157,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1656,1599,2.5,5,0.38,40,15.2,"Vogel, Francis Michael Li Zhang",,1749.0,False,SGP,0.0,1,-0.3,40,-12.0
+366098157,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1656,1599,2.5,5,0.38,40,15.2,"Shaunak, Paramanik",,1499.0,False,IND,1.0,1,0.36,40,14.4
+366098157,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1656,1599,2.5,5,0.38,40,15.2,"Chan, Jing Fong Joash",,1732.0,False,SGP,0.0,1,-0.32,40,-12.8
+366098157,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1656,1599,2.5,5,0.38,40,15.2,"Agung, Rinaldi Santoso",,1645.0,False,INA,1.0,1,0.56,40,22.4
+366098157,2025-03-01,0,Go Checkmate 16th FIDE rated Standard Chess Tournament,Singapore SGP,2025-02-09,2025-02-23,1656,1599,2.5,5,0.38,40,15.2,"Mithun, Pranav",,1653.0,False,IND,0.5,1,0.08,40,3.2

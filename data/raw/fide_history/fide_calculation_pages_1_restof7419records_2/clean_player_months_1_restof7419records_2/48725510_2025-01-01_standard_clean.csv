@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48725510,2025-01-01,0,Abovyan Autumn 2024,Abovyan ARM,2024-11-24,2024-11-30,1716,1527,2.5,5,1.11,40,44.4,"Leroy, Christophe",,1927,True,FRA,1.0,1,0.92,40,36.8
+48725510,2025-01-01,0,Abovyan Autumn 2024,Abovyan ARM,2024-11-24,2024-11-30,1716,1527,2.5,5,1.11,40,44.4,"Nahapetyan, Davit",,1776,False,ARM,0.0,1,-0.19,40,-7.6
+48725510,2025-01-01,0,Abovyan Autumn 2024,Abovyan ARM,2024-11-24,2024-11-30,1716,1527,2.5,5,1.11,40,44.4,"Tarposhyan, Vardan",,1742,False,ARM,0.5,1,0.27,40,10.8
+48725510,2025-01-01,0,Abovyan Autumn 2024,Abovyan ARM,2024-11-24,2024-11-30,1716,1527,2.5,5,1.11,40,44.4,"Aghekyan, Mark",,1577,False,ARM,0.0,1,-0.43,40,-17.2
+48725510,2025-01-01,0,Abovyan Autumn 2024,Abovyan ARM,2024-11-24,2024-11-30,1716,1527,2.5,5,1.11,40,44.4,"Yenokyan, Henri",,1557,False,ARM,1.0,1,0.54,40,21.6

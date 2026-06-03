@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48707520,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1657,1491,1.0,6,-0.68,40,-27.2,"Kartikeya, Chunchu",,1647.0,False,IND,0.0,1,-0.29,40,-11.6
+48707520,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1657,1491,1.0,6,-0.68,40,-27.2,"Kedarnath, U",,1642.0,False,IND,0.0,1,-0.3,40,-12.0
+48707520,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1657,1491,1.0,6,-0.68,40,-27.2,"Sukant, B A",,1671.0,False,IND,1.0,1,0.74,40,29.6
+48707520,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1657,1491,1.0,6,-0.68,40,-27.2,"Kavyansh, Jain",,1642.0,False,IND,0.0,1,-0.3,40,-12.0
+48707520,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1657,1491,1.0,6,-0.68,40,-27.2,"Jeswin, Jayakumar",,1650.0,False,IND,0.0,1,-0.29,40,-11.6
+48707520,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1657,1491,1.0,6,-0.68,40,-27.2,"Ishaan, Bhansali",,1692.0,False,IND,0.0,1,-0.24,40,-9.6
+48707520,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1699,1491,1.0,4,0.02,40,0.8,"Rajesh, Kumar",,1835.0,False,IND,0.0,1,-0.12,40,-4.8
+48707520,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1699,1491,1.0,4,0.02,40,0.8,"Aniket, Verma",,1627.0,False,IND,1.0,1,0.68,40,27.2
+48707520,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1699,1491,1.0,4,0.02,40,0.8,"Abhinav, Singh",,1680.0,False,IND,0.0,1,-0.25,40,-10.0
+48707520,2024-11-01,0,Chess for Everyone All India FIDE Rating Chess Tournament 2024,Chaibasa IND,2024-10-16,2024-10-20,1699,1491,1.0,4,0.02,40,0.8,"Kinjal, Sardar",,1653.0,False,IND,0.0,1,-0.29,40,-11.6

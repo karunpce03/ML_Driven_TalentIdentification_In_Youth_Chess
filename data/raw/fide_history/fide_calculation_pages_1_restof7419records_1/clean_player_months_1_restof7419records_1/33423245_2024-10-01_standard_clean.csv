@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33423245,2024-10-01,0,h2e Power Systems Maharashtra State Under 13 Open Selection FIDE Rated Chess Championship 2024,Pune IND,2024-09-20,2024-09-22,1598,1478,1.5,3,0.45,40,18.0,"Alaukik, Sinha",,1703.0,False,IND,0.5,1,0.28,40,11.2
+33423245,2024-10-01,0,h2e Power Systems Maharashtra State Under 13 Open Selection FIDE Rated Chess Championship 2024,Pune IND,2024-09-20,2024-09-22,1598,1478,1.5,3,0.45,40,18.0,"Bhuvan, Suhas Shitole",,1688.0,False,IND,0.0,1,-0.23,40,-9.2
+33423245,2024-10-01,0,h2e Power Systems Maharashtra State Under 13 Open Selection FIDE Rated Chess Championship 2024,Pune IND,2024-09-20,2024-09-22,1598,1478,1.5,3,0.45,40,18.0,"More, Varad",,1402.0,False,IND,1.0,1,0.4,40,16.0

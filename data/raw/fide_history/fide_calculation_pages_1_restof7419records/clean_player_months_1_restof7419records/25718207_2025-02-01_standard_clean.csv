@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25718207,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2274,2235,5.5,9,1.47,40,58.8,"Beber, Anja",,1998.0,False,SLO,1.0,1,0.2,40,8.0
+25718207,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2274,2235,5.5,9,1.47,40,58.8,"Zamengo, Fulvio",f,2348.0,False,ITA,0.0,1,-0.35,40,-14.0
+25718207,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2274,2235,5.5,9,1.47,40,58.8,"Mazzini, Mauro",,2069.0,False,ITA,1.0,1,0.28,40,11.2
+25718207,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2274,2235,5.5,9,1.47,40,58.8,"Hovhannisyan, Mher",g,2397.0,False,BEL,0.5,1,0.21,40,8.4
+25718207,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2274,2235,5.5,9,1.47,40,58.8,"Gkoumas, Georgios",m,2449.0,False,GRE,0.5,1,0.27,40,10.8
+25718207,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2274,2235,5.5,9,1.47,40,58.8,"Lekic, Dusan",m,2287.0,False,MNE,1.0,1,0.57,40,22.8
+25718207,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2274,2235,5.5,9,1.47,40,58.8,"Cina , Vittorio",f,2325.0,False,ITA,0.5,1,0.12,40,4.8
+25718207,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2274,2235,5.5,9,1.47,40,58.8,"Knudsen, Simon",f,2295.0,False,GER,0.0,1,-0.42,40,-16.8
+25718207,2025-02-01,0,FE 13 Citta' di Palmanova - A,Palmanova ITA,2024-12-27,2025-01-03,2274,2235,5.5,9,1.47,40,58.8,"Javornik, Nik",c,2300.0,False,SLO,1.0,1,0.59,40,23.6

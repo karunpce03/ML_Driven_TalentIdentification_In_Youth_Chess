@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25776509,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1430,1587,2.5,4,-0.34,40,-13.6,"Hunsika, M",,1403.0,False,IND,0.0,1,-0.74,40,-29.6
+25776509,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1430,1587,2.5,4,-0.34,40,-13.6,Prajesh,,1412.0,False,IND,1.0,1,0.27,40,10.8
+25776509,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1430,1587,2.5,4,-0.34,40,-13.6,"Jeeshvini, R",,1441.0,False,IND,0.5,1,-0.2,40,-8.0
+25776509,2024-09-01,0,14th Modern School International Fide Rating Open Chess Tournament for School Children,Chennai IND,2024-08-15,2024-08-18,1430,1587,2.5,4,-0.34,40,-13.6,"Jan, Hanno L J",,1464.0,False,IND,1.0,1,0.33,40,13.2
+25776509,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1620,1587,2.0,5,-0.28,40,-11.2,"Sridhar, C S",,1754.0,False,IND,0.0,1,-0.28,40,-11.2
+25776509,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1620,1587,2.0,5,-0.28,40,-11.2,"Kola, Akshith",,1452.0,False,IND,0.5,1,-0.18,40,-7.2
+25776509,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1620,1587,2.0,5,-0.28,40,-11.2,"Padmesh, C K S",,1452.0,False,IND,1.0,1,0.32,40,12.8
+25776509,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1620,1587,2.0,5,-0.28,40,-11.2,"Sudarsan, L P",,1683.0,False,IND,0.5,1,0.13,40,5.2
+25776509,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1620,1587,2.0,5,-0.28,40,-11.2,"Adhiadhavan, G",,1760.0,False,IND,0.0,1,-0.27,40,-10.8

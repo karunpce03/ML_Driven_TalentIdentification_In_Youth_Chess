@@ -1,0 +1,155 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25185454,2024-05-01,0,SixDays Budapest March 2024 IM,Budapest HUN,2024-03-30,2024-04-04,2260,2125,1.0,9,-1.92,25,-48.0,"Horvath, David",m,2330.0,False,HUN,0.0,1,-0.24,25,-6.0
+25185454,2024-05-01,0,SixDays Budapest March 2024 IM,Budapest HUN,2024-03-30,2024-04-04,2260,2125,1.0,9,-1.92,25,-48.0,"Radzimski, Antoni",,2198.0,False,POL,0.0,1,-0.4,25,-10.0
+25185454,2024-05-01,0,SixDays Budapest March 2024 IM,Budapest HUN,2024-03-30,2024-04-04,2260,2125,1.0,9,-1.92,25,-48.0,"Hesham, Abdelrahman",g,2366.0,False,FID,0.0,1,-0.2,25,-5.0
+25185454,2024-05-01,0,SixDays Budapest March 2024 IM,Budapest HUN,2024-03-30,2024-04-04,2260,2125,1.0,9,-1.92,25,-48.0,"Demeter, Dorina",wf,2296.0,False,HUN,0.0,1,-0.27,25,-6.75
+25185454,2024-05-01,0,SixDays Budapest March 2024 IM,Budapest HUN,2024-03-30,2024-04-04,2260,2125,1.0,9,-1.92,25,-48.0,"Gu, Crystal Jiuzhou",wf,2059.0,False,USA,1.0,1,0.41,25,10.25
+25185454,2024-05-01,0,SixDays Budapest March 2024 IM,Budapest HUN,2024-03-30,2024-04-04,2260,2125,1.0,9,-1.92,25,-48.0,"Toth-Goczo, Melinda",wm,2189.0,False,HUN,0.0,1,-0.41,25,-10.25
+25185454,2024-05-01,0,SixDays Budapest March 2024 IM,Budapest HUN,2024-03-30,2024-04-04,2260,2125,1.0,9,-1.92,25,-48.0,"Mouhamad, Joachim",f,2278.0,False,FRA,0.0,1,-0.3,25,-7.5
+25185454,2024-05-01,0,SixDays Budapest March 2024 IM,Budapest HUN,2024-03-30,2024-04-04,2260,2125,1.0,9,-1.92,25,-48.0,"Krizsany, Laszlo",m,2341.0,False,HUN,0.0,1,-0.22,25,-5.5
+25185454,2024-05-01,0,SixDays Budapest March 2024 IM,Budapest HUN,2024-03-30,2024-04-04,2260,2125,1.0,9,-1.92,25,-48.0,"Miszler, Levente",c,2287.0,False,HUN,0.0,1,-0.29,25,-7.25
+25185454,2024-05-01,0,First Saturday IM April 2024,Budapest HUN,2024-04-06,2024-04-16,2305,2125,2.0,9,-0.45,25,-11.25,"Sahithi, Varshini M",f wm,2254.0,False,IND,0.0,1,-0.33,25,-8.25
+25185454,2024-05-01,0,First Saturday IM April 2024,Budapest HUN,2024-04-06,2024-04-16,2305,2125,2.0,9,-0.45,25,-11.25,"Kovalev, Andrei",g,2413.0,False,BLR,0.0,1,-0.16,25,-4.0
+25185454,2024-05-01,0,First Saturday IM April 2024,Budapest HUN,2024-04-06,2024-04-16,2305,2125,2.0,9,-0.45,25,-11.25,"Palczert, Matyas",f,2333.0,False,HUN,0.0,1,-0.23,25,-5.75
+25185454,2024-05-01,0,First Saturday IM April 2024,Budapest HUN,2024-04-06,2024-04-16,2305,2125,2.0,9,-0.45,25,-11.25,"Neverov, Valeriy",g,2405.0,False,UKR,0.0,1,-0.16,25,-4.0
+25185454,2024-05-01,0,First Saturday IM April 2024,Budapest HUN,2024-04-06,2024-04-16,2305,2125,2.0,9,-0.45,25,-11.25,"Szalay-Ocsak, Bank",c,2210.0,False,HUN,0.5,1,0.12,25,3.0
+25185454,2024-05-01,0,First Saturday IM April 2024,Budapest HUN,2024-04-06,2024-04-16,2305,2125,2.0,9,-0.45,25,-11.25,"Sharma, Isha",wm,2224.0,False,IND,0.5,1,0.14,25,3.5
+25185454,2024-05-01,0,First Saturday IM April 2024,Budapest HUN,2024-04-06,2024-04-16,2305,2125,2.0,9,-0.45,25,-11.25,"Orujov, Farid",f,2258.0,False,AZE,0.0,1,-0.32,25,-8.0
+25185454,2024-05-01,0,First Saturday IM April 2024,Budapest HUN,2024-04-06,2024-04-16,2305,2125,2.0,9,-0.45,25,-11.25,"Mihok-Juhasz, Barbara",wm,2235.0,False,HUN,1.0,1,0.65,25,16.25
+25185454,2024-05-01,0,First Saturday IM April 2024,Budapest HUN,2024-04-06,2024-04-16,2305,2125,2.0,9,-0.45,25,-11.25,"Pacher, Milan",g,2415.0,False,SVK,0.0,1,-0.16,25,-4.0
+25185454,2024-05-01,0,Vezerkepzo IM April,Budapest HUN,2024-04-17,2024-04-26,2259,2125,3.0,9,0.02,25,0.5,"Kwon, Sehyun",f,2222.0,False,KOR,0.0,1,-0.37,25,-9.25
+25185454,2024-05-01,0,Vezerkepzo IM April,Budapest HUN,2024-04-17,2024-04-26,2259,2125,3.0,9,0.02,25,0.5,"Pacher, Milan",g,2415.0,False,SVK,0.0,1,-0.16,25,-4.0
+25185454,2024-05-01,0,Vezerkepzo IM April,Budapest HUN,2024-04-17,2024-04-26,2259,2125,3.0,9,0.02,25,0.5,"Jakab, Attila",m,2277.0,False,HUN,0.5,1,0.2,25,5.0
+25185454,2024-05-01,0,Vezerkepzo IM April,Budapest HUN,2024-04-17,2024-04-26,2259,2125,3.0,9,0.02,25,0.5,"Papp, Levente",f,2355.0,False,HUN,0.5,1,0.29,25,7.25
+25185454,2024-05-01,0,Vezerkepzo IM April,Budapest HUN,2024-04-17,2024-04-26,2259,2125,3.0,9,0.02,25,0.5,"Lee, Kyungseok",,2053.0,False,KOR,0.5,1,-0.1,25,-2.5
+25185454,2024-05-01,0,Vezerkepzo IM April,Budapest HUN,2024-04-17,2024-04-26,2259,2125,3.0,9,0.02,25,0.5,"Sharma, Isha",wm,2224.0,False,IND,0.0,1,-0.36,25,-9.0
+25185454,2024-05-01,0,Vezerkepzo IM April,Budapest HUN,2024-04-17,2024-04-26,2259,2125,3.0,9,0.02,25,0.5,"Czebe, Attila",g,2343.0,False,HUN,0.5,1,0.28,25,7.0
+25185454,2024-05-01,0,Vezerkepzo IM April,Budapest HUN,2024-04-17,2024-04-26,2259,2125,3.0,9,0.02,25,0.5,"Varga, Zoltan",g,2319.0,False,HUN,0.5,1,0.25,25,6.25
+25185454,2024-05-01,0,Vezerkepzo IM April,Budapest HUN,2024-04-17,2024-04-26,2259,2125,3.0,9,0.02,25,0.5,"Chubakov, Sultan",,2121.0,False,KGZ,0.5,1,-0.01,25,-0.25
+25185454,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2214,2125,3.5,9,-0.01,40,-0.4,"Kilic, Eray",f,2429.0,False,TUR,0.0,1,-0.14,40,-5.6
+25185454,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2214,2125,3.5,9,-0.01,40,-0.4,"Bellia, Fabrizio",m,2384.0,False,ITA,0.5,1,0.32,40,12.8
+25185454,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2214,2125,3.5,9,-0.01,40,-0.4,"Vemparala, Nikash",c,2033.0,False,USA,1.0,1,0.37,40,14.8
+25185454,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2214,2125,3.5,9,-0.01,40,-0.4,"Lohia, Sohum",f,2316.0,False,ENG,0.0,1,-0.25,40,-10.0
+25185454,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2214,2125,3.5,9,-0.01,40,-0.4,"Maldonado Gonzales, Stefano",,2218.0,False,ITA,0.0,1,-0.37,40,-14.8
+25185454,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2214,2125,3.5,9,-0.01,40,-0.4,"Vanhove, Koen",,2028.0,False,BEL,0.5,1,-0.13,40,-5.2
+25185454,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2214,2125,3.5,9,-0.01,40,-0.4,"Bonali, Leonardo",,2005.0,False,ITA,1.0,1,0.34,40,13.6
+25185454,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2214,2125,3.5,9,-0.01,40,-0.4,"Lacan Rus, David",c,2204.0,False,FRA,0.0,1,-0.39,40,-15.6
+25185454,2024-06-01,0,FE Sardinia World Chess - A,Orosei ITA,2024-04-27,2024-05-04,2214,2125,3.5,9,-0.01,40,-0.4,"Piscopo, Pierluigi",m,2312.0,False,ITA,0.5,1,0.24,40,9.6
+25185454,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2208,2066,2.5,9,-0.3,25,-7.5,"Kozlovic, Jernej",f,2301.0,False,SLO,0.0,1,-0.21,25,-5.25
+25185454,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2208,2066,2.5,9,-0.3,25,-7.5,"Gathi, Donat",,2216.0,False,HUN,0.0,1,-0.3,25,-7.5
+25185454,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2208,2066,2.5,9,-0.3,25,-7.5,"Tancsa, Tamas",f,2175.0,False,HUN,0.0,1,-0.35,25,-8.75
+25185454,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2208,2066,2.5,9,-0.3,25,-7.5,"Zakin, Ilay",,2174.0,False,ISR,0.5,1,0.15,25,3.75
+25185454,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2208,2066,2.5,9,-0.3,25,-7.5,"Nagy, Ervin Dr.",m,2187.0,False,HUN,0.5,1,0.16,25,4.0
+25185454,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2208,2066,2.5,9,-0.3,25,-7.5,"Terbe, Zsuzsanna",wm,2188.0,False,HUN,1.0,1,0.67,25,16.75
+25185454,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2208,2066,2.5,9,-0.3,25,-7.5,"Oros, Robert",f,2245.0,False,UKR,0.5,1,0.23,25,5.75
+25185454,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2208,2066,2.5,9,-0.3,25,-7.5,"Leszko, Bence",f,2206.0,False,HUN,0.0,1,-0.31,25,-7.75
+25185454,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2208,2066,2.5,9,-0.3,25,-7.5,"Iliaguev, Daniel",,2181.0,False,ISR,0.0,1,-0.34,25,-8.5
+25185454,2024-07-01,0,SixDays Budapest June 2024 IM-B,Budapest HUN,2024-06-03,2024-06-08,2251,2066,3.0,9,0.52,25,13.0,"Nagarkatte, Vedant",f,2272.0,False,IND,0.5,1,0.26,25,6.5
+25185454,2024-07-01,0,SixDays Budapest June 2024 IM-B,Budapest HUN,2024-06-03,2024-06-08,2251,2066,3.0,9,0.52,25,13.0,"Nanditha, V",wc,1852.0,False,IND,0.5,1,-0.27,25,-6.75
+25185454,2024-07-01,0,SixDays Budapest June 2024 IM-B,Budapest HUN,2024-06-03,2024-06-08,2251,2066,3.0,9,0.52,25,13.0,"Bashylina, Luisa",wf,2250.0,False,GER,0.5,1,0.24,25,6.0
+25185454,2024-07-01,0,SixDays Budapest June 2024 IM-B,Budapest HUN,2024-06-03,2024-06-08,2251,2066,3.0,9,0.52,25,13.0,"Van Zyl-Rudd, Jack",f,2292.0,False,RSA,0.5,1,0.29,25,7.25
+25185454,2024-07-01,0,SixDays Budapest June 2024 IM-B,Budapest HUN,2024-06-03,2024-06-08,2251,2066,3.0,9,0.52,25,13.0,"Krizsany, Laszlo",m,2330.0,False,HUN,0.5,1,0.32,25,8.0
+25185454,2024-07-01,0,SixDays Budapest June 2024 IM-B,Budapest HUN,2024-06-03,2024-06-08,2251,2066,3.0,9,0.52,25,13.0,"Danilenko, Dmitriy",f,2403.0,False,UKR,0.0,1,-0.12,25,-3.0
+25185454,2024-07-01,0,SixDays Budapest June 2024 IM-B,Budapest HUN,2024-06-03,2024-06-08,2251,2066,3.0,9,0.52,25,13.0,"Izsak, Gyula",m,2386.0,False,HUN,0.5,1,0.37,25,9.25
+25185454,2024-07-01,0,SixDays Budapest June 2024 IM-B,Budapest HUN,2024-06-03,2024-06-08,2251,2066,3.0,9,0.52,25,13.0,"Varga, Csaba Zoltan",f,2157.0,False,HUN,0.0,1,-0.38,25,-9.5
+25185454,2024-07-01,0,SixDays Budapest June 2024 IM-B,Budapest HUN,2024-06-03,2024-06-08,2251,2066,3.0,9,0.52,25,13.0,"Horvath, David",m,2313.0,False,HUN,0.0,1,-0.19,25,-4.75
+25185454,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2171,2066,5.0,9,1.7,25,42.5,"Yoo, Eugene",c,2273.0,False,USA,0.0,1,-0.23,25,-5.75
+25185454,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2171,2066,5.0,9,1.7,25,42.5,"Torres Rebolledo, Victor",,2215.0,False,ESP,1.0,1,0.7,25,17.5
+25185454,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2171,2066,5.0,9,1.7,25,42.5,"Rodriguez Pulido, Jose De Jesus",,1870.0,False,MEX,1.0,1,0.25,25,6.25
+25185454,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2171,2066,5.0,9,1.7,25,42.5,"Alba Fernandez, Nicolas",,2150.0,False,ESP,0.5,1,0.12,25,3.0
+25185454,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2171,2066,5.0,9,1.7,25,42.5,"Calvo Simon, Jorge",,2210.0,False,ESP,0.5,1,0.19,25,4.75
+25185454,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2171,2066,5.0,9,1.7,25,42.5,"Sanroman Costas, Mauro",,2143.0,False,ESP,0.5,1,0.11,25,2.75
+25185454,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2171,2066,5.0,9,1.7,25,42.5,"Khamrakulov, Ibragim S.",g,2412.0,False,ESP,0.0,1,-0.11,25,-2.75
+25185454,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2171,2066,5.0,9,1.7,25,42.5,"Derige Kane, Yan",c,2237.0,False,FRA,0.5,1,0.23,25,5.75
+25185454,2024-07-01,0,MADRID CHESS FESTIVAL - OPEN,Madrid ESP,2024-06-10,2024-06-15,2171,2066,5.0,9,1.7,25,42.5,"Wildt, Pablo Montgomery",,2026.0,False,HON,1.0,1,0.44,25,11.0
+25185454,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2254,2114,4.0,8,1.46,40,58.4,"Thogersen, Rasmus",f,2309.0,False,DEN,0.0,1,-0.25,40,-10.0
+25185454,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2254,2114,4.0,8,1.46,40,58.4,"Sriram, Jha",g,2304.0,False,IND,0.0,1,-0.25,40,-10.0
+25185454,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2254,2114,4.0,8,1.46,40,58.4,"Wahlgreen, Noah Krug",,2169.0,False,DEN,0.5,1,0.08,40,3.2
+25185454,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2254,2114,4.0,8,1.46,40,58.4,"Eklund, Joel",,2240.0,False,SWE,0.5,1,0.17,40,6.8
+25185454,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2254,2114,4.0,8,1.46,40,58.4,"Hammari, Vinjar",,2203.0,False,NOR,1.0,1,0.62,40,24.8
+25185454,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2254,2114,4.0,8,1.46,40,58.4,"Schmidt, Kristen",,2216.0,False,DEN,1.0,1,0.64,40,25.6
+25185454,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2254,2114,4.0,8,1.46,40,58.4,"Egresi, Mate",f,2377.0,False,HUN,0.0,1,-0.18,40,-7.2
+25185454,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2254,2114,4.0,8,1.46,40,58.4,"Simonsen, Carsten",,2212.0,False,DEN,1.0,1,0.63,40,25.2
+25185454,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2186,2114,3.5,9,-0.25,40,-10.0,"Baasansuren, Erdene",f,2370.0,False,MGL,0.0,1,-0.19,40,-7.6
+25185454,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2186,2114,3.5,9,-0.25,40,-10.0,"Banov, Boil",,2020.0,False,BUL,1.0,1,0.37,40,14.8
+25185454,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2186,2114,3.5,9,-0.25,40,-10.0,"Moksh, Amit Doshi",m,2368.0,False,IND,0.5,1,0.31,40,12.4
+25185454,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2186,2114,3.5,9,-0.25,40,-10.0,"Papadopoulos, Ioannis K.",g,2391.0,False,GRE,0.0,1,-0.17,40,-6.8
+25185454,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2186,2114,3.5,9,-0.25,40,-10.0,"Koch-Muller, Oscar",,2034.0,False,DEN,0.5,1,-0.11,40,-4.4
+25185454,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2186,2114,3.5,9,-0.25,40,-10.0,"Lam, Chun Yung Samuel",c,2058.0,False,HKG,0.5,1,-0.08,40,-3.2
+25185454,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2186,2114,3.5,9,-0.25,40,-10.0,"Georgiou, Kostantinos",,2217.0,False,GRE,0.0,1,-0.36,40,-14.4
+25185454,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2186,2114,3.5,9,-0.25,40,-10.0,"Zisiadis, Dimitrios",,2019.0,False,GRE,1.0,1,0.37,40,14.8
+25185454,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2186,2114,3.5,9,-0.25,40,-10.0,"Roinos, Ilias",,2195.0,False,GRE,0.0,1,-0.39,40,-15.6
+25185454,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2150,2162,4.5,9,-0.12,25,-3.0,"Aizenberg, Benny",f,2423.0,False,ISR,0.0,1,-0.18,25,-4.5
+25185454,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2150,2162,4.5,9,-0.12,25,-3.0,"Gasland, Lukas Dominik",,1905.0,False,NOR,0.5,1,-0.32,25,-8.0
+25185454,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2150,2162,4.5,9,-0.12,25,-3.0,"Sorgjerd, Jan",,1966.0,False,NOR,0.5,1,-0.25,25,-6.25
+25185454,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2150,2162,4.5,9,-0.12,25,-3.0,"Laddha, Shubh Jayesh",f,2308.0,False,USA,0.0,1,-0.3,25,-7.5
+25185454,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2150,2162,4.5,9,-0.12,25,-3.0,"Juodziukynas, Aidas",,1917.0,False,NOR,1.0,1,0.2,25,5.0
+25185454,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2150,2162,4.5,9,-0.12,25,-3.0,"Sorensen, Hampus",m,2423.0,False,SWE,0.0,1,-0.18,25,-4.5
+25185454,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2150,2162,4.5,9,-0.12,25,-3.0,"Stromhaug, Kristoffer Wang",,1960.0,False,NOR,1.0,1,0.24,25,6.0
+25185454,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2150,2162,4.5,9,-0.12,25,-3.0,"Nagare, Akhilesh",c,2245.0,False,IND,0.5,1,0.11,25,2.75
+25185454,2024-11-01,0,Fagernes International Autumn 2024 GM,Fagernes NOR,2024-10-06,2024-10-13,2150,2162,4.5,9,-0.12,25,-3.0,"Westrum, Kim Roger Hansen",c,2205.0,False,NOR,1.0,1,0.56,25,14.0
+25185454,2024-11-01,0,Vezerkepzo Harvest 2024 IM,Budapest HUN,2024-10-14,2024-10-19,2238,2162,2.0,9,-1.59,25,-39.75,"To, Nhat Minh",m,2318.0,False,HUN,0.0,1,-0.29,25,-7.25
+25185454,2024-11-01,0,Vezerkepzo Harvest 2024 IM,Budapest HUN,2024-10-14,2024-10-19,2238,2162,2.0,9,-1.59,25,-39.75,"Nemeth, Zalan",f,2225.0,False,IRL,0.0,1,-0.41,25,-10.25
+25185454,2024-11-01,0,Vezerkepzo Harvest 2024 IM,Budapest HUN,2024-10-14,2024-10-19,2238,2162,2.0,9,-1.59,25,-39.75,"Sagi, Bence",,2205.0,False,HUN,0.5,1,0.06,25,1.5
+25185454,2024-11-01,0,Vezerkepzo Harvest 2024 IM,Budapest HUN,2024-10-14,2024-10-19,2238,2162,2.0,9,-1.59,25,-39.75,"Munkhgal, Gombosuren",g,2410.0,False,MGL,0.0,1,-0.19,25,-4.75
+25185454,2024-11-01,0,Vezerkepzo Harvest 2024 IM,Budapest HUN,2024-10-14,2024-10-19,2238,2162,2.0,9,-1.59,25,-39.75,"Otsuka, Shou",c,2271.0,False,JPN,1.0,1,0.65,25,16.25
+25185454,2024-11-01,0,Vezerkepzo Harvest 2024 IM,Budapest HUN,2024-10-14,2024-10-19,2238,2162,2.0,9,-1.59,25,-39.75,"Fodor, Balazs",,2240.0,False,HUN,0.5,1,0.11,25,2.75
+25185454,2024-11-01,0,Vezerkepzo Harvest 2024 IM,Budapest HUN,2024-10-14,2024-10-19,2238,2162,2.0,9,-1.59,25,-39.75,"Amin-Erdene, Bayanmunkh",wf,2014.0,False,MGL,0.0,1,-0.7,25,-17.5
+25185454,2024-11-01,0,Vezerkepzo Harvest 2024 IM,Budapest HUN,2024-10-14,2024-10-19,2238,2162,2.0,9,-1.59,25,-39.75,"Varga, Csaba Zoltan",f,2189.0,False,HUN,0.0,1,-0.46,25,-11.5
+25185454,2024-11-01,0,Vezerkepzo Harvest 2024 IM,Budapest HUN,2024-10-14,2024-10-19,2238,2162,2.0,9,-1.59,25,-39.75,"Turzo, Attila",m,2267.0,False,HUN,0.0,1,-0.36,25,-9.0
+25185454,2024-11-01,0,2. Berlin U25 Open A,Berlin GER,2024-10-21,2024-10-27,2144,2162,3.5,9,-1.21,25,-30.25,"Nemec, Jachym",f,2398.0,False,CZE,0.0,1,-0.2,25,-5.0
+25185454,2024-11-01,0,2. Berlin U25 Open A,Berlin GER,2024-10-21,2024-10-27,2144,2162,3.5,9,-1.21,25,-30.25,"Stremavicius, Pijus",f,2346.0,False,LTU,0.0,1,-0.26,25,-6.5
+25185454,2024-11-01,0,2. Berlin U25 Open A,Berlin GER,2024-10-21,2024-10-27,2144,2162,3.5,9,-1.21,25,-30.25,"Held, Momme Fredrik",,2041.0,False,GER,1.0,1,0.34,25,8.5
+25185454,2024-11-01,0,2. Berlin U25 Open A,Berlin GER,2024-10-21,2024-10-27,2144,2162,3.5,9,-1.21,25,-30.25,"Hesse, Henrik",f,2281.0,False,GER,0.0,1,-0.34,25,-8.5
+25185454,2024-11-01,0,2. Berlin U25 Open A,Berlin GER,2024-10-21,2024-10-27,2144,2162,3.5,9,-1.21,25,-30.25,"Bargsten, Justus",c,2211.0,False,GER,0.0,1,-0.43,25,-10.75
+25185454,2024-11-01,0,2. Berlin U25 Open A,Berlin GER,2024-10-21,2024-10-27,2144,2162,3.5,9,-1.21,25,-30.25,"Gabadadze, Gabriel",,2043.0,False,GEO,0.5,1,-0.16,25,-4.0
+25185454,2024-11-01,0,2. Berlin U25 Open A,Berlin GER,2024-10-21,2024-10-27,2144,2162,3.5,9,-1.21,25,-30.25,"Liu, Jonas",,1911.0,False,GER,1.0,1,0.19,25,4.75
+25185454,2024-11-01,0,2. Berlin U25 Open A,Berlin GER,2024-10-21,2024-10-27,2144,2162,3.5,9,-1.21,25,-30.25,"Verbitsky, Jaroslaw",,2063.0,False,GER,0.5,1,-0.14,25,-3.5
+25185454,2024-11-01,0,2. Berlin U25 Open A,Berlin GER,2024-10-21,2024-10-27,2144,2162,3.5,9,-1.21,25,-30.25,"Nguyen, Phuc Nhat",,2000.0,False,GER,0.5,1,-0.21,25,-5.25
+25185454,2024-12-01,0,SixDays Budapest November 2024 IM-B,Budapest HUN,2024-11-22,2024-11-27,2277,2089,2.5,8,0.39,40,15.6,"Pap, Misa",g,2401.0,False,SRB,0.0,1,-0.14,40,-5.6
+25185454,2024-12-01,0,SixDays Budapest November 2024 IM-B,Budapest HUN,2024-11-22,2024-11-27,2277,2089,2.5,8,0.39,40,15.6,"Heinemann, Josefine",wg,2314.0,False,GER,0.0,1,-0.22,40,-8.8
+25185454,2024-12-01,0,SixDays Budapest November 2024 IM-B,Budapest HUN,2024-11-22,2024-11-27,2277,2089,2.5,8,0.39,40,15.6,"Nagarkatte, Vedant",f,2222.0,False,IND,0.5,1,0.18,40,7.2
+25185454,2024-12-01,0,SixDays Budapest November 2024 IM-B,Budapest HUN,2024-11-22,2024-11-27,2277,2089,2.5,8,0.39,40,15.6,"Nemeth, Zoltan",m,2197.0,False,HUN,0.5,1,0.15,40,6.0
+25185454,2024-12-01,0,SixDays Budapest November 2024 IM-B,Budapest HUN,2024-11-22,2024-11-27,2277,2089,2.5,8,0.39,40,15.6,"Liu, Casper",f,2225.0,False,DEN,1.0,1,0.68,40,27.2
+25185454,2024-12-01,0,SixDays Budapest November 2024 IM-B,Budapest HUN,2024-11-22,2024-11-27,2277,2089,2.5,8,0.39,40,15.6,"Miszler, Levente",c,2257.0,False,HUN,0.5,1,0.22,40,8.8
+25185454,2024-12-01,0,SixDays Budapest November 2024 IM-B,Budapest HUN,2024-11-22,2024-11-27,2277,2089,2.5,8,0.39,40,15.6,"Pribelszky, Bence",f,2395.0,False,HUN,0.0,1,-0.14,40,-5.6
+25185454,2024-12-01,0,SixDays Budapest November 2024 IM-B,Budapest HUN,2024-11-22,2024-11-27,2277,2089,2.5,8,0.39,40,15.6,"Sagi, Bence",,2208.0,False,HUN,0.0,1,-0.34,40,-13.6
+25185454,2025-01-01,0,Vezerkepzo Santa Claus 2024 IM,Budapest HUN,2024-11-29,2024-12-06,2262,2089,2.5,9,0.01,40,0.4,"Otsuka, Shou",c,2248.0,False,JPN,0.5,1,0.21,40,8.4
+25185454,2025-01-01,0,Vezerkepzo Santa Claus 2024 IM,Budapest HUN,2024-11-29,2024-12-06,2262,2089,2.5,9,0.01,40,0.4,"Nagarkatte, Vedant",f,2222.0,False,IND,0.0,1,-0.32,40,-12.8
+25185454,2025-01-01,0,Vezerkepzo Santa Claus 2024 IM,Budapest HUN,2024-11-29,2024-12-06,2262,2089,2.5,9,0.01,40,0.4,"Amin-Erdene, Bayanmunkh",wf,2243.0,False,MGL,0.0,1,-0.29,40,-11.6
+25185454,2025-01-01,0,Vezerkepzo Santa Claus 2024 IM,Budapest HUN,2024-11-29,2024-12-06,2262,2089,2.5,9,0.01,40,0.4,"Varga, Zoltan",g,2290.0,False,HUN,0.0,1,-0.24,40,-9.6
+25185454,2025-01-01,0,Vezerkepzo Santa Claus 2024 IM,Budapest HUN,2024-11-29,2024-12-06,2262,2089,2.5,9,0.01,40,0.4,"Issa, Rafat",m,2340.0,False,JOR,0.5,1,0.31,40,12.4
+25185454,2025-01-01,0,Vezerkepzo Santa Claus 2024 IM,Budapest HUN,2024-11-29,2024-12-06,2262,2089,2.5,9,0.01,40,0.4,"Matyassy, Lazar",c,2234.0,False,HUN,0.0,1,-0.31,40,-12.4
+25185454,2025-01-01,0,Vezerkepzo Santa Claus 2024 IM,Budapest HUN,2024-11-29,2024-12-06,2262,2089,2.5,9,0.01,40,0.4,"Vandan, Alankar Sawai",,2167.0,False,IND,0.0,1,-0.39,40,-15.6
+25185454,2025-01-01,0,Vezerkepzo Santa Claus 2024 IM,Budapest HUN,2024-11-29,2024-12-06,2262,2089,2.5,9,0.01,40,0.4,"Liu, Casper",f,2225.0,False,DEN,1.0,1,0.68,40,27.2
+25185454,2025-01-01,0,Vezerkepzo Santa Claus 2024 IM,Budapest HUN,2024-11-29,2024-12-06,2262,2089,2.5,9,0.01,40,0.4,"Munkhgal, Gombosuren",g,2392.0,False,MGL,0.5,1,0.36,40,14.4
+25185454,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2128,2105,4.5,10,-0.28,23,-6.44,"Arhan, Jain",,1852.0,False,IND,0.5,1,-0.31,23,-7.13
+25185454,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2128,2105,4.5,10,-0.28,23,-6.44,"Fang, Kun",wc,1825.0,False,SGP,1.0,1,0.16,23,3.68
+25185454,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2128,2105,4.5,10,-0.28,23,-6.44,"Sourath, Biswas",f,2293.0,False,IND,0.5,1,0.24,23,5.52
+25185454,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2128,2105,4.5,10,-0.28,23,-6.44,"Ram, Aravind L N",f,2249.0,False,IND,0.5,1,0.19,23,4.37
+25185454,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2128,2105,4.5,10,-0.28,23,-6.44,"Gochelashvili, David",m,2268.0,False,RUS,1.0,1,0.72,23,16.56
+25185454,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2128,2105,4.5,10,-0.28,23,-6.44,"Sriram, Adarsh Uppala",,2340.0,False,IND,0.0,1,-0.21,23,-4.83
+25185454,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2128,2105,4.5,10,-0.28,23,-6.44,"Aswath, S",f,2491.0,False,IND,0.0,1,-0.09,23,-2.07
+25185454,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2128,2105,4.5,10,-0.28,23,-6.44,"Ram, S. Krishnan",,2013.0,False,IND,0.0,1,-0.63,23,-14.49
+25185454,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2128,2105,4.5,10,-0.28,23,-6.44,"Nirvan, Bhamidi",,2008.0,False,IND,0.0,1,-0.63,23,-14.49
+25185454,2025-02-01,0,Athens of the East 4th International Grandmaster Open FIDE Rated Chess Tournament- 2024 (Above -2000),Madurai IND,2024-12-24,2024-12-31,2128,2105,4.5,10,-0.28,23,-6.44,"Abheek, Bhatt",,1942.0,False,IND,1.0,1,0.28,23,6.44
+25185454,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,1987,2105,3.5,10,-3.02,23,-69.46,"Doddapaneni, Viyaan Krishna",,1877.0,False,USA,1.0,1,0.21,23,4.83
+25185454,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,1987,2105,3.5,10,-3.02,23,-69.46,"Shahil, Dey",m,2374.0,False,IND,0.0,1,-0.17,23,-3.91
+25185454,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,1987,2105,3.5,10,-3.02,23,-69.46,"Perecharla, Hariram Saikrishna",,1789.0,False,USA,0.5,1,-0.37,23,-8.51
+25185454,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,1987,2105,3.5,10,-3.02,23,-69.46,"Kalyani, Sirin",wf,2012.0,False,IND,0.0,1,-0.63,23,-14.49
+25185454,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,1987,2105,3.5,10,-3.02,23,-69.46,"Raihaan, Zahid",,1981.0,False,IND,0.0,1,-0.67,23,-15.41
+25185454,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,1987,2105,3.5,10,-3.02,23,-69.46,"Tiwari, Shivansh",,1992.0,False,IND,1.0,1,0.35,23,8.05
+25185454,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,1987,2105,3.5,10,-3.02,23,-69.46,"Anilkumar, O.t.",f,1834.0,False,IND,0.0,1,-0.83,23,-19.09
+25185454,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,1987,2105,3.5,10,-3.02,23,-69.46,"Chukka, Vineel Radha Karthik",,1999.0,False,IND,0.0,1,-0.64,23,-14.72
+25185454,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,1987,2105,3.5,10,-3.02,23,-69.46,"Ashwath, Kaushik",c,2002.0,False,SGP,1.0,1,0.36,23,8.28
+25185454,2025-02-01,0,15th Chennai Open International Grandmaster Chess Tournament 2024 for Sakthi Group Dr. N Mahalingam Trophy Category A (Above 2000),Chennai IND,2025-01-02,2025-01-09,1987,2105,3.5,10,-3.02,23,-69.46,"Haridev, S",,2010.0,False,IND,0.0,1,-0.63,23,-14.49
+25185454,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2122,2105,4.5,10,-0.54,23,-12.42,"Paarshva, Parmar",,1921.0,False,IND,1.0,1,0.26,23,5.98
+25185454,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2122,2105,4.5,10,-0.54,23,-12.42,"Siddharth, Jagadeesh",g,2505.0,True,SGP,0.5,1,0.42,23,9.66
+25185454,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2122,2105,4.5,10,-0.54,23,-12.42,"Sanket, Chakravarty",m,2374.0,False,IND,0.0,1,-0.17,23,-3.91
+25185454,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2122,2105,4.5,10,-0.54,23,-12.42,"Kavinda, Akila",c,1970.0,False,SRI,0.5,1,-0.18,23,-4.14
+25185454,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2122,2105,4.5,10,-0.54,23,-12.42,"Rupam, Mukherjee",,2011.0,False,IND,1.0,1,0.37,23,8.51
+25185454,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2122,2105,4.5,10,-0.54,23,-12.42,"Neelash, Saha",m,2490.0,False,IND,0.0,1,-0.09,23,-2.07
+25185454,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2122,2105,4.5,10,-0.54,23,-12.42,"Ramakrishna, J.",f,1989.0,False,IND,0.0,1,-0.66,23,-15.18
+25185454,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2122,2105,4.5,10,-0.54,23,-12.42,"Shreyash, Singh",,2001.0,False,IND,0.0,1,-0.64,23,-14.72
+25185454,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2122,2105,4.5,10,-0.54,23,-12.42,"Phuyal, Aashish",,1981.0,False,NEP,1.0,1,0.33,23,7.59
+25185454,2025-02-01,0,Late Shri Manohar Parrikar Goa International Open Grand Master Chess Tournament 2025 (Cat A Above 2000 Rating),Taleigao IND,2025-01-11,2025-01-19,2122,2105,4.5,10,-0.54,23,-12.42,"Om, Batra",,1973.0,False,IND,0.5,1,-0.18,23,-4.14

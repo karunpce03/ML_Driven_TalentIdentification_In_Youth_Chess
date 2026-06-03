@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25132890,2025-03-01,0,1st T-RERA International Open FIDE Rating Chess Tournament,Agartala IND,2025-01-30,2025-02-03,1678,1734,4.0,7,-0.09,40,-3.6,"Priyanshu, Sekhar Swain",,1525,False,IND,0.0,1,-0.77,40,-30.8
+25132890,2025-03-01,0,1st T-RERA International Open FIDE Rating Chess Tournament,Agartala IND,2025-01-30,2025-02-03,1678,1734,4.0,7,-0.09,40,-3.6,"Sraddha, Dhar",,1456,False,IND,1.0,1,0.17,40,6.8
+25132890,2025-03-01,0,1st T-RERA International Open FIDE Rating Chess Tournament,Agartala IND,2025-01-30,2025-02-03,1678,1734,4.0,7,-0.09,40,-3.6,"Pranjal, Debnath",,1564,False,IND,1.0,1,0.28,40,11.2
+25132890,2025-03-01,0,1st T-RERA International Open FIDE Rating Chess Tournament,Agartala IND,2025-01-30,2025-02-03,1678,1734,4.0,7,-0.09,40,-3.6,"Ramesh, Kalai",,1576,False,IND,1.0,1,0.29,40,11.6
+25132890,2025-03-01,0,1st T-RERA International Open FIDE Rating Chess Tournament,Agartala IND,2025-01-30,2025-02-03,1678,1734,4.0,7,-0.09,40,-3.6,"Kulkarni, Vikramaditya",m,2134,True,IND,0.0,1,-0.08,40,-3.2
+25132890,2025-03-01,0,1st T-RERA International Open FIDE Rating Chess Tournament,Agartala IND,2025-01-30,2025-02-03,1678,1734,4.0,7,-0.09,40,-3.6,"Swastik, Majumder",,1595,False,IND,1.0,1,0.31,40,12.4
+25132890,2025-03-01,0,1st T-RERA International Open FIDE Rating Chess Tournament,Agartala IND,2025-01-30,2025-02-03,1678,1734,4.0,7,-0.09,40,-3.6,"Iftikar, Alom Mazumdar",,1896,False,IND,0.0,1,-0.29,40,-11.6

@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88114015,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1694,1457,0.0,3,-0.63,40,-25.2,"Abishek, E",,1680.0,False,IND,0.0,1,-0.22,40,-8.8
+88114015,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1694,1457,0.0,3,-0.63,40,-25.2,"Caris, Jeshurun A",,1789.0,False,IND,0.0,1,-0.12,40,-4.8
+88114015,2025-04-01,0,The 2nd Xaverian International FIDE Rated Open Chess Tournament,Tirunelveli IND,2025-03-01,2025-03-04,1694,1457,0.0,3,-0.63,40,-25.2,"Dhinesh, K A",,1612.0,False,IND,0.0,1,-0.29,40,-11.6

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25967851,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1405,1429,0.0,1,-0.53,40,-21.2,"Lalithish, D S",,1405.0,False,IND,0.0,1,-0.53,40,-21.2
+25967851,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1829,1429,0.0,1,-0.08,40,-3.2,"Ayyappan, P Santhana Prabu",,1829.0,True,IND,0.0,1,-0.08,40,-3.2
+25967851,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1603,1405,1.0,3,0.25,40,10.0,Satyasavit,,1622.0,False,IND,1.0,1,0.78,40,31.2
+25967851,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1603,1405,1.0,3,0.25,40,10.0,"Parithi, Narayan S I",,1660.0,False,IND,0.0,1,-0.19,40,-7.6
+25967851,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1603,1405,1.0,3,0.25,40,10.0,"Shaun, Matthew",,1526.0,False,IND,0.0,1,-0.34,40,-13.6
+25967851,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1615,1415,1.5,6,-0.03,40,-1.2,"Arhan, Jain",,1815.0,True,IND,0.0,1,-0.08,40,-3.2
+25967851,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1615,1415,1.5,6,-0.03,40,-1.2,"Saidugari, Sai Tej",,1626.0,False,IND,0.0,1,-0.23,40,-9.2
+25967851,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1615,1415,1.5,6,-0.03,40,-1.2,"Cheran, Sai Ch",,1529.0,False,IND,1.0,1,0.66,40,26.4
+25967851,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1615,1415,1.5,6,-0.03,40,-1.2,"Rajesh, Kesanakurthi",,1643.0,False,IND,0.0,1,-0.21,40,-8.4
+25967851,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1615,1415,1.5,6,-0.03,40,-1.2,"Shree, Hari B",,1502.0,False,IND,0.5,1,0.12,40,4.8
+25967851,2025-02-01,0,U 15 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1615,1415,1.5,6,-0.03,40,-1.2,"Taneesh, Choppa",,1577.0,False,IND,0.0,1,-0.29,40,-11.6

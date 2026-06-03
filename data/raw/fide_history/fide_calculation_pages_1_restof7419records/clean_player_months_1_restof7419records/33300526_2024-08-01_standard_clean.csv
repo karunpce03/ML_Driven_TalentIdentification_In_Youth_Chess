@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33300526,2024-08-01,0,4eme Festival international d'echecs de La Plagne Soleil - Tournoi Maitre,LA PLAGNE TARENTAISE FRA,2024-07-06,2024-07-12,2192,1951,3.0,9,1.09,38,41.42,"Manley, Jon P",,2191,False,ENG,1.0,1,0.8,38,30.4
+33300526,2024-08-01,0,4eme Festival international d'echecs de La Plagne Soleil - Tournoi Maitre,LA PLAGNE TARENTAISE FRA,2024-07-06,2024-07-12,2192,1951,3.0,9,1.09,38,41.42,"Defromont, Benjamin",f,2351,True,FRA,0.0,1,-0.08,38,-3.04
+33300526,2024-08-01,0,4eme Festival international d'echecs de La Plagne Soleil - Tournoi Maitre,LA PLAGNE TARENTAISE FRA,2024-07-06,2024-07-12,2192,1951,3.0,9,1.09,38,41.42,"Derige Kane, Yan",c,2224,False,FRA,0.5,1,0.33,38,12.54
+33300526,2024-08-01,0,4eme Festival international d'echecs de La Plagne Soleil - Tournoi Maitre,LA PLAGNE TARENTAISE FRA,2024-07-06,2024-07-12,2192,1951,3.0,9,1.09,38,41.42,"Bat, Bilguun",f,2329,False,FRA,0.5,1,0.41,38,15.58
+33300526,2024-08-01,0,4eme Festival international d'echecs de La Plagne Soleil - Tournoi Maitre,LA PLAGNE TARENTAISE FRA,2024-07-06,2024-07-12,2192,1951,3.0,9,1.09,38,41.42,"Daeschler, Florian",f,2254,False,FRA,0.0,1,-0.14,38,-5.32
+33300526,2024-08-01,0,4eme Festival international d'echecs de La Plagne Soleil - Tournoi Maitre,LA PLAGNE TARENTAISE FRA,2024-07-06,2024-07-12,2192,1951,3.0,9,1.09,38,41.42,"Pattnayak, Nilsu",,2105,False,IND,0.0,1,-0.29,38,-11.02
+33300526,2024-08-01,0,4eme Festival international d'echecs de La Plagne Soleil - Tournoi Maitre,LA PLAGNE TARENTAISE FRA,2024-07-06,2024-07-12,2192,1951,3.0,9,1.09,38,41.42,"Djidjeli, Sarah",wf,2043,False,FRA,0.5,1,0.13,38,4.94
+33300526,2024-08-01,0,4eme Festival international d'echecs de La Plagne Soleil - Tournoi Maitre,LA PLAGNE TARENTAISE FRA,2024-07-06,2024-07-12,2192,1951,3.0,9,1.09,38,41.42,"Vincenti, Leonardo",c,2163,False,ITA,0.5,1,0.27,38,10.26
+33300526,2024-08-01,0,4eme Festival international d'echecs de La Plagne Soleil - Tournoi Maitre,LA PLAGNE TARENTAISE FRA,2024-07-06,2024-07-12,2192,1951,3.0,9,1.09,38,41.42,"Cont, Arya",,2068,False,ENG,0.0,1,-0.34,38,-12.92
+33300526,2024-08-01,0,FE Genova international chess - A,Genova ITA,2024-07-13,2024-07-19,2211,1951,5.5,9,3.78,38,143.64,"Haussernot, Cecile",wm,2149,False,FRA,1.0,1,0.76,38,28.88
+33300526,2024-08-01,0,FE Genova international chess - A,Genova ITA,2024-07-13,2024-07-19,2211,1951,5.5,9,3.78,38,143.64,"Boraso, Alessio",f,2275,False,ITA,1.0,1,0.87,38,33.06
+33300526,2024-08-01,0,FE Genova international chess - A,Genova ITA,2024-07-13,2024-07-19,2211,1951,5.5,9,3.78,38,143.64,"Glek, Igor",g,2351,True,BEL,0.0,1,-0.08,38,-3.04
+33300526,2024-08-01,0,FE Genova international chess - A,Genova ITA,2024-07-13,2024-07-19,2211,1951,5.5,9,3.78,38,143.64,"Efimov, Igor",g,2312,False,MNC,0.0,1,-0.1,38,-3.8
+33300526,2024-08-01,0,FE Genova international chess - A,Genova ITA,2024-07-13,2024-07-19,2211,1951,5.5,9,3.78,38,143.64,"Grygierczyk, Wojciech",,2090,False,POL,1.0,1,0.69,38,26.22
+33300526,2024-08-01,0,FE Genova international chess - A,Genova ITA,2024-07-13,2024-07-19,2211,1951,5.5,9,3.78,38,143.64,"Beliman, Alexandro",,2261,False,ITA,1.0,1,0.86,38,32.68
+33300526,2024-08-01,0,FE Genova international chess - A,Genova ITA,2024-07-13,2024-07-19,2211,1951,5.5,9,3.78,38,143.64,"Chitlange, Sakshi",wm,2173,False,IND,0.0,1,-0.22,38,-8.36
+33300526,2024-08-01,0,FE Genova international chess - A,Genova ITA,2024-07-13,2024-07-19,2211,1951,5.5,9,3.78,38,143.64,"Juknis, Paulius",c,2197,False,LTU,1.0,1,0.81,38,30.78
+33300526,2024-08-01,0,FE Genova international chess - A,Genova ITA,2024-07-13,2024-07-19,2211,1951,5.5,9,3.78,38,143.64,"Ferrante, Marco",,2092,False,ITA,0.5,1,0.19,38,7.22

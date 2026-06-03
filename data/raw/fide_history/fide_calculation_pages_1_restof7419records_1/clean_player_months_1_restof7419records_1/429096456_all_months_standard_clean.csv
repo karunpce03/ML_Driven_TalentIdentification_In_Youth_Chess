@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429096456,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,,,1.0,2,0.0,1489,,"Debjyoti, Das",,1539.0,False,IND,0.0,1,0.0,,0.0
+429096456,2024-05-01,0,AICF's Chess for Everyone FIDE Rated Chess Tournament-2024 - West Bengal,Midnapore IND,2024-03-27,2024-03-31,,,1.0,2,0.0,1489,,"Suvra, Kanti Karsharma",,1438.0,False,IND,1.0,1,0.0,,0.0
+429096456,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.5,6,0.0,1291,,"Deep, Karmakar",,1587.0,False,IND,0.0,1,0.0,,0.0
+429096456,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.5,6,0.0,1291,,"Arka, Ghosh",,1486.0,False,IND,0.0,1,0.0,,0.0
+429096456,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.5,6,0.0,1291,,"Swayam, Ojha",,1432.0,False,IND,0.5,1,0.0,,0.0
+429096456,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.5,6,0.0,1291,,"Srijan, Saha",,1426.0,False,IND,0.0,1,0.0,,0.0
+429096456,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.5,6,0.0,1291,,"Susnata, Mandal",,1415.0,False,IND,0.0,1,0.0,,0.0
+429096456,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,,,1.5,6,0.0,1291,,"Raghav, Chhaparia",,1555.0,False,IND,1.0,1,0.0,,0.0
+429096456,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1603.0,1438.0,1.5,5,0.09,40,3.6,"Aniket, Das",,1633.0,False,IND,0.0,1,-0.25,40.0,-10.0
+429096456,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1603.0,1438.0,1.5,5,0.09,40,3.6,"Archit, Roy",,1619.0,False,IND,1.0,1,0.74,40.0,29.6
+429096456,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1603.0,1438.0,1.5,5,0.09,40,3.6,"Deeptanshu, Roy",,1570.0,False,IND,0.5,1,0.18,40.0,7.2
+429096456,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1603.0,1438.0,1.5,5,0.09,40,3.6,"Anbit, Banerjee",,1595.0,False,IND,0.0,1,-0.29,40.0,-11.6
+429096456,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1603.0,1438.0,1.5,5,0.09,40,3.6,"Avighna, Das",,1596.0,False,IND,0.0,1,-0.29,40.0,-11.6

@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48700215,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1892,1768,4.0,9,0.82,40,32.8,"Bernardo, Darry",,2068.0,False,PHI,0.0,1,-0.15,40,-6.0
+48700215,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1892,1768,4.0,9,0.82,40,32.8,"Alazmi, Amani",,1668.0,False,KUW,1.0,1,0.36,40,14.4
+48700215,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1892,1768,4.0,9,0.82,40,32.8,"Boshra, Alshaeby",wm,1902.0,False,JOR,0.5,1,0.18,40,7.2
+48700215,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1892,1768,4.0,9,0.82,40,32.8,"Aborezika, Mohamed",,1897.0,False,LBA,0.5,1,0.17,40,6.8
+48700215,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1892,1768,4.0,9,0.82,40,32.8,"Arakelyan, Manvel",,2033.0,False,ARM,0.0,1,-0.18,40,-7.2
+48700215,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1892,1768,4.0,9,0.82,40,32.8,"Aditi, Arun",,1650.0,False,IND,1.0,1,0.34,40,13.6
+48700215,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1892,1768,4.0,9,0.82,40,32.8,"Al Yaghshi, M. Hisham",,2110.0,False,SYR,1.0,1,0.88,40,35.2
+48700215,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1892,1768,4.0,9,0.82,40,32.8,"Mandryka, Vladislav",,1825.0,False,FID,0.0,1,-0.42,40,-16.8
+48700215,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1892,1768,4.0,9,0.82,40,32.8,"Vaidyanathan, Kannan",,1872.0,False,USA,0.0,1,-0.36,40,-14.4

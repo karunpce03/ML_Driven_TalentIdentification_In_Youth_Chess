@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+146105016,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1661,1579,2.5,4,0.93,40,37.2,"Meera, Saqr Almarri",,1425.0,False,UAE,1.0,1,0.29,40,11.6
+146105016,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1661,1579,2.5,4,0.93,40,37.2,"Kuzma, Ostap",,1717.0,False,UKR,1.0,1,0.69,40,27.6
+146105016,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1661,1579,2.5,4,0.93,40,37.2,"Nabatlao, Jason",,1761.0,False,PHI,0.5,1,0.24,40,9.6
+146105016,2024-11-01,0,Dubai October Standard Tournament 2024,Dubai UAE,2024-10-11,2024-10-13,1661,1579,2.5,4,0.93,40,37.2,"Alviz, Joshua Ezekiel",,1740.0,False,PHI,0.0,1,-0.29,40,-11.6

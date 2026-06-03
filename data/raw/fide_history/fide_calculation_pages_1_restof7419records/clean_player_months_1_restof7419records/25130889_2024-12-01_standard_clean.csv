@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25130889,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1514,1663,6.0,8,0.46,40,18.4,"Hithesh, Sai Saketh Moyida",,1429.0,False,IND,0.0,1,-0.79,40,-31.6
+25130889,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1514,1663,6.0,8,0.46,40,18.4,"Vamshika, Boga",,1418.0,False,IND,1.0,1,0.2,40,8.0
+25130889,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1514,1663,6.0,8,0.46,40,18.4,"Hemanth, Bandla",,1480.0,False,IND,1.0,1,0.26,40,10.4
+25130889,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1514,1663,6.0,8,0.46,40,18.4,"Shwetark, Vinayak Devaruppala",,1473.0,False,IND,1.0,1,0.25,40,10.0
+25130889,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1514,1663,6.0,8,0.46,40,18.4,"Raju, A K",,1563.0,False,IND,1.0,1,0.36,40,14.4
+25130889,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1514,1663,6.0,8,0.46,40,18.4,"Allampati, Kovidh Kushal Reddy",,1576.0,False,IND,0.0,1,-0.62,40,-24.8
+25130889,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1514,1663,6.0,8,0.46,40,18.4,"Reddy, Heyan",,1559.0,False,IND,1.0,1,0.36,40,14.4
+25130889,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1514,1663,6.0,8,0.46,40,18.4,"Prabhakar, Aariv",,1617.0,False,IND,1.0,1,0.44,40,17.6

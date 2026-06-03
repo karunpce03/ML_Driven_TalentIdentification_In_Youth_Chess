@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25789449,2024-08-01,0,"International Chess Festival ""Baku Open-2024"", Group A",Baku AZE,2024-06-28,2024-07-07,2300,1955,3.5,9,2.45,35,85.75,"Orujov, Elshad",f,2304.0,False,AZE,1.0,1,0.89,35,31.15
+25789449,2024-08-01,0,"International Chess Festival ""Baku Open-2024"", Group A",Baku AZE,2024-06-28,2024-07-07,2300,1955,3.5,9,2.45,35,85.75,"Vantika, Agrawal",m wg,2355.0,True,IND,1.0,1,0.92,35,32.2
+25789449,2024-08-01,0,"International Chess Festival ""Baku Open-2024"", Group A",Baku AZE,2024-06-28,2024-07-07,2300,1955,3.5,9,2.45,35,85.75,"Yeletsky, Ivan",f,2355.0,True,RUS,0.0,1,-0.08,35,-2.8
+25789449,2024-08-01,0,"International Chess Festival ""Baku Open-2024"", Group A",Baku AZE,2024-06-28,2024-07-07,2300,1955,3.5,9,2.45,35,85.75,"Galaktionov, Artem",f,2355.0,True,RUS,0.0,1,-0.08,35,-2.8
+25789449,2024-08-01,0,"International Chess Festival ""Baku Open-2024"", Group A",Baku AZE,2024-06-28,2024-07-07,2300,1955,3.5,9,2.45,35,85.75,"Avinash, Ramesh",m,2252.0,False,IND,1.0,1,0.85,35,29.75
+25789449,2024-08-01,0,"International Chess Festival ""Baku Open-2024"", Group A",Baku AZE,2024-06-28,2024-07-07,2300,1955,3.5,9,2.45,35,85.75,"Ahmad, Khagan",f,2355.0,True,AZE,0.0,1,-0.08,35,-2.8
+25789449,2024-08-01,0,"International Chess Festival ""Baku Open-2024"", Group A",Baku AZE,2024-06-28,2024-07-07,2300,1955,3.5,9,2.45,35,85.75,"Bayramov, Zaur",f,2249.0,False,AZE,0.5,1,0.35,35,12.25
+25789449,2024-08-01,0,"International Chess Festival ""Baku Open-2024"", Group A",Baku AZE,2024-06-28,2024-07-07,2300,1955,3.5,9,2.45,35,85.75,"Tregubenko, Nikolay",,2246.0,False,FID,0.0,1,-0.15,35,-5.25
+25789449,2024-08-01,0,"International Chess Festival ""Baku Open-2024"", Group A",Baku AZE,2024-06-28,2024-07-07,2300,1955,3.5,9,2.45,35,85.75,"Wagh, Suyog",f,2230.0,False,IND,0.0,1,-0.17,35,-5.95
+25789449,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1778,1923,8.0,11,0.58,35,20.3,"Deesha, Mishra",,1525.0,False,IND,1.0,1,0.08,35,2.8
+25789449,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1778,1923,8.0,11,0.58,35,20.3,"Sagar, Siya",,1689.0,False,IND,1.0,1,0.21,35,7.35
+25789449,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1778,1923,8.0,11,0.58,35,20.3,"Avika, Panwar",,1734.0,False,IND,1.0,1,0.25,35,8.75
+25789449,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1778,1923,8.0,11,0.58,35,20.3,"Patil, Disha",,1800.0,False,IND,1.0,1,0.33,35,11.55
+25789449,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1778,1923,8.0,11,0.58,35,20.3,"Kale, Shruti",,1805.0,False,IND,0.5,1,-0.16,35,-5.6
+25789449,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1778,1923,8.0,11,0.58,35,20.3,"Narahari, Geethika Hasini",,1727.0,False,IND,0.5,1,-0.25,35,-8.75
+25789449,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1778,1923,8.0,11,0.58,35,20.3,"Falak, Joni Naik",,1573.0,False,IND,1.0,1,0.11,35,3.85
+25789449,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1778,1923,8.0,11,0.58,35,20.3,"Rajanya, Datta",,1869.0,False,IND,0.5,1,-0.08,35,-2.8
+25789449,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1778,1923,8.0,11,0.58,35,20.3,"Tejaswini, G",wm,2071.0,False,IND,0.5,1,0.2,35,7.0
+25789449,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1778,1923,8.0,11,0.58,35,20.3,"Patil, Divya",,1862.0,False,IND,0.0,1,-0.58,35,-20.3
+25789449,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1778,1923,8.0,11,0.58,35,20.3,"Shanmathi, Sree S",,1903.0,False,IND,1.0,1,0.47,35,16.45

@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531062385,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1459,1454,0.5,4,-1.47,40,-58.8,"Girik, Gupta",,1437.0,False,IND,0.0,1,-0.52,40,-20.8
+531062385,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1459,1454,0.5,4,-1.47,40,-58.8,"Rudra, Shakti Madan",,1459.0,False,IND,0.5,1,0.01,40,0.4
+531062385,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1459,1454,0.5,4,-1.47,40,-58.8,"Divyam, Garg",,1497.0,False,IND,0.0,1,-0.44,40,-17.6
+531062385,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1459,1454,0.5,4,-1.47,40,-58.8,"Sagnik, Chatterjee",,1441.0,False,IND,0.0,1,-0.52,40,-20.8

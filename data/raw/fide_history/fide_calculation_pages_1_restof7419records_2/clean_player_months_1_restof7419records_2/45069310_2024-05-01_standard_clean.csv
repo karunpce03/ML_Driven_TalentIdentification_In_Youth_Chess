@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45069310,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1754,1681,1.0,4,-0.7,40,-28.0,"Mudaliar, Nandini",,1672,False,IND,0.0,1,-0.51,40,-20.4
+45069310,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1754,1681,1.0,4,-0.7,40,-28.0,"Singh, Neha",,1825,False,IND,0.0,1,-0.31,40,-12.4
+45069310,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1754,1681,1.0,4,-0.7,40,-28.0,"Arpita, Singh",,1437,False,IND,1.0,1,0.2,40,8.0
+45069310,2024-05-01,0,21st National Team Chess Championship 2023-24 for Women,Dharmasala IND,2024-03-29,2024-04-04,1754,1681,1.0,4,-0.7,40,-28.0,"Sai, Mahati Alapati",wf,2081,True,IND,0.0,1,-0.08,40,-3.2

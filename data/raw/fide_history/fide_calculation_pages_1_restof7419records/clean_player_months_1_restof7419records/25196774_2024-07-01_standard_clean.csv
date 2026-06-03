@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25196774,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1686,1678,5.5,9,0.97,40,38.8,"Challapalli, Nishanth Srigiri",,1450,False,IND,1.0,1,0.21,40,8.4
+25196774,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1686,1678,5.5,9,0.97,40,38.8,"Kushal, O",,2078,True,IND,0.5,1,0.42,40,16.8
+25196774,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1686,1678,5.5,9,0.97,40,38.8,"Yadla, Premi Rakshitha",,1458,False,IND,1.0,1,0.22,40,8.8
+25196774,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1686,1678,5.5,9,0.97,40,38.8,"Ravi, Krishna G",,1828,False,IND,0.5,1,0.2,40,8.0
+25196774,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1686,1678,5.5,9,0.97,40,38.8,"Lakshmanrao, D.",,1943,False,IND,0.5,1,0.32,40,12.8
+25196774,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1686,1678,5.5,9,0.97,40,38.8,"Badamundi, Tapan",,1914,False,IND,0.0,1,-0.2,40,-8.0
+25196774,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1686,1678,5.5,9,0.97,40,38.8,"Rajesh, Kesanakurthi",,1496,False,IND,0.5,1,-0.24,40,-9.6
+25196774,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1686,1678,5.5,9,0.97,40,38.8,"Vijji, Hemanth Kumar",,1499,False,IND,1.0,1,0.27,40,10.8
+25196774,2024-07-01,0,International Open FIDE Rating Chess Tournament-2024,Bhimavaram IND,2024-06-04,2024-06-09,1686,1678,5.5,9,0.97,40,38.8,"Shiyam, Satyansh",,1506,False,IND,0.5,1,-0.23,40,-9.2

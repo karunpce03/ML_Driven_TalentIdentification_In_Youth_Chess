@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25944193,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1537,1584,4.0,6,0.61,40,24.4,"Ankit, Ganguly",,1403.0,False,IND,0.0,1,-0.74,40,-29.6
+25944193,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1537,1584,4.0,6,0.61,40,24.4,"Neil, Tibrewal",,1456.0,False,IND,1.0,1,0.33,40,13.2
+25944193,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1537,1584,4.0,6,0.61,40,24.4,"Lochan, Kumar",,1483.0,False,IND,1.0,1,0.36,40,14.4
+25944193,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1537,1584,4.0,6,0.61,40,24.4,"Jion, Ghosh",,1735.0,False,IND,0.5,1,0.2,40,8.0
+25944193,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1537,1584,4.0,6,0.61,40,24.4,"Paramarth, Mitra",,1705.0,False,IND,0.5,1,0.16,40,6.4
+25944193,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1537,1584,4.0,6,0.61,40,24.4,"Abhiraj, Saha",,1438.0,False,IND,1.0,1,0.3,40,12.0

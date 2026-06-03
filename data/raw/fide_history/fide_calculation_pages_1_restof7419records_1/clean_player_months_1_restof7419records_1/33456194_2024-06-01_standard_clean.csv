@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33456194,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1578,1628,3.5,6,0.1,40,4.0,"Oishik, Mondal",,1808.0,False,IND,0.0,1,-0.26,40,-10.4
+33456194,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1578,1628,3.5,6,0.1,40,4.0,"Ishan, Dutta",,1454.0,False,IND,0.5,1,-0.23,40,-9.2
+33456194,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1578,1628,3.5,6,0.1,40,4.0,"Abhiraj, Saha",,1432.0,False,IND,0.5,1,-0.25,40,-10.0
+33456194,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1578,1628,3.5,6,0.1,40,4.0,"Sourav, Kumar Roy",,1470.0,False,IND,1.0,1,0.29,40,11.6
+33456194,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1578,1628,3.5,6,0.1,40,4.0,"Mainak, Chowdhury",,1489.0,False,IND,1.0,1,0.31,40,12.4
+33456194,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1578,1628,3.5,6,0.1,40,4.0,"Soumyajit, Das (jr)",,1813.0,False,IND,0.5,1,0.24,40,9.6

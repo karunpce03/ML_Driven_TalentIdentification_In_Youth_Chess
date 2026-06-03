@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429010349,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard U9,Bangkok THA,2024-12-03,2024-12-08,1624,1515,2.0,6,-0.15,40,-6.0,"Yap, Ray Jin",,1625.0,False,MAS,1.0,1,0.65,40,26.0
+429010349,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard U9,Bangkok THA,2024-12-03,2024-12-08,1624,1515,2.0,6,-0.15,40,-6.0,"Kaminskii, Daniil",,1786.0,False,FID,0.0,1,-0.17,40,-6.8
+429010349,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard U9,Bangkok THA,2024-12-03,2024-12-08,1624,1515,2.0,6,-0.15,40,-6.0,"Jacinto, Nhiel Anthon",,1659.0,False,PHI,0.0,1,-0.31,40,-12.4
+429010349,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard U9,Bangkok THA,2024-12-03,2024-12-08,1624,1515,2.0,6,-0.15,40,-6.0,"Shah, Aarav",,1463.0,False,IND,0.5,1,-0.07,40,-2.8
+429010349,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard U9,Bangkok THA,2024-12-03,2024-12-08,1624,1515,2.0,6,-0.15,40,-6.0,"Advik, Mundhada",,1620.0,False,IND,0.5,1,0.14,40,5.6
+429010349,2025-01-01,0,18th Asian Schools Chess Championship 2024 - Standard U9,Bangkok THA,2024-12-03,2024-12-08,1624,1515,2.0,6,-0.15,40,-6.0,"Baipeissov, Aliakbar",,1592.0,False,KAZ,0.0,1,-0.39,40,-15.6

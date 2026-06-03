@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88166384,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1644,1588,2.0,4,0.2,40,8.0,"Mohamed, Saeed Laily",c,1958.0,False,UAE,0.0,1,-0.1,40,-4.0
+88166384,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1644,1588,2.0,4,0.2,40,8.0,"Karthik, Sanjeevi",,1449.0,False,IND,1.0,1,0.31,40,12.4
+88166384,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1644,1588,2.0,4,0.2,40,8.0,"Mokhtar, Omar.",,1724.0,False,SYR,0.0,1,-0.32,40,-12.8
+88166384,2024-11-01,0,Think and Plan October 2024-Standard,Sharjah UAE,2024-10-11,2024-10-13,1644,1588,2.0,4,0.2,40,8.0,"Muminov, Imron",,1444.0,False,TJK,1.0,1,0.31,40,12.4
+88166384,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1541,1588,4.0,6,0.62,40,24.8,"Goel, Vivan",,1403.0,False,IND,1.0,1,0.26,40,10.4
+88166384,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1541,1588,4.0,6,0.62,40,24.8,"Aditya, Shah",,1473.0,False,IND,1.0,1,0.34,40,13.6
+88166384,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1541,1588,4.0,6,0.62,40,24.8,"Pranav, Ashwin",,1494.0,False,IND,1.0,1,0.37,40,14.8
+88166384,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1541,1588,4.0,6,0.62,40,24.8,"Tom, Mathew",,1704.0,False,IND,0.5,1,0.16,40,6.4
+88166384,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1541,1588,4.0,6,0.62,40,24.8,"Manlla Hasan, Ahmad",,1517.0,False,FID,0.0,1,-0.6,40,-24.0
+88166384,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1541,1588,4.0,6,0.62,40,24.8,"Daou , Kenan",,1652.0,False,LBN,0.5,1,0.09,40,3.6

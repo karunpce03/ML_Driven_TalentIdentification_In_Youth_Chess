@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33300429,2025-01-01,0,5th Boston Elite Thanksgiving FIDE Open,"Norwood, MA USA",2024-11-29,2024-12-01,1999,1844,3.5,6,1.63,40,65.2,"Xu, Shawn",,1957.0,False,USA,0.5,1,0.15,40,6.0
+33300429,2025-01-01,0,5th Boston Elite Thanksgiving FIDE Open,"Norwood, MA USA",2024-11-29,2024-12-01,1999,1844,3.5,6,1.63,40,65.2,"Creswell, Charlie",,1957.0,False,USA,1.0,1,0.65,40,26.0
+33300429,2025-01-01,0,5th Boston Elite Thanksgiving FIDE Open,"Norwood, MA USA",2024-11-29,2024-12-01,1999,1844,3.5,6,1.63,40,65.2,"Meng, Alexander",,1933.0,False,USA,1.0,1,0.62,40,24.8
+33300429,2025-01-01,0,5th Boston Elite Thanksgiving FIDE Open,"Norwood, MA USA",2024-11-29,2024-12-01,1999,1844,3.5,6,1.63,40,65.2,"Ivanov, Alexander",g,2244.0,True,USA,0.0,1,-0.08,40,-3.2
+33300429,2025-01-01,0,5th Boston Elite Thanksgiving FIDE Open,"Norwood, MA USA",2024-11-29,2024-12-01,1999,1844,3.5,6,1.63,40,65.2,"Wang, Ryan",,1982.0,False,USA,0.0,1,-0.31,40,-12.4
+33300429,2025-01-01,0,5th Boston Elite Thanksgiving FIDE Open,"Norwood, MA USA",2024-11-29,2024-12-01,1999,1844,3.5,6,1.63,40,65.2,"Sage, J Timothy",,1920.0,False,USA,1.0,1,0.6,40,24.0
+33300429,2025-01-01,0,49th Annual Eastern Open - Premier,"Arlington, VA USA",2024-12-26,2024-12-29,1929,1844,2.5,7,-0.21,40,-8.4,"Bhaduri, Neil S",,1991.0,False,USA,0.0,1,-0.3,40,-12.0
+33300429,2025-01-01,0,49th Annual Eastern Open - Premier,"Arlington, VA USA",2024-12-26,2024-12-29,1929,1844,2.5,7,-0.21,40,-8.4,"Srinivasan, Sivavishnu",,1940.0,False,USA,0.5,1,0.13,40,5.2
+33300429,2025-01-01,0,49th Annual Eastern Open - Premier,"Arlington, VA USA",2024-12-26,2024-12-29,1929,1844,2.5,7,-0.21,40,-8.4,"Kang, Michael",,1933.0,False,USA,0.0,1,-0.38,40,-15.2
+33300429,2025-01-01,0,49th Annual Eastern Open - Premier,"Arlington, VA USA",2024-12-26,2024-12-29,1929,1844,2.5,7,-0.21,40,-8.4,"Kilari, Dattasai",,2005.0,False,USA,0.5,1,0.21,40,8.4
+33300429,2025-01-01,0,49th Annual Eastern Open - Premier,"Arlington, VA USA",2024-12-26,2024-12-29,1929,1844,2.5,7,-0.21,40,-8.4,"Gu, Hardy",,1764.0,False,USA,1.0,1,0.39,40,15.6
+33300429,2025-01-01,0,49th Annual Eastern Open - Premier,"Arlington, VA USA",2024-12-26,2024-12-29,1929,1844,2.5,7,-0.21,40,-8.4,"Chakka, Pardhav",,1993.0,False,USA,0.0,1,-0.3,40,-12.0
+33300429,2025-01-01,0,49th Annual Eastern Open - Premier,"Arlington, VA USA",2024-12-26,2024-12-29,1929,1844,2.5,7,-0.21,40,-8.4,"Mariappan, Anish M",,1874.0,False,USA,0.5,1,0.04,40,1.6

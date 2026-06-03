@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25771132,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1732,1783,4.0,6,0.65,40,26.0,"Agniva, Sengupta",,1483.0,False,IND,1.0,1,0.15,40,6.0
+25771132,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1732,1783,4.0,6,0.65,40,26.0,"Abir, Mitra",,1597.0,False,IND,1.0,1,0.26,40,10.4
+25771132,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1732,1783,4.0,6,0.65,40,26.0,"Agnivo, Chakraborty",,1960.0,False,IND,1.0,1,0.73,40,29.2
+25771132,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1732,1783,4.0,6,0.65,40,26.0,"Parambrata, Sarkar",,1815.0,False,IND,0.0,1,-0.46,40,-18.4
+25771132,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1732,1783,4.0,6,0.65,40,26.0,"Paramarth, Mitra",,1655.0,False,IND,0.5,1,-0.17,40,-6.8
+25771132,2024-07-01,0,WB State U-17 Open Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1732,1783,4.0,6,0.65,40,26.0,"Banik, Hrishikesh Kumar",,1884.0,False,IND,0.5,1,0.14,40,5.6

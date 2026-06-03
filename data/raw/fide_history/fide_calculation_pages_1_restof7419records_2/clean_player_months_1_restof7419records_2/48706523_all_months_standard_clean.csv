@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48706523,2024-08-01,0,Aditya Birla Memorial 23rd Jharkhand State FIDE Rating Chess Championship - 2024,Ranchi IND,2024-07-20,2024-07-23,,,3.0,6,0.0,1484,,"Aryaman, V Verma",,1490.0,False,IND,1.0,1,0.0,,0.0
+48706523,2024-08-01,0,Aditya Birla Memorial 23rd Jharkhand State FIDE Rating Chess Championship - 2024,Ranchi IND,2024-07-20,2024-07-23,,,3.0,6,0.0,1484,,"Abhishek, Kumar",,1539.0,False,IND,0.0,1,0.0,,0.0
+48706523,2024-08-01,0,Aditya Birla Memorial 23rd Jharkhand State FIDE Rating Chess Championship - 2024,Ranchi IND,2024-07-20,2024-07-23,,,3.0,6,0.0,1484,,"Anuj, Prakash",,1496.0,False,IND,0.5,1,0.0,,0.0
+48706523,2024-08-01,0,Aditya Birla Memorial 23rd Jharkhand State FIDE Rating Chess Championship - 2024,Ranchi IND,2024-07-20,2024-07-23,,,3.0,6,0.0,1484,,"Jai, Kumar",,1455.0,False,IND,0.0,1,0.0,,0.0
+48706523,2024-08-01,0,Aditya Birla Memorial 23rd Jharkhand State FIDE Rating Chess Championship - 2024,Ranchi IND,2024-07-20,2024-07-23,,,3.0,6,0.0,1484,,"Samanta, Anand Kishore",,1483.0,False,IND,1.0,1,0.0,,0.0
+48706523,2024-08-01,0,Aditya Birla Memorial 23rd Jharkhand State FIDE Rating Chess Championship - 2024,Ranchi IND,2024-07-20,2024-07-23,,,3.0,6,0.0,1484,,"Bhavesh, Kumar Gupta",,1443.0,False,IND,0.5,1,0.0,,0.0
+48706523,2025-02-01,0,Jharkhand Secondary School Level FIDE Rating Chess Tournament 2025,Hazaribag IND,2025-01-16,2025-01-19,1658.0,1443.0,0.0,2,-0.47,40,-18.8,Aabhash,,1740.0,False,IND,0.0,1,-0.15,40.0,-6.0
+48706523,2025-02-01,0,Jharkhand Secondary School Level FIDE Rating Chess Tournament 2025,Hazaribag IND,2025-01-16,2025-01-19,1658.0,1443.0,0.0,2,-0.47,40,-18.8,"Krishna, Dubey",,1576.0,False,IND,0.0,1,-0.32,40.0,-12.8

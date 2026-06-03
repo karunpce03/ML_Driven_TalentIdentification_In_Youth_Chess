@@ -1,0 +1,43 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33333750,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1639,1711,6.0,9,0.72,40,28.8,"Abhinav, Vazhakkottil",,1402.0,False,IND,1.0,1,0.14,40,5.6
+33333750,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1639,1711,6.0,9,0.72,40,28.8,"Shivnarayanan, S",,1524.0,False,IND,1.0,1,0.26,40,10.4
+33333750,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1639,1711,6.0,9,0.72,40,28.8,"Sarumathi, S",,1506.0,False,IND,1.0,1,0.24,40,9.6
+33333750,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1639,1711,6.0,9,0.72,40,28.8,"Ajjesh, J R",,1833.0,False,IND,0.0,1,-0.33,40,-13.2
+33333750,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1639,1711,6.0,9,0.72,40,28.8,"Punith, Neeli",,1590.0,False,IND,1.0,1,0.34,40,13.6
+33333750,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1639,1711,6.0,9,0.72,40,28.8,"Sarvesh, E",,1643.0,False,IND,1.0,1,0.41,40,16.4
+33333750,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1639,1711,6.0,9,0.72,40,28.8,"Ahaz, E U",,1806.0,False,IND,0.0,1,-0.37,40,-14.8
+33333750,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1639,1711,6.0,9,0.72,40,28.8,"Abhay, Chetty",,1607.0,False,IND,1.0,1,0.36,40,14.4
+33333750,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1639,1711,6.0,9,0.72,40,28.8,"Vignesh, Kannan P",,1836.0,False,IND,0.0,1,-0.33,40,-13.2
+33333750,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1640,1740,6.5,9,0.88,40,35.2,"Mothesh, S",,1404.0,False,IND,1.0,1,0.12,40,4.8
+33333750,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1640,1740,6.5,9,0.88,40,35.2,"Aareez, Imraan S",,1523.0,False,IND,1.0,1,0.22,40,8.8
+33333750,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1640,1740,6.5,9,0.88,40,35.2,"Siddhartha, B",,1606.0,False,IND,1.0,1,0.32,40,12.8
+33333750,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1640,1740,6.5,9,0.88,40,35.2,"Jaidambareesh, N R",,1864.0,False,IND,0.0,1,-0.33,40,-13.2
+33333750,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1640,1740,6.5,9,0.88,40,35.2,"Abdul, Samad S",,1584.0,False,IND,1.0,1,0.29,40,11.6
+33333750,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1640,1740,6.5,9,0.88,40,35.2,"Rohith, P",,1635.0,False,IND,1.0,1,0.36,40,14.4
+33333750,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1640,1740,6.5,9,0.88,40,35.2,"Ashwinth, Michael",,1827.0,False,IND,0.0,1,-0.38,40,-15.2
+33333750,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1640,1740,6.5,9,0.88,40,35.2,"Vishweswaran, N",,1676.0,False,IND,0.5,1,-0.09,40,-3.6
+33333750,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1640,1740,6.5,9,0.88,40,35.2,"Srinish, Udhayan M",,1642.0,False,IND,1.0,1,0.37,40,14.8
+33333750,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1667,1740,6.0,8,1.21,40,48.4,"Hameed, Yousuf S G",,1504.0,False,IND,1.0,1,0.2,40,8.0
+33333750,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1667,1740,6.0,8,1.21,40,48.4,"Dharun, S",,1576.0,False,IND,1.0,1,0.28,40,11.2
+33333750,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1667,1740,6.0,8,1.21,40,48.4,"Abhinav, C G",,1568.0,False,IND,1.0,1,0.27,40,10.8
+33333750,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1667,1740,6.0,8,1.21,40,48.4,"Meiyappan, M",,1633.0,False,IND,1.0,1,0.35,40,14.0
+33333750,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1667,1740,6.0,8,1.21,40,48.4,"Raghav, V",,1963.0,False,IND,0.5,1,0.28,40,11.2
+33333750,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1667,1740,6.0,8,1.21,40,48.4,"Arul, Prakash N",,1860.0,False,IND,0.0,1,-0.34,40,-13.6
+33333750,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1667,1740,6.0,8,1.21,40,48.4,"Mukesh, N J",,1587.0,False,IND,0.5,1,-0.2,40,-8.0
+33333750,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,1667,1740,6.0,8,1.21,40,48.4,"Kathir, Kaman T",,1647.0,False,IND,1.0,1,0.37,40,14.8
+33333750,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1781,1824,4.0,5,1.26,40,50.4,"Dhanush, Prakaash B A",,1566.0,False,IND,1.0,1,0.18,40,7.2
+33333750,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1781,1824,4.0,5,1.26,40,50.4,"Vaishnavi, S K",,1799.0,False,IND,1.0,1,0.47,40,18.8
+33333750,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1781,1824,4.0,5,1.26,40,50.4,"Sahana, Shainsha",,1619.0,False,IND,1.0,1,0.24,40,9.6
+33333750,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1781,1824,4.0,5,1.26,40,50.4,"Ram, Alagappan S",,1925.0,False,IND,0.5,1,0.14,40,5.6
+33333750,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,1781,1824,4.0,5,1.26,40,50.4,"Rohith, S",,1996.0,False,IND,0.5,1,0.23,40,9.2
+33333750,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1698,1874,6.5,11,-1.35,40,-54.0,"Aakash, K",,1541.0,False,IND,0.5,1,-0.38,40,-15.2
+33333750,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1698,1874,6.5,11,-1.35,40,-54.0,"Samanth, Nataraj Naidu",,1524.0,False,IND,1.0,1,0.11,40,4.4
+33333750,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1698,1874,6.5,11,-1.35,40,-54.0,"Shobhit, Agilarasan",,1495.0,False,IND,1.0,1,0.09,40,3.6
+33333750,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1698,1874,6.5,11,-1.35,40,-54.0,"Mohit, S",,2041.0,False,IND,0.0,1,-0.28,40,-11.2
+33333750,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1698,1874,6.5,11,-1.35,40,-54.0,"Kanoje, Alok",,1747.0,False,IND,0.5,1,-0.17,40,-6.8
+33333750,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1698,1874,6.5,11,-1.35,40,-54.0,Surya,,1733.0,False,IND,1.0,1,0.31,40,12.4
+33333750,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1698,1874,6.5,11,-1.35,40,-54.0,"Godhani, Maharth",,1774.0,False,IND,0.0,1,-0.64,40,-25.6
+33333750,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1698,1874,6.5,11,-1.35,40,-54.0,"Eshwar, Veerappan Aiyappan",,1728.0,False,IND,1.0,1,0.3,40,12.0
+33333750,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1698,1874,6.5,11,-1.35,40,-54.0,"Pratiyush, Kumar",,1645.0,False,IND,0.5,1,-0.29,40,-11.6
+33333750,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1698,1874,6.5,11,-1.35,40,-54.0,"Iniyan, L",,1738.0,False,IND,0.5,1,-0.18,40,-7.2
+33333750,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1698,1874,6.5,11,-1.35,40,-54.0,"Sree, Rama Anjani Kumar K",,1710.0,False,IND,0.5,1,-0.22,40,-8.8

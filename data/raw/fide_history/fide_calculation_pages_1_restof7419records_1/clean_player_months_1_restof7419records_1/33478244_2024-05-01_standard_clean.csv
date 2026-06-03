@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33478244,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1708,1535,3.5,7,1.52,40,60.8,"Iniyan, R S",,1738.0,False,IND,0.0,1,-0.24,40,-9.6
+33478244,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1708,1535,3.5,7,1.52,40,60.8,"Abishek, E",,1683.0,False,IND,1.0,1,0.7,40,28.0
+33478244,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1708,1535,3.5,7,1.52,40,60.8,"Benni, T K",,1649.0,False,IND,1.0,1,0.66,40,26.4
+33478244,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1708,1535,3.5,7,1.52,40,60.8,"Ram, Alagappan S",,1935.0,True,IND,0.0,1,-0.08,40,-3.2
+33478244,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1708,1535,3.5,7,1.52,40,60.8,"Aravinda, B R",,1615.0,False,IND,1.0,1,0.61,40,24.4
+33478244,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1708,1535,3.5,7,1.52,40,60.8,"Dhevarsh, Sagar V P",,1666.0,False,IND,0.5,1,0.18,40,7.2
+33478244,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1708,1535,3.5,7,1.52,40,60.8,"Shreyas, Arun",,1673.0,False,IND,0.0,1,-0.31,40,-12.4
+33478244,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1619,1535,3.5,6,1.18,40,47.2,"Navaneet, Sreekanth",,1644.0,False,IND,1.0,1,0.65,40,26.0
+33478244,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1619,1535,3.5,6,1.18,40,47.2,"Sandeep, Santhosh",,1663.0,False,IND,0.0,1,-0.33,40,-13.2
+33478244,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1619,1535,3.5,6,1.18,40,47.2,"Bhuvanesh, G",,1695.0,False,IND,0.0,1,-0.29,40,-11.6
+33478244,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1619,1535,3.5,6,1.18,40,47.2,"Akshaj, P",,1453.0,False,IND,1.0,1,0.39,40,15.6
+33478244,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1619,1535,3.5,6,1.18,40,47.2,"Arushi, Severin Helen D Silva",,1641.0,False,IND,0.5,1,0.14,40,5.6
+33478244,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1619,1535,3.5,6,1.18,40,47.2,"Aron, S P",,1620.0,False,IND,1.0,1,0.62,40,24.8

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+537023802,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,,,1.0,4,0.0,1389,,"Chinmay, Chauhan",,1683.0,False,IND,1.0,1,0.0,,0.0
+537023802,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,,,1.0,4,0.0,1389,,"Gurmehar, Singh",,1613.0,False,IND,0.0,1,0.0,,0.0
+537023802,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,,,1.0,4,0.0,1389,,"Avneesh, Kumar Vatsa",,1538.0,False,IND,0.0,1,0.0,,0.0
+537023802,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,,,1.0,4,0.0,1389,,"Abhinav, Kirti Varman",,1492.0,False,IND,0.0,1,0.0,,0.0
+537023802,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,,,1.0,5,0.0,1332,,"Alokik, Maheshwari",,1700.0,False,IND,0.0,1,0.0,,0.0
+537023802,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,,,1.0,5,0.0,1332,,"Shivangi, Rathore",,1530.0,False,IND,1.0,1,0.0,,0.0
+537023802,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,,,1.0,5,0.0,1332,,"Aditya, Vaswani",,1555.0,False,IND,0.0,1,0.0,,0.0
+537023802,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,,,1.0,5,0.0,1332,,"Avyaan, Ajay Singh",,1502.0,False,IND,0.0,1,0.0,,0.0
+537023802,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,,,1.0,5,0.0,1332,,"Vatsal, Chokhra",,1571.0,False,IND,0.0,1,0.0,,0.0
+537023802,2025-02-01,0,Below Category 1800 Chess For World Peace International Rating Chess Tournament,Noida IND,2025-01-04,2025-01-07,1794.0,1442.0,0.0,1,-0.11,40,-4.4,"Bhandari, Jitendra Singh",,1794.0,False,IND,0.0,1,-0.11,40.0,-4.4

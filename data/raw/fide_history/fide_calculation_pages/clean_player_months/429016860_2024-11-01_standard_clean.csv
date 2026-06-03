@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429016860,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1727,1418,0.5,3,0.03,40,1.2,"Shashveen, A K",,1818.0,True,IND,0.5,1,0.42,40,16.8
+429016860,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1727,1418,0.5,3,0.03,40,1.2,"Prabakaran, S",,1798.0,False,IND,0.0,1,-0.09,40,-3.6
+429016860,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1727,1418,0.5,3,0.03,40,1.2,"Akshath, Aravind",,1566.0,False,IND,0.0,1,-0.3,40,-12.0
+429016860,2024-11-01,0,West Bengal State Under-13 (Girls) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1574,1418,0.5,4,-0.69,40,-27.6,"Dakhsha, Rudra",,1665.0,False,IND,0.0,1,-0.19,40,-7.6
+429016860,2024-11-01,0,West Bengal State Under-13 (Girls) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1574,1418,0.5,4,-0.69,40,-27.6,"Pratyusha, Mishra",,1608.0,False,IND,0.5,1,0.25,40,10.0
+429016860,2024-11-01,0,West Bengal State Under-13 (Girls) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1574,1418,0.5,4,-0.69,40,-27.6,"Riyana, Khatun",,1500.0,False,IND,0.0,1,-0.39,40,-15.6
+429016860,2024-11-01,0,West Bengal State Under-13 (Girls) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1574,1418,0.5,4,-0.69,40,-27.6,"Aditri, Baisya",,1523.0,False,IND,0.0,1,-0.36,40,-14.4
+429016860,2024-11-01,0,WB State U-15 Girls Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1592,1418,3.0,6,1.33,40,53.2,"Aayusree, Sarkar",,1688.0,False,IND,1.0,1,0.83,40,33.2
+429016860,2024-11-01,0,WB State U-15 Girls Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1592,1418,3.0,6,1.33,40,53.2,"Sunetra, Dey",,1626.0,False,IND,0.0,1,-0.23,40,-9.2
+429016860,2024-11-01,0,WB State U-15 Girls Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1592,1418,3.0,6,1.33,40,53.2,"Riyana, Khatun",,1500.0,False,IND,0.0,1,-0.39,40,-15.6
+429016860,2024-11-01,0,WB State U-15 Girls Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1592,1418,3.0,6,1.33,40,53.2,"Pratyusha, Mishra",,1608.0,False,IND,1.0,1,0.75,40,30.0
+429016860,2024-11-01,0,WB State U-15 Girls Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1592,1418,3.0,6,1.33,40,53.2,"Risana, Khatun",,1464.0,False,IND,1.0,1,0.56,40,22.4
+429016860,2024-11-01,0,WB State U-15 Girls Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1592,1418,3.0,6,1.33,40,53.2,"Dakhsha, Rudra",,1665.0,False,IND,0.0,1,-0.19,40,-7.6

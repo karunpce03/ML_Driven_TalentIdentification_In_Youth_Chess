@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25693735,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2188,2043,3.5,9,0.68,40,27.2,"Fanninger, Leon",,2246.0,False,AUT,1.0,1,0.76,40,30.4
+25693735,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2188,2043,3.5,9,0.68,40,27.2,"Gelas, Christophe",f,2348.0,False,FRA,0.0,1,-0.14,40,-5.6
+25693735,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2188,2043,3.5,9,0.68,40,27.2,"Trabet, Nicolas",,2193.0,False,FRA,0.0,1,-0.3,40,-12.0
+25693735,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2188,2043,3.5,9,0.68,40,27.2,"Mohota, Nisha",m wg,2140.0,False,IND,0.0,1,-0.37,40,-14.8
+25693735,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2188,2043,3.5,9,0.68,40,27.2,"Vu Dinh, Adrien",,2187.0,False,FRA,0.5,1,0.19,40,7.6
+25693735,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2188,2043,3.5,9,0.68,40,27.2,"Calistri, Tristan",m,2201.0,False,FRA,0.0,1,-0.29,40,-11.6
+25693735,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2188,2043,3.5,9,0.68,40,27.2,"Makke, Laurent",,2124.0,False,FRA,1.0,1,0.61,40,24.4
+25693735,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2188,2043,3.5,9,0.68,40,27.2,"Perrouin, Alexian",,2134.0,False,FRA,0.0,1,-0.38,40,-15.2
+25693735,2024-12-01,0,22emes Rencontres Nationales et Internationales d'Echecs Grand-Prix,AGDE FRA,2024-10-26,2024-11-02,2188,2043,3.5,9,0.68,40,27.2,"Lacour, Serge",,2116.0,False,FRA,1.0,1,0.6,40,24.0

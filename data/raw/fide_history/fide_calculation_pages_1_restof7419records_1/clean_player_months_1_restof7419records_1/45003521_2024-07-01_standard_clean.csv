@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45003521,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1683,1901,6.5,9,-0.35,35,-12.25,"Hemmuhil, P",,1501,True,IND,1.0,1,0.08,35,2.8
+45003521,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1683,1901,6.5,9,-0.35,35,-12.25,"Abijith, S",,1557,False,IND,1.0,1,0.12,35,4.2
+45003521,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1683,1901,6.5,9,-0.35,35,-12.25,"Vishweswaran, N",,1676,False,IND,1.0,1,0.22,35,7.7
+45003521,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1683,1901,6.5,9,-0.35,35,-12.25,"Raaghav, Kabil M",,1738,False,IND,0.5,1,-0.22,35,-7.7
+45003521,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1683,1901,6.5,9,-0.35,35,-12.25,"Kanishkaraj, V",,1725,False,IND,0.0,1,-0.73,35,-25.55
+45003521,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1683,1901,6.5,9,-0.35,35,-12.25,"Jayashri, M",,1618,False,IND,1.0,1,0.16,35,5.6
+45003521,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1683,1901,6.5,9,-0.35,35,-12.25,"Sourav, Suresh",,1683,False,IND,1.0,1,0.22,35,7.7
+45003521,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1683,1901,6.5,9,-0.35,35,-12.25,"Shravan, Swaminathan",,1718,False,IND,1.0,1,0.26,35,9.1
+45003521,2024-07-01,0,74th Tamil Nadu State Open State Chess Championship -2024,Coimbatore IND,2024-05-27,2024-05-31,1683,1901,6.5,9,-0.35,35,-12.25,"Haridev, S",,1931,False,IND,0.0,1,-0.46,35,-16.1
+45003521,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2211,1867,6.0,11,4.67,35,163.45,"Kanyamarala, Tarun",m,2267,True,IRL,0.0,1,-0.08,35,-2.8
+45003521,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2211,1867,6.0,11,4.67,35,163.45,"Talgatov, Nazar",,2108,False,KAZ,1.0,1,0.8,35,28.0
+45003521,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2211,1867,6.0,11,4.67,35,163.45,"Md, Imran",f,2180,False,IND,0.5,1,0.36,35,12.6
+45003521,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2211,1867,6.0,11,4.67,35,163.45,"Fecker, Noah",f,2267,True,SUI,1.0,1,0.92,35,32.2
+45003521,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2211,1867,6.0,11,4.67,35,163.45,"Rybka, Simon",f,2267,True,SVK,0.0,1,-0.08,35,-2.8
+45003521,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2211,1867,6.0,11,4.67,35,163.45,"Bodrogi, Bendeguz",f,2267,True,HUN,0.0,1,-0.08,35,-2.8
+45003521,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2211,1867,6.0,11,4.67,35,163.45,"Apoorv, Kamble",f,2267,True,IND,1.0,1,0.92,35,32.2
+45003521,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2211,1867,6.0,11,4.67,35,163.45,"Bharadia, Yash",c,2100,False,IND,1.0,1,0.79,35,27.65
+45003521,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2211,1867,6.0,11,4.67,35,163.45,"Lopez Rayo, Santiago",f,2267,True,COL,0.0,1,-0.08,35,-2.8
+45003521,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2211,1867,6.0,11,4.67,35,163.45,"Alekhya, Mukhopadhyay",,2130,False,IND,0.5,1,0.32,35,11.2
+45003521,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2211,1867,6.0,11,4.67,35,163.45,"Mukund, Hemant Agarwal",,2196,False,IND,1.0,1,0.88,35,30.8

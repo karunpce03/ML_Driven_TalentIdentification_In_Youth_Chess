@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33366950,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,2.0,6,0.0,1340,,"Novio, Pablo Jr",,1510,False,PHI,0.0,1,0.0,,0.0
+33366950,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,2.0,6,0.0,1340,,"Safar, Hussain",,1414,False,KUW,0.0,1,0.0,,0.0
+33366950,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,2.0,6,0.0,1340,,"Nathanael, Xavier",,1479,False,IND,1.0,1,0.0,,0.0
+33366950,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,2.0,6,0.0,1340,,"Bou Hamdan, Hani.",,1453,False,SYR,1.0,1,0.0,,0.0
+33366950,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,2.0,6,0.0,1340,,"Ajbali, Ghaleyah",wc,1530,False,KUW,0.0,1,0.0,,0.0
+33366950,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,,,2.0,6,0.0,1340,,"Hamad, Ali.",,1403,False,SYR,0.0,1,0.0,,0.0

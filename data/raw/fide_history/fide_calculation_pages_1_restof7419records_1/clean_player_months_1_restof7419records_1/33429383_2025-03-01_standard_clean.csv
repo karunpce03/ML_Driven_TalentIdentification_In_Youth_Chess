@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33429383,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1760,1688,2.5,5,0.47,40,18.8,"Aly, Talal",,1858.0,False,EGY,1.0,1,0.72,40,28.8
+33429383,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1760,1688,2.5,5,0.47,40,18.8,"Sinan, Shafeek",,1734.0,False,IND,0.5,1,0.06,40,2.4
+33429383,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1760,1688,2.5,5,0.47,40,18.8,"Al Mamari, Imran",,1688.0,False,OMA,0.0,1,-0.5,40,-20.0
+33429383,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1760,1688,2.5,5,0.47,40,18.8,"Medhat, Magdy",,1858.0,False,EGY,0.0,1,-0.28,40,-11.2
+33429383,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1760,1688,2.5,5,0.47,40,18.8,"Al Habsi, Sultan Mohamed",,1663.0,False,OMA,1.0,1,0.47,40,18.8
+33429383,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1646,1812,5.0,6,0.81,40,32.4,"Dahveed, Sibi Kurisinkal",,1493.0,False,IND,1.0,1,0.13,40,5.2
+33429383,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1646,1812,5.0,6,0.81,40,32.4,"Shashini, S",,1473.0,False,IND,1.0,1,0.12,40,4.8
+33429383,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1646,1812,5.0,6,0.81,40,32.4,"Allam, Emad Hamdy",,2044.0,False,EGY,0.0,1,-0.21,40,-8.4
+33429383,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1646,1812,5.0,6,0.81,40,32.4,"Al Abri, Almoatasim",,1572.0,False,OMA,1.0,1,0.2,40,8.0
+33429383,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1646,1812,5.0,6,0.81,40,32.4,"Muhammad, Zaahir Naduvilaparambil",,1625.0,False,IND,1.0,1,0.26,40,10.4
+33429383,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1646,1812,5.0,6,0.81,40,32.4,"Al Balushi, Said",,1667.0,False,OMA,1.0,1,0.31,40,12.4

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25123289,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1748,1722,4.0,11,-1.15,40,-46.0,"Jyotshnav, Talukdar",,2002.0,False,IND,0.0,1,-0.16,40,-6.4
+25123289,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1748,1722,4.0,11,-1.15,40,-46.0,"Sourabh, Kochar",,1515.0,False,IND,1.0,1,0.23,40,9.2
+25123289,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1748,1722,4.0,11,-1.15,40,-46.0,"Om, Nagnath Lamkane",,1914.0,False,IND,0.0,1,-0.25,40,-10.0
+25123289,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1748,1722,4.0,11,-1.15,40,-46.0,"Dubey, Sanchay",,1917.0,False,IND,0.0,1,-0.25,40,-10.0
+25123289,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1748,1722,4.0,11,-1.15,40,-46.0,"Narayanan, Rishitha",,1521.0,False,IND,0.5,1,-0.26,40,-10.4
+25123289,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1748,1722,4.0,11,-1.15,40,-46.0,"Aadithya, R",,1597.0,False,IND,1.0,1,0.33,40,13.2
+25123289,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1748,1722,4.0,11,-1.15,40,-46.0,"Parth, Belwal",,1840.0,False,IND,0.5,1,0.16,40,6.4
+25123289,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1748,1722,4.0,11,-1.15,40,-46.0,"Richard, Solomon M",,1800.0,False,IND,0.0,1,-0.39,40,-15.6
+25123289,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1748,1722,4.0,11,-1.15,40,-46.0,"Dushyant, Singh",,1603.0,False,IND,1.0,1,0.34,40,13.6
+25123289,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1748,1722,4.0,11,-1.15,40,-46.0,"Shadhursshaan, R",c,1893.0,False,IND,0.0,1,-0.27,40,-10.8
+25123289,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1748,1722,4.0,11,-1.15,40,-46.0,"Oniya, Nalo",,1625.0,False,IND,0.0,1,-0.63,40,-25.2

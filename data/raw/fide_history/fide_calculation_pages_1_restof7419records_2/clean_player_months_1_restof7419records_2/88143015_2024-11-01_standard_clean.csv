@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88143015,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1552,1536,2.5,5,0.08,40,3.2,"Vibhakar, Venkatakrishnan",,1699.0,False,IND,0.0,1,-0.28,40,-11.2
+88143015,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1552,1536,2.5,5,0.08,40,3.2,"Prasanna, Boopathi",,1400.0,False,IND,1.0,1,0.32,40,12.8
+88143015,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1552,1536,2.5,5,0.08,40,3.2,"Merryston, David Scanny",,1781.0,False,IND,0.0,1,-0.2,40,-8.0
+88143015,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1552,1536,2.5,5,0.08,40,3.2,"Issac, Rahul",,1441.0,False,IND,1.0,1,0.37,40,14.8
+88143015,2024-11-01,0,ICC International FIDE Rating Chess Tournament 2024 - 1st Edition,Coimbatore IND,2024-10-10,2024-10-13,1552,1536,2.5,5,0.08,40,3.2,"Vivaan, Parangodath",,1440.0,False,IND,0.5,1,-0.13,40,-5.2

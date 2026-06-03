@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48718874,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1558,1598,4.0,7,0.04,40,1.6,"Badrinath, S.",,1998,True,IND,0.0,1,-0.08,40,-3.2
+48718874,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1558,1598,4.0,7,0.04,40,1.6,"Arihant, Singh",,1428,False,IND,1.0,1,0.28,40,11.2
+48718874,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1558,1598,4.0,7,0.04,40,1.6,"Hathi, Manas Pradeep",,1402,False,IND,0.0,1,-0.75,40,-30.0
+48718874,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1558,1598,4.0,7,0.04,40,1.6,"Shashank, Seshan",,1412,False,IND,0.0,1,-0.74,40,-29.6
+48718874,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1558,1598,4.0,7,0.04,40,1.6,"Shaurya, Bhargava",,1428,False,IND,1.0,1,0.28,40,11.2
+48718874,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1558,1598,4.0,7,0.04,40,1.6,"Aditya, Roy",,1465,False,IND,1.0,1,0.32,40,12.8
+48718874,2024-07-01,0,Jaipur Open Classical FIDE rating Tournament,Jaipur IND,2024-05-29,2024-06-02,1558,1598,4.0,7,0.04,40,1.6,"Arpan, Gupta",,1773,False,IND,1.0,1,0.73,40,29.2

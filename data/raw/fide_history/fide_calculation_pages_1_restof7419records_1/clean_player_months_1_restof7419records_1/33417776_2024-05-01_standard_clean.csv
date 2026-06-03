@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33417776,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1618,1632,5.0,9,0.22,40,8.8,"Manigandan, S S",,2032,True,IND,0.0,1,-0.08,40,-3.2
+33417776,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1618,1632,5.0,9,0.22,40,8.8,"Daksh, M",,1474,False,IND,1.0,1,0.29,40,11.6
+33417776,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1618,1632,5.0,9,0.22,40,8.8,"Sragvidha, S",,1521,False,IND,0.0,1,-0.65,40,-26.0
+33417776,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1618,1632,5.0,9,0.22,40,8.8,"Anagha, Abhinav Krishna",,1483,False,IND,1.0,1,0.3,40,12.0
+33417776,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1618,1632,5.0,9,0.22,40,8.8,"Prasada, Rao G",,1516,False,IND,1.0,1,0.34,40,13.6
+33417776,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1618,1632,5.0,9,0.22,40,8.8,"Andalamala, Hemal Varshan",,1770,False,IND,0.0,1,-0.31,40,-12.4
+33417776,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1618,1632,5.0,9,0.22,40,8.8,"Vyan, Banchhor",,1510,False,IND,1.0,1,0.33,40,13.2
+33417776,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1618,1632,5.0,9,0.22,40,8.8,"Abhinav, Anand",,1731,False,IND,0.0,1,-0.36,40,-14.4
+33417776,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1618,1632,5.0,9,0.22,40,8.8,"Ishaan, Bhansali",,1528,False,IND,1.0,1,0.36,40,14.4

@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48788333,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,2.5,8,0.0,1364,,"Athavan, A",,1553.0,False,IND,1.0,1,0.0,,0.0
+48788333,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,2.5,8,0.0,1364,,"Aravinda, B R",,1636.0,False,IND,0.0,1,0.0,,0.0
+48788333,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,2.5,8,0.0,1364,,"Amitabh, S Shankar",,1487.0,False,IND,0.5,1,0.0,,0.0
+48788333,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,2.5,8,0.0,1364,,Sunildutt,,1540.0,False,IND,0.0,1,0.0,,0.0
+48788333,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,2.5,8,0.0,1364,,"Subramanian, P V",,1487.0,False,IND,0.5,1,0.0,,0.0
+48788333,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,2.5,8,0.0,1364,,"Dinesh, Babu Manakkal",,1449.0,False,IND,0.0,1,0.0,,0.0
+48788333,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,2.5,8,0.0,1364,,"Jevyn, Joe",,1458.0,False,IND,0.5,1,0.0,,0.0
+48788333,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,2.5,8,0.0,1364,,"Ishasadhan, D",,1433.0,False,IND,0.0,1,0.0,,0.0
+48788333,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,1591.0,1454.0,2.0,4,0.73,40,29.2,"Pravin, A",,1608.0,False,IND,1.0,1,0.71,40.0,28.4
+48788333,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,1591.0,1454.0,2.0,4,0.73,40,29.2,"Tamilarasan, B",,1575.0,False,IND,0.0,1,-0.34,40.0,-13.6
+48788333,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,1591.0,1454.0,2.0,4,0.73,40,29.2,"Gowri, Karthikeyan",,1597.0,False,IND,1.0,1,0.69,40.0,27.6
+48788333,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,1591.0,1454.0,2.0,4,0.73,40,29.2,"Libin, P Suresh",,1583.0,False,IND,0.0,1,-0.33,40.0,-13.2

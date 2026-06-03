@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531010490,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,,,1.0,3,0.0,1320,,"Thota, Jovenkataraman",,1460.0,False,IND,0.0,1,0.0,,0.0
+531010490,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,,,1.0,3,0.0,1320,,"Shreyan, Thipparthi",,1473.0,False,IND,0.0,1,0.0,,0.0
+531010490,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,,,1.0,3,0.0,1320,,"Surson, Sanjeeva Reddy",,1401.0,False,IND,1.0,1,0.0,,0.0
+531010490,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,,,2.0,5,0.0,1366,,"Gugulothu, Prahas",,1426.0,False,IND,1.0,1,0.0,,0.0
+531010490,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,,,2.0,5,0.0,1366,,"Murali, Mohan Y",,1523.0,False,IND,0.0,1,0.0,,0.0
+531010490,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,,,2.0,5,0.0,1366,,"Dharmik, Virat Mylavarapu",,1416.0,False,IND,0.0,1,0.0,,0.0
+531010490,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,,,2.0,5,0.0,1366,,"Sai, Dharhas Kommu",,1419.0,False,IND,0.0,1,0.0,,0.0
+531010490,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,,,2.0,5,0.0,1366,,"Anupuri, Shanmukha Abhinay",,1408.0,False,IND,1.0,1,0.0,,0.0
+531010490,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1639.0,1441.0,1.0,4,-0.05,40,-2.0,"Samuel, Stephen Noble S",,1836.0,False,IND,0.0,1,-0.08,40.0,-3.2
+531010490,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1639.0,1441.0,1.0,4,-0.05,40,-2.0,"Aarush, Bhat",,1620.0,False,IND,0.0,1,-0.27,40.0,-10.8
+531010490,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1639.0,1441.0,1.0,4,-0.05,40,-2.0,"Shlok, Vinay Kulkarni",,1552.0,False,IND,0.0,1,-0.35,40.0,-14.0
+531010490,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1639.0,1441.0,1.0,4,-0.05,40,-2.0,"Arun, Lobo",,1548.0,False,IND,1.0,1,0.65,40.0,26.0
+531010490,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1595.0,1439.0,0.0,1,-0.29,40,-11.6,"Pratham, Nayyar",,1595.0,False,IND,0.0,1,-0.29,40.0,-11.6

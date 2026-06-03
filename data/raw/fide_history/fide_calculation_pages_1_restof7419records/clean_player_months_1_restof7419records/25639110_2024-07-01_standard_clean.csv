@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25639110,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2421,2372,5.5,9,1.7,20,34.0,"Ivan-Gal, Hanna Krisztina",wf,2161.0,False,HUN,1.0,1,0.23,20,4.6
+25639110,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2421,2372,5.5,9,1.7,20,34.0,"Prohaszka, Peter",g,2581.0,False,HUN,0.5,1,0.27,20,5.4
+25639110,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2421,2372,5.5,9,1.7,20,34.0,"Piddubna, Bozhena",wc,2005.0,False,UKR,1.0,1,0.1,20,2.0
+25639110,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2421,2372,5.5,9,1.7,20,34.0,"Visakh, N R",g,2506.0,False,IND,1.0,1,0.68,20,13.6
+25639110,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2421,2372,5.5,9,1.7,20,34.0,"Ivanisevic, Ivan",g,2536.0,False,SRB,0.0,1,-0.28,20,-5.6
+25639110,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2421,2372,5.5,9,1.7,20,34.0,"Csonka, Balazs",m,2479.0,False,HUN,0.5,1,0.15,20,3.0
+25639110,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2421,2372,5.5,9,1.7,20,34.0,"Dragnev, Valentin",g,2566.0,False,AUT,0.5,1,0.25,20,5.0
+25639110,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2421,2372,5.5,9,1.7,20,34.0,"Levin, Guy",m,2472.0,False,ISR,0.5,1,0.14,20,2.8
+25639110,2024-07-01,0,Budapest Spring Festival 2024 Group A,Budapest HUN,2024-05-23,2024-05-31,2421,2372,5.5,9,1.7,20,34.0,"Popovic, Dusan",g,2486.0,False,SRB,0.5,1,0.16,20,3.2

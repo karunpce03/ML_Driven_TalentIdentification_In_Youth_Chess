@@ -1,0 +1,30 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25948652,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1570,1585,4.0,8,-0.15,40,-6.0,"Tharshaan, B K",,1432.0,False,IND,1.0,1,0.3,40,12.0
+25948652,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1570,1585,4.0,8,-0.15,40,-6.0,"Mohanan, U.c.",,1715.0,False,IND,0.0,1,-0.32,40,-12.8
+25948652,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1570,1585,4.0,8,-0.15,40,-6.0,"Rajeshkumar, P",,1452.0,False,IND,1.0,1,0.32,40,12.8
+25948652,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1570,1585,4.0,8,-0.15,40,-6.0,"Gautham, Vadivelan",,1429.0,False,IND,1.0,1,0.29,40,11.6
+25948652,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1570,1585,4.0,8,-0.15,40,-6.0,"Christy, George",,1686.0,False,IND,0.5,1,0.14,40,5.6
+25948652,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1570,1585,4.0,8,-0.15,40,-6.0,"Kamalesh, I",,1681.0,False,IND,0.5,1,0.13,40,5.2
+25948652,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1570,1585,4.0,8,-0.15,40,-6.0,"Abhinav, Prasad",,1696.0,False,IND,0.0,1,-0.35,40,-14.0
+25948652,2024-05-01,0,Global Chess Grand Prix 2024,Ernakulam IND,2024-04-03,2024-04-07,1570,1585,4.0,8,-0.15,40,-6.0,"Rahul, R K",,1467.0,False,IND,0.0,1,-0.66,40,-26.4
+25948652,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1597,1579,4.0,7,0.58,40,23.2,"Muhammad, Hisham",,1422.0,False,IND,1.0,1,0.29,40,11.6
+25948652,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1597,1579,4.0,7,0.58,40,23.2,"Rejath, Renjith",,1756.0,False,IND,1.0,1,0.73,40,29.2
+25948652,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1597,1579,4.0,7,0.58,40,23.2,"Joy, Lazar M.a.",,1756.0,False,IND,0.0,1,-0.27,40,-10.8
+25948652,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1597,1579,4.0,7,0.58,40,23.2,"Sachit, Pai",,1445.0,False,IND,0.5,1,-0.18,40,-7.2
+25948652,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1597,1579,4.0,7,0.58,40,23.2,"Leo, Sanish",,1432.0,False,IND,0.5,1,-0.2,40,-8.0
+25948652,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1597,1579,4.0,7,0.58,40,23.2,"Angelo, Paul",,1459.0,False,IND,1.0,1,0.34,40,13.6
+25948652,2024-07-01,0,33rd Cusat FIDE Rated Tournament,Kochi IND,2024-05-27,2024-05-30,1597,1579,4.0,7,0.58,40,23.2,"Ravishankar, S N",,1906.0,False,IND,0.0,1,-0.13,40,-5.2
+25948652,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1646,1602,3.0,6,0.25,40,10.0,"Divi, Bijesh",,1733.0,False,IND,0.0,1,-0.32,40,-12.8
+25948652,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1646,1602,3.0,6,0.25,40,10.0,"Zaeem, Shanavaz",,1450.0,False,IND,0.5,1,-0.2,40,-8.0
+25948652,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1646,1602,3.0,6,0.25,40,10.0,"Arunodhay, K",,1417.0,False,IND,1.0,1,0.26,40,10.4
+25948652,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1646,1602,3.0,6,0.25,40,10.0,"Murali, Krishnan B T",m,2002.0,True,IND,0.5,1,0.42,40,16.8
+25948652,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1646,1602,3.0,6,0.25,40,10.0,"Padmaesh, M K",,1765.0,False,IND,0.0,1,-0.28,40,-11.2
+25948652,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,1646,1602,3.0,6,0.25,40,10.0,"Aligi, Amrutha Hemal",,1506.0,False,IND,1.0,1,0.37,40,14.8
+25948652,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,1552,1612,6.5,8,1.85,40,74.0,"Mahendraa, Ram Prasad",,1462.0,False,IND,1.0,1,0.3,40,12.0
+25948652,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,1552,1612,6.5,8,1.85,40,74.0,"Mathai, Bince",,1522.0,False,IND,0.5,1,-0.12,40,-4.8
+25948652,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,1552,1612,6.5,8,1.85,40,74.0,"Amrithavarshan, Prasanth Pillai",,1535.0,False,IND,1.0,1,0.39,40,15.6
+25948652,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,1552,1612,6.5,8,1.85,40,74.0,"Anantha, Narayan",,1523.0,False,IND,1.0,1,0.38,40,15.2
+25948652,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,1552,1612,6.5,8,1.85,40,74.0,"Sreehari, P",,1541.0,False,IND,1.0,1,0.4,40,16.0
+25948652,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,1552,1612,6.5,8,1.85,40,74.0,"Gunasekaran, R",,1562.0,False,IND,1.0,1,0.43,40,17.2
+25948652,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,1552,1612,6.5,8,1.85,40,74.0,"Rahan, Ramesh",,1662.0,False,IND,0.5,1,0.07,40,2.8
+25948652,2025-01-01,0,2nd KG Marar Memorial International Below 1700 FIDE Rating Open Chess Tournament,Kozhikode IND,2024-12-27,2024-12-29,1552,1612,6.5,8,1.85,40,74.0,"Aarush, Bhat",,1611.0,False,IND,0.5,1,0.0,40,0.0

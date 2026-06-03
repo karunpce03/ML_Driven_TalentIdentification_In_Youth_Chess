@@ -1,0 +1,58 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45033641,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1726,1686,6.0,9,2.01,40,80.4,"Ved, Nair",,1442.0,False,IND,1.0,1,0.2,40,8.0
+45033641,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1726,1686,6.0,9,2.01,40,80.4,"Aditya, Tamrakar",,1447.0,False,IND,1.0,1,0.2,40,8.0
+45033641,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1726,1686,6.0,9,2.01,40,80.4,"Ghadge, Harsh",,1849.0,False,IND,0.0,1,-0.28,40,-11.2
+45033641,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1726,1686,6.0,9,2.01,40,80.4,"Garv, Devnani",,1558.0,False,IND,1.0,1,0.33,40,13.2
+45033641,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1726,1686,6.0,9,2.01,40,80.4,"Aditya, Savalkar",,1831.0,False,IND,1.0,1,0.69,40,27.6
+45033641,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1726,1686,6.0,9,2.01,40,80.4,"Puspal, Datta",,1804.0,False,IND,1.0,1,0.66,40,26.4
+45033641,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1726,1686,6.0,9,2.01,40,80.4,"Banik, Hrishikesh Kumar",,1872.0,False,IND,0.5,1,0.24,40,9.6
+45033641,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1726,1686,6.0,9,2.01,40,80.4,"Gyana, Sai Santhosh M",,1870.0,False,IND,0.5,1,0.24,40,9.6
+45033641,2024-06-01,0,10th Late Bharatbai Halkude Memorial Open FIDE Rating Chess Tournament-2024,Pune IND,2024-05-18,2024-05-22,1726,1686,6.0,9,2.01,40,80.4,"Madhesh, Kumar S",,1864.0,False,IND,0.0,1,-0.27,40,-10.8
+45033641,2024-07-01,0,26th Asian Youth Chess Championship G18 group,Almaty KAZ,2024-06-12,2024-06-19,2007,1766,4.5,9,2.58,40,103.2,"Canino, Ruelle",,2097.0,False,PHI,1.0,1,0.88,40,35.2
+45033641,2024-07-01,0,26th Asian Youth Chess Championship G18 group,Almaty KAZ,2024-06-12,2024-06-19,2007,1766,4.5,9,2.58,40,103.2,"Sanudula, K M Dahamdi",wc,1934.0,False,SRI,1.0,1,0.72,40,28.8
+45033641,2024-07-01,0,26th Asian Youth Chess Championship G18 group,Almaty KAZ,2024-06-12,2024-06-19,2007,1766,4.5,9,2.58,40,103.2,"Imomkuzieva, Nilufarkhon",wf,1993.0,False,UZB,0.0,1,-0.21,40,-8.4
+45033641,2024-07-01,0,26th Asian Youth Chess Championship G18 group,Almaty KAZ,2024-06-12,2024-06-19,2007,1766,4.5,9,2.58,40,103.2,"Karimi, Setayesh",,2025.0,False,IRI,1.0,1,0.82,40,32.8
+45033641,2024-07-01,0,26th Asian Youth Chess Championship G18 group,Almaty KAZ,2024-06-12,2024-06-19,2007,1766,4.5,9,2.58,40,103.2,"Kairbekova, Amina",wm,2166.0,True,KAZ,0.5,1,0.42,40,16.8
+45033641,2024-07-01,0,26th Asian Youth Chess Championship G18 group,Almaty KAZ,2024-06-12,2024-06-19,2007,1766,4.5,9,2.58,40,103.2,"Kuznetsova, Marina",wf,2136.0,False,FID,0.0,1,-0.1,40,-4.0
+45033641,2024-07-01,0,26th Asian Youth Chess Championship G18 group,Almaty KAZ,2024-06-12,2024-06-19,2007,1766,4.5,9,2.58,40,103.2,"Sawan, Eman",wc,1861.0,False,PLE,0.5,1,0.13,40,5.2
+45033641,2024-07-01,0,26th Asian Youth Chess Championship G18 group,Almaty KAZ,2024-06-12,2024-06-19,2007,1766,4.5,9,2.58,40,103.2,"Bobomurodova, Maftuna",wm,1923.0,False,UZB,0.5,1,0.21,40,8.4
+45033641,2024-07-01,0,26th Asian Youth Chess Championship G18 group,Almaty KAZ,2024-06-12,2024-06-19,2007,1766,4.5,9,2.58,40,103.2,"Ruba, Al-Qudah",,1927.0,False,JOR,0.0,1,-0.29,40,-11.6
+45033641,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1720,1869,7.5,11,0.03,40,1.2,"Sasi, Hasini Chintala",,1512.0,False,IND,1.0,1,0.11,40,4.4
+45033641,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1720,1869,7.5,11,0.03,40,1.2,"Modipalli, Deekshitha",,1709.0,False,IND,1.0,1,0.29,40,11.6
+45033641,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1720,1869,7.5,11,0.03,40,1.2,"Dhruvi, Shrikant Panigrahi",,1686.0,False,IND,0.0,1,-0.74,40,-29.6
+45033641,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1720,1869,7.5,11,0.03,40,1.2,"Lakshanaa, R",,1669.0,False,IND,0.5,1,-0.26,40,-10.4
+45033641,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1720,1869,7.5,11,0.03,40,1.2,"Aarohi, Mathur",,1469.0,True,IND,1.0,1,0.08,40,3.2
+45033641,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1720,1869,7.5,11,0.03,40,1.2,"Drishtee, Ghosh",,1768.0,False,IND,1.0,1,0.36,40,14.4
+45033641,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1720,1869,7.5,11,0.03,40,1.2,"Aamuktha, Guntaka",,1787.0,False,IND,1.0,1,0.39,40,15.6
+45033641,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1720,1869,7.5,11,0.03,40,1.2,"Sherali, Pattnaik",,1923.0,False,IND,0.5,1,0.08,40,3.2
+45033641,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1720,1869,7.5,11,0.03,40,1.2,"Patil, Divya",,1862.0,False,IND,0.0,1,-0.51,40,-20.4
+45033641,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1720,1869,7.5,11,0.03,40,1.2,"Krishika, Garg",,1757.0,False,IND,0.5,1,-0.15,40,-6.0
+45033641,2024-08-01,0,34th National Under-17 Girls Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1720,1869,7.5,11,0.03,40,1.2,"Theephigaa, K P",,1778.0,False,IND,1.0,1,0.38,40,15.2
+45033641,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1669,1870,6.0,7,0.83,40,33.2,"Mittika, Baidya",,1470.0,True,IND,1.0,1,0.08,40,3.2
+45033641,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1669,1870,6.0,7,0.83,40,33.2,"Dakhsha, Rudra",,1613.0,False,IND,1.0,1,0.18,40,7.2
+45033641,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1669,1870,6.0,7,0.83,40,33.2,"Olivia, Biswas",,1680.0,False,IND,1.0,1,0.25,40,10.0
+45033641,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1669,1870,6.0,7,0.83,40,33.2,"Arhashirsha, Biswas",,1793.0,False,IND,0.5,1,-0.11,40,-4.4
+45033641,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1669,1870,6.0,7,0.83,40,33.2,"Bristy, Mukherjee",wf,1945.0,False,IND,0.5,1,0.1,40,4.0
+45033641,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1669,1870,6.0,7,0.83,40,33.2,"Aayusree, Sarkar",,1597.0,False,IND,1.0,1,0.17,40,6.8
+45033641,2024-09-01,0,WB State Women Chess Championship,Kolkata IND,2024-08-01,2024-08-04,1669,1870,6.0,7,0.83,40,33.2,"Srinika, Guin",,1586.0,False,IND,1.0,1,0.16,40,6.4
+45033641,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1566,1870,2.0,5,-2.26,40,-90.4,"Pragya, Jain",,1491.0,False,IND,1.0,1,0.09,40,3.6
+45033641,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1566,1870,2.0,5,-2.26,40,-90.4,"Annyatoma, Das",,1654.0,False,IND,0.0,1,-0.78,40,-31.2
+45033641,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1566,1870,2.0,5,-2.26,40,-90.4,"Oiendrila, Bhattacharya",,1476.0,False,IND,1.0,1,0.08,40,3.2
+45033641,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1566,1870,2.0,5,-2.26,40,-90.4,"Dakhsha, Rudra",,1613.0,False,IND,0.0,1,-0.82,40,-32.8
+45033641,2024-09-01,0,WB State U-19 Girls Chess Championship 2024,Kolkata IND,2024-08-15,2024-08-19,1566,1870,2.0,5,-2.26,40,-90.4,"Aayusree, Sarkar",,1597.0,False,IND,0.0,1,-0.83,40,-33.2
+45033641,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 18 Girls,Kaluthara SRI,2024-08-28,2024-09-05,1685,1870,4.5,5,0.82,40,32.8,"Sagar, Siya",,1729.0,False,IND,1.0,1,0.31,40,12.4
+45033641,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 18 Girls,Kaluthara SRI,2024-08-28,2024-09-05,1685,1870,4.5,5,0.82,40,32.8,"Sandanayake, Dehansa Nisanduni",,1614.0,False,SRI,1.0,1,0.19,40,7.6
+45033641,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 18 Girls,Kaluthara SRI,2024-08-28,2024-09-05,1685,1870,4.5,5,0.82,40,32.8,"Jayaweera, Vihini Sahansa",,1609.0,False,SRI,1.0,1,0.18,40,7.2
+45033641,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 18 Girls,Kaluthara SRI,2024-08-28,2024-09-05,1685,1870,4.5,5,0.82,40,32.8,"Akuratiya, A G Javindi Avarjana",,1705.0,False,SRI,1.0,1,0.28,40,11.2
+45033641,2024-10-01,0,Commonwealth Chess Championship 2024 - Under 18 Girls,Kaluthara SRI,2024-08-28,2024-09-05,1685,1870,4.5,5,0.82,40,32.8,"Rice, Leah",,1770.0,False,SGP,0.5,1,-0.14,40,-5.6
+45033641,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Girls,Florianopolis SC BRA,2024-10-28,2024-11-09,1925,1846,5.5,11,1.1,40,44.0,"Sala, Giulia",wf,2159.0,False,ITA,0.0,1,-0.14,40,-5.6
+45033641,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Girls,Florianopolis SC BRA,2024-10-28,2024-11-09,1925,1846,5.5,11,1.1,40,44.0,"Faybish, Dana",,1582.0,False,BEL,1.0,1,0.18,40,7.2
+45033641,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Girls,Florianopolis SC BRA,2024-10-28,2024-11-09,1925,1846,5.5,11,1.1,40,44.0,"Schippke, Manon",wf,2246.0,True,FRA,0.0,1,-0.08,40,-3.2
+45033641,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Girls,Florianopolis SC BRA,2024-10-28,2024-11-09,1925,1846,5.5,11,1.1,40,44.0,"Perez Godinez, Airam Coret",,1452.0,False,MEX,1.0,1,0.08,40,3.2
+45033641,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Girls,Florianopolis SC BRA,2024-10-28,2024-11-09,1925,1846,5.5,11,1.1,40,44.0,"Paulo, Jemima",wf,1953.0,False,ANG,0.5,1,0.15,40,6.0
+45033641,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Girls,Florianopolis SC BRA,2024-10-28,2024-11-09,1925,1846,5.5,11,1.1,40,44.0,"Mendoza, Gomez Juana Fernanda",,1893.0,False,COL,0.5,1,0.07,40,2.8
+45033641,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Girls,Florianopolis SC BRA,2024-10-28,2024-11-09,1925,1846,5.5,11,1.1,40,44.0,"Margad, Munkhpurev",wc,2035.0,False,MGL,1.0,1,0.75,40,30.0
+45033641,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Girls,Florianopolis SC BRA,2024-10-28,2024-11-09,1925,1846,5.5,11,1.1,40,44.0,"Mogollon Tobar, Nicolle Julieth",wf,2068.0,False,COL,0.5,1,0.28,40,11.2
+45033641,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Girls,Florianopolis SC BRA,2024-10-28,2024-11-09,1925,1846,5.5,11,1.1,40,44.0,"Gaite, Karen Nerina",wf,1997.0,False,ARG,0.0,1,-0.3,40,-12.0
+45033641,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Girls,Florianopolis SC BRA,2024-10-28,2024-11-09,1925,1846,5.5,11,1.1,40,44.0,"Huayhuas Robles, Laura Sofia",wc,1732.0,False,PER,0.5,1,-0.16,40,-6.4
+45033641,2024-12-01,0,FIDE World Youth Chess Championship 2024 U18 Girls,Florianopolis SC BRA,2024-10-28,2024-11-09,1925,1846,5.5,11,1.1,40,44.0,"Montiel Caceres, Helen",wf,2056.0,False,PAR,0.5,1,0.27,40,10.8

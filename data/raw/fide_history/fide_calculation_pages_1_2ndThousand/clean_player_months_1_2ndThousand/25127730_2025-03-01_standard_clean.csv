@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25127730,2025-03-01,0,Hala February Classic Tournament 2025,Kuwait KUW,2025-02-20,2025-02-25,1664,1969,5.5,7,-0.44,40,-17.6,"Shrhi, Harini Anandkannan",,1569,True,IND,1.0,1,0.08,40,3.2
+25127730,2025-03-01,0,Hala February Classic Tournament 2025,Kuwait KUW,2025-02-20,2025-02-25,1664,1969,5.5,7,-0.44,40,-17.6,"Alazmi, Amani",wc,1667,False,KUW,0.0,1,-0.85,40,-34.0
+25127730,2025-03-01,0,Hala February Classic Tournament 2025,Kuwait KUW,2025-02-20,2025-02-25,1664,1969,5.5,7,-0.44,40,-17.6,"Advik, Srinivasan",,1737,False,IND,1.0,1,0.21,40,8.4
+25127730,2025-03-01,0,Hala February Classic Tournament 2025,Kuwait KUW,2025-02-20,2025-02-25,1664,1969,5.5,7,-0.44,40,-17.6,"Novio, Pablo Jr",,1569,True,PHI,1.0,1,0.08,40,3.2
+25127730,2025-03-01,0,Hala February Classic Tournament 2025,Kuwait KUW,2025-02-20,2025-02-25,1664,1969,5.5,7,-0.44,40,-17.6,"Alrefae, Ahmad",,1780,False,KUW,1.0,1,0.25,40,10.0
+25127730,2025-03-01,0,Hala February Classic Tournament 2025,Kuwait KUW,2025-02-20,2025-02-25,1664,1969,5.5,7,-0.44,40,-17.6,"Ezhil, Aadhav Kaladharan",,1720,False,IND,0.5,1,-0.31,40,-12.4
+25127730,2025-03-01,0,Hala February Classic Tournament 2025,Kuwait KUW,2025-02-20,2025-02-25,1664,1969,5.5,7,-0.44,40,-17.6,"Sudhanshu, Muluka",,1604,False,IND,1.0,1,0.1,40,4.0

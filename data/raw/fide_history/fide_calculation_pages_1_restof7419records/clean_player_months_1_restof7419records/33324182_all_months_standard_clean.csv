@@ -1,0 +1,17 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33324182,2024-05-01,0,Championnat International de Lyon Henri Rinck 2024,LYON FRA,2024-04-24,2024-04-28,1886,1632,6.0,9,4.24,40,169.6,"Ducatez, Raphael",,1999.0,False,FRA,0.5,1,0.4,40,16.0
+33324182,2024-05-01,0,Championnat International de Lyon Henri Rinck 2024,LYON FRA,2024-04-24,2024-04-28,1886,1632,6.0,9,4.24,40,169.6,"Couet, David",,1801.0,False,FRA,1.0,1,0.72,40,28.8
+33324182,2024-05-01,0,Championnat International de Lyon Henri Rinck 2024,LYON FRA,2024-04-24,2024-04-28,1886,1632,6.0,9,4.24,40,169.6,"Liarsou, Patrick",,1905.0,False,FRA,1.0,1,0.83,40,33.2
+33324182,2024-05-01,0,Championnat International de Lyon Henri Rinck 2024,LYON FRA,2024-04-24,2024-04-28,1886,1632,6.0,9,4.24,40,169.6,"Treccozzi, Riccardo",,2011.0,False,ITA,0.0,1,-0.09,40,-3.6
+33324182,2024-05-01,0,Championnat International de Lyon Henri Rinck 2024,LYON FRA,2024-04-24,2024-04-28,1886,1632,6.0,9,4.24,40,169.6,"Picard Du Chambon, Gabriel",,1847.0,False,FRA,0.0,1,-0.23,40,-9.2
+33324182,2024-05-01,0,Championnat International de Lyon Henri Rinck 2024,LYON FRA,2024-04-24,2024-04-28,1886,1632,6.0,9,4.24,40,169.6,"Savi, Aurelien",,1847.0,False,FRA,0.5,1,0.27,40,10.8
+33324182,2024-05-01,0,Championnat International de Lyon Henri Rinck 2024,LYON FRA,2024-04-24,2024-04-28,1886,1632,6.0,9,4.24,40,169.6,"Sere, Philemon",,1796.0,False,FRA,1.0,1,0.72,40,28.8
+33324182,2024-05-01,0,Championnat International de Lyon Henri Rinck 2024,LYON FRA,2024-04-24,2024-04-28,1886,1632,6.0,9,4.24,40,169.6,"Moullier, Igor",,1884.0,False,FRA,1.0,1,0.81,40,32.4
+33324182,2024-05-01,0,Championnat International de Lyon Henri Rinck 2024,LYON FRA,2024-04-24,2024-04-28,1886,1632,6.0,9,4.24,40,169.6,"Sere, Nicolas",,1887.0,False,FRA,1.0,1,0.81,40,32.4
+33324182,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1695,1802,5.0,7,0.63,40,25.2,"Mano, Mariappan",,1402.0,True,IND,1.0,1,0.08,40,3.2
+33324182,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1695,1802,5.0,7,0.63,40,25.2,"Muthu, Krishna M",,1576.0,False,IND,1.0,1,0.21,40,8.4
+33324182,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1695,1802,5.0,7,0.63,40,25.2,"Magizhini, M",,1673.0,False,IND,1.0,1,0.33,40,13.2
+33324182,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1695,1802,5.0,7,0.63,40,25.2,"Vijay, Shreeram P",,1967.0,False,IND,0.0,1,-0.28,40,-11.2
+33324182,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1695,1802,5.0,7,0.63,40,25.2,"Vishweswaran, N",,1666.0,False,IND,1.0,1,0.32,40,12.8
+33324182,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1695,1802,5.0,7,0.63,40,25.2,"Bharath, Venugopal",,1649.0,False,IND,1.0,1,0.3,40,12.0
+33324182,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,1695,1802,5.0,7,0.63,40,25.2,"Sreekumar, P.",,1929.0,False,IND,0.0,1,-0.33,40,-13.2

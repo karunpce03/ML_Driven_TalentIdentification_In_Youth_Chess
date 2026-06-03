@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+537031988,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1607,1457,0.0,3,-0.91,40,-36.4,"Akash, Srivastav",,1689.0,False,IND,0.0,1,-0.21,40,-8.4
+537031988,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1607,1457,0.0,3,-0.91,40,-36.4,"Samneet, Munde",,1582.0,False,IND,0.0,1,-0.33,40,-13.2
+537031988,2025-04-01,0,National Amateur Chess Championship Below 1700 (Open),Gaya IND,2025-03-25,2025-03-29,1607,1457,0.0,3,-0.91,40,-36.4,"Siddharth, Shandilya",,1549.0,False,IND,0.0,1,-0.37,40,-14.8

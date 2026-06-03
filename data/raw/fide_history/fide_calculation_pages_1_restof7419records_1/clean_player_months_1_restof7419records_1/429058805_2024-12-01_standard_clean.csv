@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429058805,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1608,1432,4.0,7,2.06,40,82.4,"Mani, Bharathy",,1789.0,False,IND,0.0,1,-0.11,40,-4.4
+429058805,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1608,1432,4.0,7,2.06,40,82.4,"Prayank, Gaonkar",,1545.0,False,IND,0.5,1,0.15,40,6.0
+429058805,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1608,1432,4.0,7,2.06,40,82.4,"Vidur, Murali",,1570.0,False,IND,1.0,1,0.69,40,27.6
+429058805,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1608,1432,4.0,7,2.06,40,82.4,"Anish, P More",,1577.0,False,IND,1.0,1,0.69,40,27.6
+429058805,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1608,1432,4.0,7,2.06,40,82.4,"Prabhakar, Aariv",,1617.0,False,IND,0.5,1,0.24,40,9.6
+429058805,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1608,1432,4.0,7,2.06,40,82.4,"Pratham, Nayyar",,1595.0,False,IND,0.0,1,-0.28,40,-11.2
+429058805,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1608,1432,4.0,7,2.06,40,82.4,"Ayaanraj, Kottapally",,1563.0,False,IND,1.0,1,0.68,40,27.2

@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33444633,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1612.0,1431.0,0.5,3,-0.37,40,-14.8,"Aneesh, A",,1793.0,False,IND,0.0,1,-0.1,40.0,-4.0
+33444633,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1612.0,1431.0,0.5,3,-0.37,40,-14.8,"Siva, Adithyan S",,1633.0,False,IND,0.0,1,-0.24,40.0,-9.6
+33444633,2024-05-01,0,ANATOLY KARPOV Legacy International Open Fide Rated Chess Tournament 2K24,Trivandrum IND,2024-03-28,2024-04-02,1612.0,1431.0,0.5,3,-0.37,40,-14.8,"Pranav, D Rakesh",,1409.0,False,IND,0.5,1,-0.03,40.0,-1.2
+33444633,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1705.0,1431.0,0.0,2,-0.34,40,-13.6,"Sinthia, Sarkar",,1708.0,False,IND,0.0,1,-0.17,40.0,-6.8
+33444633,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1705.0,1431.0,0.0,2,-0.34,40,-13.6,"Srinivasa, Rao G.v.",,1702.0,False,IND,0.0,1,-0.17,40.0,-6.8
+33444633,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1547.0,1403.0,0.0,3,-0.97,40,-38.8,"Yeshas, H",,1713.0,False,IND,0.0,1,-0.14,40.0,-5.6
+33444633,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1547.0,1403.0,0.0,3,-0.97,40,-38.8,"Leah, R Joseph",,1489.0,False,IND,0.0,1,-0.38,40.0,-15.2
+33444633,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1547.0,1403.0,0.0,3,-0.97,40,-38.8,"Hemanth, Reddy",,1438.0,False,IND,0.0,1,-0.45,40.0,-18.0
+33444633,2024-10-01,0,Karnataka State Under 11 Girls FIDE Rated Chess Championship 2024,Belgavi IND,2024-08-30,2024-09-01,,,0.0,3,0.0,770,,"Leah, R Joseph",,1575.0,False,IND,0.0,1,0.0,,0.0
+33444633,2024-10-01,0,Karnataka State Under 11 Girls FIDE Rated Chess Championship 2024,Belgavi IND,2024-08-30,2024-09-01,,,0.0,3,0.0,770,,"Shravya, Vaid",,1448.0,False,IND,0.0,1,0.0,,0.0
+33444633,2024-10-01,0,Karnataka State Under 11 Girls FIDE Rated Chess Championship 2024,Belgavi IND,2024-08-30,2024-09-01,,,0.0,3,0.0,770,,"Aadya, Gowda",,1687.0,False,IND,0.0,1,0.0,,0.0
+33444633,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,7,0.0,1432,,"Aditri, Baisya",,1523.0,False,IND,0.0,1,0.0,,0.0
+33444633,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,7,0.0,1432,,"Sayyadh, Raudah",,1535.0,False,IND,1.0,1,0.0,,0.0
+33444633,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,7,0.0,1432,,"Nakshatra, Gumudavelly",,1447.0,False,IND,0.0,1,0.0,,0.0
+33444633,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,7,0.0,1432,,"Adya, Kalra",,1465.0,False,IND,1.0,1,0.0,,0.0
+33444633,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,7,0.0,1432,,"Anointah, A",,1470.0,False,IND,0.0,1,0.0,,0.0
+33444633,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,7,0.0,1432,,"Gupta, Harshi",,1465.0,False,IND,1.0,1,0.0,,0.0
+33444633,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,7,0.0,1432,,"Jigyasa, Vaishnav",,1472.0,False,IND,0.0,1,0.0,,0.0
+33444633,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1521.0,1510.0,0.5,1,0.02,40,0.8,"Yakshini, P",,1521.0,False,IND,0.5,1,0.02,40.0,0.8

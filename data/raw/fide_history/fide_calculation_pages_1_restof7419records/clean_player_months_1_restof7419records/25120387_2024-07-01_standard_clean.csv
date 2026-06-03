@@ -1,0 +1,15 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25120387,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1958,1693,4.0,8,2.46,40,98.4,"Sasikumar, Anusweud",,1925.0,False,IND,0.5,1,0.29,40,11.6
+25120387,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1958,1693,4.0,8,2.46,40,98.4,"Al-Hajiri, Bader",f,1925.0,False,KUW,0.5,1,0.29,40,11.6
+25120387,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1958,1693,4.0,8,2.46,40,98.4,"Sameir, Ramez",,1895.0,False,EGY,0.5,1,0.26,40,10.4
+25120387,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1958,1693,4.0,8,2.46,40,98.4,"Bernardo, Darry",,2068.0,False,PHI,0.0,1,-0.09,40,-3.6
+25120387,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1958,1693,4.0,8,2.46,40,98.4,"Al Yaghshi, M. Hisham",,2093.0,True,SYR,0.5,1,0.42,40,16.8
+25120387,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1958,1693,4.0,8,2.46,40,98.4,"Vaidyanathan, Kannan",,1872.0,False,USA,1.0,1,0.73,40,29.2
+25120387,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1958,1693,4.0,8,2.46,40,98.4,"Lopez, Henry",,2093.0,True,PHI,0.5,1,0.42,40,16.8
+25120387,2024-07-01,0,Dubai Open Chess Tournament 2024 Category B,Dubai UAE,2024-05-25,2024-06-02,1958,1693,4.0,8,2.46,40,98.4,"Aryan, Goyal",,1795.0,False,IND,0.5,1,0.14,40,5.6
+25120387,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1572,1693,4.5,6,0.57,40,22.8,"Kumara, G P Thaminda Ruwan",,1423.0,False,SRI,1.0,1,0.17,40,6.8
+25120387,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1572,1693,4.5,6,0.57,40,22.8,"Aditya, Sharma",,1523.0,False,IND,1.0,1,0.28,40,11.2
+25120387,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1572,1693,4.5,6,0.57,40,22.8,"Jeshhar, Nekkalapudi",,1526.0,False,IND,1.0,1,0.28,40,11.2
+25120387,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1572,1693,4.5,6,0.57,40,22.8,"Daiwik, Jain",,1744.0,False,IND,0.5,1,0.07,40,2.8
+25120387,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1572,1693,4.5,6,0.57,40,22.8,"Mokhtar, Omar.",,1676.0,False,SYR,0.0,1,-0.52,40,-20.8
+25120387,2024-07-01,0,Think &amp; Plan June 2024,Sharjah UAE,2024-06-22,2024-06-25,1572,1693,4.5,6,0.57,40,22.8,"Omar, Abuseif",,1538.0,False,JOR,1.0,1,0.29,40,11.6

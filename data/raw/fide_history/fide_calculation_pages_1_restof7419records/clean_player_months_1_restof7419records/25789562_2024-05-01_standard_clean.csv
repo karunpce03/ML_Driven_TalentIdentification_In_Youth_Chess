@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25789562,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1549,1543,1.0,3,-0.5,40,-20.0,"Gopal, Aravamuthan Iyengar",,1758.0,False,IND,0.0,1,-0.23,40,-9.2
+25789562,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1549,1543,1.0,3,-0.5,40,-20.0,"Harsh, Dhir",,1415.0,False,IND,0.0,1,-0.67,40,-26.8
+25789562,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1549,1543,1.0,3,-0.5,40,-20.0,"Ras, Lal Upadhaya",,1473.0,False,IND,1.0,1,0.4,40,16.0

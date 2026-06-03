@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33392854,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1620,1427,0.0,3,-0.79,40,-31.6,"Sanyam, Srivastava",,1741.0,False,IND,0.0,1,-0.14,40,-5.6
+33392854,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1620,1427,0.0,3,-0.79,40,-31.6,"Ishaan, Bhatnagar",,1571.0,False,IND,0.0,1,-0.31,40,-12.4
+33392854,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1620,1427,0.0,3,-0.79,40,-31.6,"Debarpit, Mishra",,1548.0,False,IND,0.0,1,-0.34,40,-13.6

@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25157248,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1559,1468,1.5,4,-0.01,40,-0.4,"Shrihaan, Barman",,1562.0,False,IND,0.0,1,-0.37,40,-14.8
+25157248,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1559,1468,1.5,4,-0.01,40,-0.4,"Akash, Ghoshal",,1629.0,False,IND,1.0,1,0.71,40,28.4
+25157248,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1559,1468,1.5,4,-0.01,40,-0.4,"Devansh, Gupta",,1519.0,False,IND,0.5,1,0.07,40,2.8
+25157248,2025-02-01,0,1ST ROYAL RIVALS KOLKATA INTERNATIONAL OPEN FIDE RATED CHESS TOURNAMENT - 2024,Kolkata IND,2024-12-26,2024-12-31,1559,1468,1.5,4,-0.01,40,-0.4,"Arohan, Dey",,1524.0,False,IND,0.0,1,-0.42,40,-16.8

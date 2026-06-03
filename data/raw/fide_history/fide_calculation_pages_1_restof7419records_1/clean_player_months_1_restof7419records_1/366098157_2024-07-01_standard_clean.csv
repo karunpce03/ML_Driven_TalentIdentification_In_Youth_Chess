@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366098157,2024-07-01,0,SCF Training Tournament Rated Q2 2024,Singapore SGP,2024-06-08,2024-06-09,1589,1476,3.0,6,0.88,40,35.2,"Liew, Tze Chi",,1681.0,False,SGP,0.0,1,-0.24,40,-9.6
+366098157,2024-07-01,0,SCF Training Tournament Rated Q2 2024,Singapore SGP,2024-06-08,2024-06-09,1589,1476,3.0,6,0.88,40,35.2,"Kumaran, Somasundaram Rutva Saatv",,1442.0,False,SGP,1.0,1,0.45,40,18.0
+366098157,2024-07-01,0,SCF Training Tournament Rated Q2 2024,Singapore SGP,2024-06-08,2024-06-09,1589,1476,3.0,6,0.88,40,35.2,"Lin, Yi Christopher",,1624.0,False,SGP,1.0,1,0.7,40,28.0
+366098157,2024-07-01,0,SCF Training Tournament Rated Q2 2024,Singapore SGP,2024-06-08,2024-06-09,1589,1476,3.0,6,0.88,40,35.2,"Liu, Muzhou",,1617.0,False,SGP,0.0,1,-0.31,40,-12.4
+366098157,2024-07-01,0,SCF Training Tournament Rated Q2 2024,Singapore SGP,2024-06-08,2024-06-09,1589,1476,3.0,6,0.88,40,35.2,"Wee, Yu Heng Lucas John",,1499.0,False,SGP,1.0,1,0.53,40,21.2
+366098157,2024-07-01,0,SCF Training Tournament Rated Q2 2024,Singapore SGP,2024-06-08,2024-06-09,1589,1476,3.0,6,0.88,40,35.2,"Bonnet, Gabriel Misa Jean",,1671.0,False,SGP,0.0,1,-0.25,40,-10.0
+366098157,2024-07-01,0,1st Singapore Management University Chess Classic 2024,Singapore SGP,2024-06-18,2024-06-22,1738,1476,1.0,3,0.45,40,18.0,"Lim, Hsien Jin",,1720.0,False,SGP,0.5,1,0.3,40,12.0
+366098157,2024-07-01,0,1st Singapore Management University Chess Classic 2024,Singapore SGP,2024-06-18,2024-06-22,1738,1476,1.0,3,0.45,40,18.0,"Sung, Tze Shyan Evin",,1783.0,False,SGP,0.5,1,0.36,40,14.4
+366098157,2024-07-01,0,1st Singapore Management University Chess Classic 2024,Singapore SGP,2024-06-18,2024-06-22,1738,1476,1.0,3,0.45,40,18.0,"Chan, Jing Fong Joash",,1711.0,False,SGP,0.0,1,-0.21,40,-8.4

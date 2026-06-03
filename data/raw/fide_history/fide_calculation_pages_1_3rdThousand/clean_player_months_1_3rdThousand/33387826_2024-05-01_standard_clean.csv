@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33387826,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1596,1669,4.5,8,-0.29,40,-11.6,"Ritobrato, Das",,1466.0,False,IND,1.0,1,0.24,40,9.6
+33387826,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1596,1669,4.5,8,-0.29,40,-11.6,"Mayukh, Majumder",,1856.0,False,IND,0.0,1,-0.26,40,-10.4
+33387826,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1596,1669,4.5,8,-0.29,40,-11.6,"Abir, Mitra",,1503.0,False,IND,1.0,1,0.28,40,11.2
+33387826,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1596,1669,4.5,8,-0.29,40,-11.6,"Chatterjee, K.k.",c,1917.0,False,IND,0.0,1,-0.19,40,-7.6
+33387826,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1596,1669,4.5,8,-0.29,40,-11.6,"Mayukh, Ganguly",,1503.0,False,IND,1.0,1,0.28,40,11.2
+33387826,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1596,1669,4.5,8,-0.29,40,-11.6,"Soumil, Bhadra",,1530.0,False,IND,0.0,1,-0.69,40,-27.6
+33387826,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1596,1669,4.5,8,-0.29,40,-11.6,"Abhirup, Majumder",,1511.0,False,IND,0.5,1,-0.21,40,-8.4
+33387826,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1596,1669,4.5,8,-0.29,40,-11.6,"Soumyadeep, Nath",,1482.0,False,IND,1.0,1,0.26,40,10.4

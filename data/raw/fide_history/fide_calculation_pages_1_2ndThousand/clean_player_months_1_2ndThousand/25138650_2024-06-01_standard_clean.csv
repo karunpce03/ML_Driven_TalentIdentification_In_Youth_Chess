@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25138650,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1645,1761,3.5,6,-0.39,40,-15.6,"Al Maani, Luqman",,1497.0,False,OMA,1.0,1,0.18,40,7.2
+25138650,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1645,1761,3.5,6,-0.39,40,-15.6,"Al Balushi, Salim",,1642.0,False,OMA,1.0,1,0.34,40,13.6
+25138650,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1645,1761,3.5,6,-0.39,40,-15.6,"Madhusoodanan, K.r.",,1722.0,False,IND,0.5,1,-0.05,40,-2.0
+25138650,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1645,1761,3.5,6,-0.39,40,-15.6,"Sinan, Shafeek",,1722.0,False,FID,0.0,1,-0.55,40,-22.0
+25138650,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1645,1761,3.5,6,-0.39,40,-15.6,"Muhammad, Zaahir Naduvilaparambil",,1563.0,False,IND,1.0,1,0.24,40,9.6
+25138650,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1645,1761,3.5,6,-0.39,40,-15.6,"Abo El Khair, Moustafa",,1722.0,False,EGY,0.0,1,-0.55,40,-22.0

@@ -1,0 +1,17 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25983504,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2310,2466,2.5,7,-2.44,10,-24.4,"Nurman, Alua",wg,2330.0,False,KAZ,0.0,1,-0.68,10,-6.8
+25983504,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2310,2466,2.5,7,-2.44,10,-24.4,"Adireddy, Arjun",f,2335.0,False,IND,0.0,1,-0.68,10,-6.8
+25983504,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2310,2466,2.5,7,-2.44,10,-24.4,"Abdukhakimov, Akbarali",f,2271.0,False,UZB,1.0,1,0.25,10,2.5
+25983504,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2310,2466,2.5,7,-2.44,10,-24.4,"Priansh, Das",,2310.0,False,IND,0.5,1,-0.21,10,-2.1
+25983504,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2310,2466,2.5,7,-2.44,10,-24.4,"Schekachikhin, Maksim",m,2353.0,False,FID,0.5,1,-0.15,10,-1.5
+25983504,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2310,2466,2.5,7,-2.44,10,-24.4,"Degenbaev, Aziz",f,2260.0,False,KGZ,0.5,1,-0.26,10,-2.6
+25983504,2025-01-01,0,"3rd International President Cup ""A""",Tashkent UZB,2024-11-21,2024-11-29,2310,2466,2.5,7,-2.44,10,-24.4,"Jain, Kashish Manoj",f,2308.0,False,IND,0.0,1,-0.71,10,-7.1
+25983504,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2494,2466,5.0,9,0.79,10,7.9,"Heinemann, Josefine",wg,2305.0,False,GER,1.0,1,0.29,10,2.9
+25983504,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2494,2466,5.0,9,0.79,10,7.9,"Vokhidov, Shamsiddin",g,2681.0,False,UZB,0.5,1,0.27,10,2.7
+25983504,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2494,2466,5.0,9,0.79,10,7.9,"Tabatabaei, M. Amin",g,2695.0,False,IRI,0.5,1,0.29,10,2.9
+25983504,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2494,2466,5.0,9,0.79,10,7.9,"Yakubboev, Nodirbek",g,2668.0,False,UZB,0.0,1,-0.24,10,-2.4
+25983504,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2494,2466,5.0,9,0.79,10,7.9,"Aradhya, Garg",f,2365.0,False,IND,1.0,1,0.36,10,3.6
+25983504,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2494,2466,5.0,9,0.79,10,7.9,"Nandhidhaa, P V",wg,2339.0,False,IND,0.5,1,-0.17,10,-1.7
+25983504,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2494,2466,5.0,9,0.79,10,7.9,"Narayanan, S L",g,2647.0,False,IND,0.5,1,0.24,10,2.4
+25983504,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2494,2466,5.0,9,0.79,10,7.9,"Omonov, Asrorjon",f,2360.0,False,UZB,0.5,1,-0.14,10,-1.4
+25983504,2025-01-01,0,Qatar Masters 2024,Doha QAT,2024-12-03,2024-12-12,2494,2466,5.0,9,0.79,10,7.9,"Ashraf, Artin",f,2388.0,False,IRI,0.5,1,-0.11,10,-1.1

@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25738020,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1835,1557,3.0,4,2.31,40,92.4,"Napone, Emerson",,1930.0,False,PHI,0.0,1,-0.1,40,-4.0
+25738020,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1835,1557,3.0,4,2.31,40,92.4,"Al Makhamari, Ahmed",,1765.0,False,OMA,1.0,1,0.77,40,30.8
+25738020,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1835,1557,3.0,4,2.31,40,92.4,"Medhat, Magdy",,1875.0,False,EGY,1.0,1,0.87,40,34.8
+25738020,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1835,1557,3.0,4,2.31,40,92.4,"Al Jabri, Rashid",,1771.0,False,OMA,1.0,1,0.77,40,30.8
+25738020,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1810,1557,0.0,4,-0.8,40,-32.0,"Barsov, Alexei",g,1957.0,True,UZB,0.0,1,-0.08,40,-3.2
+25738020,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1810,1557,0.0,4,-0.8,40,-32.0,"Albin, Sajan",,1804.0,False,IND,0.0,1,-0.19,40,-7.6
+25738020,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1810,1557,0.0,4,-0.8,40,-32.0,"Shamas, Salim Ahmed",,1741.0,False,OMA,0.0,1,-0.26,40,-10.4
+25738020,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1810,1557,0.0,4,-0.8,40,-32.0,"Al-Kuwari, Hamad",c,1736.0,False,QAT,0.0,1,-0.27,40,-10.8

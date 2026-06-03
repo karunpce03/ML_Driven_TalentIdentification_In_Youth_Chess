@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366104441,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1688,1954,7.0,9,-0.34,40,-13.6,"Devansh, Gupta",,1554,True,IND,1.0,1,0.08,40,3.2
+366104441,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1688,1954,7.0,9,-0.34,40,-13.6,"Vitasta, Koul",,1578,False,IND,1.0,1,0.09,40,3.6
+366104441,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1688,1954,7.0,9,-0.34,40,-13.6,"Keshav, Arora",,1660,False,IND,1.0,1,0.15,40,6.0
+366104441,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1688,1954,7.0,9,-0.34,40,-13.6,"Shaurya, Chaudhary",,1743,False,IND,0.0,1,-0.77,40,-30.8
+366104441,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1688,1954,7.0,9,-0.34,40,-13.6,"Sanchita, Yadav",,1633,False,IND,1.0,1,0.13,40,5.2
+366104441,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1688,1954,7.0,9,-0.34,40,-13.6,"Hanya, Shah",,1724,False,IND,1.0,1,0.21,40,8.4
+366104441,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1688,1954,7.0,9,-0.34,40,-13.6,"Akshat, Negi",,1823,False,IND,0.0,1,-0.68,40,-27.2
+366104441,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1688,1954,7.0,9,-0.34,40,-13.6,"Shubh, Kapur",,1755,False,IND,1.0,1,0.24,40,9.6
+366104441,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1688,1954,7.0,9,-0.34,40,-13.6,"Priyansh, Arora",,1721,False,IND,1.0,1,0.21,40,8.4

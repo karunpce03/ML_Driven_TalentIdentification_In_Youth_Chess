@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25165518,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2172,2074,4.0,8,0.96,40,38.4,"Dixit, Nikhil",f,2349.0,False,IND,0.0,1,-0.17,40,-6.8
+25165518,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2172,2074,4.0,8,0.96,40,38.4,"Bettalli, Francesco",f,2351.0,False,ITA,0.0,1,-0.17,40,-6.8
+25165518,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2172,2074,4.0,8,0.96,40,38.4,"Stadlinger, Lea",,1962.0,False,AUT,1.0,1,0.35,40,14.0
+25165518,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2172,2074,4.0,8,0.96,40,38.4,"Tumur-Ochir, Duluu",,2221.0,False,MGL,0.0,1,-0.3,40,-12.0
+25165518,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2172,2074,4.0,8,0.96,40,38.4,"Groessing, Daniel-Yosuke",,1991.0,False,AUT,1.0,1,0.39,40,15.6
+25165518,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2172,2074,4.0,8,0.96,40,38.4,"Maldonado Gonzales, Stefano",,2276.0,False,ITA,0.0,1,-0.24,40,-9.6
+25165518,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2172,2074,4.0,8,0.96,40,38.4,"Segizbayev, Iskander",,1976.0,False,KAZ,1.0,1,0.37,40,14.8
+25165518,2025-03-01,0,Int. Graz Open 2025 - A,Graz AUT,2025-02-15,2025-02-21,2172,2074,4.0,8,0.96,40,38.4,"Sandhoefner, Florian",f,2249.0,False,AUT,1.0,1,0.73,40,29.2

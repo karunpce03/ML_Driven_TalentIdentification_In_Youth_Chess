@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25911309,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1554,1717,4.5,6,0.24,40,9.6,"Kapoor, Aarav",,1473.0,False,IND,1.0,1,0.2,40,8.0
+25911309,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1554,1717,4.5,6,0.24,40,9.6,"Shiv, Sharad Mehta",,1532.0,False,IND,1.0,1,0.26,40,10.4
+25911309,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1554,1717,4.5,6,0.24,40,9.6,"Yuti, Mayur Patel",,1580.0,False,IND,0.5,1,-0.18,40,-7.2
+25911309,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1554,1717,4.5,6,0.24,40,9.6,"Anirudh, Subramanian",,1627.0,False,IND,0.0,1,-0.62,40,-24.8
+25911309,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1554,1717,4.5,6,0.24,40,9.6,"Prranamya, S Panagaonkar",,1521.0,False,IND,1.0,1,0.25,40,10.0
+25911309,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1554,1717,4.5,6,0.24,40,9.6,"Balani, Manya",,1590.0,False,IND,1.0,1,0.33,40,13.2

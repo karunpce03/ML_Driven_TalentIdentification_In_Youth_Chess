@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25674064,2024-08-01,0,"International Chess Festival ""Baku Open-2024"", Group A",Baku AZE,2024-06-28,2024-07-07,2167,2300,3.0,9,-2.86,20,-57.2,"Ishvi, Aggarwal",wc,1928.0,False,IND,1.0,1,0.1,20,2.0
+25674064,2024-08-01,0,"International Chess Festival ""Baku Open-2024"", Group A",Baku AZE,2024-06-28,2024-07-07,2167,2300,3.0,9,-2.86,20,-57.2,"Shyam, Sundar M.",g,2493.0,False,IND,0.5,1,0.25,20,5.0
+25674064,2024-08-01,0,"International Chess Festival ""Baku Open-2024"", Group A",Baku AZE,2024-06-28,2024-07-07,2167,2300,3.0,9,-2.86,20,-57.2,"Asadli, Vugar",g,2560.0,False,AZE,0.0,1,-0.18,20,-3.6
+25674064,2024-08-01,0,"International Chess Festival ""Baku Open-2024"", Group A",Baku AZE,2024-06-28,2024-07-07,2167,2300,3.0,9,-2.86,20,-57.2,"Md, Imran",f,2180.0,False,IND,0.0,1,-0.66,20,-13.2
+25674064,2024-08-01,0,"International Chess Festival ""Baku Open-2024"", Group A",Baku AZE,2024-06-28,2024-07-07,2167,2300,3.0,9,-2.86,20,-57.2,"Ismayil, Malak",wf,2165.0,False,AZE,0.5,1,-0.18,20,-3.6
+25674064,2024-08-01,0,"International Chess Festival ""Baku Open-2024"", Group A",Baku AZE,2024-06-28,2024-07-07,2167,2300,3.0,9,-2.86,20,-57.2,"Bayramov, Elvin",f,2155.0,False,AZE,0.5,1,-0.19,20,-3.8
+25674064,2024-08-01,0,"International Chess Festival ""Baku Open-2024"", Group A",Baku AZE,2024-06-28,2024-07-07,2167,2300,3.0,9,-2.86,20,-57.2,"Allahverdiyeva, Ayan",wm,2133.0,False,AZE,0.0,1,-0.72,20,-14.4
+25674064,2024-08-01,0,"International Chess Festival ""Baku Open-2024"", Group A",Baku AZE,2024-06-28,2024-07-07,2167,2300,3.0,9,-2.86,20,-57.2,"Rebecca, Jesumarian",,1900.0,True,IND,0.0,1,-0.92,20,-18.4
+25674064,2024-08-01,0,"International Chess Festival ""Baku Open-2024"", Group A",Baku AZE,2024-06-28,2024-07-07,2167,2300,3.0,9,-2.86,20,-57.2,"Imomkuzieva, Nilufarkhon",wf,1993.0,False,UZB,0.5,1,-0.36,20,-7.2
+25674064,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN A,Piestany SVK,2024-07-09,2024-07-17,2304,2300,4.0,9,-0.46,20,-9.2,"Demchenko, Anton",g,2609.0,False,SLO,0.5,1,0.36,20,7.2
+25674064,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN A,Piestany SVK,2024-07-09,2024-07-17,2304,2300,4.0,9,-0.46,20,-9.2,"Vykouk, Jan",m,2508.0,False,CZE,0.5,1,0.27,20,5.4
+25674064,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN A,Piestany SVK,2024-07-09,2024-07-17,2304,2300,4.0,9,-0.46,20,-9.2,"Halafov, Ilgar",,1989.0,False,AZE,1.0,1,0.14,20,2.8
+25674064,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN A,Piestany SVK,2024-07-09,2024-07-17,2304,2300,4.0,9,-0.46,20,-9.2,"Havelka, Josef",f,2361.0,False,CZE,0.0,1,-0.42,20,-8.4
+25674064,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN A,Piestany SVK,2024-07-09,2024-07-17,2304,2300,4.0,9,-0.46,20,-9.2,"Fizer, Marek",c,2170.0,False,CZE,1.0,1,0.32,20,6.4
+25674064,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN A,Piestany SVK,2024-07-09,2024-07-17,2304,2300,4.0,9,-0.46,20,-9.2,"Hrbek, Stepan",f,2402.0,False,CZE,0.5,1,0.14,20,2.8
+25674064,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN A,Piestany SVK,2024-07-09,2024-07-17,2304,2300,4.0,9,-0.46,20,-9.2,"Senthil, Maran K",f,2369.0,False,IND,0.0,1,-0.4,20,-8.0
+25674064,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN A,Piestany SVK,2024-07-09,2024-07-17,2304,2300,4.0,9,-0.46,20,-9.2,"Apaar, Saxena",c,2157.0,False,IND,0.0,1,-0.69,20,-13.8
+25674064,2024-08-01,0,Slovakia Chess Open PIESTANY 2024 - OPEN A,Piestany SVK,2024-07-09,2024-07-17,2304,2300,4.0,9,-0.46,20,-9.2,"Warchol, Kamil",f,2168.0,False,POL,0.5,1,-0.18,20,-3.6

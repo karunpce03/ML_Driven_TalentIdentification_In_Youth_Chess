@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33466319,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1636,1403,1.0,3,0.37,40,14.8,"Abdulla Jassim, Albusmait",,1586.0,False,UAE,0.0,1,-0.26,40,-10.4
+33466319,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1636,1403,1.0,3,0.37,40,14.8,"Reyes, Danilo G.",,1688.0,False,PHI,0.0,1,-0.16,40,-6.4
+33466319,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1636,1403,1.0,3,0.37,40,14.8,"Nimai, Kataria",,1633.0,False,IND,1.0,1,0.79,40,31.6

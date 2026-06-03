@@ -1,0 +1,62 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25697315,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1852,1828,7.5,9,3.24,38,123.12,"Priyanshu, Thakur",,1615.0,False,IND,1.0,1,0.23,38,8.74
+25697315,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1852,1828,7.5,9,3.24,38,123.12,"Gourav, Nigam",,1995.0,False,IND,1.0,1,0.72,38,27.36
+25697315,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1852,1828,7.5,9,3.24,38,123.12,"Sriram, Adarsh Uppala",,2141.0,False,IND,0.0,1,-0.14,38,-5.32
+25697315,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1852,1828,7.5,9,3.24,38,123.12,"Pranay, Chordia",,1796.0,False,IND,0.5,1,-0.04,38,-1.52
+25697315,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1852,1828,7.5,9,3.24,38,123.12,"Jashanpreet, Singh",,1830.0,False,IND,1.0,1,0.5,38,19.0
+25697315,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1852,1828,7.5,9,3.24,38,123.12,"Vigneshwaran, S",,1785.0,False,IND,1.0,1,0.44,38,16.72
+25697315,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1852,1828,7.5,9,3.24,38,123.12,"Rupesh, B Ramchandra",,1819.0,False,IND,1.0,1,0.49,38,18.62
+25697315,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1852,1828,7.5,9,3.24,38,123.12,"Ashutosh, Mohapatra",,1924.0,False,IND,1.0,1,0.63,38,23.94
+25697315,2024-05-01,0,43rd National Team Chess Championship 2023-24,Dharmasala IND,2024-03-29,2024-04-04,1852,1828,7.5,9,3.24,38,123.12,"Bharat, Bansal",,1761.0,False,IND,1.0,1,0.41,38,15.58
+25697315,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1784,1828,7.5,9,2.48,38,94.24,"Kavya, Jain",,1429.0,False,IND,1.0,1,0.08,38,3.04
+25697315,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1784,1828,7.5,9,2.48,38,94.24,"Sarthak, Bathla",,1566.0,False,IND,1.0,1,0.18,38,6.84
+25697315,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1784,1828,7.5,9,2.48,38,94.24,"Arnav, Drolia",,1654.0,False,IND,1.0,1,0.27,38,10.26
+25697315,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1784,1828,7.5,9,2.48,38,94.24,"Ashutosh, Jamwal",,1684.0,False,IND,1.0,1,0.31,38,11.78
+25697315,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1784,1828,7.5,9,2.48,38,94.24,"Singh, Arvinder Preet",f,2061.0,False,IND,1.0,1,0.79,38,30.02
+25697315,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1784,1828,7.5,9,2.48,38,94.24,"Neelash, Saha",m,2228.0,True,IND,0.0,1,-0.08,38,-3.04
+25697315,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1784,1828,7.5,9,2.48,38,94.24,"Aarit, Kapil",,1742.0,False,IND,1.0,1,0.38,38,14.44
+25697315,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1784,1828,7.5,9,2.48,38,94.24,"Saparya, Ghosh",,1760.0,False,IND,0.5,1,-0.09,38,-3.42
+25697315,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1784,1828,7.5,9,2.48,38,94.24,"Kishan, Kumar",,1933.0,False,IND,1.0,1,0.64,38,24.32
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Majji, Ram Charan Teja",,1740.0,False,IND,1.0,1,0.14,40,5.6
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Nirvan, Bhamidi",,1846.0,False,IND,0.5,1,-0.26,40,-10.4
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Atiksh, Thakur",,1843.0,False,IND,0.0,1,-0.76,40,-30.4
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Shreyas, Mishra",,1762.0,False,IND,0.0,1,-0.84,40,-33.6
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Sayyam, Narang",,1645.0,True,IND,1.0,1,0.08,40,3.2
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Vyom, Malhotra",,1806.0,False,IND,0.0,1,-0.8,40,-32.0
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Bhanushali, Neemay",,1736.0,False,IND,1.0,1,0.14,40,5.6
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Divyanshu, Kumar Singh",,1807.0,False,IND,1.0,1,0.2,40,8.0
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Ram, Vishal Parab",,1871.0,False,IND,0.0,1,-0.73,40,-29.2
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Banik, Hrishikesh Kumar",,1796.0,False,IND,0.0,1,-0.81,40,-32.4
+25697315,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1783,2045,5.0,11,-3.98,40,-159.2,"Advik, Singh Chauhan",,1760.0,False,IND,0.5,1,-0.34,40,-13.6
+25697315,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1930,1886,6.5,11,1.46,40,58.4,"Devansh, Mahajan",,1563.0,False,IND,1.0,1,0.13,40,5.2
+25697315,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1930,1886,6.5,11,1.46,40,58.4,"Sourath, Biswas",f,2286.0,True,IND,0.0,1,-0.08,40,-3.2
+25697315,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1930,1886,6.5,11,1.46,40,58.4,"Priyansh, Sahu",,1725.0,False,IND,0.0,1,-0.71,40,-28.4
+25697315,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1930,1886,6.5,11,1.46,40,58.4,"Sivadath, S G",,1656.0,False,IND,1.0,1,0.21,40,8.4
+25697315,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1930,1886,6.5,11,1.46,40,58.4,"Shreyas, Raj",,1729.0,False,IND,0.5,1,-0.21,40,-8.4
+25697315,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1930,1886,6.5,11,1.46,40,58.4,"Hrishikesh, Ganapathy Subramanian",,1756.0,False,IND,1.0,1,0.32,40,12.8
+25697315,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1930,1886,6.5,11,1.46,40,58.4,"Nishant, Abhijeet Jawalkar",,2105.0,False,IND,0.5,1,0.28,40,11.2
+25697315,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1930,1886,6.5,11,1.46,40,58.4,"Mrithyunjay, Mahadevan",c,2073.0,False,IND,1.0,1,0.74,40,29.6
+25697315,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1930,1886,6.5,11,1.46,40,58.4,"Leelajai, Krishna N",,1977.0,False,IND,1.0,1,0.62,40,24.8
+25697315,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1930,1886,6.5,11,1.46,40,58.4,"Samyak, Dharewa",,2074.0,False,IND,0.5,1,0.24,40,9.6
+25697315,2024-10-01,0,53rd National Junior (Under-19) Chess Championship-2024,Kurukshetra IND,2024-09-16,2024-09-24,1930,1886,6.5,11,1.46,40,58.4,"Rohit, S",f,2286.0,True,IND,0.0,1,-0.08,40,-3.2
+25697315,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1834,1944,7.0,11,-0.08,40,-3.2,"Naren, Gupta",,1611.0,False,IND,0.5,1,-0.38,40,-15.2
+25697315,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1834,1944,7.0,11,-0.08,40,-3.2,"Aarth, Siddhesh Shenvi Karapurkar",,1616.0,False,IND,1.0,1,0.13,40,5.2
+25697315,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1834,1944,7.0,11,-0.08,40,-3.2,"Rithwik, Reddy Upparigudam",,1780.0,False,IND,1.0,1,0.28,40,11.2
+25697315,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1834,1944,7.0,11,-0.08,40,-3.2,"Vignesh, Kannan P",,1886.0,False,IND,0.0,1,-0.58,40,-23.2
+25697315,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1834,1944,7.0,11,-0.08,40,-3.2,"Abhinav, Anand",,1807.0,False,IND,1.0,1,0.32,40,12.8
+25697315,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1834,1944,7.0,11,-0.08,40,-3.2,"Shreyas, Raj",,1821.0,False,IND,1.0,1,0.33,40,13.2
+25697315,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1834,1944,7.0,11,-0.08,40,-3.2,"Kathir, Kaman T",,1769.0,False,IND,1.0,1,0.27,40,10.8
+25697315,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1834,1944,7.0,11,-0.08,40,-3.2,"Aakash, G",c,2320.0,False,IND,0.5,1,0.41,40,16.4
+25697315,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1834,1944,7.0,11,-0.08,40,-3.2,"Lalitaditaayyanar, Boominathan",,1884.0,False,IND,0.0,1,-0.58,40,-23.2
+25697315,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1834,1944,7.0,11,-0.08,40,-3.2,"Shashveen, A K",,1866.0,False,IND,0.0,1,-0.61,40,-24.4
+25697315,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1834,1944,7.0,11,-0.08,40,-3.2,"Ramanuj, Mishra",,1816.0,False,IND,1.0,1,0.33,40,13.2
+25697315,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2127,1941,4.5,10,1.72,40,68.8,"Manush, Shah",m,2307.0,False,IND,1.0,1,0.9,40,36.0
+25697315,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2127,1941,4.5,10,1.72,40,68.8,"Budhidharma, Nayaka",m,2325.0,False,INA,0.0,1,-0.09,40,-3.6
+25697315,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2127,1941,4.5,10,1.72,40,68.8,"Midilesh, Ms",,2175.0,False,IND,0.5,1,0.29,40,11.6
+25697315,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2127,1941,4.5,10,1.72,40,68.8,"Vignesh, B",,2195.0,False,IND,0.0,1,-0.19,40,-7.6
+25697315,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2127,1941,4.5,10,1.72,40,68.8,"Rachit, H Gurnani",,2000.0,False,IND,1.0,1,0.58,40,23.2
+25697315,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2127,1941,4.5,10,1.72,40,68.8,"Arpith, S Bijoy",,2064.0,False,IND,0.0,1,-0.33,40,-13.2
+25697315,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2127,1941,4.5,10,1.72,40,68.8,"Liyanage, Pesandu Rashmitha",,1968.0,False,SRI,1.0,1,0.54,40,21.6
+25697315,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2127,1941,4.5,10,1.72,40,68.8,"Sivathanujan, S",,2040.0,False,SRI,1.0,1,0.64,40,25.6
+25697315,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2127,1941,4.5,10,1.72,40,68.8,"Shirliyev, Allayar",,2207.0,False,TKM,0.0,1,-0.18,40,-7.2
+25697315,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat A,Bhubaneswar IND,2024-12-15,2024-12-22,2127,1941,4.5,10,1.72,40,68.8,"Anup, Shankar R",,1986.0,False,IND,0.0,1,-0.44,40,-17.6

@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33459215,2024-07-01,0,WB State U-17 Girls Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1590,1476,3.5,6,1.37,40,54.8,"Maitreyi, Mondal",,1698.0,False,IND,0.5,1,0.28,40,11.2
+33459215,2024-07-01,0,WB State U-17 Girls Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1590,1476,3.5,6,1.37,40,54.8,"Archisha, Dutta",,1464.0,False,IND,1.0,1,0.48,40,19.2
+33459215,2024-07-01,0,WB State U-17 Girls Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1590,1476,3.5,6,1.37,40,54.8,"Kathakali, Dey",,1622.0,False,IND,0.5,1,0.2,40,8.0
+33459215,2024-07-01,0,WB State U-17 Girls Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1590,1476,3.5,6,1.37,40,54.8,"Suravi, Bhattacharya",,1616.0,False,IND,0.5,1,0.19,40,7.6
+33459215,2024-07-01,0,WB State U-17 Girls Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1590,1476,3.5,6,1.37,40,54.8,"Debapriya, Manna",,1719.0,False,IND,0.0,1,-0.2,40,-8.0
+33459215,2024-07-01,0,WB State U-17 Girls Chess Championship-2024,Kolkata IND,2024-06-14,2024-06-17,1590,1476,3.5,6,1.37,40,54.8,"Asmita, Biswas",,1422.0,False,IND,1.0,1,0.42,40,16.8

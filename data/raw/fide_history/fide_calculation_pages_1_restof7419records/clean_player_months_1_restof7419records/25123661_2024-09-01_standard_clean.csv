@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25123661,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1745,1872,6.5,9,0.58,35,20.3,"Hassan, Dekhan",,1517.0,False,IND,1.0,1,0.11,35,3.85
+25123661,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1745,1872,6.5,9,0.58,35,20.3,"Gaurang, Bhandari",,1637.0,False,IND,1.0,1,0.21,35,7.35
+25123661,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1745,1872,6.5,9,0.58,35,20.3,"Alaukik, Sinha",,1687.0,False,IND,1.0,1,0.26,35,9.1
+25123661,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1745,1872,6.5,9,0.58,35,20.3,"Patil, Sudip",,1767.0,False,IND,1.0,1,0.36,35,12.6
+25123661,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1745,1872,6.5,9,0.58,35,20.3,"Potluri, Supreetha",wf,1828.0,False,IND,0.5,1,-0.06,35,-2.1
+25123661,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1745,1872,6.5,9,0.58,35,20.3,"Shounak, Mazumder",,1796.0,False,IND,0.5,1,-0.1,35,-3.5
+25123661,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1745,1872,6.5,9,0.58,35,20.3,"Bhosale, Shriraj",,2056.0,False,IND,0.0,1,-0.26,35,-9.1
+25123661,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1745,1872,6.5,9,0.58,35,20.3,"Om, Dayanand Ramgude",,1709.0,False,IND,0.5,1,-0.22,35,-7.7
+25123661,2024-09-01,0,"UIn Sports : 1st International Open FIDE Rating Chess Tournament, Pune 2024",Pune IND,2024-07-30,2024-08-04,1745,1872,6.5,9,0.58,35,20.3,"Sourav, Suresh",,1707.0,False,IND,1.0,1,0.28,35,9.8
+25123661,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1932,6.5,11,1.67,35,58.45,"Aron, S P",,1639.0,False,IND,1.0,1,0.15,35,5.25
+25123661,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1932,6.5,11,1.67,35,58.45,"Lalit, Babu M R",g,2332.0,True,IND,0.0,1,-0.08,35,-2.8
+25123661,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1932,6.5,11,1.67,35,58.45,"Johan, Jobsy",,1730.0,False,IND,1.0,1,0.24,35,8.4
+25123661,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1932,6.5,11,1.67,35,58.45,"Aditri, Shome",,1739.0,False,IND,1.0,1,0.25,35,8.75
+25123661,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1932,6.5,11,1.67,35,58.45,"Mukund, Hemant Agarwal",,2114.0,False,IND,0.5,1,0.24,35,8.4
+25123661,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1932,6.5,11,1.67,35,58.45,"Rosh, Jain",f,2131.0,False,IND,0.5,1,0.26,35,9.1
+25123661,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1932,6.5,11,1.67,35,58.45,"Abel, Sajan",,2097.0,False,IND,1.0,1,0.72,35,25.2
+25123661,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1932,6.5,11,1.67,35,58.45,"Sammed Jaykumar, Shete",m,2332.0,True,IND,0.0,1,-0.08,35,-2.8
+25123661,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1932,6.5,11,1.67,35,58.45,"Sharma, Dinesh K.",m,2223.0,False,IND,0.0,1,-0.15,35,-5.25
+25123661,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1932,6.5,11,1.67,35,58.45,"Amlan, Mahanta",,1800.0,False,IND,0.5,1,-0.18,35,-6.3
+25123661,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1993,1932,6.5,11,1.67,35,58.45,"Gopalakrishnan, G",,1785.0,False,IND,1.0,1,0.3,35,10.5

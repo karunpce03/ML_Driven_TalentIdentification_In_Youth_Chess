@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48762776,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1695,1627,3.0,6,0.53,40,21.2,"Bharati, Shlok",,1421.0,False,IND,1.0,1,0.24,40,9.6
+48762776,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1695,1627,3.0,6,0.53,40,21.2,"Gada, Om",,1805.0,False,IND,0.5,1,0.23,40,9.2
+48762776,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1695,1627,3.0,6,0.53,40,21.2,"Kush, Ajay Agarwal",,1717.0,False,IND,1.0,1,0.62,40,24.8
+48762776,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1695,1627,3.0,6,0.53,40,21.2,"Mishra, Sanjeev",,1886.0,False,IND,0.0,1,-0.18,40,-7.2
+48762776,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1695,1627,3.0,6,0.53,40,21.2,"Baviskar, Shubham C",,1604.0,False,IND,0.5,1,-0.03,40,-1.2
+48762776,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1695,1627,3.0,6,0.53,40,21.2,"Rudra, Rajeev",,1737.0,False,IND,0.0,1,-0.35,40,-14.0

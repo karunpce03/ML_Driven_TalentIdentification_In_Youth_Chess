@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48761877,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1700,1520,1.0,5,-0.47,40,-18.8,"Abhijith, U",,1803,False,IND,0.0,1,-0.16,40,-6.4
+48761877,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1700,1520,1.0,5,-0.47,40,-18.8,"Swain, Ashirwad",,1920,True,IND,0.0,1,-0.08,40,-3.2
+48761877,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1700,1520,1.0,5,-0.47,40,-18.8,"Bhanushali, Kunj",,1657,False,IND,0.5,1,0.18,40,7.2
+48761877,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1700,1520,1.0,5,-0.47,40,-18.8,"Arijit, Ghosh",,1717,False,IND,0.0,1,-0.25,40,-10.0
+48761877,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1700,1520,1.0,5,-0.47,40,-18.8,"Arihant, Singh",,1401,False,IND,0.5,1,-0.16,40,-6.4

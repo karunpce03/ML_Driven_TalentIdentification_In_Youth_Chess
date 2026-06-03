@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25973398,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1688,1632,5.0,8,1.54,40,61.6,"Sudhanshu, Ranjan",,1939.0,False,IND,1.0,1,0.86,40,34.4
+25973398,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1688,1632,5.0,8,1.54,40,61.6,"Aahil, Patra",,1768.0,False,IND,0.0,1,-0.32,40,-12.8
+25973398,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1688,1632,5.0,8,1.54,40,61.6,"Shatodru, Das",,1476.0,False,IND,1.0,1,0.29,40,11.6
+25973398,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1688,1632,5.0,8,1.54,40,61.6,"Arhashirsha, Biswas",,1735.0,False,IND,0.0,1,-0.36,40,-14.4
+25973398,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1688,1632,5.0,8,1.54,40,61.6,"Arya, Sengupta",,1470.0,False,IND,1.0,1,0.29,40,11.6
+25973398,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1688,1632,5.0,8,1.54,40,61.6,"Anurag, Jaiswal",c,1874.0,False,IND,0.0,1,-0.2,40,-8.0
+25973398,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1688,1632,5.0,8,1.54,40,61.6,"Soumil, Majumdar",,1479.0,False,IND,1.0,1,0.3,40,12.0
+25973398,2024-05-01,0,5th DDDBCA Open FIDE Rating Tournament 2024,Kolkata IND,2024-04-11,2024-04-16,1688,1632,5.0,8,1.54,40,61.6,"Aniket, Narayan Biswas",,1766.0,False,IND,1.0,1,0.68,40,27.2

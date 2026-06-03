@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429004624,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1654,1449,0.5,4,-0.49,40,-19.6,"Muhammad, Shayan Noushad Ibrahim",,1800.0,False,IND,0.0,1,-0.11,40,-4.4
+429004624,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1654,1449,0.5,4,-0.49,40,-19.6,"Dhruv, Gupta",,1642.0,False,IND,0.0,1,-0.25,40,-10.0
+429004624,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1654,1449,0.5,4,-0.49,40,-19.6,"Rohit, Vijay",,1567.0,False,IND,0.5,1,0.16,40,6.4
+429004624,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1654,1449,0.5,4,-0.49,40,-19.6,"Advait, Dhande",,1608.0,False,IND,0.0,1,-0.29,40,-11.6

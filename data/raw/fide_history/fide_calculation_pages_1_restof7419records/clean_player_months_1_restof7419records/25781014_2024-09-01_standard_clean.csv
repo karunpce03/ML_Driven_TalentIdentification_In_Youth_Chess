@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25781014,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1898,1885,6.0,11,0.63,40,25.2,"Vedant, Rajesh",,1574.0,False,IND,1.0,1,0.14,40,5.6
+25781014,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1898,1885,6.0,11,0.63,40,25.2,"Sangma, Rahul",m,2162.0,False,IND,0.5,1,0.33,40,13.2
+25781014,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1898,1885,6.0,11,0.63,40,25.2,"Bajaj, Prakhar",c,2232.0,False,IND,0.5,1,0.39,40,15.6
+25781014,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1898,1885,6.0,11,0.63,40,25.2,"Naveen, Kumar P",,2065.0,False,IND,0.0,1,-0.26,40,-10.4
+25781014,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1898,1885,6.0,11,0.63,40,25.2,"Rithwik, Reddy Upparigudam",,1735.0,False,IND,0.5,1,-0.2,40,-8.0
+25781014,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1898,1885,6.0,11,0.63,40,25.2,"Abel, M S",,1708.0,False,IND,1.0,1,0.27,40,10.8
+25781014,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1898,1885,6.0,11,0.63,40,25.2,"Kiran, Manisha Mohanty",wg,2056.0,False,IND,0.5,1,0.23,40,9.2
+25781014,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1898,1885,6.0,11,0.63,40,25.2,"Rosh, Jain",f,2131.0,False,IND,0.0,1,-0.19,40,-7.6
+25781014,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1898,1885,6.0,11,0.63,40,25.2,"Samarth, Jain",,1769.0,False,IND,0.0,1,-0.66,40,-26.4
+25781014,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1898,1885,6.0,11,0.63,40,25.2,"Talin, Nimpu",,1710.0,False,IND,1.0,1,0.27,40,10.8
+25781014,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1898,1885,6.0,11,0.63,40,25.2,"Majji, Ram Charan Teja",,1740.0,False,IND,1.0,1,0.31,40,12.4

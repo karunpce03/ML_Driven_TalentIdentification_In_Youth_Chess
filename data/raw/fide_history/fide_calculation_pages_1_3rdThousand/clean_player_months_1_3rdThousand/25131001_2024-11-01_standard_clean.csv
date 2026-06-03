@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25131001,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1799,1934,6.0,9,0.05,40,2.0,"Ayaanraj, Kottapally",,1534,True,IND,1.0,1,0.08,40,3.2
+25131001,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1799,1934,6.0,9,0.05,40,2.0,"Kandi, Ravi",,1648,False,IND,1.0,1,0.16,40,6.4
+25131001,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1799,1934,6.0,9,0.05,40,2.0,"Rohan, Kumar Gourabathuni",,1755,False,IND,1.0,1,0.27,40,10.8
+25131001,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1799,1934,6.0,9,0.05,40,2.0,"Suresh, Duvvala",,1795,False,IND,0.5,1,-0.19,40,-7.6
+25131001,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1799,1934,6.0,9,0.05,40,2.0,"Kandi, Santosh Sai Karthik",,1970,False,IND,0.5,1,0.05,40,2.0
+25131001,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1799,1934,6.0,9,0.05,40,2.0,"Ritesh, Maddukuri",,1766,False,IND,0.5,1,-0.22,40,-8.8
+25131001,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1799,1934,6.0,9,0.05,40,2.0,"Pranavasri, S",,1665,False,IND,1.0,1,0.17,40,6.8
+25131001,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1799,1934,6.0,9,0.05,40,2.0,"Jyotshnav, Talukdar",,1894,False,IND,0.5,1,-0.06,40,-2.4
+25131001,2024-11-01,0,Varas International Open FIDE Rating Chess Tournament,Hyderabad IND,2024-10-15,2024-10-19,1799,1934,6.0,9,0.05,40,2.0,"Bharat, Kumar Reddy Poluri",,2163,False,IND,0.0,1,-0.21,40,-8.4

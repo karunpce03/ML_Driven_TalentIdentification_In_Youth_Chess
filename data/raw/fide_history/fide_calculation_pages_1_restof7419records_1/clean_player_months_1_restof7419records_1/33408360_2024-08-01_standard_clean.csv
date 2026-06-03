@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33408360,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1722,1705,5.0,7,1.63,40,65.2,"Aarav, Gupta",,1515.0,False,IND,1.0,1,0.25,40,10.0
+33408360,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1722,1705,5.0,7,1.63,40,65.2,"Bharat, Bansal",,1759.0,False,IND,1.0,1,0.58,40,23.2
+33408360,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1722,1705,5.0,7,1.63,40,65.2,"Arnav, Agrawal",,1933.0,False,IND,1.0,1,0.79,40,31.6
+33408360,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1722,1705,5.0,7,1.63,40,65.2,"Harshit, Singh",,1909.0,False,IND,0.0,1,-0.24,40,-9.6
+33408360,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1722,1705,5.0,7,1.63,40,65.2,"Shreyas, Mishra",,1621.0,False,IND,0.0,1,-0.62,40,-24.8
+33408360,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1722,1705,5.0,7,1.63,40,65.2,"Prabal, Pandey",,1643.0,False,IND,1.0,1,0.41,40,16.4
+33408360,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,1722,1705,5.0,7,1.63,40,65.2,"Sresth, Yadav",,1673.0,False,IND,1.0,1,0.46,40,18.4

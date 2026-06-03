@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45077487,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1601,1705,4.5,6,0.69,40,27.6,"Rajendra, Sawant",,1463.0,False,IND,1.0,1,0.2,40,8.0
+45077487,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1601,1705,4.5,6,0.69,40,27.6,"Mohamed Mahmoud, Omar",,1592.0,False,EGY,0.5,1,-0.15,40,-6.0
+45077487,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1601,1705,4.5,6,0.69,40,27.6,"Sari, Shekfeh",,1580.0,False,SYR,1.0,1,0.33,40,13.2
+45077487,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1601,1705,4.5,6,0.69,40,27.6,"Al Namas, Kanan",,1790.0,False,JOR,0.0,1,-0.38,40,-15.2
+45077487,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1601,1705,4.5,6,0.69,40,27.6,"Hamdan, Hassan Mohammed Hassan",,1587.0,False,UAE,1.0,1,0.34,40,13.6
+45077487,2024-12-01,0,Dubai November Standard Tournament 2024,Dubai UAE,2024-11-15,2024-11-17,1601,1705,4.5,6,0.69,40,27.6,"Advay, Dingari",,1596.0,False,IND,1.0,1,0.35,40,14.0

@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25996037,2024-08-01,0,The Rooky Monthly FIDE Rated - July 2024,Bangkok THA,2024-07-06,2024-07-08,1715,1681,2.5,3,1.15,40,46.0,"Liukasemsarn, Pakornnarong",,1458.0,False,THA,1.0,1,0.22,40,8.8
+25996037,2024-08-01,0,The Rooky Monthly FIDE Rated - July 2024,Bangkok THA,2024-07-06,2024-07-08,1715,1681,2.5,3,1.15,40,46.0,"Brown, Geoffrey M",,1836.0,False,ENG,1.0,1,0.71,40,28.4
+25996037,2024-08-01,0,The Rooky Monthly FIDE Rated - July 2024,Bangkok THA,2024-07-06,2024-07-08,1715,1681,2.5,3,1.15,40,46.0,"Gutsulyak, Nikolay",,1850.0,False,FID,0.5,1,0.22,40,8.8

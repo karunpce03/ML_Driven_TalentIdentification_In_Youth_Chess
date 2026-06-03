@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+46672940,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2287,2188,5.0,9,1.61,20,32.2,"Haubro, Martin",m,2400.0,False,DEN,0.0,1,-0.23,20,-4.6
+46672940,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2287,2188,5.0,9,1.61,20,32.2,"Loftgaard, Mikkel Vinh",c,2246.0,False,DEN,1.0,1,0.58,20,11.6
+46672940,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2287,2188,5.0,9,1.61,20,32.2,"Aczel, Gergely",g,2498.0,False,HUN,0.0,1,-0.14,20,-2.8
+46672940,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2287,2188,5.0,9,1.61,20,32.2,"Brorsen, Jacob Abildlund",,2133.0,False,DEN,1.0,1,0.42,20,8.4
+46672940,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2287,2188,5.0,9,1.61,20,32.2,"Jacobsen, Mikkel Manosri",f,2242.0,False,DEN,0.0,1,-0.42,20,-8.4
+46672940,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2287,2188,5.0,9,1.61,20,32.2,"Gregor, Bjarke",,2082.0,False,DEN,1.0,1,0.36,20,7.2
+46672940,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2287,2188,5.0,9,1.61,20,32.2,"Simonsen, Carsten",,2212.0,False,DEN,1.0,1,0.53,20,10.6
+46672940,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2287,2188,5.0,9,1.61,20,32.2,"Egresi, Mate",f,2377.0,False,HUN,1.0,1,0.75,20,15.0
+46672940,2024-08-01,0,OBRO & CXU International 2024,Copenhagen DEN,2024-07-22,2024-07-28,2287,2188,5.0,9,1.61,20,32.2,"Heimisson, Hilmir Freyr",m,2392.0,False,ISL,0.0,1,-0.24,20,-4.8

@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33408335,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1616,1651,4.5,8,-0.01,40,-0.4,"Viaan, Jai Singh",,1452,False,IND,1.0,1,0.24,40,9.6
+33408335,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1616,1651,4.5,8,-0.01,40,-0.4,"Daksh, Goyal",,2051,True,IND,0.0,1,-0.08,40,-3.2
+33408335,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1616,1651,4.5,8,-0.01,40,-0.4,"Dinesh, Kumar Gupta",,1472,False,IND,1.0,1,0.27,40,10.8
+33408335,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1616,1651,4.5,8,-0.01,40,-0.4,"Aarav, Gupta",,1521,False,IND,0.0,1,-0.68,40,-27.2
+33408335,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1616,1651,4.5,8,-0.01,40,-0.4,"Manish, Kumar",,1488,False,IND,1.0,1,0.28,40,11.2
+33408335,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1616,1651,4.5,8,-0.01,40,-0.4,"Goransh, Goyal",,1529,False,IND,0.5,1,-0.17,40,-6.8
+33408335,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1616,1651,4.5,8,-0.01,40,-0.4,"Viraj, Sharma",,1527,False,IND,1.0,1,0.33,40,13.2
+33408335,2025-03-01,0,New Delhi Open International FIDE Rated Classical Chess Tournament,Delhi IND,2025-01-31,2025-02-04,1616,1651,4.5,8,-0.01,40,-0.4,"Shaurya, Chaudhary",,1890,False,IND,0.0,1,-0.2,40,-8.0

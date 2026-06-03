@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33352771,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1675,1430,2.0,5,0.94,40,37.6,"Hari, Ganesh T",,1830,True,IND,0.0,1,-0.08,40,-3.2
+33352771,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1675,1430,2.0,5,0.94,40,37.6,"Kavin, E",,1744,False,IND,1.0,1,0.86,40,34.4
+33352771,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1675,1430,2.0,5,0.94,40,37.6,"Prahadeesh, Sriram M R",,1567,False,IND,0.0,1,-0.32,40,-12.8
+33352771,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1675,1430,2.0,5,0.94,40,37.6,"Ajith, M.p.",c,1680,False,IND,1.0,1,0.81,40,32.4
+33352771,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1675,1430,2.0,5,0.94,40,37.6,"Mohamed, Thaufiq R",,1552,False,IND,0.0,1,-0.33,40,-13.2

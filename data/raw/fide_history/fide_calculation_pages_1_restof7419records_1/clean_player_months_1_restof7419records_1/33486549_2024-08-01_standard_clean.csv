@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33486549,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1465,1440,0.5,4,-1.37,40,-54.8,"Abhineeth, Bhat",,1562.0,False,IND,0.0,1,-0.33,40,-13.2
+33486549,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1465,1440,0.5,4,-1.37,40,-54.8,"Nischith, Gurukar K",,1457.0,False,IND,0.0,1,-0.48,40,-19.2
+33486549,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1465,1440,0.5,4,-1.37,40,-54.8,"Suvan, S Shenoy",,1435.0,False,IND,0.5,1,-0.01,40,-0.4
+33486549,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1465,1440,0.5,4,-1.37,40,-54.8,"Chayank, Ramesh",,1404.0,False,IND,0.0,1,-0.55,40,-22.0

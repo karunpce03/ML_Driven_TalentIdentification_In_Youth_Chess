@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33474079,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1707,1629,3.5,5,1.45,40,58.0,"Farhan, Fakkih",,1432.0,False,IND,1.0,1,0.25,40,10.0
+33474079,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1707,1629,3.5,5,1.45,40,58.0,"Al Busaidi, Hamood",c,1926.0,False,OMA,0.0,1,-0.15,40,-6.0
+33474079,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1707,1629,3.5,5,1.45,40,58.0,"Al Shukaili, Reem",,1455.0,False,OMA,1.0,1,0.27,40,10.8
+33474079,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1707,1629,3.5,5,1.45,40,58.0,"Hari, Vardan Satheeskumar",,1824.0,False,IND,0.5,1,0.25,40,10.0
+33474079,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1707,1629,3.5,5,1.45,40,58.0,"Al Rahbi, Ahmed Badar",,1900.0,False,OMA,1.0,1,0.83,40,33.2

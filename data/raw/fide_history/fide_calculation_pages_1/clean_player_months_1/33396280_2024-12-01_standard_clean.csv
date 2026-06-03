@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33396280,2024-12-01,0,2024 November Marshall Premier FIDE - U2000,"New York, NY USA",2024-11-01,2024-11-03,1708,1560,0.0,2,-0.61,40,-24.4,"Dubey, Shiv",,1720.0,False,USA,0.0,1,-0.29,40,-11.6
+33396280,2024-12-01,0,2024 November Marshall Premier FIDE - U2000,"New York, NY USA",2024-11-01,2024-11-03,1708,1560,0.0,2,-0.61,40,-24.4,"Su, Milo",,1695.0,False,USA,0.0,1,-0.32,40,-12.8
+33396280,2024-12-01,0,2024 Jeremy Simon Memorial - Marshall CC Amateur Championship,"New York, NY USA",2024-11-22,2024-11-24,1872,1560,0.0,2,-0.28,40,-11.2,"Tao, Jeremy",,1837.0,False,USA,0.0,1,-0.17,40,-6.8
+33396280,2024-12-01,0,2024 Jeremy Simon Memorial - Marshall CC Amateur Championship,"New York, NY USA",2024-11-22,2024-11-24,1872,1560,0.0,2,-0.28,40,-11.2,"Diamond, Colin",,1906.0,False,USA,0.0,1,-0.11,40,-4.4

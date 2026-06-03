@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33320420,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1715,1467,0.0,3,-0.63,40,-25.2,"Srivastava, Y.p.",,1867,True,IND,0.0,1,-0.08,40,-3.2
+33320420,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1715,1467,0.0,3,-0.63,40,-25.2,"Tanmay, Kashyap",,1627,False,IND,0.0,1,-0.29,40,-11.6
+33320420,2025-02-01,0,1st Khelo Chess Academy International Open FIDE Rating Chess Tournament - 2025,Patna IND,2025-01-09,2025-01-13,1715,1467,0.0,3,-0.63,40,-25.2,"Vijay, Kumar Singh",,1650,False,IND,0.0,1,-0.26,40,-10.4

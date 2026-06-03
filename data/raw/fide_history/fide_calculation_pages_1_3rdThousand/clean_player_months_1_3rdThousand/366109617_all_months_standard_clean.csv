@@ -1,0 +1,30 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366109617,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,,,0.0,2,0.0,760,,"Deivadharshan, U",,1615.0,False,IND,0.0,1,0.0,,0.0
+366109617,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,,,0.0,2,0.0,760,,"Sarumathi, S",,1505.0,False,IND,0.0,1,0.0,,0.0
+366109617,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,0.5,5,0.0,1133,,"Nithin, Gowtham",,1571.0,False,IND,0.0,1,0.0,,0.0
+366109617,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,0.5,5,0.0,1133,,"Thulasi, Reddy K",,1520.0,False,IND,0.0,1,0.0,,0.0
+366109617,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,0.5,5,0.0,1133,,"Leah, R Joseph",,1489.0,False,IND,0.0,1,0.0,,0.0
+366109617,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,0.5,5,0.0,1133,,"Tejas, Wadhwani",,1458.0,False,IND,0.5,1,0.0,,0.0
+366109617,2024-06-01,0,Karnataka State Amateur Chess Championship 2024 (Below 2000),Bengaluru IND,2024-05-10,2024-05-12,,,0.5,5,0.0,1133,,"Tandon, Kabir Arjun",,1459.0,False,IND,0.0,1,0.0,,0.0
+366109617,2024-08-01,0,Karnataka State Under 13 Girls Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,,,0.5,4,0.0,1172,,"Yadvithi, M H",,1442.0,False,IND,0.0,1,0.0,,0.0
+366109617,2024-08-01,0,Karnataka State Under 13 Girls Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,,,0.5,4,0.0,1172,,"Nakshatra, Gumudavelly",,1576.0,False,IND,0.5,1,0.0,,0.0
+366109617,2024-08-01,0,Karnataka State Under 13 Girls Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,,,0.5,4,0.0,1172,,"Shradha, S Rai",,1516.0,False,IND,0.0,1,0.0,,0.0
+366109617,2024-08-01,0,Karnataka State Under 13 Girls Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,,,0.5,4,0.0,1172,,"Tanishka, Jain",,1441.0,False,IND,0.0,1,0.0,,0.0
+366109617,2024-09-01,0,Karnataka State Under 19 GIRLS FIDE rating Chess Championship -2024,Hassan IND,2024-08-02,2024-08-04,,,2.5,6,0.0,1454,,"Sinthia, Sarkar",,1742.0,False,IND,0.0,1,0.0,,0.0
+366109617,2024-09-01,0,Karnataka State Under 19 GIRLS FIDE rating Chess Championship -2024,Hassan IND,2024-08-02,2024-08-04,,,2.5,6,0.0,1454,,"Penmetsa, Lakshmi Harshini",,1473.0,False,IND,0.0,1,0.0,,0.0
+366109617,2024-09-01,0,Karnataka State Under 19 GIRLS FIDE rating Chess Championship -2024,Hassan IND,2024-08-02,2024-08-04,,,2.5,6,0.0,1454,,"Penmetsa, Sarvani",,1450.0,False,IND,1.0,1,0.0,,0.0
+366109617,2024-09-01,0,Karnataka State Under 19 GIRLS FIDE rating Chess Championship -2024,Hassan IND,2024-08-02,2024-08-04,,,2.5,6,0.0,1454,,"Yashwitha, M",,1444.0,False,IND,0.5,1,0.0,,0.0
+366109617,2024-09-01,0,Karnataka State Under 19 GIRLS FIDE rating Chess Championship -2024,Hassan IND,2024-08-02,2024-08-04,,,2.5,6,0.0,1454,,"Chetana, Gopalakrishnan",,1491.0,False,IND,0.5,1,0.0,,0.0
+366109617,2024-09-01,0,Karnataka State Under 19 GIRLS FIDE rating Chess Championship -2024,Hassan IND,2024-08-02,2024-08-04,,,2.5,6,0.0,1454,,"Anoushka, Bhatt",,1466.0,False,IND,0.5,1,0.0,,0.0
+366109617,2024-10-01,0,Karnataka State Under 11 Girls FIDE Rated Chess Championship 2024,Belgavi IND,2024-08-30,2024-09-01,1525.0,1540.0,1.5,3,-0.06,40,-2.4,"Rizelle, Alida Dsouza",,1591.0,False,IND,0.0,1,-0.43,40.0,-17.2
+366109617,2024-10-01,0,Karnataka State Under 11 Girls FIDE Rated Chess Championship 2024,Belgavi IND,2024-08-30,2024-09-01,1525.0,1540.0,1.5,3,-0.06,40,-2.4,"Moksha, T",,1414.0,False,IND,0.5,1,-0.17,40.0,-6.8
+366109617,2024-10-01,0,Karnataka State Under 11 Girls FIDE Rated Chess Championship 2024,Belgavi IND,2024-08-30,2024-09-01,1525.0,1540.0,1.5,3,-0.06,40,-2.4,"Aadhya, Krishnavajjala",,1570.0,False,IND,1.0,1,0.54,40.0,21.6
+366109617,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1411.0,1538.0,1.0,1,0.33,40,13.2,"Nesara, Arun Kumar",,1411.0,False,IND,1.0,1,0.33,40.0,13.2
+366109617,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1440.0,1538.0,1.0,1,0.37,40,14.8,"Charushi, B",,1440.0,False,IND,1.0,1,0.37,40.0,14.8
+366109617,2025-03-01,0,Sacred Heart College Alumni Association Second International FIDE Rating Below 1800 Chess Tournament,Tirupattur IND,2025-02-14,2025-02-16,1706.0,1566.0,0.0,1,-0.31,40,-12.4,Kannan.v,,1706.0,False,IND,0.0,1,-0.31,40.0,-12.4
+366109617,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1664.0,1554.0,0.0,6,-2.14,40,-85.6,"Mua, Nasrudin",,1805.0,False,PHI,0.0,1,-0.19,40.0,-7.6
+366109617,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1664.0,1554.0,0.0,6,-2.14,40,-85.6,"Syed, Ijaz Azeem",,1634.0,False,PAK,0.0,1,-0.39,40.0,-15.6
+366109617,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1664.0,1554.0,0.0,6,-2.14,40,-85.6,"Advik, Praveen",,1658.0,False,IND,0.0,1,-0.36,40.0,-14.4
+366109617,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1664.0,1554.0,0.0,6,-2.14,40,-85.6,"Yeganeh Fard, Mohammad",,1757.0,False,IRI,0.0,1,-0.24,40.0,-9.6
+366109617,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1664.0,1554.0,0.0,6,-2.14,40,-85.6,"Zhang, Hanrui",,1566.0,False,CHN,0.0,1,-0.48,40.0,-19.2
+366109617,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1664.0,1554.0,0.0,6,-2.14,40,-85.6,"Kirutesh, Sekar",,1565.0,False,IND,0.0,1,-0.48,40.0,-19.2

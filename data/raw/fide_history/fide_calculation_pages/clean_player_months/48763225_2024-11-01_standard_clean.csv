@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48763225,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1616,1630,3.0,5,0.37,40,14.8,"Mohammed, Junaid Khan",,1431.0,False,IND,1.0,1,0.24,40,9.6
+48763225,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1616,1630,3.0,5,0.37,40,14.8,"Youssef Ahmed, Youssef",,1915.0,False,EGY,0.0,1,-0.16,40,-6.4
+48763225,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1616,1630,3.0,5,0.37,40,14.8,"Novio, Pablo Jr",,1510.0,False,PHI,1.0,1,0.34,40,13.6
+48763225,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1616,1630,3.0,5,0.37,40,14.8,"Alrefae, Ahmad",,1730.0,False,KUW,0.0,1,-0.36,40,-14.4
+48763225,2024-11-01,0,October chess classic Tournament,Kuwait KUW,2024-10-15,2024-10-22,1616,1630,3.0,5,0.37,40,14.8,"Jinay, Ankitbhai Shah",,1492.0,False,IND,1.0,1,0.31,40,12.4

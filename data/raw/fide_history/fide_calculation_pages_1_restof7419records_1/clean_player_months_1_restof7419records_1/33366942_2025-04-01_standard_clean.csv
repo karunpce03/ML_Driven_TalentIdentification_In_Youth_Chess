@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33366942,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1512,1660,3.0,5,-0.46,40,-18.4,"Charan, Napa",,1504.0,False,IND,0.0,1,-0.71,40,-28.4
+33366942,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1512,1660,3.0,5,-0.46,40,-18.4,"Nathanael, Xavier",,1454.0,False,IND,0.0,1,-0.76,40,-30.4
+33366942,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1512,1660,3.0,5,-0.46,40,-18.4,"Sathvika, Umashankar",,1465.0,False,IND,1.0,1,0.25,40,10.0
+33366942,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1512,1660,3.0,5,-0.46,40,-18.4,"Adon, Mulackal Joseph",,1485.0,False,IND,1.0,1,0.27,40,10.8
+33366942,2025-04-01,0,Ramadan Classic Tournament 2025,Kuwait KUW,2025-03-12,2025-03-18,1512,1660,3.0,5,-0.46,40,-18.4,"Mohnish, Balamurugan",,1652.0,False,IND,1.0,1,0.49,40,19.6

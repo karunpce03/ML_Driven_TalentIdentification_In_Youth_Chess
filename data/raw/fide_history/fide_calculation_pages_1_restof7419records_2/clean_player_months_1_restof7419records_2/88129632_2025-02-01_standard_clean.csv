@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88129632,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,1575,1511,0.0,3,-1.26,40,-50.4,"Mysha, Perwez",,1725.0,False,IND,0.0,1,-0.23,40,-9.2
+88129632,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,1575,1511,0.0,3,-1.26,40,-50.4,"Kaveer, Deobhankar",,1441.0,False,IND,0.0,1,-0.6,40,-24.0
+88129632,2025-02-01,0,h2e Power Systems Maharashtra State Amateur FIDE Rating Selection Chess Championship,Mumbai IND,2025-01-11,2025-01-13,1575,1511,0.0,3,-1.26,40,-50.4,"Kagwade, Kaveesh",,1558.0,False,IND,0.0,1,-0.43,40,-17.2

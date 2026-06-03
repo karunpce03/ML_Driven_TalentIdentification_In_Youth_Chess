@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48761869,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1656,1444,1.0,4,0.08,40,3.2,"Pawan, Singh",,1680.0,False,IND,0.0,1,-0.2,40,-8.0
+48761869,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1656,1444,1.0,4,0.08,40,3.2,"Gaurav, Kumar",,1710.0,False,IND,0.0,1,-0.18,40,-7.2
+48761869,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1656,1444,1.0,4,0.08,40,3.2,"Anand, Shekhar",,1602.0,False,IND,1.0,1,0.71,40,28.4
+48761869,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1656,1444,1.0,4,0.08,40,3.2,"Priyadarshi, Alok",,1633.0,False,IND,0.0,1,-0.25,40,-10.0

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25902113,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2117,1932,4.0,11,0.95,40,38.0,"Rybka, Simon",f,2332,True,SVK,0.0,1,-0.08,40,-3.2
+25902113,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2117,1932,4.0,11,0.95,40,38.0,"Pozzari, Simone",f,2276,False,ITA,0.0,1,-0.12,40,-4.8
+25902113,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2117,1932,4.0,11,0.95,40,38.0,"Mankga, Thabang",,1817,False,RSA,1.0,1,0.34,40,13.6
+25902113,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2117,1932,4.0,11,0.95,40,38.0,"Oluka, Robert Mcligeyo",,2050,False,KEN,1.0,1,0.66,40,26.4
+25902113,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2117,1932,4.0,11,0.95,40,38.0,"Smirnov, Mark",c,2203,False,KAZ,0.0,1,-0.17,40,-6.8
+25902113,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2117,1932,4.0,11,0.95,40,38.0,"Radojicic, Aleksandar M",,2088,False,SRB,1.0,1,0.71,40,28.4
+25902113,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2117,1932,4.0,11,0.95,40,38.0,"Md, Imran",f,2180,False,IND,0.0,1,-0.19,40,-7.6
+25902113,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2117,1932,4.0,11,0.95,40,38.0,"Gubatayev, Ahmet",,2055,False,TKM,0.5,1,0.17,40,6.8
+25902113,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2117,1932,4.0,11,0.95,40,38.0,"Kartik, Kumar Singh",,2042,False,IND,0.5,1,0.15,40,6.0
+25902113,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2117,1932,4.0,11,0.95,40,38.0,"Mukund, Hemant Agarwal",,2196,False,IND,0.0,1,-0.18,40,-7.2
+25902113,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2117,1932,4.0,11,0.95,40,38.0,"Mizzi, Jack",c,2051,False,MLT,0.0,1,-0.34,40,-13.6

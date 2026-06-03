@@ -1,0 +1,38 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33483680,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,,,1.0,5,0.0,1256,,"Thanigai, Selvan S",,1544.0,False,IND,0.0,1,0.0,,0.0
+33483680,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,,,1.0,5,0.0,1256,,"Dharun, M",,1415.0,False,IND,1.0,1,0.0,,0.0
+33483680,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,,,1.0,5,0.0,1256,,"Abhishek, Narayana Subramanian",,1498.0,False,IND,0.0,1,0.0,,0.0
+33483680,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,,,1.0,5,0.0,1256,,"Sathiyamithran, V M",,1414.0,False,IND,0.0,1,0.0,,0.0
+33483680,2024-05-01,0,1st Vidhya Sagar International FIDE Rating Open Chess Tournament 2024,Chennai IND,2024-04-25,2024-04-28,,,1.0,5,0.0,1256,,"Sowthish, Kumar K",,1608.0,False,IND,0.0,1,0.0,,0.0
+33483680,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,,,3.0,8,0.0,1368,,"Shaun, Pinto",,1511.0,False,IND,0.0,1,0.0,,0.0
+33483680,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,,,3.0,8,0.0,1368,,"Abhinav, S Kumar",,1479.0,False,IND,0.0,1,0.0,,0.0
+33483680,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,,,3.0,8,0.0,1368,,"Dheekshika, G",,1409.0,False,IND,0.5,1,0.0,,0.0
+33483680,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,,,3.0,8,0.0,1368,,"Mukundhan, Anandakrishnan",,1429.0,False,IND,1.0,1,0.0,,0.0
+33483680,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,,,3.0,8,0.0,1368,,"Vijayakumar, Vidvath Bharadwaj",,1475.0,False,IND,0.5,1,0.0,,0.0
+33483680,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,,,3.0,8,0.0,1368,,"Thashvi, M",,1470.0,False,IND,0.0,1,0.0,,0.0
+33483680,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,,,3.0,8,0.0,1368,,"Anirudh, Anand",,1452.0,False,IND,0.5,1,0.0,,0.0
+33483680,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,,,3.0,8,0.0,1368,,"Lakshana, G",,1412.0,False,IND,0.5,1,0.0,,0.0
+33483680,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1593.0,1452.0,1.5,5,-0.05,40,-2.0,"Krithik, Muthukumar",,1607.0,False,IND,0.0,1,-0.29,40.0,-11.6
+33483680,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1593.0,1452.0,1.5,5,-0.05,40,-2.0,"Srinika, S",,1598.0,False,IND,0.5,1,0.2,40.0,8.0
+33483680,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1593.0,1452.0,1.5,5,-0.05,40,-2.0,"Ananya, Manisundaram",,1587.0,False,IND,0.0,1,-0.32,40.0,-12.8
+33483680,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1593.0,1452.0,1.5,5,-0.05,40,-2.0,"Sai, Krishna V",,1618.0,False,IND,0.0,1,-0.28,40.0,-11.2
+33483680,2024-09-01,0,22nd Adyar Times FIDE Rated Chess Tournament 2024,Chennai IND,2024-08-23,2024-08-26,1593.0,1452.0,1.5,5,-0.05,40,-2.0,"Vidyuth, Bharadwaj V",,1553.0,False,IND,1.0,1,0.64,40.0,25.6
+33483680,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1593.0,1450.0,1.5,5,-0.16,40,-6.4,"Arpan, Das",,1850.0,True,IND,0.0,1,-0.08,40.0,-3.2
+33483680,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1593.0,1450.0,1.5,5,-0.16,40,-6.4,"Srinandhan, A",,1521.0,False,IND,0.0,1,-0.4,40.0,-16.0
+33483680,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1593.0,1450.0,1.5,5,-0.16,40,-6.4,"Nikshith, P",,1402.0,False,IND,1.0,1,0.43,40.0,17.2
+33483680,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1593.0,1450.0,1.5,5,-0.16,40,-6.4,Dharanish,,1582.0,False,IND,0.5,1,0.18,40.0,7.2
+33483680,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1593.0,1450.0,1.5,5,-0.16,40,-6.4,"Arixander, Johny",,1612.0,False,IND,0.0,1,-0.29,40.0,-11.6
+33483680,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1530.0,1444.0,2.0,5,0.08,40,3.2,"Siena, H",,1446.0,False,IND,0.5,1,0.0,40.0,0.0
+33483680,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1530.0,1444.0,2.0,5,0.08,40,3.2,"Vaibhav, Anand",,1583.0,False,IND,0.5,1,0.19,40.0,7.6
+33483680,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1530.0,1444.0,2.0,5,0.08,40,3.2,"Deepthaashri, Ravi Ganesh",,1592.0,False,IND,0.0,1,-0.3,40.0,-12.0
+33483680,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1530.0,1444.0,2.0,5,0.08,40,3.2,"Vishnuram, S",,1541.0,False,IND,0.5,1,0.13,40.0,5.2
+33483680,2025-01-01,0,3rd Zion-Alwin International Fide Rated Open Chess Tournament,Chennai IND,2024-12-05,2024-12-08,1530.0,1444.0,2.0,5,0.08,40,3.2,"Anson, Mano V",,1488.0,False,IND,0.5,1,0.06,40.0,2.4
+33483680,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551.0,1444.0,3.0,9,-0.27,40,-10.8,"Mani, Sarbartho",,1792.0,False,IND,0.0,1,-0.11,40.0,-4.4
+33483680,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551.0,1444.0,3.0,9,-0.27,40,-10.8,"Akshay, Prathab",,1563.0,False,IND,1.0,1,0.66,40.0,26.4
+33483680,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551.0,1444.0,3.0,9,-0.27,40,-10.8,"Nyrav, Gopalakrishnan",,1485.0,False,IND,0.0,1,-0.44,40.0,-17.6
+33483680,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551.0,1444.0,3.0,9,-0.27,40,-10.8,"Patil, Varad Sayaji",,1556.0,False,IND,0.5,1,0.15,40.0,6.0
+33483680,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551.0,1444.0,3.0,9,-0.27,40,-10.8,"Dekate, Devansh Lalit",,1587.0,False,IND,1.0,1,0.69,40.0,27.6
+33483680,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551.0,1444.0,3.0,9,-0.27,40,-10.8,"Saransh, Goel",,1478.0,False,IND,0.0,1,-0.45,40.0,-18.0
+33483680,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551.0,1444.0,3.0,9,-0.27,40,-10.8,"Sairam, Chidambaram Lakshmanan",,1510.0,False,IND,0.0,1,-0.41,40.0,-16.4
+33483680,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551.0,1444.0,3.0,9,-0.27,40,-10.8,"Sayansh, Das",,1412.0,False,IND,0.5,1,-0.04,40.0,-1.6
+33483680,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1551.0,1444.0,3.0,9,-0.27,40,-10.8,"Dakshit, Sodani",,1576.0,False,IND,0.0,1,-0.32,40.0,-12.8

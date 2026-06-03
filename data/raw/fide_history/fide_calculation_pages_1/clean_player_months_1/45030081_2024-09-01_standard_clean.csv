@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45030081,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2386,2286,4.5,9,1.24,40,49.6,"Nitish, Belurkar",m,2432.0,False,IND,0.5,1,0.2,40,8.0
+45030081,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2386,2286,4.5,9,1.24,40,49.6,"Mammadov, Zaur",g,2424.0,False,AZE,0.5,1,0.19,40,7.6
+45030081,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2386,2286,4.5,9,1.24,40,49.6,"Aradhya, Garg",f,2412.0,False,IND,0.5,1,0.17,40,6.8
+45030081,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2386,2286,4.5,9,1.24,40,49.6,"Begmuratov, Khumoyun",m,2416.0,False,UZB,0.0,1,-0.32,40,-12.8
+45030081,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2386,2286,4.5,9,1.24,40,49.6,"Manish, Anto Cristiano F",m,2378.0,False,IND,0.0,1,-0.37,40,-14.8
+45030081,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2386,2286,4.5,9,1.24,40,49.6,"Namitbir, Singh Walia",f,2367.0,False,IND,0.5,1,0.11,40,4.4
+45030081,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2386,2286,4.5,9,1.24,40,49.6,"Tan, Jun Ying",c,2330.0,False,MAS,0.5,1,0.06,40,2.4
+45030081,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2386,2286,4.5,9,1.24,40,49.6,"Jinan, Jomon",,2348.0,False,IND,1.0,1,0.59,40,23.6
+45030081,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2386,2286,4.5,9,1.24,40,49.6,"Kiolbasa, Oliwia",m wm,2367.0,False,POL,1.0,1,0.61,40,24.4

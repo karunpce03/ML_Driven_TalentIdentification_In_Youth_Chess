@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25938380,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2052,1878,4.5,9,2.0,40,80.0,"Vingris, Mikelis",,2147.0,False,LAT,0.0,1,-0.17,40,-6.8
+25938380,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2052,1878,4.5,9,2.0,40,80.0,"Yu, Zechen",,2004.0,False,CHN,1.0,1,0.67,40,26.8
+25938380,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2052,1878,4.5,9,2.0,40,80.0,"Cano Mateos, Pablo",,2067.0,False,ESP,0.0,1,-0.25,40,-10.0
+25938380,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2052,1878,4.5,9,2.0,40,80.0,"Ramos Saavedra, Mario",,1983.0,False,ESP,1.0,1,0.64,40,25.6
+25938380,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2052,1878,4.5,9,2.0,40,80.0,"Bryant, Harry",,1971.0,False,ENG,0.0,1,-0.37,40,-14.8
+25938380,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2052,1878,4.5,9,2.0,40,80.0,"Maklakova, Naomi",wc,2002.0,False,LAT,1.0,1,0.67,40,26.8
+25938380,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2052,1878,4.5,9,2.0,40,80.0,"Valdats, Reinis",,2175.0,False,LAT,0.0,1,-0.15,40,-6.0
+25938380,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2052,1878,4.5,9,2.0,40,80.0,"Adarsh, D",,1987.0,False,IND,0.5,1,0.15,40,6.0
+25938380,2025-02-01,0,XIII Open Internacional Lorca,Lorca (Murcia) ESP,2024-12-26,2024-12-30,2052,1878,4.5,9,2.0,40,80.0,"Lasheras Martinez, Juan Thomas",,2128.0,False,ESP,1.0,1,0.81,40,32.4

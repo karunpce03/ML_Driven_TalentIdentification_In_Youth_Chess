@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25144251,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1678,1940,7.0,8,0.56,40,22.4,"Naman, Yadav",,1540,True,IND,1.0,1,0.08,40,3.2
+25144251,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1678,1940,7.0,8,0.56,40,22.4,"Aviraj, Roy",,1540,True,IND,1.0,1,0.08,40,3.2
+25144251,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1678,1940,7.0,8,0.56,40,22.4,"Khushal, Bagri",,1596,False,IND,1.0,1,0.12,40,4.8
+25144251,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1678,1940,7.0,8,0.56,40,22.4,"Adipto, Nath",,1659,False,IND,1.0,1,0.16,40,6.4
+25144251,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1678,1940,7.0,8,0.56,40,22.4,"Shreyan, Gupta Barman",,1753,False,IND,1.0,1,0.26,40,10.4
+25144251,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1678,1940,7.0,8,0.56,40,22.4,"Abhigyan, Das",,1700,False,IND,1.0,1,0.2,40,8.0
+25144251,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1678,1940,7.0,8,0.56,40,22.4,"Aditya, Kayet",,1801,False,IND,0.5,1,-0.19,40,-7.6
+25144251,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1678,1940,7.0,8,0.56,40,22.4,"Sagnik, Dutta",,1832,False,IND,0.5,1,-0.15,40,-6.0

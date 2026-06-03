@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+537033093,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,,,2.0,6,0.0,1377,,"Barghol, Fatemeh",,1617.0,False,IRI,0.0,1,0.0,,0.0
+537033093,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,,,2.0,6,0.0,1377,,"Apoorva, Rai",,1426.0,False,IND,0.0,1,0.0,,0.0
+537033093,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,,,2.0,6,0.0,1377,,"Al Riyami, Saeed",,1426.0,False,OMA,0.5,1,0.0,,0.0
+537033093,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,,,2.0,6,0.0,1377,,"Sai, Prasath Karthikeyan",,1611.0,False,IND,0.5,1,0.0,,0.0
+537033093,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,,,2.0,6,0.0,1377,,"Sharma, Nitin",,1511.0,False,IND,0.0,1,0.0,,0.0
+537033093,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,,,2.0,6,0.0,1377,,"Al Busaidi, Anwar Ali",,1422.0,False,OMA,1.0,1,0.0,,0.0
+537033093,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1467.0,1490.0,1.0,1,0.47,40,18.8,"Al Maani, Luqman",,1467.0,False,OMA,1.0,1,0.47,40.0,18.8

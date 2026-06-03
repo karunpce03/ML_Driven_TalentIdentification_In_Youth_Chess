@@ -1,0 +1,22 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+537006622,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,9,0.0,1320,,"Ujan, Mandal",,1448.0,False,IND,0.5,1,0.0,,0.0
+537006622,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,9,0.0,1320,,"Dev, Pratap",,1471.0,False,IND,0.0,1,0.0,,0.0
+537006622,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,9,0.0,1320,,"Aarush, Sagar Shinde",,1415.0,False,IND,0.0,1,0.0,,0.0
+537006622,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,9,0.0,1320,,"Yuvan, Raman",,1436.0,False,IND,0.5,1,0.0,,0.0
+537006622,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,9,0.0,1320,,"Rayana, Mayuk",,1433.0,False,IND,1.0,1,0.0,,0.0
+537006622,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,9,0.0,1320,,"Avish, Vishal Shinde",,1475.0,False,IND,0.0,1,0.0,,0.0
+537006622,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,9,0.0,1320,,"Aman, B Judwin",,1446.0,False,IND,0.5,1,0.0,,0.0
+537006622,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,9,0.0,1320,,"Sri, Krishna Vivek Madabushi",,1447.0,False,IND,0.5,1,0.0,,0.0
+537006622,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,3.0,9,0.0,1320,,"Mitesh, M M",,1436.0,False,IND,0.0,1,0.0,,0.0
+537006622,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1541.0,1408.0,2.5,6,0.54,40,21.6,"Sai, Kiran G V",,1688.0,False,IND,0.0,1,-0.16,40.0,-6.4
+537006622,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1541.0,1408.0,2.5,6,0.54,40,21.6,"Sayyadh, Raudah",,1537.0,False,IND,1.0,1,0.67,40.0,26.8
+537006622,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1541.0,1408.0,2.5,6,0.54,40,21.6,"Vemula, Chethan Sagar",,1518.0,False,IND,1.0,1,0.65,40.0,26.0
+537006622,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1541.0,1408.0,2.5,6,0.54,40,21.6,"Mangalapalli, Vidyadhar",,1516.0,False,IND,0.0,1,-0.35,40.0,-14.0
+537006622,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1541.0,1408.0,2.5,6,0.54,40,21.6,"Bhavyesh, Balaji Reddy Mareddy",,1503.0,False,IND,0.5,1,0.13,40.0,5.2
+537006622,2024-12-01,0,Varas International below 1800 FIDE Rating Chess Tournament,Hyderabad IND,2024-11-02,2024-11-04,1541.0,1408.0,2.5,6,0.54,40,21.6,"Shanmukha, Vasudeva Annambhotla",,1481.0,False,IND,0.0,1,-0.4,40.0,-16.0
+537006622,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1560.0,1430.0,1.5,6,-0.47,40,-18.8,"Megh, Parmar",,1605.0,False,IND,0.0,1,-0.27,40.0,-10.8
+537006622,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1560.0,1430.0,1.5,6,-0.47,40,-18.8,"Aaron, Vazhakkottil",,1567.0,False,IND,1.0,1,0.68,40.0,27.2
+537006622,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1560.0,1430.0,1.5,6,-0.47,40,-18.8,"Jowett, Jibin",,1629.0,False,IND,0.0,1,-0.24,40.0,-9.6
+537006622,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1560.0,1430.0,1.5,6,-0.47,40,-18.8,"Siddharth, Pernati",,1536.0,False,IND,0.5,1,0.14,40.0,5.6
+537006622,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1560.0,1430.0,1.5,6,-0.47,40,-18.8,"Agharkar, Shriyans",,1506.0,False,IND,0.0,1,-0.4,40.0,-16.0
+537006622,2025-02-01,0,U 13 Open NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1560.0,1430.0,1.5,6,-0.47,40,-18.8,"Aditya, Gupta",,1518.0,False,IND,0.0,1,-0.38,40.0,-15.2

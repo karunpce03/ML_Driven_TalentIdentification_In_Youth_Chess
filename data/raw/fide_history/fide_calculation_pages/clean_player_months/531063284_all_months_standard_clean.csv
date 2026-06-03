@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531063284,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,,,0.0,5,0.0,736,,"Mishra, Om",,1674.0,False,IND,0.0,1,0.0,,0.0
+531063284,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,,,0.0,5,0.0,736,,"Jayalakshmi, Sahoo",,1551.0,False,IND,0.0,1,0.0,,0.0
+531063284,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,,,0.0,5,0.0,736,,"Amrutansu, Bhatta",,1505.0,False,IND,0.0,1,0.0,,0.0
+531063284,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,,,0.0,5,0.0,736,,"Mohapatra, Hrushikesh",,1485.0,False,IND,0.0,1,0.0,,0.0
+531063284,2024-09-01,0,Odisha State Selection Chess Championship,Dhenkanal IND,2024-07-27,2024-07-31,,,0.0,5,0.0,736,,"Jyotika, Sahoo",,1464.0,False,IND,0.0,1,0.0,,0.0
+531063284,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,,,3.0,7,0.0,1488,,"Rajesh, Kumar Nayak",,1613.0,False,IND,0.5,1,0.0,,0.0
+531063284,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,,,3.0,7,0.0,1488,,"Chandan, Dharai",,1574.0,False,IND,0.5,1,0.0,,0.0
+531063284,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,,,3.0,7,0.0,1488,,"Ekantika, Sarkar",,1497.0,False,IND,0.5,1,0.0,,0.0
+531063284,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,,,3.0,7,0.0,1488,,"Dash, Gagan Behari",,1557.0,False,IND,0.0,1,0.0,,0.0
+531063284,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,,,3.0,7,0.0,1488,,"Asit, Kumar Mohanty",,1532.0,False,IND,0.0,1,0.0,,0.0
+531063284,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,,,3.0,7,0.0,1488,,"Devraj, Senapati",,1488.0,False,IND,1.0,1,0.0,,0.0
+531063284,2024-11-01,0,18th KT Global School International FIDE Rated Chess Tournament 2024,Khordha IND,2024-10-13,2024-10-17,,,3.0,7,0.0,1488,,"Abhinab, Tripathy",,1506.0,False,IND,0.5,1,0.0,,0.0
+531063284,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1583.0,1553.0,4.5,8,0.73,40,29.2,"Shilp, Kumar Ghodeshwar",,1432.0,False,IND,0.0,1,-0.66,40.0,-26.4
+531063284,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1583.0,1553.0,4.5,8,0.73,40,29.2,"Korukonda, Rishitha",,1458.0,False,IND,1.0,1,0.37,40.0,14.8
+531063284,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1583.0,1553.0,4.5,8,0.73,40,29.2,"Subhashish, Barik",,1461.0,False,IND,0.5,1,-0.13,40.0,-5.2
+531063284,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1583.0,1553.0,4.5,8,0.73,40,29.2,"Aadarsh, Mishra",,1444.0,False,IND,1.0,1,0.35,40.0,14.0
+531063284,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1583.0,1553.0,4.5,8,0.73,40,29.2,"Vakcheri, Mohitha",,1797.0,False,IND,0.0,1,-0.2,40.0,-8.0
+531063284,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1583.0,1553.0,4.5,8,0.73,40,29.2,"Parida, Uday",,1458.0,False,IND,1.0,1,0.37,40.0,14.8
+531063284,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1583.0,1553.0,4.5,8,0.73,40,29.2,"Senapaty, Pramod Kumar",,1804.0,False,IND,1.0,1,0.81,40.0,32.4
+531063284,2025-01-01,0,Odisha Open The 15th International GrandMaster Chess Festival 2024-25 Cat B,Bhubaneswar IND,2024-12-15,2024-12-18,1583.0,1553.0,4.5,8,0.73,40,29.2,"Satyam, Prakash",,1813.0,False,IND,0.0,1,-0.18,40.0,-7.2

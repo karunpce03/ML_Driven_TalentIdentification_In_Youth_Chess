@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33442800,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1700,1422,2.0,4,1.31,40,52.4,"Santiago, Reggie Mel",,1822,True,PHI,0.0,1,-0.08,40,-3.2
+33442800,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1700,1422,2.0,4,1.31,40,52.4,"Ahmed, Ali Bamatraf",,1630,False,UAE,1.0,1,0.77,40,30.8
+33442800,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1700,1422,2.0,4,1.31,40,52.4,"Sultan, Ahmed Almheiri",,1652,False,UAE,1.0,1,0.79,40,31.6
+33442800,2024-10-01,0,Think &amp; Plan September 2024 -Standard,Sharjah UAE,2024-09-13,2024-09-15,1700,1422,2.0,4,1.31,40,52.4,"Akhil, Vijayakumar",,1697,False,IND,0.0,1,-0.17,40,-6.8

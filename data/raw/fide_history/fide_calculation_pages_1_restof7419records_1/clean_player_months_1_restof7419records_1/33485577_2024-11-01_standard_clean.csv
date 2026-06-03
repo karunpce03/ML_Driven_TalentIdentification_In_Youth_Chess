@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33485577,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1672,1526,0.0,3,-1.0,40,-40.0,"Dandekar, Amey",,1686.0,False,IND,0.0,1,-0.29,40,-11.6
+33485577,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1672,1526,0.0,3,-1.0,40,-40.0,"Mishra, Sanjeev",,1886.0,False,IND,0.0,1,-0.1,40,-4.0
+33485577,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1672,1526,0.0,3,-1.0,40,-40.0,"Sarvesh, Mahesh Sawant",,1443.0,False,IND,0.0,1,-0.61,40,-24.4

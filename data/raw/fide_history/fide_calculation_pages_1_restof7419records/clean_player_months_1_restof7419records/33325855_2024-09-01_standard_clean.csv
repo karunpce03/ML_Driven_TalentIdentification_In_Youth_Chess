@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33325855,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1923,2010,6.0,10,-0.22,40,-8.8,"Vismay, Sachar",,1724,False,IND,1.0,1,0.16,40,6.4
+33325855,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1923,2010,6.0,10,-0.22,40,-8.8,"Mehul, Sondhi",,1839,False,IND,1.0,1,0.27,40,10.8
+33325855,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1923,2010,6.0,10,-0.22,40,-8.8,"Karthik, Venkataraman",g,2410,True,IND,0.0,1,-0.08,40,-3.2
+33325855,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1923,2010,6.0,10,-0.22,40,-8.8,"Gavi, Siddayya",,1847,False,IND,0.5,1,-0.22,40,-8.8
+33325855,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1923,2010,6.0,10,-0.22,40,-8.8,"Nirvan, Bhamidi",,1846,False,IND,1.0,1,0.28,40,11.2
+33325855,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1923,2010,6.0,10,-0.22,40,-8.8,"Advik, Amit Agrawal",,1859,False,IND,0.5,1,-0.2,40,-8.0
+33325855,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1923,2010,6.0,10,-0.22,40,-8.8,"Mhamane, Sourabh",,1884,False,IND,0.5,1,-0.17,40,-6.8
+33325855,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1923,2010,6.0,10,-0.22,40,-8.8,"Yashad, Bambeshwar",,1873,False,IND,1.0,1,0.32,40,12.8
+33325855,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1923,2010,6.0,10,-0.22,40,-8.8,"Potluri, Supreetha",wf,1826,False,IND,0.5,1,-0.24,40,-9.6
+33325855,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1923,2010,6.0,10,-0.22,40,-8.8,"Koustuv, Dash",,2124,False,IND,0.0,1,-0.34,40,-13.6

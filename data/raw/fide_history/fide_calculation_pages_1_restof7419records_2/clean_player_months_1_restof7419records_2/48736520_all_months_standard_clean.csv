@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48736520,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1736,1484,0.0,5,-1.02,40,-40.8,"Snehaal, Roy",,1815.0,False,IND,0.0,1,-0.12,40,-4.8
+48736520,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1736,1484,0.0,5,-1.02,40,-40.8,"Ayush, Saha",,1717.0,False,IND,0.0,1,-0.21,40,-8.4
+48736520,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1736,1484,0.0,5,-1.02,40,-40.8,"Hasan, Sk. Rashedul",,1884.0,True,BAN,0.0,1,-0.08,40,-3.2
+48736520,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1736,1484,0.0,5,-1.02,40,-40.8,"Anupam, Nath",,1569.0,False,IND,0.0,1,-0.38,40,-15.2
+48736520,2024-07-01,0,2nd Karimganj International FIDE Rating Open Chess Tournament-2024,Karimganj IND,2024-06-22,2024-06-27,1736,1484,0.0,5,-1.02,40,-40.8,"Das, Monaj",,1693.0,False,IND,0.0,1,-0.23,40,-9.2
+48736520,2024-12-01,0,Bihar State Amateur Chess Championship,Muzaffarpur IND,2024-11-21,2024-11-25,1710,1443,0.0,1,-0.18,40,-7.2,"Gaurav, Kumar",,1710.0,False,IND,0.0,1,-0.18,40,-7.2

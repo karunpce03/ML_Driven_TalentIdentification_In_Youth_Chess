@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48763616,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,1.5,5,0.0,1446,,Raghunandan,,1724.0,False,IND,0.0,1,0.0,,0.0
+48763616,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,1.5,5,0.0,1446,,"Bhat, K R",,1556.0,False,IND,0.5,1,0.0,,0.0
+48763616,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,1.5,5,0.0,1446,,"Anagha, Abhinav Krishna",,1672.0,False,IND,1.0,1,0.0,,0.0
+48763616,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,1.5,5,0.0,1446,,"Abhineeth, Bhat",,1530.0,False,IND,0.0,1,0.0,,0.0
+48763616,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,,,1.5,5,0.0,1446,,"Ananya, Ranjithkumar",,1491.0,False,IND,0.0,1,0.0,,0.0
+48763616,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1668.0,1551.0,2.0,4,0.62,40,24.8,"Dilip, Kumar Pedda",,1782.0,False,IND,0.0,1,-0.21,40.0,-8.4
+48763616,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1668.0,1551.0,2.0,4,0.62,40,24.8,"Nayaz, Ahamad",,1674.0,False,IND,1.0,1,0.67,40.0,26.8
+48763616,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1668.0,1551.0,2.0,4,0.62,40,24.8,"Akshaj, Reddy Malgireddy",,1601.0,False,IND,1.0,1,0.57,40.0,22.8
+48763616,2025-01-01,0,Chadurangostava All India Below 1800 FIDE Rated Chess Tournament 2024,Bangalore IND,2024-12-13,2024-12-15,1668.0,1551.0,2.0,4,0.62,40,24.8,"Ruchir, Nadikatla",,1614.0,False,IND,0.0,1,-0.41,40.0,-16.4

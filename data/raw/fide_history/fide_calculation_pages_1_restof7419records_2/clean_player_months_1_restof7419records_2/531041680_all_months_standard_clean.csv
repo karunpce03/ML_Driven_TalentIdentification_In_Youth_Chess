@@ -1,0 +1,14 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531041680,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,,,0.0,2,0.0,655,,"Avichal, Tripathi",,1437.0,False,IND,0.0,1,0.0,,0.0
+531041680,2024-08-01,0,UP State U-19 Chess Championship-2024-  25 (Open),Uttar Pradesh IND,2024-07-04,2024-07-07,,,0.0,2,0.0,655,,"Mann, Agrawal",,1472.0,False,IND,0.0,1,0.0,,0.0
+531041680,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,,,2.0,5,0.0,1403,,"Abhineet, Sinha",,1469.0,False,IND,0.0,1,0.0,,0.0
+531041680,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,,,2.0,5,0.0,1403,,"Manoj, Kumar Kohli",,1454.0,False,IND,1.0,1,0.0,,0.0
+531041680,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,,,2.0,5,0.0,1403,,"Aditya, Wadhawan",,1498.0,False,IND,0.5,1,0.0,,0.0
+531041680,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,,,2.0,5,0.0,1403,,"Aradhy, Roy",,1506.0,False,IND,0.0,1,0.0,,0.0
+531041680,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,,,2.0,5,0.0,1403,,"Viraj, Suneja",,1450.0,False,IND,0.5,1,0.0,,0.0
+531041680,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1689.0,1518.0,1.5,4,0.39,40,15.6,"Sinha, Keshav",,1701.0,False,IND,0.5,1,0.24,40.0,9.6
+531041680,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1689.0,1518.0,1.5,4,0.39,40,15.6,"Raghvendra, Kumar Mishra",,1740.0,False,IND,0.0,1,-0.22,40.0,-8.8
+531041680,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1689.0,1518.0,1.5,4,0.39,40,15.6,"Sharma, Rohit",,1679.0,False,IND,1.0,1,0.71,40.0,28.4
+531041680,2025-02-01,0,1st Skillcraft International below 1800 Classical FIDE Rated Chess Tournament,Delhi IND,2025-01-10,2025-01-12,1689.0,1518.0,1.5,4,0.39,40,15.6,"Vedant, Rajesh",,1636.0,False,IND,0.0,1,-0.34,40.0,-13.6
+531041680,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1433.0,1534.0,1.5,2,0.22,40,8.8,"Vedant, Mishra",,1447.0,False,IND,0.5,1,-0.12,40.0,-4.8
+531041680,2025-04-01,0,UP State U-17 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-21,2025-03-23,1433.0,1534.0,1.5,2,0.22,40,8.8,"Agraarth, Mishra",,1419.0,False,IND,1.0,1,0.34,40.0,13.6

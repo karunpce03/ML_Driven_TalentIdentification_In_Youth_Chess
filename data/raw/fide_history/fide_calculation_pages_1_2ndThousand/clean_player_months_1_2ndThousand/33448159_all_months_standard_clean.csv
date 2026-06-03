@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33448159,2024-05-01,0,Chhattisgarh State U-17 FIDE Rated Chess Championship 2024,Durg IND,2024-04-12,2024-04-14,,,0.0,1,0.0,666,,"Shilp, Kumar Ghodeshwar",,1466.0,False,IND,0.0,1,0.0,,0.0
+33448159,2024-07-01,0,Chhattisgarh State Senior & Women FIDE Rated Chess Championship 2024,Pithora IND,2024-06-07,2024-06-10,,,0.0,1,0.0,768,,"Kanoje, Alok",,1568.0,False,IND,0.0,1,0.0,,0.0
+33448159,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,,,1.5,4,0.0,1422,,"Vanedh, Khatwa",,1522.0,False,IND,0.0,1,0.0,,0.0
+33448159,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,,,1.5,4,0.0,1422,,"Devansh, Jain",,1553.0,False,IND,0.5,1,0.0,,0.0
+33448159,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,,,1.5,4,0.0,1422,,"Alankrit, Singh",,1483.0,False,IND,1.0,1,0.0,,0.0
+33448159,2024-09-01,0,Chhattisgarh State U-15 FIDE Rated Chess Championship 2024,Raipur IND,2024-08-15,2024-08-18,,,1.5,4,0.0,1422,,"Gaurav, Shree Behra",,1477.0,False,IND,0.0,1,0.0,,0.0
+33448159,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,2.0,6,0.0,1395,,"Koli, Anuja Ajitkumar",,1617.0,False,IND,1.0,1,0.0,,0.0
+33448159,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,2.0,6,0.0,1395,,"Srinika, S",,1521.0,False,IND,0.0,1,0.0,,0.0
+33448159,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,2.0,6,0.0,1395,,"Harshika, M",,1510.0,False,IND,0.0,1,0.0,,0.0
+33448159,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,2.0,6,0.0,1395,,"Aarna, Jain",,1545.0,False,IND,0.0,1,0.0,,0.0
+33448159,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,2.0,6,0.0,1395,,"Meha, Arin A",,1462.0,False,IND,0.5,1,0.0,,0.0
+33448159,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,,,2.0,6,0.0,1395,,"Adya, Kalra",,1465.0,False,IND,0.5,1,0.0,,0.0
+33448159,2025-01-01,0,AICF's Smart Girls Project All India Open Fide Rated Chess Tournament- 2024 - Rajnandgaon,Rajnandgaon IND,2024-12-18,2024-12-22,1481.0,1503.0,0.5,1,-0.03,40,-1.2,"Kashvee, Jain",,1481.0,False,IND,0.5,1,-0.03,40.0,-1.2
+33448159,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1682.0,1502.0,3.0,6,1.23,40,49.2,"Modipalli, Deekshitha",wc,1857.0,False,IND,0.0,1,-0.11,40.0,-4.4
+33448159,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1682.0,1502.0,3.0,6,1.23,40,49.2,"Sruthika, Vijayalakshmi R",,1416.0,False,IND,1.0,1,0.38,40.0,15.2
+33448159,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1682.0,1502.0,3.0,6,1.23,40,49.2,"Thashvi, M",,1656.0,False,IND,0.0,1,-0.29,40.0,-11.6
+33448159,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1682.0,1502.0,3.0,6,1.23,40,49.2,"Rituparna, V",,1513.0,False,IND,1.0,1,0.52,40.0,20.8
+33448159,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1682.0,1502.0,3.0,6,1.23,40,49.2,"Vitasta, Koul",,1779.0,False,IND,1.0,1,0.83,40.0,33.2
+33448159,2025-02-01,0,U 13 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1682.0,1502.0,3.0,6,1.23,40,49.2,"Maitreyi, Mondal",,1870.0,False,IND,0.0,1,-0.1,40.0,-4.0

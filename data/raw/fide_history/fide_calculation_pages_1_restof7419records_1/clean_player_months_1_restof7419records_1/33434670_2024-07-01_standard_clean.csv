@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33434670,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,1967,1632,3.0,9,1.88,40,75.2,"Doraszelski, Alexander",,2032,True,GER,0.0,1,-0.08,40,-3.2
+33434670,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,1967,1632,3.0,9,1.88,40,75.2,"Hadraba, Vladimir",,1946,False,CZE,0.5,1,0.36,40,14.4
+33434670,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,1967,1632,3.0,9,1.88,40,75.2,"Svobodova, Michaela",wf,1951,False,CZE,0.5,1,0.37,40,14.8
+33434670,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,1967,1632,3.0,9,1.88,40,75.2,"Hansel, Rainer",,1956,False,GER,0.0,1,-0.13,40,-5.2
+33434670,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,1967,1632,3.0,9,1.88,40,75.2,"Laska, Vaclav",,1899,False,CZE,1.0,1,0.82,40,32.8
+33434670,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,1967,1632,3.0,9,1.88,40,75.2,"Verner, Matej",,2032,True,CZE,0.0,1,-0.08,40,-3.2
+33434670,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,1967,1632,3.0,9,1.88,40,75.2,"Pospichal, Michael",,1930,False,CZE,1.0,1,0.85,40,34.0
+33434670,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,1967,1632,3.0,9,1.88,40,75.2,"Erlandsen, Carsten",,2032,True,DEN,0.0,1,-0.08,40,-3.2
+33434670,2024-07-01,0,Teplice Open 2024,Teplice CZE,2024-06-15,2024-06-23,1967,1632,3.0,9,1.88,40,75.2,"Kalina, Jiri",,1926,False,CZE,0.0,1,-0.15,40,-6.0

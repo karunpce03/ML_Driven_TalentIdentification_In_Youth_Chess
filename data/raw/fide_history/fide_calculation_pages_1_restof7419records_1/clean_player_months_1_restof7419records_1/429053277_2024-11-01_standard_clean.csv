@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429053277,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1640,1520,0.0,3,-1.02,40,-40.8,"Rudra, Rajeev",,1737.0,False,IND,0.0,1,-0.22,40,-8.8
+429053277,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1640,1520,0.0,3,-1.02,40,-40.8,"Agharkar, Shriyans",,1612.0,False,IND,0.0,1,-0.37,40,-14.8
+429053277,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1640,1520,0.0,3,-1.02,40,-40.8,"Tahilianey, Dhruv",,1572.0,False,IND,0.0,1,-0.43,40,-17.2

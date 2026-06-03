@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25910108,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1586,1681,5.5,11,-1.41,40,-56.4,"Nimmy, A.g.",wf,2081,True,IND,0.0,1,-0.08,40,-3.2
+25910108,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1586,1681,5.5,11,-1.41,40,-56.4,"Sinha, Pari",,1462,False,IND,0.0,1,-0.78,40,-31.2
+25910108,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1586,1681,5.5,11,-1.41,40,-56.4,"Anagha, Yardi",,1467,False,IND,1.0,1,0.23,40,9.2
+25910108,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1586,1681,5.5,11,-1.41,40,-56.4,"Kaaviyasree, Kannan",,1455,False,IND,0.5,1,-0.29,40,-11.6
+25910108,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1586,1681,5.5,11,-1.41,40,-56.4,"Sharon, Rachel Aby",,1472,False,IND,1.0,1,0.23,40,9.2
+25910108,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1586,1681,5.5,11,-1.41,40,-56.4,"Rout, Yashita",,1791,False,IND,0.0,1,-0.35,40,-14.0
+25910108,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1586,1681,5.5,11,-1.41,40,-56.4,"Leela, Maheswari B",,1441,False,IND,1.0,1,0.2,40,8.0
+25910108,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1586,1681,5.5,11,-1.41,40,-56.4,"Bhillva, Nilaya Kondari Eswara Kr",wc,1877,False,IND,0.0,1,-0.25,40,-10.0
+25910108,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1586,1681,5.5,11,-1.41,40,-56.4,"Sanchee, Sahoo",,1465,False,IND,0.0,1,-0.78,40,-31.2
+25910108,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1586,1681,5.5,11,-1.41,40,-56.4,"Hiya, Garg",,1485,False,IND,1.0,1,0.25,40,10.0
+25910108,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1586,1681,5.5,11,-1.41,40,-56.4,"Mahisha, Prathab",,1455,False,IND,1.0,1,0.21,40,8.4

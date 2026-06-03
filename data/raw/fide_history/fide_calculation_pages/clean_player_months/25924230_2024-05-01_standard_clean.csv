@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25924230,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1741,6.0,10,0.62,40,24.8,"Julien, Liju James",,1453,False,IND,1.0,1,0.16,40,6.4
+25924230,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1741,6.0,10,0.62,40,24.8,"Shravan, Balram",,1574,False,IND,1.0,1,0.28,40,11.2
+25924230,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1741,6.0,10,0.62,40,24.8,"Sekar, B",f,2141,True,IND,0.5,1,0.42,40,16.8
+25924230,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1741,6.0,10,0.62,40,24.8,"Prudhvi, Kumar V",,2139,False,IND,0.0,1,-0.08,40,-3.2
+25924230,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1741,6.0,10,0.62,40,24.8,"Venkata, Naga Karthik Malladi",,1594,False,IND,1.0,1,0.3,40,12.0
+25924230,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1741,6.0,10,0.62,40,24.8,"Kabir, Jeirath",,1591,False,IND,1.0,1,0.3,40,12.0
+25924230,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1741,6.0,10,0.62,40,24.8,"Mrithyunjay, Mahadevan",c,1932,False,IND,0.0,1,-0.25,40,-10.0
+25924230,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1741,6.0,10,0.62,40,24.8,"Aaditya, Ranjan Sahu",,1619,False,IND,0.0,1,-0.67,40,-26.8
+25924230,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1741,6.0,10,0.62,40,24.8,"Yashmith, Ram Chaikam",,1599,False,KEN,1.0,1,0.31,40,12.4
+25924230,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1728,1741,6.0,10,0.62,40,24.8,"Siva, Adithyan S",,1633,False,IND,0.5,1,-0.15,40,-6.0

@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48742848,2025-03-01,0,Star Chess Foundation 1st International Open FIDE Rating Chess Tournament Trichy - 2024,Trichy IND,2025-02-08,2025-02-11,1668,1467,0.0,3,-0.72,40,-28.8,"Manikandan, Tayalan",,1694.0,False,IND,0.0,1,-0.21,40,-8.4
+48742848,2025-03-01,0,Star Chess Foundation 1st International Open FIDE Rating Chess Tournament Trichy - 2024,Trichy IND,2025-02-08,2025-02-11,1668,1467,0.0,3,-0.72,40,-28.8,"Balamurugan, Senthilkumar",,1632.0,False,IND,0.0,1,-0.28,40,-11.2
+48742848,2025-03-01,0,Star Chess Foundation 1st International Open FIDE Rating Chess Tournament Trichy - 2024,Trichy IND,2025-02-08,2025-02-11,1668,1467,0.0,3,-0.72,40,-28.8,"Ineyan, M R",,1679.0,False,IND,0.0,1,-0.23,40,-9.2

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366101510,2025-02-01,0,2024 15th Calgary International Under 2000,"Calgary, Alberta CAN",2024-12-28,2024-12-30,1684,1647,5.0,6,2.31,40,92.4,"Verma, Audvik",,1666.0,False,CAN,1.0,1,0.53,40,21.2
+366101510,2025-02-01,0,2024 15th Calgary International Under 2000,"Calgary, Alberta CAN",2024-12-28,2024-12-30,1684,1647,5.0,6,2.31,40,92.4,"Wang, April",,1610.0,False,CAN,0.5,1,-0.05,40,-2.0
+366101510,2025-02-01,0,2024 15th Calgary International Under 2000,"Calgary, Alberta CAN",2024-12-28,2024-12-30,1684,1647,5.0,6,2.31,40,92.4,"Lodhi, Talha",,1617.0,False,CAN,1.0,1,0.46,40,18.4
+366101510,2025-02-01,0,2024 15th Calgary International Under 2000,"Calgary, Alberta CAN",2024-12-28,2024-12-30,1684,1647,5.0,6,2.31,40,92.4,"Lai, Zhihui",,1714.0,False,CAN,1.0,1,0.59,40,23.6
+366101510,2025-02-01,0,2024 15th Calgary International Under 2000,"Calgary, Alberta CAN",2024-12-28,2024-12-30,1684,1647,5.0,6,2.31,40,92.4,"Ramalho, David",,1810.0,False,CAN,1.0,1,0.72,40,28.8
+366101510,2025-02-01,0,2024 15th Calgary International Under 2000,"Calgary, Alberta CAN",2024-12-28,2024-12-30,1684,1647,5.0,6,2.31,40,92.4,"Xu, Michael",,1687.0,False,CAN,0.5,1,0.06,40,2.4
+366101510,2025-02-01,0,2025 Schleinich Memorial Sectional B,"Calgary, Alberta CAN",2025-01-10,2025-01-12,1701,1695,2.5,4,0.53,40,21.2,"Thomson, Zachary",,1634.0,False,CAN,1.0,1,0.42,40,16.8
+366101510,2025-02-01,0,2025 Schleinich Memorial Sectional B,"Calgary, Alberta CAN",2025-01-10,2025-01-12,1701,1695,2.5,4,0.53,40,21.2,"Xu, Michael",,1719.0,False,CAN,0.5,1,0.03,40,1.2
+366101510,2025-02-01,0,2025 Schleinich Memorial Sectional B,"Calgary, Alberta CAN",2025-01-10,2025-01-12,1701,1695,2.5,4,0.53,40,21.2,"Vickers, Josh",,1676.0,False,CAN,0.5,1,-0.03,40,-1.2
+366101510,2025-02-01,0,2025 Schleinich Memorial Sectional B,"Calgary, Alberta CAN",2025-01-10,2025-01-12,1701,1695,2.5,4,0.53,40,21.2,"Sembrano, Joshua",,1775.0,False,CAN,0.5,1,0.11,40,4.4

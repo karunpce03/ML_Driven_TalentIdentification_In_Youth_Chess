@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33410810,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1548,1554,4.0,7,0.38,40,15.2,"Ishaan, A Tendolkar",,1733.0,False,IND,0.0,1,-0.27,40,-10.8
+33410810,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1548,1554,4.0,7,0.38,40,15.2,"Amogh, Desai",,1470.0,False,IND,1.0,1,0.38,40,15.2
+33410810,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1548,1554,4.0,7,0.38,40,15.2,"Kapadi, Yash",,1810.0,False,IND,0.0,1,-0.19,40,-7.6
+33410810,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1548,1554,4.0,7,0.38,40,15.2,"Bharati, Shlok",,1445.0,False,IND,1.0,1,0.35,40,14.0
+33410810,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1548,1554,4.0,7,0.38,40,15.2,"Arin, Amogh Bhatavadekar",,1410.0,False,IND,0.0,1,-0.69,40,-27.6
+33410810,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1548,1554,4.0,7,0.38,40,15.2,"Thakkar, Kairav",,1469.0,False,IND,1.0,1,0.38,40,15.2
+33410810,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1548,1554,4.0,7,0.38,40,15.2,"Rishi, Desai",,1496.0,False,IND,1.0,1,0.42,40,16.8

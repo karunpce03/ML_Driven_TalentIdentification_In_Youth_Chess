@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25704281,2024-05-01,0,5th Colonial Open - U2100,"Dulles, VA USA",2024-03-28,2024-03-31,,,2.5,5,0.0,1683,,"Verma, Angelina",,1733.0,False,USA,0.5,1,0.0,,0.0
+25704281,2024-05-01,0,5th Colonial Open - U2100,"Dulles, VA USA",2024-03-28,2024-03-31,,,2.5,5,0.0,1683,,"Chong, Hanford",,1733.0,False,USA,0.5,1,0.0,,0.0
+25704281,2024-05-01,0,5th Colonial Open - U2100,"Dulles, VA USA",2024-03-28,2024-03-31,,,2.5,5,0.0,1683,,"Godlaveti, Pracheth",,1743.0,False,USA,0.0,1,0.0,,0.0
+25704281,2024-05-01,0,5th Colonial Open - U2100,"Dulles, VA USA",2024-03-28,2024-03-31,,,2.5,5,0.0,1683,,"Ayithi, Yashaswini",,1605.0,False,USA,1.0,1,0.0,,0.0
+25704281,2024-05-01,0,5th Colonial Open - U2100,"Dulles, VA USA",2024-03-28,2024-03-31,,,2.5,5,0.0,1683,,"Whitaker, Robert D",,1599.0,False,USA,0.5,1,0.0,,0.0
+25704281,2025-01-01,0,55th Annual National Chess Congress - U2000,"Philadelphia, PA USA",2024-11-29,2024-12-01,1590.0,1716.0,0.5,1,-0.17,40,-6.8,"Birudavolu, Sathvik",,1590.0,False,USA,0.5,1,-0.17,40.0,-6.8
+25704281,2025-02-01,0,57th annual Liberty Bell Open - U2100,"Philadelphia, PA USA",2025-01-17,2025-01-20,1787.0,1709.0,2.0,3,0.78,40,31.2,"Torrens, Jude Bae",,1976.0,False,USA,1.0,1,0.82,40.0,32.8
+25704281,2025-02-01,0,57th annual Liberty Bell Open - U2100,"Philadelphia, PA USA",2025-01-17,2025-01-20,1787.0,1709.0,2.0,3,0.78,40,31.2,"Vinayak, Vedh",,1582.0,False,ENG,0.5,1,-0.17,40.0,-6.8
+25704281,2025-02-01,0,57th annual Liberty Bell Open - U2100,"Philadelphia, PA USA",2025-01-17,2025-01-20,1787.0,1709.0,2.0,3,0.78,40,31.2,"Shin, Luke",,1803.0,False,USA,0.5,1,0.13,40.0,5.2

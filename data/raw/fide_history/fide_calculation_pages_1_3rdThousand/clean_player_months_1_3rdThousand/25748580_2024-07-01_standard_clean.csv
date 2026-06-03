@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25748580,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2141,2180,5.5,11,-0.5,20,-10.0,"Brugette, Romain",,1780,True,MRI,1.0,1,0.08,20,1.6
+25748580,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2141,2180,5.5,11,-0.5,20,-10.0,"Prraneeth, Vuppala",c,2436,False,IND,0.0,1,-0.19,20,-3.8
+25748580,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2141,2180,5.5,11,-0.5,20,-10.0,"Mrithyunjay, Mahadevan",c,1867,False,IND,0.5,1,-0.36,20,-7.2
+25748580,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2141,2180,5.5,11,-0.5,20,-10.0,"Gharibyan, Mamikon",g,2492,False,ARM,0.0,1,-0.14,20,-2.8
+25748580,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2141,2180,5.5,11,-0.5,20,-10.0,"Sureka, Akshat",,1972,False,IND,1.0,1,0.23,20,4.6
+25748580,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2141,2180,5.5,11,-0.5,20,-10.0,"Keleberda, Tymur",f,2223,False,CAN,0.5,1,0.06,20,1.2
+25748580,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2141,2180,5.5,11,-0.5,20,-10.0,"Arshpreet, Singh",,1932,False,IND,1.0,1,0.19,20,3.8
+25748580,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2141,2180,5.5,11,-0.5,20,-10.0,"Wafa, Hamed",m,2396,False,EGY,0.0,1,-0.22,20,-4.4
+25748580,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2141,2180,5.5,11,-0.5,20,-10.0,"Jain, Kushagra",,1996,False,IND,1.0,1,0.26,20,5.2
+25748580,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2141,2180,5.5,11,-0.5,20,-10.0,"Fromm, Marius",f,2465,False,GER,0.0,1,-0.16,20,-3.2
+25748580,2024-07-01,0,FIDE World Junior Open Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,2141,2180,5.5,11,-0.5,20,-10.0,"Kuandykuly, Danis",,1989,False,KAZ,0.5,1,-0.25,20,-5.0

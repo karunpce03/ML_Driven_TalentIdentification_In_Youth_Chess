@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33397724,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1623,1511,1.5,5,-0.37,40,-14.8,"Pragnya, H G",wf,1900.0,False,IND,0.0,1,-0.09,40,-3.6
+33397724,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1623,1511,1.5,5,-0.37,40,-14.8,"Ananya, Manisundaram",,1621.0,False,IND,0.5,1,0.15,40,6.0
+33397724,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1623,1511,1.5,5,-0.37,40,-14.8,"Tharunika, G",,1695.0,False,IND,0.0,1,-0.26,40,-10.4
+33397724,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1623,1511,1.5,5,-0.37,40,-14.8,"Isha, R",,1456.0,False,IND,0.0,1,-0.58,40,-23.2
+33397724,2024-05-01,0,Tamil Nadu State Women Chess Championship 2024,Kovilpatti IND,2024-04-24,2024-04-28,1623,1511,1.5,5,-0.37,40,-14.8,"Sri, Deepa Devi",,1445.0,False,IND,1.0,1,0.41,40,16.4

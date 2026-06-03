@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33460710,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1706,1435,0.0,3,-0.58,40,-23.2,"Swarna, Nihal",,1835.0,True,IND,0.0,1,-0.08,40,-3.2
+33460710,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1706,1435,0.0,3,-0.58,40,-23.2,"Debayan, Ray",,1737.0,False,IND,0.0,1,-0.15,40,-6.0
+33460710,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1706,1435,0.0,3,-0.58,40,-23.2,"Akella, Sankalparuthvik",,1546.0,False,IND,0.0,1,-0.35,40,-14.0
+33460710,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1557,1435,2.0,6,0.0,40,0.0,"Yashmith, Ram Chaikam",,1569.0,False,KEN,1.0,1,0.68,40,27.2
+33460710,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1557,1435,2.0,6,0.0,40,0.0,"Subba, Raju S.",,1616.0,False,IND,0.0,1,-0.26,40,-10.4
+33460710,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1557,1435,2.0,6,0.0,40,0.0,"Shantharam, K",,1534.0,False,IND,0.0,1,-0.36,40,-14.4
+33460710,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1557,1435,2.0,6,0.0,40,0.0,"Akella, Sankalparuthvik",,1546.0,False,IND,1.0,1,0.65,40,26.0
+33460710,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1557,1435,2.0,6,0.0,40,0.0,"Yasaswini, Animi",,1543.0,False,IND,0.0,1,-0.35,40,-14.0
+33460710,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1557,1435,2.0,6,0.0,40,0.0,"Dhirendra, Kumar Das",,1536.0,False,IND,0.0,1,-0.36,40,-14.4

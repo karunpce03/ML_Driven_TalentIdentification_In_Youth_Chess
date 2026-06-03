@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429040060,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1624,1486,1.5,4,0.18,40,7.2,"Kapadi, Yash",,1818.0,False,IND,0.0,1,-0.12,40,-4.8
+429040060,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1624,1486,1.5,4,0.18,40,7.2,"Sharman, Amartya",,1455.0,False,IND,1.0,1,0.46,40,18.4
+429040060,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1624,1486,1.5,4,0.18,40,7.2,"Geetesh, Mishra",,1646.0,False,IND,0.5,1,0.21,40,8.4
+429040060,2024-11-01,0,SMCA Chess School 1st All India FIDE Rating Chess Tournament,Mumbai IND,2024-10-11,2024-10-16,1624,1486,1.5,4,0.18,40,7.2,"Sunil, Vaidya",,1578.0,False,IND,0.0,1,-0.37,40,-14.8
+429040060,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1638,1493,1.0,4,-0.23,40,-9.2,"Bhosale, Saarth",,1711.0,False,IND,0.0,1,-0.22,40,-8.8
+429040060,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1638,1493,1.0,4,-0.23,40,-9.2,"Parv, H Hakani",,1601.0,False,IND,1.0,1,0.65,40,26.0
+429040060,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1638,1493,1.0,4,-0.23,40,-9.2,"Tvesha, Ashish Jain",,1642.0,False,IND,0.0,1,-0.3,40,-12.0
+429040060,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1638,1493,1.0,4,-0.23,40,-9.2,"Akshay, Kumar",,1596.0,False,IND,0.0,1,-0.36,40,-14.4

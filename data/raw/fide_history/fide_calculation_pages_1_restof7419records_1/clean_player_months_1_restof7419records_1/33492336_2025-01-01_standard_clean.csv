@@ -1,0 +1,2 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33492336,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1832,1496,0.0,1,-0.12,40,-4.8,"Swastik, Sourav Mishra",,1832.0,False,IND,0.0,1,-0.12,40,-4.8

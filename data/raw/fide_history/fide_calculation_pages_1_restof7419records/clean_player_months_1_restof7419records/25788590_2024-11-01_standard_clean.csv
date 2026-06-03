@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25788590,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1712,1560,0.0,4,-1.2,40,-48.0,"Shrivastava, Kushagra",,1772.0,False,IND,0.0,1,-0.23,40,-9.2
+25788590,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1712,1560,0.0,4,-1.2,40,-48.0,"D, Souza Kevin",,1705.0,False,IND,0.0,1,-0.31,40,-12.4
+25788590,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1712,1560,0.0,4,-1.2,40,-48.0,"Aadish, Shah",,1695.0,False,IND,0.0,1,-0.32,40,-12.8
+25788590,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1712,1560,0.0,4,-1.2,40,-48.0,"Mandloi, Mukesh",,1675.0,False,IND,0.0,1,-0.34,40,-13.6

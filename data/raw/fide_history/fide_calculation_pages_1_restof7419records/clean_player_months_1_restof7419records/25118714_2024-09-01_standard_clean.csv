@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25118714,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1539,1793,5.0,7,-0.62,40,-24.8,"Pranav, Agrawal",,1404.0,False,IND,0.0,1,-0.91,40,-36.4
+25118714,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1539,1793,5.0,7,-0.62,40,-24.8,"Kalgaonkar, S",,1467.0,False,IND,1.0,1,0.13,40,5.2
+25118714,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1539,1793,5.0,7,-0.62,40,-24.8,"Wahane, Spandan",,1589.0,False,IND,0.5,1,-0.26,40,-10.4
+25118714,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1539,1793,5.0,7,-0.62,40,-24.8,"Ashay, Paturkar",,1487.0,False,IND,1.0,1,0.14,40,5.6
+25118714,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1539,1793,5.0,7,-0.62,40,-24.8,"Arun, Kumar G",,1579.0,False,IND,1.0,1,0.23,40,9.2
+25118714,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1539,1793,5.0,7,-0.62,40,-24.8,"Gaigore, Sanskar",,1639.0,False,IND,0.5,1,-0.21,40,-8.4
+25118714,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1539,1793,5.0,7,-0.62,40,-24.8,"Roy, Anand",,1608.0,False,IND,1.0,1,0.26,40,10.4

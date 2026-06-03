@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531013791,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1424,1535,2.0,3,0.05,40,2.0,"Penmetsa, Sarvani",,1414.0,False,IND,0.0,1,-0.66,40,-26.4
+531013791,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1424,1535,2.0,3,0.05,40,2.0,"Muneeswari, G",,1405.0,False,IND,1.0,1,0.32,40,12.8
+531013791,2024-11-01,0,37th National Under-11 Girls Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1424,1535,2.0,3,0.05,40,2.0,"Kanishka, M",,1453.0,False,IND,1.0,1,0.39,40,15.6

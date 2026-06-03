@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33479011,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1654,1649,5.5,8,1.52,40,60.8,"Prabhu, S",,1458.0,False,IND,1.0,1,0.25,40,10.0
+33479011,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1654,1649,5.5,8,1.52,40,60.8,"Priyan, J",,1521.0,False,IND,1.0,1,0.33,40,13.2
+33479011,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1654,1649,5.5,8,1.52,40,60.8,"Ashwin, Sairam",,1737.0,False,IND,0.0,1,-0.38,40,-15.2
+33479011,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1654,1649,5.5,8,1.52,40,60.8,"Pranav, V B",,1515.0,False,IND,1.0,1,0.32,40,12.8
+33479011,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1654,1649,5.5,8,1.52,40,60.8,"Siddarth, S J",,1488.0,False,IND,1.0,1,0.29,40,11.6
+33479011,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1654,1649,5.5,8,1.52,40,60.8,"Kishore, V",,1750.0,False,IND,1.0,1,0.64,40,25.6
+33479011,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1654,1649,5.5,8,1.52,40,60.8,"Sivan, S Roshan",,1798.0,False,IND,0.5,1,0.2,40,8.0
+33479011,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1654,1649,5.5,8,1.52,40,60.8,"Dinesh, Rajan M",,1967.0,False,IND,0.0,1,-0.13,40,-5.2
+33479011,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1582,1649,0.0,3,-1.76,40,-70.4,"Abhijith, U",,1827.0,False,IND,0.0,1,-0.27,40,-10.8
+33479011,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1582,1649,0.0,3,-1.76,40,-70.4,"Thushar, Varma D",,1488.0,False,IND,0.0,1,-0.71,40,-28.4
+33479011,2024-06-01,0,61st Kerala State FIDE Rated Chess Championship 2024,Thiruvanthapuram IND,2024-05-10,2024-05-13,1582,1649,0.0,3,-1.76,40,-70.4,"Leo, Sanish",,1432.0,False,IND,0.0,1,-0.78,40,-31.2

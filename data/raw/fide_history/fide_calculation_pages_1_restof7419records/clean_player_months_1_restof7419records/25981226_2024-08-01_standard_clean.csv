@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25981226,2024-08-01,0,Wimbledon FIDE Congress June 2024 - U2000,London ENG,2024-06-28,2024-06-29,1752,1727,2.0,4,0.12,36,4.32,"Josiah, Oliver",,1658.0,False,ENG,1.0,1,0.4,36,14.4
+25981226,2024-08-01,0,Wimbledon FIDE Congress June 2024 - U2000,London ENG,2024-06-28,2024-06-29,1752,1727,2.0,4,0.12,36,4.32,"Rogers, Tim L",,1936.0,False,ENG,0.5,1,0.27,36,9.72
+25981226,2024-08-01,0,Wimbledon FIDE Congress June 2024 - U2000,London ENG,2024-06-28,2024-06-29,1752,1727,2.0,4,0.12,36,4.32,"Jyothika, U R",,1713.0,False,IND,0.0,1,-0.52,36,-18.72
+25981226,2024-08-01,0,Wimbledon FIDE Congress June 2024 - U2000,London ENG,2024-06-28,2024-06-29,1752,1727,2.0,4,0.12,36,4.32,"Croasdale, Mark",,1702.0,False,ENG,0.5,1,-0.03,36,-1.08
+25981226,2024-08-01,0,Southall FIDE Congress 13-14 July - U2300,London ENG,2024-07-13,2024-07-14,1840,1706,2.5,5,0.85,36,30.6,"Arora, Tashika",,1949.0,False,ENG,0.5,1,0.3,36,10.8
+25981226,2024-08-01,0,Southall FIDE Congress 13-14 July - U2300,London ENG,2024-07-13,2024-07-14,1840,1706,2.5,5,0.85,36,30.6,"Mylovanov, Volodymyr",,1802.0,False,UKR,0.5,1,0.13,36,4.68
+25981226,2024-08-01,0,Southall FIDE Congress 13-14 July - U2300,London ENG,2024-07-13,2024-07-14,1840,1706,2.5,5,0.85,36,30.6,"Quillaud, Maxime",,1925.0,False,ENG,0.0,1,-0.22,36,-7.92
+25981226,2024-08-01,0,Southall FIDE Congress 13-14 July - U2300,London ENG,2024-07-13,2024-07-14,1840,1706,2.5,5,0.85,36,30.6,"Katukuri, Aarav",,1643.0,False,ENG,1.0,1,0.41,36,14.76
+25981226,2024-08-01,0,Southall FIDE Congress 13-14 July - U2300,London ENG,2024-07-13,2024-07-14,1840,1706,2.5,5,0.85,36,30.6,"Domarkas, Michael",,1881.0,False,ENG,0.5,1,0.23,36,8.28
+25981226,2024-08-01,0,IV Mindsports International Chess Festival - Under 2000,London ENG,2024-07-20,2024-07-21,1728,1706,3.0,5,0.64,36,23.04,"Rogers, Tim L",,1915.0,False,ENG,0.0,1,-0.23,36,-8.28
+25981226,2024-08-01,0,IV Mindsports International Chess Festival - Under 2000,London ENG,2024-07-20,2024-07-21,1728,1706,3.0,5,0.64,36,23.04,"Llewellyn, Julian D",,1807.0,False,ENG,0.5,1,0.14,36,5.04
+25981226,2024-08-01,0,IV Mindsports International Chess Festival - Under 2000,London ENG,2024-07-20,2024-07-21,1728,1706,3.0,5,0.64,36,23.04,"Gunawardana, Thivan Manamperi",,1631.0,False,ENG,1.0,1,0.4,36,14.4
+25981226,2024-08-01,0,IV Mindsports International Chess Festival - Under 2000,London ENG,2024-07-20,2024-07-21,1728,1706,3.0,5,0.64,36,23.04,"Hu, Junyan",,1617.0,False,ENG,0.5,1,-0.12,36,-4.32
+25981226,2024-08-01,0,IV Mindsports International Chess Festival - Under 2000,London ENG,2024-07-20,2024-07-21,1728,1706,3.0,5,0.64,36,23.04,"Ward-Riggs, Samuel",,1670.0,False,ENG,1.0,1,0.45,36,16.2
+25981226,2024-08-01,0,2024 Glorney Cup Under 14,Hull ENG,2024-07-23,2024-07-25,1689,1706,4.0,5,1.41,36,50.76,"Karthick, Alagu Naachiappan",,1706.0,False,SCO,0.5,1,0.0,36,0.0
+25981226,2024-08-01,0,2024 Glorney Cup Under 14,Hull ENG,2024-07-23,2024-07-25,1689,1706,4.0,5,1.41,36,50.76,"Ganti, Shriaansh",,1816.0,False,ENG,1.0,1,0.65,36,23.4
+25981226,2024-08-01,0,2024 Glorney Cup Under 14,Hull ENG,2024-07-23,2024-07-25,1689,1706,4.0,5,1.41,36,50.76,"Beattie, Conor",,1813.0,False,ENG,0.5,1,0.15,36,5.4
+25981226,2024-08-01,0,2024 Glorney Cup Under 14,Hull ENG,2024-07-23,2024-07-25,1689,1706,4.0,5,1.41,36,50.76,"Enoch, Kristan",,1615.0,False,WLS,1.0,1,0.38,36,13.68
+25981226,2024-08-01,0,2024 Glorney Cup Under 14,Hull ENG,2024-07-23,2024-07-25,1689,1706,4.0,5,1.41,36,50.76,"Sweetman, Hugo",,1495.0,False,IRL,1.0,1,0.23,36,8.28

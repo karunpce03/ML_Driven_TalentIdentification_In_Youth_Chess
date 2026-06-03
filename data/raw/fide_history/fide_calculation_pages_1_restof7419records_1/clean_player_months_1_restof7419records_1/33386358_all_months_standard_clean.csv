@@ -1,0 +1,28 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33386358,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,1613,1438,0.5,1,0.23,40,9.2,"Hanuman Satish, B.",,1613.0,False,IND,0.5,1,0.23,40,9.2
+33386358,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1619,1447,1.0,4,-0.1,40,-4.0,"Peddiraju, Sri Rajendra",,1621.0,False,IND,1.0,1,0.73,40,29.2
+33386358,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1619,1447,1.0,4,-0.1,40,-4.0,"Sathvik, Gulakaram",,1642.0,False,IND,0.0,1,-0.25,40,-10.0
+33386358,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1619,1447,1.0,4,-0.1,40,-4.0,"Midhun, G",,1617.0,False,IND,0.0,1,-0.28,40,-11.2
+33386358,2024-08-01,0,Spark Chess Academy 2nd International Below 1800 Fide Rating Open Chess Tournament,Vijayawada IND,2024-07-12,2024-07-14,1619,1447,1.0,4,-0.1,40,-4.0,"Gajjela, Shalem Mani Kumar",,1594.0,False,IND,0.0,1,-0.3,40,-12.0
+33386358,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1624,1443,0.5,4,-0.64,40,-25.6,"Divith, Reddy Adulla",,1837.0,False,IND,0.0,1,-0.08,40,-3.2
+33386358,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1624,1443,0.5,4,-0.64,40,-25.6,"Arul, Narottam Shinde",,1561.0,False,IND,0.5,1,0.16,40,6.4
+33386358,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1624,1443,0.5,4,-0.64,40,-25.6,"Arun, Lobo",,1548.0,False,IND,0.0,1,-0.36,40,-14.4
+33386358,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1624,1443,0.5,4,-0.64,40,-25.6,"Komalla, Manyu Sai",,1549.0,False,IND,0.0,1,-0.36,40,-14.4
+33386358,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1505,1417,5.5,10,1.68,38,63.84,"Vihana, Kothari",,1608.0,False,IND,0.5,1,0.25,38,9.5
+33386358,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1505,1417,5.5,10,1.68,38,63.84,"Sriya, S",,1508.0,False,IND,1.0,1,0.62,38,23.56
+33386358,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1505,1417,5.5,10,1.68,38,63.84,"Arushi, Dinesh",,1449.0,False,IND,1.0,1,0.54,38,20.52
+33386358,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1505,1417,5.5,10,1.68,38,63.84,"Shruti, Sarkar",,1496.0,False,IND,1.0,1,0.61,38,23.18
+33386358,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1505,1417,5.5,10,1.68,38,63.84,"Rajeswari, Aiyappan",,1414.0,False,IND,1.0,1,0.5,38,19.0
+33386358,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1505,1417,5.5,10,1.68,38,63.84,"Radhya, Malhotra",,1549.0,False,IND,0.0,1,-0.32,38,-12.16
+33386358,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1505,1417,5.5,10,1.68,38,63.84,"Hariprana, B",,1436.0,False,IND,0.0,1,-0.47,38,-17.86
+33386358,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1505,1417,5.5,10,1.68,38,63.84,"Kaushi, Kulkarni",,1605.0,False,IND,0.5,1,0.24,38,9.12
+33386358,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1505,1417,5.5,10,1.68,38,63.84,"Kashika, Goyal",,1533.0,False,IND,0.5,1,0.16,38,6.08
+33386358,2025-02-01,0,37th National Under 9 Girls Chess Championship,Pune IND,2024-12-27,2025-01-02,1505,1417,5.5,10,1.68,38,63.84,"Swara, Rahul Gandhi",,1451.0,False,IND,0.0,1,-0.45,38,-17.1
+33386358,2025-02-01,0,U 11 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1492,1417,4.5,8,1.31,38,49.78,"Kamala, Priya Batta",,1447.0,False,IND,0.5,1,0.04,38,1.52
+33386358,2025-02-01,0,U 11 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1492,1417,4.5,8,1.31,38,49.78,"Charushi, B",,1423.0,False,IND,1.0,1,0.51,38,19.38
+33386358,2025-02-01,0,U 11 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1492,1417,4.5,8,1.31,38,49.78,"Ameya, Gupta",,1578.0,False,IND,0.0,1,-0.29,38,-11.02
+33386358,2025-02-01,0,U 11 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1492,1417,4.5,8,1.31,38,49.78,"Deepanjali, Srivastava",,1414.0,False,IND,1.0,1,0.5,38,19.0
+33386358,2025-02-01,0,U 11 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1492,1417,4.5,8,1.31,38,49.78,"Mrunmayee, Daware",,1481.0,False,IND,1.0,1,0.59,38,22.42
+33386358,2025-02-01,0,U 11 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1492,1417,4.5,8,1.31,38,49.78,"Kashika, Goyal",,1533.0,False,IND,0.5,1,0.16,38,6.08
+33386358,2025-02-01,0,U 11 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1492,1417,4.5,8,1.31,38,49.78,"Radhya, Malhotra",,1549.0,False,IND,0.0,1,-0.32,38,-12.16
+33386358,2025-02-01,0,U 11 GIRLS NATIONAL SCHOOL CHESS CHAMPIONSHIP-2025,Kakinada IND,2025-01-17,2025-01-21,1492,1417,4.5,8,1.31,38,49.78,"Sriya, S",,1508.0,False,IND,0.5,1,0.12,38,4.56

@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+531000100,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,,,2.0,4,0.0,1566,,"Kanushi, Kishore",,1502.0,False,IND,0.0,1,0.0,,0.0
+531000100,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,,,2.0,4,0.0,1566,,"Arnav, Singh Dewan",,1483.0,False,IND,1.0,1,0.0,,0.0
+531000100,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,,,2.0,4,0.0,1566,,"Dhrupad, Lohidas",,1548.0,False,IND,1.0,1,0.0,,0.0
+531000100,2024-07-01,0,5th ACA  Classical Chess Tournament,Zinj BRN,2024-05-19,2024-05-25,,,2.0,4,0.0,1566,,"Navaneet, Sreekanth",,1732.0,False,IND,0.0,1,0.0,,0.0
+531000100,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,,,0.5,3,0.0,1191,,"Mikael, Vivek Joseph",,1450.0,False,IND,0.0,1,0.0,,0.0
+531000100,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,,,0.5,3,0.0,1191,,"Arnav, Singh Dewan",,1483.0,False,IND,0.0,1,0.0,,0.0
+531000100,2024-08-01,0,6th ACA Classical Chess Tournament - FIDE Rated,Zinj BRN,2024-06-23,2024-06-30,,,0.5,3,0.0,1191,,"Yaqoob, Wafa",,1460.0,False,BRN,0.5,1,0.0,,0.0
+531000100,2025-04-01,0,JASSIM MOHAMMED FAKHROO   RAMADAN CHESS CHAMPIONSHIP (4th- 24th MARCH 2025),Manama BRN,2025-03-04,2025-03-18,1713.0,1504.0,1.0,4,0.02,40,0.8,"Pranav, Bobby Sekhar",,1780.0,False,IND,0.5,1,0.33,40.0,13.2
+531000100,2025-04-01,0,JASSIM MOHAMMED FAKHROO   RAMADAN CHESS CHAMPIONSHIP (4th- 24th MARCH 2025),Manama BRN,2025-03-04,2025-03-18,1713.0,1504.0,1.0,4,0.02,40,0.8,"Faqihi, Abdulaziz",,1567.0,False,BRN,0.5,1,0.09,40.0,3.6
+531000100,2025-04-01,0,JASSIM MOHAMMED FAKHROO   RAMADAN CHESS CHAMPIONSHIP (4th- 24th MARCH 2025),Manama BRN,2025-03-04,2025-03-18,1713.0,1504.0,1.0,4,0.02,40,0.8,"Mosa, Hamad",,1671.0,False,BRN,0.0,1,-0.28,40.0,-11.2
+531000100,2025-04-01,0,JASSIM MOHAMMED FAKHROO   RAMADAN CHESS CHAMPIONSHIP (4th- 24th MARCH 2025),Manama BRN,2025-03-04,2025-03-18,1713.0,1504.0,1.0,4,0.02,40,0.8,"Costales, Rene",,1834.0,False,PHI,0.0,1,-0.12,40.0,-4.8

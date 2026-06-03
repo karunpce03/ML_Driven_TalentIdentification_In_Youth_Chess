@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48761150,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1663,1515,2.5,5,0.97,40,38.8,"Abhay, Chetty",,1738.0,False,IND,0.5,1,0.28,40,11.2
+48761150,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1663,1515,2.5,5,0.97,40,38.8,"Pawan, Sain",,1699.0,False,IND,0.5,1,0.24,40,9.6
+48761150,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1663,1515,2.5,5,0.97,40,38.8,"Rana, Apoorvakumar",,1618.0,False,IND,1.0,1,0.64,40,25.6
+48761150,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1663,1515,2.5,5,0.97,40,38.8,"Rahul, Suri",,1659.0,False,IND,0.0,1,-0.31,40,-12.4
+48761150,2025-01-01,0,Bhilwara All India Open FIDE Rating Chess Tournament 2024,Bhilwara IND,2024-12-24,2024-12-29,1663,1515,2.5,5,0.97,40,38.8,"Mehul, Paliwal",,1600.0,False,IND,0.5,1,0.12,40,4.8

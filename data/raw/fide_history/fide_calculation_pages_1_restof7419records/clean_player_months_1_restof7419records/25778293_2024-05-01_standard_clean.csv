@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25778293,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1696,1777,6.5,9,1.0,40,40.0,"Ayaan, Arora",,1444,False,IND,1.0,1,0.12,40,4.8
+25778293,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1696,1777,6.5,9,1.0,40,40.0,"Atharv, Singh Negi",,1557,False,IND,1.0,1,0.22,40,8.8
+25778293,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1696,1777,6.5,9,1.0,40,40.0,"Chinmay, Chauhan",,1642,False,IND,1.0,1,0.32,40,12.8
+25778293,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1696,1777,6.5,9,1.0,40,40.0,"Aronyak, Ghosh",c,2177,True,IND,0.0,1,-0.08,40,-3.2
+25778293,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1696,1777,6.5,9,1.0,40,40.0,"Harshit, Kumar",,1572,False,IND,0.5,1,-0.26,40,-10.4
+25778293,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1696,1777,6.5,9,1.0,40,40.0,"Srikar, G V B",,1605,False,IND,1.0,1,0.27,40,10.8
+25778293,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1696,1777,6.5,9,1.0,40,40.0,"Abhiraj, De",,1657,False,IND,1.0,1,0.34,40,13.6
+25778293,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1696,1777,6.5,9,1.0,40,40.0,"Shubhi, Gupta",wf,1953,False,IND,0.0,1,-0.27,40,-10.8
+25778293,2024-05-01,0,3rd Matrix Cup International Open Fide Rated Chess Tournament 2024,Delhi IND,2024-04-06,2024-04-10,1696,1777,6.5,9,1.0,40,40.0,"Sameer, Chaudhary",,1656,False,IND,1.0,1,0.34,40,13.6

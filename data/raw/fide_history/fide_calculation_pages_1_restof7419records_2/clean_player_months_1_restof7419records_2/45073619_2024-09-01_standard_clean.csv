@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45073619,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1734,1899,5.0,10,-2.06,40,-82.4,"Dushyant, Singh",,1603,False,IND,0.5,1,-0.35,40,-14.0
+45073619,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1734,1899,5.0,10,-2.06,40,-82.4,"Saksham, Arora",,1573,False,IND,1.0,1,0.13,40,5.2
+45073619,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1734,1899,5.0,10,-2.06,40,-82.4,"Gusain, Himal",m,2299,True,IND,0.0,1,-0.08,40,-3.2
+45073619,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1734,1899,5.0,10,-2.06,40,-82.4,"Arnav, Dhamija",,1752,False,IND,0.0,1,-0.7,40,-28.0
+45073619,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1734,1899,5.0,10,-2.06,40,-82.4,"Amartya, Saumitra Gupta",,1685,False,IND,0.0,1,-0.77,40,-30.8
+45073619,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1734,1899,5.0,10,-2.06,40,-82.4,"Atharv, Singh Bisht",,1644,False,IND,0.5,1,-0.31,40,-12.4
+45073619,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1734,1899,5.0,10,-2.06,40,-82.4,"Nishant, Bharadwaj",,1499,True,IND,1.0,1,0.08,40,3.2
+45073619,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1734,1899,5.0,10,-2.06,40,-82.4,"Jess, Ruchandani",,1736,False,IND,1.0,1,0.28,40,11.2
+45073619,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1734,1899,5.0,10,-2.06,40,-82.4,"Samal, Ansuman",,1776,False,IND,0.0,1,-0.67,40,-26.8
+45073619,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1734,1899,5.0,10,-2.06,40,-82.4,"Karjee, Manindra",,1772,False,IND,1.0,1,0.33,40,13.2

@@ -1,0 +1,43 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33419540,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,3.0,7,0.0,1432,,"Aadharshan, R",,1489.0,False,IND,0.0,1,0.0,,0.0
+33419540,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,3.0,7,0.0,1432,,"Rohith, M",,1480.0,False,IND,0.5,1,0.0,,0.0
+33419540,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,3.0,7,0.0,1432,,"Karthikeyan, J",,1499.0,False,IND,0.0,1,0.0,,0.0
+33419540,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,3.0,7,0.0,1432,,"Naren, Karthick",,1429.0,False,IND,1.0,1,0.0,,0.0
+33419540,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,3.0,7,0.0,1432,,"Gokul, Ram",,1509.0,False,IND,0.5,1,0.0,,0.0
+33419540,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,3.0,7,0.0,1432,,"Veeraj, Kishore",,1475.0,False,IND,0.0,1,0.0,,0.0
+33419540,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,,,3.0,7,0.0,1432,,"Jason, Jebezlin B",,1491.0,False,IND,1.0,1,0.0,,0.0
+33419540,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.0,2,0.0,645,,"Jaswanth, M K",,1457.0,False,IND,0.0,1,0.0,,0.0
+33419540,2024-06-01,0,Tamil Nadu State Under-15 Open Chess Championships 2024,Pudukottai IND,2024-05-15,2024-05-19,,,0.0,2,0.0,645,,"Adithya, Sivesh B",,1432.0,False,IND,0.0,1,0.0,,0.0
+33419540,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1456.0,1431.0,1.0,4,-0.87,40,-34.8,"Haribalan, K",,1456.0,False,IND,0.0,1,-0.47,40.0,-18.8
+33419540,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1456.0,1431.0,1.0,4,-0.87,40,-34.8,"Jan, Hanno L J",,1462.0,False,IND,0.0,1,-0.46,40.0,-18.4
+33419540,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1456.0,1431.0,1.0,4,-0.87,40,-34.8,"Mayeesha, Zabin S",,1455.0,False,IND,0.5,1,0.03,40.0,1.2
+33419540,2024-07-01,0,Visalakshi- Arunachalam 8th SCS International fide rated open chess tournament,Sivakasi IND,2024-06-08,2024-06-11,1456.0,1431.0,1.0,4,-0.87,40,-34.8,"John, Harris Sujin",,1450.0,False,IND,0.5,1,0.03,40.0,1.2
+33419540,2024-08-01,0,Tamil Nadu State Team Chess Championship 2024,Dharmapuri IND,2024-07-24,2024-07-27,,,1.0,1,0.0,1428,,"Hari, Raghavendran",,1408.0,False,IND,1.0,1,0.0,,0.0
+33419540,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,,,1.0,3,0.0,1346,,"Sreejith, P R",,1400.0,False,IND,1.0,1,0.0,,0.0
+33419540,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,,,1.0,3,0.0,1346,,"Akshaya, Vignesh M",,1559.0,False,IND,0.0,1,0.0,,0.0
+33419540,2024-09-01,0,2nd Kanyakumari Parent's Forum International FIDE Rated Chess Tournament 2024,Nagercoil IND,2024-08-15,2024-08-18,,,1.0,3,0.0,1346,,"Shivin, K",,1455.0,False,IND,0.0,1,0.0,,0.0
+33419540,2024-10-01,0,36th Tamilnadu State Under-11 Open FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,,,3.5,7,0.0,1461,,"Vendhan, R",,1455.0,False,IND,0.0,1,0.0,,0.0
+33419540,2024-10-01,0,36th Tamilnadu State Under-11 Open FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,,,3.5,7,0.0,1461,,"Sairam, Chidambaram Lakshmanan",,1417.0,False,IND,1.0,1,0.0,,0.0
+33419540,2024-10-01,0,36th Tamilnadu State Under-11 Open FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,,,3.5,7,0.0,1461,,"Dev, Narayan",,1470.0,False,IND,0.5,1,0.0,,0.0
+33419540,2024-10-01,0,36th Tamilnadu State Under-11 Open FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,,,3.5,7,0.0,1461,,"Darsan, S",,1543.0,False,IND,0.5,1,0.0,,0.0
+33419540,2024-10-01,0,36th Tamilnadu State Under-11 Open FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,,,3.5,7,0.0,1461,,"Shaun, Matthew",,1439.0,False,IND,1.0,1,0.0,,0.0
+33419540,2024-10-01,0,36th Tamilnadu State Under-11 Open FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,,,3.5,7,0.0,1461,,"Akil, Sethu G",,1476.0,False,IND,0.0,1,0.0,,0.0
+33419540,2024-10-01,0,36th Tamilnadu State Under-11 Open FIDE Rated Chess Championships-2024,Salem IND,2024-08-28,2024-09-01,,,3.5,7,0.0,1461,,"Faizal, Salman J F",,1427.0,False,IND,0.5,1,0.0,,0.0
+33419540,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1590.0,1536.0,0.5,5,-1.65,40,-66.0,"Sahrudh, M P",,1732.0,False,IND,0.0,1,-0.25,40.0,-10.0
+33419540,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1590.0,1536.0,0.5,5,-1.65,40,-66.0,"Rohith, S Navneet",,1574.0,False,IND,0.5,1,0.05,40.0,2.0
+33419540,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1590.0,1536.0,0.5,5,-1.65,40,-66.0,"Muhammad, Saifan Noushad Ibrahim",,1571.0,False,IND,0.0,1,-0.45,40.0,-18.0
+33419540,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1590.0,1536.0,0.5,5,-1.65,40,-66.0,"Aarav, Vishwanath",,1542.0,False,IND,0.0,1,-0.49,40.0,-19.6
+33419540,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1590.0,1536.0,0.5,5,-1.65,40,-66.0,"Krishna, Varenya Potnuru",,1529.0,False,IND,0.0,1,-0.51,40.0,-20.4
+33419540,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1536.0,1470.0,1.0,8,-2.32,40,-92.8,"Kanoje, Alok",,1747.0,False,IND,0.0,1,-0.17,40.0,-6.8
+33419540,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1536.0,1470.0,1.0,8,-2.32,40,-92.8,"Chittesh, Pandeeshwaran",,1575.0,False,IND,0.0,1,-0.36,40.0,-14.4
+33419540,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1536.0,1470.0,1.0,8,-2.32,40,-92.8,"Aarush, Reddy V",,1503.0,False,IND,0.0,1,-0.45,40.0,-18.0
+33419540,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1536.0,1470.0,1.0,8,-2.32,40,-92.8,"Naman, Newar",,1539.0,False,IND,0.5,1,0.1,40.0,4.0
+33419540,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1536.0,1470.0,1.0,8,-2.32,40,-92.8,"Linith, Amar S",,1478.0,False,IND,0.0,1,-0.49,40.0,-19.6
+33419540,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1536.0,1470.0,1.0,8,-2.32,40,-92.8,"Anshik, Chakraborty",,1468.0,False,IND,0.5,1,0.0,40.0,0.0
+33419540,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1536.0,1470.0,1.0,8,-2.32,40,-92.8,"Shravan, Karthik J",,1518.0,False,IND,0.0,1,-0.43,40.0,-17.2
+33419540,2024-12-01,0,49th National Under 15 Chess Championship - 2024,Hosur IND,2024-11-03,2024-11-11,1536.0,1470.0,1.0,8,-2.32,40,-92.8,"Golla, Manvith",,1456.0,False,IND,0.0,1,-0.52,40.0,-20.8
+33419540,2025-03-01,0,Star Chess Foundation 1st International Open FIDE Rating Chess Tournament Trichy - 2024,Trichy IND,2025-02-08,2025-02-11,,,1.0,5,0.0,1227,,"Rishinandhan, Sudarsan",,1447.0,False,IND,0.0,1,0.0,,0.0
+33419540,2025-03-01,0,Star Chess Foundation 1st International Open FIDE Rating Chess Tournament Trichy - 2024,Trichy IND,2025-02-08,2025-02-11,,,1.0,5,0.0,1227,,"Dhanin, R D",,1464.0,False,IND,0.0,1,0.0,,0.0
+33419540,2025-03-01,0,Star Chess Foundation 1st International Open FIDE Rating Chess Tournament Trichy - 2024,Trichy IND,2025-02-08,2025-02-11,,,1.0,5,0.0,1227,,"Govardhanan, S",,1433.0,False,IND,1.0,1,0.0,,0.0
+33419540,2025-03-01,0,Star Chess Foundation 1st International Open FIDE Rating Chess Tournament Trichy - 2024,Trichy IND,2025-02-08,2025-02-11,,,1.0,5,0.0,1227,,"Mihit, Raman R S",,1515.0,False,IND,0.0,1,0.0,,0.0
+33419540,2025-03-01,0,Star Chess Foundation 1st International Open FIDE Rating Chess Tournament Trichy - 2024,Trichy IND,2025-02-08,2025-02-11,,,1.0,5,0.0,1227,,"Dakshina, R",,1476.0,False,IND,0.0,1,0.0,,0.0

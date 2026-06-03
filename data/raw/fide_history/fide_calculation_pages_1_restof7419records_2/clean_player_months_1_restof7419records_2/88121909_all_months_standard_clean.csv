@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88121909,2024-06-01,0,UP State U-11 Chess Championship-2024-25 (Open),Bijnor IND,2024-05-16,2024-05-18,,,0.0,2,0.0,632,,"Agrawal, Anay",,1448,False,IND,0.0,1,0.0,,0.0
+88121909,2024-06-01,0,UP State U-11 Chess Championship-2024-25 (Open),Bijnor IND,2024-05-16,2024-05-18,,,0.0,2,0.0,632,,"Purushrut, Sharma",,1415,False,IND,0.0,1,0.0,,0.0
+88121909,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,,,0.0,2,0.0,696,,"Shukla, Sumukhi",,1518,False,IND,0.0,1,0.0,,0.0
+88121909,2025-01-01,0,Krishna Gopal Kapoor Memorial International Rating Chess Tournament,Kanpur IND,2024-12-18,2024-12-22,,,0.0,2,0.0,696,,"Shashank, Srivastava",,1474,False,IND,0.0,1,0.0,,0.0
+88121909,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,,,1.5,5,0.0,1330,,"Rishant, Srivastava",,1489,False,IND,0.0,1,0.0,,0.0
+88121909,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,,,1.5,5,0.0,1330,,"Vanij, Jain",,1450,False,IND,1.0,1,0.0,,0.0
+88121909,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,,,1.5,5,0.0,1330,,"Agrawal, Anay",,1505,False,IND,0.5,1,0.0,,0.0
+88121909,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,,,1.5,5,0.0,1330,,"Rakshit, Shekhar Dwivedi",,1481,False,IND,0.0,1,0.0,,0.0
+88121909,2025-04-01,0,UP State U-15 Chess Championship 2025-26 (Open),Lucknow IND,2025-03-18,2025-03-20,,,1.5,5,0.0,1330,,"Harshit, Malhotra",,1471,False,IND,0.0,1,0.0,,0.0

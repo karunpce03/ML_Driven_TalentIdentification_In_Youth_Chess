@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33391572,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1666,1528,2.0,5,0.31,40,12.4,"Siddhanth, Poonja",,1928,True,IND,0.0,1,-0.08,40,-3.2
+33391572,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1666,1528,2.0,5,0.31,40,12.4,"Navaneeth, B N",,1411,False,IND,1.0,1,0.34,40,13.6
+33391572,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1666,1528,2.0,5,0.31,40,12.4,"Vikrant, Krishnakumar",,1683,False,IND,0.5,1,0.21,40,8.4
+33391572,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1666,1528,2.0,5,0.31,40,12.4,"Venkata, Naga Karthik Malladi",,1638,False,IND,0.5,1,0.15,40,6.0
+33391572,2024-08-01,0,Karnataka State Under 13 Open Chess Championship 2024,Chikkamagaluru IND,2024-07-26,2024-07-28,1666,1528,2.0,5,0.31,40,12.4,"Yug, Tarun Khiani",,1668,False,IND,0.0,1,-0.31,40,-12.4

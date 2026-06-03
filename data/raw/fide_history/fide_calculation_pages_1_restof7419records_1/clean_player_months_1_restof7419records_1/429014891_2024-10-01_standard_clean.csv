@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429014891,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,1.0,4,0.0,1385,,"Adwait, Soman",,1636,False,IND,0.0,1,0.0,,0.0
+429014891,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,1.0,4,0.0,1385,,"Athavan, A",,1553,False,IND,0.0,1,0.0,,0.0
+429014891,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,1.0,4,0.0,1385,,"Krish, Jeyakumar",,1598,False,IND,0.0,1,0.0,,0.0
+429014891,2024-10-01,0,1st KG Marar Memorial International Open Classical Chess Tournament,Kozhikode IND,2024-09-17,2024-09-21,,,1.0,4,0.0,1385,,"Ishan, Krishna M",,1524,False,IND,1.0,1,0.0,,0.0

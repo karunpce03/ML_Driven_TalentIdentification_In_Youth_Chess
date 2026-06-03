@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48748447,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1564,1448,4.5,10,0.94,40,37.6,"Aswinika, Mani R",,1791.0,False,IND,0.0,1,-0.12,40,-4.8
+48748447,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1564,1448,4.5,10,0.94,40,37.6,"Sahejdeep, Kaur",,1664.0,False,IND,0.0,1,-0.22,40,-8.8
+48748447,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1564,1448,4.5,10,0.94,40,37.6,"Pavithra, K",,1488.0,False,IND,1.0,1,0.56,40,22.4
+48748447,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1564,1448,4.5,10,0.94,40,37.6,"Dakhsha, Rudra",,1665.0,False,IND,0.0,1,-0.22,40,-8.8
+48748447,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1564,1448,4.5,10,0.94,40,37.6,"Hiya, Garg",,1485.0,False,IND,0.0,1,-0.45,40,-18.0
+48748447,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1564,1448,4.5,10,0.94,40,37.6,"Mehra, Jyoti",,1422.0,False,IND,1.0,1,0.46,40,18.4
+48748447,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1564,1448,4.5,10,0.94,40,37.6,"Shanmuga, Preethi M S",,1514.0,False,IND,0.0,1,-0.41,40,-16.4
+48748447,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1564,1448,4.5,10,0.94,40,37.6,"Durkasri, M",,1486.0,False,IND,1.0,1,0.55,40,22.0
+48748447,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1564,1448,4.5,10,0.94,40,37.6,"Prachi, Yadav",,1480.0,False,IND,1.0,1,0.54,40,21.6
+48748447,2024-11-01,0,50th National Women Chess Championship 2024,Karaikudi IND,2024-10-03,2024-10-13,1564,1448,4.5,10,0.94,40,37.6,"Janani, J",,1641.0,False,IND,0.5,1,0.25,40,10.0

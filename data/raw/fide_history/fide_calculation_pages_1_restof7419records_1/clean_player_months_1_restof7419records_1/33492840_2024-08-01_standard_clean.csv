@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33492840,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,,,0.0,3,0.0,772,,"Borate, Tanvi",,1675,False,IND,0.0,1,0.0,,0.0
+33492840,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,,,0.0,3,0.0,772,,"Mulay, Girish",,1525,False,IND,0.0,1,0.0,,0.0
+33492840,2024-08-01,0,"1st Unicorn International FIDE Rating  Open Classical Chess Tournament 2024, Bhopal",Bhopal IND,2024-07-13,2024-07-17,,,0.0,3,0.0,772,,"Tanya, Singh",,1515,False,IND,0.0,1,0.0,,0.0

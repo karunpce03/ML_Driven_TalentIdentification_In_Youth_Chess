@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+45030081,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2233,2286,3.5,7,-0.38,20,-7.6,"Parmod, Kumar",,1886,True,IND,1.0,1,0.08,20,1.6
+45030081,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2233,2286,3.5,7,-0.38,20,-7.6,"Balkishan, A.",,2119,False,IND,1.0,1,0.28,20,5.6
+45030081,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2233,2286,3.5,7,-0.38,20,-7.6,"Srihari, L",m,2366,False,IND,0.0,1,-0.39,20,-7.8
+45030081,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2233,2286,3.5,7,-0.38,20,-7.6,"Neelash, Saha",m,2460,False,IND,0.5,1,0.23,20,4.6
+45030081,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2233,2286,3.5,7,-0.38,20,-7.6,"Ajay, Santhosh Parvathareddy",f,2245,False,IND,0.0,1,-0.56,20,-11.2
+45030081,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2233,2286,3.5,7,-0.38,20,-7.6,"Vignesh, N R",g,2537,False,IND,0.0,1,-0.19,20,-3.8
+45030081,2025-04-01,0,44th National Team Chess Championship 2025,Ahmedabad IND,2025-03-05,2025-03-11,2233,2286,3.5,7,-0.38,20,-7.6,"Sree, Shaunak Chanda",,2015,False,IND,1.0,1,0.17,20,3.4

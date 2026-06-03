@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33395292,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1638,1441,3.5,8,1.49,40,59.6,"Radisich, Matt",,1700.0,False,AUS,0.0,1,-0.18,40,-7.2
+33395292,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1638,1441,3.5,8,1.49,40,59.6,"Mendoza, Cheyzer Crystal J.",,1787.0,False,PHI,0.0,1,-0.11,40,-4.4
+33395292,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1638,1441,3.5,8,1.49,40,59.6,"Punjabi, Shiven Rajesh",,1633.0,False,SGP,0.5,1,0.25,40,10.0
+33395292,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1638,1441,3.5,8,1.49,40,59.6,"Tan, Xuan Ying Calyn",,1591.0,False,SGP,1.0,1,0.7,40,28.0
+33395292,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1638,1441,3.5,8,1.49,40,59.6,"Soo, Cheng Hao",,1624.0,False,SGP,0.0,1,-0.26,40,-10.4
+33395292,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1638,1441,3.5,8,1.49,40,59.6,"Soh, Daniel",,1631.0,False,SGP,1.0,1,0.75,40,30.0
+33395292,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1638,1441,3.5,8,1.49,40,59.6,"Poon, Zhi Xin",,1553.0,False,SGP,0.0,1,-0.35,40,-14.0
+33395292,2025-01-01,0,Singapore International Open Group B,Singapore SGP,2024-11-29,2024-12-05,1638,1441,3.5,8,1.49,40,59.6,"Christopher, George Oscar",,1584.0,False,SGP,1.0,1,0.69,40,27.6

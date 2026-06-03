@@ -1,0 +1,20 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429064112,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,,,0.0,2,0.0,820,,"Javier, Jasper",,1649.0,False,PHI,0.0,1,0.0,,0.0
+429064112,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,,,0.0,2,0.0,820,,"Jomha, Eyad.",,1591.0,False,SYR,0.0,1,0.0,,0.0
+429064112,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,4.5,9,0.0,1877,,"Abdulrahim, Salem",,1843.0,False,UAE,1.0,1,0.0,,0.0
+429064112,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,4.5,9,0.0,1877,,"Boulrens, Ala Eddine",,2144.0,False,ALG,0.0,1,0.0,,0.0
+429064112,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,4.5,9,0.0,1877,,"Aryan, Goyal",,1737.0,False,IND,1.0,1,0.0,,0.0
+429064112,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,4.5,9,0.0,1877,,"Hamdouchi, Adam",,1763.0,False,MAR,1.0,1,0.0,,0.0
+429064112,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,4.5,9,0.0,1877,,"Akramov, Khasan",,1825.0,False,UZB,0.5,1,0.0,,0.0
+429064112,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,4.5,9,0.0,1877,,"Abel, Sajan",,2053.0,False,IND,0.0,1,0.0,,0.0
+429064112,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,4.5,9,0.0,1877,,"Al Mamari, Ali Abdullah",,1789.0,False,OMA,1.0,1,0.0,,0.0
+429064112,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,4.5,9,0.0,1877,,"Rashid, Husain Alhammadi",,1911.0,False,UAE,0.0,1,0.0,,0.0
+429064112,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,4.5,9,0.0,1877,,"Aljamaat, Khaled",,1824.0,False,QAT,0.0,1,0.0,,0.0
+429064112,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1613.0,1863.0,5.0,8,-1.37,40,-54.8,"Neavin, Raghunathan",,1482.0,False,IND,1.0,1,0.09,40.0,3.6
+429064112,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1613.0,1863.0,5.0,8,-1.37,40,-54.8,"Al-Kuwari, Turki",,1607.0,False,QAT,0.0,1,-0.81,40.0,-32.4
+429064112,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1613.0,1863.0,5.0,8,-1.37,40,-54.8,"Al-Janahi, Ibrahim",,1556.0,False,QAT,0.5,1,-0.36,40.0,-14.4
+429064112,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1613.0,1863.0,5.0,8,-1.37,40,-54.8,"Renit, Abrham",,1495.0,False,IND,1.0,1,0.1,40.0,4.0
+429064112,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1613.0,1863.0,5.0,8,-1.37,40,-54.8,"Ainikkal, Shaheen",,1584.0,False,IND,1.0,1,0.16,40.0,6.4
+429064112,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1613.0,1863.0,5.0,8,-1.37,40,-54.8,"Gani, Mohammad Ali",,1704.0,False,PHI,1.0,1,0.29,40.0,11.6
+429064112,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1613.0,1863.0,5.0,8,-1.37,40,-54.8,"Erfan, Mohamad Firdaus",c,1769.0,False,QAT,0.5,1,-0.13,40.0,-5.2
+429064112,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1613.0,1863.0,5.0,8,-1.37,40,-54.8,"Mithran, Krishnakumar",,1707.0,False,IND,0.0,1,-0.71,40.0,-28.4

@@ -1,0 +1,32 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88170314,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1525.0,1499.0,0.0,3,-1.41,40,-56.4,"Sinan, Shafeek",,1722.0,False,FID,0.0,1,-0.22,40.0,-8.8
+88170314,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1525.0,1499.0,0.0,3,-1.41,40,-56.4,"Niyola, Pinto",,1408.0,False,IND,0.0,1,-0.62,40.0,-24.8
+88170314,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,1525.0,1499.0,0.0,3,-1.41,40,-56.4,"Al Bulushi, Omar",,1446.0,False,OMA,0.0,1,-0.57,40.0,-22.8
+88170314,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1588.0,1443.0,0.0,5,-1.56,40,-62.4,"Gaurang, Bhandari",,1749.0,False,IND,0.0,1,-0.14,40.0,-5.6
+88170314,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1588.0,1443.0,0.0,5,-1.56,40,-62.4,"Dhayagude, Aarav",,1582.0,False,IND,0.0,1,-0.31,40.0,-12.4
+88170314,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1588.0,1443.0,0.0,5,-1.56,40,-62.4,"Krishna, Varenya Potnuru",,1529.0,False,IND,0.0,1,-0.38,40.0,-15.2
+88170314,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1588.0,1443.0,0.0,5,-1.56,40,-62.4,"Imadabattini, Joel",,1558.0,False,IND,0.0,1,-0.34,40.0,-13.6
+88170314,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1588.0,1443.0,0.0,5,-1.56,40,-62.4,"Krish, Bansal",,1522.0,False,IND,0.0,1,-0.39,40.0,-15.6
+88170314,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,,,3.0,5,0.0,1516,,"Hudhaifa, Maqbool",,1550.0,False,IND,0.0,1,0.0,,0.0
+88170314,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,,,3.0,5,0.0,1516,,"Jaberi, Valeed",,1503.0,False,TUR,0.0,1,0.0,,0.0
+88170314,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,,,3.0,5,0.0,1516,,"Mathi, Amudhann Ramar",,1456.0,False,IND,1.0,1,0.0,,0.0
+88170314,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,,,3.0,5,0.0,1516,,"Haidar , Bachar",,1480.0,False,LBN,1.0,1,0.0,,0.0
+88170314,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,,,3.0,5,0.0,1516,,"Al Shukaili, Reem",,1490.0,False,OMA,1.0,1,0.0,,0.0
+88170314,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1478.0,1633.0,2.0,8,-3.63,40,-145.2,"Madhav, Garg",,1498.0,False,IND,0.0,1,-0.68,40.0,-27.2
+88170314,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1478.0,1633.0,2.0,8,-3.63,40,-145.2,"Arjav, Jain",,1625.0,False,IND,1.0,1,0.49,40.0,19.6
+88170314,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1478.0,1633.0,2.0,8,-3.63,40,-145.2,"Mansh, Krunal Ukani",,1443.0,False,IND,0.0,1,-0.75,40.0,-30.0
+88170314,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1478.0,1633.0,2.0,8,-3.63,40,-145.2,"Raghav, Biswal",,1499.0,False,IND,0.0,1,-0.68,40.0,-27.2
+88170314,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1478.0,1633.0,2.0,8,-3.63,40,-145.2,"Sanikommu, Harshith Reddy",,1444.0,False,IND,0.5,1,-0.25,40.0,-10.0
+88170314,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1478.0,1633.0,2.0,8,-3.63,40,-145.2,"Abhigyan, Singh",,1448.0,False,IND,0.0,1,-0.74,40.0,-29.6
+88170314,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1478.0,1633.0,2.0,8,-3.63,40,-145.2,"Sai, Hari Dhaswan",,1424.0,False,IND,0.5,1,-0.27,40.0,-10.8
+88170314,2025-02-01,0,37th National Under 9 Open Chess Championship,Pune IND,2024-12-27,2025-01-02,1478.0,1633.0,2.0,8,-3.63,40,-145.2,"Jaya, Saketh Pasumarthi",,1440.0,False,IND,0.0,1,-0.75,40.0,-30.0
+88170314,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1562.0,1633.0,2.5,4,0.13,40,5.2,"Rakesh, Kumar Gopinath",,1417.0,False,IND,0.5,1,-0.28,40.0,-11.2
+88170314,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1562.0,1633.0,2.5,4,0.13,40,5.2,"Akshobhya, Damodar Katti",,1602.0,False,IND,1.0,1,0.46,40.0,18.4
+88170314,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1562.0,1633.0,2.5,4,0.13,40,5.2,"Izaan, Shafeek",,1688.0,False,IND,0.0,1,-0.42,40.0,-16.8
+88170314,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1562.0,1633.0,2.5,4,0.13,40,5.2,"Aswanthram, Sankar Ganesh Kannan",,1541.0,False,IND,1.0,1,0.37,40.0,14.8
+88170314,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1716.0,1633.0,1.5,4,-0.09,40,-3.6,"Al-Qudaimi, Abdullah",,1911.0,False,YEM,0.0,1,-0.17,40.0,-6.8
+88170314,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1716.0,1633.0,1.5,4,-0.09,40,-3.6,"Harshavardhan, V",,1529.0,False,IND,0.5,1,-0.14,40.0,-5.6
+88170314,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1716.0,1633.0,1.5,4,-0.09,40,-3.6,"Sinan, Shafeek",,1734.0,False,IND,0.0,1,-0.36,40.0,-14.4
+88170314,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1716.0,1633.0,1.5,4,-0.09,40,-3.6,"Al Mamari, Imran",,1688.0,False,OMA,1.0,1,0.58,40.0,23.2
+88170314,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1823.0,1493.0,0.0,2,-0.25,40,-10.0,"Izaan, Shafeek",,1812.0,False,IND,0.0,1,-0.13,40.0,-5.2
+88170314,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1823.0,1493.0,0.0,2,-0.25,40,-10.0,"Al Hinai, Qusay",,1833.0,False,OMA,0.0,1,-0.12,40.0,-4.8

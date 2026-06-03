@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33383561,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1847,1803,5.0,7,1.83,35,64.05,"Eshkol, Idan",,1544.0,False,ISR,1.0,1,0.18,35,6.3
+33383561,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1847,1803,5.0,7,1.83,35,64.05,"Obado, Sean Adrich",,1630.0,False,PHI,1.0,1,0.27,35,9.45
+33383561,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1847,1803,5.0,7,1.83,35,64.05,"Faramarzi Garousi, Maartia",,1820.0,False,IRI,1.0,1,0.52,35,18.2
+33383561,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1847,1803,5.0,7,1.83,35,64.05,"Bolashakov, Nurali",,1843.0,False,KAZ,1.0,1,0.56,35,19.6
+33383561,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1847,1803,5.0,7,1.83,35,64.05,"Chakrabarty, Reyaansh",c,2185.0,False,AUS,0.0,1,-0.09,35,-3.15
+33383561,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1847,1803,5.0,7,1.83,35,64.05,"Safin, Safarullakhan",,1879.0,False,IND,1.0,1,0.6,35,21.0
+33383561,2024-08-01,0,FIDE WORLD CUP U10 Open (Group-A),Batumi GEO,2024-06-23,2024-06-29,1847,1803,5.0,7,1.83,35,64.05,"Shangin, Lev",,2031.0,False,USA,0.0,1,-0.21,35,-7.35
+33383561,2024-08-01,0,FIDE WORLD CUP U10 Open (Stage-II),Batumi GEO,2024-07-01,2024-07-02,1919,1803,1.0,2,0.32,35,11.2,"Zhauynbay, Alimzhan",,1919.0,False,KAZ,1.0,1,0.66,35,23.1
+33383561,2024-08-01,0,FIDE WORLD CUP U10 Open (Stage-II),Batumi GEO,2024-07-01,2024-07-02,1919,1803,1.0,2,0.32,35,11.2,"Zhauynbay, Alimzhan",,1919.0,False,KAZ,0.0,1,-0.34,35,-11.9
+33383561,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1660,1803,5.5,11,-2.07,35,-72.45,"Tegfateh, Singh",,1454.0,False,IND,1.0,1,0.11,35,3.85
+33383561,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1660,1803,5.5,11,-2.07,35,-72.45,"Jaiveer, Mahendru",f,2203.0,True,IND,0.0,1,-0.08,35,-2.8
+33383561,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1660,1803,5.5,11,-2.07,35,-72.45,"Godhani, Maharth",,1568.0,False,IND,1.0,1,0.21,35,7.35
+33383561,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1660,1803,5.5,11,-2.07,35,-72.45,"Uday, Pratap Bawa",,1689.0,False,IND,0.0,1,-0.66,35,-23.1
+33383561,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1660,1803,5.5,11,-2.07,35,-72.45,"Arnav, Bhatia",,1633.0,False,IND,1.0,1,0.28,35,9.8
+33383561,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1660,1803,5.5,11,-2.07,35,-72.45,"Puneet, Verma",,1684.0,False,IND,0.0,1,-0.66,35,-23.1
+33383561,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1660,1803,5.5,11,-2.07,35,-72.45,"Pratiyush, Kumar",,1585.0,False,IND,0.0,1,-0.78,35,-27.3
+33383561,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1660,1803,5.5,11,-2.07,35,-72.45,"Eshit, Bansal",,1581.0,False,IND,1.0,1,0.22,35,7.7
+33383561,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1660,1803,5.5,11,-2.07,35,-72.45,"Om, Sagar",,1608.0,False,IND,1.0,1,0.25,35,8.75
+33383561,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1660,1803,5.5,11,-2.07,35,-72.45,"Pratyush, Fulara",,1624.0,False,IND,0.0,1,-0.73,35,-25.55
+33383561,2024-08-01,0,34th National Under-17 Chess Championship-2024,Chandigarh IND,2024-07-15,2024-07-23,1660,1803,5.5,11,-2.07,35,-72.45,"Vivaan, Mittal",,1627.0,False,IND,0.5,1,-0.23,35,-8.05

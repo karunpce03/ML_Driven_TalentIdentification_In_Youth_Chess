@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33387907,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1519,1548,2.5,7,-1.29,40,-51.6,"Pranav, Agrawal",,1404.0,False,IND,1.0,1,0.31,40,12.4
+33387907,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1519,1548,2.5,7,-1.29,40,-51.6,"Akshat, Mahobiya",,1713.0,False,IND,0.0,1,-0.28,40,-11.2
+33387907,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1519,1548,2.5,7,-1.29,40,-51.6,"Rakesh, Verma",,1435.0,False,IND,1.0,1,0.35,40,14.0
+33387907,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1519,1548,2.5,7,-1.29,40,-51.6,"Gade, Bhupesh",,1769.0,False,IND,0.0,1,-0.22,40,-8.8
+33387907,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1519,1548,2.5,7,-1.29,40,-51.6,"Atharva, Ajay Nimbalkar",,1436.0,False,IND,0.0,1,-0.65,40,-26.0
+33387907,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1519,1548,2.5,7,-1.29,40,-51.6,"Mahajan, Sadanand",,1421.0,False,IND,0.5,1,-0.17,40,-6.8
+33387907,2024-09-01,0,4th Nagpur Below 1800 Open FIDE Rating Chess Tournament,Nagpur IND,2024-08-15,2024-08-17,1519,1548,2.5,7,-1.29,40,-51.6,"Hemanth, Seera",,1455.0,False,IND,0.0,1,-0.63,40,-25.2

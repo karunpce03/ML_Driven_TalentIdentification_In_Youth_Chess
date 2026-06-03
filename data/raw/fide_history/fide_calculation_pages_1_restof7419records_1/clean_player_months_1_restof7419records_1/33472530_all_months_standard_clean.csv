@@ -1,0 +1,23 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33472530,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1506,1482,1.5,4,-0.37,40,-14.8,"Japon, Jeric",,1620.0,False,PHI,0.0,1,-0.31,40,-12.4
+33472530,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1506,1482,1.5,4,-0.37,40,-14.8,"Tarabey, Ralph",,1473.0,False,USA,1.0,1,0.49,40,19.6
+33472530,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1506,1482,1.5,4,-0.37,40,-14.8,"Deshmukh, Omm",,1499.0,False,IND,0.0,1,-0.48,40,-19.2
+33472530,2024-08-01,0,8 th ChessLab Classic U2200,Dubai UAE,2024-06-22,2024-06-23,1506,1482,1.5,4,-0.37,40,-14.8,"Udiavar, Pragun Pai",,1432.0,False,IND,0.5,1,-0.07,40,-2.8
+33472530,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1641,1467,2.0,5,0.59,40,23.6,"Darvishi, Matin",,1815.0,False,IRI,0.5,1,0.39,40,15.6
+33472530,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1641,1467,2.0,5,0.59,40,23.6,"Obado, Sean Adrich",,1601.0,False,PHI,0.5,1,0.18,40,7.2
+33472530,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1641,1467,2.0,5,0.59,40,23.6,"Almutairi, Musaad H",,1648.0,False,KSA,0.0,1,-0.26,40,-10.4
+33472530,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1641,1467,2.0,5,0.59,40,23.6,"Kaloh, Edvard",,1550.0,False,SLO,1.0,1,0.61,40,24.4
+33472530,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,1641,1467,2.0,5,0.59,40,23.6,"Prithvi, Raj Prajeesh",,1592.0,False,IND,0.0,1,-0.33,40,-13.2
+33472530,2024-11-01,0,Chess Lab Classic Rating Invitational,Dubai UAE,2024-09-20,2024-09-28,1456,1491,2.5,5,-0.24,40,-9.6,"Hofilena, Nino Francisco Iv",,1444.0,False,PHI,1.0,1,0.43,40,17.2
+33472530,2024-11-01,0,Chess Lab Classic Rating Invitational,Dubai UAE,2024-09-20,2024-09-28,1456,1491,2.5,5,-0.24,40,-9.6,"Minesh, Patil",,1438.0,False,IND,0.5,1,-0.07,40,-2.8
+33472530,2024-11-01,0,Chess Lab Classic Rating Invitational,Dubai UAE,2024-09-20,2024-09-28,1456,1491,2.5,5,-0.24,40,-9.6,"Goel, Vivan",,1403.0,False,IND,0.0,1,-0.62,40,-24.8
+33472530,2024-11-01,0,Chess Lab Classic Rating Invitational,Dubai UAE,2024-09-20,2024-09-28,1456,1491,2.5,5,-0.24,40,-9.6,"Lobo, Dhruv",,1550.0,False,NED,0.0,1,-0.42,40,-16.8
+33472530,2024-11-01,0,Chess Lab Classic Rating Invitational,Dubai UAE,2024-09-20,2024-09-28,1456,1491,2.5,5,-0.24,40,-9.6,"Rajendra, Sawant",,1446.0,False,IND,1.0,1,0.44,40,17.6
+33472530,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1496,1491,2.5,4,0.5,40,20.0,"Minesh, Patil",,1414.0,False,IND,0.5,1,-0.11,40,-4.4
+33472530,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1496,1491,2.5,4,0.5,40,20.0,"Goel, Vivan",,1403.0,False,IND,1.0,1,0.38,40,15.2
+33472530,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1496,1491,2.5,4,0.5,40,20.0,"Rajendra, Sawant",,1464.0,False,IND,1.0,1,0.46,40,18.4
+33472530,2024-11-01,0,Chess Lab Classic-Rating Invitational,Dubai UAE,2024-10-25,2024-10-27,1496,1491,2.5,4,0.5,40,20.0,"Tom, Mathew",,1704.0,False,IND,0.0,1,-0.23,40,-9.2
+33472530,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,1658,1501,0.0,2,-0.6,40,-24.0,"Klochkov, Grigory",,1739.0,False,RUS,0.0,1,-0.2,40,-8.0
+33472530,2025-01-01,0,Chess Lab U1800 Classic Tournament DEC,Dubai UAE,2024-12-29,2024-12-29,1658,1501,0.0,2,-0.6,40,-24.0,"Kalia, Rahul",,1577.0,False,IND,0.0,1,-0.4,40,-16.0
+33472530,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1663,1501,0.0,2,-0.57,40,-22.8,"Mokhtar, Omar.",,1711.0,False,SYR,0.0,1,-0.23,40,-9.2
+33472530,2025-02-01,0,Dubai December Standard Tournament 2024,Dubai UAE,2024-12-20,2024-12-22,1663,1501,0.0,2,-0.57,40,-22.8,"Karar, Ahmed",,1615.0,False,EGY,0.0,1,-0.34,40,-13.6

@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33477914,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1586,1458,1.0,4,-0.32,40,-12.8,"Chakrabarti, Tamal",,1652.0,False,IND,0.0,1,-0.25,40,-10.0
+33477914,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1586,1458,1.0,4,-0.32,40,-12.8,"Subhajit, Roy",,1466.0,False,IND,1.0,1,0.51,40,20.4
+33477914,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1586,1458,1.0,4,-0.32,40,-12.8,"Sourasis, Saha",,1629.0,False,IND,0.0,1,-0.27,40,-10.8
+33477914,2024-06-01,0,61st WB Senior State Senior Open Chess Championship 2024,Kolkata IND,2024-05-16,2024-05-19,1586,1458,1.0,4,-0.32,40,-12.8,"Kinjal, Sardar",,1597.0,False,IND,0.0,1,-0.31,40,-12.4

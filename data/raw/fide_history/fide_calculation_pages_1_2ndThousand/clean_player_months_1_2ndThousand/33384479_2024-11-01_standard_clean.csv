@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33384479,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1633,1444,2.0,4,0.9,40,36.0,"Mrithyunjay, Mahadevan",c,1844,True,IND,0.0,1,-0.08,40,-3.2
+33384479,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1633,1444,2.0,4,0.9,40,36.0,"Vishprajesh, Anand",,1531,False,IND,0.5,1,0.12,40,4.8
+33384479,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1633,1444,2.0,4,0.9,40,36.0,"Dave, Eric Allen P",,1540,False,IND,1.0,1,0.63,40,25.2
+33384479,2024-11-01,0,Sri M.S.Venkataraman Memorial 9th International FIDE Rating Open Chess Tournament,Chennai IND,2024-10-10,2024-10-13,1633,1444,2.0,4,0.9,40,36.0,"Granthik, Mallick",,1617,False,IND,0.5,1,0.23,40,9.2

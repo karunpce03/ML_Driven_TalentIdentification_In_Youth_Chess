@@ -1,0 +1,13 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88100936,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,,,1.0,2,0.0,1543,,"Kerret, Mohammed",,1470,False,PLE,1.0,1,0.0,,0.0
+88100936,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,,,1.0,2,0.0,1543,,"Patricio, Rolly",,1615,False,PHI,0.0,1,0.0,,0.0
+88100936,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,1.0,4,0.0,1373,,"Elarcosa, Rommel T.",,1645,False,PHI,0.0,1,0.0,,0.0
+88100936,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,1.0,4,0.0,1373,,"Al-Atas, Abdulrahman",,1656,False,QAT,0.0,1,0.0,,0.0
+88100936,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,1.0,4,0.0,1373,,"Al-Mansouri, Fahad",,1507,False,QAT,0.0,1,0.0,,0.0
+88100936,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,,,1.0,4,0.0,1373,,"Abdulazizova, Asmina",,1457,False,UZB,1.0,1,0.0,,0.0
+88100936,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,,,2.0,6,0.0,1378,,"Al-Qassabi, Layan",,1542,False,QAT,0.0,1,0.0,,0.0
+88100936,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,,,2.0,6,0.0,1378,,"Wang, Yiduo",,1427,False,CHN,0.0,1,0.0,,0.0
+88100936,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,,,2.0,6,0.0,1378,,"Almaradni, Ghali.",,1456,False,SYR,1.0,1,0.0,,0.0
+88100936,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,,,2.0,6,0.0,1378,,"Neavin, Raghunathan",,1482,False,IND,0.0,1,0.0,,0.0
+88100936,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,,,2.0,6,0.0,1378,,"Al-Kuwari, Turki",,1607,False,QAT,0.0,1,0.0,,0.0
+88100936,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,,,2.0,6,0.0,1378,,"Rishi, Ganesharathinam",,1502,False,IND,1.0,1,0.0,,0.0

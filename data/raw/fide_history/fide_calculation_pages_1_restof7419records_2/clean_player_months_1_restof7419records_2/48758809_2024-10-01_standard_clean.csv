@@ -1,0 +1,3 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48758809,2024-10-01,0,H2E Maharashtra State Selection Under 19 Open FIDE Rating Chess Championship 2024,Kolhapur IND,2024-09-05,2024-09-07,1876,1549,0.0,2,-0.27,40,-10.8,"Ram, Vishal Parab",,1949,True,IND,0.0,1,-0.08,40,-3.2
+48758809,2024-10-01,0,H2E Maharashtra State Selection Under 19 Open FIDE Rating Chess Championship 2024,Kolhapur IND,2024-09-05,2024-09-07,1876,1549,0.0,2,-0.27,40,-10.8,"Deoshatwar, Ojas",,1803,False,IND,0.0,1,-0.19,40,-7.6

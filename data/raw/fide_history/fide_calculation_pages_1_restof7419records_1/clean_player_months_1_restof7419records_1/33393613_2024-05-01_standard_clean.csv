@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33393613,2024-05-01,0,UAE League Chess Championship - U14 Open,Emirates UAE,2024-02-10,2024-03-10,1320,1368,2.0,3,0.31,40,12.4,"Ahmed, Khamis Almazrouei",,1199.0,False,UAE,1.0,1,0.28,40,11.2
+33393613,2024-05-01,0,UAE League Chess Championship - U14 Open,Emirates UAE,2024-02-10,2024-03-10,1320,1368,2.0,3,0.31,40,12.4,"Mohamed, Yousuf Al-Ali",,1506.0,False,UAE,0.5,1,0.19,40,7.6
+33393613,2024-05-01,0,UAE League Chess Championship - U14 Open,Emirates UAE,2024-02-10,2024-03-10,1320,1368,2.0,3,0.31,40,12.4,"Sultan Jabir, Alzarooni",,1254.0,False,UAE,0.5,1,-0.16,40,-6.4

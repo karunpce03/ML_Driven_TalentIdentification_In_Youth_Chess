@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33450390,2024-07-01,0,26th Asian Youth Chess Championship G8 group,Almaty KAZ,2024-06-12,2024-06-19,1517,1416,5.0,6,2.82,40,112.8,"Nguyen, Vu Bao Chau",,1541.0,False,VIE,1.0,1,0.67,40,26.8
+33450390,2024-07-01,0,26th Asian Youth Chess Championship G8 group,Almaty KAZ,2024-06-12,2024-06-19,1517,1416,5.0,6,2.82,40,112.8,"Golizadeh, Asena",,1561.0,False,IRI,1.0,1,0.69,40,27.6
+33450390,2024-07-01,0,26th Asian Youth Chess Championship G8 group,Almaty KAZ,2024-06-12,2024-06-19,1517,1416,5.0,6,2.82,40,112.8,"Chen, Qinran",,1451.0,False,CHN,1.0,1,0.55,40,22.0
+33450390,2024-07-01,0,26th Asian Youth Chess Championship G8 group,Almaty KAZ,2024-06-12,2024-06-19,1517,1416,5.0,6,2.82,40,112.8,"Nakshatra, Gumudavelly",,1546.0,False,IND,1.0,1,0.68,40,27.2
+33450390,2024-07-01,0,26th Asian Youth Chess Championship G8 group,Almaty KAZ,2024-06-12,2024-06-19,1517,1416,5.0,6,2.82,40,112.8,"Balakanova, Azaliya",,1566.0,False,KAZ,1.0,1,0.7,40,28.0
+33450390,2024-07-01,0,26th Asian Youth Chess Championship G8 group,Almaty KAZ,2024-06-12,2024-06-19,1517,1416,5.0,6,2.82,40,112.8,"Kim, Leyla",,1439.0,False,KAZ,0.0,1,-0.47,40,-18.8

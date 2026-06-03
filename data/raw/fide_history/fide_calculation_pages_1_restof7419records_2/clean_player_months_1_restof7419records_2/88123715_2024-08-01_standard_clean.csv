@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88123715,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1645,1449,0.0,4,-1.08,40,-43.2,"Soham, Roy",,1849,True,IND,0.0,1,-0.08,40,-3.2
+88123715,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1645,1449,0.0,4,-1.08,40,-43.2,"Vitasta, Koul",,1578,False,IND,0.0,1,-0.33,40,-13.2
+88123715,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1645,1449,0.0,4,-1.08,40,-43.2,"Shashwat, Singh",,1525,False,IND,0.0,1,-0.4,40,-16.0
+88123715,2024-08-01,0,1st AFCA International Open Classical Rating Chess Tournament,Faridabad IND,2024-06-26,2024-06-30,1645,1449,0.0,4,-1.08,40,-43.2,"Kavyansh, Jain",,1627,False,IND,0.0,1,-0.27,40,-10.8

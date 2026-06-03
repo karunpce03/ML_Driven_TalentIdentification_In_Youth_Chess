@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33325855,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1617,1857,4.5,7,-1.01,40,-40.4,"Thanushika, P",,1457,True,IND,1.0,1,0.08,40,3.2
+33325855,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1617,1857,4.5,7,-1.01,40,-40.4,"Lishanth, B",,1534,False,IND,1.0,1,0.13,40,5.2
+33325855,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1617,1857,4.5,7,-1.01,40,-40.4,"Jehoahaz, Jabaneel H",,1635,False,IND,1.0,1,0.22,40,8.8
+33325855,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1617,1857,4.5,7,-1.01,40,-40.4,"Kavin, E",,1721,False,IND,0.5,1,-0.18,40,-7.2
+33325855,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1617,1857,4.5,7,-1.01,40,-40.4,"Sanjay, Ganesh Pandi",,1734,False,IND,0.0,1,-0.67,40,-26.8
+33325855,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1617,1857,4.5,7,-1.01,40,-40.4,"Dhruv, Gupta",,1588,False,IND,1.0,1,0.17,40,6.8
+33325855,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1617,1857,4.5,7,-1.01,40,-40.4,"Karthick, Sai P",,1653,False,IND,0.0,1,-0.76,40,-30.4

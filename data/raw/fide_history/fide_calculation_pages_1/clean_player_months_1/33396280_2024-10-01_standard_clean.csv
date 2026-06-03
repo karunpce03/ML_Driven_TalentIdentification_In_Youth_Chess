@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33396280,2024-10-01,0,2024 September Marshall Monthly FIDE - U1800,"New York, NY USA",2024-09-20,2024-09-22,1622,1552,1.5,3,0.29,40,11.6,"Dinglasan, Matthew",,1640.0,False,USA,0.0,1,-0.38,40,-15.2
+33396280,2024-10-01,0,2024 September Marshall Monthly FIDE - U1800,"New York, NY USA",2024-09-20,2024-09-22,1622,1552,1.5,3,0.29,40,11.6,"Chen, Yidong",,1601.0,False,USA,0.5,1,0.07,40,2.8
+33396280,2024-10-01,0,2024 September Marshall Monthly FIDE - U1800,"New York, NY USA",2024-09-20,2024-09-22,1622,1552,1.5,3,0.29,40,11.6,"Peters, Axel",,1625.0,False,USA,1.0,1,0.6,40,24.0

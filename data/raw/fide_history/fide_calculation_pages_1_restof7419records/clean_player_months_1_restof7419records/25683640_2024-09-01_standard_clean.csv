@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25683640,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1959,2023,7.0,11,0.4,40,16.0,"Shiva, R V",,1729,False,IND,1.0,1,0.15,40,6.0
+25683640,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1959,2023,7.0,11,0.4,40,16.0,"Shubham, Shukla",,1835,False,IND,0.0,1,-0.74,40,-29.6
+25683640,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1959,2023,7.0,11,0.4,40,16.0,"Oishik, Mondal",,1799,False,IND,1.0,1,0.22,40,8.8
+25683640,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1959,2023,7.0,11,0.4,40,16.0,"Sidharth, Mohan",,1848,False,IND,1.0,1,0.27,40,10.8
+25683640,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1959,2023,7.0,11,0.4,40,16.0,"Rupam, Mukherjee",,1917,False,IND,1.0,1,0.36,40,14.4
+25683640,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1959,2023,7.0,11,0.4,40,16.0,"Gusain, Himal",m,2423,True,IND,0.0,1,-0.08,40,-3.2
+25683640,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1959,2023,7.0,11,0.4,40,16.0,"Dinesh, Kumar Jaganathan",,1914,False,IND,0.5,1,-0.15,40,-6.0
+25683640,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1959,2023,7.0,11,0.4,40,16.0,"Shreyash, Singh",,1885,False,IND,1.0,1,0.31,40,12.4
+25683640,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1959,2023,7.0,11,0.4,40,16.0,"Mehul, Sondhi",,1839,False,IND,1.0,1,0.26,40,10.4
+25683640,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1959,2023,7.0,11,0.4,40,16.0,"Visakh, N R",g,2423,True,IND,0.0,1,-0.08,40,-3.2
+25683640,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1959,2023,7.0,11,0.4,40,16.0,"Saisarvesh, S",,1937,False,IND,0.5,1,-0.12,40,-4.8

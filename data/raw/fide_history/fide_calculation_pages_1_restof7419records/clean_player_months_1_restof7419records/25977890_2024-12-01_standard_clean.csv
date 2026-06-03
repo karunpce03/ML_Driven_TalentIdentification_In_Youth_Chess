@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25977890,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1627,1781,7.0,9,0.76,40,30.4,"Vritti, Jain",,1405.0,False,IND,1.0,1,0.09,40,3.6
+25977890,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1627,1781,7.0,9,0.76,40,30.4,"Tanveer, Bahl",,1518.0,False,IND,1.0,1,0.18,40,7.2
+25977890,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1627,1781,7.0,9,0.76,40,30.4,"Shrivastava, Aditi",,1590.0,False,IND,1.0,1,0.25,40,10.0
+25977890,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1627,1781,7.0,9,0.76,40,30.4,"Arpan, Das",,2084.0,False,IND,0.5,1,0.36,40,14.4
+25977890,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1627,1781,7.0,9,0.76,40,30.4,"Kanav, Bansal",,1512.0,False,IND,0.5,1,-0.33,40,-13.2
+25977890,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1627,1781,7.0,9,0.76,40,30.4,"Kavyansh, Jain",,1637.0,False,IND,0.5,1,-0.19,40,-7.6
+25977890,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1627,1781,7.0,9,0.76,40,30.4,"Krishna, Kundu",,1627.0,False,IND,0.5,1,-0.21,40,-8.4
+25977890,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1627,1781,7.0,9,0.76,40,30.4,"Gurmehar, Singh",,1613.0,False,IND,1.0,1,0.28,40,11.2
+25977890,2024-12-01,0,1st Skillcraft International Open Classical FIDE Rated Chess Tournament,Delhi IND,2024-11-16,2024-11-20,1627,1781,7.0,9,0.76,40,30.4,"Dishita, Dey",,1654.0,False,IND,1.0,1,0.33,40,13.2

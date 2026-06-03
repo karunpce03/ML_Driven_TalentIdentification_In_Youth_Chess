@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+46672940,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2386,2288,5.0,9,1.66,20,33.2,"Kulaots, Kaido",g,2521.0,False,EST,0.5,1,0.29,20,5.8
+46672940,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2386,2288,5.0,9,1.66,20,33.2,"Costa, Leonardo",m,2498.0,False,GER,0.0,1,-0.23,20,-4.6
+46672940,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2386,2288,5.0,9,1.66,20,33.2,"Matsumura, Cocoro",c,2036.0,False,JPN,1.0,1,0.19,20,3.8
+46672940,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2386,2288,5.0,9,1.66,20,33.2,"Baenziger, Fabian",m,2430.0,False,SUI,0.5,1,0.19,20,3.8
+46672940,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2386,2288,5.0,9,1.66,20,33.2,"Petursson, Margeir",g,2409.0,False,ISL,0.5,1,0.16,20,3.2
+46672940,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2386,2288,5.0,9,1.66,20,33.2,"Durak, Can",f,2446.0,False,TUR,0.5,1,0.21,20,4.2
+46672940,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2386,2288,5.0,9,1.66,20,33.2,"Tarhan, Adar",m,2483.0,False,TUR,0.5,1,0.25,20,5.0
+46672940,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2386,2288,5.0,9,1.66,20,33.2,"Luukkonen, Tommi",f,2311.0,False,FIN,1.0,1,0.53,20,10.6
+46672940,2025-02-01,0,Rilton Cup 2024-2025,Stockholm SWE,2024-12-27,2025-01-05,2386,2288,5.0,9,1.66,20,33.2,"Wartiovaara, Oliver",f,2340.0,False,FIN,0.5,1,0.07,20,1.4
+46672940,2025-02-01,0,MARIENBAD OPEN 2025 - B2,Marianske Lazne CZE,2025-01-18,2025-01-25,2249,2294,3.5,9,-1.52,20,-30.4,"Van Der Hagen, Loek",f,2299.0,False,NED,0.0,1,-0.49,20,-9.8
+46672940,2025-02-01,0,MARIENBAD OPEN 2025 - B2,Marianske Lazne CZE,2025-01-18,2025-01-25,2249,2294,3.5,9,-1.52,20,-30.4,"Ochedzan, Filip",c,2138.0,False,POL,0.0,1,-0.71,20,-14.2
+46672940,2025-02-01,0,MARIENBAD OPEN 2025 - B2,Marianske Lazne CZE,2025-01-18,2025-01-25,2249,2294,3.5,9,-1.52,20,-30.4,"Tichy, Stepan",,2184.0,False,CZE,0.5,1,-0.15,20,-3.0
+46672940,2025-02-01,0,MARIENBAD OPEN 2025 - B2,Marianske Lazne CZE,2025-01-18,2025-01-25,2249,2294,3.5,9,-1.52,20,-30.4,"Pisk, Petr",m,2302.0,False,CZE,0.5,1,0.01,20,0.2
+46672940,2025-02-01,0,MARIENBAD OPEN 2025 - B2,Marianske Lazne CZE,2025-01-18,2025-01-25,2249,2294,3.5,9,-1.52,20,-30.4,"Vaculik, Jakub",,2281.0,False,CZE,0.5,1,-0.02,20,-0.4
+46672940,2025-02-01,0,MARIENBAD OPEN 2025 - B2,Marianske Lazne CZE,2025-01-18,2025-01-25,2249,2294,3.5,9,-1.52,20,-30.4,"Sliwerski, Radoslaw",,2040.0,False,POL,1.0,1,0.19,20,3.8
+46672940,2025-02-01,0,MARIENBAD OPEN 2025 - B2,Marianske Lazne CZE,2025-01-18,2025-01-25,2249,2294,3.5,9,-1.52,20,-30.4,"Roesemann, Rainer",f,2276.0,False,GER,0.0,1,-0.53,20,-10.6
+46672940,2025-02-01,0,MARIENBAD OPEN 2025 - B2,Marianske Lazne CZE,2025-01-18,2025-01-25,2249,2294,3.5,9,-1.52,20,-30.4,"Konopka, Michal",m,2321.0,False,CZE,0.5,1,0.04,20,0.8
+46672940,2025-02-01,0,MARIENBAD OPEN 2025 - B2,Marianske Lazne CZE,2025-01-18,2025-01-25,2249,2294,3.5,9,-1.52,20,-30.4,"Senthil, Maran K",f,2398.0,False,IND,0.5,1,0.14,20,2.8

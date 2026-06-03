@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+366104441,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1696,1864,6.5,9,0.24,40,9.6,"Dishi, Makhija",,1464,True,IND,1.0,1,0.08,40,3.2
+366104441,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1696,1864,6.5,9,0.24,40,9.6,"Bhat, Parth",,1467,False,IND,1.0,1,0.08,40,3.2
+366104441,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1696,1864,6.5,9,0.24,40,9.6,"Aruna, Dinakara",,1661,False,IND,1.0,1,0.24,40,9.6
+366104441,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1696,1864,6.5,9,0.24,40,9.6,"Shreesuday, Behera",,1721,False,IND,1.0,1,0.31,40,12.4
+366104441,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1696,1864,6.5,9,0.24,40,9.6,"Kulkarni, Vinayak",,1978,False,IND,0.5,1,0.16,40,6.4
+366104441,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1696,1864,6.5,9,0.24,40,9.6,"Afreed, T Khan",,1891,False,IND,0.0,1,-0.46,40,-18.4
+366104441,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1696,1864,6.5,9,0.24,40,9.6,"Yug, Tarun Khiani",,1673,False,IND,1.0,1,0.25,40,10.0
+366104441,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1696,1864,6.5,9,0.24,40,9.6,"Pranav, Ganesh Prabhu",,1772,False,IND,0.0,1,-0.63,40,-25.2
+366104441,2024-12-01,0,Chadurangostava All India Open FIDE Rated Chess Tournament 2024,Bangalore IND,2024-11-14,2024-11-18,1696,1864,6.5,9,0.24,40,9.6,"Ruchir, Nadikatla",,1636,False,IND,1.0,1,0.21,40,8.4

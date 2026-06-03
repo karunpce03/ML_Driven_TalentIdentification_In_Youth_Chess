@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Prem, Kumar",,1426,True,IND,1.0,1,0.08,40,3.2
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Prakash, Ram",f,1998,False,IND,1.0,1,0.73,40,29.2
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Ravi, Teja S.",m,2226,True,IND,0.0,1,-0.08,40,-3.2
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Sharsha, Backer",,1981,False,IND,0.0,1,-0.29,40,-11.6
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Todwal, Sudeep",,1704,False,IND,0.0,1,-0.67,40,-26.8
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Paarshva, Parmar",,1692,False,IND,1.0,1,0.32,40,12.8
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Narayan, Joshi",,1746,False,IND,0.5,1,-0.11,40,-4.4
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Kolla, Bhaavan",,2050,False,IND,1.0,1,0.78,40,31.2
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Kheerthi, Ganta",wf,1982,False,IND,0.0,1,-0.29,40,-11.6
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Sambhav, Setiya",,1691,False,IND,0.5,1,-0.18,40,-7.2
+33312982,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1831,1826,5.5,11,0.06,40,2.4,"Bhargava, Susanth Saketh M",,1647,False,IND,0.5,1,-0.23,40,-9.2

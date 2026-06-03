@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25968343,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1896,2004,7.0,11,-0.13,40,-5.2,"Rudradaman, Mertia",,1723,False,IND,1.0,1,0.16,40,6.4
+25968343,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1896,2004,7.0,11,-0.13,40,-5.2,"Rohan, Kumar Gourabathuni",,1835,False,IND,1.0,1,0.28,40,11.2
+25968343,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1896,2004,7.0,11,-0.13,40,-5.2,"Iniyan, Pa",g,2404,True,IND,0.0,1,-0.08,40,-3.2
+25968343,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1896,2004,7.0,11,-0.13,40,-5.2,"Utkrisht, Tuli",,1892,False,IND,0.0,1,-0.65,40,-26.0
+25968343,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1896,2004,7.0,11,-0.13,40,-5.2,"Khuanna, Kapoor",,1771,False,IND,1.0,1,0.21,40,8.4
+25968343,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1896,2004,7.0,11,-0.13,40,-5.2,"Mahish, S A",,1877,False,IND,0.5,1,-0.17,40,-6.8
+25968343,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1896,2004,7.0,11,-0.13,40,-5.2,"Boricha, Yohan",,1846,False,IND,1.0,1,0.29,40,11.6
+25968343,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1896,2004,7.0,11,-0.13,40,-5.2,"Advik, Amit Agrawal",,1859,False,IND,0.5,1,-0.19,40,-7.6
+25968343,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1896,2004,7.0,11,-0.13,40,-5.2,"Challa, Saharsha",,1857,False,IND,0.5,1,-0.2,40,-8.0
+25968343,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1896,2004,7.0,11,-0.13,40,-5.2,"Arul, Anandh S P K",,1913,False,IND,1.0,1,0.38,40,15.2
+25968343,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1896,2004,7.0,11,-0.13,40,-5.2,"Mhamane, Sourabh",,1884,False,IND,0.5,1,-0.16,40,-6.4

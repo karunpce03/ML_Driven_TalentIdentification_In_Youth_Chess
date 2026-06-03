@@ -1,0 +1,36 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48722251,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,1634,1705,3.0,4,0.62,40,24.8,"Shriram, Rameshbabu",,1483.0,False,IND,1.0,1,0.22,40,8.8
+48722251,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,1634,1705,3.0,4,0.62,40,24.8,"Elarcosa, Rommel T.",,1627.0,False,PHI,0.0,1,-0.61,40,-24.4
+48722251,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,1634,1705,3.0,4,0.62,40,24.8,"Albin, Sajan",,1834.0,False,IND,1.0,1,0.67,40,26.8
+48722251,2024-07-01,0,1st FCPL-Qatar FIDE Rated Classical Chess Tournament,Doha QAT,2024-06-06,2024-06-07,1634,1705,3.0,4,0.62,40,24.8,"Jomha, Eyad.",,1591.0,False,SYR,1.0,1,0.34,40,13.6
+48722251,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1730,4.5,11,-0.71,40,-28.4,"Jaidambareesh, N R",,2025.0,False,IND,0.0,1,-0.15,40,-6.0
+48722251,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1730,4.5,11,-0.71,40,-28.4,"Simar, Singh Dhody",,1492.0,False,IND,1.0,1,0.2,40,8.0
+48722251,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1730,4.5,11,-0.71,40,-28.4,"Soni, Atharv",,1932.0,False,IND,0.0,1,-0.24,40,-9.6
+48722251,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1730,4.5,11,-0.71,40,-28.4,"Sourabh, Kochar",,1515.0,False,IND,1.0,1,0.23,40,9.2
+48722251,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1730,4.5,11,-0.71,40,-28.4,"Yashad, Bambeshwar",,1873.0,False,IND,0.0,1,-0.31,40,-12.4
+48722251,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1730,4.5,11,-0.71,40,-28.4,"Sidharth, Mohan",,1848.0,False,IND,0.0,1,-0.34,40,-13.6
+48722251,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1730,4.5,11,-0.71,40,-28.4,"Ayush, Mani",,1533.0,False,IND,1.0,1,0.25,40,10.0
+48722251,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1730,4.5,11,-0.71,40,-28.4,"Shubham, Shukla",,1835.0,False,IND,0.0,1,-0.36,40,-14.4
+48722251,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1730,4.5,11,-0.71,40,-28.4,"Radhika, Sharma",,1618.0,False,IND,1.0,1,0.35,40,14.0
+48722251,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1730,4.5,11,-0.71,40,-28.4,"Harshit, Singh",,1957.0,False,IND,0.0,1,-0.21,40,-8.4
+48722251,2024-09-01,0,61st National Chess Championship 2024,Karnal IND,2024-08-17,2024-08-27,1751,1730,4.5,11,-0.71,40,-28.4,"Khillo, Purna",,1637.0,False,IND,0.5,1,-0.13,40,-5.2
+48722251,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1708,1702,2.5,6,-0.47,40,-18.8,"Miswadah, Baha",c,1968.0,False,PLE,1.0,1,0.82,40,32.8
+48722251,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1708,1702,2.5,6,-0.47,40,-18.8,"Hong, Mingren",,1947.0,False,CHN,0.0,1,-0.2,40,-8.0
+48722251,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1708,1702,2.5,6,-0.47,40,-18.8,"Khalil, Manar",wf,1909.0,False,SYR,0.0,1,-0.23,40,-9.2
+48722251,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1708,1702,2.5,6,-0.47,40,-18.8,"Al-Mansouri, Fahad",,1507.0,False,QAT,0.0,1,-0.75,40,-30.0
+48722251,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1708,1702,2.5,6,-0.47,40,-18.8,"Dev, Darshan Thanikachalam",,1454.0,False,IND,0.5,1,-0.31,40,-12.4
+48722251,2025-01-01,0,Qatar Masters 2024- Open B,Doha QAT,2024-12-03,2024-12-12,1708,1702,2.5,6,-0.47,40,-18.8,"Saketh, Kunnummalkattil",,1463.0,False,IND,1.0,1,0.2,40,8.0
+48722251,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1750,1702,3.0,7,-0.12,40,-4.8,"Shashish, Subbiah",,2008.0,False,IND,0.0,1,-0.14,40,-5.6
+48722251,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1750,1702,3.0,7,-0.12,40,-4.8,"Al Busaidi, Hamood",c,1890.0,False,OMA,0.0,1,-0.26,40,-10.4
+48722251,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1750,1702,3.0,7,-0.12,40,-4.8,"Sharma, Nitin",,1511.0,False,IND,1.0,1,0.25,40,10.0
+48722251,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1750,1702,3.0,7,-0.12,40,-4.8,"Elobeid, Asim Ali",c,1925.0,False,SUD,0.0,1,-0.22,40,-8.8
+48722251,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1750,1702,3.0,7,-0.12,40,-4.8,"Al Maqbali, Saif",,1493.0,False,OMA,1.0,1,0.23,40,9.2
+48722251,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1750,1702,3.0,7,-0.12,40,-4.8,"Aly, Talal",,1893.0,False,EGY,0.0,1,-0.25,40,-10.0
+48722251,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1750,1702,3.0,7,-0.12,40,-4.8,"Sara, Mohamed",,1527.0,False,SUD,1.0,1,0.27,40,10.8
+48722251,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1807,1678,3.0,7,0.53,40,21.2,"Ferhi, Djamel",,2078.0,True,ALG,0.5,1,0.42,40,16.8
+48722251,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1807,1678,3.0,7,0.53,40,21.2,"Abel, Sajan",,1887.0,False,IND,0.0,1,-0.23,40,-9.2
+48722251,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1807,1678,3.0,7,0.53,40,21.2,"Al-Kuwari, Turki",,1607.0,False,QAT,1.0,1,0.4,40,16.0
+48722251,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1807,1678,3.0,7,0.53,40,21.2,"Balanandan, Ayyappan",,1989.0,False,IND,0.5,1,0.36,40,14.4
+48722251,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1807,1678,3.0,7,0.53,40,21.2,"Erfan, Mohamad Firdaus",c,1769.0,False,QAT,0.0,1,-0.38,40,-15.2
+48722251,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1807,1678,3.0,7,0.53,40,21.2,"Neavin, Raghunathan",,1482.0,False,IND,1.0,1,0.25,40,10.0
+48722251,2025-04-01,0,Katara Ramadan Chess Open 2025,Doha QAT,2025-03-06,2025-03-14,1807,1678,3.0,7,0.53,40,21.2,"Ashwath, Narayanan P",,1836.0,False,IND,0.0,1,-0.29,40,-11.6

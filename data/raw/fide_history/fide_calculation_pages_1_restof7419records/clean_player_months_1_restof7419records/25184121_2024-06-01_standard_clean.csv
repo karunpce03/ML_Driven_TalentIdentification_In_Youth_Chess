@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25184121,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1743,1450,0.0,3,-0.52,40,-20.8,"Haridev, S",,1850.0,True,IND,0.0,1,-0.08,40,-3.2
+25184121,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1743,1450,0.0,3,-0.52,40,-20.8,"Sarvajith, Muthukumar",,1587.0,False,IND,0.0,1,-0.32,40,-12.8
+25184121,2024-06-01,0,Tamil Nadu State Under 17 Open FIDE Rated Chess Championship-2024,Arupukottai IND,2024-05-01,2024-05-05,1743,1450,0.0,3,-0.52,40,-20.8,"Vengatesh, Krishnan C",,1792.0,False,IND,0.0,1,-0.12,40,-4.8
+25184121,2024-06-01,0,Tamil Nadu State Under-25 Open Chess Championships 2024,Panruti IND,2024-05-22,2024-05-26,1684,1450,0.0,2,-0.42,40,-16.8,"Suriya, S V",,1747.0,False,IND,0.0,1,-0.15,40,-6.0
+25184121,2024-06-01,0,Tamil Nadu State Under-25 Open Chess Championships 2024,Panruti IND,2024-05-22,2024-05-26,1684,1450,0.0,2,-0.42,40,-16.8,"Karthick, Bala G",,1621.0,False,IND,0.0,1,-0.27,40,-10.8

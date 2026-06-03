@@ -1,0 +1,19 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33329664,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2046,1960,3.0,9,-0.53,38,-20.14,"Sultan, Ibrahim",m,2214.0,False,UAE,0.0,1,-0.19,38,-7.22
+33329664,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2046,1960,3.0,9,-0.53,38,-20.14,"Ahlam, Rashed",wf,1953.0,False,UAE,0.0,1,-0.51,38,-19.38
+33329664,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2046,1960,3.0,9,-0.53,38,-20.14,"Nyazi, Nehad",,2139.0,False,EGY,0.5,1,0.23,38,8.74
+33329664,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2046,1960,3.0,9,-0.53,38,-20.14,"Vidur, Rajagopal",,1864.0,False,IND,0.0,1,-0.63,38,-23.94
+33329664,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2046,1960,3.0,9,-0.53,38,-20.14,"Al-Blooshi, Hamad Essa",c,1968.0,False,UAE,1.0,1,0.51,38,19.38
+33329664,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2046,1960,3.0,9,-0.53,38,-20.14,"Vivaan, Rana",,2009.0,False,IND,1.0,1,0.57,38,21.66
+33329664,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2046,1960,3.0,9,-0.53,38,-20.14,"Ahmed, Fareed",f,2122.0,False,UAE,0.0,1,-0.29,38,-11.02
+33329664,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2046,1960,3.0,9,-0.53,38,-20.14,"Ali, Abdulaziz",,1958.0,False,UAE,0.5,1,0.0,38,0.0
+33329664,2025-04-01,0,DCCC February Standard Tournament2025,Dubai UAE,2025-02-14,2025-02-22,2046,1960,3.0,9,-0.53,38,-20.14,"Abuazizah, Raji",,2183.0,False,PLE,0.0,1,-0.22,38,-8.36
+33329664,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen A-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,2107,1960,4.5,9,1.77,38,67.26,"Wacker, Peter",f,2178.0,False,GER,0.5,1,0.28,38,10.64
+33329664,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen A-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,2107,1960,4.5,9,1.77,38,67.26,"Fauth, Dietmar, Dr.",,2084.0,False,GER,0.5,1,0.17,38,6.46
+33329664,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen A-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,2107,1960,4.5,9,1.77,38,67.26,"Alvarez Poves, Jesus",,2120.0,False,ESP,1.0,1,0.71,38,26.98
+33329664,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen A-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,2107,1960,4.5,9,1.77,38,67.26,"Grebennikov, Nikolai A.",c,2176.0,False,FID,0.0,1,-0.22,38,-8.36
+33329664,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen A-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,2107,1960,4.5,9,1.77,38,67.26,"Neuhoff, Laertes",,2112.0,False,GER,0.5,1,0.2,38,7.6
+33329664,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen A-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,2107,1960,4.5,9,1.77,38,67.26,"Schroeder, Volker, Dr.",,2044.0,False,GER,0.5,1,0.12,38,4.56
+33329664,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen A-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,2107,1960,4.5,9,1.77,38,67.26,"Carnot, Luca",,2070.0,False,GER,0.5,1,0.15,38,5.7
+33329664,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen A-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,2107,1960,4.5,9,1.77,38,67.26,"Van Den Bersselaar, Jeroen",,2099.0,False,NED,0.5,1,0.19,38,7.22
+33329664,2025-04-01,0,40. ChessOrg-Schachfestival in Bad Woerishofen A-Open,Bad Woerishofen GER,2025-03-21,2025-03-29,2107,1960,4.5,9,1.77,38,67.26,"Hund, Sarah",,2083.0,False,SUI,0.5,1,0.17,38,6.46

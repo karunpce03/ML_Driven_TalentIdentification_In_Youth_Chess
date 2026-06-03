@@ -1,0 +1,10 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25985051,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1859,1815,4.0,9,-0.09,40,-3.6,"Srinandhan, A",,1602.0,False,IND,1.0,1,0.23,40,9.2
+25985051,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1859,1815,4.0,9,-0.09,40,-3.6,"Armaan, Singh Bakshi",,1726.0,False,IND,1.0,1,0.38,40,15.2
+25985051,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1859,1815,4.0,9,-0.09,40,-3.6,"Reyan, Md.",c,2006.0,False,IND,1.0,1,0.75,40,30.0
+25985051,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1859,1815,4.0,9,-0.09,40,-3.6,"Ayaan, Garg",,1983.0,False,IND,0.0,1,-0.28,40,-11.2
+25985051,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1859,1815,4.0,9,-0.09,40,-3.6,"Anadkat, Kartavya",,2176.0,False,IND,0.0,1,-0.1,40,-4.0
+25985051,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1859,1815,4.0,9,-0.09,40,-3.6,"Daksh, Goyal",,2079.0,False,IND,0.0,1,-0.18,40,-7.2
+25985051,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1859,1815,4.0,9,-0.09,40,-3.6,"Hardik, Shah",,1731.0,False,IND,0.5,1,-0.12,40,-4.8
+25985051,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1859,1815,4.0,9,-0.09,40,-3.6,"Pranav, Ganesh Prabhu",,1742.0,False,IND,0.0,1,-0.6,40,-24.0
+25985051,2025-04-01,0,National Amateur Chess Championship Below 2300 (Open),Gaya IND,2025-03-25,2025-03-29,1859,1815,4.0,9,-0.09,40,-3.6,"Shubh, Singh Saini",,1687.0,False,IND,0.5,1,-0.17,40,-6.8

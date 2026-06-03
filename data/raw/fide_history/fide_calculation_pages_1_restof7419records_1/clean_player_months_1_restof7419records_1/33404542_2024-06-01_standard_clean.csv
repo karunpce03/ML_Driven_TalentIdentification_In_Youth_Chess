@@ -1,0 +1,8 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33404542,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1647,1503,1.0,5,-0.56,40,-22.4,"Ashwin, Sairam",,1737.0,False,IND,0.0,1,-0.21,40,-8.4
+33404542,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1647,1503,1.0,5,-0.56,40,-22.4,"Sai, Krishna V",,1622.0,False,IND,0.0,1,-0.34,40,-13.6
+33404542,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1647,1503,1.0,5,-0.56,40,-22.4,"Uvaraj, Kumaran M",,1607.0,False,IND,1.0,1,0.64,40,25.6
+33404542,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1647,1503,1.0,5,-0.56,40,-22.4,"Roshan, Antony C",,1607.0,False,IND,0.0,1,-0.36,40,-14.4
+33404542,2024-06-01,0,2nd KCG Verghese Memorial International FIDE Rated Chess Tournament,Chennai IND,2024-05-01,2024-05-05,1647,1503,1.0,5,-0.56,40,-22.4,"Gurubaran, Raghuraman",,1663.0,False,IND,0.0,1,-0.29,40,-11.6
+33404542,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1674,1503,1.0,2,0.44,40,17.6,"Sanjay, Ganesh Pandi",,1734.0,False,IND,0.0,1,-0.21,40,-8.4
+33404542,2024-06-01,0,Chess Capital 1st International Open Rating Chess Tournament 2024,Chennai IND,2024-05-22,2024-05-26,1674,1503,1.0,2,0.44,40,17.6,"Dhinesh, K A",,1614.0,False,IND,1.0,1,0.65,40,26.0

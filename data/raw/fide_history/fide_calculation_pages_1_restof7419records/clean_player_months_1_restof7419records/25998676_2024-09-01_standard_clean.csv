@@ -1,0 +1,33 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25998676,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2093,2193,3.5,6,-0.3,20,-6.0,"Bardis, Harilaos-Panagiotis",,2018.0,False,GRE,0.0,1,-0.73,20,-14.6
+25998676,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2093,2193,3.5,6,-0.3,20,-6.0,"Demirtas, Alper",,2076.0,False,TUR,0.0,1,-0.66,20,-13.2
+25998676,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2093,2193,3.5,6,-0.3,20,-6.0,"Oner, Cinar",,2003.0,False,TUR,1.0,1,0.25,20,5.0
+25998676,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2093,2193,3.5,6,-0.3,20,-6.0,"Pavan, Karthikeya Varma Gunturi",,2071.0,False,IND,1.0,1,0.33,20,6.6
+25998676,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2093,2193,3.5,6,-0.3,20,-6.0,"Deligiannis, Christos Nikolaos",,2073.0,False,GRE,1.0,1,0.34,20,6.8
+25998676,2024-09-01,0,33rd International open Kavala 2024 Vasilis Theodoridis A,Kavala GRE,2024-07-29,2024-08-05,2093,2193,3.5,6,-0.3,20,-6.0,"Gomes, Mary Ann",wg,2319.0,False,IND,0.5,1,0.17,20,3.4
+25998676,2024-09-01,0,First Saturday GM August 2024,Budapest HUN,2024-08-03,2024-08-10,2391,2382,4.0,9,-0.39,20,-7.8,"Bat, Bilguun",f,2288.0,False,FRA,1.0,1,0.37,20,7.4
+25998676,2024-09-01,0,First Saturday GM August 2024,Budapest HUN,2024-08-03,2024-08-10,2391,2382,4.0,9,-0.39,20,-7.8,"Pap, Misa",g,2396.0,False,SRB,1.0,1,0.52,20,10.4
+25998676,2024-09-01,0,First Saturday GM August 2024,Budapest HUN,2024-08-03,2024-08-10,2391,2382,4.0,9,-0.39,20,-7.8,"Yip, Carissa",m wg,2387.0,False,USA,0.5,1,0.01,20,0.2
+25998676,2024-09-01,0,First Saturday GM August 2024,Budapest HUN,2024-08-03,2024-08-10,2391,2382,4.0,9,-0.39,20,-7.8,"Gedajlovic, Max",m,2378.0,False,CAN,0.0,1,-0.51,20,-10.2
+25998676,2024-09-01,0,First Saturday GM August 2024,Budapest HUN,2024-08-03,2024-08-10,2391,2382,4.0,9,-0.39,20,-7.8,"Eugene, Floryan",m,2421.0,False,FRA,0.0,1,-0.45,20,-9.0
+25998676,2024-09-01,0,First Saturday GM August 2024,Budapest HUN,2024-08-03,2024-08-10,2391,2382,4.0,9,-0.39,20,-7.8,"Kotronias, Vasilios",g,2440.0,False,GRE,0.0,1,-0.42,20,-8.4
+25998676,2024-09-01,0,First Saturday GM August 2024,Budapest HUN,2024-08-03,2024-08-10,2391,2382,4.0,9,-0.39,20,-7.8,"Tyurin, Artem",f,2381.0,False,FID,0.5,1,0.0,20,0.0
+25998676,2024-09-01,0,First Saturday GM August 2024,Budapest HUN,2024-08-03,2024-08-10,2391,2382,4.0,9,-0.39,20,-7.8,"Berczes, David",g,2399.0,False,HUN,0.5,1,0.02,20,0.4
+25998676,2024-09-01,0,First Saturday GM August 2024,Budapest HUN,2024-08-03,2024-08-10,2391,2382,4.0,9,-0.39,20,-7.8,"Dau, Khuong Duy",c,2429.0,False,VIE,0.5,1,0.07,20,1.4
+25998676,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2415,2382,3.5,9,-0.7,20,-14.0,"Salem, A.r. Saleh",g,2652.0,False,UAE,0.5,1,0.33,20,6.6
+25998676,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2415,2382,3.5,9,-0.7,20,-14.0,"Puranik, Abhimanyu",g,2649.0,False,IND,0.5,1,0.32,20,6.4
+25998676,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2415,2382,3.5,9,-0.7,20,-14.0,"Vokhidov, Shamsiddin",g,2643.0,False,UZB,0.0,1,-0.18,20,-3.6
+25998676,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2415,2382,3.5,9,-0.7,20,-14.0,"Patil, Priyanshu",,2307.0,False,IND,0.0,1,-0.6,20,-12.0
+25998676,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2415,2382,3.5,9,-0.7,20,-14.0,"Omidi, Arya",,2317.0,False,IRI,0.5,1,-0.09,20,-1.8
+25998676,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2415,2382,3.5,9,-0.7,20,-14.0,"Nayak, Rajesh",c,2285.0,False,IND,0.5,1,-0.13,20,-2.6
+25998676,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2415,2382,3.5,9,-0.7,20,-14.0,"Czebe, Attila",g,2302.0,False,HUN,0.0,1,-0.61,20,-12.2
+25998676,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2415,2382,3.5,9,-0.7,20,-14.0,"Nagarkatte, Vedant",f,2262.0,False,IND,1.0,1,0.34,20,6.8
+25998676,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Masters),Abu Dhabi UAE,2024-08-14,2024-08-25,2415,2382,3.5,9,-0.7,20,-14.0,"Gemy, Jose Daniel",m,2321.0,False,BOL,0.5,1,-0.08,20,-1.6
+25998676,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,2033,2382,6.5,8,-0.43,20,-8.6,"Khush, Dholaria",,1982.0,True,IND,1.0,1,0.08,20,1.6
+25998676,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,2033,2382,6.5,8,-0.43,20,-8.6,"Prakash, Vaishnavi",,1982.0,True,IND,1.0,1,0.08,20,1.6
+25998676,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,2033,2382,6.5,8,-0.43,20,-8.6,"Raihan, Bin Anzar",,1982.0,True,IND,1.0,1,0.08,20,1.6
+25998676,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,2033,2382,6.5,8,-0.43,20,-8.6,"Simsek, Ayaz",,1982.0,True,TUR,1.0,1,0.08,20,1.6
+25998676,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,2033,2382,6.5,8,-0.43,20,-8.6,"Mahdavi, Reza",f,2389.0,False,IRI,0.0,1,-0.49,20,-9.8
+25998676,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,2033,2382,6.5,8,-0.43,20,-8.6,"Mohit, S",,1982.0,True,IND,1.0,1,0.08,20,1.6
+25998676,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,2033,2382,6.5,8,-0.43,20,-8.6,"Develi, Kemal Cagan",,1982.0,True,TUR,0.5,1,-0.42,20,-8.4
+25998676,2024-09-01,0,30th Abu Dhabi INT. Chess Festival 2024(Juniors),Abu Dhabi UAE,2024-08-14,2024-08-25,2033,2382,6.5,8,-0.43,20,-8.6,"Rusu, Lucas",,1982.0,True,ROU,1.0,1,0.08,20,1.6

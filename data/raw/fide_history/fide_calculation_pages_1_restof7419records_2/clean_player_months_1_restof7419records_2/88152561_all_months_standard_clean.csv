@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88152561,2024-08-01,0,H2e Power Systems Maharashtra State Under 17 Open Chess Championship 2024,Mumbai IND,2024-07-06,2024-07-08,1682,1472,1.0,4,0.0,40,0.0,"Ram, Vishal Parab",,1872.0,True,IND,0.0,1,-0.08,40,-3.2
+88152561,2024-08-01,0,H2e Power Systems Maharashtra State Under 17 Open Chess Championship 2024,Mumbai IND,2024-07-06,2024-07-08,1682,1472,1.0,4,0.0,40,0.0,"Caleb, Vihaan John",,1583.0,False,IND,1.0,1,0.65,40,26.0
+88152561,2024-08-01,0,H2e Power Systems Maharashtra State Under 17 Open Chess Championship 2024,Mumbai IND,2024-07-06,2024-07-08,1682,1472,1.0,4,0.0,40,0.0,"Kush, Ajay Agarwal",,1698.0,False,IND,0.0,1,-0.21,40,-8.4
+88152561,2024-08-01,0,H2e Power Systems Maharashtra State Under 17 Open Chess Championship 2024,Mumbai IND,2024-07-06,2024-07-08,1682,1472,1.0,4,0.0,40,0.0,"Chauhan, Janmesh",,1576.0,False,IND,0.0,1,-0.36,40,-14.4
+88152561,2024-10-01,0,h2e Power Systems Maharashtra State Under 11 Open FIDE Rating Selection Chess Championship,Kolhapur IND,2024-08-30,2024-09-01,1653,1472,0.0,2,-0.54,40,-21.6,"Gaurang, Bhandari",,1729.0,False,IND,0.0,1,-0.18,40,-7.2
+88152561,2024-10-01,0,h2e Power Systems Maharashtra State Under 11 Open FIDE Rating Selection Chess Championship,Kolhapur IND,2024-08-30,2024-09-01,1653,1472,0.0,2,-0.54,40,-21.6,"Limaye, Kavish",,1577.0,False,IND,0.0,1,-0.36,40,-14.4
+88152561,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1623,1450,2.0,5,0.59,40,23.6,"Naik, Amit",,1605.0,False,IND,0.5,1,0.21,40,8.4
+88152561,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1623,1450,2.0,5,0.59,40,23.6,"Anay, Samir Uplap",,1539.0,False,IND,1.0,1,0.62,40,24.8
+88152561,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1623,1450,2.0,5,0.59,40,23.6,"Kapadi, Yash",,1810.0,False,IND,0.0,1,-0.1,40,-4.0
+88152561,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1623,1450,2.0,5,0.59,40,23.6,"Akshay, Kumar",,1596.0,False,IND,0.5,1,0.2,40,8.0
+88152561,2024-12-01,0,1st All India Open FIDE rating Chess Tournament 2024,Mumbai IND,2024-11-05,2024-11-10,1623,1450,2.0,5,0.59,40,23.6,"Harsh, Satish Parab",,1566.0,False,IND,0.0,1,-0.34,40,-13.6

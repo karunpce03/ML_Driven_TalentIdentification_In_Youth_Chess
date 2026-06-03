@@ -1,0 +1,39 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88126455,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,,,2.0,5,0.0,1408,,"Al Wardi, Saif",,1429.0,False,OMA,0.0,1,0.0,,0.0
+88126455,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,,,2.0,5,0.0,1408,,"Al Bulushi, Omar",,1446.0,False,OMA,0.0,1,0.0,,0.0
+88126455,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,,,2.0,5,0.0,1408,,"Al Ghafri, Fathima",,1416.0,False,OMA,1.0,1,0.0,,0.0
+88126455,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,,,2.0,5,0.0,1408,,"Al Hinai, Mazin",,1482.0,False,OMA,1.0,1,0.0,,0.0
+88126455,2024-06-01,0,Ibri Classic Chess Championship 2024,Ibri OMA,2024-05-02,2024-05-04,,,2.0,5,0.0,1408,,"Izaan, Shafeek",,1625.0,False,FID,0.0,1,0.0,,0.0
+88126455,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1520.0,1521.0,0.0,2,-1.0,40,-40.0,"Swetha, S",,1637.0,False,IND,0.0,1,-0.34,40.0,-13.6
+88126455,2024-09-01,0,KNIGHT CHESS ACADEMY KARUNAGAPPALLY OPEN FIDE RATED CHESS TOURNAMENT 2024,Kollam IND,2024-08-24,2024-08-28,1520.0,1521.0,0.0,2,-1.0,40,-40.0,"Devanandan, R",,1403.0,False,IND,0.0,1,-0.66,40.0,-26.4
+88126455,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1472.0,1481.0,3.5,6,0.43,40,17.2,"Devansh, Darpan Patel",,1543.0,False,IND,0.5,1,0.09,40.0,3.6
+88126455,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1472.0,1481.0,3.5,6,0.43,40,17.2,"Arjun, Sharma",,1439.0,False,IND,0.5,1,-0.06,40.0,-2.4
+88126455,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1472.0,1481.0,3.5,6,0.43,40,17.2,"Annepu, Sashank",,1513.0,False,IND,0.5,1,0.04,40.0,1.6
+88126455,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1472.0,1481.0,3.5,6,0.43,40,17.2,"Reyaan, Gharai",,1406.0,False,IND,1.0,1,0.4,40.0,16.0
+88126455,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1472.0,1481.0,3.5,6,0.43,40,17.2,"Siddharth, Chodisetti",,1413.0,False,IND,1.0,1,0.41,40.0,16.4
+88126455,2024-10-01,0,37th National Under-7 Chess Championship-2024,Mysuru IND,2024-09-01,2024-09-05,1472.0,1481.0,3.5,6,0.43,40,17.2,"Takkshanth, Anand",,1518.0,False,IND,0.0,1,-0.45,40.0,-18.0
+88126455,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1745.0,1498.0,2.0,4,1.11,40,44.4,"Magdi, Abueisa",,1753.0,False,SUD,0.5,1,0.31,40.0,12.4
+88126455,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1745.0,1498.0,2.0,4,1.11,40,44.4,"Fathi Tavani, Farhoud",,1880.0,False,IRI,0.0,1,-0.09,40.0,-3.6
+88126455,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1745.0,1498.0,2.0,4,1.11,40,44.4,"Al Shukaili, Reem",,1490.0,False,OMA,1.0,1,0.49,40.0,19.6
+88126455,2025-01-01,0,Suhar International Chess Championship 2024,Sohar OMA,2024-12-12,2024-12-15,1745.0,1498.0,2.0,4,1.11,40,44.4,"De Figueiredo Coutinho, Milton",,1857.0,False,ESP,0.5,1,0.4,40.0,16.0
+88126455,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1744.0,1498.0,1.5,6,0.18,40,7.2,"Gholami Orimi, Mahdi",m,1898.0,True,IRI,0.0,1,-0.08,40.0,-3.2
+88126455,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1744.0,1498.0,1.5,6,0.18,40,7.2,"Albin, Sajan",,1804.0,False,IND,0.0,1,-0.14,40.0,-5.6
+88126455,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1744.0,1498.0,1.5,6,0.18,40,7.2,"Shamas, Salim Ahmed",,1741.0,False,OMA,1.0,1,0.8,40.0,32.0
+88126455,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1744.0,1498.0,1.5,6,0.18,40,7.2,"Said, Ahmed Ali Jidal Fadhil",,1822.0,False,OMA,0.0,1,-0.13,40.0,-5.2
+88126455,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1744.0,1498.0,1.5,6,0.18,40,7.2,"Shybi, Binoj",,1782.0,False,IND,0.0,1,-0.16,40.0,-6.4
+88126455,2025-02-01,0,Muscat International Chess Championship 2024,Muscat OMA,2024-12-26,2024-12-31,1744.0,1498.0,1.5,6,0.18,40,7.2,"Al Harrasi, Omar",,1418.0,False,OMA,0.5,1,-0.11,40.0,-4.4
+88126455,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1741.0,1542.0,1.0,4,-0.11,40,-4.4,"Nyland, Thomas",,1942.0,True,NOR,0.0,1,-0.08,40.0,-3.2
+88126455,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1741.0,1542.0,1.0,4,-0.11,40,-4.4,"Kharwandikar, Yash Sandeep",,1431.0,False,IND,1.0,1,0.35,40.0,14.0
+88126455,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1741.0,1542.0,1.0,4,-0.11,40,-4.4,"Vidur, Rajagopal",,1806.0,False,IND,0.0,1,-0.18,40.0,-7.2
+88126455,2025-02-01,0,Chess Lab U2199 Classic January Tournament,Dubai UAE,2025-01-04,2025-01-05,1741.0,1542.0,1.0,4,-0.11,40,-4.4,"Siddharth, Sanjoy",,1783.0,False,IND,0.0,1,-0.2,40.0,-8.0
+88126455,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1644.0,1542.0,0.0,3,-1.1,40,-44.0,"Sinan, Shafeek",,1734.0,False,IND,0.0,1,-0.25,40.0,-10.0
+88126455,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1644.0,1542.0,0.0,3,-1.1,40,-44.0,"Akshobhya, Damodar Katti",,1602.0,False,IND,0.0,1,-0.42,40.0,-16.8
+88126455,2025-02-01,0,Chess Masters Academy Classic Chamionship,Muscat OMA,2025-01-27,2025-01-29,1644.0,1542.0,0.0,3,-1.1,40,-44.0,"Muhammad, Zaahir Naduvilaparambil",,1595.0,False,IND,0.0,1,-0.43,40.0,-17.2
+88126455,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1689.0,1542.0,1.5,5,-0.13,40,-5.2,"Medhat, Magdy",,1858.0,False,EGY,0.0,1,-0.13,40.0,-5.2
+88126455,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1689.0,1542.0,1.5,5,-0.13,40,-5.2,"Britton, Russell",,1727.0,False,ENG,0.5,1,0.24,40.0,9.6
+88126455,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1689.0,1542.0,1.5,5,-0.13,40,-5.2,"Farhan, Fakkih",,1475.0,False,IND,1.0,1,0.41,40.0,16.4
+88126455,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1689.0,1542.0,1.5,5,-0.13,40,-5.2,"Aly, Talal",,1858.0,False,EGY,0.0,1,-0.13,40.0,-5.2
+88126455,2025-03-01,0,Chess Masters Academy Rapid Tournament- Bousher,Muscat OMA,2025-01-30,2025-01-30,1689.0,1542.0,1.5,5,-0.13,40,-5.2,"Harshavardhan, V",,1529.0,False,IND,0.0,1,-0.52,40.0,-20.8
+88126455,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1720.0,1501.0,1.0,3,0.2,40,8.0,"Allam, Emad Hamdy",,1901.0,True,EGY,0.0,1,-0.08,40.0,-3.2
+88126455,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1720.0,1501.0,1.0,3,0.2,40,8.0,"Stuthi, Nayak",,1427.0,False,IND,1.0,1,0.4,40.0,16.0
+88126455,2025-03-01,0,SHC Season Classic Chess Championship,Muscat OMA,2025-02-13,2025-02-16,1720.0,1501.0,1.0,3,0.2,40,8.0,"Al Hinai, Qusay",,1833.0,False,OMA,0.0,1,-0.12,40.0,-4.8

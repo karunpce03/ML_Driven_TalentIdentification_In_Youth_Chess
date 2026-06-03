@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88131602,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1785,1484,0.0,4,-0.62,40,-24.8,"Sri, Charan Sandipagu",,1884,True,IND,0.0,1,-0.08,40,-3.2
+88131602,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1785,1484,0.0,4,-0.62,40,-24.8,"Vakcheri, Mohitha",,1781,False,IND,0.0,1,-0.15,40,-6.0
+88131602,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1785,1484,0.0,4,-0.62,40,-24.8,"Tarun, N",,1809,False,IND,0.0,1,-0.13,40,-5.2
+88131602,2024-10-01,0,5th Marvel International Open FIDE Rated Chess Tournament,Hyderabad IND,2024-08-29,2024-09-02,1785,1484,0.0,4,-0.62,40,-24.8,"Hari, K Annamalai",,1665,False,IND,0.0,1,-0.26,40,-10.4

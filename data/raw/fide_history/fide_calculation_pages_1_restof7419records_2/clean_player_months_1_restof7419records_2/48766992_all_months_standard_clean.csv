@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48766992,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,,,2.0,5,0.0,1410,,"Arnav, Yogesh Netankar",,1512.0,False,IND,1.0,1,0.0,,0.0
+48766992,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,,,2.0,5,0.0,1410,,"Tiwari, O P",,1555.0,False,IND,0.0,1,0.0,,0.0
+48766992,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,,,2.0,5,0.0,1410,,"Vivek, Deshmukh",,1473.0,False,IND,0.0,1,0.0,,0.0
+48766992,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,,,2.0,5,0.0,1410,,"Kulkarni, Vijay",,1432.0,False,IND,1.0,1,0.0,,0.0
+48766992,2024-06-01,0,Motilalji Firodiya Classical Fide Rating Chess Tournament,Ahmednagar IND,2024-05-03,2024-05-07,,,2.0,5,0.0,1410,,"Thokal, Kaustubh",,1437.0,False,IND,0.0,1,0.0,,0.0
+48766992,2024-08-01,0,All India Below 1600 Narendraji Firodia Chashak Classical FIDE Rating Chess Tournament,Ahmednagar IND,2024-07-19,2024-07-21,1444.0,1523.0,1.0,1,0.39,40,15.6,"Jare, Rahul",,1444.0,False,IND,1.0,1,0.39,40.0,15.6

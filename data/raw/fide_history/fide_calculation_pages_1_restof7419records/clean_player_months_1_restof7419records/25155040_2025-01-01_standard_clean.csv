@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25155040,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1685,1498,1.0,3,0.13,40,5.2,"Maitreyi, Mondal",,1822.0,False,IND,0.0,1,-0.13,40,-5.2
+25155040,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1685,1498,1.0,3,0.13,40,5.2,"Rathore, S.k.",f,1817.0,False,IND,0.0,1,-0.13,40,-5.2
+25155040,2025-01-01,0,15th KIIT International Chess Festival (Category B Below 2000),Bhubaneswar IND,2024-12-02,2024-12-05,1685,1498,1.0,3,0.13,40,5.2,"Debendra, Sabar",,1417.0,False,IND,1.0,1,0.39,40,15.6
+25155040,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1654,1498,0.0,2,-0.58,40,-23.2,"Babula, Bhoi",,1653.0,False,IND,0.0,1,-0.29,40,-11.6
+25155040,2025-01-01,0,15th KIIT International Chess Festival (Category C Below 1800),Bhubaneswar IND,2024-12-06,2024-12-09,1654,1498,0.0,2,-0.58,40,-23.2,"Chopdekar, Aarav",,1654.0,False,IND,0.0,1,-0.29,40,-11.6

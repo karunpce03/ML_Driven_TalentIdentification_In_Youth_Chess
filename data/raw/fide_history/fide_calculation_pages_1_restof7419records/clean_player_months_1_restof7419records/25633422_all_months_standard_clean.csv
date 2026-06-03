@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25633422,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1633,1522,1.0,6,-1.13,40,-45.2,"Sushrutha, Reddy",,1681.0,False,IND,1.0,1,0.71,40,28.4
+25633422,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1633,1522,1.0,6,-1.13,40,-45.2,Krishna,,1755.0,False,IND,0.0,1,-0.21,40,-8.4
+25633422,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1633,1522,1.0,6,-1.13,40,-45.2,"Krupha, S Ukkali",,1640.0,False,IND,0.0,1,-0.34,40,-13.6
+25633422,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1633,1522,1.0,6,-1.13,40,-45.2,"Soni, Vivan",,1652.0,False,IND,0.0,1,-0.32,40,-12.8
+25633422,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1633,1522,1.0,6,-1.13,40,-45.2,"Vikrant, Krishnakumar",,1650.0,False,IND,0.0,1,-0.33,40,-13.2
+25633422,2024-05-01,0,6th Bangalore Open FIDE Rating Chess  Tournament,Bangalore IND,2024-04-07,2024-04-11,1633,1522,1.0,6,-1.13,40,-45.2,"Manu, Parameshwaran",,1420.0,False,IND,0.0,1,-0.64,40,-25.6

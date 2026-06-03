@@ -1,0 +1,43 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33384819,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1618,1445,2.0,6,0.27,40,10.8,"Md, Imran",f,1845.0,True,IND,0.0,1,-0.08,40,-3.2
+33384819,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1618,1445,2.0,6,0.27,40,10.8,"Vivaan, Bhattacharya",,1555.0,False,IND,1.0,1,0.65,40,26.0
+33384819,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1618,1445,2.0,6,0.27,40,10.8,"Manoj, Guru R",,1633.0,False,IND,0.0,1,-0.26,40,-10.4
+33384819,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1618,1445,2.0,6,0.27,40,10.8,"Yashmith, Ram Chaikam",,1569.0,False,KEN,1.0,1,0.67,40,26.8
+33384819,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1618,1445,2.0,6,0.27,40,10.8,"Ayush, Yadav",,1581.0,False,IND,0.0,1,-0.32,40,-12.8
+33384819,2024-06-01,0,Third Marvel International Open FIDE Rated Tournament,Hyderabad IND,2024-05-01,2024-05-05,1618,1445,2.0,6,0.27,40,10.8,"Charith, Reddy Bethi",,1526.0,False,IND,0.0,1,-0.39,40,-15.6
+33384819,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1558,1445,1.5,5,-0.23,40,-9.2,"Mahender, Marri",,1591.0,False,IND,0.0,1,-0.3,40,-12.0
+33384819,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1558,1445,1.5,5,-0.23,40,-9.2,"Yasaswini, Animi",,1543.0,False,IND,0.0,1,-0.37,40,-14.8
+33384819,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1558,1445,1.5,5,-0.23,40,-9.2,"Challapalli, Nishanth Srigiri",,1532.0,False,IND,1.0,1,0.62,40,24.8
+33384819,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1558,1445,1.5,5,-0.23,40,-9.2,"Ishaan, Kandi",,1555.0,False,IND,0.0,1,-0.35,40,-14.0
+33384819,2024-06-01,0,Fourth Marvel International Below 1800 FIDE Rated Tournament,Hyderabad IND,2024-05-06,2024-05-08,1558,1445,1.5,5,-0.23,40,-9.2,"Stephen, Andrews",,1568.0,False,IND,0.5,1,0.17,40,6.8
+33384819,2024-06-01,0,Paradiso Open 2024,Lugano-Paradiso SUI,2024-05-17,2024-05-19,1786,1445,3.0,5,2.4,40,96.0,"Camagna, Alessandro",,1845.0,True,ITA,0.5,1,0.42,40,16.8
+33384819,2024-06-01,0,Paradiso Open 2024,Lugano-Paradiso SUI,2024-05-17,2024-05-19,1786,1445,3.0,5,2.4,40,96.0,"Bangerter, Ena",,1764.0,False,SUI,0.5,1,0.37,40,14.8
+33384819,2024-06-01,0,Paradiso Open 2024,Lugano-Paradiso SUI,2024-05-17,2024-05-19,1786,1445,3.0,5,2.4,40,96.0,"Papa, Angelo",,1756.0,False,ITA,1.0,1,0.86,40,34.4
+33384819,2024-06-01,0,Paradiso Open 2024,Lugano-Paradiso SUI,2024-05-17,2024-05-19,1786,1445,3.0,5,2.4,40,96.0,"Zecirovic, Giacomo",,1845.0,True,SUI,0.0,1,-0.08,40,-3.2
+33384819,2024-06-01,0,Paradiso Open 2024,Lugano-Paradiso SUI,2024-05-17,2024-05-19,1786,1445,3.0,5,2.4,40,96.0,"Morotti, Elisa",,1721.0,False,SUI,1.0,1,0.83,40,33.2
+33384819,2024-07-01,0,Budapest Spring Festival C (0- 1799),Budapest HUN,2024-05-23,2024-05-31,1663,1445,6.5,9,4.46,35,156.1,"Seri, David",,1659.0,False,HUN,1.0,1,0.77,35,26.95
+33384819,2024-07-01,0,Budapest Spring Festival C (0- 1799),Budapest HUN,2024-05-23,2024-05-31,1663,1445,6.5,9,4.46,35,156.1,"Szurkos, Andras",,1677.0,False,HUN,1.0,1,0.79,35,27.65
+33384819,2024-07-01,0,Budapest Spring Festival C (0- 1799),Budapest HUN,2024-05-23,2024-05-31,1663,1445,6.5,9,4.46,35,156.1,"Woozeer, Seth",,1679.0,False,ENG,1.0,1,0.79,35,27.65
+33384819,2024-07-01,0,Budapest Spring Festival C (0- 1799),Budapest HUN,2024-05-23,2024-05-31,1663,1445,6.5,9,4.46,35,156.1,"Colombo, Reymund",,1718.0,False,ITA,0.0,1,-0.17,35,-5.95
+33384819,2024-07-01,0,Budapest Spring Festival C (0- 1799),Budapest HUN,2024-05-23,2024-05-31,1663,1445,6.5,9,4.46,35,156.1,"Kovacs-Barcza, Donat",,1612.0,False,HUN,0.5,1,0.22,35,7.7
+33384819,2024-07-01,0,Budapest Spring Festival C (0- 1799),Budapest HUN,2024-05-23,2024-05-31,1663,1445,6.5,9,4.46,35,156.1,"Feher, Laszlo",,1632.0,False,HUN,0.5,1,0.24,35,8.4
+33384819,2024-07-01,0,Budapest Spring Festival C (0- 1799),Budapest HUN,2024-05-23,2024-05-31,1663,1445,6.5,9,4.46,35,156.1,"Dobra, Adam",,1607.0,False,HUN,1.0,1,0.71,35,24.85
+33384819,2024-07-01,0,Budapest Spring Festival C (0- 1799),Budapest HUN,2024-05-23,2024-05-31,1663,1445,6.5,9,4.46,35,156.1,"Rogic, Vuk",,1656.0,False,SRB,0.5,1,0.27,35,9.45
+33384819,2024-07-01,0,Budapest Spring Festival C (0- 1799),Budapest HUN,2024-05-23,2024-05-31,1663,1445,6.5,9,4.46,35,156.1,"Dal Bianco, Nicola",,1728.0,False,ITA,1.0,1,0.84,35,29.4
+33384819,2024-07-01,0,29th Rakosmenti Open,Budapest HUN,2024-05-31,2024-06-02,1830,1445,1.5,3,1.24,35,43.4,"Horvath, Csaba",,1806.0,False,HUN,0.5,1,0.4,35,14.0
+33384819,2024-07-01,0,29th Rakosmenti Open,Budapest HUN,2024-05-31,2024-06-02,1830,1445,1.5,3,1.24,35,43.4,"Elo, Istvan",,1845.0,True,HUN,0.5,1,0.42,35,14.7
+33384819,2024-07-01,0,29th Rakosmenti Open,Budapest HUN,2024-05-31,2024-06-02,1830,1445,1.5,3,1.24,35,43.4,"Salamon, Laszlo",,1838.0,False,HUN,0.5,1,0.42,35,14.7
+33384819,2024-07-01,0,SixDays Budapest June U2250,Budapest HUN,2024-06-03,2024-06-08,1909,1543,1.0,8,0.16,35,5.6,"Machin Arbelo, Pedro Alexis",,1926.0,False,ESP,0.0,1,-0.09,35,-3.15
+33384819,2024-07-01,0,SixDays Budapest June U2250,Budapest HUN,2024-06-03,2024-06-08,1909,1543,1.0,8,0.16,35,5.6,"Chekanov, Timur",,1927.0,False,FID,0.0,1,-0.09,35,-3.15
+33384819,2024-07-01,0,SixDays Budapest June U2250,Budapest HUN,2024-06-03,2024-06-08,1909,1543,1.0,8,0.16,35,5.6,"Garimella, Srivallabhaditya",,1754.0,False,IND,0.5,1,0.27,35,9.45
+33384819,2024-07-01,0,SixDays Budapest June U2250,Budapest HUN,2024-06-03,2024-06-08,1909,1543,1.0,8,0.16,35,5.6,"He, Canzhou",,1893.0,False,CHN,0.0,1,-0.11,35,-3.85
+33384819,2024-07-01,0,SixDays Budapest June U2250,Budapest HUN,2024-06-03,2024-06-08,1909,1543,1.0,8,0.16,35,5.6,"Hart, Alexander",,1943.0,True,SWE,0.0,1,-0.08,35,-2.8
+33384819,2024-07-01,0,SixDays Budapest June U2250,Budapest HUN,2024-06-03,2024-06-08,1909,1543,1.0,8,0.16,35,5.6,"Dani, Tamas",,1943.0,True,HUN,0.5,1,0.42,35,14.7
+33384819,2024-07-01,0,SixDays Budapest June U2250,Budapest HUN,2024-06-03,2024-06-08,1909,1543,1.0,8,0.16,35,5.6,"Kormos, Adam",,1943.0,True,HUN,0.0,1,-0.08,35,-2.8
+33384819,2024-07-01,0,SixDays Budapest June U2250,Budapest HUN,2024-06-03,2024-06-08,1909,1543,1.0,8,0.16,35,5.6,"Orso, Miklos",m,1943.0,True,HUN,0.0,1,-0.08,35,-2.8
+33384819,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1532,1748,3.5,6,-1.14,40,-45.6,"Chinthapatla, Dhanvin Ram",,1441.0,False,IND,1.0,1,0.14,40,5.6
+33384819,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1532,1748,3.5,6,-1.14,40,-45.6,"Sidharth, Bhargav",,1528.0,False,IND,0.5,1,-0.28,40,-11.2
+33384819,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1532,1748,3.5,6,-1.14,40,-45.6,"Shourya, Gupta",,1531.0,False,IND,0.5,1,-0.28,40,-11.2
+33384819,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1532,1748,3.5,6,-1.14,40,-45.6,"Penjarla, Poojit Ayaan",,1525.0,False,IND,1.0,1,0.22,40,8.8
+33384819,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1532,1748,3.5,6,-1.14,40,-45.6,"Rudransh, P S",,1582.0,False,IND,0.5,1,-0.22,40,-8.8
+33384819,2024-11-01,0,37th National Under-11 Chess Championship-2024,Hyderabad IND,2024-10-04,2024-10-10,1532,1748,3.5,6,-1.14,40,-45.6,"Dhayagude, Aarav",,1582.0,False,IND,0.0,1,-0.72,40,-28.8

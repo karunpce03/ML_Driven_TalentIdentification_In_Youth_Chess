@@ -1,0 +1,4 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+88179850,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,,,0.0,3,0.0,625,,"Akula, Sathvik",,1439,False,IND,0.0,1,0.0,,0.0
+88179850,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,,,0.0,3,0.0,625,,"Dinesh, Reddy Konda",,1414,False,IND,0.0,1,0.0,,0.0
+88179850,2024-06-01,0,Spark Chess Academy 1st International Fide Rating Open Chess Tournament,Vijayawada IND,2024-04-25,2024-04-30,,,0.0,3,0.0,625,,"Sreesha, Kandi",,1422,False,IND,0.0,1,0.0,,0.0

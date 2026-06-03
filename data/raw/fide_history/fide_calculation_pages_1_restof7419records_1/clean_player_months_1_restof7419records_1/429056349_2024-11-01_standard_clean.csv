@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+429056349,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1577,1434,2.0,5,0.45,40,18.0,"Somiddho, Rajbanshi",,1615.0,False,IND,0.0,1,-0.26,40,-10.4
+429056349,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1577,1434,2.0,5,0.45,40,18.0,"Sourjya, Das",,1496.0,False,IND,1.0,1,0.59,40,23.6
+429056349,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1577,1434,2.0,5,0.45,40,18.0,"Shreyan, Mukherjee",,1585.0,False,IND,0.5,1,0.2,40,8.0
+429056349,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1577,1434,2.0,5,0.45,40,18.0,"Pratyay, Dholay",,1593.0,False,IND,0.5,1,0.21,40,8.4
+429056349,2024-11-01,0,West Bengal State Under-13 (OPEN) FIDE Rated Chess Championship-2024,Kolkata IND,2024-10-14,2024-10-18,1577,1434,2.0,5,0.45,40,18.0,"Khushal, Bagri",,1596.0,False,IND,0.0,1,-0.29,40,-11.6
+429056349,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1582,1434,0.0,3,-0.9,40,-36.0,"Aniket, Das",,1633.0,False,IND,0.0,1,-0.24,40,-9.6
+429056349,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1582,1434,0.0,3,-0.9,40,-36.0,"Shirshadeep, Barman",,1566.0,False,IND,0.0,1,-0.32,40,-12.8
+429056349,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1582,1434,0.0,3,-0.9,40,-36.0,"Alapan, Guin",,1548.0,False,IND,0.0,1,-0.34,40,-13.6

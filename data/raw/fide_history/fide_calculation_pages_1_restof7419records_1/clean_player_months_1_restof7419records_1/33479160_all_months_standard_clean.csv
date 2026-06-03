@@ -1,0 +1,68 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33479160,2024-05-01,0,16th Annual Open at Foxwoods - U2000,"Mashantucket, CT USA",2024-03-28,2024-03-31,1737,1670,1.5,6,-0.96,40,-38.4,"Hayon, Daniel",,1843.0,False,USA,0.0,1,-0.27,40,-10.8
+33479160,2024-05-01,0,16th Annual Open at Foxwoods - U2000,"Mashantucket, CT USA",2024-03-28,2024-03-31,1737,1670,1.5,6,-0.96,40,-38.4,"Gausewitz, Glen K",,1810.0,False,USA,0.5,1,0.19,40,7.6
+33479160,2024-05-01,0,16th Annual Open at Foxwoods - U2000,"Mashantucket, CT USA",2024-03-28,2024-03-31,1737,1670,1.5,6,-0.96,40,-38.4,"Zhou, Abigail",,1714.0,False,USA,0.0,1,-0.44,40,-17.6
+33479160,2024-05-01,0,16th Annual Open at Foxwoods - U2000,"Mashantucket, CT USA",2024-03-28,2024-03-31,1737,1670,1.5,6,-0.96,40,-38.4,"Bonnell, Gregor A",,1582.0,False,FRA,1.0,1,0.38,40,15.2
+33479160,2024-05-01,0,16th Annual Open at Foxwoods - U2000,"Mashantucket, CT USA",2024-03-28,2024-03-31,1737,1670,1.5,6,-0.96,40,-38.4,"Lee, Jonathan Mark",,1734.0,False,USA,0.0,1,-0.41,40,-16.4
+33479160,2024-05-01,0,16th Annual Open at Foxwoods - U2000,"Mashantucket, CT USA",2024-03-28,2024-03-31,1737,1670,1.5,6,-0.96,40,-38.4,"Zhang, Derek",,1737.0,False,USA,0.0,1,-0.41,40,-16.4
+33479160,2024-05-01,0,2024 April Marshall Premier FIDE - U2000,"New York, NY USA",2024-04-12,2024-04-14,1796,1670,2.0,4,0.68,40,27.2,"Tall, Mouhamadou",,1752.0,False,USA,1.0,1,0.61,40,24.4
+33479160,2024-05-01,0,2024 April Marshall Premier FIDE - U2000,"New York, NY USA",2024-04-12,2024-04-14,1796,1670,2.0,4,0.68,40,27.2,"Sharuda, Kameliia",,1852.0,False,USA,0.0,1,-0.26,40,-10.4
+33479160,2024-05-01,0,2024 April Marshall Premier FIDE - U2000,"New York, NY USA",2024-04-12,2024-04-14,1796,1670,2.0,4,0.68,40,27.2,"Wang, Connor Junda",,1824.0,False,USA,1.0,1,0.71,40,28.4
+33479160,2024-05-01,0,2024 April Marshall Premier FIDE - U2000,"New York, NY USA",2024-04-12,2024-04-14,1796,1670,2.0,4,0.68,40,27.2,"Zhang, Derek",,1757.0,False,USA,0.0,1,-0.38,40,-15.2
+33479160,2024-06-01,0,2024 May Marshall Premier FIDE - U2000,"New York, NY USA",2024-05-03,2024-05-05,1614,1659,1.5,2,0.4,40,16.0,"Schaefer, Sasha Milo",,1781.0,False,USA,0.5,1,0.17,40,6.8
+33479160,2024-06-01,0,2024 May Marshall Premier FIDE - U2000,"New York, NY USA",2024-05-03,2024-05-05,1614,1659,1.5,2,0.4,40,16.0,"Zhou, Audrey",,1447.0,False,USA,1.0,1,0.23,40,9.2
+33479160,2024-06-01,0,11th Cherry Blossom Classic - U2100,"Dulles, VA USA",2024-05-23,2024-05-27,1731,1659,3.5,7,0.62,40,24.8,"Li, Ella Xinyi",,1585.0,False,USA,0.0,1,-0.6,40,-24.0
+33479160,2024-06-01,0,11th Cherry Blossom Classic - U2100,"Dulles, VA USA",2024-05-23,2024-05-27,1731,1659,3.5,7,0.62,40,24.8,"Fitzsimmons, Daniela",,1630.0,False,USA,1.0,1,0.46,40,18.4
+33479160,2024-06-01,0,11th Cherry Blossom Classic - U2100,"Dulles, VA USA",2024-05-23,2024-05-27,1731,1659,3.5,7,0.62,40,24.8,"Hiban, Joshua Daniel",,1857.0,False,USA,0.5,1,0.26,40,10.4
+33479160,2024-06-01,0,11th Cherry Blossom Classic - U2100,"Dulles, VA USA",2024-05-23,2024-05-27,1731,1659,3.5,7,0.62,40,24.8,"Haldankar, Atharva",,1711.0,False,USA,1.0,1,0.57,40,22.8
+33479160,2024-06-01,0,11th Cherry Blossom Classic - U2100,"Dulles, VA USA",2024-05-23,2024-05-27,1731,1659,3.5,7,0.62,40,24.8,"Ari, Srinandasai",,1575.0,False,USA,1.0,1,0.38,40,15.2
+33479160,2024-06-01,0,11th Cherry Blossom Classic - U2100,"Dulles, VA USA",2024-05-23,2024-05-27,1731,1659,3.5,7,0.62,40,24.8,"Panico, Nick F, Iii",,1945.0,False,USA,0.0,1,-0.16,40,-6.4
+33479160,2024-06-01,0,11th Cherry Blossom Classic - U2100,"Dulles, VA USA",2024-05-23,2024-05-27,1731,1659,3.5,7,0.62,40,24.8,"Zhang, Derek",,1815.0,False,USA,0.0,1,-0.29,40,-11.6
+33479160,2024-07-01,0,32nd Annual Eastern Class Championships - Class A,"Windsor Locks, CT USA",2024-06-07,2024-06-09,1683,1700,2.0,3,0.43,40,17.2,"McDaniel, Steven E",,1611.0,False,USA,1.0,1,0.38,40,15.2
+33479160,2024-07-01,0,32nd Annual Eastern Class Championships - Class A,"Windsor Locks, CT USA",2024-06-07,2024-06-09,1683,1700,2.0,3,0.43,40,17.2,"Mashkov, David Alexander",,1721.0,False,USA,0.5,1,0.03,40,1.2
+33479160,2024-07-01,0,32nd Annual Eastern Class Championships - Class A,"Windsor Locks, CT USA",2024-06-07,2024-06-09,1683,1700,2.0,3,0.43,40,17.2,"Xue, Ray",,1717.0,False,USA,0.5,1,0.02,40,0.8
+33479160,2024-08-01,0,13th Annual World Open Women's Championship,"Philadelphia, PA USA",2024-07-01,2024-07-02,1651,1717,2.5,4,0.1,40,4.0,"Vijay, Sahasra",,1434.0,False,IND,1.0,1,0.16,40,6.4
+33479160,2024-08-01,0,13th Annual World Open Women's Championship,"Philadelphia, PA USA",2024-07-01,2024-07-02,1651,1717,2.5,4,0.1,40,4.0,"Smits, Kaiya Bridgit Ng",,1465.0,False,USA,1.0,1,0.19,40,7.6
+33479160,2024-08-01,0,13th Annual World Open Women's Championship,"Philadelphia, PA USA",2024-07-01,2024-07-02,1651,1717,2.5,4,0.1,40,4.0,"Paramzina, Anastasia",wg,2117.0,True,FID,0.0,1,-0.08,40,-3.2
+33479160,2024-08-01,0,13th Annual World Open Women's Championship,"Philadelphia, PA USA",2024-07-01,2024-07-02,1651,1717,2.5,4,0.1,40,4.0,"Lai, Isabella",,1588.0,False,USA,0.5,1,-0.17,40,-6.8
+33479160,2024-08-01,0,52nd Annual World Open - U2000,"Philadelphia, PA USA",2024-07-03,2024-07-07,1772,1717,2.5,6,-0.06,40,-2.4,"Garden, Zachary",,1865.0,False,AUS,0.0,1,-0.3,40,-12.0
+33479160,2024-08-01,0,52nd Annual World Open - U2000,"Philadelphia, PA USA",2024-07-03,2024-07-07,1772,1717,2.5,6,-0.06,40,-2.4,"John Francis Kennedy, Kevin Andr",,1753.0,False,USA,1.0,1,0.55,40,22.0
+33479160,2024-08-01,0,52nd Annual World Open - U2000,"Philadelphia, PA USA",2024-07-03,2024-07-07,1772,1717,2.5,6,-0.06,40,-2.4,"Wang, Tianmu",,1653.0,False,USA,0.5,1,-0.09,40,-3.6
+33479160,2024-08-01,0,52nd Annual World Open - U2000,"Philadelphia, PA USA",2024-07-03,2024-07-07,1772,1717,2.5,6,-0.06,40,-2.4,"Nozaki, Mao",,1707.0,False,USA,0.0,1,-0.51,40,-20.4
+33479160,2024-08-01,0,52nd Annual World Open - U2000,"Philadelphia, PA USA",2024-07-03,2024-07-07,1772,1717,2.5,6,-0.06,40,-2.4,"Thorstad, Robert",,1862.0,False,USA,1.0,1,0.69,40,27.6
+33479160,2024-08-01,0,52nd Annual World Open - U2000,"Philadelphia, PA USA",2024-07-03,2024-07-07,1772,1717,2.5,6,-0.06,40,-2.4,"Goldstein, Arav Micah",,1792.0,False,USA,0.0,1,-0.4,40,-16.0
+33479160,2024-09-01,0,12th Annual WIM Ruth Haring National Tournament of Girls State Champions,"Norfolk, VA USA",2024-07-27,2024-07-30,1705,1717,2.0,4,-0.07,40,-2.8,"Mokeeva, Zlata",,1891.0,False,RUS,0.0,1,-0.27,40,-10.8
+33479160,2024-09-01,0,12th Annual WIM Ruth Haring National Tournament of Girls State Champions,"Norfolk, VA USA",2024-07-27,2024-07-30,1705,1717,2.0,4,-0.07,40,-2.8,"Liang, Candice",,1556.0,False,USA,1.0,1,0.29,40,11.6
+33479160,2024-09-01,0,12th Annual WIM Ruth Haring National Tournament of Girls State Champions,"Norfolk, VA USA",2024-07-27,2024-07-30,1705,1717,2.0,4,-0.07,40,-2.8,"Gao, Lilianna",,1646.0,False,USA,0.0,1,-0.6,40,-24.0
+33479160,2024-09-01,0,12th Annual WIM Ruth Haring National Tournament of Girls State Champions,"Norfolk, VA USA",2024-07-27,2024-07-30,1705,1717,2.0,4,-0.07,40,-2.8,"Yang, Grace Siqi, Ms",,1726.0,False,USA,1.0,1,0.51,40,20.4
+33479160,2024-10-01,0,2024 September Marshall Premier FIDE - U2000,"New York, NY USA",2024-09-06,2024-09-08,1765,1716,2.5,4,0.75,40,30.0,"Fogo Esquivel, Levi",,1936.0,False,MEX,0.0,1,-0.22,40,-8.8
+33479160,2024-10-01,0,2024 September Marshall Premier FIDE - U2000,"New York, NY USA",2024-09-06,2024-09-08,1765,1716,2.5,4,0.75,40,30.0,"Stern, Eli",,1677.0,False,USA,1.0,1,0.45,40,18.0
+33479160,2024-10-01,0,2024 September Marshall Premier FIDE - U2000,"New York, NY USA",2024-09-06,2024-09-08,1765,1716,2.5,4,0.75,40,30.0,"Gerson, Elijah",,1761.0,False,USA,0.5,1,0.06,40,2.4
+33479160,2024-10-01,0,2024 September Marshall Premier FIDE - U2000,"New York, NY USA",2024-09-06,2024-09-08,1765,1716,2.5,4,0.75,40,30.0,"De Villa, Jose",,1684.0,False,USA,1.0,1,0.46,40,18.4
+33479160,2024-11-01,0,2024 October Marshall Premier FIDE - U2000,"New York, NY USA",2024-10-04,2024-10-06,1653,1746,1.5,3,-0.37,40,-14.8,"Tsydypov, Kirill",,1555.0,False,RUS,1.0,1,0.25,40,10.0
+33479160,2024-11-01,0,2024 October Marshall Premier FIDE - U2000,"New York, NY USA",2024-10-04,2024-10-06,1653,1746,1.5,3,-0.37,40,-14.8,"Chua, Cyril",,1682.0,False,SGP,0.5,1,-0.09,40,-3.6
+33479160,2024-11-01,0,2024 October Marshall Premier FIDE - U2000,"New York, NY USA",2024-10-04,2024-10-06,1653,1746,1.5,3,-0.37,40,-14.8,"Kojuharov, Liam L",,1722.0,False,USA,0.0,1,-0.53,40,-21.2
+33479160,2024-11-01,0,28th Annual Eastern Chess Congress - U2100,"Princeton, NJ USA",2024-10-25,2024-10-27,1875,1746,2.5,5,0.87,40,34.8,"Mays, Shelly",,1903.0,False,USA,0.5,1,0.21,40,8.4
+33479160,2024-11-01,0,28th Annual Eastern Chess Congress - U2100,"Princeton, NJ USA",2024-10-25,2024-10-27,1875,1746,2.5,5,0.87,40,34.8,"Zhang, David",,1804.0,False,USA,0.5,1,0.08,40,3.2
+33479160,2024-11-01,0,28th Annual Eastern Chess Congress - U2100,"Princeton, NJ USA",2024-10-25,2024-10-27,1875,1746,2.5,5,0.87,40,34.8,"Alkin, Ido",,1846.0,False,ISR,1.0,1,0.64,40,25.6
+33479160,2024-11-01,0,28th Annual Eastern Chess Congress - U2100,"Princeton, NJ USA",2024-10-25,2024-10-27,1875,1746,2.5,5,0.87,40,34.8,"Weingarten, Phineas Hugo",,1930.0,False,USA,0.5,1,0.24,40,9.6
+33479160,2024-11-01,0,28th Annual Eastern Chess Congress - U2100,"Princeton, NJ USA",2024-10-25,2024-10-27,1875,1746,2.5,5,0.87,40,34.8,"Li, Sophie",wc,1893.0,False,USA,0.0,1,-0.3,40,-12.0
+33479160,2024-12-01,0,2024 November Marshall Premier FIDE - U2000,"New York, NY USA",2024-11-01,2024-11-03,1773,1766,1.0,2,0.02,40,0.8,"Paruchuri, Naveen",,1825.0,False,USA,1.0,1,0.58,40,23.2
+33479160,2024-12-01,0,2024 November Marshall Premier FIDE - U2000,"New York, NY USA",2024-11-01,2024-11-03,1773,1766,1.0,2,0.02,40,0.8,"Dubey, Shiv",,1720.0,False,USA,0.0,1,-0.56,40,-22.4
+33479160,2025-01-01,0,55th Annual National Chess Congress - U2200,"Philadelphia, PA USA",2024-11-29,2024-12-01,1850,1766,2.0,5,0.05,40,2.0,"Cooke, Grayson",,1849.0,False,USA,0.0,1,-0.39,40,-15.6
+33479160,2025-01-01,0,55th Annual National Chess Congress - U2200,"Philadelphia, PA USA",2024-11-29,2024-12-01,1850,1766,2.0,5,0.05,40,2.0,"Xu, Zhihan Samuel",,1878.0,False,CAN,0.5,1,0.15,40,6.0
+33479160,2025-01-01,0,55th Annual National Chess Congress - U2200,"Philadelphia, PA USA",2024-11-29,2024-12-01,1850,1766,2.0,5,0.05,40,2.0,"Halpern, Daniel",,1843.0,False,USA,0.5,1,0.11,40,4.4
+33479160,2025-01-01,0,55th Annual National Chess Congress - U2200,"Philadelphia, PA USA",2024-11-29,2024-12-01,1850,1766,2.0,5,0.05,40,2.0,"Uddin, Mubassar",,1980.0,False,USA,0.5,1,0.27,40,10.8
+33479160,2025-01-01,0,55th Annual National Chess Congress - U2200,"Philadelphia, PA USA",2024-11-29,2024-12-01,1850,1766,2.0,5,0.05,40,2.0,"Karell, Leif",,1698.0,False,USA,0.5,1,-0.09,40,-3.6
+33479160,2025-01-01,0,49th Annual Eastern Open - U2200,"Arlington, VA USA",2024-12-26,2024-12-29,1855,1767,2.5,7,-0.18,40,-7.2,"Wilson, Matthew Spencer",,1967.0,False,USA,0.0,1,-0.24,40,-9.6
+33479160,2025-01-01,0,49th Annual Eastern Open - U2200,"Arlington, VA USA",2024-12-26,2024-12-29,1855,1767,2.5,7,-0.18,40,-7.2,"Borse, Tanvi",,1654.0,False,USA,1.0,1,0.35,40,14.0
+33479160,2025-01-01,0,49th Annual Eastern Open - U2200,"Arlington, VA USA",2024-12-26,2024-12-29,1855,1767,2.5,7,-0.18,40,-7.2,"Shetty, Darsh",,1855.0,False,USA,0.5,1,0.12,40,4.8
+33479160,2025-01-01,0,49th Annual Eastern Open - U2200,"Arlington, VA USA",2024-12-26,2024-12-29,1855,1767,2.5,7,-0.18,40,-7.2,"Meredith, Matthew Derek",,1920.0,False,USA,0.0,1,-0.3,40,-12.0
+33479160,2025-01-01,0,49th Annual Eastern Open - U2200,"Arlington, VA USA",2024-12-26,2024-12-29,1855,1767,2.5,7,-0.18,40,-7.2,"Thompson, Zachary",,1819.0,False,USA,1.0,1,0.57,40,22.8
+33479160,2025-01-01,0,49th Annual Eastern Open - U2200,"Arlington, VA USA",2024-12-26,2024-12-29,1855,1767,2.5,7,-0.18,40,-7.2,"Yu, Yang",,1860.0,False,USA,0.0,1,-0.37,40,-14.8
+33479160,2025-01-01,0,49th Annual Eastern Open - U2200,"Arlington, VA USA",2024-12-26,2024-12-29,1855,1767,2.5,7,-0.18,40,-7.2,"Dommalapati, Aasa",wf,1908.0,False,USA,0.0,1,-0.31,40,-12.4
+33479160,2025-02-01,0,2025 January Marshall Premier FIDE - U2000,"New York, NY USA",2025-01-03,2025-01-05,1734,1762,4.0,5,1.31,40,52.4,"Weldon, Christopher",,1756.0,False,USA,1.0,1,0.49,40,19.6
+33479160,2025-02-01,0,2025 January Marshall Premier FIDE - U2000,"New York, NY USA",2025-01-03,2025-01-05,1734,1762,4.0,5,1.31,40,52.4,"Kariuki, Paul",,1675.0,False,USA,0.5,1,-0.12,40,-4.8
+33479160,2025-02-01,0,2025 January Marshall Premier FIDE - U2000,"New York, NY USA",2025-01-03,2025-01-05,1734,1762,4.0,5,1.31,40,52.4,"Yang, Leah",,1651.0,False,USA,1.0,1,0.35,40,14.0
+33479160,2025-02-01,0,2025 January Marshall Premier FIDE - U2000,"New York, NY USA",2025-01-03,2025-01-05,1734,1762,4.0,5,1.31,40,52.4,"De Villa, Jose",,1739.0,False,USA,1.0,1,0.47,40,18.8
+33479160,2025-02-01,0,2025 January Marshall Premier FIDE - U2000,"New York, NY USA",2025-01-03,2025-01-05,1734,1762,4.0,5,1.31,40,52.4,"Solomon, Ciprian",,1849.0,False,USA,0.5,1,0.12,40,4.8

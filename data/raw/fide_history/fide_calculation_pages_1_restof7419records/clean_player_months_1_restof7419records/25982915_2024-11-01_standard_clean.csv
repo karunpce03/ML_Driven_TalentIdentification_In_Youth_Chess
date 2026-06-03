@@ -1,0 +1,7 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+25982915,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1669,1832,4.5,6,0.27,40,10.8,"Mohak, Das",,1542.0,False,IND,1.0,1,0.16,40,6.4
+25982915,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1669,1832,4.5,6,0.27,40,10.8,"Swapnabha, Neogi",,1673.0,False,IND,0.5,1,-0.21,40,-8.4
+25982915,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1669,1832,4.5,6,0.27,40,10.8,"Samrat, Sutar",,1647.0,False,IND,0.5,1,-0.24,40,-9.6
+25982915,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1669,1832,4.5,6,0.27,40,10.8,"Aniket, Das",,1633.0,False,IND,1.0,1,0.24,40,9.6
+25982915,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1669,1832,4.5,6,0.27,40,10.8,"Srijan, Chatterjee",,1596.0,False,IND,1.0,1,0.2,40,8.0
+25982915,2024-11-01,0,WB State U-15 Open Chess Championship-2024,Jalpaiguri IND,2024-10-24,2024-10-27,1669,1832,4.5,6,0.27,40,10.8,"Soham, Roy",,1922.0,False,IND,0.5,1,0.12,40,4.8

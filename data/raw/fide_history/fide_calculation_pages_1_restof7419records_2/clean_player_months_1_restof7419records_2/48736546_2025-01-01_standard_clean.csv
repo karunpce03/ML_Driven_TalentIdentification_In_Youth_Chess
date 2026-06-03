@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48736546,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1525,1576,1.5,4,-0.78,40,-31.2,"Aryan, Kumar",,1442.0,False,IND,0.5,1,-0.18,40,-7.2
+48736546,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1525,1576,1.5,4,-0.78,40,-31.2,"Arth, Bhardwaj",,1451.0,False,IND,0.5,1,-0.17,40,-6.8
+48736546,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1525,1576,1.5,4,-0.78,40,-31.2,"Singh, Murari Prasad",,1761.0,False,IND,0.5,1,0.24,40,9.6
+48736546,2025-01-01,0,"1st Diamant Cup, All India FIDE Rating Chess Tournament",Patna IND,2024-12-16,2024-12-20,1525,1576,1.5,4,-0.78,40,-31.2,"Paswan, Ramesh",,1447.0,False,IND,0.0,1,-0.67,40,-26.8

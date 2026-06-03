@@ -1,0 +1,6 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33389470,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1656,1458,0.5,5,-0.73,40,-29.2,"Abhinav, V",,1650.0,False,IND,0.5,1,0.25,40,10.0
+33389470,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1656,1458,0.5,5,-0.73,40,-29.2,"Vivaan, Sachdev",,1717.0,False,IND,0.0,1,-0.18,40,-7.2
+33389470,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1656,1458,0.5,5,-0.73,40,-29.2,"Jitendra, Kashyap L",,1661.0,False,IND,0.0,1,-0.24,40,-9.6
+33389470,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1656,1458,0.5,5,-0.73,40,-29.2,"Nivaan, Raghavendra",,1575.0,False,IND,0.0,1,-0.34,40,-13.6
+33389470,2024-06-01,0,Karnataka State Chess Championship-2024,Bengaluru IND,2024-05-01,2024-05-05,1656,1458,0.5,5,-0.73,40,-29.2,"Disha, U A",,1676.0,False,IND,0.0,1,-0.22,40,-8.8

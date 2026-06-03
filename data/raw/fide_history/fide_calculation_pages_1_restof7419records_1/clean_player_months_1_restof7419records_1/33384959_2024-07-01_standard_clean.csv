@@ -1,0 +1,12 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33384959,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1842,1846,4.0,11,-1.78,40,-71.2,"Rakshitta, Ravi",wm,2246,True,IND,0.0,1,-0.08,40,-3.2
+33384959,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1842,1846,4.0,11,-1.78,40,-71.2,"Asudani, Ruhani Raj",,1645,False,IND,0.5,1,-0.26,40,-10.4
+33384959,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1842,1846,4.0,11,-1.78,40,-71.2,"Kriti, Mayur Patel",wc,1691,False,IND,0.5,1,-0.21,40,-8.4
+33384959,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1842,1846,4.0,11,-1.78,40,-71.2,"Mishra, Riya",,1654,False,IND,1.0,1,0.25,40,10.0
+33384959,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1842,1846,4.0,11,-1.78,40,-71.2,"Advika, Sarupria",,1632,False,IND,0.5,1,-0.27,40,-10.8
+33384959,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1842,1846,4.0,11,-1.78,40,-71.2,"Kanishka, S",,1882,False,IND,0.5,1,0.05,40,2.0
+33384959,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1842,1846,4.0,11,-1.78,40,-71.2,"Kurmangaliyeva, Liya",f,2246,True,KAZ,0.0,1,-0.08,40,-3.2
+33384959,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1842,1846,4.0,11,-1.78,40,-71.2,"Zarkym, Ailin",,1721,False,KAZ,1.0,1,0.33,40,13.2
+33384959,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1842,1846,4.0,11,-1.78,40,-71.2,"Rzali, Sabina",wc,2073,False,AZE,0.0,1,-0.21,40,-8.4
+33384959,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1842,1846,4.0,11,-1.78,40,-71.2,"Jain, Ashita",,1744,False,IND,0.0,1,-0.64,40,-25.6
+33384959,2024-07-01,0,FIDE World Junior Girls Chess Championship 2024,Gandhinagar IND,2024-06-02,2024-06-13,1842,1846,4.0,11,-1.78,40,-71.2,"Arya, G Mallar",,1725,False,IND,0.0,1,-0.66,40,-26.4

@@ -1,0 +1,11 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33484627,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,,,2.0,7,0.0,1368,,"Akshay, Patra",,1656,False,IND,0.0,1,0.0,,0.0
+33484627,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,,,2.0,7,0.0,1368,,"Ujjwal, Raj Srivasatav",,1490,False,IND,0.0,1,0.0,,0.0
+33484627,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,,,2.0,7,0.0,1368,,"Mohd, Idris",,1501,False,IND,1.0,1,0.0,,0.0
+33484627,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,,,2.0,7,0.0,1368,,"Dilip, Ranjan Chakraborty",,1589,False,IND,0.0,1,0.0,,0.0
+33484627,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,,,2.0,7,0.0,1368,,"Abhiwadan, Bhaduka",,1455,False,IND,0.0,1,0.0,,0.0
+33484627,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,,,2.0,7,0.0,1368,,"Yashashree, Chakraborty",,1513,False,IND,1.0,1,0.0,,0.0
+33484627,2024-10-01,0,1st Udaipur International Open FIDE rating Chess Tournament-2024,Udaipur IND,2024-09-12,2024-09-16,,,2.0,7,0.0,1368,,"Arin, Amogh Bhatavadekar",,1475,False,IND,0.0,1,0.0,,0.0
+33484627,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1723.0,1462.0,0.0,3,-0.58,40,-23.2,"Joshi, Govind Ballabh",,1862,True,IND,0.0,1,-0.08,40.0,-3.2
+33484627,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1723.0,1462.0,0.0,3,-0.58,40,-23.2,"Pragadesh, P",,1662,False,IND,0.0,1,-0.24,40.0,-9.6
+33484627,2024-11-01,0,1st Kingdom of Chess International Open FIDE Rated Chess Tournament 2024,Udaipur IND,2024-10-23,2024-10-27,1723.0,1462.0,0.0,3,-0.58,40,-23.2,"Adhrit, Chatterjee",,1646,False,IND,0.0,1,-0.26,40.0,-10.4

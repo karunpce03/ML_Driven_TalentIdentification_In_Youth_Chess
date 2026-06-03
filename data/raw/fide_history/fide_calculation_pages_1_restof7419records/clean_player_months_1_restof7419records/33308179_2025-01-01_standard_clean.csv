@@ -1,0 +1,21 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33308179,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1833,1781,4.0,9,0.05,35,1.75,"Rajveer, Patil",,1640.0,False,IND,1.0,1,0.31,35,10.85
+33308179,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1833,1781,4.0,9,0.05,35,1.75,"Niladri, Banerjee",,1962.0,False,IND,0.0,1,-0.26,35,-9.1
+33308179,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1833,1781,4.0,9,0.05,35,1.75,"Rishaan, Jain",,1704.0,False,IND,0.0,1,-0.61,35,-21.35
+33308179,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1833,1781,4.0,9,0.05,35,1.75,"Anvita, Sathi",,1556.0,False,IND,1.0,1,0.22,35,7.7
+33308179,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1833,1781,4.0,9,0.05,35,1.75,"Induwara, T H D Thisarindu",,1999.0,False,SRI,0.0,1,-0.22,35,-7.7
+33308179,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1833,1781,4.0,9,0.05,35,1.75,"Nguyen, Thanh Thuy Tien",wm,2124.0,False,VIE,0.0,1,-0.12,35,-4.2
+33308179,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1833,1781,4.0,9,0.05,35,1.75,"Jena, Suhana",,1646.0,False,IND,1.0,1,0.32,35,11.2
+33308179,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1833,1781,4.0,9,0.05,35,1.75,"Panigrahi, Manoj Kumar",,1956.0,False,IND,1.0,1,0.73,35,25.55
+33308179,2025-01-01,0,15th KIIT International Chess Festival (Category A Open),Bhubaneswar IND,2024-12-02,2024-12-09,1833,1781,4.0,9,0.05,35,1.75,"Adhiraj, Mitra",,1913.0,False,IND,0.0,1,-0.32,35,-11.2
+33308179,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1680,1781,6.5,11,-0.46,35,-16.1,"Sridipto, Bhattacharya",,1501.0,False,IND,1.0,1,0.16,35,5.6
+33308179,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1680,1781,6.5,11,-0.46,35,-16.1,"Khushal, Bagri",,1625.0,False,IND,1.0,1,0.29,35,10.15
+33308179,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1680,1781,6.5,11,-0.46,35,-16.1,"Aarav, Saish Amonkar",,1910.0,False,IND,0.0,1,-0.33,35,-11.55
+33308179,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1680,1781,6.5,11,-0.46,35,-16.1,"Aarav, Kumar",,1621.0,False,IND,0.5,1,-0.21,35,-7.35
+33308179,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1680,1781,6.5,11,-0.46,35,-16.1,"Vivaan, Bhattacharya",,1636.0,False,IND,1.0,1,0.31,35,10.85
+33308179,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1680,1781,6.5,11,-0.46,35,-16.1,"Mehul, Sondhi",,1923.0,False,IND,0.0,1,-0.31,35,-10.85
+33308179,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1680,1781,6.5,11,-0.46,35,-16.1,"Saras, Summer Powar",,1663.0,False,IND,0.5,1,-0.16,35,-5.6
+33308179,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1680,1781,6.5,11,-0.46,35,-16.1,"Naitik, Jain",,1656.0,False,IND,0.0,1,-0.67,35,-23.45
+33308179,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1680,1781,6.5,11,-0.46,35,-16.1,"Shreesuday, Behera",,1619.0,False,IND,1.0,1,0.29,35,10.15
+33308179,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1680,1781,6.5,11,-0.46,35,-16.1,"Adipto, Nath",,1659.0,False,IND,1.0,1,0.33,35,11.55
+33308179,2025-01-01,0,37th National U-13 Open Chess Championship 2024,Durgapur IND,2024-12-15,2024-12-23,1680,1781,6.5,11,-0.46,35,-16.1,"Sharvin, Puneet Badave",,1663.0,False,IND,0.5,1,-0.16,35,-5.6

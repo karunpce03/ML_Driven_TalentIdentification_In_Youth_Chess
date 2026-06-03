@@ -1,0 +1,5 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+48724203,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1471,1591,1.0,4,-1.65,40,-66.0,"Riaan, Sen Gupta",,1428.0,False,IND,0.0,1,-0.72,40,-28.8
+48724203,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1471,1591,1.0,4,-1.65,40,-66.0,"Parnava, Kuila",,1460.0,False,IND,1.0,1,0.32,40,12.8
+48724203,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1471,1591,1.0,4,-1.65,40,-66.0,"Arnab, Nandy",,1545.0,False,IND,0.0,1,-0.56,40,-22.4
+48724203,2024-10-01,0,West Bengal State U-11 Open FIDE Rated Chess Championship 2024,Kolkata IND,2024-09-06,2024-09-09,1471,1591,1.0,4,-1.65,40,-66.0,"Maulesh, Konar",,1450.0,False,IND,0.0,1,-0.69,40,-27.6

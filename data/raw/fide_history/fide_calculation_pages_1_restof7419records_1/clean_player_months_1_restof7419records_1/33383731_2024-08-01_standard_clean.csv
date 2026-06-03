@@ -1,0 +1,9 @@
+fide_id,period,rating_type,tournament_name,event_location_fed,event_start_date,event_end_date,event_rc,event_ro,event_score,event_games,event_chg,event_k,event_k_chg,opponent_name,opponent_title,opponent_rating,rating_difference_over_400_flag,opponent_fed,score,n,chg,k,k_chg
+33383731,2024-08-01,0,2024 Canadian Open Open Section,"Laval, Quebec CAN",2024-07-13,2024-07-18,1882,1602,2.5,8,1.15,40,46.0,"Turcotte, Jonathan",,1956.0,False,CAN,0.0,1,-0.11,40,-4.4
+33383731,2024-08-01,0,2024 Canadian Open Open Section,"Laval, Quebec CAN",2024-07-13,2024-07-18,1882,1602,2.5,8,1.15,40,46.0,"Crete, Mathys",,1870.0,False,CAN,1.0,1,0.83,40,33.2
+33383731,2024-08-01,0,2024 Canadian Open Open Section,"Laval, Quebec CAN",2024-07-13,2024-07-18,1882,1602,2.5,8,1.15,40,46.0,"Nassar, Marc",,1936.0,False,LBN,0.0,1,-0.12,40,-4.8
+33383731,2024-08-01,0,2024 Canadian Open Open Section,"Laval, Quebec CAN",2024-07-13,2024-07-18,1882,1602,2.5,8,1.15,40,46.0,"Nassif, Aba",,1881.0,False,USA,0.5,1,0.34,40,13.6
+33383731,2024-08-01,0,2024 Canadian Open Open Section,"Laval, Quebec CAN",2024-07-13,2024-07-18,1882,1602,2.5,8,1.15,40,46.0,"Maulucci, Anthony",,1855.0,False,CAN,0.0,1,-0.19,40,-7.6
+33383731,2024-08-01,0,2024 Canadian Open Open Section,"Laval, Quebec CAN",2024-07-13,2024-07-18,1882,1602,2.5,8,1.15,40,46.0,"Zhang, Michelle",wc,1847.0,False,CAN,0.0,1,-0.2,40,-8.0
+33383731,2024-08-01,0,2024 Canadian Open Open Section,"Laval, Quebec CAN",2024-07-13,2024-07-18,1882,1602,2.5,8,1.15,40,46.0,"Ramesan, Raunak Amit",,1772.0,False,CAN,1.0,1,0.72,40,28.8
+33383731,2024-08-01,0,2024 Canadian Open Open Section,"Laval, Quebec CAN",2024-07-13,2024-07-18,1882,1602,2.5,8,1.15,40,46.0,"Chipanga, Takaedza",,1940.0,False,ZIM,0.0,1,-0.12,40,-4.8
