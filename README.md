@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # ML-Driven Talent Identification in Youth Chess
 
 This repository contains the data, notebooks, outputs, and reports for the QM640 Data Analytics Capstone project: **ML-Driven Talent Identification in Youth Chess**.
@@ -42,7 +41,7 @@ reports/              Interim and final report PDFs
 docs/                 Supporting documentation
 scripts/              Reusable Python scripts, if applicable
 
-
+```
 
 ---
 ## Data Sources
