@@ -58,12 +58,7 @@ Chess-Results and the All India Chess Federation website were retained only for 
 
 ---
 
-## Final Reproducible Analysis
-
-The final report results are reproduced from:
-
-notebooks/04_final_modelling/09_Modelling_and_Hypothesis_Testing_FROZEN_SAMPLE_1000.ipynb
-
+---
 
 ## Main Workflow
 
@@ -81,7 +76,9 @@ The project workflow follows these stages:
 10. Train milestone classification models for 1800 and 2000 crossing.
 11. Create and classify developmental trajectory labels.
 12. Export report-ready tables and figures.
+---
 
+---
 
 ## Key Notebooks
 
@@ -93,6 +90,14 @@ The project workflow follows these stages:
 | `08_eda_and_report_figures.ipynb`                                        | Performs EDA and creates report figures                                 |
 | `09_Modelling_and_Hypothesis_Testing_FROZEN_SAMPLE_1000.ipynb`           | Final modelling and hypothesis-testing notebook                         |
 
+#### Final Reproducible Analysis
+
+The final report results are reproduced from:
+
+notebooks/04_final_modelling/09_Modelling_and_Hypothesis_Testing_FROZEN_SAMPLE_1000.ipynb
+---
+
+---
 
 ## Current Status
 
@@ -110,7 +115,9 @@ Completed components include:
 - Trajectory classification
 - Final report preparation
 - GitHub reproducibility documentation
+---
 
+---
 
 ## Technology Used
 
@@ -122,7 +129,9 @@ The project was developed using Python and Jupyter notebooks. Major libraries/pa
 - statsmodels for nested OLS regression and ANOVA hypothesis testing
 - matplotlib and seaborn for EDA visualisation
 
+---
 
+---
 
 ## Author
 
@@ -130,6 +139,7 @@ The project was developed using Python and Jupyter notebooks. Major libraries/pa
 QM640: Data Analytics Capstone  
 Walsh College  
 June 2026
+---
 
 
 
