@@ -48,10 +48,10 @@ scripts/              Reusable Python scripts, if applicable
 
 The project uses publicly available chess data from the following sources:
 
-1. **FIDE monthly Standard rating downloads**  
+**1. FIDE monthly Standard rating downloads**  
    Used for player rating history, federation, games played, K-factor, title, sex, and birth-year fields.
 
-2. **FIDE rating-calculation pages**  
+**2. FIDE rating-calculation pages**  
    Used for opponent-level enrichment, including opponent rating, score, tournament name, rating change, and K-adjusted rating change.
 
 Chess-Results and the All India Chess Federation website were retained only for context and verification, not as primary modelling inputs.
@@ -61,7 +61,6 @@ Chess-Results and the All India Chess Federation website were retained only for 
 
 The final report results are reproduced from:
 
-```text
 notebooks/04_final_modelling/09_Modelling_and_Hypothesis_Testing_FROZEN_SAMPLE_1000.ipynb
 
 
@@ -85,11 +84,11 @@ The project workflow follows these stages:
 
 | Notebook                                                                 | Purpose                                                                 |
 | ------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
-| `01_build_fide_monthly_history_and_player_pool.ipynb`          | Builds cleaned monthly FIDE Standard rating history and player pool     |
-| `03_create_remaining_player_pool_excluding_3000.ipynb`         | Creates remaining eligible pool after excluding already sampled players |
-| `04_extract_calculation_pages_sample_1000.ipynb`               | Extracts FIDE calculation-page data for the fixed 1,000-player sample   |
-| `08_eda_and_report_figures.ipynb`                              | Performs EDA and creates report figures                                 |
-| `09_Modelling_and_Hypothesis_Testing_FROZEN_SAMPLE_1000.ipynb` | Final modelling and hypothesis-testing notebook                         |
+| `01_build_fide_monthly_history_and_player_pool.ipynb`                    | Builds cleaned monthly FIDE Standard rating history and player pool     |
+| `03_create_remaining_player_pool_excluding_3000.ipynb`                   | Creates remaining eligible pool after excluding already sampled players |
+| `04_extract_calculation_pages_sample_1000.ipynb`                         | Extracts FIDE calculation-page data for the fixed 1,000-player sample   |
+| `08_eda_and_report_figures.ipynb`                                        | Performs EDA and creates report figures                                 |
+| `09_Modelling_and_Hypothesis_Testing_FROZEN_SAMPLE_1000.ipynb`           | Final modelling and hypothesis-testing notebook                         |
 
 
 ## Current Status
@@ -121,11 +120,6 @@ The project was developed using Python and Jupyter notebooks. Major libraries/pa
 - matplotlib and seaborn for EDA visualisation
 
 
-
-cat > README.md <<'EOF'
-# ML-Driven Talent Identification in Youth Chess
-
-...your full README content...
 
 ## Author
 
