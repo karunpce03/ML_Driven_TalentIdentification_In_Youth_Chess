@@ -18,6 +18,22 @@ This repository contains the data, code, figures, and reports for the QM640 Data
 
 Primary public data sources include FIDE monthly rating downloads and FIDE rating-calculation pages.
 
+
+The final report results are reproduced from:
+notebooks/04_final_modelling/09_Modelling_and_Hypothesis_Testing_FROZEN_SAMPLE_1000.ipynb
+
+This notebook uses the fixed 1,000-player modelling sample stored in:
+data/processed/final_frozen_sample_1000/
+
+The exploratory and intermediate notebooks are provided separately under:
+notebooks/00_legacy_original_notebooks/
+notebooks/01_data_preparation/
+notebooks/02_fide_calculation_extraction/
+notebooks/03_eda/
+
+The final modelling notebook should not be rerun with a newly sampled dataset unless the report tables are intentionally being regenerated.
+
 ## Current Status
 
-Interim report stage: data collection, cleaning, feature engineering, and exploratory data analysis completed. Modelling is planned for the final phase.
+Final report prepared
+

@@ -1,0 +1,4 @@
+Model,Accuracy,Macro_Precision,Macro_Recall,Macro_F1,Weighted_F1
+Gradient Boosting Classifier,0.76,0.703,0.667,0.674,0.744
+Random Forest Classifier,0.74,0.659,0.667,0.662,0.739
+Logistic Regression,0.655,0.571,0.587,0.571,0.661

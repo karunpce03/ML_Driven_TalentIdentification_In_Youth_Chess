@@ -1,0 +1,7 @@
+Model,MAE,RMSE,R2
+Random Forest,38.61,61.34,0.39
+Gradient Boosting,41.17,64.14,0.334
+Lasso Regression,47.36,64.65,0.323
+Elastic Net,47.27,64.68,0.322
+Ridge Regression,47.4,64.71,0.322
+Linear Regression,47.7,65.2,0.311
